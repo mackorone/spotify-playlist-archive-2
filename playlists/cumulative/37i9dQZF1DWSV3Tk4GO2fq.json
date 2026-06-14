@@ -3775,6 +3775,28 @@
     },
     {
       "album": {
+        "name": "Baby, Baby, Baby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4egh3Ez8Jg9VA19KiUuIh4"
+      },
+      "artists": [
+        {
+          "name": "Mindy Carson",
+          "url": "https://open.spotify.com/artist/59ALkceePwVbv7jX5PoYYj"
+        },
+        {
+          "name": "Glenn Osser & His Orchestra",
+          "url": "https://open.spotify.com/artist/6C1jg9FpjBccIUIN0SoFJg"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "My Foolish Heart (with Glenn Osser & His Orchestra) - Single Version",
+      "url": "https://open.spotify.com/track/4iYUM85fYzTkoPurkrLpU7"
+    },
+    {
+      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -5914,7 +5936,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 173158,
       "name": "Whole Lot Of Shakin' Going On - Single Version",
       "url": "https://open.spotify.com/track/3EdEML9OuJmadb6qHvLvID"

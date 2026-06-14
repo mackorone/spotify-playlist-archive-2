@@ -5324,10 +5324,32 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+    },
+    {
+      "album": {
+        "name": "Softly (feat. Popcaan) [Remix]",
+        "url": "https://open.spotify.com/album/5YzHV90YCaJSXyQi9I7n1X"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173968,
+      "name": "Softly (feat. Popcaan) - Remix",
+      "url": "https://open.spotify.com/track/2DPNzd02j1SwHnz7a6YiYx"
     },
     {
       "album": {

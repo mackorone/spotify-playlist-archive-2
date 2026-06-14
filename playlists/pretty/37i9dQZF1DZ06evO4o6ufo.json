@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 97722,
+  "num_followers": 97761,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAAZUBDRL6jhJHTPWohC6aYG",
+  "snapshot_id": "aitMAAAAAAA/K5nKGQ1/5ES21sBSGbwq",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La 701",
-        "url": "https://open.spotify.com/album/00lwONC16IRZSXe2CBNDFr"
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 180101,
-      "name": "La 701",
-      "url": "https://open.spotify.com/track/5o6QIe2OCatBibTsNCZNoq"
+      "duration_ms": 229568,
+      "name": "Te Ves Fatal",
+      "url": "https://open.spotify.com/track/2pxP1nxPA1brO6gtZg2OED"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
       "duration_ms": 151498,
       "name": "El 10 De Mayo",
       "url": "https://open.spotify.com/track/3byxpMlO1fibRSCunq8iXj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 229568,
-      "name": "Te Ves Fatal",
-      "url": "https://open.spotify.com/track/2pxP1nxPA1brO6gtZg2OED"
     },
     {
       "added_at": null,

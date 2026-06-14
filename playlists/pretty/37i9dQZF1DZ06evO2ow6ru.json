@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 178494,
+  "num_followers": 178514,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAABWd9wGwlIT/6f/PHxT3OiT",
+  "snapshot_id": "aitMAAAAAADsYntsxfBpSouFVHhbVOp0",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 194959,
-      "name": "Modern Love",
-      "url": "https://open.spotify.com/track/6MzsfRoYing0YOe9LhBVen"
+      "duration_ms": 199986,
+      "name": "Poppin' Champagne",
+      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 199986,
-      "name": "Poppin' Champagne",
-      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
+      "duration_ms": 194959,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/6MzsfRoYing0YOe9LhBVen"
     },
     {
       "added_at": null,
@@ -594,15 +594,11 @@
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
         }
       ],
-      "duration_ms": 193948,
-      "name": "Favorite Place (feat. The Band CAMINO)",
-      "url": "https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary"
+      "duration_ms": 223994,
+      "name": "Some Kind of Disaster",
+      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
     },
     {
       "added_at": null,
@@ -662,11 +658,15 @@
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
         }
       ],
-      "duration_ms": 223994,
-      "name": "Some Kind of Disaster",
-      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
+      "duration_ms": 193948,
+      "name": "Favorite Place (feat. The Band CAMINO)",
+      "url": "https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary"
     },
     {
       "added_at": null,

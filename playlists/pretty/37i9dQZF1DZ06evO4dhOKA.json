@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70099,
+  "num_followers": 70106,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACpe0MYX9e8AzGA9kRrz4no",
+  "snapshot_id": "aitMAAAAAAByHAzgwb4jXFJCPi8Ky1ww",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amo del Imperio",
-        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Si Llego a Viejo",
-      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+      "duration_ms": 201733,
+      "name": "El \u00c1rbol De La Horca",
+      "url": "https://open.spotify.com/track/2p811QLlje4MuDOqEUCBJs"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+        "name": "El Amo del Imperio",
+        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 201733,
-      "name": "El \u00c1rbol De La Horca",
-      "url": "https://open.spotify.com/track/2p811QLlje4MuDOqEUCBJs"
+      "duration_ms": 242013,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
     },
     {
       "added_at": null,
@@ -615,18 +615,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n Indeseable",
-        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
+        "name": "La Borrachera Perfecta El After (En Vivo)",
+        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
       "artists": [
         {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         }
       ],
-      "duration_ms": 183493,
-      "name": "Que Me Perdone Dios",
-      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
+      "duration_ms": 190976,
+      "name": "Pu\u00f1o De Tierra (En Vivo)",
+      "url": "https://open.spotify.com/track/6WqfubEFVfbpTDYFdADOTc"
     },
     {
       "added_at": null,
@@ -679,30 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta El After (En Vivo)",
-        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
+        "name": "Coraz\u00f3n Indeseable",
+        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
       },
       "artists": [
         {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         }
       ],
-      "duration_ms": 190976,
-      "name": "Pu\u00f1o De Tierra (En Vivo)",
-      "url": "https://open.spotify.com/track/6WqfubEFVfbpTDYFdADOTc"
+      "duration_ms": 183493,
+      "name": "Que Me Perdone Dios",
+      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
     },
     {
       "added_at": null,
@@ -883,30 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1os De Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2BXF9FpsGUA0wYQdnRWAap"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Leones del Norte",
-          "url": "https://open.spotify.com/artist/0yb8fDTLfuxX43ENXl3IUf"
-        },
-        {
-          "name": "Salomon Robles",
-          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Regalo Caro",
-      "url": "https://open.spotify.com/track/4n1DL6H5nOw8LV6QcDNoVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -931,18 +907,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/7eeKs1krgWIFY4ulzPQSdu"
+        "name": "Norte\u00f1os De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2BXF9FpsGUA0wYQdnRWAap"
       },
       "artists": [
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Leones del Norte",
+          "url": "https://open.spotify.com/artist/0yb8fDTLfuxX43ENXl3IUf"
+        },
+        {
+          "name": "Salomon Robles",
+          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
         }
       ],
-      "duration_ms": 175933,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0ku28ZE1suZxzY5tpBzUuG"
+      "duration_ms": 192053,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/4n1DL6H5nOw8LV6QcDNoVO"
     },
     {
       "added_at": null,
@@ -963,6 +947,22 @@
       "duration_ms": 134000,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/7eeKs1krgWIFY4ulzPQSdu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0ku28ZE1suZxzY5tpBzUuG"
     },
     {
       "added_at": null,

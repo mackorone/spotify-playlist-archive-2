@@ -1,12 +1,12 @@
 {
   "description": "This is Kate Bush. The essential tracks, all in one playlist.",
-  "num_followers": 208164,
+  "num_followers": 208173,
   "original_name": "This Is Kate Bush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAADruA3izvuXt1FM6IL+hu3V",
+  "snapshot_id": "aitMAAAAAADhLsw+scqr0sd4QJB9MU/f",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 509200,
-      "name": "Nocturn - 2018 Remaster",
-      "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
+      "duration_ms": 304306,
+      "name": "Somewhere In Between - 2018 Remaster",
+      "url": "https://open.spotify.com/track/49nRB16eio3crw2VprMRHG"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 304306,
-      "name": "Somewhere In Between - 2018 Remaster",
-      "url": "https://open.spotify.com/track/49nRB16eio3crw2VprMRHG"
+      "duration_ms": 509200,
+      "name": "Nocturn - 2018 Remaster",
+      "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
     },
     {
       "added_at": null,

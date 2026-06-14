@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,838 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,872 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 93 | [Walk To Work](https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters Inc Original Soundtrack](https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff) | 3:30 |
 | 94 | [Main Theme \(Stop And Go\)](https://open.spotify.com/track/2ETWzB2IXxkgJOTxeFibfA) | [Kenyon Hopkins](https://open.spotify.com/artist/368sIOipgrYvTNSKzAOxd9) | [The Hustler \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1X1wG8reln5sBRRwL5PGmA) | 1:52 |
 | 95 | [Green Tables Blues](https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Johnny Cool \(Original Movie Soundtrack\)](https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw) | 3:18 |
-| 96 | [Moonglow \- From ''Annie Hall''](https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Songs from Woody Allen' Films](https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ) | 3:27 |
-| 97 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
+| 96 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
+| 97 | [Moonglow \- From ''Annie Hall''](https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Songs from Woody Allen' Films](https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ) | 3:27 |
 | 98 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
 | 99 | [Tu Vuo' Fa L'Americano \- Vocal](https://open.spotify.com/track/7lqrA7RZdx9CtLfBtkGZoc) | [Fiorello](https://open.spotify.com/artist/4kb7YUXdndyC7yD81bJ08q), [Matt Damon](https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd), [Jude Law](https://open.spotify.com/artist/3hjt2ka5fpP8Gvw1BlPPSU) | [The Talented Mr\. Ripley \- Music from The Motion Picture](https://open.spotify.com/album/1lkKAxE1nzPGQmg379SdGu) | 3:01 |
 | 100 | [Unsquare Dance](https://open.spotify.com/track/3FYDiueg0uwQiN7JVtC9CE) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Baby Driver \(Music from the Motion Picture\)](https://open.spotify.com/album/1XaJOcLe3xMQ611SMHtOja) | 2:02 |

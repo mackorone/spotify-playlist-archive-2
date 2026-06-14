@@ -1583,6 +1583,28 @@
     },
     {
       "album": {
+        "name": "EVERLASTING",
+        "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139487,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
+    },
+    {
+      "album": {
         "name": "Fa Hooki Me",
         "url": "https://open.spotify.com/album/1gqTSytfkUbGMTTiXgRpOZ"
       },
@@ -4218,7 +4240,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 248000,
       "name": "Saa Okodie No",
       "url": "https://open.spotify.com/track/5Pq1K7dG9syG0sVrn2iZwT"

@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285631,
+  "num_followers": 285626,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 302746,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 240305,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 302746,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The Very Best Yet (The Very Best Yet Version)",
-        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
-      },
-      "artists": [
-        {
-          "name": "The Hillbilly Moonshiners Bluegrass Band",
-          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
-        }
-      ],
-      "duration_ms": 218091,
-      "name": "Can't Feel My Face - The Very Best Yet Version",
-      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "In the Summertime",
         "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 295528,
       "name": "In the Summertime",
       "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "The Very Best Yet (The Very Best Yet Version)",
+        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moonshiners Bluegrass Band",
+          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
+        }
+      ],
+      "duration_ms": 218091,
+      "name": "Can't Feel My Face - The Very Best Yet Version",
+      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Verry Garcia",
         "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 302720,
       "name": "Friend of the Devil",
       "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "In Tall Buildings",
+        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 263317,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "In Tall Buildings",
-        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 221913,
       "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
       "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Hits of Newgrass",
-        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Fistful Of Bullets",
         "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 271753,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Hits of Newgrass",
+        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
     },
     {
       "added_at": "2026-02-04 05:00:53",

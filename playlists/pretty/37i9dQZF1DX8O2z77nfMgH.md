@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Cultura Profética
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,630 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,524 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 46 | [Fue Culpa Suya](https://open.spotify.com/track/2azZ8vAVD4ingwc3titJbb) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [Fue Culpa Suya](https://open.spotify.com/album/0vyCtJsKjNwV9OQPCE4Aqj) | 2:51 |
 | 47 | [Musa](https://open.spotify.com/track/4YTzLCTJfTlzLfPcSShEEV) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [Musa](https://open.spotify.com/album/4bbqN8SBJTpyYOVgPrMUY7) | 2:19 |
 | 48 | [Nada Que Me Pagan](https://open.spotify.com/track/4pH4hyu6sNdcZBCllIbo1u) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nada Que Me Pagan](https://open.spotify.com/album/3iumjIgms5xHd1WtX9YbuS) | 4:18 |
-| 49 | [Ya No Quiero](https://open.spotify.com/track/0q0MAvSFnHs5RBJoYZfFXm) | [chelo hop](https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC), [Kuervo Negro](https://open.spotify.com/artist/0akKorQ1ve5dLYTYiyRuuz) | [Ya No Quiero](https://open.spotify.com/album/0LgZgGnRkNiudKlR6OYMwK) | 3:37 |
+| 49 | [Ya No Quiero](https://open.spotify.com/track/0q0MAvSFnHs5RBJoYZfFXm) | [chelo hop](https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC), [Kuervo Negro](https://open.spotify.com/artist/0akKorQ1ve5dLYTYiyRuuz), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Ya No Quiero](https://open.spotify.com/album/0LgZgGnRkNiudKlR6OYMwK) | 3:37 |
 | 50 | [Que Más Da](https://open.spotify.com/track/4ZbCCldSn4NWItJ9z85BnD) | [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Que Más Da](https://open.spotify.com/album/2iuQyqZ1dXThAMsBMrmSXK) | 2:55 |
 | 51 | [Fototeta](https://open.spotify.com/track/2ZpihxrDpWHnJCR8dmKeBZ) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Alexito Mix](https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4) | [Fototeta](https://open.spotify.com/album/0tnYy4At8hGlgTMZUbTGVB) | 2:10 |
 | 52 | [Ginger Shots](https://open.spotify.com/track/2jIc7fnJJym9vHvDxDIA3M) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [DJ Babu](https://open.spotify.com/artist/7LSCBbEAuCqQqE0MGszyKl) | [Ginger Shots](https://open.spotify.com/album/74uFn1HnCmmtC1c7kH0IfT) | 2:27 |

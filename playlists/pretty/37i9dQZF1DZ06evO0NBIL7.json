@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAATsVYPYAj6qIkz8gdJluNx",
+  "snapshot_id": "aitMAAAAAAA9d+XJFb9/v7cjMzAK+UcN",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Better To Forget",
-      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Champagne Problems",
         "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 288750,
       "name": "Champagne Problems",
       "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Better To Forget",
+      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
     },
     {
       "added_at": null,

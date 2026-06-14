@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Buju Banton",
-  "num_followers": 1101874,
+  "num_followers": 1101822,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-04-23 15:25:23",
       "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Cast The First Stone",
+      "url": "https://open.spotify.com/track/5uzTR4TOgukTnD5SScz1H7"
+    },
+    {
+      "added_at": "2026-04-23 15:25:23",
+      "album": {
         "name": "Diamonds and Gold",
         "url": "https://open.spotify.com/album/15muGQPID5opsEsRptvSDz"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 227495,
       "name": "Diamonds and Gold",
       "url": "https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ"
-    },
-    {
-      "added_at": "2026-04-23 15:25:23",
-      "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
-      },
-      "artists": [
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "Cast The First Stone",
-      "url": "https://open.spotify.com/track/5uzTR4TOgukTnD5SScz1H7"
     },
     {
       "added_at": "2026-04-23 15:25:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-04-23 15:25:23",
       "album": {
-        "name": "HunnyMoon Mountain",
-        "url": "https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 215474,
-      "name": "Take Her Love",
-      "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
-    },
-    {
-      "added_at": "2026-04-23 15:25:23",
-      "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 179861,
       "name": "Alert",
       "url": "https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2"
+    },
+    {
+      "added_at": "2026-04-23 15:25:23",
+      "album": {
+        "name": "HunnyMoon Mountain",
+        "url": "https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 215474,
+      "name": "Take Her Love",
+      "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
     },
     {
       "added_at": "2026-04-23 15:25:23",

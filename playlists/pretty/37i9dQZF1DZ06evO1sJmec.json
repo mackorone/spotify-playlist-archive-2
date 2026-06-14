@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2117119,
+  "num_followers": 2117219,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAADp+tmtKeg2VGxkdcjvR1wo",
+  "snapshot_id": "aitMAAAAAAA8722eNY2ZBZ0Ftv2PQnz1",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Disappear",
-        "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 266240,
-      "name": "I Disappear",
-      "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
+      "duration_ms": 146560,
+      "name": "Die, Die My Darling",
+      "url": "https://open.spotify.com/track/0t7LcUic4qolMCysPrKeAd"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garage Inc.",
-        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+        "name": "I Disappear",
+        "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 146560,
-      "name": "Die, Die My Darling",
-      "url": "https://open.spotify.com/track/0t7LcUic4qolMCysPrKeAd"
+      "duration_ms": 266240,
+      "name": "I Disappear",
+      "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
     },
     {
       "added_at": null,

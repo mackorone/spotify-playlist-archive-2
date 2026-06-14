@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > fazer uma grana, pegar um jet fds, anima?? // Kisha zO
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,215 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,224 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 41 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 |
 | 42 | [Man Down](https://open.spotify.com/track/1fXsBep9ifLIHlzKWuF7bA) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Man Down](https://open.spotify.com/album/4PDBM8CE55AbLWoISVuU5m) | 2:33 |
 | 43 | [Destino em Papéis](https://open.spotify.com/track/6901cgMx3F5s2J2HKFZf5T) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY) | [MEUS ERROS DE NOVO](https://open.spotify.com/album/3jm5RUaGwTaCjVQyRd6x7m) | 2:58 |
-| 44 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
+| 44 | [HATER](https://open.spotify.com/track/01FUn7iAIN8IRdMTPCP1aB) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [HATER](https://open.spotify.com/album/6RRUXGqtEZ3fktTPDbICyx) | 1:59 |
 | 45 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
-| 46 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
-| 47 | [Como que não fica milionária?](https://open.spotify.com/track/1L9xVHgIT2Ac8u90Rh6QlW) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Miranda On The Trk!](https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc), [Frost](https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD), [MIB](https://open.spotify.com/artist/4xosFqu0sMEWvyR5Ye567q) | [Como que não fica milionária?](https://open.spotify.com/album/57XV7XkmjrQkwWQRRfBCGD) | 2:23 |
-| 48 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
-| 49 | [HATER](https://open.spotify.com/track/01FUn7iAIN8IRdMTPCP1aB) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [HATER](https://open.spotify.com/album/6RRUXGqtEZ3fktTPDbICyx) | 1:59 |
+| 46 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
+| 47 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
+| 48 | [Como que não fica milionária?](https://open.spotify.com/track/1L9xVHgIT2Ac8u90Rh6QlW) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Miranda On The Trk!](https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc), [Frost](https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD), [MIB](https://open.spotify.com/artist/4xosFqu0sMEWvyR5Ye567q) | [Como que não fica milionária?](https://open.spotify.com/album/57XV7XkmjrQkwWQRRfBCGD) | 2:23 |
+| 49 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 | 50 | [TÃOQUENTE](https://open.spotify.com/track/23Z1lShTFinifegJBwhOaz) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TÃOQUENTE \- No Meu Club](https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC) | 1:49 |
 
 Snapshot ID: `AAAAAO8FDP3PSNk+ypSneGkFM/t7f62y`

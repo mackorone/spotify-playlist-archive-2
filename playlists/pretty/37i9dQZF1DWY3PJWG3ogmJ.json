@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 720191,
+  "num_followers": 720240,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Tethra",
+        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
+      },
+      "artists": [
+        {
+          "name": "Tethra",
+          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
+        }
+      ],
+      "duration_ms": 289236,
+      "name": "Masochistic Healing",
+      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
         "url": "https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 194307,
       "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
       "url": "https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Tethra",
-        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
-      },
-      "artists": [
-        {
-          "name": "Tethra",
-          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
-        }
-      ],
-      "duration_ms": 289236,
-      "name": "Masochistic Healing",
-      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
     },
     {
       "added_at": "2023-01-18 15:54:17",

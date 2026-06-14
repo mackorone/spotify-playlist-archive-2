@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34645,
+  "num_followers": 34644,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -391,30 +391,6 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/02mckV0mIpWEvOwYduaG4V"
-      },
-      "artists": [
-        {
-          "name": "Gemini",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/5IzjE4F631lSstz8Co5U4O"
-    },
-    {
-      "added_at": "2026-04-17 03:26:41",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 267330,
       "name": "ROSE (feat. Skinny Brown, Homeboy)",
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
+    },
+    {
+      "added_at": "2026-04-17 03:26:41",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/02mckV0mIpWEvOwYduaG4V"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/5IzjE4F631lSstz8Co5U4O"
     },
     {
       "added_at": "2026-04-17 03:26:41",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "duration_ms": 185729,
+      "name": "Pick up your phone (Feat. MOON)",
+      "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
+    },
+    {
+      "added_at": "2026-04-17 03:26:41",
+      "album": {
         "name": "SET",
         "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
       },
@@ -1035,30 +1059,6 @@
       "duration_ms": 164026,
       "name": "ERYKAH BADU (Feat. CAMO)",
       "url": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
-    },
-    {
-      "added_at": "2026-04-17 03:26:41",
-      "album": {
-        "name": "ROOM SERVICE",
-        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 185729,
-      "name": "Pick up your phone (Feat. MOON)",
-      "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
     },
     {
       "added_at": "2026-04-17 03:26:41",

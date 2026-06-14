@@ -4,7 +4,7 @@
 
 > Ny fredag, ny musik fra Rasmus Seebach & SØN, Tessa, Noah Carter og mange flere 👀
 
-10,898 songs - 23 day 13 hr 49 min
+10,899 songs - 23 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9483,6 +9483,7 @@
 | [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 | 2026-04-02 | 2026-04-10 |
 | [The Morning After](https://open.spotify.com/track/34BQsr0YrWVQWYq3aPWHJz) | [SUNDAYS](https://open.spotify.com/artist/7MjONNGSFluldBu4xa0gYy) | [Giant Formula](https://open.spotify.com/album/4i3CTKFUVgEQ8q3GMuuaEL) | 4:15 | 2024-05-09 | 2024-05-17 |
 | [The Morning Sun](https://open.spotify.com/track/5j3c3iXhV0JVI6wz6iJXI8) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0) | [The Morning Sun](https://open.spotify.com/album/2tSKHQyNzJS8TCb0jZpq6h) | 2:34 | 2024-06-20 | 2024-06-28 |
+| [The Most Beautiful Lovesong](https://open.spotify.com/track/02SzelvEOwaq1YD1UtqjQh) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp), [Toussaint Chiza](https://open.spotify.com/artist/1wc53bAOil4C5PxhoT08dA) | [The Most Beautiful Lovesong](https://open.spotify.com/album/5ASHu5CVD0O9p5zYK7apBs) | 4:03 | 2026-06-11 |  |
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-11-14 | 2024-11-22 |
 | [The Night Of ´84](https://open.spotify.com/track/4RLzFlj6BYmAyk3jJmn3YH) | [Neon Capital](https://open.spotify.com/artist/7oat0qyfHf6VP8SnMwSN0J) | [The Night Of ´84](https://open.spotify.com/album/1nbSw466tjE69JZoU75KAr) | 3:25 | 2026-01-09 | 2026-01-16 |
 | [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 | 2025-10-02 | 2025-10-10 |

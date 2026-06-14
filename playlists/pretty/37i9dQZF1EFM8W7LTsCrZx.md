@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 11 | [Theorie und Praxis](https://open.spotify.com/track/3PTdT1lrROgSRZzHknt8x6) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 2:35 |
 | 12 | [GANGSIGNS](https://open.spotify.com/track/56RnsXj3ZH5VAElAo9H1ot) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [GANGSIGNS](https://open.spotify.com/album/1nOnATUcB6S7E6AHqQzFH8) | 1:48 |
 | 13 | [Nostalgie](https://open.spotify.com/track/6AUuQdsDyBzF65zw4cjG5M) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Lonlee](https://open.spotify.com/album/5arNpuwGmkczhRMerGHaWb) | 2:50 |
-| 14 | [Warum immer Ich](https://open.spotify.com/track/7xHsXJT7x3RW94zamTR1Kb) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Warum immer Ich](https://open.spotify.com/album/4iSIgn73eRebx4H55o3phD) | 2:48 |
-| 15 | [Loser ABC](https://open.spotify.com/track/6lc1ISzO4g21uq6FVDpVYv) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 3:41 |
+| 14 | [Loser ABC](https://open.spotify.com/track/6lc1ISzO4g21uq6FVDpVYv) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 3:41 |
+| 15 | [Warum immer Ich](https://open.spotify.com/track/7xHsXJT7x3RW94zamTR1Kb) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Warum immer Ich](https://open.spotify.com/album/4iSIgn73eRebx4H55o3phD) | 2:48 |
 | 16 | [Kreidebleich](https://open.spotify.com/track/096hSRX6pHenZislIOv3Sw) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Kreidebleich](https://open.spotify.com/album/1cUhMTJPQUygoGA1NcrPp8) | 2:46 |
 | 17 | [GHETTO GOSPEL](https://open.spotify.com/track/5nMDsxrWNZsJ61qdTzm7OG) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:44 |
 | 18 | [Bengel](https://open.spotify.com/track/70wml0Pve5Fi4WZryomVWs) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 99 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
 | 100 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcUDkAAAAABJG/MsZAVfAVcsBjUwxs67`
+Snapshot ID: `AcUJJgAAAAAwDpLII5SAU9XOWO/zqDs2`

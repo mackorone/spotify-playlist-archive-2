@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: SHAKALABBITS
 
-901 songs - 1 day 23 hr 32 min
+902 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,7 +875,7 @@
 | [白煙](https://open.spotify.com/track/0yGq8ZsyE3cYBYQC9R1P0g) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:49 | 2022-05-17 | 2022-07-28 |
 | [百合の咲く場所で](https://open.spotify.com/track/5fU5rBiYS7ICg3BtojUCIn) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:16 | 2023-02-21 | 2023-02-23 |
 | [目が覚めてon the road](https://open.spotify.com/track/1gphTBLh9vXTXNPsq67MJY) | [ザ・リラクシンズ](https://open.spotify.com/artist/2TUQcoBWcdL0ID73Hxqn2H) | [目が覚めてon the road](https://open.spotify.com/album/1CowD0JcqhSUh9NyKkmUj8) | 3:42 | 2022-05-12 | 2022-07-19 |
-| [直撃世代](https://open.spotify.com/track/5uR2LOyzEnStkF7atF0tbO) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [直撃世代](https://open.spotify.com/album/2MTBGIKD9tNkEhBwmD5y1s) | 2:39 | 2026-05-26 |  |
+| [直撃世代](https://open.spotify.com/track/5uR2LOyzEnStkF7atF0tbO) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [直撃世代](https://open.spotify.com/album/2MTBGIKD9tNkEhBwmD5y1s) | 2:39 | 2026-05-26 | 2026-06-14 |
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-05-12 |  |
 | [神社](https://open.spotify.com/track/4Z4tIMYd11bo5x16w2WjXf) | [かずき山盛り](https://open.spotify.com/artist/3wzWXrDWCw5xTrINkYkhTH) | [神社](https://open.spotify.com/album/1F35k5gQ4OjwJWDKqScdIQ) | 3:22 | 2022-12-27 | 2022-12-29 |
 | [禁断症状](https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:16 | 2024-06-11 |  |
@@ -896,6 +896,7 @@
 | [親切](https://open.spotify.com/track/2RnXVeReXWimlSHYS2jb6n) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [親切](https://open.spotify.com/album/5ORTHZhl6yeS8Wa6GCBi02) | 2:30 | 2025-01-28 | 2025-10-15 |
 | [証](https://open.spotify.com/track/2NqEXbLw9l78MsFCuxhlHJ) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [証](https://open.spotify.com/album/5ytodu6cQWyhNzotNTWuzo) | 3:46 | 2022-05-24 | 2022-07-29 |
 | [賽を振る](https://open.spotify.com/track/51Kx7vgqkbr68b4yAIBW1t) | [Rudo](https://open.spotify.com/artist/5Q58P9YrOKt4SoUyV9w7Jc) | [賽を振る](https://open.spotify.com/album/3p6DYCR7z0hk6OFqprYmMn) | 4:53 | 2022-05-12 | 2022-07-29 |
+| [超常現象を信んじてみる。](https://open.spotify.com/track/2OHFPkN0QscT2R6EL6tDm1) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [VS Tairiku Ondo](https://open.spotify.com/album/7rwrDS4LF3SZ0ikQ5e6oXv) | 3:31 | 2026-06-09 |  |
 | [金字塔](https://open.spotify.com/track/6gwZxxAWFOgXdXd1il0mns) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [金字塔](https://open.spotify.com/album/6e3SxV1fDU1FAjy8ShIqQ8) | 3:14 | 2026-03-31 | 2026-04-16 |
 | [金色グラフティー](https://open.spotify.com/track/4sHj1jEbYuKGy6zM2LKXOI) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/album/09O9X6o3DJfUCgB2PEP4ZB) | 4:17 | 2022-07-21 | 2023-12-22 |
 | [金色グラフティー](https://open.spotify.com/track/3Qs3O0rc4R0hl7WkTuMJ6U) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Walk](https://open.spotify.com/album/2ZPTCQBG8YLgf83T8W3Bfh) | 4:18 | 2022-05-12 |  |

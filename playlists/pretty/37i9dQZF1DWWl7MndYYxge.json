@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 807095,
+  "num_followers": 807184,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Who Can It Be Now?",
-      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Hello, I Must Be Going! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 175746,
       "name": "You Can't Hurry Love - 2016 Remaster",
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Who Can It Be Now?",
+      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
+        "name": "On the Beach",
+        "url": "https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m"
       },
       "artists": [
         {
-          "name": "Jean Schultheis",
-          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 286533,
-      "name": "Confidence pour confidence - Version originale 1981",
-      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
+      "duration_ms": 302426,
+      "name": "On the Beach",
+      "url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "On the Beach",
-        "url": "https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m"
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Jean Schultheis",
+          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
         }
       ],
-      "duration_ms": 302426,
-      "name": "On the Beach",
-      "url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx"
+      "duration_ms": 286533,
+      "name": "Confidence pour confidence - Version originale 1981",
+      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
     },
     {
       "added_at": "2026-03-19 15:24:01",

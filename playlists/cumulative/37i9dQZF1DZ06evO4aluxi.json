@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 309973,
       "name": "Somewhere Down The Road",
       "url": "https://open.spotify.com/track/63VewBt9Bbb4QntRb7mZ9S"
@@ -1716,6 +1716,32 @@
       "duration_ms": 226133,
       "name": "The Next Time I Fall (with Amy Grant)",
       "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
+    },
+    {
+      "album": {
+        "name": "Writing to Remember",
+        "url": "https://open.spotify.com/album/2cuTAm3kPspoDocaYW39BP"
+      },
+      "artists": [
+        {
+          "name": "Matt Brouwer",
+          "url": "https://open.spotify.com/artist/7b5fhoHgMWMtu8L1fda8tW"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231679,
+      "name": "The Other Side (feat. Amy Grant & Vince Gill)",
+      "url": "https://open.spotify.com/track/5A9vHWnC0NXzqQvTBWTbOG"
     },
     {
       "album": {

@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "Corriente / Un D\u00eda A La Vez (Medley)",
+        "url": "https://open.spotify.com/album/4HGdkSc64Tg2l1T061A3iR"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231742,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley)",
+      "url": "https://open.spotify.com/track/7eReRSzohm05KEZ1RFBGV5"
+    },
+    {
+      "album": {
         "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
         "url": "https://open.spotify.com/album/5nIs2o9PzMZlf6uJX8nEmY"
       },
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 395757,
       "name": "Esa Es La Raz\u00f3n - Live",
       "url": "https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq"

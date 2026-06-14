@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring the healing power of horses
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,411 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,405 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 3 | [Dior](https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [bitknot](https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ) | 3:32 |
 | 4 | [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 |
 | 5 | [Discipline](https://open.spotify.com/track/33drHvI5UpTajBygxMb3xH) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Discipline](https://open.spotify.com/album/3tWsIe9y0QTLHI4DhyVopB) | 3:52 |
-| 6 | [CRADLE](https://open.spotify.com/track/2iqAQjtPMOzPa2wND9UiNO) | [Sweets](https://open.spotify.com/artist/55Fw9imZATr8gM4uzL12T3), [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [CRADLE](https://open.spotify.com/album/7z1H5ZAJ97xEk0wosAB7pI) | 2:57 |
+| 6 | [CRADLE](https://open.spotify.com/track/2iqAQjtPMOzPa2wND9UiNO) | [Sweets](https://open.spotify.com/artist/55Fw9imZATr8gM4uzL12T3), [Pollyfromthedirt](https://open.spotify.com/artist/5QJdzOu2rw6wC3hvT56h7J) | [CRADLE](https://open.spotify.com/album/7z1H5ZAJ97xEk0wosAB7pI) | 2:57 |
 | 7 | [Mouse](https://open.spotify.com/track/54qjFrJ9cTjPzaGjCanyWS) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Mouse](https://open.spotify.com/album/5wEIxcoAinFbBzlOoFSbvG) | 4:57 |
 | 8 | [円相 ｜Enso](https://open.spotify.com/track/38POEFYokzqLItJQpaBZx5) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/5YSZ50mLBYO7yUTPUesWno) | 3:11 |
 | 9 | [47](https://open.spotify.com/track/3FAfq6Yqy5b04vRo19PIke) | [ashnymph](https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o) | [Childhood](https://open.spotify.com/album/72YRWuIhjRNUOtXD7eAzGj) | 3:51 |

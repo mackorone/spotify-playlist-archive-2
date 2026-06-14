@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las música en México en compañía de iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,486 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,490 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 15 | [Chiquilla](https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Amor x Dosis \(Deluxe\)](https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n) | 3:05 |
 | 16 | [BRAZIL](https://open.spotify.com/track/52jGzQHfgGrr6Y9hVaGM6R) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Jrkv](https://open.spotify.com/artist/6gtPHrlXI20tdloiCVrsMn), [NEOBUCHONISMO](https://open.spotify.com/artist/6uwNBej1hJMyCg8q8EqdwI), [LP Ent](https://open.spotify.com/artist/7d9CZuwUGhwVmGgUBAMwPm) | [BRAZIL](https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq) | 2:04 |
 | 17 | [la estrella que quería brillar](https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 2:58 |
-| 18 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
-| 19 | [ME VEIA BIEN](https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS) | [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [ME VEIA BIEN](https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4) | 2:28 |
+| 18 | [ME VEIA BIEN](https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS) | [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [ME VEIA BIEN](https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4) | 2:28 |
+| 19 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
 | 20 | [Obvio No](https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Obvio No](https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z) | 3:16 |
 | 21 | [PVT0 VACIO](https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY) | [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K), [Leo Ramirez](https://open.spotify.com/artist/2VBtNPMjKTi9BH4Mg2MmJi) | [PVT0 VACIO](https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br) | 3:51 |
 | 22 | [se subio alatorre](https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy) | [se subio alatorre](https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt) | 2:13 |

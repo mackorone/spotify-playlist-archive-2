@@ -4,7 +4,7 @@
 
 > 
 
-1,033 songs - 2 day 17 hr 10 min
+1,038 songs - 2 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [MEDUSA](https://open.spotify.com/track/53IvagnK6ubuDnM2nyrPqP) | [DREAD](https://open.spotify.com/artist/0HhenGHJBN4wGC0RTOSMWg) | [MEDUSA](https://open.spotify.com/album/0hkt9HeROpuBeAyGpojnAi) | 3:10 | 2025-08-21 |  |
 | [Mejor Mañana](https://open.spotify.com/track/28oJ9Q4ToebmWPhiQV6eJw) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [Mejor Mañana](https://open.spotify.com/album/622frO5PRfwFXxgWtpKfVc) | 2:39 | 2025-03-18 |  |
 | [melancholy sh!t](https://open.spotify.com/track/5efrgICDdjBCzZ6Xx0jhHB) | [luciihii](https://open.spotify.com/artist/6Ac5DSfa3qhKYf9oZuj46h) | [melancholy sh!t](https://open.spotify.com/album/2qAb1MOTb0DjGmja1Ikz52) | 2:26 | 2025-03-18 |  |
+| [Mend](https://open.spotify.com/track/041405dXJvK89ymfLPwd3M) | [Great Escapes](https://open.spotify.com/artist/5U9BpGbYvHLcS6ED35PGeG) | [Mend](https://open.spotify.com/album/6jaynVsSOfbjLstKOCqxP9) | 2:42 | 2026-06-13 |  |
 | [Mentawai](https://open.spotify.com/track/5BGKYf1DPjLLzeNNyZCtNt) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Messed Up](https://open.spotify.com/album/47irEOvWe6aeYqCORfxZWE) | 2:28 | 2026-04-26 |  |
 | [Metal Gamer](https://open.spotify.com/track/2yNHWHaXQlIk77Z1PMyk0d) | [Digiplayer.13 and Zona](https://open.spotify.com/artist/5yNXuBNfqszU9yoDp4KeWw), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU) | [Metal Gamer](https://open.spotify.com/album/0ma7NgftceGWMN4zaKrTtS) | 3:44 | 2025-08-21 |  |
 | [Metal ME 2 \(HD\)](https://open.spotify.com/track/67eUCGlZqeGvk5j8wcb7qJ) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Metal ME 2 \(HD\)](https://open.spotify.com/album/02QlFOXir0SEvhhZ2CsbUH) | 2:15 | 2025-11-27 |  |
@@ -553,6 +554,7 @@
 | [New Colossus](https://open.spotify.com/track/191VvgehKZt8qnxar6nId7) | [Erik Severinson](https://open.spotify.com/artist/5kSe7kEW9KZh77IGZXOXfX) | [New Colossus](https://open.spotify.com/album/3CG8Z5BTwrxNKPWDidh9Kc) | 3:23 | 2024-12-12 |  |
 | [New Friend Market](https://open.spotify.com/track/5B7pXZL3D83c3ToyN8Omr2) | [Normal Suits](https://open.spotify.com/artist/49XKnotESVA5WZkzeyEo4e) | [New Friend Market](https://open.spotify.com/album/1yzwSW91Mpbne8mTwrHmKD) | 3:03 | 2024-12-12 |  |
 | [New Orleans Revival](https://open.spotify.com/track/3hOBIOV8xeho2YBbXWqlis) | [Mixed Kid Fridays](https://open.spotify.com/artist/5ku6UOCp8HV4j4qBUp3hZm) | [New Orleans Revival](https://open.spotify.com/album/4QdDbpsr3iNJVEMLlVHF4m) | 3:50 | 2025-02-07 |  |
+| [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 | 2026-06-13 |  |
 | [New World Disorder](https://open.spotify.com/track/6wVSfiqid6s1ylZ7jqHTAR) | [Intruder X](https://open.spotify.com/artist/2E8VDadqw9XWUxyggxNUch), [Within Shadows](https://open.spotify.com/artist/0h6y5s8dNwgfvGFrAXzD13) | [New World Disorder](https://open.spotify.com/album/5VQCZ6Isa1vU2713QOiZiZ) | 3:26 | 2026-06-06 |  |
 | [News of the World](https://open.spotify.com/track/6NQwRzOdGRoqMyxDOgKbhG) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [News of the World](https://open.spotify.com/album/7i8KJljrvYlwARYWKKKKH1) | 2:31 | 2025-03-18 |  |
 | [Nieżal](https://open.spotify.com/track/0RpjWRB8Xk1ONCXIiUMkYp) | [Noce](https://open.spotify.com/artist/4gU7fs6TaVyus1G97RZsbz) | [Nieżal](https://open.spotify.com/album/4PZVm4cCpbqwv20ZNJJ1gO) | 6:01 | 2025-07-22 |  |
@@ -639,6 +641,7 @@
 | [Permission to Share](https://open.spotify.com/track/2enSMsqNJHquTOqqVrfc8d) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Permission to Share](https://open.spotify.com/album/1tIUy85SwGzWMe3kc5RTVZ) | 3:26 | 2025-08-21 |  |
 | [Perspectives](https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:19 | 2026-03-27 |  |
 | [Peste Bianca](https://open.spotify.com/track/1YAIgtzDQoLtoJuvUVdbDV) | [Varego](https://open.spotify.com/artist/3QMKSumENf5jmrMkLo15zy) | [Peste Bianca](https://open.spotify.com/album/06UlSvxNI2yllFnRWijkPC) | 4:51 | 2025-02-07 |  |
+| [Phantom Pain](https://open.spotify.com/track/4NxNryJCCTgM1qH1yperrc) | [FUFZ](https://open.spotify.com/artist/6KNFJrJCNntGvNIJO64G41) | [Phantom Pain](https://open.spotify.com/album/2LlwJ8hXUQjgjNpeJ2ZgDb) | 4:12 | 2026-06-13 |  |
 | [Phoenix](https://open.spotify.com/track/6L2ruJKIRq0OfmH37zW3to) | [Th Macrini](https://open.spotify.com/artist/4kNlOEwSyR8MGyxOiN4UGq) | [Phoenix](https://open.spotify.com/album/2W7OCef1y0cJYq7ceBEcEs) | 3:03 | 2025-05-06 |  |
 | [Phrenetic](https://open.spotify.com/track/4bIxuRlGvNrJEtCTRgMAN7) | [Echo Viridian](https://open.spotify.com/artist/6K7KHtjsy0JMDbeWULw0pF), [d\_scent](https://open.spotify.com/artist/6dOYplTs22r4F7GlanxEMn) | [Phrenetic](https://open.spotify.com/album/62x9cGGqSoKBv3Nvs5w8r2) | 6:23 | 2025-04-24 |  |
 | [Piece Of The Pie](https://open.spotify.com/track/01SzDzVKiUZzwgsxkgxCqp) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Piece Of The Pie](https://open.spotify.com/album/458bpgTUEVcU1q51PS6h6R) | 3:41 | 2025-07-02 |  |
@@ -747,6 +750,7 @@
 | [Siempre Pasa](https://open.spotify.com/track/7o9lVD7olqHzUEeINuenJW) | [MENENDEZ](https://open.spotify.com/artist/4ufs2hcQ5G3tGnLiCsrXxz) | [Siempre Pasa](https://open.spotify.com/album/44a2KZsjFSfQUEYSHfXcCU) | 3:23 | 2026-05-09 |  |
 | [Sign Language](https://open.spotify.com/track/5yyqPxOBTO1thUhQOuwCtg) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Utopia](https://open.spotify.com/album/0KeGc1yVXJ5qIqahtkkHEw) | 6:29 | 2026-05-24 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-12-30 |  |
+| [Silencio y olvido](https://open.spotify.com/track/6xB10LnSD1naKlIXwCA0lP) | [Jade](https://open.spotify.com/artist/6qkC5xhGUZiY9zO0OjA8P7), [Yo](https://open.spotify.com/artist/3G82GSSIUk54XY7m19io4x) | [De lirios y delirios](https://open.spotify.com/album/5MMuHHvCg1pNmwlYdw1k2K) | 5:27 | 2026-06-13 |  |
 | [Silent code](https://open.spotify.com/track/6aYkXZKiZtZdzKogJ5ghFn) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 5:03 | 2026-02-19 |  |
 | [Silky's Dead \- Radio Edit](https://open.spotify.com/track/3YIY4deVORwX2ES539Kq6F) | [The Fabulous Pontoona Brothers](https://open.spotify.com/artist/0eMkoDB73OREvEFLBvkHxR) | [Silky's Dead](https://open.spotify.com/album/7B7vkxdgAIa25JU4wnPHJP) | 4:00 | 2025-08-21 |  |
 | [Silver Desire](https://open.spotify.com/track/3fGyyU14b7XUZWMevHvlAg) | [Luneria](https://open.spotify.com/artist/13UwVEjE6Ch5KT3HE2BNVR) | [Masquerade Eternelle](https://open.spotify.com/album/3WoKQYaprjqJ2h1HvbVH63) | 3:47 | 2025-09-30 |  |
@@ -821,6 +825,7 @@
 | [Sunshine](https://open.spotify.com/track/4LvxUGM0wBXq6gkD0CALK4) | [Priddice Brothers Band](https://open.spotify.com/artist/2K8S5b9EBD9mv0MzCi6uV1) | [Sunshine](https://open.spotify.com/album/4nXa4z9Np9N9f6hzjOzxSe) | 3:30 | 2026-02-19 |  |
 | [Surprise, Surprise](https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Surprise, Surprise](https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk) | 3:04 | 2026-04-29 |  |
 | [Sweet Dreams](https://open.spotify.com/track/0CHH5T7yvnr8kxdzeXvL03) | [Modern Joey](https://open.spotify.com/artist/51j096tm8y3ZReV3HrqZvw) | [Hello Sunbeam](https://open.spotify.com/album/2xudE36Ak285NDqaTc1RDx) | 5:22 | 2025-09-19 |  |
+| [Sweet Nothings](https://open.spotify.com/track/5meGXDPEwVvoZ5CDY4dnRZ) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Sweet Nothings](https://open.spotify.com/album/27VrebPBcPe2si5mYezIHp) | 2:45 | 2026-06-13 |  |
 | [Sweet Surrender](https://open.spotify.com/track/61dRyPibapZpYHfM0JETuw) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Sweet Surrender](https://open.spotify.com/album/1SFs1d4aOSLoEHyv72RFIY) | 3:46 | 2026-05-09 |  |
 | [Sympathy Symphony](https://open.spotify.com/track/3Nzkk8D4IliwOwW7w7C6X1) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Corporation P.O.P](https://open.spotify.com/album/435pXp0hwIVwJFoJy6xePr) | 4:11 | 2025-07-02 |  |
 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 | 2024-11-12 |  |

@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 392058,
+  "num_followers": 392065,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 278280,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
+    },
+    {
+      "added_at": "2026-03-20 16:45:24",
+      "album": {
         "name": "How It's Done",
         "url": "https://open.spotify.com/album/64ubOftES7s24r5sMpraAb"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 174374,
       "name": "How It's Done",
       "url": "https://open.spotify.com/track/5IXGxvewBsrfHtfym01YfL"
-    },
-    {
-      "added_at": "2026-03-20 16:45:24",
-      "album": {
-        "name": "Rebels",
-        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 278280,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
     },
     {
       "added_at": "2026-03-20 16:45:24",

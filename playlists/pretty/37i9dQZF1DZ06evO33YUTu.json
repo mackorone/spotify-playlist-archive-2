@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 133543,
+  "num_followers": 133559,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAADMq6h1xyG4OVZCHzKrva0C",
+  "snapshot_id": "aitMAAAAAAC6IB77jbDhtQpxZxKrUzgJ",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 183044,
+      "name": "D\u00f3nde, C\u00f3mo y Cu\u00e1ndo?",
+      "url": "https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -387,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 183044,
-      "name": "D\u00f3nde, C\u00f3mo y Cu\u00e1ndo?",
-      "url": "https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 176040,
       "name": "Los Consejos",
       "url": "https://open.spotify.com/track/54KqP2AoCRcEMTfooOI5nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 142021,
+      "name": "Cur\u00e1ndote",
+      "url": "https://open.spotify.com/track/2b72ehUzYqeiJG23wpt2Fx"
     },
     {
       "added_at": null,
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 142021,
-      "name": "Cur\u00e1ndote",
-      "url": "https://open.spotify.com/track/2b72ehUzYqeiJG23wpt2Fx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -495,6 +495,26 @@
       "duration_ms": 242413,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "duration_ms": 220709,
+      "name": "No Era M\u00edo",
+      "url": "https://open.spotify.com/track/78KCR6G6TGRfU0U2fxAwN7"
     },
     {
       "added_at": null,
@@ -531,26 +551,6 @@
       "duration_ms": 176666,
       "name": "KAI",
       "url": "https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "LA GURU",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
-        }
-      ],
-      "duration_ms": 220709,
-      "name": "No Era M\u00edo",
-      "url": "https://open.spotify.com/track/78KCR6G6TGRfU0U2fxAwN7"
     },
     {
       "added_at": null,

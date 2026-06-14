@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Shoday, 6uff, Bloody Civilian and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,438 likes - 57 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,562 likes - 57 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 24 | [A Thing I Like](https://open.spotify.com/track/6ZDbOXXPFVyCMjd5cfnUOU) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [PBee](https://open.spotify.com/artist/2ltl5IUN4CbKKt58lWycXT) | [A Thing I Like](https://open.spotify.com/album/4eIYf9ATBQ7NeAuyNUU2Qy) | 2:34 |
 | 25 | [Champion \(feat\. Ronaldinho Gaúcho & Tu Musica\)](https://open.spotify.com/track/6jXEcOaoKY3fofq7P1rtCc) | [Golden](https://open.spotify.com/artist/7h68rZ3f0OuuPdAYpejW3d), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Champion \(feat\. Ronaldinho Gaúcho & Tu Musica\)](https://open.spotify.com/album/2WSgLz7JWbOApkctPaXOHW) | 2:53 |
 | 26 | [My Luv](https://open.spotify.com/track/35czuOzJsLpewFuH4ASuFG) | [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [My Luv](https://open.spotify.com/album/35IwA8Uh2CP2TfM1siNeIe) | 2:44 |
-| 27 | [till the wheels fall off](https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [till the wheels fall off](https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm) | 2:49 |
+| 27 | [Till The Wheels Fall Off](https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Till The Wheels Fall Off](https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm) | 2:49 |
 | 28 | [READY](https://open.spotify.com/track/4AZqPbtTnSgFNzm9EsSpPp) | [Fantana](https://open.spotify.com/artist/2y9TO2D5JBOaIT9qL3dtwS), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [READY](https://open.spotify.com/album/4KtaVx3cUvBvDWJXEMsHtS) | 3:43 |
 | 29 | [ISLAND GIRLS](https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [OUT OF SIGHT \- OUT OF MIND: VOLUME 1](https://open.spotify.com/album/3SI2TRyo5q8NwyfIZEy6ZP) | 2:52 |
 | 30 | [How Long](https://open.spotify.com/track/3KC6uixbjSFG0rD5IKN00N) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Milanto](https://open.spotify.com/artist/3fDuAZOlYRu3wQMrdjV30P) | [Affairs Of The State](https://open.spotify.com/album/3rI94g1JeUg8QdhuzbrqHq) | 2:46 |

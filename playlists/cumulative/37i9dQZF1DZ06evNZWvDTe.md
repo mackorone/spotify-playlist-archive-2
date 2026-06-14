@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-244 songs - 14 hr 30 min
+245 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Edwom Te S3n](https://open.spotify.com/track/55gLrEzwxy9dNfospB2qQ1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 3:35 | 2022-02-28 | 2022-08-24 |
 | [Efya\-Am In Luv With U\(prod\. By Killbeatz\) \(feat\. Efya\)](https://open.spotify.com/track/0pE5QY5MzbQZ4LxrBBnOny) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 5:45 | 2021-12-31 | 2022-10-13 |
 | [Elijah \(feat\. Obrafour\)](https://open.spotify.com/track/5A5TegAvaWSqOgC7GJUS0u) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 5:16 | 2022-09-02 | 2022-09-04 |
+| [EVERLASTING](https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [EVERLASTING](https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q) | 2:19 | 2026-06-14 |  |
 | [Fa Hooki Me](https://open.spotify.com/track/5E79kYZQN4Ea2HTJ4fLsQv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Fa Hooki Me](https://open.spotify.com/album/1gqTSytfkUbGMTTiXgRpOZ) | 3:06 | 2021-12-28 | 2022-10-13 |
 | [Fallacy](https://open.spotify.com/track/4Fqh26b1r31ome2J0U9Tri) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Big Time](https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG) | 3:31 | 2023-03-12 | 2023-08-12 |
 | [Far Away](https://open.spotify.com/track/3JGpJctFgQjVqernRw7YAP) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Koredo Bello](https://open.spotify.com/artist/7oF3zto0IUEEL5Jsczcmvd), [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 4:36 | 2022-01-11 | 2022-10-13 |
@@ -195,7 +196,7 @@
 | [Rollies and Cigars](https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:27 | 2025-10-02 |  |
 | [Rollies and Cigars](https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:27 | 2021-12-28 | 2025-09-17 |
 | [Round 2 \(feat\. Giggs\)](https://open.spotify.com/track/3DvvlGRUru088PLXlzlcEG) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:56 | 2022-01-01 | 2022-03-23 |
-| [Saa Okodie No](https://open.spotify.com/track/5Pq1K7dG9syG0sVrn2iZwT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8) | 4:08 | 2025-11-25 |  |
+| [Saa Okodie No](https://open.spotify.com/track/5Pq1K7dG9syG0sVrn2iZwT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8) | 4:08 | 2025-11-25 | 2026-06-14 |
 | [Saa Okodie No \(feat\. Obrafour\)](https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:08 | 2022-02-09 | 2025-11-25 |
 | [Saara](https://open.spotify.com/track/3386NCYBvMZAxIagIBIIRv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Saara](https://open.spotify.com/album/7LoPpiCoplyvf4dcVY91u9) | 3:19 | 2021-12-28 | 2022-04-18 |
 | [Saara \(feat\. Efya\)](https://open.spotify.com/track/2wYrE76u5DQVyL4lteNe6a) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:19 | 2022-04-17 | 2023-11-11 |

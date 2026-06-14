@@ -979,6 +979,32 @@
     },
     {
       "album": {
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/0Emp3q0R4m0SM6ePTgJq8h"
+      },
+      "artists": [
+        {
+          "name": "Hans Leo Hassler",
+          "url": "https://open.spotify.com/artist/1MY3DApYz8LBPtlHbFF8YG"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140346,
+      "name": "Dixit Maria ad angelum",
+      "url": "https://open.spotify.com/track/2jCUE5ObaaFt4RTcGxP9cd"
+    },
+    {
+      "album": {
         "name": "Sing, Ye Heavens: Hymns for All Time",
         "url": "https://open.spotify.com/album/5LZT0vxWLH6zwJ9uKczXuI"
       },
@@ -2144,6 +2170,32 @@
     {
       "album": {
         "name": "A Song in Season",
+        "url": "https://open.spotify.com/album/2www65MyOiLzVpUdqM7RNK"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247706,
+      "name": "Look to the Day",
+      "url": "https://open.spotify.com/track/0fN8Hz4KcdNyMTinBsYIcM"
+    },
+    {
+      "album": {
+        "name": "A Song in Season",
         "url": "https://open.spotify.com/album/0aydezzWQnmk2A4FGZOhdU"
       },
       "artists": [
@@ -2188,7 +2240,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 120480,
       "name": "Lord, For Thy Tender Mercy's Sake",
       "url": "https://open.spotify.com/track/0OLNOvIThH5VrBqZjLKw7q"
@@ -2612,7 +2664,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 333960,
       "name": "Rutter Gloria: III. Vivace e ritmico",
       "url": "https://open.spotify.com/track/2nDmIrp1kF6oRSXMZrJ3zJ"

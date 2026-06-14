@@ -14311,6 +14311,24 @@
     },
     {
       "album": {
+        "name": "Baby It's Ok",
+        "url": "https://open.spotify.com/album/41Am8AHJNaKvibkc0VjhTO"
+      },
+      "artists": [
+        {
+          "name": "Julia Sandstorm",
+          "url": "https://open.spotify.com/artist/1TI4FT4B9A2viw05OLhMpm"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286581,
+      "name": "Baby It's Ok",
+      "url": "https://open.spotify.com/track/0QeeLXQcpdj55gTu1X6JqR"
+    },
+    {
+      "album": {
         "name": "Baby Leave With Me",
         "url": "https://open.spotify.com/album/5mlaFJ0SLdNCdnmlNnTZcZ"
       },
@@ -29126,7 +29144,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 208173,
       "name": "By and By",
       "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
@@ -58906,7 +58924,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 169705,
       "name": "EXORCISM",
       "url": "https://open.spotify.com/track/1gbOV9gay6B2Aqqqgm3qWQ"
@@ -74870,7 +74888,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 357000,
       "name": "Going about my day",
       "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
@@ -77036,7 +77054,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 154001,
       "name": "Green Light (feat. Brazy & Maleigh Zan)",
       "url": "https://open.spotify.com/track/0qdXgKaog8kQxgF573XIcJ"
@@ -96182,7 +96200,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -119994,7 +120012,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 115863,
       "name": "ma na\u2019isni",
       "url": "https://open.spotify.com/track/264pRJzxYHJdTvuuvgNlfB"
@@ -137124,7 +137142,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 138803,
       "name": "Not That Bitch",
       "url": "https://open.spotify.com/track/0CymDJg0OssX4hWpHrfuB4"
@@ -144365,7 +144383,7 @@
     },
     {
       "album": {
-        "name": "Over again",
+        "name": "Over Again",
         "url": "https://open.spotify.com/album/6KPkzK2684tAy9Lgw0vTmX"
       },
       "artists": [
@@ -144376,9 +144394,9 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 184202,
-      "name": "Over again",
+      "name": "Over Again",
       "url": "https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe"
     },
     {
@@ -155828,7 +155846,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 171562,
       "name": "resting, chilling, smoking",
       "url": "https://open.spotify.com/track/6yeuD4BJ46diseP6IPjSKS"
@@ -164872,7 +164890,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 232423,
       "name": "Shampoo",
       "url": "https://open.spotify.com/track/54GdSy7x7QkCn4XEISU3Ik"
@@ -165334,7 +165352,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 165692,
       "name": "She's Like Me",
       "url": "https://open.spotify.com/track/4wJeuAI2Ed632BdC4rBN1t"

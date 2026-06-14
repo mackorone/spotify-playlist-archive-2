@@ -4,7 +4,7 @@
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-101 songs - 8 hr 44 min
+102 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Identidade](https://open.spotify.com/track/0TCO41XDSOqMDC5Q1g7rDe) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Anderson Freire e Amigos](https://open.spotify.com/album/3MhRDO1ySLk4zInakHyvw9) | 4:26 | 2025-07-11 |  |
 | [Identidade](https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb) | 4:27 | 2023-07-09 | 2025-07-11 |
 | [Jamais Deixarei Você](https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Karla Falando de Amor](https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28) | 4:51 | 2023-07-09 |  |
-| [Jerusalém e Eu](https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Jerusalém e Eu](https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK) | 5:13 | 2026-05-07 |  |
+| [Jerusalém e Eu](https://open.spotify.com/track/3F21le2cG4FwJFS0UVBBvM) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Jerusalém e Eu](https://open.spotify.com/album/4lpegfZbd6uJKDqA0FOThC) | 5:13 | 2026-06-14 |  |
+| [Jerusalém e Eu](https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Jerusalém e Eu](https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK) | 5:13 | 2026-05-07 | 2026-06-14 |
 | [Leva\-me Ao Lugar \- Ao Vivo](https://open.spotify.com/track/6GDzuWdVeOV8BaJ0iuWv4n) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Leva\-me Ao Lugar \(Ao Vivo\)](https://open.spotify.com/album/5oIiQFj1BsB0U8iA5F0yNd) | 5:32 | 2026-03-01 | 2026-04-15 |
 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 | 2023-07-09 | 2025-09-20 |
 | [Lindo Coral](https://open.spotify.com/track/6wo5KFryLIFOpCHXVQM74w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:51 | 2025-03-10 | 2025-03-15 |

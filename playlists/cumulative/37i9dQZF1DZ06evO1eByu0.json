@@ -2132,10 +2132,28 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 239815,
       "name": "Sonda-me, Usa-me",
       "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
+    },
+    {
+      "album": {
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397850,
+      "name": "Sonda-me, Usa-me",
+      "url": "https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ"
     },
     {
       "album": {

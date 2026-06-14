@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 20629,
+  "num_followers": 20647,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
         "name": "Puul",
         "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
       },
@@ -215,38 +199,18 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "ODO PA",
-        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 156000,
-      "name": "ODO PA",
-      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161639,
-      "name": "Soma Obi",
-      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -271,6 +235,42 @@
       "duration_ms": 168663,
       "name": "Wish I Had a Girlfriend",
       "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161639,
+      "name": "Soma Obi",
+      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
+        "name": "ODO PA",
+        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "ODO PA",
+      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
+        "name": "Find A Way",
+        "url": "https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd"
       },
@@ -527,22 +543,22 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "ASANA",
-        "url": "https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK"
+        "name": "EVERLASTING",
+        "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
       },
       "artists": [
         {
-          "name": "Mr Blayy",
-          "url": "https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Fahim Dumba",
-          "url": "https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 89620,
-      "name": "ASANA",
-      "url": "https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5"
+      "duration_ms": 139487,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -583,18 +599,22 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "LOVE AND CHAOS",
-        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
+        "name": "ASANA",
+        "url": "https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Mr Blayy",
+          "url": "https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ"
+        },
+        {
+          "name": "Fahim Dumba",
+          "url": "https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
+      "duration_ms": 89620,
+      "name": "ASANA",
+      "url": "https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -615,6 +635,22 @@
       "duration_ms": 210373,
       "name": "BACKKA",
       "url": "https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
+        "name": "LOVE AND CHAOS",
+        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -699,22 +735,6 @@
       "duration_ms": 226809,
       "name": "TSOOBI (AKONOBA)",
       "url": "https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
-        "name": "Find A Way",
-        "url": "https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Find A Way",
-      "url": "https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -847,6 +867,26 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
+        "name": "Sexy Highlife",
+        "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        }
+      ],
+      "duration_ms": 127969,
+      "name": "Akosua Broni",
+      "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
         "name": "Ruwa",
         "url": "https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA"
       },
@@ -879,22 +919,6 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "Sneaky",
-        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
-      },
-      "artists": [
-        {
-          "name": "Mr Drew",
-          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        }
-      ],
-      "duration_ms": 166312,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G"
       },
@@ -911,6 +935,22 @@
       "duration_ms": 182783,
       "name": "Odo",
       "url": "https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
+        "name": "Sneaky",
+        "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "duration_ms": 166312,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -943,6 +983,22 @@
       "duration_ms": 193472,
       "name": "NLF (Breakfast)",
       "url": "https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
+        "name": "Keep It Sexy",
+        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 159819,
+      "name": "Keep It Sexy",
+      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -983,22 +1039,6 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "Keep It Sexy",
-        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 159819,
-      "name": "Keep It Sexy",
-      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
         "name": "Blue Film",
         "url": "https://open.spotify.com/album/0SpJUwHu44aSHL1f8xXDAE"
       },
@@ -1031,22 +1071,6 @@
     {
       "added_at": "2026-06-12 00:01:52",
       "album": {
-        "name": "4Life",
-        "url": "https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "4Life",
-      "url": "https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
         "name": "Yahooboy",
         "url": "https://open.spotify.com/album/0dQp68Zmy4Sis0nGVh5mPG"
       },
@@ -1063,6 +1087,22 @@
       "duration_ms": 129924,
       "name": "Yahooboy",
       "url": "https://open.spotify.com/track/3gxE784U3RHs338iapWwos"
+    },
+    {
+      "added_at": "2026-06-12 00:01:52",
+      "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX"
     },
     {
       "added_at": "2026-06-12 00:01:52",
@@ -1123,42 +1163,6 @@
       "duration_ms": 219310,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3CZgDqy9Tmt0LOyfKX6Qqt"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
-        "name": "Rotation",
-        "url": "https://open.spotify.com/album/3iyvH9o2nOjTLLJinOObnj"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 122181,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/3kd7SEgutk0Dkp3S6VnasJ"
-    },
-    {
-      "added_at": "2026-06-12 00:01:52",
-      "album": {
-        "name": "Sexy Highlife",
-        "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Bosom P-Yung",
-          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
-        }
-      ],
-      "duration_ms": 127969,
-      "name": "Akosua Broni",
-      "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
     }
   ],
   "unique_name": "Abonten ",

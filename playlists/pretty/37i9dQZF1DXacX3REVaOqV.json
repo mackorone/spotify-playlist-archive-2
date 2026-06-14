@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 498542,
+  "num_followers": 498548,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEU1yyuS1TwyplRwMx4aL2RWAdUf",
+  "snapshot_id": "AAAAAHHWYgUOLvPn6uuD/k+lgz+GRSRz",
   "tracks": [
     {
       "added_at": "2026-06-04 22:00:27",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/5PH0N5fnQYx4T503EdhdNS"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 231023,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4hTT2n6g4oq7isk4w1adY2"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "The Nightlife",
         "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 244708,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5PH0N5fnQYx4T503EdhdNS"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 231023,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4hTT2n6g4oq7isk4w1adY2"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Mydnight",
-        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Our Home",
-      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Take Me Up (ft. Donna Blakely)",
         "url": "https://open.spotify.com/album/6zs9VQ8s94nFFND1PJJDPf"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 177028,
       "name": "Take Me Up (ft. Donna Blakely)",
       "url": "https://open.spotify.com/track/3SPIXaPvo1cx1v4Eint483"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Mydnight",
+        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Our Home",
+      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Nappp",
-        "url": "https://open.spotify.com/album/6H4eDHkO9zK6tykY49qoKs"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        },
-        {
-          "name": "Bensy",
-          "url": "https://open.spotify.com/artist/5bL6DC0g37boJqvYx1Ofom"
-        }
-      ],
-      "duration_ms": 178552,
-      "name": "Nappp",
-      "url": "https://open.spotify.com/track/2VrfjBzBu6RD6ONQSq3NUP"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Nappp",
+        "url": "https://open.spotify.com/album/6H4eDHkO9zK6tykY49qoKs"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "Bensy",
+          "url": "https://open.spotify.com/artist/5bL6DC0g37boJqvYx1Ofom"
+        }
+      ],
+      "duration_ms": 178552,
+      "name": "Nappp",
+      "url": "https://open.spotify.com/track/2VrfjBzBu6RD6ONQSq3NUP"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1127,6 +1127,42 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/1RCUm0QaiUMJxkdFLawDU0"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 169553,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7mrauQo5bJ8hPPqJ0HfDyZ"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Seguimos",
+        "url": "https://open.spotify.com/album/5HPdoCHMjOOuxhOBvCcY1N"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Seguimos",
+      "url": "https://open.spotify.com/track/2PmGGx7S3GWN5khgs5CjPW"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
       },
@@ -1163,42 +1199,6 @@
       "duration_ms": 251725,
       "name": "Won't Let U Down",
       "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/1RCUm0QaiUMJxkdFLawDU0"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 169553,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/7mrauQo5bJ8hPPqJ0HfDyZ"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Seguimos",
-        "url": "https://open.spotify.com/album/5HPdoCHMjOOuxhOBvCcY1N"
-      },
-      "artists": [
-        {
-          "name": "Toman",
-          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Seguimos",
-      "url": "https://open.spotify.com/track/2PmGGx7S3GWN5khgs5CjPW"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Y.O.U.",
-        "url": "https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 183515,
-      "name": "Y.O.U.",
-      "url": "https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "i couldn't hold back (feat. George Riley)",
         "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
       },
@@ -1647,18 +1627,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Some Time EP",
-        "url": "https://open.spotify.com/album/0ayGMCf1QlDUFlm0cuNoOu"
+        "name": "Y.O.U.",
+        "url": "https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh"
       },
       "artists": [
         {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
         }
       ],
-      "duration_ms": 231627,
-      "name": "Some Time",
-      "url": "https://open.spotify.com/track/0SyvcPgEiq2ogFWmOZ7crs"
+      "duration_ms": 183515,
+      "name": "Y.O.U.",
+      "url": "https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Love Claim",
-        "url": "https://open.spotify.com/album/0RLgRszGbI9FPu7Fm1dBr6"
+        "name": "Some Time EP",
+        "url": "https://open.spotify.com/album/0ayGMCf1QlDUFlm0cuNoOu"
       },
       "artists": [
         {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
         }
       ],
-      "duration_ms": 178261,
-      "name": "Love Claim",
-      "url": "https://open.spotify.com/track/3e4rGQEn494zPrgTO9GjIk"
+      "duration_ms": 231627,
+      "name": "Some Time",
+      "url": "https://open.spotify.com/track/0SyvcPgEiq2ogFWmOZ7crs"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1707,6 +1691,22 @@
       "duration_ms": 165365,
       "name": "About Yourself",
       "url": "https://open.spotify.com/track/0TJYzpDpsNRvfxcJZFy9Gp"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Love Claim",
+        "url": "https://open.spotify.com/album/0RLgRszGbI9FPu7Fm1dBr6"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 178261,
+      "name": "Love Claim",
+      "url": "https://open.spotify.com/track/3e4rGQEn494zPrgTO9GjIk"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Positive Energy",
-        "url": "https://open.spotify.com/album/3JfZx0R2kR3LptANyy1vGv"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Positive Energy",
-      "url": "https://open.spotify.com/track/44p0PfEWj7s2cOtxDxGQgO"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "I Won't Let You Go (feat. Eight9FLY)",
         "url": "https://open.spotify.com/album/5RqRKiJREACiGBQ3Vy4mx1"
       },
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Positive Energy",
+        "url": "https://open.spotify.com/album/3JfZx0R2kR3LptANyy1vGv"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Positive Energy",
+      "url": "https://open.spotify.com/track/44p0PfEWj7s2cOtxDxGQgO"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Carry Us Away",
         "url": "https://open.spotify.com/album/6vfUMBcZjcIWTM2Ze0pHYH"
       },
@@ -1875,22 +1875,6 @@
       "duration_ms": 248000,
       "name": "Carry Us Away",
       "url": "https://open.spotify.com/track/00BaSQxpdHClflBBUcLNYE"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "Don\u2019t You Want Some More",
-        "url": "https://open.spotify.com/album/3xuPw3jYk60AaIm6ERx4ml"
-      },
-      "artists": [
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        }
-      ],
-      "duration_ms": 204985,
-      "name": "Don\u2019t You Want Some More",
-      "url": "https://open.spotify.com/track/1eL4xdRvaKqJ3DITmie69m"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1919,22 +1903,18 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "With You (Tonight)",
-        "url": "https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6"
+        "name": "Don\u2019t You Want Some More",
+        "url": "https://open.spotify.com/album/3xuPw3jYk60AaIm6ERx4ml"
       },
       "artists": [
         {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Alta Gracia",
-          "url": "https://open.spotify.com/artist/14yCXkLSKlrnNcp0cadiZa"
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
         }
       ],
-      "duration_ms": 200704,
-      "name": "With You (Tonight)",
-      "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"
+      "duration_ms": 204985,
+      "name": "Don\u2019t You Want Some More",
+      "url": "https://open.spotify.com/track/1eL4xdRvaKqJ3DITmie69m"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -1975,6 +1955,26 @@
       "duration_ms": 332459,
       "name": "Eyes For You (Migs Retro Vault Remix)",
       "url": "https://open.spotify.com/track/3Fv2vkIbt37OhpTLbwqVZS"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "With You (Tonight)",
+        "url": "https://open.spotify.com/album/3D4xNfGMaDrraBMRuWheM6"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Alta Gracia",
+          "url": "https://open.spotify.com/artist/14yCXkLSKlrnNcp0cadiZa"
+        }
+      ],
+      "duration_ms": 200704,
+      "name": "With You (Tonight)",
+      "url": "https://open.spotify.com/track/4asw6zOFWBeYkCr3vSknf1"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
+        "name": "Keeping Me Safe",
+        "url": "https://open.spotify.com/album/3zNy7MMLYBSmBpZLPQ3xSe"
+      },
+      "artists": [
+        {
+          "name": "Melsen",
+          "url": "https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Keeping Me Safe",
+      "url": "https://open.spotify.com/track/5PnY7GVyXfy6fsMHFPFAGU"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
         "name": "Sunrise (Butch's Balearic Touch)",
         "url": "https://open.spotify.com/album/2VJ3gHuFgxNTxNgjz88uRl"
       },
@@ -2075,22 +2091,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Keeping Me Safe",
-        "url": "https://open.spotify.com/album/3zNy7MMLYBSmBpZLPQ3xSe"
-      },
-      "artists": [
-        {
-          "name": "Melsen",
-          "url": "https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Keeping Me Safe",
-      "url": "https://open.spotify.com/track/5PnY7GVyXfy6fsMHFPFAGU"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Jazzin' The Way You Know (Francisco Allendes Remix)",
         "url": "https://open.spotify.com/album/5zyVPWKf9qeD6OhVbXJXpo"
       },
@@ -2107,22 +2107,6 @@
       "duration_ms": 204375,
       "name": "Jazzin' The Way You Know - Francisco Allendes Remix",
       "url": "https://open.spotify.com/track/2VgMNEahVLNLzlQ9Mmlg4v"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
-        "name": "The Groove",
-        "url": "https://open.spotify.com/album/4FBLxAB8l8tCfFWCOi5YF5"
-      },
-      "artists": [
-        {
-          "name": "Sam Divine",
-          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "The Groove",
-      "url": "https://open.spotify.com/track/6A4BdOyIcPzAeTYTJq6cPY"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -2151,6 +2135,22 @@
       "duration_ms": 195923,
       "name": "Medellin",
       "url": "https://open.spotify.com/track/1mR45Dp6MAsfKiSOtkOacS"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "The Groove",
+        "url": "https://open.spotify.com/album/4FBLxAB8l8tCfFWCOi5YF5"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "The Groove",
+      "url": "https://open.spotify.com/track/6A4BdOyIcPzAeTYTJq6cPY"
     },
     {
       "added_at": "2026-06-04 22:00:27",
@@ -2283,26 +2283,6 @@
     {
       "added_at": "2026-06-04 22:00:27",
       "album": {
-        "name": "Till The Night",
-        "url": "https://open.spotify.com/album/39MAe19599Sjoxy5kFwdNd"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        },
-        {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
-        }
-      ],
-      "duration_ms": 140813,
-      "name": "Till The Night",
-      "url": "https://open.spotify.com/track/0tzeqfKjhhjXcJ0uw8FEIT"
-    },
-    {
-      "added_at": "2026-06-04 22:00:27",
-      "album": {
         "name": "Dancing (Samm Remix)",
         "url": "https://open.spotify.com/album/4i9KcN0cSezrfYaI6T2sNm"
       },
@@ -2327,6 +2307,26 @@
       "duration_ms": 240024,
       "name": "Dancing - Samm Remix",
       "url": "https://open.spotify.com/track/1rrCwv6BYLOzhvTxq5UarM"
+    },
+    {
+      "added_at": "2026-06-04 22:00:27",
+      "album": {
+        "name": "Till The Night",
+        "url": "https://open.spotify.com/album/39MAe19599Sjoxy5kFwdNd"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "Till The Night",
+      "url": "https://open.spotify.com/track/0tzeqfKjhhjXcJ0uw8FEIT"
     },
     {
       "added_at": "2026-06-04 22:00:27",

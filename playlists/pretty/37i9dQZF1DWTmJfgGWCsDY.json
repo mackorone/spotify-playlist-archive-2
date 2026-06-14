@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Yammi",
-  "num_followers": 10420,
+  "num_followers": 10436,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,22 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Room Number 3",
-        "url": "https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY"
+        "name": "A DAY TO REMEMBER",
+        "url": "https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ"
       },
       "artists": [
         {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 266272,
-      "name": "Asumani",
-      "url": "https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7"
+      "duration_ms": 244645,
+      "name": "EX WA NANI",
+      "url": "https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -303,22 +307,18 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "A DAY TO REMEMBER",
-        "url": "https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ"
+        "name": "Room Number 3",
+        "url": "https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY"
       },
       "artists": [
         {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
         }
       ],
-      "duration_ms": 244645,
-      "name": "EX WA NANI",
-      "url": "https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt"
+      "duration_ms": 266272,
+      "name": "Asumani",
+      "url": "https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -687,22 +687,22 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Shemeji Yako",
-        "url": "https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs"
+        "name": "Bado Sijasikia",
+        "url": "https://open.spotify.com/album/4cFvZCi3FmUhX82PuG6Ewy"
       },
       "artists": [
         {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+          "name": "Misso Misondo",
+          "url": "https://open.spotify.com/artist/70Cfd1sDH9DJuiRSpRDT5p"
         },
         {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
         }
       ],
-      "duration_ms": 256350,
-      "name": "Shemeji Yako",
-      "url": "https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa"
+      "duration_ms": 217969,
+      "name": "Bado Sijasikia",
+      "url": "https://open.spotify.com/track/0uNqRKYpZHyP6Fr86GUxnI"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -727,22 +727,22 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Bado Sijasikia",
-        "url": "https://open.spotify.com/album/4cFvZCi3FmUhX82PuG6Ewy"
+        "name": "Shemeji Yako",
+        "url": "https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs"
       },
       "artists": [
         {
-          "name": "Misso Misondo",
-          "url": "https://open.spotify.com/artist/70Cfd1sDH9DJuiRSpRDT5p"
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
         },
         {
-          "name": "Phina",
-          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
         }
       ],
-      "duration_ms": 217969,
-      "name": "Bado Sijasikia",
-      "url": "https://open.spotify.com/track/0uNqRKYpZHyP6Fr86GUxnI"
+      "duration_ms": 256350,
+      "name": "Shemeji Yako",
+      "url": "https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Wanijue",
-        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
-      },
-      "artists": [
-        {
-          "name": "Micky Singer",
-          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
-        }
-      ],
-      "duration_ms": 194366,
-      "name": "Wanijue",
-      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
-    },
-    {
-      "added_at": "2026-06-05 03:30:22",
-      "album": {
         "name": "Hujanikomoa",
         "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 359026,
       "name": "Hujanikomoa",
       "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
+    },
+    {
+      "added_at": "2026-06-05 03:30:22",
+      "album": {
+        "name": "Wanijue",
+        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
+      },
+      "artists": [
+        {
+          "name": "Micky Singer",
+          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "Wanijue",
+      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
     },
     {
       "added_at": "2026-06-05 03:30:22",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2026-06-05 03:30:22",
       "album": {
-        "name": "Jiangalie",
-        "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
+        "name": "Lipa",
+        "url": "https://open.spotify.com/album/4kDFP1HTXsGE8rsxZWxERH"
       },
       "artists": [
         {
-          "name": "Nay Wa Mitego",
-          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+          "name": "Kiwanda",
+          "url": "https://open.spotify.com/artist/5WkPo47nFulbuDtjtjmxqT"
         },
         {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Aslam Tz",
+          "url": "https://open.spotify.com/artist/5QgUWlRx4MXPcZNcAU8T3O"
         }
       ],
-      "duration_ms": 229944,
-      "name": "Jiangalie",
-      "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
+      "duration_ms": 223884,
+      "name": "Lipa",
+      "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
     }
   ],
   "unique_name": "Singeli Sounds",

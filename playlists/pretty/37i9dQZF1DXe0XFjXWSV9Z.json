@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 51146,
+  "num_followers": 51153,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Chimborazo",
+        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Selva Negra",
+      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Pa\u00f1uelo De Seda",
         "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 263096,
       "name": "Contra La Corriente",
       "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Chimborazo",
-        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Selva Negra",
-      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Junchuch",
+        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Junchuch",
+      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Nixon en la Playa",
         "url": "https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 237674,
       "name": "Cumbia Disco Energy",
       "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Junchuch",
-        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Junchuch",
-      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Savage Love",
-        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Moriarty",
-          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
-        }
-      ],
-      "duration_ms": 234812,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Cumbia del Metr\u00f3nomo",
         "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 304000,
       "name": "Cumbia del Metr\u00f3nomo",
       "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Moriarty",
+          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Shake & Bake",
-        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
-      },
-      "artists": [
-        {
-          "name": "King Edi K",
-          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
-        }
-      ],
-      "duration_ms": 280822,
-      "name": "Shake & Bake",
-      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Mujer Luna",
         "url": "https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 211560,
       "name": "Mujer Luna",
       "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Shake & Bake",
+        "url": "https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu"
+      },
+      "artists": [
+        {
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+        }
+      ],
+      "duration_ms": 280822,
+      "name": "Shake & Bake",
+      "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Solo Yo",
-        "url": "https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9"
-      },
-      "artists": [
-        {
-          "name": "Buyepongo",
-          "url": "https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0"
-        }
-      ],
-      "duration_ms": 492786,
-      "name": "Solo Yo",
-      "url": "https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Chica Psy",
         "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+        "name": "Solo Yo",
+        "url": "https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9"
       },
       "artists": [
         {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+          "name": "Buyepongo",
+          "url": "https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
+      "duration_ms": 492786,
+      "name": "Solo Yo",
+      "url": "https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1363,6 +1347,22 @@
       "duration_ms": 280821,
       "name": "Sonido Yoryi",
       "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+      },
+      "artists": [
+        {
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Voltaje Raizal",
+        "url": "https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw"
+      },
+      "artists": [
+        {
+          "name": "Rizomagic",
+          "url": "https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt"
+        }
+      ],
+      "duration_ms": 316077,
+      "name": "\u00d1oco\u00f1oco",
+      "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Sonaja y Tambor",
         "url": "https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 237080,
       "name": "Sonaja y Tambor",
       "url": "https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Voltaje Raizal",
-        "url": "https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw"
-      },
-      "artists": [
-        {
-          "name": "Rizomagic",
-          "url": "https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt"
-        }
-      ],
-      "duration_ms": 316077,
-      "name": "\u00d1oco\u00f1oco",
-      "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Tropid\u00e9lico",
+        "url": "https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Los Olvidados",
+      "url": "https://open.spotify.com/track/7HHGXcIR0iUkBmgHrClR47"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Impredecible",
         "url": "https://open.spotify.com/album/6eBd1fH0K3WOwOx5T4NC38"
       },
@@ -1631,22 +1651,6 @@
       "duration_ms": 247253,
       "name": "La voz del sinchi",
       "url": "https://open.spotify.com/track/6XMoJLbM0Q0TpxdSnPQnOe"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "El M\u00e9todo de la Cera Perdida",
-        "url": "https://open.spotify.com/album/4FpVhTvjPQz8B6D5ElTqMC"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 263423,
-      "name": "El M\u00e9todo de la Cera Perdida",
-      "url": "https://open.spotify.com/track/1ycnC56AuYAJqVg56kpkHK"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1683,18 +1687,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Para Poderte Olvidar",
-        "url": "https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC"
+        "name": "El M\u00e9todo de la Cera Perdida",
+        "url": "https://open.spotify.com/album/4FpVhTvjPQz8B6D5ElTqMC"
       },
       "artists": [
         {
-          "name": "Qiensave",
-          "url": "https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
         }
       ],
-      "duration_ms": 240823,
-      "name": "Para Poderte Olvidar",
-      "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
+      "duration_ms": 263423,
+      "name": "El M\u00e9todo de la Cera Perdida",
+      "url": "https://open.spotify.com/track/1ycnC56AuYAJqVg56kpkHK"
     }
   ],
   "unique_name": "TROPILOCO",

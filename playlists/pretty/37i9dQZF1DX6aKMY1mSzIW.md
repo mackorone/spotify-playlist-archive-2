@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aKMY1mSzIW.md) - [plain]
 
 > Binge watch OPM music videos! only available for Spotify Premium Subscribers! Cover: BINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,616 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,676 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

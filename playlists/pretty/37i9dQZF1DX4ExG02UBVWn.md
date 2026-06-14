@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,899 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,900 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 49 | [HEARTACHE & CHEST PAINS](https://open.spotify.com/track/5sO2NkmWPTAWryJ6CWcj3Q) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:35 |
 | 50 | [Jet Plane 5000](https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK), [Rebekah Fitch](https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6) | [Jet Plane 5000](https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ) | 2:44 |
 | 51 | [Can't Love](https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [Can't Love](https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR) | 3:39 |
-| 52 | [ALMOST LOST](https://open.spotify.com/track/6OrtioErNEZVGShhUIQZjt) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [AND GOD SAID...](https://open.spotify.com/album/1t7cwx7t7xxfnstXYI4rSx) | 4:14 |
-| 53 | [Out Of The Blue](https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Immy](https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7) | [Out Of The Blue](https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo) | 3:27 |
+| 52 | [Out Of The Blue](https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Immy](https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7) | [Out Of The Blue](https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo) | 3:27 |
+| 53 | [ALMOST LOST](https://open.spotify.com/track/6OrtioErNEZVGShhUIQZjt) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [AND GOD SAID...](https://open.spotify.com/album/1t7cwx7t7xxfnstXYI4rSx) | 4:14 |
 | 54 | [CRUSHED VELVET](https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:41 |
 | 55 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 |
 | 56 | [Braid It Back](https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Motion Sick](https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm) | 3:20 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 93 | [Intertwined](https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5), [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [Intertwined](https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt) | 5:52 |
 | 94 | [B P D](https://open.spotify.com/track/0HUJhDhDiBPwpGEBoP8kUe) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [B P D](https://open.spotify.com/album/29rkxPGJziha2y2wNfiiI3) | 2:35 |
 | 95 | [Jungle](https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [Jungle](https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA) | 2:40 |
-| 96 | [Be Afraid](https://open.spotify.com/track/6ZncAMDN2Hv2QrXiSntgoy) | [Shanaz Dorsett](https://open.spotify.com/artist/5Fe6NAp8J07lnWU8WoVdym) | [Be Afraid](https://open.spotify.com/album/61VZRCv0rz2wTlICr42KK1) | 3:19 |
-| 97 | [A Lot](https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc) | [A Lot](https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0) | 2:47 |
+| 96 | [A Lot](https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip) | [0RACL3](https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc) | [A Lot](https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0) | 2:47 |
+| 97 | [Be Afraid](https://open.spotify.com/track/6ZncAMDN2Hv2QrXiSntgoy) | [Shanaz Dorsett](https://open.spotify.com/artist/5Fe6NAp8J07lnWU8WoVdym) | [Be Afraid](https://open.spotify.com/album/61VZRCv0rz2wTlICr42KK1) | 3:19 |
 | 98 | [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 |
 | 99 | [Took My Heart](https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [Took My Heart](https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8) | 2:52 |
 | 100 | [iwtwbaigwap](https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6) | [Leo Chavez](https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv) | [iwtwbaigwap](https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL) | 3:55 |

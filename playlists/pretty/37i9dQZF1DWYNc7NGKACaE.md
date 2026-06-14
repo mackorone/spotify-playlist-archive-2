@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,452 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,451 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 26 | [Ele Te Bota Soca Soca \- Speed Up](https://open.spotify.com/track/548LVIsbvfP70STa240ZeI) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b) | [Ele Te Bota Soca Soca \(Speed Up\)](https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg) | 2:08 |
 | 27 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 |
 | 28 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |
-| 29 | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh) | 2:40 |
-| 30 | [Semblante de Criminoso Speed](https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Semblante de Criminoso Speed](https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt) | 1:38 |
+| 29 | [Semblante de Criminoso Speed](https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Semblante de Criminoso Speed](https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt) | 1:38 |
+| 30 | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh) | 2:40 |
 | 31 | [Luxo & Crime Speed](https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6) | [Lord Ralph Lauren](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Yauke](https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr) | [Luxo & Crime Speed](https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc) | 2:20 |
 | 32 | [011 É o Ddd \- Speed Up](https://open.spotify.com/track/5cAeEKEsxXj6RpzGhJUgyG) | [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD), [L.HARD](https://open.spotify.com/artist/4X1JOqzevl6se7AQyJy0Vj) | [011 É o Ddd](https://open.spotify.com/album/3dqDCBoecBp7CqMbxP5pjj) | 2:24 |
 | 33 | [SUV \- Remix](https://open.spotify.com/track/3NC8cCoF495lDMjXDyNvhd) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [DJ Gui](https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 1:55 |

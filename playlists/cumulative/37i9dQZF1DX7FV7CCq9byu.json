@@ -29437,6 +29437,28 @@
     },
     {
       "album": {
+        "name": "The Most Beautiful Lovesong",
+        "url": "https://open.spotify.com/album/5ASHu5CVD0O9p5zYK7apBs"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        },
+        {
+          "name": "Toussaint Chiza",
+          "url": "https://open.spotify.com/artist/1wc53bAOil4C5PxhoT08dA"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243356,
+      "name": "The Most Beautiful Lovesong",
+      "url": "https://open.spotify.com/track/02SzelvEOwaq1YD1UtqjQh"
+    },
+    {
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
-  "num_followers": 820869,
+  "num_followers": 820923,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "Tu Foto",
+        "url": "https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 180385,
+      "name": "Tu Foto - En Vivo",
+      "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Mentiras | CROSSOVER #3",
         "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 168000,
       "name": "Mentiras | CROSSOVER #3",
       "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "Tu Foto",
-        "url": "https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 180385,
-      "name": "Tu Foto - En Vivo",
-      "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "En privado (En Vivo)",
+        "url": "https://open.spotify.com/album/0ha0iI8Kjko64RHxw9yyUk"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "En privado - En Vivo",
+      "url": "https://open.spotify.com/track/2V8bCSCCfWgckOWeix4NGw"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Latidos",
         "url": "https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 181538,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "En privado (En Vivo)",
-        "url": "https://open.spotify.com/album/0ha0iI8Kjko64RHxw9yyUk"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "En privado - En Vivo",
-      "url": "https://open.spotify.com/track/2V8bCSCCfWgckOWeix4NGw"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "Se Me Olvida",
+        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 167285,
+      "name": "Se Me Olvida",
+      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Universo Paralelo",
         "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 217072,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "Se Me Olvida",
-        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 167285,
-      "name": "Se Me Olvida",
-      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
+        "name": "Nominado",
+        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
         "name": "Una Noche",
         "url": "https://open.spotify.com/album/5TGdD0LC9hnbWvEbazhcAs"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 158661,
       "name": "Una Noche",
       "url": "https://open.spotify.com/track/2DV0uRNE0tJPekHH2MK63C"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
-        "name": "Nominado",
-        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
     },
     {
       "added_at": "2026-05-29 20:56:30",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Con Otra (En Vivo)",
-        "url": "https://open.spotify.com/album/6eNEntGXLfxZu7cblWuuLj"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Con Otra - En Vivo",
-      "url": "https://open.spotify.com/track/7L1xVDPk3nLxQIGOOryW7p"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 170580,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/1F4r99Fjx0gh3TlJPte2M3"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "Con Otra (En Vivo)",
+        "url": "https://open.spotify.com/album/6eNEntGXLfxZu7cblWuuLj"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Con Otra - En Vivo",
+      "url": "https://open.spotify.com/track/7L1xVDPk3nLxQIGOOryW7p"
     },
     {
       "added_at": "2026-05-29 20:56:30",

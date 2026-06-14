@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 101720,
+  "num_followers": 101749,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
-      },
-      "artists": [
-        {
-          "name": "Chabin",
-          "url": "https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA"
-        },
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        }
-      ],
-      "duration_ms": 173025,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Ram 6: Manmanm Se Ginen",
         "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 265929,
       "name": "Twa Fey",
       "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
+      },
+      "artists": [
+        {
+          "name": "Chabin",
+          "url": "https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        }
+      ],
+      "duration_ms": 173025,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
     },
     {
       "added_at": "2025-07-25 04:00:50",

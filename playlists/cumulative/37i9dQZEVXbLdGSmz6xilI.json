@@ -354,7 +354,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -5623,6 +5623,24 @@
     },
     {
       "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+    },
+    {
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -6436,7 +6454,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 293500,
       "name": "C\u1ea3m \u01a0n Ng\u01b0\u1eddi \u0110\u00e3 Th\u1ee9c C\u00f9ng T\u00f4i",
       "url": "https://open.spotify.com/track/0t8g66pWghsU8MphjUQIdg"
@@ -8708,7 +8726,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -9926,7 +9944,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 223200,
       "name": "gi\u00e1 nh\u01b0",
       "url": "https://open.spotify.com/track/58ZlEBxBrzISXtmcOPo476"
@@ -17780,7 +17798,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 215901,
       "name": "Ng\u01b0\u1eddi \u0110\u1ea7u Ti\u00ean",
       "url": "https://open.spotify.com/track/3dbfL7nHOZlM4adzLHNnB3"
@@ -27288,7 +27306,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -29686,7 +29704,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 198145,
       "name": "\u0111\u00f4i m\u1eaft k\u1ebb t\u00ecnh si",
       "url": "https://open.spotify.com/track/3vSmjbKFByNM6l31NmFlmB"

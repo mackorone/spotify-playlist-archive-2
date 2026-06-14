@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,179 songs - 2 day 20 hr 47 min
+1,181 songs - 2 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Aloha wau iā ʻoe](https://open.spotify.com/track/4QCsOjVip08VY94h6mOiry) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Aloha wau iā ʻoe](https://open.spotify.com/album/5Hj7C1hSX8R3ehZcSlpSDt) | 4:12 | 2026-01-07 | 2026-02-03 |
 | [Alone Time](https://open.spotify.com/track/6IiYq1kRLnP1NyIEmsQWOg) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:16 | 2026-02-06 | 2026-03-25 |
 | [Alquimia Ancestral](https://open.spotify.com/track/1cMmRFXNiIhON1TfyTxAMt) | [Lucas Prospero](https://open.spotify.com/artist/2KqlV9bFYcA3KtqxJLSIvf) | [Alquimia Ancestral](https://open.spotify.com/album/0Mi0CLyGKcgYm7XCXLzgkA) | 2:55 | 2025-12-19 | 2026-01-15 |
+| [Alwida](https://open.spotify.com/track/1pip1R2XZVF6mq0SZiUlJH) | [Melodic Devesh](https://open.spotify.com/artist/2WAxrHRaxuJMtEHNF31qjr) | [Alwida](https://open.spotify.com/album/3uILzk0zDdni99ISE7Wi3N) | 4:05 | 2026-06-13 |  |
 | [Amores Verdadeiros](https://open.spotify.com/track/0KFjJCtRRslJdBjQITVRGp) | [Binho Rodrigues](https://open.spotify.com/artist/2Th24UXO0EXhREONi0KNkd) | [Amores Verdadeiros](https://open.spotify.com/album/3MGsphbmnz4m1lA9CGKRwf) | 2:19 | 2026-02-04 | 2026-03-07 |
 | [Amori inutili](https://open.spotify.com/track/5siNyqczRiqtJ0nboaUpNY) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Amori inutili](https://open.spotify.com/album/5P6RxvlC9MP9nwo0BpBD12) | 3:18 | 2026-05-25 |  |
 | [An Oracle Told Me...](https://open.spotify.com/track/3VKpgXu5oNFuaJtafkOuS5) | [Joe Siciliano Jazz Trio](https://open.spotify.com/artist/0DDVg8KuFfA7fjD2M2x3N3) | [An Oracle Told Me...](https://open.spotify.com/album/5jkRcJhNoL3bmd9VpO3qTO) | 2:58 | 2024-11-14 | 2025-12-21 |
@@ -132,6 +133,7 @@
 | [Body of Bruises](https://open.spotify.com/track/5NT8ptt0jy49RqX554U7ty) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 4:28 | 2023-04-20 | 2025-11-29 |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-16 | 2026-01-15 |
 | [Bossa](https://open.spotify.com/track/4YqjBKMp0QekJsGedjTNUI) | [J.T](https://open.spotify.com/artist/3x5QUokzTmSvhQxAkTGong) | [Take 1](https://open.spotify.com/album/4EnaDPAzy3jeEzx0L8Fgi2) | 2:57 | 2026-01-14 | 2026-02-20 |
+| [Boy Next Door](https://open.spotify.com/track/5EHR4uVoXlshVyS5GpsiaD) | [Puri](https://open.spotify.com/artist/66Fil4hOah2YFjf7HRBRGz) | [Boy Next Door](https://open.spotify.com/album/5dqky6vKPGW81nAaSshzr3) | 2:03 | 2026-06-13 |  |
 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 | 2026-01-07 | 2026-02-03 |
 | [Break the Chain](https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [My Tribe \- EP](https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh) | 3:27 | 2025-11-11 | 2025-12-21 |
 | [Bridge of Boldness](https://open.spotify.com/track/79566wwkKbJ9BZk7RSaus9) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Bridge of Boldness](https://open.spotify.com/album/7vvWldpJbLUdRHPMWdzNHG) | 3:00 | 2024-02-15 | 2025-12-28 |

@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 123378,
+  "num_followers": 123407,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "A Larum",
-        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "The Wrote & The Writ",
-      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "The Trials of Van Occupanther",
         "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 286880,
       "name": "Roscoe",
       "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "A Larum",
+        "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        }
+      ],
+      "duration_ms": 247080,
+      "name": "The Wrote & The Writ",
+      "url": "https://open.spotify.com/track/1vLH58T2L3uHryV2JAT8rk"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Thing Of The Past",
-        "url": "https://open.spotify.com/album/1c1QSSEh3Hv8FHoCQM4R7Y"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "The Swimming Song",
-      "url": "https://open.spotify.com/track/6ulFhQ1pfkUNuCY1zxClmv"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Mountain Rock",
         "url": "https://open.spotify.com/album/3kk8UwJ5VAWx8l4wfnRzsy"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 91320,
       "name": "The Lonesome Border, Pt. 1",
       "url": "https://open.spotify.com/track/5W0j7P73UBuiRvExwNVbYc"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Thing Of The Past",
+        "url": "https://open.spotify.com/album/1c1QSSEh3Hv8FHoCQM4R7Y"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "The Swimming Song",
+      "url": "https://open.spotify.com/track/6ulFhQ1pfkUNuCY1zxClmv"
     },
     {
       "added_at": "2024-03-25 16:58:35",

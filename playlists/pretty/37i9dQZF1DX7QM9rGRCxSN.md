@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,818 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,831 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 25 | [pasan los días](https://open.spotify.com/track/0gndtLhT5ExWIKmRJo6TUx) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C) | [pasan los días](https://open.spotify.com/album/4JEbDeeXUEQ97zkDFGcQLK) | 2:44 |
 | 26 | [Está Nublado y Tengo Calor](https://open.spotify.com/track/788chCGIQr4PgMByHndKyH) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Está Nublado y Tengo Calor](https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ) | 3:05 |
 | 27 | [Ave](https://open.spotify.com/track/1C0JTISdpWiw1rGLNIs5UU) | [Dejaré que me apuñales](https://open.spotify.com/artist/4QbKlV4BEvPWy1ivGBRdPJ) | [Jardines Próximos](https://open.spotify.com/album/0MEUick8L0S9ZXZrVcdmsa) | 2:52 |
-| 28 | [Fantasmas en Casa](https://open.spotify.com/track/43ghfQUS2whU1tTyyPL9H4) | [Películas como Juno](https://open.spotify.com/artist/4xb8uZ6aiaVBeypI8rGal8) | [Fantasmas en Casa](https://open.spotify.com/album/36BLAYZliGj9SE4bOtlenX) | 3:00 |
-| 29 | [Míráme](https://open.spotify.com/track/59vdxakMPGSDidajykh9sa) | [Buh](https://open.spotify.com/artist/6QWJGmTjhSkRhtOcNWJJat) | [El Split de Buh & Millones de Colores](https://open.spotify.com/album/7KNtgrH3CJojbrDzBtePCR) | 0:54 |
-| 30 | [Principio de Siglo](https://open.spotify.com/track/5yC06ptF9OlI2krZRj0B8U) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [Principio de Siglo](https://open.spotify.com/album/2JpjjKhUGPEG0rmYNvAIGu) | 3:00 |
-| 31 | [fluya +](https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc) | [prado norte](https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB) | [fluya +](https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX) | 4:02 |
-| 32 | [Orquídeas](https://open.spotify.com/track/0uNYFj02U52kOYTJAhzJNN) | [Hummm](https://open.spotify.com/artist/5Nd5eFtrvfMLHmA78iGmT7) | [Orquídeas](https://open.spotify.com/album/6BvXv0f2qbNI9aC1iKAs62) | 3:01 |
+| 28 | [Orquídeas](https://open.spotify.com/track/0uNYFj02U52kOYTJAhzJNN) | [Hummm](https://open.spotify.com/artist/5Nd5eFtrvfMLHmA78iGmT7) | [Orquídeas](https://open.spotify.com/album/6BvXv0f2qbNI9aC1iKAs62) | 3:01 |
+| 29 | [Fantasmas en Casa](https://open.spotify.com/track/43ghfQUS2whU1tTyyPL9H4) | [Películas como Juno](https://open.spotify.com/artist/4xb8uZ6aiaVBeypI8rGal8) | [Fantasmas en Casa](https://open.spotify.com/album/36BLAYZliGj9SE4bOtlenX) | 3:00 |
+| 30 | [Míráme](https://open.spotify.com/track/59vdxakMPGSDidajykh9sa) | [Buh](https://open.spotify.com/artist/6QWJGmTjhSkRhtOcNWJJat) | [El Split de Buh & Millones de Colores](https://open.spotify.com/album/7KNtgrH3CJojbrDzBtePCR) | 0:54 |
+| 31 | [Principio de Siglo](https://open.spotify.com/track/5yC06ptF9OlI2krZRj0B8U) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [Principio de Siglo](https://open.spotify.com/album/2JpjjKhUGPEG0rmYNvAIGu) | 3:00 |
+| 32 | [fluya +](https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc) | [prado norte](https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB) | [fluya +](https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX) | 4:02 |
 | 33 | [Estallar](https://open.spotify.com/track/76lfQ80UnsyvJDxRbKOs3w) | [Inválido](https://open.spotify.com/artist/7xVdVY75NJnzJ2OLmV22Sq) | [Todo el Silencio](https://open.spotify.com/album/0DFXz6haQbrLCMD1kYMHnL) | 5:50 |
 | 34 | [Comenzar De Cero](https://open.spotify.com/track/6nzIedKdHdAiz8iZa5fHU5) | [Congelador](https://open.spotify.com/artist/3OggS6Lzuzojyvd8t8ZAat) | [Panorama Neutral](https://open.spotify.com/album/4TMvWBmWr1WTTBIPzsLGul) | 3:22 |
-| 35 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
-| 36 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
-| 37 | [No nos van a callar](https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA) | [Veritas](https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP) | [Marinero](https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n) | 5:23 |
+| 35 | [No nos van a callar](https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA) | [Veritas](https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP) | [Marinero](https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n) | 5:23 |
+| 36 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
+| 37 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
 | 38 | [Harakiri Shogun Pt.2](https://open.spotify.com/track/0Gv2BKKQDks4D0OWCptU53) | [Entrelobos](https://open.spotify.com/artist/48DFXshrt8ll6PfYaOcoCJ) | [Golden Boy](https://open.spotify.com/album/4eqQmv2QmIfFjqG7c3mAts) | 3:11 |
 | 39 | [No Vi Mas Allá](https://open.spotify.com/track/5GZwj712P5AjwwsBGNdoa4) | [no somos lo que fuimos](https://open.spotify.com/artist/0DGmPI6KNfMZHJFf6ePM8A) | [Para Bien / Para Mal, Vol\. 1](https://open.spotify.com/album/0ph7JhSEApz6gCwbeT0eXS) | 4:21 |
 | 40 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 42 | [Kabuki](https://open.spotify.com/track/4Sf7foZWDZXcsiFCFKIsTC) | [Fiesta Bizarra](https://open.spotify.com/artist/4LJsadS7NTK4pjcXkNu5Zu) | [LaFlor Records Vol\. 1](https://open.spotify.com/album/6BV2gv6qZ37d4gD4eWRygX) | 1:05 |
 | 43 | [Todo es igual](https://open.spotify.com/track/6nzCwtaxALVq9ttc2hHwYT) | [Dan Taylor MX](https://open.spotify.com/artist/3XMLtLBrACQZcPO846w2Ri) | [IV](https://open.spotify.com/album/5vEJgoBOUoxPGyIFQN71k6) | 2:12 |
 | 44 | [24:00](https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW) | [Diente de Oro](https://open.spotify.com/artist/6o7Yqv4imhW4Jz4Y1v20YM) | [Nimio](https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm) | 3:38 |
-| 45 | [Riviera](https://open.spotify.com/track/08vKDopMoW4BHOrGbdWPez) | [AMBR](https://open.spotify.com/artist/46A52Keqzf0gPAfXqWLAVu) | [De Entropía](https://open.spotify.com/album/0ZSPDZ8pneDzOdzn1Zbnhg) | 1:56 |
-| 46 | [Sabado en Alemán](https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X) | [Teniente](https://open.spotify.com/artist/2gi6IsKTijDybvh79yqx5a) | [Fuseimyaku](https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL) | 4:13 |
+| 45 | [Sabado en Alemán](https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X) | [Teniente](https://open.spotify.com/artist/2gi6IsKTijDybvh79yqx5a) | [Fuseimyaku](https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL) | 4:13 |
+| 46 | [Riviera](https://open.spotify.com/track/08vKDopMoW4BHOrGbdWPez) | [AMBR](https://open.spotify.com/artist/46A52Keqzf0gPAfXqWLAVu) | [De Entropía](https://open.spotify.com/album/0ZSPDZ8pneDzOdzn1Zbnhg) | 1:56 |
 | 47 | [De Dios](https://open.spotify.com/track/2pvyTrY3i5N2vjKCH2w6x3) | [Contraflores](https://open.spotify.com/artist/0wGaUR9l9vGTRIRy9kjZ0x) | [De Dios](https://open.spotify.com/album/4kj1lahnGLAxqnVvThCA6y) | 3:42 |
 | 48 | [Glaciar de Lágrimas](https://open.spotify.com/track/1sjmhiXos2RJsnjGBUhIqA) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [Glaciar de Lágrimas](https://open.spotify.com/album/0e7LvDhCMYY7HycWZm2X0J) | 4:01 |
 | 49 | [Al Océano](https://open.spotify.com/track/0mWnCLerLZOzLaWA4B9UeL) | [Millones De Colores](https://open.spotify.com/artist/7aBxDwt2RCCGG1RL5s2C4R) | [Piratas Resilientes Del Inframundo](https://open.spotify.com/album/09dh1zJf9Paq8or0RKk01j) | 2:19 |

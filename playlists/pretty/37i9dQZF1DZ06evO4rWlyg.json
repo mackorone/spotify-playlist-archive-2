@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 155226,
+  "num_followers": 155245,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAADat4O5OUSuhJgHlaMXoiFR",
+  "snapshot_id": "aitMAAAAAABuhLazoe2L/g9QeCBJKYtn",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oral",
-        "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
       "artists": [
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 222737,
-      "name": "Oral",
-      "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
+      "duration_ms": 314866,
+      "name": "Pagan Poetry",
+      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
     },
     {
       "added_at": null,
@@ -247,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+        "name": "Oral",
+        "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
       },
       "artists": [
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 314866,
-      "name": "Pagan Poetry",
-      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
+      "duration_ms": 222737,
+      "name": "Oral",
+      "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 239826,
-      "name": "Mouth's Cradle",
-      "url": "https://open.spotify.com/track/2cyoqhQXL8HdbAydLtpUxZ"
+      "duration_ms": 180200,
+      "name": "History Of Touches",
+      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 180200,
-      "name": "History Of Touches",
-      "url": "https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH"
+      "duration_ms": 239826,
+      "name": "Mouth's Cradle",
+      "url": "https://open.spotify.com/track/2cyoqhQXL8HdbAydLtpUxZ"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 237346,
-      "name": "Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)",
-      "url": "https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb"
+      "duration_ms": 368693,
+      "name": "Lionsong",
+      "url": "https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

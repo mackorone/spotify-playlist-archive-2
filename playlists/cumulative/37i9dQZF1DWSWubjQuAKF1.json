@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 150093,
       "name": "Co\u015b mi jeszcze opowiedz",
       "url": "https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk"
@@ -4536,7 +4536,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 175759,
       "name": "gdyby\u015b istnia\u0142",
       "url": "https://open.spotify.com/track/6bqFDYGOfZccRDqsbae9we"
@@ -4620,6 +4620,24 @@
       "duration_ms": 179166,
       "name": "Give Me A Sign (feat. Caroline Kingsbury)",
       "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
+    },
+    {
+      "album": {
+        "name": "glitter in the night",
+        "url": "https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159974,
+      "name": "glitter in the night",
+      "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
     },
     {
       "album": {
@@ -5050,7 +5068,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 164221,
       "name": "HCWO",
       "url": "https://open.spotify.com/track/51CTffPkSbPmM43uabVKsn"
@@ -9608,6 +9626,24 @@
       "duration_ms": 134666,
       "name": "No sorry",
       "url": "https://open.spotify.com/track/52a7a5SEgQp16NUUKTMOWC"
+    },
+    {
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159929,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
     },
     {
       "album": {
@@ -14414,6 +14450,14 @@
         {
           "name": "Julka Grabowska",
           "url": "https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH"
+        },
+        {
+          "name": "Jxcob",
+          "url": "https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2"
+        },
+        {
+          "name": "MtZ",
+          "url": "https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu"
         }
       ],
       "date_added": "2026-06-11",
@@ -15003,6 +15047,24 @@
     },
     {
       "album": {
+        "name": "WHERE\u2019S THE FUN?",
+        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205794,
+      "name": "WHERE\u2019S THE FUN?",
+      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
+    },
+    {
+      "album": {
         "name": "Who are you?",
         "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
       },
@@ -15582,7 +15644,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 137605,
       "name": "wzrok, w kt\u00f3rym pl\u0105cze si\u0119 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK"
@@ -15694,6 +15756,24 @@
       "duration_ms": 202295,
       "name": "Z cukrem myl\u0119 l\u00f3d",
       "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
+    },
+    {
+      "album": {
+        "name": "Sen Multiplayer",
+        "url": "https://open.spotify.com/album/5ZkPA2Q81jb384KdAPBhAP"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Z cukru piach",
+      "url": "https://open.spotify.com/track/56FJDeFP8nB5pJfMd94VUv"
     },
     {
       "album": {

@@ -14657,6 +14657,36 @@
     },
     {
       "album": {
+        "name": "Dreamscope II",
+        "url": "https://open.spotify.com/album/1DYuZNEl8qXQvLktRcsBrK"
+      },
+      "artists": [
+        {
+          "name": "TJ DA ZULU",
+          "url": "https://open.spotify.com/artist/1ZwzT8SFz0FCQqyiuVlhjd"
+        },
+        {
+          "name": "JOEGAUTRY",
+          "url": "https://open.spotify.com/artist/130r1jFLHuM4KtYTX1YiES"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "name": "BOBBY HIT THE FAN",
+          "url": "https://open.spotify.com/artist/6kHlUQA2uSh1YinG7Nbdmo"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197679,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/2xEeMjuNsSp6YUcsDxNufC"
+    },
+    {
+      "album": {
         "name": "Dance (Remix)",
         "url": "https://open.spotify.com/album/3hTvPvn4PKsyzCaZYUZRN0"
       },
@@ -17824,6 +17854,32 @@
       "duration_ms": 116733,
       "name": "DONNY DARKO (FEAT. LIL UZI VERT)",
       "url": "https://open.spotify.com/track/50pQhQXKqqMPZUEKi7BnFC"
+    },
+    {
+      "album": {
+        "name": "DONT WORRY",
+        "url": "https://open.spotify.com/album/456voLlA49cyUQKtJznxsj"
+      },
+      "artists": [
+        {
+          "name": "Freddy Got Magic",
+          "url": "https://open.spotify.com/artist/019TO0knm3TR0pRqesSPSW"
+        },
+        {
+          "name": "Supa Bwe",
+          "url": "https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105432,
+      "name": "DONT WORRY",
+      "url": "https://open.spotify.com/track/2OepIzyiT13RBnDS5mj04P"
     },
     {
       "album": {
@@ -33870,7 +33926,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 449093,
       "name": "Interface",
       "url": "https://open.spotify.com/track/2xRYcFN3AFUBnFw9JLIybi"
@@ -40688,7 +40744,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 263380,
       "name": "Lost Soul (feat. Jonny Hawkins of NOTHING MORE)",
       "url": "https://open.spotify.com/track/58Wc8a3rwHfJNEh6zlUvG9"
@@ -49716,7 +49772,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 279233,
       "name": "OUT FOR BLOOD (Remix)",
       "url": "https://open.spotify.com/track/402sgKmHOGbqipVta8dr7P"
@@ -64867,6 +64923,28 @@
     },
     {
       "album": {
+        "name": "Tampa",
+        "url": "https://open.spotify.com/album/2PFL5PkWDL00RVI2B0vntA"
+      },
+      "artists": [
+        {
+          "name": "THE-DREAM",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218025,
+      "name": "Tampa (feat. USHER)",
+      "url": "https://open.spotify.com/track/1spHLxrlBblm3s12J4892k"
+    },
+    {
+      "album": {
         "name": "sneek",
         "url": "https://open.spotify.com/album/48KwaEx2y9uL0cHJBoKacx"
       },
@@ -74314,7 +74392,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 169959,
       "name": "Weekend in Your Eyes",
       "url": "https://open.spotify.com/track/4RrzYG2UxcwyIDbtLpOlof"
@@ -77810,7 +77888,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 330910,
       "name": "You & Me - Deetron Extended Remix",
       "url": "https://open.spotify.com/track/3OxkWuRJ4HmUgwvfIvhXxL"

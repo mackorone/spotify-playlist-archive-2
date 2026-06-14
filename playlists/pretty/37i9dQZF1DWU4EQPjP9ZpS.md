@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,605 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,652 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 84 | [Beyond Nostalgia](https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [Iconic Bitch](https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S) | 3:53 |
 | 85 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
 | 86 | [Turn the Fridge On](https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky) | [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [Midnight Store](https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl) | 2:37 |
-| 87 | [You're no one](https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp) | [Somburd](https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7) | [You're no one](https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR) | 2:24 |
-| 88 | [Fire Magic](https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Fire Magic](https://open.spotify.com/album/5I70VHdIilo0dbckapINnW) | 3:17 |
-| 89 | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090), [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE) | 2:56 |
+| 87 | [Fire Magic](https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Fire Magic](https://open.spotify.com/album/5I70VHdIilo0dbckapINnW) | 3:17 |
+| 88 | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090), [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE) | 2:56 |
+| 89 | [You're no one](https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp) | [Somburd](https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7) | [You're no one](https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR) | 2:24 |
 | 90 | [Sneakers for Men](https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF) | [Eyeliner](https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI) | [Buy Now](https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah) | 3:47 |
 | 91 | [Floppy Disk Prism](https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5) | [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3), [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68) | [Floppy Disk Prism](https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG) | 2:44 |
 | 92 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
 | 93 | [Fever Dream \- slowed + reverb](https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO) | [sunnbrella](https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB) | [Fever Dream \(slowed + reverb\)](https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ) | 3:52 |
-| 94 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
-| 95 | [Tennis](https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc) | [SPORTSGIRL](https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES) | [Sports](https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og) | 5:06 |
-| 96 | [Stunts](https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL) | [Teams](https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ) | [Dxys Xff](https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d) | 5:26 |
+| 94 | [Tennis](https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc) | [SPORTSGIRL](https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES) | [Sports](https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og) | 5:06 |
+| 95 | [Stunts](https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL) | [Teams](https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ) | [Dxys Xff](https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d) | 5:26 |
+| 96 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
 | 97 | [Fantasy](https://open.spotify.com/track/0R6sHfthUWXUwzPjhrV39z) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [Twin Elegance](https://open.spotify.com/album/4fIFny0pMaHkfMfwi4t21t) | 2:55 |
 | 98 | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/track/5f4JemFGhXM4755zhVElIi) | [Kyo\-2](https://open.spotify.com/artist/4eC4Y8j9lLRk0YcnDHH5cE), [Macintosh Plus](https://open.spotify.com/artist/2hkoUqWFI4KP39O9MViMY3), [Saint Pepsi](https://open.spotify.com/artist/3b014NFgLGBMV2q0sGyFQM), [Benny Alexander](https://open.spotify.com/artist/3sEoVGHwnRpTQGOicq6iJH) | [Tomorrow \(Slowed & Reverb\)](https://open.spotify.com/album/3jUuevbHg51FltoeAjJ7bi) | 3:34 |
 | 99 | [Enough](https://open.spotify.com/track/2OfHkj98A1QC2WXxrfH56F) | [Surfing](https://open.spotify.com/artist/2vTrzq2s1adq6MrQ5mdQNj) | [Emotion](https://open.spotify.com/album/3PQy1c37dHOzPfd2PLbRT4) | 2:57 |
-| 100 | [Glass Prism](https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 3:30 |
+| 100 | [Dillards](https://open.spotify.com/track/3jcJiuBKrGKQmdW4xdDiuW) | [Deadmalls](https://open.spotify.com/artist/2qFdnNDKLAb4RDfijF9gKt) | [Touched By an Angle, Vol\. 2](https://open.spotify.com/album/4zGSJQ8cPjwHbmeDtHrkfO) | 3:17 |
 
 Snapshot ID: `AAAAACd5bsDncuj7hP9d+aehWbTvCnq4`

@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 697085,
+  "num_followers": 697149,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Siamese Dream (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Rocket - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Logos",
         "url": "https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 238893,
       "name": "Walkabout (W/ Noah Lennox)",
       "url": "https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Rocket - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Hover",
-        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
-      },
-      "artists": [
-        {
-          "name": "the sleepover disaster",
-          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
-        }
-      ],
-      "duration_ms": 297813,
-      "name": "Dark Star",
-      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Creation",
         "url": "https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 301224,
       "name": "Flood in Heaven",
       "url": "https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Hover",
+        "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
+      },
+      "artists": [
+        {
+          "name": "the sleepover disaster",
+          "url": "https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk"
+        }
+      ],
+      "duration_ms": 297813,
+      "name": "Dark Star",
+      "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
     },
     {
       "added_at": "2021-06-03 02:39:04",

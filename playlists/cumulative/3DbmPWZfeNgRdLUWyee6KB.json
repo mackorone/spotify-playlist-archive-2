@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Alwida",
+        "url": "https://open.spotify.com/album/3uILzk0zDdni99ISE7Wi3N"
+      },
+      "artists": [
+        {
+          "name": "Melodic Devesh",
+          "url": "https://open.spotify.com/artist/2WAxrHRaxuJMtEHNF31qjr"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "Alwida",
+      "url": "https://open.spotify.com/track/1pip1R2XZVF6mq0SZiUlJH"
+    },
+    {
+      "album": {
         "name": "Amores Verdadeiros",
         "url": "https://open.spotify.com/album/3MGsphbmnz4m1lA9CGKRwf"
       },
@@ -2438,6 +2456,24 @@
       "duration_ms": 177236,
       "name": "Bossa",
       "url": "https://open.spotify.com/track/4YqjBKMp0QekJsGedjTNUI"
+    },
+    {
+      "album": {
+        "name": "Boy Next Door",
+        "url": "https://open.spotify.com/album/5dqky6vKPGW81nAaSshzr3"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/66Fil4hOah2YFjf7HRBRGz"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123738,
+      "name": "Boy Next Door",
+      "url": "https://open.spotify.com/track/5EHR4uVoXlshVyS5GpsiaD"
     },
     {
       "album": {

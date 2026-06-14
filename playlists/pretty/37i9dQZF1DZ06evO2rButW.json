@@ -1,13 +1,29 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 789477,
+  "num_followers": 789569,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAABK5WKENKBH8kzXWLOEKgYQ",
+  "snapshot_id": "aitMAAAAAAD0ZV0buG0zdrA08DVfLmRR",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 249124,
+      "name": "A Pesar De Ti y De Mi",
+      "url": "https://open.spotify.com/track/5Mj8nBsQg04h33UXNfEONY"
+    },
     {
       "added_at": null,
       "album": {
@@ -403,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pesar De Ti y De Mi",
-        "url": "https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 249124,
-      "name": "A Pesar De Ti y De Mi",
-      "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -519,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paisaje Japon\u00e9s",
-        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
       "artists": [
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 204733,
-      "name": "Paisaje Japon\u00e9s",
-      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
+      "duration_ms": 189000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
     },
     {
       "added_at": null,
@@ -551,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+        "name": "Paisaje Japon\u00e9s",
+        "url": "https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX"
       },
       "artists": [
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 189000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
+      "duration_ms": 204733,
+      "name": "Paisaje Japon\u00e9s",
+      "url": "https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Caminante",
-        "url": "https://open.spotify.com/album/3GoP2zfwzLlr23wpjZYwOw"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 220867,
-      "name": "La Danza de las Lib\u00e9lulas",
-      "url": "https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
         "url": "https://open.spotify.com/album/73bl7uuU24ECvfzzE6vIgl"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 242478,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Caminante",
+        "url": "https://open.spotify.com/album/3GoP2zfwzLlr23wpjZYwOw"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 220867,
+      "name": "La Danza de las Lib\u00e9lulas",
+      "url": "https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl"
     },
     {
       "added_at": null,

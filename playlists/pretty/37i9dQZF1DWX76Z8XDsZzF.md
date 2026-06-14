@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 
 > Sit back, and chill with Bollywood's easygoing hits\. Cover \- Param Sundari
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,408 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,799 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 | 9 | [Ishq Nibhaavan De \(From "Chand Mera Dil"\)](https://open.spotify.com/track/029SqqNDwuG5tueOaArCoZ) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Chand Mera Dil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb) | 3:49 |
 | 10 | [Tum Se Hi](https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 5:21 |
 | 11 | [Mann Mera](https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ) | 3:20 |
-| 12 | [Ishq de Fanniyar \- Female Version](https://open.spotify.com/track/6JARNpkUypyzQEltxZM95O) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Fukrey Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7drFYOHaoPC5uqoUKJ03fP) | 2:57 |
+| 12 | [Ishq de Fanniyar \- Female Version](https://open.spotify.com/track/6JARNpkUypyzQEltxZM95O) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Fukrey Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7drFYOHaoPC5uqoUKJ03fP) | 2:57 |
 | 13 | [Chand Mera Dil \- Title Track](https://open.spotify.com/track/7GQB2CWQcahCLCCNQHKWXM) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Chand Mera Dil \(Title Track\)](https://open.spotify.com/album/1ttzMgG7D1bPl2adfo1lbD) | 4:40 |
 | 14 | [Hua Main \(From "ANIMAL"\)](https://open.spotify.com/track/54PRUdMOYzglMGnsg9kIta) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Hua Main \(From "ANIMAL"\)](https://open.spotify.com/album/1Vkdf3mTQV4RakJBz0HbgT) | 4:37 |
 | 15 | [O Meri Laila](https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 4:41 |

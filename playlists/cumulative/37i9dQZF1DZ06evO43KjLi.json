@@ -313,6 +313,32 @@
     },
     {
       "album": {
+        "name": "Flicka",
+        "url": "https://open.spotify.com/album/1OmoePoGTxRMnwpZGKRxEz"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Bandi2",
+          "url": "https://open.spotify.com/artist/31hQsDuP9VSY5kc5jQnQfW"
+        },
+        {
+          "name": "Panchito7",
+          "url": "https://open.spotify.com/artist/1jaFWeTddSp6FaFEu4F0VE"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210260,
+      "name": "Flicka",
+      "url": "https://open.spotify.com/track/7qRV8RjurS5tMLbFprMuGH"
+    },
+    {
+      "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c9liane Radigue. The essential tracks, all in one playlist.",
-  "num_followers": 402,
+  "num_followers": 404,
   "original_name": "This Is \u00c9liane Radigue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAAZkG/zXLloJCdNz4XTE+J5",
+  "snapshot_id": "aitMAAAAAABmuJl8VmpAfy4bS9QitaHm",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 58000,
-      "name": "Perception par l'auditeur",
-      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
+      "duration_ms": 101362,
+      "name": "Le synth\u00e9tiseur",
+      "url": "https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 101362,
-      "name": "Le synth\u00e9tiseur",
-      "url": "https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh"
+      "duration_ms": 44700,
+      "name": "Son miroir",
+      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 44700,
-      "name": "Son miroir",
-      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
+      "duration_ms": 87608,
+      "name": "Le temps",
+      "url": "https://open.spotify.com/track/1dzVjOWPeEwUrjBrcoIWpZ"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

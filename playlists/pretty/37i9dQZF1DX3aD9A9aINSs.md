@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Ayşe Hatun Önal
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,629 likes - 61 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,627 likes - 61 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

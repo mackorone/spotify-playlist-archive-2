@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Hemang
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,637 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,639 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 2 | [Tu Na Aayi](https://open.spotify.com/track/5gsovysICg6TJVRUf0ZM16) | [Snehil Jain](https://open.spotify.com/artist/4NomYUWemetc7nCw28G5HF), [Sahil Joshi](https://open.spotify.com/artist/7gp4BOQuRrBqOkCZr32tVf) | [Tu Na Aayi](https://open.spotify.com/album/1hD581ohlD9YwRxzky1YpR) | 3:16 |
 | 3 | [Bepanah](https://open.spotify.com/track/6qDUnZ8ciH2je4EE8v6O5v) | [Eden's Echo](https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd) | [Bepanah](https://open.spotify.com/album/0Wm2kJdSfu890poEoQYvPQ) | 3:07 |
 | 4 | [absent\-minded freak](https://open.spotify.com/track/2HG0beWmR0ZXuzxAZw8Zq6) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [absent\-minded freak](https://open.spotify.com/album/6sEg11bzLRFBo1quGNwKhS) | 2:36 |
-| 5 | [Satao Na](https://open.spotify.com/track/76yWBF5SYoZ5I7NhAun1yA) | [Janani Kamakshi](https://open.spotify.com/artist/7jkSVwry5EOYQlZRoEAkLn) | [Satao Na](https://open.spotify.com/album/5shgMPqzyxDYwRxNEYlXbi) | 2:47 |
+| 5 | [Satao Na](https://open.spotify.com/track/76yWBF5SYoZ5I7NhAun1yA) | [Janani Kamakshi](https://open.spotify.com/artist/7jkSVwry5EOYQlZRoEAkLn), [Shubhank Chaube](https://open.spotify.com/artist/0uvov1rJmPqLOrhHCEtV6p) | [Satao Na](https://open.spotify.com/album/5shgMPqzyxDYwRxNEYlXbi) | 2:47 |
 | 6 | [How Do I Love?](https://open.spotify.com/track/7b6A3dnfqJPZoAInvbnrI1) | [Rahul Advani](https://open.spotify.com/artist/4ol2EjDnh4lRaTk3lfFtQb) | [How Do I Love?](https://open.spotify.com/album/2gmWnuQsYitAwUYJMfTJNe) | 3:47 |
 | 7 | [Oba](https://open.spotify.com/track/4eckcb7lW7atOL4fsvXFgk) | [Imna Yaden](https://open.spotify.com/artist/0CcmQrW17ymOeBWkgvg1vR) | [Oba](https://open.spotify.com/album/2CmDSY9Eglr8uTBFi5DYpF) | 4:21 |
 | 8 | [Hey June](https://open.spotify.com/track/27bUIbEoE5wR5TSOKwbJwU) | [KL Pamei](https://open.spotify.com/artist/10JY3GePCb2FoUtokVcMCT) | [Hey June](https://open.spotify.com/album/1GSMyCTYOXy5lM0cUzVA7d) | 3:07 |

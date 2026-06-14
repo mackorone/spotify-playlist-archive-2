@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 
 > This is 3 Doors Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,129 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,138 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 12 | [Back To Me](https://open.spotify.com/track/5Zft9zIODo7ZnImwcbaO4Z) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:42 |
 | 13 | [In The Dark](https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:43 |
 | 14 | [The Road I'm On](https://open.spotify.com/track/2C1m7Lw5cUpFWUkN6Tovik) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:59 |
-| 15 | [Kryptonite](https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
-| 16 | [Citizen/Soldier](https://open.spotify.com/track/7fKsaiVDwKe6VVsiGk48YG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:52 |
+| 15 | [Citizen/Soldier](https://open.spotify.com/track/7fKsaiVDwKe6VVsiGk48YG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:52 |
+| 16 | [Kryptonite](https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
 | 17 | [Landing In London](https://open.spotify.com/track/69fOcFyjsjZtUHyWGEQndl) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9), [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 4:31 |
 | 18 | [Changes](https://open.spotify.com/track/0oNiYKgINhqhPuwE9LTlj1) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:56 |
 | 19 | [Goodbyes](https://open.spotify.com/track/2feU3FmmtVqQpefx0GoxrJ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Greatest Hits](https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR) | 3:50 |
@@ -41,21 +41,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 31 | [Not Enough](https://open.spotify.com/track/7oJxBvERnRP6u0uOm14cjN) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:14 |
 | 32 | [Believer](https://open.spotify.com/track/52eLB9JCFxSoSa2m4FWlTW) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 2:58 |
 | 33 | [Love Is A Lie](https://open.spotify.com/track/0jk9W6CRI2Yv0UGzfUEL00) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 2:47 |
-| 34 | [Here By Me](https://open.spotify.com/track/4WuuMrsyFVUciCMCpVjFrM) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 3:47 |
-| 35 | [Train](https://open.spotify.com/track/65NzNVv3O6nxffiXXeL9ZT) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:10 |
+| 34 | [Train](https://open.spotify.com/track/65NzNVv3O6nxffiXXeL9ZT) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:10 |
+| 35 | [Here By Me](https://open.spotify.com/track/4WuuMrsyFVUciCMCpVjFrM) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 3:47 |
 | 36 | [Long Day](https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:38 |
 | 37 | [Pieces Of Me](https://open.spotify.com/track/0sRrj1NwBTk8ldxl1lg7NC) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:38 |
-| 38 | [It's Not Me](https://open.spotify.com/track/4Ade7jYfOfh7T9Bag0THDH) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 3:14 |
-| 39 | [Pages](https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:47 |
-| 40 | [The Real Life](https://open.spotify.com/track/2eTshd2WZ4m6ta9aO157iF) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
+| 38 | [Pages](https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:47 |
+| 39 | [It's Not Me](https://open.spotify.com/track/4Ade7jYfOfh7T9Bag0THDH) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 3:14 |
+| 40 | [Something In My Mind](https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:18 |
 | 41 | [The Broken](https://open.spotify.com/track/3jdo9L1HZ17JJ3TTWq0v6R) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 2:46 |
-| 42 | [Be Somebody](https://open.spotify.com/track/0z6aqMJAl7TbCP4okrKcHs) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 3:15 |
-| 43 | [Something In My Mind](https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:18 |
-| 44 | [When It's Over](https://open.spotify.com/track/5YseXPW7e6yxH30osSScQ1) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 4:16 |
-| 45 | [Man In My Mind \- Escatawpa Sessions](https://open.spotify.com/track/0yIKS8yoBE67mwyfMm1es4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life \(20th Anniversary / Deluxe\)](https://open.spotify.com/album/2drHOqyJSkIzS3zFUWMjMF) | 3:04 |
-| 46 | [Pop Song](https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:10 |
+| 42 | [The Real Life](https://open.spotify.com/track/2eTshd2WZ4m6ta9aO157iF) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
+| 43 | [Be Somebody](https://open.spotify.com/track/0z6aqMJAl7TbCP4okrKcHs) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 3:15 |
+| 44 | [Pop Song](https://open.spotify.com/track/6LumUhm2FDJYwsRNE21V4J) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:10 |
+| 45 | [When It's Over](https://open.spotify.com/track/5YseXPW7e6yxH30osSScQ1) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 4:16 |
+| 46 | [Man In My Mind \- Escatawpa Sessions](https://open.spotify.com/track/0yIKS8yoBE67mwyfMm1es4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life \(20th Anniversary / Deluxe\)](https://open.spotify.com/album/2drHOqyJSkIzS3zFUWMjMF) | 3:04 |
 | 47 | [Living A Lie](https://open.spotify.com/track/0h21bkO9NsR6i24ajwaA38) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:34 |
 | 48 | [That Smell](https://open.spotify.com/track/2SPKOzUEeuXlZgUQ1OzEeh) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 5:48 |
 | 49 | [Dead Love \- Early Version](https://open.spotify.com/track/0DaLO1tFuqya69xGEoTEAG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:05 |
 
-Snapshot ID: `ain6gAAAAABozno4scNDcoofr+MMX4gd`
+Snapshot ID: `aitMAAAAAAAuBQSL4v3PkTg/AZ64IxS2`

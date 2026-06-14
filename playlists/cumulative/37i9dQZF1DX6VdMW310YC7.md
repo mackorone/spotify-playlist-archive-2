@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,904 songs - 5 day 9 hr 17 min
+1,905 songs - 5 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,7 +582,7 @@
 | [Focus on the Future](https://open.spotify.com/track/0ir5wRRM1F9E9sWVDiV3cx) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:55 | 2020-03-17 | 2022-01-13 |
 | [Follow](https://open.spotify.com/track/42DWH94DHBMQLJChi2PYh1) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Follow EP](https://open.spotify.com/album/04tT2en23cD8al8SiDQPwE) | 4:56 | 2025-06-27 | 2025-07-05 |
 | [Fondness](https://open.spotify.com/track/6imvrMl7lgBPWsl4P7gkdC) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Fondness](https://open.spotify.com/album/2wcnjCjXyIGM7huGhwNGfg) | 2:22 | 2020-03-16 | 2021-12-20 |
-| [Fool](https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP) | [Palisade](https://open.spotify.com/artist/51knFsooF002cLj6fRUJny), [Ophanim](https://open.spotify.com/artist/2YwyA5Urid8g7xLN5Gf52b), [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Fool](https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb) | 3:54 | 2025-12-19 |  |
+| [Fool](https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP) | [Palisade](https://open.spotify.com/artist/51knFsooF002cLj6fRUJny), [Ophanim](https://open.spotify.com/artist/2YwyA5Urid8g7xLN5Gf52b), [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Fool](https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb) | 3:54 | 2025-12-19 | 2026-06-14 |
 | [Fooling Myself](https://open.spotify.com/track/46cuPz9v6oKpDlCrg4QaAw) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:07 | 2020-03-16 | 2022-04-24 |
 | [For A Day](https://open.spotify.com/track/2LW1mCijFx9NqEF7nwiw1y) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Koppo](https://open.spotify.com/artist/7LfTKHf1ByHkl02oIeNRef), [Extra Special](https://open.spotify.com/artist/1ANEORYDjMsHrF42Du60CW) | [For A Day](https://open.spotify.com/album/0LfJvFH95Xhm0KH5u9nj5m) | 6:27 | 2026-03-20 | 2026-04-04 |
 | [For The Weak \(with Freddii\)](https://open.spotify.com/track/6IVOIIsAZzJzZVMzPvngMl) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Freddii](https://open.spotify.com/artist/5FIydByYlH4IGhHWZP7E1m) | [For The Weak \(with Freddii\)](https://open.spotify.com/album/1KhCbHdbsF9XaYskU5HtM6) | 3:13 | 2021-12-17 | 2021-12-24 |
@@ -1055,6 +1055,7 @@
 | [Making Time x Cycles](https://open.spotify.com/track/6Ffy25UA4G6BFw7Q5sS8wB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time x Cycles](https://open.spotify.com/album/4n2aCkAqTfzoM6dsZ52r2e) | 4:39 | 2023-07-07 | 2023-07-28 |
 | [Mala](https://open.spotify.com/track/5Fv4EVQN6GEYYnMZ3L6NOl) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:01 | 2020-03-19 | 2022-06-30 |
 | [Mana](https://open.spotify.com/track/6BO5kq5A7XCntn2SoQws0v) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Mana](https://open.spotify.com/album/16rmHSa9CPjFFrWH3zFG74) | 3:32 | 2020-03-21 | 2022-08-25 |
+| [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 | 2026-06-12 |  |
 | [Manila Palm](https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:33 | 2021-07-16 | 2023-09-09 |
 | [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 | 2023-07-21 | 2024-04-19 |
 | [Maradona](https://open.spotify.com/track/0y7JsPpdF6D75aHOZK998j) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [This Is Me](https://open.spotify.com/album/4OWqEzeZzgCPf40QoCIWMY) | 3:11 | 2020-05-22 | 2020-07-03 |

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-605 songs - 1 day 12 hr 2 min
+606 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-11 | 2025-10-25 |
 | [Feu sacré](https://open.spotify.com/track/64hbPzpaWfHw2V5j11odlp) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [Antoine Lachance](https://open.spotify.com/album/1eUbhI4uMivdZOtrGVrdmP) | 3:38 | 2021-01-15 | 2022-07-27 |
 | [Fever Dream](https://open.spotify.com/track/0HOg1ZVNtEUUZAmJQ1wCjQ) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1), [Kandle](https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:39 | 2025-07-07 | 2026-01-06 |
+| [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 | 2026-06-12 |  |
 | [File d'attente](https://open.spotify.com/track/5bKR5u7anmLED2AmivuVsR) | [David Marin](https://open.spotify.com/artist/4uzgr1qYBaIRZVCilj6vcU) | [File d'attente](https://open.spotify.com/album/6Gl0JODD6VE3Ubgs1ZZu8f) | 3:38 | 2021-07-19 | 2021-09-20 |
 | [Fille comme toi](https://open.spotify.com/track/4LppGJVGSYyTOltD5zuI6s) | [Vinni Payne](https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59) | [Fille comme toi](https://open.spotify.com/album/0OntlsOCuKTF4YM1n4KjTQ) | 2:59 | 2025-11-07 | 2025-11-11 |
 | [fin pm](https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv) | 3:11 | 2026-01-30 |  |
@@ -474,7 +475,7 @@
 | [Rosier\-douleur](https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:18 | 2021-01-15 |  |
 | [Rue de l'ours \- version du dimanche](https://open.spotify.com/track/67q2II41CAGAn3XAeE3qpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours](https://open.spotify.com/album/77bSNDdVvlZALzMY2LKpsH) | 2:22 | 2021-06-13 | 2021-09-11 |
 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 | 2026-01-30 |  |
-| [Rêve américain](https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rêve américain](https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0) | 3:37 | 2026-05-01 |  |
+| [Rêve américain](https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rêve américain](https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0) | 3:37 | 2026-05-01 | 2026-06-14 |
 | [S'il te plaît, fais\-moi danser](https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Treize chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx) | 2:46 | 2026-01-30 | 2026-05-16 |
 | [Sagesse](https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq) | [Patrick Prévost](https://open.spotify.com/artist/0dcJ5ddhY1kBbYM0990Wrf) | [Feu de shed](https://open.spotify.com/album/6Ro82MDllRMgOUMKihEtVf) | 4:04 | 2021-01-03\* | 2022-07-28 |
 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 | 2022-02-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Murex✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,914 likes - 304 songs - 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,923 likes - 304 songs - 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

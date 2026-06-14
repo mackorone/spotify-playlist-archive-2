@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Tree63",
-  "num_followers": 27862,
+  "num_followers": 27864,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "As Jy Met Vuur Speel Sal Jy Brand",
-        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
-      },
-      "artists": [
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
-        }
-      ],
-      "duration_ms": 159253,
-      "name": "Hemel Op Die Platteland",
-      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Elsie",
         "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 156191,
       "name": "Elsie",
       "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "As Jy Met Vuur Speel Sal Jy Brand",
+        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "Hemel Op Die Platteland",
+      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
       "added_at": "2026-06-12 06:02:15",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Pikkewynstraat",
         "url": "https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Revolusie, Romantiek, Ruk en Rol",
-        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
       "artists": [
         {
-          "name": "Glaskas",
-          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
-      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -691,6 +675,22 @@
       "duration_ms": 167727,
       "name": "Stellies (feat. Rooksein)",
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Revolusie, Romantiek, Ruk en Rol",
+        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
+      },
+      "artists": [
+        {
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
+      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Kenia",
-        "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 225483,
-      "name": "Kenia",
-      "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Berge",
         "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 255722,
       "name": "Berge",
       "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Kenia",
+        "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "duration_ms": 225483,
+      "name": "Kenia",
+      "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
     },
     {
       "added_at": "2026-04-24 09:03:29",

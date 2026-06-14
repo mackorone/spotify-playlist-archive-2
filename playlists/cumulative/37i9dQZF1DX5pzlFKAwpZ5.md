@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-394 songs - 1 day 4 hr 24 min
+396 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Blue Drizzling](https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7) | 8:16 | 2022-10-10 | 2024-04-19 |
 | [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 | 2022-01-07 | 2025-01-25 |
 | [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 | 2025-02-09 |  |
+| [BLUR](https://open.spotify.com/track/7sLkdm1CIDfTIFizosBODL) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [BLUR](https://open.spotify.com/album/105aiznYDd8TlZ3p2s1IqA) | 1:36 | 2026-06-12 |  |
 | [Boku Wa Obake](https://open.spotify.com/track/0iNfgOPZsR6YviAfm96lxa) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Boku Wa Obake](https://open.spotify.com/album/01xypQ8STDaKbaZG0SxQ3h) | 7:38 | 2026-05-12 |  |
 | [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 | 2022-01-07 | 2023-09-09 |
 | [Breaking Dawn](https://open.spotify.com/track/36UIW0lRwokuSQHgkdraAI) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y) | 2:43 | 2023-09-08 | 2024-04-19 |
@@ -103,6 +104,7 @@
 | [Esperanza / 希望](https://open.spotify.com/track/1DzMkx08Zq6aDDhsRDVnPb) | [nubo](https://open.spotify.com/artist/0RtoXCR1PcmkcM2iZ3d8L6) | [Planetary Vision / 惑星のビジョン](https://open.spotify.com/album/1K3cMdPAW2O4r7a8MzvtHd) | 3:55 | 2024-02-29 |  |
 | [evenfall](https://open.spotify.com/track/6XUm38qEK98xc1WoJZUb8r) | [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [evenfall](https://open.spotify.com/album/4XHVYUTZ66OAkvUwcRyeO6) | 2:44 | 2026-03-09 |  |
 | [Evocations 2](https://open.spotify.com/track/7LsaMGZqUxbfujsF4ML0HG) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 7:11 | 2022-12-30 | 2023-08-19 |
+| [Familial Tones](https://open.spotify.com/track/3qM7XZwkDp7pKZtaSJynZq) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Familial Tones](https://open.spotify.com/album/1xFKbhp8x5fuK59GwdG8Rd) | 4:06 | 2026-06-12 |  |
 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 | 2022-12-30 | 2025-05-03 |
 | [fight and loving](https://open.spotify.com/track/4pTFdtpi58dNolsLI0frH6) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Blue Hour](https://open.spotify.com/album/2au1O3x9ExS0W7holTpntB) | 3:55 | 2026-05-30 |  |
 | [Firing \(feat\. Shimatani Shoryu Kobo\)](https://open.spotify.com/track/6zbYuGYwr34odkFt5KeJmv) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO), [Shimatani Shoryu Kobo](https://open.spotify.com/artist/35TkW5XHiRnfHTbw5O0o6R) | [VAGUE](https://open.spotify.com/album/3wwGYCEB35E5K5MAKjALtS) | 6:01 | 2022-01-07 | 2026-05-28 |
@@ -193,7 +195,7 @@
 | [Look At My Snowman](https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossroads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 4:24 | 2022-02-22 |  |
 | [Lost](https://open.spotify.com/track/7bwj1PDvfKqa0AvAhK9bwN) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 2:42 | 2022-01-07 |  |
 | [Lotusland](https://open.spotify.com/track/0XK0t54tahEMTfvSf73iUu) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Arcadia](https://open.spotify.com/album/6gy6mL4HSYzlYFgumVCdYK) | 4:40 | 2022-01-07 | 2023-08-19 |
-| [LULL](https://open.spotify.com/track/6hSrJKrASONXLrLekOg6Kc) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Lips](https://open.spotify.com/album/3UtPbex4PDom5Up7AfMHZZ) | 1:47 | 2026-04-08 |  |
+| [LULL](https://open.spotify.com/track/6hSrJKrASONXLrLekOg6Kc) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Lips](https://open.spotify.com/album/3UtPbex4PDom5Up7AfMHZZ) | 1:47 | 2026-04-08 | 2026-06-14 |
 | [Luminance](https://open.spotify.com/track/4c6yOy3ue1sYWKWxaedSev) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [井口理](https://open.spotify.com/artist/573aEcIHzIyX9guZtasykj) | [国宝　オリジナル・サウンドトラック](https://open.spotify.com/album/71zMCedoxuCj0m108ODrFL) | 4:39 | 2025-08-29 |  |
 | [Luminous](https://open.spotify.com/track/0x3TVsyBVHoaZnZVDdg1Vt) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Blue](https://open.spotify.com/album/1iP5wtr2dm9MdiMvwaOlgY) | 2:23 | 2022-01-07 | 2023-04-22 |
 | [lunar longing](https://open.spotify.com/track/6eKuXiRbo9ElFZO1f3lQWk) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [lunar longing](https://open.spotify.com/album/4zOzOegSYCfl8o7qTTwTEP) | 2:54 | 2025-09-18 |  |
@@ -211,7 +213,7 @@
 | [Mirrors of Still Light](https://open.spotify.com/track/3SWw83rPPkoTA2Vkg7GSiH) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Mirrors of Still Light](https://open.spotify.com/album/5yFNswrkN1lATKr3USIrW2) | 3:36 | 2025-08-20 | 2025-09-03 |
 | [Mist awaiting the light](https://open.spotify.com/track/0mmGwGuWrmSY85frP2kuHh) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0), [Daniel H Pereira](https://open.spotify.com/artist/3dvwZUIWhEpWyqP9hk1StN) | [Mist awaiting the light](https://open.spotify.com/album/1z5aR8r2hCX4BwNSiy9Zmn) | 3:35 | 2026-06-12 |  |
 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 | 2025-04-17 |
-| [Moon Dance in Tokyo](https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Moon Dance in Tokyo](https://open.spotify.com/album/07BA8mB6Q7tC9uJ5ySSTPr) | 2:34 | 2026-01-23 |  |
+| [Moon Dance in Tokyo](https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Moon Dance in Tokyo](https://open.spotify.com/album/07BA8mB6Q7tC9uJ5ySSTPr) | 2:34 | 2026-01-23 | 2026-06-14 |
 | [morning dew](https://open.spotify.com/track/7ESmIsEJMeZryYQEG4JUky) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [morning dew](https://open.spotify.com/album/2pCZEibDB6sYdHPbAmvHzl) | 2:08 | 2026-01-23 | 2026-04-03 |
 | [Motionless Wings](https://open.spotify.com/track/6l7YuElJh8Ru2yWNnr5iHd) | [Stephen Vitiello](https://open.spotify.com/artist/6UmTNwMWHnVgSA49K7aY8Y) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 4](https://open.spotify.com/album/1P84OiiCx9pqvAN0RSNX0o) | 6:33 | 2024-11-30 | 2024-12-15 |
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 | 2023-08-19 |

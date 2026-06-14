@@ -6945,6 +6945,60 @@
     },
     {
       "album": {
+        "name": "BELE",
+        "url": "https://open.spotify.com/album/4NqPDHUS2hhmRuWTdQNOXF"
+      },
+      "artists": [
+        {
+          "name": "Mahoota",
+          "url": "https://open.spotify.com/artist/4ak8w8LmNVLnT4sULNEimt"
+        },
+        {
+          "name": "Mark Khoza",
+          "url": "https://open.spotify.com/artist/788f3u39ABDYpjpz0HPXjD"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Candy Flow RSA",
+          "url": "https://open.spotify.com/artist/1b5fRGLPLWV69MK4HGohFo"
+        },
+        {
+          "name": "Vetkuk",
+          "url": "https://open.spotify.com/artist/0N6CgWlBaskJj7kaAXSath"
+        },
+        {
+          "name": "Sheshy",
+          "url": "https://open.spotify.com/artist/30V6ypeu0szdh2dpD3725A"
+        },
+        {
+          "name": "Jaiva Sox",
+          "url": "https://open.spotify.com/artist/2hsljU3w8H0Ci3vaox31mo"
+        },
+        {
+          "name": "Druza",
+          "url": "https://open.spotify.com/artist/3gvg4SizYMzzdniS1mYtlj"
+        },
+        {
+          "name": "Sino Ndofaya",
+          "url": "https://open.spotify.com/artist/0e1DNpixRMBWGj3iLzSQHp"
+        },
+        {
+          "name": "Sportman Striker",
+          "url": "https://open.spotify.com/artist/53eNdRaI8QPR9yuYR1FV0M"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360530,
+      "name": "BELE",
+      "url": "https://open.spotify.com/track/6oEHhZnufw9TNzvpACNGId"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -10696,7 +10750,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -16638,7 +16692,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 308950,
       "name": "Ezohlala Nawe",
       "url": "https://open.spotify.com/track/7FUviW38N6A2UtkRnMkyKt"
@@ -20882,7 +20936,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 386482,
       "name": "Head Movement",
       "url": "https://open.spotify.com/track/1uJXJdzBwA6Tx8WWi8ngBO"
@@ -29788,7 +29842,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 183653,
       "name": "Lapisa",
       "url": "https://open.spotify.com/track/15RIqHfkskCDHe5ore07F4"
@@ -34678,7 +34732,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -35862,7 +35916,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 272033,
       "name": "Mopepe",
       "url": "https://open.spotify.com/track/6L1PVPyrnb20UrFzuBBqoy"
@@ -43190,7 +43244,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 195678,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
@@ -44696,7 +44750,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 247183,
       "name": "Ran To Atlanta (feat. Future & Molly Santana)",
       "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
@@ -51588,7 +51642,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -51820,6 +51874,24 @@
       "duration_ms": 165365,
       "name": "Stripes",
       "url": "https://open.spotify.com/track/1uVpFlnT4n8JSPbvG32DLe"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
     },
     {
       "album": {
@@ -56634,7 +56706,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 203388,
       "name": "U XA",
       "url": "https://open.spotify.com/track/2iUNIB5d8YnPEYvn3QjaAg"
@@ -64128,7 +64200,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 308241,
       "name": "ZEP (feat. Uncool MC)",
       "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"
@@ -64380,7 +64452,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 302298,
       "name": "Zwo's Prayer for the nation",
       "url": "https://open.spotify.com/track/66csxfTZOMwerz9xAQAF9t"

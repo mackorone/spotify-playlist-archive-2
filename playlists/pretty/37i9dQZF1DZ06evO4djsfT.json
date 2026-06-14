@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAADrr6bGYYzj0MvQz5fjg3n1",
+  "snapshot_id": "aitMAAAAAACiAW2rg0sF22lfNCRd/VOU",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLOOD 2",
-        "url": "https://open.spotify.com/album/3u5CY0qvMmaIIM6Smj2MyX"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "CALEB CONLEY",
-          "url": "https://open.spotify.com/artist/1qBL71UwVI5rFWyhIXuDA4"
-        }
-      ],
-      "duration_ms": 158330,
-      "name": "BLOOD 2",
-      "url": "https://open.spotify.com/track/3vYdFpkCK3OzNjLxEvhCMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Prodigal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 156480,
       "name": "Prove It",
       "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLOOD 2",
+        "url": "https://open.spotify.com/album/3u5CY0qvMmaIIM6Smj2MyX"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "CALEB CONLEY",
+          "url": "https://open.spotify.com/artist/1qBL71UwVI5rFWyhIXuDA4"
+        }
+      ],
+      "duration_ms": 158330,
+      "name": "BLOOD 2",
+      "url": "https://open.spotify.com/track/3vYdFpkCK3OzNjLxEvhCMR"
     },
     {
       "added_at": null,

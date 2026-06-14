@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,449 likes - 158 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,451 likes - 158 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 51 | [Work It Out \(feat\. Digital Farm Animals\)](https://open.spotify.com/track/2Zh7PQ1JFEsBclf7WIsfIV) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [3](https://open.spotify.com/album/5RpkF55XZzzpWO0CnqcWw8) | 3:18 |
 | 52 | [Liberated](https://open.spotify.com/track/5OQByVDbs9788HBRIBqgNW) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Liberated](https://open.spotify.com/album/18fTRuJJDlbhrl2SREyuJA) | 3:19 |
 | 53 | [We Lied To Each Other](https://open.spotify.com/track/6QWDugB33Mqc4v0Q0IlCbF) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:35 |
-| 54 | [Vampire](https://open.spotify.com/track/4x6KNgwA99loNZcRYrFzod) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/3eKNnH66JwNGWV5F3ZGP55) | 3:34 |
+| 54 | [Vampire](https://open.spotify.com/track/2oQ8SEjzU4hyfmpHVmJHYY) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/4fIo4wTSXhhTL9G6qczeGc) | 3:34 |
 | 55 | [Feel Something](https://open.spotify.com/track/0tWIkkUNwzNBP0GhppjpPK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:04 |
 | 56 | [Machine](https://open.spotify.com/track/4hGBLGIu8Gbqs6C0gqVEb1) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 4:07 |
 | 57 | [Love and Run \(feat\. Teddy Geiger\)](https://open.spotify.com/track/4vRjuGwYH9xynPVGCIoFRI) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mark Alston](https://open.spotify.com/artist/55LAgmu5JoT54oEhWAek3r), [Baggi Begovic](https://open.spotify.com/artist/0LmGRzLBFtZh9TtebFpmt3), [Jason Taylor](https://open.spotify.com/artist/0Po6fBwj4MdkVxXr2PeHN4), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Club Life, Vol\. 3 \- Stockholm](https://open.spotify.com/album/5pbsUGC9LpIf2r9QSfJpGZ) | 5:25 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 157 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 158 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcUDkAAAAABnKJ2yPAqHk4K9g50coJWD`
+Snapshot ID: `AcUJMAAAAABzitQ7VfQyK4LoI/Mnalad`

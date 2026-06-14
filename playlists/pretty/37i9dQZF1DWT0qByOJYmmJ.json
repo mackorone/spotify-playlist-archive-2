@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 629139,
+  "num_followers": 629127,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -75,38 +75,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "eduardo",
-        "url": "https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "contenta,",
-      "url": "https://open.spotify.com/track/1YlXMOHqJVWzFaaQLeekPt"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Corta Venas",
         "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
       },
@@ -127,18 +95,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+        "name": "eduardo",
+        "url": "https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
         }
       ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+      "duration_ms": 226280,
+      "name": "contenta,",
+      "url": "https://open.spotify.com/track/1YlXMOHqJVWzFaaQLeekPt"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -159,18 +127,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "P\u00e1ramo M\u00edstico",
-        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 238043,
-      "name": "Arena Roja",
-      "url": "https://open.spotify.com/track/4sr03bWQ1ECbV6mKnvV9zZ"
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -187,6 +155,38 @@
       "duration_ms": 214148,
       "name": "Est\u00e1 Da\u00f1ada",
       "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "P\u00e1ramo M\u00edstico",
+        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 238043,
+      "name": "Arena Roja",
+      "url": "https://open.spotify.com/track/4sr03bWQ1ECbV6mKnvV9zZ"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Acurrucar",
-      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -251,22 +235,6 @@
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "ARRANC\u00c1RMELO",
-        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 183547,
-      "name": "ARRANC\u00c1RMELO",
-      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -287,6 +255,38 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "ARRANC\u00c1RMELO",
+        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "ARRANC\u00c1RMELO",
+      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Dime T\u00fa",
         "url": "https://open.spotify.com/album/77HT3gzMNDl9liyrWR2W3M"
       },
@@ -299,26 +299,6 @@
       "duration_ms": 220000,
       "name": "Dime T\u00fa",
       "url": "https://open.spotify.com/track/4mhW4w0yVsi2rkHPHosexZ"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Ropa De Bazar",
-        "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Ropa De Bazar",
-      "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -367,6 +347,26 @@
       "duration_ms": 214000,
       "name": "309",
       "url": "https://open.spotify.com/track/0q37bjxhRwzjtZynlU9ZsI"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Ropa De Bazar",
+        "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "Ropa De Bazar",
+      "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Transiciones",
-        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "siempreestoypati",
-      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Dueles Tan Bien",
         "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 174000,
       "name": "Dueles Tan Bien",
       "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Transiciones",
+        "url": "https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "siempreestoypati",
+      "url": "https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Si Nos Volvemos A Encontrar",
-        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Si Nos Volvemos A Encontrar",
-      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 219222,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Si Nos Volvemos A Encontrar",
+        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Si Nos Volvemos A Encontrar",
+      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "No Soy Yo",
         "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 193654,
       "name": "No Soy Yo",
       "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+        "name": "Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2kM3apVttjWFLjGPMrEwCS"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
         }
       ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
+      "duration_ms": 289619,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0eQpNMgtRDmG3XKypbvhsc"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2kM3apVttjWFLjGPMrEwCS"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 289619,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0eQpNMgtRDmG3XKypbvhsc"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "La Vida Nos Hizo En Pares",
         "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Ausente",
         "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 202391,
       "name": "Nunca me encontr\u00e9 ;(",
       "url": "https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1359,6 +1343,22 @@
       "duration_ms": 201000,
       "name": "CTM",
       "url": "https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Recuerdo",
+        "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "I Make Sparks",
         "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Renee's Song",
-        "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
       "artists": [
         {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 130545,
-      "name": "Renee's Song",
-      "url": "https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D"
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -587,6 +571,22 @@
       "duration_ms": 242680,
       "name": "You Can't Make Old Friends - Duet with Dolly Parton",
       "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Renee's Song",
+        "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 130545,
+      "name": "Renee's Song",
+      "url": "https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 259665,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
     },
     {
       "added_at": "2026-02-08 16:00:20",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-08 16:00:20",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
-      },
-      "artists": [
-        {
-          "name": "sunkis",
-          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
-        }
-      ],
-      "duration_ms": 178751,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
-    },
-    {
-      "added_at": "2026-02-08 16:00:20",
-      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 186334,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
+    },
+    {
+      "added_at": "2026-02-08 16:00:20",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        }
+      ],
+      "duration_ms": 178751,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
     },
     {
       "added_at": "2026-02-08 16:00:20",

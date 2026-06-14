@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,517 songs - 10 day 1 hr 35 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,519 songs - 10 day 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4525,5 +4525,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4515 | [Drop It](https://open.spotify.com/track/42PVBtF5l7oduR8hc1MV6u) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [Drop It](https://open.spotify.com/album/6KPUGArw4CAk5S3iIw0ChK) | 3:33 |
 | 4516 | [Plasticity](https://open.spotify.com/track/4mF2Q8tzIODb7sGbKFdbOp) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Plasticity](https://open.spotify.com/album/6rEjOfBQkbwlkExPpHSisG) | 4:52 |
 | 4517 | [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 |
+| 4518 | [D I F E R E N T E S](https://open.spotify.com/track/51rHJwOXwJPwlfs3NXVTL4) | [MAHAR3A](https://open.spotify.com/artist/63WQkHSjgo0T7Sf0E2LDsO) | [D I F E R E N T E S](https://open.spotify.com/album/5JSdDwuZRY1UI3NBpQt0oD) | 3:16 |
+| 4519 | [Roter Opel Corsa](https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx) | [Kurz Nach Zwei](https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6) | [Roter Opel Corsa](https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP) | 3:02 |
 
-Snapshot ID: `AAAI3p+Ecy7tmihPECU32dyirpZon5e0`
+Snapshot ID: `AAAI4HjOnj7hxbAStMFWkxY16kKXkg6N`

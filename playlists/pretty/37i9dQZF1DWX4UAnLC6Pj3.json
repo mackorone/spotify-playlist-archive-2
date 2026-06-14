@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga, Manuel Turizo \ud83d\udcf8",
-  "num_followers": 1302660,
+  "num_followers": 1302710,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "La Vida Es As\u00ed",
-        "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 230064,
-      "name": "La Vida Es As\u00ed",
-      "url": "https://open.spotify.com/track/45bJeOgpjE4fizusyt7XWg"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Aprend\u00ed La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 178808,
       "name": "Aprend\u00ed La Lecci\u00f3n",
       "url": "https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "La Vida Es As\u00ed",
+        "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 230064,
+      "name": "La Vida Es As\u00ed",
+      "url": "https://open.spotify.com/track/45bJeOgpjE4fizusyt7XWg"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 170468,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Tequila y Guaro",
         "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 182306,
       "name": "Todo Que Ver",
       "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
+        "name": "Mente Ocupada",
+        "url": "https://open.spotify.com/album/0YO7qC8td87EZJA2VX8547"
+      },
+      "artists": [
+        {
+          "name": "Grupo Identificado",
+          "url": "https://open.spotify.com/artist/3QYcGdC1ugrwM2UI3JWhJ7"
+        }
+      ],
+      "duration_ms": 223829,
+      "name": "Mente Ocupada",
+      "url": "https://open.spotify.com/track/2Y53fKeWaFnk5R6w2xowrR"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
         "name": "Quien De Los Dos Sera",
         "url": "https://open.spotify.com/album/5LJJAbIZiS4Uhhuz14T3wZ"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Mente Ocupada",
-        "url": "https://open.spotify.com/album/0YO7qC8td87EZJA2VX8547"
+        "name": "Del Cielo Nada Cae",
+        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
       },
       "artists": [
         {
-          "name": "Grupo Identificado",
-          "url": "https://open.spotify.com/artist/3QYcGdC1ugrwM2UI3JWhJ7"
+          "name": "Kompa Marley",
+          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
         }
       ],
-      "duration_ms": 223829,
-      "name": "Mente Ocupada",
-      "url": "https://open.spotify.com/track/2Y53fKeWaFnk5R6w2xowrR"
+      "duration_ms": 114181,
+      "name": "Del Cielo Nada Cae",
+      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -755,22 +771,6 @@
       "duration_ms": 165075,
       "name": "Primero Ens\u00e9\u00f1ate A Querer",
       "url": "https://open.spotify.com/track/7CPmZLF2rJUxxE85S011rf"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
-        "name": "Del Cielo Nada Cae",
-        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
-      },
-      "artists": [
-        {
-          "name": "Kompa Marley",
-          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
-        }
-      ],
-      "duration_ms": 114181,
-      "name": "Del Cielo Nada Cae",
-      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "El Rey Del Despecho 2.0",
-        "url": "https://open.spotify.com/album/2HYCvRRXrXbNqYWZB8aWK9"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 165384,
-      "name": "Marca Personal",
-      "url": "https://open.spotify.com/track/5gvHCLlCjTyJI6c3VEYJTI"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Tu Ex Amigo",
         "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 202416,
       "name": "Amor (Bonus Track)",
       "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "El Rey Del Despecho 2.0",
+        "url": "https://open.spotify.com/album/2HYCvRRXrXbNqYWZB8aWK9"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 165384,
+      "name": "Marca Personal",
+      "url": "https://open.spotify.com/track/5gvHCLlCjTyJI6c3VEYJTI"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1059,18 +1059,26 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/51MAf14HyXUalU8S0jLLxo"
+        "name": "La Revancha Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
       "artists": [
         {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Banda la \u00danica del Rancho",
+          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
         }
       ],
-      "duration_ms": 162124,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/54H54nVzjJlO4zm14RZuil"
+      "duration_ms": 183552,
+      "name": "El desquite - En Vivo",
+      "url": "https://open.spotify.com/track/5MyARyHHKOOs2IV7HAWMiC"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1095,26 +1103,18 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "La Revancha Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/51MAf14HyXUalU8S0jLLxo"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        },
-        {
-          "name": "Banda la \u00danica del Rancho",
-          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 183552,
-      "name": "El desquite - En Vivo",
-      "url": "https://open.spotify.com/track/5MyARyHHKOOs2IV7HAWMiC"
+      "duration_ms": 162124,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/54H54nVzjJlO4zm14RZuil"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Aunque Me Duela M\u00e1s Que A Ti",
-        "url": "https://open.spotify.com/album/0WUefHmDtO80pHC6KzK7ya"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 200683,
-      "name": "Aunque Me Duela M\u00e1s Que A Ti",
-      "url": "https://open.spotify.com/track/6lKsATQEaiTY1SjRrXZcHr"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "Las Reglas Del Juego",
         "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 171886,
       "name": "Quisiera Rozar Tu Piel",
       "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Aunque Me Duela M\u00e1s Que A Ti",
+        "url": "https://open.spotify.com/album/0WUefHmDtO80pHC6KzK7ya"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 200683,
+      "name": "Aunque Me Duela M\u00e1s Que A Ti",
+      "url": "https://open.spotify.com/track/6lKsATQEaiTY1SjRrXZcHr"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Lo Pongo En Tus Manos",
-        "url": "https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy"
-      },
-      "artists": [
-        {
-          "name": "Cristian Jacobo",
-          "url": "https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 194291,
-      "name": "Lo Pongo En Tus Manos",
-      "url": "https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "No Le Tengas Compasi\u00f3n",
         "url": "https://open.spotify.com/album/6Z7pMgTbFhIrQ7BXK6hwOm"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 191141,
       "name": "No Le Tengas Compasi\u00f3n",
       "url": "https://open.spotify.com/track/11SK5HbiMSO0WEYvsaXwAO"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Lo Pongo En Tus Manos",
+        "url": "https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy"
+      },
+      "artists": [
+        {
+          "name": "Cristian Jacobo",
+          "url": "https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 194291,
+      "name": "Lo Pongo En Tus Manos",
+      "url": "https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
-        "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
+        "name": "Los Que Amo",
+        "url": "https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW"
       },
       "artists": [
         {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
         }
       ],
-      "duration_ms": 340016,
-      "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
-      "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
+      "duration_ms": 206878,
+      "name": "Los Que Amo",
+      "url": "https://open.spotify.com/track/09AIKcdNoyFIiM5hQ3p4aK"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Los Que Amo",
-        "url": "https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW"
+        "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
+        "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
       },
       "artists": [
         {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 206878,
-      "name": "Los Que Amo",
-      "url": "https://open.spotify.com/track/09AIKcdNoyFIiM5hQ3p4aK"
+      "duration_ms": 340016,
+      "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
+      "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
     },
     {
       "added_at": "2026-05-30 18:53:37",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-05-30 18:53:37",
       "album": {
-        "name": "Si Tan Malo Soy",
-        "url": "https://open.spotify.com/album/2VoD8cShtEGZy8qRpoYU0Z"
-      },
-      "artists": [
-        {
-          "name": "D\u00c1MASO",
-          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
-        }
-      ],
-      "duration_ms": 204679,
-      "name": "Si Tan Malo Soy",
-      "url": "https://open.spotify.com/track/3oeFWwFuzfQvK8iXIaHB90"
-    },
-    {
-      "added_at": "2026-05-30 18:53:37",
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 146524,
       "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
+    },
+    {
+      "added_at": "2026-05-30 18:53:37",
+      "album": {
+        "name": "Si Tan Malo Soy",
+        "url": "https://open.spotify.com/album/2VoD8cShtEGZy8qRpoYU0Z"
+      },
+      "artists": [
+        {
+          "name": "D\u00c1MASO",
+          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
+        }
+      ],
+      "duration_ms": 204679,
+      "name": "Si Tan Malo Soy",
+      "url": "https://open.spotify.com/track/3oeFWwFuzfQvK8iXIaHB90"
     },
     {
       "added_at": "2026-05-30 18:53:37",

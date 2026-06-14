@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20486,
+  "num_followers": 20491,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Cud",
-      "url": "https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Dziwna (feat. Artur Rojek)",
         "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 161724,
       "name": "Dziwna (feat. Artur Rojek)",
       "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Cud",
+      "url": "https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Tematy i wariacje",
+        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
+      },
+      "artists": [
+        {
+          "name": "Walu\u015bKraksaKryzys",
+          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
+      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Popi\u00f3\u0142",
         "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 202921,
       "name": "Memento Amoris",
       "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Tematy i wariacje",
-        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
-      },
-      "artists": [
-        {
-          "name": "Walu\u015bKraksaKryzys",
-          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
-      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Razorblade Psalm",
+        "url": "https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV"
+      },
+      "artists": [
+        {
+          "name": "Hostia",
+          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "An Empty Grave Is Just A Hole In The Ground",
+      "url": "https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Przed Zmierzchem",
         "url": "https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 159803,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Razorblade Psalm",
-        "url": "https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV"
-      },
-      "artists": [
-        {
-          "name": "Hostia",
-          "url": "https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "An Empty Grave Is Just A Hole In The Ground",
-      "url": "https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "CITY CLUSTER",
-        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 FOX Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "UP & DOWN",
-      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Pami\u0119tam twoje oczy",
         "url": "https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 181812,
       "name": "Pami\u0119tam twoje oczy",
       "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "CITY CLUSTER",
+        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 FOX Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
     },
     {
       "added_at": "2026-05-26 09:05:26",

@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "300G",
+        "url": "https://open.spotify.com/album/59grAMlOifI3fj7sn4PEXg"
+      },
+      "artists": [
+        {
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        },
+        {
+          "name": "Bekkaa",
+          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "300G",
+      "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
+    },
+    {
+      "album": {
         "name": "Bow & Arrow - EP",
         "url": "https://open.spotify.com/album/1qBSy49D67ewfx9Hv8A2az"
       },
@@ -7728,7 +7750,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 196527,
       "name": "YOU ARE MINE",
       "url": "https://open.spotify.com/track/2aCZnpXlTBZFL7YrhQbzgS"

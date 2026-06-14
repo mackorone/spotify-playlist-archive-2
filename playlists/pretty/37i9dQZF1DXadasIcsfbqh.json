@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Ingrid Andress",
-  "num_followers": 252911,
+  "num_followers": 252947,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-05-29 04:02:19",
       "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 164264,
+      "name": "Park",
+      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
+    },
+    {
+      "added_at": "2026-05-29 04:02:19",
+      "album": {
         "name": "Bed on Fire (with Ingrid Andress)",
         "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 228507,
       "name": "Bed on Fire (with Ingrid Andress)",
       "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
-    },
-    {
-      "added_at": "2026-05-29 04:02:19",
-      "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 164264,
-      "name": "Park",
-      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
     },
     {
       "added_at": "2026-05-29 04:02:19",

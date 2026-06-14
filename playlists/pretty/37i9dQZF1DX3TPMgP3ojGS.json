@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 479382,
+  "num_followers": 479437,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "A Gentle Sunlight",
-        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
-      },
-      "artists": [
-        {
-          "name": "James Quinn",
-          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
-        }
-      ],
-      "duration_ms": 117625,
-      "name": "A Gentle Sunlight",
-      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Ocean Heart",
         "url": "https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
+        "name": "A Gentle Sunlight",
+        "url": "https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF"
       },
       "artists": [
         {
-          "name": "Damien Jeunet",
-          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Archipelago",
-      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
+      "duration_ms": 117625,
+      "name": "A Gentle Sunlight",
+      "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -927,6 +911,22 @@
       "duration_ms": 199166,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Archipelago",
+      "url": "https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
-      },
-      "artists": [
-        {
-          "name": "Logan Jameison",
-          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 154311,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Logan Jameison",
+          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n \u00dalfur",
-          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
-        }
-      ],
-      "duration_ms": 155704,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Winter Unflorished",
         "url": "https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 220000,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/1glbxURPMi2PpcD4AmufxL"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "duration_ms": 155704,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Songs Of Sundown",
-        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "One More Story",
-      "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 168250,
       "name": "Wish",
       "url": "https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Songs Of Sundown",
+        "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "One More Story",
+      "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
-      },
-      "artists": [
-        {
-          "name": "Jacques Blanc",
-          "url": "https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ"
-        }
-      ],
-      "duration_ms": 157860,
-      "name": "Bona Fide",
-      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Hymn",
         "url": "https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 183602,
       "name": "Deux",
       "url": "https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+      },
+      "artists": [
+        {
+          "name": "Jacques Blanc",
+          "url": "https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ"
+        }
+      ],
+      "duration_ms": 157860,
+      "name": "Bona Fide",
+      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
     },
     {
       "added_at": "2026-05-08 09:59:25",

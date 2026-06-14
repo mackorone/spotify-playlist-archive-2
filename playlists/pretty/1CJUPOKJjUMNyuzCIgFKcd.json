@@ -1,12 +1,12 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 21940,
+  "num_followers": 21939,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAnwQM8g+FvrUe6gslq8ZY4vWgH92tB",
+  "snapshot_id": "AAAnwwdM6hWAQtRn0txs91YK3bCsckTH",
   "tracks": [
     {
       "added_at": "2026-06-08 23:38:18",
@@ -143,6 +143,26 @@
       "duration_ms": 149276,
       "name": "MR HIM",
       "url": "https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx"
+    },
+    {
+      "added_at": "2026-06-13 18:43:54",
+      "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        },
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 194525,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI"
     },
     {
       "added_at": "2026-05-11 18:48:33",

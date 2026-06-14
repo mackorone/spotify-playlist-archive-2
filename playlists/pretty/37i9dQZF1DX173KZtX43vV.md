@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,025 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,026 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 13 | [Livin' the Dream](https://open.spotify.com/track/6vQvDDhQExWcFKUTJXLJxp) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Livin' the Dream](https://open.spotify.com/album/55FiFtUQbahPJXBbyJIgQD) | 3:02 |
 | 14 | [Bridge Over The Tears I've Cried](https://open.spotify.com/track/6vEU6pQh7GbdKhaJc3KHX0) | [James Emmanuel](https://open.spotify.com/artist/1V4RGSGobXXjpikiHlO2ex) | [Bridge Over The Tears I’ve Cried](https://open.spotify.com/album/29o4FuVRTIYGF5QnjY7740) | 2:57 |
 | 15 | [if i had one wish.](https://open.spotify.com/track/2P58L8iRKiwZ0UcDkqJVpz) | [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v), [J2](https://open.spotify.com/artist/3Xtd0N1cLSbx2skkM9y2ZN), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Dylan Hingston](https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX) | [no more nostalgia.](https://open.spotify.com/album/6Tk7ldAIIVj1enbMoffE72) | 2:27 |
-| 16 | [till the wheels fall off](https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [till the wheels fall off](https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm) | 2:49 |
+| 16 | [Till The Wheels Fall Off](https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Till The Wheels Fall Off](https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm) | 2:49 |
 | 17 | [Bouncin' Low](https://open.spotify.com/track/1d2dZNhlGgX0y2mHwqh2Ui) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo), [Tangler](https://open.spotify.com/artist/7bl4PKPNTmqA9z6V7UWL8N) | [Bouncin' Low](https://open.spotify.com/album/3ifHQWYB2gAyxp43Sd5Sa4) | 3:00 |
 | 18 | [Allergies](https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Allergies](https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp) | 2:53 |
 | 19 | [Rather Be](https://open.spotify.com/track/7nEaV9gGBEi4XjXpSt3BRz) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [It All Leads Back South](https://open.spotify.com/album/2FfFHTrj2LFoUkavXSW253) | 2:20 |

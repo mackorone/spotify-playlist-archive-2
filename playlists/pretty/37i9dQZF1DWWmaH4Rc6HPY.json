@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! ANASOF en portada.",
-  "num_followers": 38754,
+  "num_followers": 38758,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Los mejores a\u00f1os de nuestra vida",
-        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 257488,
-      "name": "Los mejores a\u00f1os de nuestra vida",
-      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "El Reloj Me Miente",
         "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
       },
@@ -811,22 +795,18 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
+        "name": "Los mejores a\u00f1os de nuestra vida",
+        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
       },
       "artists": [
         {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 235360,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+      "duration_ms": 257488,
+      "name": "Los mejores a\u00f1os de nuestra vida",
+      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -847,6 +827,26 @@
       "duration_ms": 229247,
       "name": "La \u00daltima Noche - con Estopa",
       "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Bruma",
-        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 193906,
       "name": "Prometimos",
       "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
-        "name": "ESO Que Nos Trajo a Abbey Road",
-        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 198051,
-      "name": "Memoria Muscular - Desde Abbey Road",
-      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1111,6 +1095,22 @@
       "duration_ms": 191107,
       "name": "Dame Love - Remix",
       "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "ESO Que Nos Trajo a Abbey Road",
+        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 198051,
+      "name": "Memoria Muscular - Desde Abbey Road",
+      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "La vida de Nadie",
         "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 167943,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Cierro los Ojos / \u00d3rbita",
-        "url": "https://open.spotify.com/album/2wd3lGe7d7guA57Kpj8Z6O"
+        "name": "El M\u00e9ndigo D\u00eda Del Padre",
+        "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
       },
       "artists": [
         {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        },
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 232574,
-      "name": "Cierro los Ojos",
-      "url": "https://open.spotify.com/track/3qByYQ9c9LOOHvZnpt3E68"
+      "duration_ms": 266066,
+      "name": "El M\u00e9ndigo D\u00eda Del Padre",
+      "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
     }
   ],
   "unique_name": "Pop Rock Latino",

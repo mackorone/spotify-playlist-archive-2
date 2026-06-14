@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 246374,
       "name": "Dil Ki Giraft",
       "url": "https://open.spotify.com/track/2BpwxoAFAe4t8RN28OeGWL"
@@ -5551,6 +5551,10 @@
         "url": "https://open.spotify.com/album/7drFYOHaoPC5uqoUKJ03fP"
       },
       "artists": [
+        {
+          "name": "Shaarib Toshi",
+          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
+        },
         {
           "name": "Jyotica Tangri",
           "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
@@ -13990,6 +13994,32 @@
       "duration_ms": 331676,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x"
+    },
+    {
+      "album": {
+        "name": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JZBsPrhhT1qYdEzZfSsog"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Deepali Sahay",
+          "url": "https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244647,
+      "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: Oldilla, MC Iguinho Ct, MC Willian, Aaron Modesto, MC Negão Original, DU'L, Dj Aladin GDB
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,786,275 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,786,623 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

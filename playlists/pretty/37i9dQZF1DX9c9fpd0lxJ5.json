@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 439432,
+  "num_followers": 439388,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "ANIM4LES",
-        "url": "https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 115568,
-      "name": "Sos Todo Lo Que Est\u00e1 Bien",
-      "url": "https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Un D\u00eda A La Vez",
         "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 160106,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "ANIM4LES",
+        "url": "https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 115568,
+      "name": "Sos Todo Lo Que Est\u00e1 Bien",
+      "url": "https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -767,6 +767,38 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+      },
+      "artists": [
+        {
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "Reconciliados",
         "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
@@ -803,38 +835,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
       },
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Promesas de Origami",
-        "url": "https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Promesas De Origami",
-      "url": "https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Eso Que Me Das",
         "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Promesas de Origami",
+        "url": "https://open.spotify.com/album/7HfXvuT1dU2njGRxqBLoSa"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Promesas De Origami",
+      "url": "https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "El Ride",
         "url": "https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 164444,
       "name": "El Ride",
       "url": "https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Otros Ritmos",
-        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 222115,
-      "name": "Otros Ritmos",
-      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "No Puedo Parar",
         "url": "https://open.spotify.com/album/4xIpUxqAgzC1vYpD9Zabfo"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 243113,
       "name": "No Puedo Parar",
       "url": "https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Un Rayo de Luz",
-        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 222991,
-      "name": "Un Rayo de Luz",
-      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Claro",
         "url": "https://open.spotify.com/album/6z4WRLPcQhk4LEYWKvbLAU"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 243245,
       "name": "Casa",
       "url": "https://open.spotify.com/track/1JIfQxIYJbUf8RqCR4onIk"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Un Rayo de Luz",
+        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222991,
+      "name": "Un Rayo de Luz",
+      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Todo Pasa",
-        "url": "https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 158211,
-      "name": "Todo Pasa",
-      "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Destiempo",
         "url": "https://open.spotify.com/album/1v2Ieeo8LvAq8adnEktx8h"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 212061,
       "name": "Destiempo",
       "url": "https://open.spotify.com/track/4La8SpJL3ecn6EZc6tSyO9"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Todo Pasa",
+        "url": "https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 158211,
+      "name": "Todo Pasa",
+      "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"
     },
     {
       "added_at": "2026-05-11 20:38:16",

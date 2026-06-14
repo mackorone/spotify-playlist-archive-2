@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682 likes - 278 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 278 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,11 +250,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 240 | [CaSh N' gAs](https://open.spotify.com/track/6BGIuAJoPIHXos7i8XifHf) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 2:11 |
 | 241 | [Teamo](https://open.spotify.com/track/0uzsFjCDC7T0E5F4hDcoGf) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Life of a SlimeCrook](https://open.spotify.com/album/3dYWvEeuKRCht48uU9DQjD) | 2:44 |
 | 242 | [Kidnapped](https://open.spotify.com/track/2ZmCMb8yfAjPIrgK74OnNm) | [Boston George](https://open.spotify.com/artist/7gten3sDCiuil5aBzq9Rej), [Diego](https://open.spotify.com/artist/6JMZQemAU6yRUWVc9e3gHo) | [Boston George & Diego](https://open.spotify.com/album/1bApVxEdfGoql7ExpWtdJW) | 3:28 |
-| 243 | [Jumpin Out The Jet](https://open.spotify.com/track/7pOxDOwGGn3iur0FKxUc9D) | [Ocho Sneak](https://open.spotify.com/artist/715AbbSRVWZCS89rW7JsS3), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Jumpin Out The Jet](https://open.spotify.com/album/03H4LFDv4OmKyuxqgRUoNu) | 3:00 |
-| 244 | [Made It](https://open.spotify.com/track/31D1l1t2KsbSHBckUaTVSA) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Too Mobb](https://open.spotify.com/album/677OFWSuKf001ps33SImSW) | 3:25 |
+| 243 | [Made It](https://open.spotify.com/track/31D1l1t2KsbSHBckUaTVSA) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Too Mobb](https://open.spotify.com/album/677OFWSuKf001ps33SImSW) | 3:25 |
+| 244 | [Jumpin Out The Jet](https://open.spotify.com/track/7pOxDOwGGn3iur0FKxUc9D) | [Ocho Sneak](https://open.spotify.com/artist/715AbbSRVWZCS89rW7JsS3), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Jumpin Out The Jet](https://open.spotify.com/album/03H4LFDv4OmKyuxqgRUoNu) | 3:00 |
 | 245 | [Brainstorm](https://open.spotify.com/track/1lANFRhSqsojJvmPNPyr1M) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:00 |
-| 246 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
-| 247 | [About Us](https://open.spotify.com/track/1PqkIRQVDy7D0APmhieM0u) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:36 |
+| 246 | [About Us](https://open.spotify.com/track/1PqkIRQVDy7D0APmhieM0u) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:36 |
+| 247 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 | 248 | [Survive](https://open.spotify.com/track/4KJhY5MqIKg6Tqg9emw09d) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:57 |
 | 249 | [On Da Scale](https://open.spotify.com/track/4rQ4PfNWCtBQichsIOPGcj) | [Boston George](https://open.spotify.com/artist/7gten3sDCiuil5aBzq9Rej), [Diego](https://open.spotify.com/artist/6JMZQemAU6yRUWVc9e3gHo) | [Boston George & Diego](https://open.spotify.com/album/1bApVxEdfGoql7ExpWtdJW) | 3:01 |
 | 250 | [ScOrEbOaRd](https://open.spotify.com/track/7eOyaFgc1AJ1wBX20iPS4W) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 3:07 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 277 | [Drill Back](https://open.spotify.com/track/3nHfvTt8iRbwnbIySfcfs9) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:12 |
 | 278 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 
-Snapshot ID: `AcUDcgAAAABBFLgRez83VAflDDiYfzoE`
+Snapshot ID: `AcUJTgAAAADnh1FmzHXAGM/1pIQRU0eC`

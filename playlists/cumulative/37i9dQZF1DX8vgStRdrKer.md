@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-802 songs - 2 day 21 hr 2 min
+803 songs - 2 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [CHERUBIM & SERAPHIM](https://open.spotify.com/track/4amQVTKzJH9dHwPhxiiG9a) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [CHERUBIM & SERAPHIM](https://open.spotify.com/album/40nb190vayLnW6la0nkfHx) | 6:52 | 2026-03-13 | 2026-04-02 |
 | [CHILD OF GRACE \- Remix](https://open.spotify.com/track/0liuWPWjMVgX1CuR5z8GyC) | [Neken Chuwang](https://open.spotify.com/artist/6oeGlZWUfeCsScmxOZUxcA), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [CHILD OF GRACE \(Remix\)](https://open.spotify.com/album/5kOWLzTlq5RzGpYpxWqYhK) | 3:19 | 2025-05-30 | 2025-06-27 |
 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 | 2025-10-17 | 2026-01-22 |
-| [Cho Cho Cho](https://open.spotify.com/track/27047xlXrFZFRwXz8Z572d) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Cho Cho Cho](https://open.spotify.com/album/575OoNcUW4gB2tMoJYJj08) | 2:53 | 2025-08-29 |  |
+| [Cho Cho Cho](https://open.spotify.com/track/27047xlXrFZFRwXz8Z572d) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Cho Cho Cho](https://open.spotify.com/album/575OoNcUW4gB2tMoJYJj08) | 2:53 | 2025-08-29 | 2026-06-14 |
 | [Chosen](https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Chosen](https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3) | 2:10 | 2025-10-31 | 2026-03-09 |
 | [church](https://open.spotify.com/track/37g9awMmmDKm9g1Ri7nNEQ) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [church](https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV) | 2:52 | 2025-09-12 | 2025-10-03 |
 | [Classic Jesus](https://open.spotify.com/track/523Bo9a3mFwUTxMAhuGeit) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Classic Jesus](https://open.spotify.com/album/25DWj5hOuaAXjPWO5VTXC8) | 2:43 | 2025-06-27 | 2025-08-03 |
@@ -269,6 +269,7 @@
 | [Hallelujah](https://open.spotify.com/track/5HOpXPNnzMnR1adrT2es8i) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Olumide Iyun](https://open.spotify.com/artist/7s4JPpeVPMOGeS3eODEheL) | [Hallelujah](https://open.spotify.com/album/3cWC9Qd2NIZCH5p3HdKs2D) | 11:57 | 2026-02-06 | 2026-03-11 |
 | [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 | 2026-01-30 | 2026-05-22 |
 | [Hallelujah](https://open.spotify.com/track/6PPdWf0sxUPYMXfSFUp2n6) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Jesus Revealed](https://open.spotify.com/album/3d97x6Hs23v9l95AeQyxCt) | 6:29 | 2026-04-10 | 2026-05-22 |
+| [Hallelujah](https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Hallelujah](https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n) | 8:21 | 2026-06-12 |  |
 | [Hallelujah](https://open.spotify.com/track/5edBgYe6nAPm24nNmitptV) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [Hallelujah](https://open.spotify.com/album/3yOxLm70FSd2aCA9MtO3NR) | 4:16 | 2025-05-30 | 2025-10-17 |
 | [Hallelujah \- Live](https://open.spotify.com/track/53Vs8PsI3FEGr08i3f23mM) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [The Live Experience](https://open.spotify.com/album/62uXkHtrX8KDil8lEDSr7m) | 8:16 | 2026-01-30 | 2026-04-28 |
 | [Hallelujah Forever \- \(Cover\)](https://open.spotify.com/track/33eIgt8omW6hwG9cWtf3RW) | [Gloreysings](https://open.spotify.com/artist/76D34AFU39hprElLWR448w) | [Echoes of Glory](https://open.spotify.com/album/2MH293MDOC6i2oLpgnIq1J) | 4:54 | 2025-06-20 | 2025-06-27 |

@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1472317,
+  "num_followers": 1472251,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
-    },
-    {
-      "added_at": "2026-06-12 13:50:33",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 128496,
       "name": "Its Rainy",
       "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2026-06-12 13:50:33",
+      "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
-      },
-      "artists": [
-        {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
-        }
-      ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
-    },
-    {
-      "added_at": "2026-06-12 13:50:33",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 142677,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
+    },
+    {
+      "added_at": "2026-06-12 13:50:33",
+      "album": {
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
+      },
+      "artists": [
+        {
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+        }
+      ],
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "\u6ce2\u7d0b",
-        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
-        }
-      ],
-      "duration_ms": 189878,
-      "name": "\u6ce2\u7d0b",
-      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
-    },
-    {
-      "added_at": "2026-06-12 13:50:33",
-      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 148561,
       "name": "Baby, It's Over",
       "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
+    },
+    {
+      "added_at": "2026-06-12 13:50:33",
+      "album": {
+        "name": "\u6ce2\u7d0b",
+        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "duration_ms": 189878,
+      "name": "\u6ce2\u7d0b",
+      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
+        "name": "Whatsreal",
+        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Whatsreal",
+      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+    },
+    {
+      "added_at": "2026-06-12 13:50:33",
+      "album": {
         "name": "Syn Fonia I",
         "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "Whatsreal",
-        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
-      },
-      "artists": [
-        {
-          "name": "Psalm Trees",
-          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Whatsreal",
-      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
-    },
-    {
-      "added_at": "2026-06-12 13:50:33",
-      "album": {
         "name": "Paris Nights",
         "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
       },
       "artists": [
         {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
         }
       ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+    },
+    {
+      "added_at": "2026-06-12 13:50:33",
+      "album": {
         "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
         "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 181931,
       "name": "Yosei",
       "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
-    },
-    {
-      "added_at": "2026-06-12 13:50:33",
-      "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 163593,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -947,42 +947,22 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "Flow Motion",
-        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
+        "name": "Yugure",
+        "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
       },
       "artists": [
         {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+          "name": "Komachi",
+          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
         },
         {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 132152,
-      "name": "Flow Motion",
-      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
-    },
-    {
-      "added_at": "2026-06-12 13:50:33",
-      "album": {
-        "name": "A Kid From Yerevan (Instrumental)",
-        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Sinking Ship - Instrumental",
-      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
+      "duration_ms": 126750,
+      "name": "Yugure",
+      "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -1007,22 +987,42 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "Yugure",
-        "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
+        "name": "A Kid From Yerevan (Instrumental)",
+        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
       },
       "artists": [
         {
-          "name": "Komachi",
-          "url": "https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
         }
       ],
-      "duration_ms": 126750,
-      "name": "Yugure",
-      "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
+      "duration_ms": 164769,
+      "name": "Sinking Ship - Instrumental",
+      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
+    },
+    {
+      "added_at": "2026-06-12 13:50:33",
+      "album": {
+        "name": "Flow Motion",
+        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "duration_ms": 132152,
+      "name": "Flow Motion",
+      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -1047,26 +1047,18 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "Scintillate",
-        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
+        "name": "6F Encounters",
+        "url": "https://open.spotify.com/album/6qDq0f7Oa3CpQGnTyT5qug"
       },
       "artists": [
         {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
         }
       ],
-      "duration_ms": 173367,
-      "name": "Scintillate",
-      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
+      "duration_ms": 144040,
+      "name": "6F Encounters",
+      "url": "https://open.spotify.com/track/0RgB0efZJi6NR17fAi0uNH"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -1091,22 +1083,6 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "6F Encounters",
-        "url": "https://open.spotify.com/album/6qDq0f7Oa3CpQGnTyT5qug"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "6F Encounters",
-      "url": "https://open.spotify.com/track/0RgB0efZJi6NR17fAi0uNH"
-    },
-    {
-      "added_at": "2026-06-12 13:50:33",
-      "album": {
         "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
         "url": "https://open.spotify.com/album/3KaAWv5vYooRAcYWwLc5UY"
       },
@@ -1123,6 +1099,30 @@
       "duration_ms": 207882,
       "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
       "url": "https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv"
+    },
+    {
+      "added_at": "2026-06-12 13:50:33",
+      "album": {
+        "name": "Scintillate",
+        "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+        }
+      ],
+      "duration_ms": 173367,
+      "name": "Scintillate",
+      "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
-      },
-      "artists": [
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
-    },
-    {
-      "added_at": "2026-06-12 13:50:33",
-      "album": {
         "name": "Coquettish Definition",
         "url": "https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 193125,
       "name": "Coquettish Definition",
       "url": "https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m"
+    },
+    {
+      "added_at": "2026-06-12 13:50:33",
+      "album": {
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
+      },
+      "artists": [
+        {
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2026-06-12 13:50:33",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-06-12 13:50:33",
       "album": {
-        "name": "White Tea",
-        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
-      },
-      "artists": [
-        {
-          "name": "Bertholet",
-          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
-        },
-        {
-          "name": "dr. nibbles",
-          "url": "https://open.spotify.com/artist/0NAtU3NLFUmAHbEgdZqP1G"
-        }
-      ],
-      "duration_ms": 88279,
-      "name": "White Tea",
-      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
-    },
-    {
-      "added_at": "2026-06-12 13:50:33",
-      "album": {
         "name": "Cloud9",
         "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 126730,
       "name": "Cloud9",
       "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
+    },
+    {
+      "added_at": "2026-06-12 13:50:33",
+      "album": {
+        "name": "White Tea",
+        "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
+      },
+      "artists": [
+        {
+          "name": "Bertholet",
+          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
+        },
+        {
+          "name": "dr. nibbles",
+          "url": "https://open.spotify.com/artist/0NAtU3NLFUmAHbEgdZqP1G"
+        }
+      ],
+      "duration_ms": 88279,
+      "name": "White Tea",
+      "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
     },
     {
       "added_at": "2026-06-12 13:50:33",

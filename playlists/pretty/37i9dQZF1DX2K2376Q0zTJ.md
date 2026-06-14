@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性のエンパワメントをテーマに、MUSIC AWARDS JAPAN WEEKに開催された”Women In Music \- EQUAL STAGE”のセトリを公開！詳細は<a href="https://www.billboard\-japan.com/wim\-equal/">こちら</a> cover: Awich, 羊文学, LANA, 新しい学校のリーダーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,131 likes - 30 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,144 likes - 30 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

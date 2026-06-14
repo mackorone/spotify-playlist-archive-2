@@ -387,26 +387,6 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "BRava",
-        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
-      },
-      "artists": [
-        {
-          "name": "Jenni Mosello",
-          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 189886,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
         "name": "escapismo",
         "url": "https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 167372,
       "name": "belo horizonte",
       "url": "https://open.spotify.com/track/5vOX7DaMTkk8jtO4b7Y5jJ"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
+        "name": "BRava",
+        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
+      },
+      "artists": [
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 189886,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
         "name": "Ver\u00e3071",
         "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
       },
@@ -555,18 +571,22 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "Am\u00e9frica",
-        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+        "name": "Faz de Conta",
+        "url": "https://open.spotify.com/album/2pMhNADuJV4PfdYZhdCLUh"
       },
       "artists": [
         {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
         }
       ],
-      "duration_ms": 207378,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+      "duration_ms": 273525,
+      "name": "Encontro das Mar\u00e9s",
+      "url": "https://open.spotify.com/track/5U0lNrAPMBvgWs6nlo7MuV"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -615,22 +635,6 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
-        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
         "name": "Outras Vezes",
         "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
@@ -647,6 +651,22 @@
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
+        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
+        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -883,26 +903,6 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "Faz de Conta",
-        "url": "https://open.spotify.com/album/2pMhNADuJV4PfdYZhdCLUh"
-      },
-      "artists": [
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        }
-      ],
-      "duration_ms": 273525,
-      "name": "Encontro das Mar\u00e9s",
-      "url": "https://open.spotify.com/track/5U0lNrAPMBvgWs6nlo7MuV"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
         "name": "Mar\u00e9 Alta",
         "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "Tudo Pode Mudar (Acusticamente)",
-        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 245009,
-      "name": "Tudo Pode Mudar (Acusticamente)",
-      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
         "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
         "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+        "name": "Tudo Pode Mudar (Acusticamente)",
+        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
       },
       "artists": [
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
         }
       ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+      "duration_ms": 245009,
+      "name": "Tudo Pode Mudar (Acusticamente)",
+      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -987,6 +971,22 @@
       "duration_ms": 219574,
       "name": "Passageiro",
       "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
+        "name": "MACIA BAHIA",
+        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "MACIA BAHIA",
+      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
         "name": "Tudo que deu pra fazer em um ano",
         "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 131538,
       "name": "Nada vai ser como antes",
       "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
-        "name": "MACIA BAHIA",
-        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "MACIA BAHIA",
-      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
     },
     {
       "added_at": "2026-06-12 03:00:51",

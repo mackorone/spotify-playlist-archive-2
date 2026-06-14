@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Ethnic Freedom",
+        "url": "https://open.spotify.com/album/5NUIQ04ZxCufKS7KCkDfhJ"
+      },
+      "artists": [
+        {
+          "name": "The Last Enter",
+          "url": "https://open.spotify.com/artist/5DzvL23NtlGCqYczriORom"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Electric Goa",
+      "url": "https://open.spotify.com/track/1fMsHvPAzXrHZK8tlyqQNO"
+    },
+    {
+      "album": {
         "name": "Emptiness",
         "url": "https://open.spotify.com/album/2Lnbqbm2KFvneD7VuLcDUK"
       },

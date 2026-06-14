@@ -178,10 +178,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 230573,
       "name": "Bloody Romance",
       "url": "https://open.spotify.com/track/0x0UjQv7TEFPzHlSATUo9N"
+    },
+    {
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/6qJZnJefZKyS3sNrbrFLAo"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Bloody Romance",
+      "url": "https://open.spotify.com/track/2QIybZBJS7jynaRrUZ8NJQ"
     },
     {
       "album": {

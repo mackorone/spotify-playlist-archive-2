@@ -888,6 +888,28 @@
     {
       "album": {
         "name": "Jerusal\u00e9m e Eu",
+        "url": "https://open.spotify.com/album/4lpegfZbd6uJKDqA0FOThC"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313306,
+      "name": "Jerusal\u00e9m e Eu",
+      "url": "https://open.spotify.com/track/3F21le2cG4FwJFS0UVBBvM"
+    },
+    {
+      "album": {
+        "name": "Jerusal\u00e9m e Eu",
         "url": "https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK"
       },
       "artists": [
@@ -902,7 +924,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 313306,
       "name": "Jerusal\u00e9m e Eu",
       "url": "https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo"

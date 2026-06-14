@@ -31060,7 +31060,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 180000,
       "name": "charter spec",
       "url": "https://open.spotify.com/track/2umdgn3wABOylAPwqsulOb"
@@ -31082,7 +31082,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "charter spec",
       "url": "https://open.spotify.com/track/5sJVINhLvFgmiL2RLWggDS"
@@ -33452,7 +33452,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 208875,
       "name": "Coats",
       "url": "https://open.spotify.com/track/2ck5LysJdg1BbMqaLzr0XT"
@@ -33470,7 +33470,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 208876,
       "name": "Coats",
       "url": "https://open.spotify.com/track/2BFQ2VihWx2mSKpqUIkoDb"
@@ -66844,7 +66844,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 169480,
       "name": "Golden Chain",
       "url": "https://open.spotify.com/track/0yOsYFyMpjwPtmWLGxYGQz"
@@ -66862,7 +66862,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 169480,
       "name": "Golden Chain",
       "url": "https://open.spotify.com/track/7gwDV78DGbiCzEuA5foUgU"
@@ -79028,7 +79028,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 221000,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/1fq5OBjI5y88pmL5v3KGtG"
@@ -79046,7 +79046,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/7uRbggy8jHGQssfTwoE0mC"
@@ -81620,7 +81620,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 203600,
       "name": "I Know You\u2019re The Moon",
       "url": "https://open.spotify.com/track/0A5NxbzzhobzSSyc0Ki6ci"
@@ -81638,7 +81638,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "I Know You\u2019re The Moon",
       "url": "https://open.spotify.com/track/4CYGX2s2iEHtKA86LAmSj2"
@@ -114294,7 +114294,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 171138,
       "name": "Mulholland Drive",
       "url": "https://open.spotify.com/track/1JeBESPPsdCyZlquXSa3qM"
@@ -114312,7 +114312,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 171138,
       "name": "Mulholland Drive",
       "url": "https://open.spotify.com/track/3f3pjBOT1EKumhS2viqPOH"
@@ -157653,6 +157653,24 @@
     },
     {
       "album": {
+        "name": "I Built You A Tower",
+        "url": "https://open.spotify.com/album/4D1zUsXw30DbfOqY1gVsfT"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194225,
+      "name": "Stone Over Water",
+      "url": "https://open.spotify.com/track/0uZ0Ec6FkEwHGRhrtvcJAo"
+    },
+    {
+      "album": {
         "name": "Stone Over Water",
         "url": "https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58"
       },
@@ -157664,7 +157682,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 194225,
       "name": "Stone Over Water",
       "url": "https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u"
@@ -168334,7 +168352,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 351536,
       "name": "The Payoff",
       "url": "https://open.spotify.com/track/2WIcSjSoGt78KKBnzViTdC"
@@ -168352,7 +168370,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 351536,
       "name": "The Payoff",
       "url": "https://open.spotify.com/track/3jPynNG4zK7VbbWrnbQYib"

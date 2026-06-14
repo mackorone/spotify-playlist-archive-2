@@ -2921,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Epic Fury",
+        "url": "https://open.spotify.com/album/5IkJ9HgQ1Jx7MyaiDPLT9o"
+      },
+      "artists": [
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128034,
+      "name": "Epic Fury",
+      "url": "https://open.spotify.com/track/5LKxJSEihInyb7Xer7WDdn"
+    },
+    {
+      "album": {
         "name": "BALA W FAS",
         "url": "https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa"
       },
@@ -5459,6 +5477,24 @@
     },
     {
       "album": {
+        "name": "L\u2019HARAKA",
+        "url": "https://open.spotify.com/album/489P1JurOGxA0jk9fQTdX4"
+      },
+      "artists": [
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170787,
+      "name": "L\u2019HARAKA",
+      "url": "https://open.spotify.com/track/3mMki7s1p6KxtgphQDRHYB"
+    },
+    {
+      "album": {
         "name": "M.I.M",
         "url": "https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK"
       },
@@ -6408,7 +6444,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 162461,
       "name": "Nabra",
       "url": "https://open.spotify.com/track/0bQzTbyG0KppLpnMkS9SSe"
@@ -9508,7 +9544,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 136000,
       "name": "violet",
       "url": "https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco"

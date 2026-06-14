@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added regularly :) www.avondalerecords.com",
-  "num_followers": 1384,
+  "num_followers": 1385,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAQduMzUitc71bO3csPWkQnn4WRqZMp",
+  "snapshot_id": "AAAQfspZt2T/kjnJRTV1xCToLr64F7a5",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -2032,7 +2032,7 @@
           "url": "https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs"
         }
       ],
-      "duration_ms": 220962,
+      "duration_ms": 220750,
       "name": "Resistance (remaster)",
       "url": "https://open.spotify.com/track/0dq6lmjXEcwFDa6E7ZPWua"
     },
@@ -3323,6 +3323,134 @@
       "duration_ms": 168312,
       "name": "nomad",
       "url": "https://open.spotify.com/track/3qZpVtOkVmO5vTcAPhpf2l"
+    },
+    {
+      "added_at": "2026-06-13 10:56:09",
+      "album": {
+        "name": "WHERE THE RIVER FLOWS",
+        "url": "https://open.spotify.com/album/4zcmnA4Yzq7HVSoyydBfta"
+      },
+      "artists": [
+        {
+          "name": "Mainframe Bird",
+          "url": "https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt"
+        }
+      ],
+      "duration_ms": 246688,
+      "name": "NEVER FADE",
+      "url": "https://open.spotify.com/track/08NDdyzO46LeYLeQOCjZfT"
+    },
+    {
+      "added_at": "2026-06-13 10:55:52",
+      "album": {
+        "name": "Mutante",
+        "url": "https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "duration_ms": 241750,
+      "name": "Fuera de Ac\u00e1 - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1Sga4VOAMh0rJg7jPz7e8H"
+    },
+    {
+      "added_at": "2026-06-13 10:55:38",
+      "album": {
+        "name": "Despu\u00e9s de la Luz (Remastered)",
+        "url": "https://open.spotify.com/album/2nIkGEVas0sImcN9zdY9n0"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "duration_ms": 370285,
+      "name": "Raz\u00f3n (Remastered)",
+      "url": "https://open.spotify.com/track/6Du5DzMpJHDqK6l4iWEv39"
+    },
+    {
+      "added_at": "2026-06-13 10:55:25",
+      "album": {
+        "name": "Darling Where Have You Been",
+        "url": "https://open.spotify.com/album/6acJjn7IRY8yjuWRx6z1JE"
+      },
+      "artists": [
+        {
+          "name": "love and lava twins",
+          "url": "https://open.spotify.com/artist/6vpruOXwUEtNwvpCfwKZw7"
+        }
+      ],
+      "duration_ms": 201216,
+      "name": "Darling Where Have You Been",
+      "url": "https://open.spotify.com/track/0JOEKhCY9fmuNukbFHji2u"
+    },
+    {
+      "added_at": "2026-06-13 10:55:09",
+      "album": {
+        "name": "(There's) Something In The Air",
+        "url": "https://open.spotify.com/album/7znmxL7XixLPylnBnL8PLg"
+      },
+      "artists": [
+        {
+          "name": "Cheap Petrol",
+          "url": "https://open.spotify.com/artist/12GUVzQKdS6WNQvbZRq100"
+        }
+      ],
+      "duration_ms": 234005,
+      "name": "(There's) Something In The Air",
+      "url": "https://open.spotify.com/track/7JeSGqPjKT3zFH1qCyFDT3"
+    },
+    {
+      "added_at": "2026-06-13 10:54:44",
+      "album": {
+        "name": "WHERE THE RIVER FLOWS",
+        "url": "https://open.spotify.com/album/4zcmnA4Yzq7HVSoyydBfta"
+      },
+      "artists": [
+        {
+          "name": "Mainframe Bird",
+          "url": "https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt"
+        }
+      ],
+      "duration_ms": 288531,
+      "name": "SPEAK TO THE WIND",
+      "url": "https://open.spotify.com/track/5Ljwp5uq6ngsIGYfVNFcPV"
+    },
+    {
+      "added_at": "2026-06-13 10:57:35",
+      "album": {
+        "name": "Never Gonna Give It up!",
+        "url": "https://open.spotify.com/album/7yeR0xsknpDZ4rSMQ6ndMF"
+      },
+      "artists": [
+        {
+          "name": "Final Chapter",
+          "url": "https://open.spotify.com/artist/72ZCEpAVnDlPE9JOziYqHC"
+        }
+      ],
+      "duration_ms": 82899,
+      "name": "Wishful Warfare",
+      "url": "https://open.spotify.com/track/5n1POYyik4EtXhvPOY2EMd"
+    },
+    {
+      "added_at": "2026-06-13 10:59:39",
+      "album": {
+        "name": "Echoes Inside",
+        "url": "https://open.spotify.com/album/1OpvIMXP3B0yahutdyZecO"
+      },
+      "artists": [
+        {
+          "name": "Lies We Sold",
+          "url": "https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Echoes Inside",
+      "url": "https://open.spotify.com/track/31ErHcep5J8c1GhSLXGUxt"
     }
   ],
   "unique_name": "Shuffle Roulette",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 
 > Where nature and white noise meet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,472 likes - 120 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,432 likes - 120 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 48 | [Oceanic](https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:23 |
 | 49 | [Peninsula Rain](https://open.spotify.com/track/3I07DM1i1NtRP3F458yQgs) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 2:14 |
 | 50 | [A Moment Of Peace \(Rainy Green Noise\)](https://open.spotify.com/track/6fFR0PmP2feAJubtu2iG0s) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:42 |
-| 51 | [Precipitation](https://open.spotify.com/track/7jSpVGnPc3j3KS0W2KKnCJ) | [Imvula](https://open.spotify.com/artist/3r3j7rY4YaOCA5Fncnz6f6) | [Precipitation](https://open.spotify.com/album/5abBHqAyDaxxkt7j4LWBJI) | 3:36 |
-| 52 | [Soothing Lake Waves](https://open.spotify.com/track/2FFkQBFoPY14EbwDijOOnG) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Nighttime Waves](https://open.spotify.com/album/6Ya4idfkceVw1AmzjXeqeW) | 3:11 |
-| 53 | [Perfect Forest Rain](https://open.spotify.com/track/02IW5y4FjEqwWVtNeQO2o9) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Embrace The Rain](https://open.spotify.com/album/0fEyDdutiq26DBzd0eIjFw) | 2:35 |
+| 51 | [Perfect Forest Rain](https://open.spotify.com/track/02IW5y4FjEqwWVtNeQO2o9) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Embrace The Rain](https://open.spotify.com/album/0fEyDdutiq26DBzd0eIjFw) | 2:35 |
+| 52 | [Precipitation](https://open.spotify.com/track/7jSpVGnPc3j3KS0W2KKnCJ) | [Imvula](https://open.spotify.com/artist/3r3j7rY4YaOCA5Fncnz6f6) | [Precipitation](https://open.spotify.com/album/5abBHqAyDaxxkt7j4LWBJI) | 3:36 |
+| 53 | [Soothing Lake Waves](https://open.spotify.com/track/2FFkQBFoPY14EbwDijOOnG) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Nighttime Waves](https://open.spotify.com/album/6Ya4idfkceVw1AmzjXeqeW) | 3:11 |
 | 54 | [Summer Rain](https://open.spotify.com/track/7a3eLJPSgAk3PQbpYjrYdM) | [Rain Sounds FX](https://open.spotify.com/artist/3oA1rlM2x6SYsgVwc9kikK) | [Summer Rain](https://open.spotify.com/album/089nbe8JjcObU0nej5hJKb) | 2:32 |
 | 55 | [Värnen](https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
 | 56 | [River Roots](https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Weather and Nature Sounds](https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7) | 3:02 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 82 | [Relaxing River Sounds](https://open.spotify.com/track/1bj1hZ1gz6EpO6xpMfGzfs) | [Sounds from Above](https://open.spotify.com/artist/17HGEQUIyMzUgtjvBh8rWc) | [Relaxing Running Water](https://open.spotify.com/album/5bfdoeCy8FpHfed8W5ObC7) | 3:06 |
 | 83 | [Evergreen Noise](https://open.spotify.com/track/2mmfMsEA9FmbrphnBvyJEa) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Evergreen Noise](https://open.spotify.com/album/1RLp7d0lQa4gQxYlVsImJt) | 2:34 |
 | 84 | [Calm Pouring Ocean](https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 3:00 |
-| 85 | [Vain Rain](https://open.spotify.com/track/0PColavKAYrvY3fXvQgOvQ) | [Skylated](https://open.spotify.com/artist/62iHUQsjVEK33b5YlpRsrS) | [Eye Of The Rain](https://open.spotify.com/album/6YpLnqT6dPYyacJMO0dLwZ) | 2:26 |
-| 86 | [Élevé Naturel](https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG) | [S'enfoncer Dans Le Paradis](https://open.spotify.com/artist/6jjZLzJSJMBo8aKARuLucF) | [Augmentation De La Température](https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV) | 2:18 |
+| 85 | [Élevé Naturel](https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG) | [S'enfoncer Dans Le Paradis](https://open.spotify.com/artist/6jjZLzJSJMBo8aKARuLucF) | [Augmentation De La Température](https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV) | 2:18 |
+| 86 | [Vain Rain](https://open.spotify.com/track/0PColavKAYrvY3fXvQgOvQ) | [Skylated](https://open.spotify.com/artist/62iHUQsjVEK33b5YlpRsrS) | [Eye Of The Rain](https://open.spotify.com/album/6YpLnqT6dPYyacJMO0dLwZ) | 2:26 |
 | 87 | [Rain Flow](https://open.spotify.com/track/4czA4cB3hWwKhkLuXqdABF) | [Now That’s What I Call Rain](https://open.spotify.com/artist/4gH7uEKcdTcU4vYnQIpq6A) | [Volume 2](https://open.spotify.com/album/5JszjLduB2DL2yy9jAu92o) | 3:01 |
-| 88 | [Sleep Well Rain](https://open.spotify.com/track/1uf2Q4KhwuhWJ7DFBDrGvZ) | [Rainfall Place](https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX) | [Rainfall Place](https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN) | 2:22 |
-| 89 | [Soothing Brown Noise](https://open.spotify.com/track/1WAq3phixiSU6hoEcivZwn) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Soothing Brown Noise](https://open.spotify.com/album/1j4qliLzKjaHa5S1ITgTNb) | 3:14 |
+| 88 | [Soothing Brown Noise](https://open.spotify.com/track/1WAq3phixiSU6hoEcivZwn) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Soothing Brown Noise](https://open.spotify.com/album/1j4qliLzKjaHa5S1ITgTNb) | 3:14 |
+| 89 | [Sleep Well Rain](https://open.spotify.com/track/1uf2Q4KhwuhWJ7DFBDrGvZ) | [Rainfall Place](https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX) | [Rainfall Place](https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN) | 2:22 |
 | 90 | [Rain Sound Slumber](https://open.spotify.com/track/3LPc8JM5dHi7JyAm4I62t6) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Rain Sound Slumber](https://open.spotify.com/album/7ktz4HHOtMOR2g5IBUoxtS) | 3:06 |
 | 91 | [Hillside Song](https://open.spotify.com/track/5jyg8WhfWLqLSp0dGwiMeY) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Hillside Song](https://open.spotify.com/album/6u8FZgFYrABTL7zhC8Vk4E) | 5:06 |
 | 92 | [Fragments \(2 Minute Loopable Tibetan Bowl Timer\)](https://open.spotify.com/track/2HpjyT7Zh3wskU8oVy3sR4) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Timed Tibetan Bowl Meditation \(Loopable\)](https://open.spotify.com/album/0YskWkpftquyWyCwvbAWCQ) | 2:00 |

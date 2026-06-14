@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: MUNA
 
-2,439 songs - 5 day 9 hr 57 min
+2,440 songs - 5 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,7 +820,7 @@
 | [Fuzzy](https://open.spotify.com/track/6js5G0CuansIF9BHyXk4uV) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Fuzzy](https://open.spotify.com/album/0lBPwTENDt5aDVWCfizuGU) | 2:37 | 2021-07-02 | 2022-04-08 |
 | [Gambling Addiction / eleven elevens](https://open.spotify.com/track/1ffUWQfh7ErLeD2Tzhcl5x) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 4:07 | 2022-03-04 | 2022-04-21 |
 | [Games](https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Games](https://open.spotify.com/album/2hEyp0Pcr4hoQoJSJuivGT) | 3:29 | 2021-05-05 | 2022-04-14 |
-| [Games](https://open.spotify.com/track/2WII6kh8Asoi3K3ylgGFWq) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Games](https://open.spotify.com/album/1YPxQ3uOLdbpO4u4FpAd9z) | 2:45 | 2026-03-20 |  |
+| [Games](https://open.spotify.com/track/2WII6kh8Asoi3K3ylgGFWq) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Games](https://open.spotify.com/album/1YPxQ3uOLdbpO4u4FpAd9z) | 2:45 | 2026-03-20 | 2026-06-14 |
 | [Garden](https://open.spotify.com/track/0oRKaRJ4wIj7Rh29xRCLyK) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Garden](https://open.spotify.com/album/0dG5hvAPBxw6YpcGXujBUo) | 2:46 | 2021-02-25 | 2021-02-26 |
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-02-08 | 2021-10-28 |
 | [Gasoline](https://open.spotify.com/track/5tVbKij7vNLI0psFkkzyew) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:13 | 2020-10-20 | 2021-06-03 |
@@ -849,6 +849,7 @@
 | [Give Mama A Hug](https://open.spotify.com/track/7IT55sjogSasYp8PVcS4n3) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Give Mama A Hug](https://open.spotify.com/album/0Got69C44jINtFiu9cNvBy) | 2:53 | 2024-02-09 | 2024-02-17 |
 | [Glass Ceiling](https://open.spotify.com/track/74KhpMF3TuwzanrFXwfsZj) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Sonder](https://open.spotify.com/album/0s99qJjgAT5jyqpFQnFLMh) | 3:04 | 2021-09-24 | 2022-04-20 |
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2021-02-13 | 2022-08-27 |
+| [glitter in the night](https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [glitter in the night](https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6) | 2:39 | 2026-06-12 |  |
 | [Glory Days](https://open.spotify.com/track/0hKA03dkqmFmGCXaFLPHt7) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Glory Days](https://open.spotify.com/album/3LOVCfGdGh57pl2Yu6Aj5Y) | 2:25 | 2021-05-11 | 2021-10-13 |
 | [GLORY DAZE](https://open.spotify.com/track/7drbrQ1pqpnYrC0fh0AnU4) | [Fuller](https://open.spotify.com/artist/6u0sR7YTLPNf5CdyBg3ZE1) | [GLORY DAZE](https://open.spotify.com/album/3uVE4bHoJaxd582hMTD8VR) | 3:04 | 2024-04-12 | 2024-04-23 |
 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 | 2022-12-09 | 2023-07-01 |

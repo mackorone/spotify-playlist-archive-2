@@ -1,13 +1,37 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3673,
+  "num_followers": 3674,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAABxrBOVy7LPj0fZYt8CB1T1",
+  "snapshot_id": "aitMAAAAAAD9JSRsmT0Gw5/60BNhkbaV",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clyde e Bonnie",
+        "url": "https://open.spotify.com/album/7y7hLgMJbRPSL40D7PGD80"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Clyde e Bonnie",
+      "url": "https://open.spotify.com/track/4mntgu8UotzfrrUo1g5mDM"
+    },
     {
       "added_at": null,
       "album": {
@@ -339,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 301182,
-      "name": "Met\u00e1fora",
-      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POSTURADA",
         "url": "https://open.spotify.com/album/5819BDcxcehDVMAN0Ztke2"
       },
@@ -375,6 +379,26 @@
       "duration_ms": 177230,
       "name": "POSTURADA",
       "url": "https://open.spotify.com/track/6B4X1XdoqDpbNRGRjGlGHp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 301182,
+      "name": "Met\u00e1fora",
+      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
     },
     {
       "added_at": null,
@@ -843,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downhill Domination - SECOND EDITION",
-        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
-      },
-      "artists": [
-        {
-          "name": "NIKITO Labrae",
-          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
-        },
-        {
-          "name": "BPP Tan",
-          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "Bizarro",
-      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
         "url": "https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5"
       },
@@ -899,6 +899,30 @@
       "duration_ms": 352500,
       "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
       "url": "https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Downhill Domination - SECOND EDITION",
+        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
+      },
+      "artists": [
+        {
+          "name": "NIKITO Labrae",
+          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
+        },
+        {
+          "name": "BPP Tan",
+          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "Bizarro",
+      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
     },
     {
       "added_at": null,
@@ -955,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem que t\u00e1 vindo no porte?",
-        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "D38",
-          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 150711,
-      "name": "Quem que t\u00e1 vindo no porte?",
-      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fed Tracks #14: Recado",
         "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
       },
@@ -999,6 +999,30 @@
       "duration_ms": 161095,
       "name": "Fed Tracks #14: Recado",
       "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem que t\u00e1 vindo no porte?",
+        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 150711,
+      "name": "Quem que t\u00e1 vindo no porte?",
+      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
     },
     {
       "added_at": null,
@@ -1127,6 +1151,42 @@
       "duration_ms": 255640,
       "name": "Too Street 4 T.V.",
       "url": "https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set Ajc",
+        "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 343399,
+      "name": "Set Ajc",
+      "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
     }
   ],
   "unique_name": "This Is N.I.N.A",

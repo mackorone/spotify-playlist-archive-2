@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Nipsey Hussle, Bino Rideaux\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,372 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,377 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 41 | [アニョハセヨ](https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [アニョハセヨ](https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl) | 1:56 |
 | 42 | [YSL Shoes](https://open.spotify.com/track/00x26ITtxfKNeuxlN9hg0I) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Until I Return](https://open.spotify.com/album/7jokthk2oQAbIJ3nchddmf) | 3:29 |
 | 43 | [Neukkyuh \(feat\. Masta Wu\)](https://open.spotify.com/track/0xfwD1Yb8qcoL65KaPLgxe) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Masta Wu](https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6) | [ONYX](https://open.spotify.com/album/2ntEbjyUKKZPTMpqqMYGQC) | 3:24 |
-| 44 | [T\-Shirt \(Fresh\)](https://open.spotify.com/track/6QknxX3YWZJGNcP7ckY2bK) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9) | [Lost Files \- The Collection](https://open.spotify.com/album/74U2lRYy9rubW3Erm9x522) | 2:46 |
+| 44 | [T\-Shirt \(Fresh\)](https://open.spotify.com/track/6QknxX3YWZJGNcP7ckY2bK) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9) | [Lost Files \- The Collection 2011 \- 2013](https://open.spotify.com/album/74U2lRYy9rubW3Erm9x522) | 2:46 |
 | 45 | [Young \(ft\. BIA & Destroy Lonely\)](https://open.spotify.com/track/5IGgVDDTEXBZhtPIeUdYdD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Young \(ft\. BIA & Destroy Lonely\)](https://open.spotify.com/album/340zyCfyEhnqTgi1u51KGE) | 2:48 |
 | 46 | [BOSS](https://open.spotify.com/track/0FS52JGEH5tVTssgZlS6En) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [BOSS](https://open.spotify.com/album/1Fp8MtozDn3BjKabseQ4Ms) | 3:11 |
 | 47 | [TEST ME \(feat\. JID\)](https://open.spotify.com/track/7DHS2ac4HjmfLUjo9hbva9) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BULLDAWG](https://open.spotify.com/album/4b0qE7wgMfoDD5HU9NOPiH) | 4:16 |

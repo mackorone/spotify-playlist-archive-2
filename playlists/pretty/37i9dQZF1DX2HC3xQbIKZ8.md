@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: SIX60
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,116 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,135 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 30 | [Don’t Forget Your Roots](https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5) | 3:52 |
 | 31 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
 | 32 | [ROLLIN ON](https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D) | [Rokkō](https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b) | [ROLLIN ON](https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU) | 3:16 |
-| 33 | [Thinking About You](https://open.spotify.com/track/01hdQfU8xCXA8aW59GnyWG) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Keep Rising](https://open.spotify.com/album/47FZKIfeX6vDAaUkrAqQbD) | 6:01 |
-| 34 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
+| 33 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
+| 34 | [Thinking About You](https://open.spotify.com/track/01hdQfU8xCXA8aW59GnyWG) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Keep Rising](https://open.spotify.com/album/47FZKIfeX6vDAaUkrAqQbD) | 6:01 |
 | 35 | [So True](https://open.spotify.com/track/5gAHSJPdHqz2MHc5WsfXnD) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [On the Sun](https://open.spotify.com/album/6bB9QEMR57Ce6HBAADpvQv) | 3:54 |
 | 36 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 |
 | 37 | [Stay](https://open.spotify.com/track/0o8LcX7XbHwRLcwdEITtjt) | [Fejoint](https://open.spotify.com/artist/7qhDGsctUd9NycG0KBXqAf), [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Switch.E](https://open.spotify.com/artist/4gbdDl1eUOt2geDFNewe8a) | [Stay](https://open.spotify.com/album/1qCuwPGIBpJW1vhwbnfsAE) | 3:38 |
 | 38 | [Getting Stronger](https://open.spotify.com/track/0aRiRbMBJ4boE3hhhtlOsB) | [Adeaze](https://open.spotify.com/artist/24pxvLTDsfnox2HHlKf2mX) | [Always & for Real \(Deluxe Edition\)](https://open.spotify.com/album/6aYQiHlTI1VgSM3TKIMUr1) | 3:05 |
 | 39 | [COASTY GIRL](https://open.spotify.com/track/2fsSR8q2mZyhWV3txRww6w) | [SHANE WALKER](https://open.spotify.com/artist/0kDBi5XQUry7jcVp3Eya9m) | [COASTY GIRL](https://open.spotify.com/album/53zu8HnMibLkJ0W9Qtqsun) | 3:05 |
 | 40 | [Goddess \(with Shenseea\)](https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Goddess](https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT) | 3:26 |
-| 41 | [For the People](https://open.spotify.com/track/51AXsgpHP8R1QWzFZRWZJk) | [Nesian Mystik](https://open.spotify.com/artist/29qTQ8hGGr8QxXbVRaC7WC) | [Polysaturated](https://open.spotify.com/album/6HZlLnjU5CzMyFgCkdIqrF) | 3:14 |
-| 42 | [Darling Angel](https://open.spotify.com/track/6hq4mlXQ4pLqOk2wQaTvhH) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Nothing To Hide](https://open.spotify.com/album/7oRmTwj5o0FGN6TANyL4oX) | 4:05 |
+| 41 | [Darling Angel](https://open.spotify.com/track/6hq4mlXQ4pLqOk2wQaTvhH) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Nothing To Hide](https://open.spotify.com/album/7oRmTwj5o0FGN6TANyL4oX) | 4:05 |
+| 42 | [For the People](https://open.spotify.com/track/51AXsgpHP8R1QWzFZRWZJk) | [Nesian Mystik](https://open.spotify.com/artist/29qTQ8hGGr8QxXbVRaC7WC) | [Polysaturated](https://open.spotify.com/album/6HZlLnjU5CzMyFgCkdIqrF) | 3:14 |
 | 43 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 |
 | 44 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
 | 45 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |

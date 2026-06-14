@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37355,
+  "num_followers": 37356,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAADmAZFF0VWU450H/VMZBPk6",
+  "snapshot_id": "aitMAAAAAADFziWaoEbHthOWKwWYobmg",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
       "duration_ms": 385960,
       "name": "No! No! Se\u00f1or (with Brenda Fassie)",
       "url": "https://open.spotify.com/track/7eQy42EeaBFWuN1nnZk8mA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jiva 2.0 (Bacardi Remix)",
+        "url": "https://open.spotify.com/album/7MzMTVhuD5pA5ysvl1sT3J"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        },
+        {
+          "name": "Zenn'Bk",
+          "url": "https://open.spotify.com/artist/4zgB4UJdwKp7n5g5vDwfIH"
+        }
+      ],
+      "duration_ms": 249577,
+      "name": "Jiva 2.0 - Bacardi Remix",
+      "url": "https://open.spotify.com/track/4gEQXAZB7RCCbpNpuD71Tn"
     },
     {
       "added_at": null,
@@ -811,22 +831,6 @@
       "duration_ms": 298906,
       "name": "Ngohlala Ngi Nje",
       "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Boipatong",
-      "url": "https://open.spotify.com/track/0RjRoE7GPfLq0hs51lhIPN"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

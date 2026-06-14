@@ -1408,10 +1408,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 191306,
       "name": "Parece Falso",
       "url": "https://open.spotify.com/track/2OwcfT3oWowyhLKRaBdt59"
+    },
+    {
+      "album": {
+        "name": "Parece Falso",
+        "url": "https://open.spotify.com/album/0K6mhMEVl2HPA5p0oqTETr"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Parece Falso",
+      "url": "https://open.spotify.com/track/6wuvani9xqw6r0phkiNnsc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con FaceBrooklyn en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,881 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,876 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 4 | [Noche](https://open.spotify.com/track/42AStJYmglTAHAgER92gxv) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Noche](https://open.spotify.com/album/3IpjbBkyfU8jHG69ch0Y2l) | 2:35 |
 | 5 | [Muñeco de alambre](https://open.spotify.com/track/3RgxAfdUDE9wgYguGOga0P) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [juanito](https://open.spotify.com/album/42Qod5kfH3Njcz2sjCPoIF) | 2:38 |
 | 6 | [her \(feat\. Leon Leiden & Macario Martínez\)](https://open.spotify.com/track/1OcpRD3d7YBuGlIxPYQHsd) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [her \(feat\. Leon Leiden & Macario Martínez\)](https://open.spotify.com/album/1hcoQmTGeohdgVLYImXji9) | 3:06 |
-| 7 | [Mía](https://open.spotify.com/track/2K6ImJaiJdi74PIepR1ZTD) | [Jan Toussaint](https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE), [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Mía](https://open.spotify.com/album/5qax6lkHYCH8v6I7EanAG0) | 3:32 |
+| 7 | [Mía](https://open.spotify.com/track/2K6ImJaiJdi74PIepR1ZTD) | [Jan Toussaint](https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE), [Zac Brugan](https://open.spotify.com/artist/7j2igMc6hBqjLkordKoBzo) | [Mía](https://open.spotify.com/album/5qax6lkHYCH8v6I7EanAG0) | 3:32 |
 | 8 | [ENCONTREMOS UNA MANERA](https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [ENCONTREMOS UNA MANERA](https://open.spotify.com/album/6f1tNlGmy7U1rIn9Ye94RC) | 2:14 |
 | 9 | [Todavía No](https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Todavía No](https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq) | 4:05 |
 | 10 | [2AM](https://open.spotify.com/track/4gwq02otWY8yTP0dLGT7yz) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Imperfecta](https://open.spotify.com/album/0yIg9tDCNzGC4CKHK8WMM7) | 2:41 |

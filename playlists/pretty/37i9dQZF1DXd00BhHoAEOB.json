@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 602139,
+  "num_followers": 602130,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -327,18 +327,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "Pel\u00edcula Muda, Pt. 2",
+        "url": "https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+      "duration_ms": 303532,
+      "name": "Ll\u00e9vame en un Beso",
+      "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -395,22 +399,18 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Pel\u00edcula Muda, Pt. 2",
-        "url": "https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 303532,
-      "name": "Ll\u00e9vame en un Beso",
-      "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -427,6 +427,22 @@
       "duration_ms": 218920,
       "name": "Qui\u00e9reme Mucho",
       "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 258993,
+      "name": "H\u00e1blame de Ti",
+      "url": "https://open.spotify.com/track/0UAd5a3A1v2yEMFUF66apJ"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -487,22 +503,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 258993,
-      "name": "H\u00e1blame de Ti",
-      "url": "https://open.spotify.com/track/0UAd5a3A1v2yEMFUF66apJ"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "Las Curanderas",
         "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 206061,
       "name": "Las Curanderas",
       "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -567,22 +583,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "Chavela Vargas. Sus 40 Grandes Canciones",
         "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
       },
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Latin & Love Studies",
-        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        },
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        }
-      ],
-      "duration_ms": 240298,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "Eso",
         "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 242944,
       "name": "Eso",
       "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        },
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Estar\u00e9 - La negra noche",
-        "url": "https://open.spotify.com/album/4Q174ay4gpWj09C9iM70RE"
-      },
-      "artists": [
-        {
-          "name": "Garam Masala",
-          "url": "https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3"
-        }
-      ],
-      "duration_ms": 181882,
-      "name": "La negra noche",
-      "url": "https://open.spotify.com/track/1bFL5OLqLLA0xHqL3OJVhh"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "Volar",
         "url": "https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 241167,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/3oRybpqCtANfRBRZIejyEw"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "Estar\u00e9 - La negra noche",
+        "url": "https://open.spotify.com/album/4Q174ay4gpWj09C9iM70RE"
+      },
+      "artists": [
+        {
+          "name": "Garam Masala",
+          "url": "https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3"
+        }
+      ],
+      "duration_ms": 181882,
+      "name": "La negra noche",
+      "url": "https://open.spotify.com/track/1bFL5OLqLLA0xHqL3OJVhh"
     },
     {
       "added_at": "2025-01-10 16:11:48",

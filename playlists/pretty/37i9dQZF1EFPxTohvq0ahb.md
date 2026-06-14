@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,629 likes - 119 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,630 likes - 119 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 82 | [Crowded Places \("From Songland"\)](https://open.spotify.com/track/2Z8LY7VxDOwm3lPvTOE2kR) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Crowded Places \(From "Songland"\)](https://open.spotify.com/album/5DORDernNVnDd9fVVlk7OM) | 2:30 |
 | 83 | [This Time](https://open.spotify.com/track/015u66hoqqhwIPyKGGFItg) | [Pia Toscano](https://open.spotify.com/artist/7MmKfvl13ktxYrbHh9JkZA) | [This Time](https://open.spotify.com/album/6Lb108apttKaPu7Pom35aI) | 3:08 |
 | 84 | [It's Your Life](https://open.spotify.com/track/4efkPzvYnjnJeVHYlCErmS) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Full Frequency](https://open.spotify.com/album/4AYXhebGFYlUU4Fh0LLTIB) | 3:48 |
-| 85 | [Aces High \(feat\. Serayah\)](https://open.spotify.com/track/06gkJcXenvimOD3Bme9nFA) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Empire: Original Soundtrack, Season 3](https://open.spotify.com/album/1JY8uoxY8dLSPwVj2UqLiP) | 2:27 |
-| 86 | [Letter To My Son](https://open.spotify.com/track/1ztp8ohDWKgTq8rdhAlcHi) | [Don Trip](https://open.spotify.com/artist/0W6Vi3JrMz1BtEOUqG2mcG), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Letter To My Son](https://open.spotify.com/album/1tJwDeOUpDGZ1KiUVemFJT) | 4:00 |
+| 85 | [Letter To My Son](https://open.spotify.com/track/1ztp8ohDWKgTq8rdhAlcHi) | [Don Trip](https://open.spotify.com/artist/0W6Vi3JrMz1BtEOUqG2mcG), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Letter To My Son](https://open.spotify.com/album/1tJwDeOUpDGZ1KiUVemFJT) | 4:00 |
+| 86 | [Aces High \(feat\. Serayah\)](https://open.spotify.com/track/06gkJcXenvimOD3Bme9nFA) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Empire: Original Soundtrack, Season 3](https://open.spotify.com/album/1JY8uoxY8dLSPwVj2UqLiP) | 2:27 |
 | 87 | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/track/0gJHtHSwr5VgA1EXbVT177) | [Max Embers](https://open.spotify.com/artist/11O6zlvW2ifkhcXjOpNrhE) | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/album/2gW9Uy819K8S9dxYTfvFRR) | 2:41 |
 | 88 | [Get My Dough](https://open.spotify.com/track/5HnbGdPRLGBJmq6tPlXHIv) | [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Get My Dough](https://open.spotify.com/album/18ICs54AuTOWxRcLJDRLxh) | 2:53 |
 | 89 | [Lying \(Next To You\) \(From "Songland"\)](https://open.spotify.com/track/1Af0BvG8ATUwOuONIvXgFs) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Lying \(Next to You\) \[From "Songland"\]](https://open.spotify.com/album/6YNsWggnn9uYyxvUsOVYZQ) | 2:28 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 118 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 119 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `AcUDkAAAAADNo22rUj6Ur/1W+AIhUXPP`
+Snapshot ID: `AcUJMAAAAACmzY5gZJOQbSAoksw54pJh`

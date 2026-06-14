@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Shalipoppi",
-  "num_followers": 144006,
+  "num_followers": 144132,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,26 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
           "name": "Olamide",
           "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
+      "duration_ms": 211756,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -575,26 +579,22 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
       },
       "artists": [
         {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
           "name": "Olamide",
           "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 211756,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+      "duration_ms": 156666,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
         "name": "No Wam",
         "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 149446,
       "name": "No Wam",
       "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
-        "name": "Sunny Ade",
-        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Sunny Ade",
-      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
+        "name": "Follow My Lead",
+        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 140343,
+      "name": "Follow My Lead",
+      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
         "name": "WhatsApp",
         "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
-        "name": "Follow My Lead",
-        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 140343,
-      "name": "Follow My Lead",
-      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
+        "name": "Kawasaki (Freestyle)",
+        "url": "https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 164464,
+      "name": "Kawasaki (Freestyle)",
+      "url": "https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
         "name": "CLARITY OF MIND",
         "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
       },
@@ -839,26 +855,6 @@
       "duration_ms": 162461,
       "name": "CANADA BREEZE",
       "url": "https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
-        "name": "420",
-        "url": "https://open.spotify.com/album/2mUIIraqsiVonjQHS3R7JC"
-      },
-      "artists": [
-        {
-          "name": "Plutomania",
-          "url": "https://open.spotify.com/artist/018olXJmRtbs1Q0VTkspcH"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 163768,
-      "name": "420",
-      "url": "https://open.spotify.com/track/6q8SsMtXvytOsP5CLDpxVU"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -879,18 +875,22 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "Kawasaki (Freestyle)",
-        "url": "https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK"
+        "name": "420",
+        "url": "https://open.spotify.com/album/2mUIIraqsiVonjQHS3R7JC"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+          "name": "Plutomania",
+          "url": "https://open.spotify.com/artist/018olXJmRtbs1Q0VTkspcH"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 164464,
-      "name": "Kawasaki (Freestyle)",
-      "url": "https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl"
+      "duration_ms": 163768,
+      "name": "420",
+      "url": "https://open.spotify.com/track/6q8SsMtXvytOsP5CLDpxVU"
     },
     {
       "added_at": "2026-06-12 00:01:45",

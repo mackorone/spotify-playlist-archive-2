@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 271208,
+  "num_followers": 271244,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,30 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
       },
       "artists": [
         {
           "name": "Romeo Santos",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        },
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        },
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 218565,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/3cZhoRYQFqJ8B9z0AN9gJB"
+      "duration_ms": 279346,
+      "name": "Debate De 4",
+      "url": "https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -811,22 +823,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Los Pobres Tambien LLoran",
-      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
       },
@@ -839,6 +835,22 @@
       "duration_ms": 372733,
       "name": "P\u00e9game Tu Vicio",
       "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Los Pobres Tambien LLoran",
+      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -983,18 +995,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Sangre De Mis Venas",
-        "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
+        "name": "COBARDE",
+        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
       "artists": [
         {
-          "name": "Vena",
-          "url": "https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 249034,
-      "name": "Sangre De Mis Venas",
-      "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1015,22 +1031,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "COBARDE",
-        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
+        "name": "Sangre De Mis Venas",
+        "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Vena",
+          "url": "https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd"
         }
       ],
-      "duration_ms": 166081,
-      "name": "COBARDE",
-      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
+      "duration_ms": 249034,
+      "name": "Sangre De Mis Venas",
+      "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1723,30 +1735,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
       "artists": [
         {
           "name": "Romeo Santos",
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        },
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        },
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 279346,
-      "name": "Debate De 4",
-      "url": "https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns"
+      "duration_ms": 218565,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/3cZhoRYQFqJ8B9z0AN9gJB"
     }
   ],
   "unique_name": "Bachat\u00e9ame",

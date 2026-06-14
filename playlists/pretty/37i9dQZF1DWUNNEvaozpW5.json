@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Silo\u00e9.",
-  "num_followers": 615543,
+  "num_followers": 615567,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Hasta que me quede sin voz",
-        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 306861,
-      "name": "Hasta que me quede sin voz",
-      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 269426,
       "name": "Necesito Respirar",
       "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Hasta que me quede sin voz",
+        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 306861,
+      "name": "Hasta que me quede sin voz",
+      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Ba\u00efonarena (Live)",
-        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
-      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 400480,
       "name": "Por verte sonre\u00edr",
       "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Ba\u00efonarena (Live)",
+        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 288146,
+      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
+      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "Todo Tiene Su Fin",
-      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "Estop\u00eda",
         "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 200367,
       "name": "K\u00e9 M\u00e1s Nos Da",
       "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "Todo Tiene Su Fin",
+      "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Bajo Presi\u00f3n",
-        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 259881,
-      "name": "Bajo Presi\u00f3n",
-      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "El D\u00eda Que T\u00fa Te Marches",
         "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 208101,
       "name": "El D\u00eda Que T\u00fa Te Marches",
       "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Bajo Presi\u00f3n",
+        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 259881,
+      "name": "Bajo Presi\u00f3n",
+      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "A mis 50",
-        "url": "https://open.spotify.com/album/7pOiadUFsi28OFOJSl2L44"
-      },
-      "artists": [
-        {
-          "name": "Arco",
-          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
-        }
-      ],
-      "duration_ms": 197082,
-      "name": "A mis 50",
-      "url": "https://open.spotify.com/track/0DzGpuc4mhTkygWnY1aAXa"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
         "name": "12 Botellines y 5 Tercios",
         "url": "https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 236160,
       "name": "Pacto Entre Caballeros",
       "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "A mis 50",
+        "url": "https://open.spotify.com/album/7pOiadUFsi28OFOJSl2L44"
+      },
+      "artists": [
+        {
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+        }
+      ],
+      "duration_ms": 197082,
+      "name": "A mis 50",
+      "url": "https://open.spotify.com/track/0DzGpuc4mhTkygWnY1aAXa"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Pienso en Aquella Tarde",
+      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
         "name": "Estado 03",
         "url": "https://open.spotify.com/album/0HXp4htATr4ntYfQ29mTsa"
       },
@@ -1928,22 +1944,6 @@
       },
       "artists": [
         {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Pienso en Aquella Tarde",
-      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
           "name": "Tequila",
           "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
         }
@@ -1951,22 +1951,6 @@
       "duration_ms": 190013,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
-    },
-    {
-      "added_at": "2026-06-11 22:00:43",
-      "album": {
-        "name": "Las 101 canciones - Cinco d\u00e9cadas de Pop Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -1983,6 +1967,22 @@
       "duration_ms": 223240,
       "name": "Cuando Brille el Sol",
       "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
+    },
+    {
+      "added_at": "2026-06-11 22:00:43",
+      "album": {
+        "name": "Las 101 canciones - Cinco d\u00e9cadas de Pop Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr"
     },
     {
       "added_at": "2026-06-11 22:00:43",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2026-06-11 22:00:43",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+        "name": "Mundo imperfecto",
+        "url": "https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud"
       },
       "artists": [
         {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+          "name": "Sidecars",
+          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
         }
       ],
-      "duration_ms": 182346,
-      "name": "A Contracorriente",
-      "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
+      "duration_ms": 188893,
+      "name": "Mundo imperfecto",
+      "url": "https://open.spotify.com/track/7hlytak131AgmPYe8JsYws"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

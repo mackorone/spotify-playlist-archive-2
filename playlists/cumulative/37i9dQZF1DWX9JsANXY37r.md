@@ -4,7 +4,7 @@
 
 > drinks em casa, nada melhor
 
-261 songs - 16 hr 1 min
+262 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Disco Yes](https://open.spotify.com/track/61Ivix5DTnDPVjp1dgLyov) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:40 | 2022-03-04 | 2022-11-17 |
 | [Don't Forget About Us \- KAYTRANADA Remix](https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Don't Forget About Us \(KAYTRANADA Remix\)](https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy) | 4:03 | 2025-04-11 | 2025-10-13 |
 | [Dontcha](https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Feel Good](https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D) | 3:21 | 2022-03-25 |  |
-| [Down to Love](https://open.spotify.com/track/1WJ96y5wT3gQdrDGXEU2ZP) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Late Night Boogie](https://open.spotify.com/album/2FpLY1mr3pzDju1ujqRJbA) | 6:33 | 2022-03-25 |  |
+| [Down to Love](https://open.spotify.com/track/1WJ96y5wT3gQdrDGXEU2ZP) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Late Night Boogie](https://open.spotify.com/album/2FpLY1mr3pzDju1ujqRJbA) | 6:33 | 2022-03-25 | 2026-06-14 |
 | [Dream](https://open.spotify.com/track/5GCrBPWKpgH4H3bLLnvWm7) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Dream](https://open.spotify.com/album/024Y1wPNxGBJBkpbNlPUny) | 4:39 | 2022-03-25 | 2022-04-18 |
 | [Drive](https://open.spotify.com/track/6DrnfOtSXRohVHbyVKPyWE) | [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [Dornik](https://open.spotify.com/album/5KhdVsoOssy3Uxnc9wPjpg) | 2:55 | 2022-03-25 | 2022-04-18 |
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Diana Gordon](https://open.spotify.com/artist/71Ug2zQHWlJFjNCK8swHfL) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-01-28 |  |
@@ -96,6 +96,7 @@
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 | 2022-06-24 | 2024-04-19 |
 | [Everybody Loves the Sunshine](https://open.spotify.com/track/6ghe4sMRzup1cOu7TyEztf) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Anthology](https://open.spotify.com/album/4TGSaAeUH3oyE7eRHPT57v) | 4:00 | 2022-03-25 | 2022-04-21 |
 | [Falta Pouco](https://open.spotify.com/track/56S6QcFGFQttLNjCwExqB7) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn), [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Falta Pouco](https://open.spotify.com/album/0Sip43K1gjoRwBib3Rbbnh) | 2:59 | 2024-07-26 | 2024-08-01 |
+| [Fatal](https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [JOY](https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g) | 3:16 | 2026-06-12 |  |
 | [Feel Your Weight](https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:09 | 2022-02-18 |  |
 | [Feelin' Alright \(feat\. Reva DeVito\)](https://open.spotify.com/track/0LLKDPlqrAlqgoiMDqkB2D) | [Nick Wisdom](https://open.spotify.com/artist/64lYrmxOvVvuiNyENyf3m3), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Intimate Strangers](https://open.spotify.com/album/4tEm5274iungpgOhCQvkO5) | 5:16 | 2022-03-25 | 2022-07-29 |
 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 | 2022-02-18 |  |

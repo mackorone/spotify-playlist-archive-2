@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Demi Lee Moore\n",
-  "num_followers": 147044,
+  "num_followers": 147092,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Mila",
-        "url": "https://open.spotify.com/album/4enI5oy6qL2Ibdf96K29vL"
-      },
-      "artists": [
-        {
-          "name": "JACOBUS",
-          "url": "https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt"
-        }
-      ],
-      "duration_ms": 172168,
-      "name": "Mila",
-      "url": "https://open.spotify.com/track/50ZHOPP42jXBg5uMnPHYZY"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Sterre",
         "url": "https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
+        "name": "Mila",
+        "url": "https://open.spotify.com/album/4enI5oy6qL2Ibdf96K29vL"
+      },
+      "artists": [
+        {
+          "name": "JACOBUS",
+          "url": "https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt"
+        }
+      ],
+      "duration_ms": 172168,
+      "name": "Mila",
+      "url": "https://open.spotify.com/track/50ZHOPP42jXBg5uMnPHYZY"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Spontaan",
-        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Keeza",
-      "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Boer Ding",
         "url": "https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 212242,
       "name": "Boer Ding",
       "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Spontaan",
+        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Keeza",
+      "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Hart Breek",
-        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Hart Breek",
-      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Kom Klop Weer",
         "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 175147,
       "name": "Kom Klop Weer",
       "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Hart Breek",
+        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Hart Breek",
+      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
+        "name": "Trek Hom Plat",
+        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Trek Hom Plat",
+      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
         "name": "Klein Bietjie",
         "url": "https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 205454,
       "name": "Wie Anders",
       "url": "https://open.spotify.com/track/32wQgPOPIwmoRW2HulnKFT"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
-        "name": "Trek Hom Plat",
-        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        },
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 172850,
-      "name": "Trek Hom Plat",
-      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
     },
     {
       "added_at": "2026-05-21 22:02:06",

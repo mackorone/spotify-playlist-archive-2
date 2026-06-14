@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 54205,
+  "num_followers": 54209,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAAcAl8UhdLn6Ai4jKMT4A08",
+  "snapshot_id": "aitMAAAAAADnMRDr7Ipq0EOqZ13vwhLH",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 184465,
       "name": "A Modo de Festejo",
       "url": "https://open.spotify.com/track/7fUQ2lIwbdjQrPATWfT55g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo No Dije",
+        "url": "https://open.spotify.com/album/09jfMTx04SaHmWSB1Mq3Kl"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 215243,
+      "name": "Yo No Dije",
+      "url": "https://open.spotify.com/track/20a8C1jCjzelRsDfJUstty"
     },
     {
       "added_at": null,
@@ -191,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Boca Les Callamos, Vol. 2",
-        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 166272,
-      "name": "Vac\u00edo",
-      "url": "https://open.spotify.com/track/3fxKox0e8TPyrIOiOC5Hkf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Te Am\u00e9",
         "url": "https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O"
       },
@@ -219,6 +223,22 @@
       "duration_ms": 242606,
       "name": "Cuando Te Am\u00e9",
       "url": "https://open.spotify.com/track/6alHQAMsFdfVqKn7eO8nYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7.2",
+        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 147328,
+      "name": "Cuento las Horas",
+      "url": "https://open.spotify.com/track/7tc7eQJbQEssPJBoB89gFw"
     },
     {
       "added_at": null,
@@ -239,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7.2",
-        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
+        "name": "La Boca Les Callamos, Vol. 2",
+        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
       },
       "artists": [
         {
@@ -248,9 +268,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 147328,
-      "name": "Cuento las Horas",
-      "url": "https://open.spotify.com/track/7tc7eQJbQEssPJBoB89gFw"
+      "duration_ms": 166272,
+      "name": "Vac\u00edo",
+      "url": "https://open.spotify.com/track/3fxKox0e8TPyrIOiOC5Hkf"
     },
     {
       "added_at": null,
@@ -580,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 191518,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5g5gtCn1i6kojn1BTsu1pp"
+      "duration_ms": 160568,
+      "name": "No Me Doy por Vencido",
+      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
     },
     {
       "added_at": null,
@@ -644,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 160568,
-      "name": "No Me Doy por Vencido",
-      "url": "https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi"
+      "duration_ms": 191518,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5g5gtCn1i6kojn1BTsu1pp"
     },
     {
       "added_at": null,
@@ -827,26 +847,6 @@
       "duration_ms": 211626,
       "name": "El Rezado",
       "url": "https://open.spotify.com/track/3rbSY6LnhawKud81tZSP0v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Toca Hacer Lo Tuyo",
-        "url": "https://open.spotify.com/album/2QODDsHHqu9MbRNUSPcrL2"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        },
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 194432,
-      "name": "Te Toca Hacer Lo Tuyo",
-      "url": "https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc"
     }
   ],
   "unique_name": "This Is La Fiera de Ojinaga",

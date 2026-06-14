@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 368908,
+  "num_followers": 368904,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACg3V6UbNaPm+mBAUWYELVr",
+  "snapshot_id": "aitMAAAAAABii2xEsHkaelMs+lNu482p",
   "tracks": [
     {
       "added_at": null,
@@ -679,42 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "North Point Music: Beginnings",
-        "url": "https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 234478,
-      "name": "Kaleidoscope Jesus",
-      "url": "https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
       },
@@ -731,6 +695,42 @@
       "duration_ms": 179853,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 188555,
+      "name": "Inherited",
+      "url": "https://open.spotify.com/track/0YZ2M06JWJKYFanYCZfXLQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "North Point Music: Beginnings",
+        "url": "https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 188555,
-      "name": "Inherited",
-      "url": "https://open.spotify.com/track/0YZ2M06JWJKYFanYCZfXLQ"
+      "duration_ms": 234478,
+      "name": "Kaleidoscope Jesus",
+      "url": "https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk"
     },
     {
       "added_at": null,

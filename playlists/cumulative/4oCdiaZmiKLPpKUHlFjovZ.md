@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring Fenix Flexin, Shaboozey, LUCKI &amp; more.
 
-239 songs - 10 hr 40 min
+240 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Underrated \(feat\. MoneySign Suede\) \- Remix](https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Underrated \(Remix\) \[feat\. MoneySign Suede\]](https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT) | 4:04 | 2023-09-08 |  |
 | [Understand](https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Understand](https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7) | 2:37 | 2024-03-15 | 2024-06-01 |
 | [UP IN HEA](https://open.spotify.com/track/0zwZAVXsEvfVKVTC6LrJzy) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [UP IN HEA](https://open.spotify.com/album/6TcbhclP0iL4I4kgAAdGk0) | 2:24 | 2026-03-02 | 2026-04-08 |
+| [Wait for Me](https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Wait for Me](https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8) | 3:14 | 2026-06-13 |  |
 | [walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:25 | 2023-10-30 | 2025-03-05 |
 | [Wanna Win \(feat\. 03 Greedo\)](https://open.spotify.com/track/4E1u837bZx5Oqg0KqMtxoI) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Sleeve Music](https://open.spotify.com/album/2IpZVx5VHq8K6l8x9BeGM1) | 2:29 | 2023-09-28 | 2025-02-01 |
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-09-23 |  |

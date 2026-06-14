@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Rops1
 
-1,580 songs - 3 day 1 hr 36 min
+1,581 songs - 3 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [Like A G](https://open.spotify.com/track/22WEXvUNuue8dqladnadkE) | [Pistol Pete & Enzo](https://open.spotify.com/artist/2rii6NNe3ZNmGoLyq6yjUG), [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot) | [Like A G](https://open.spotify.com/album/1VTThCh8vZr3AgsgFjhDHA) | 2:51 | 2025-01-23 | 2025-06-13 |
 | [Like I'm Trapped](https://open.spotify.com/track/7bHcQkBfaL38cxdABSOoi3) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Like I'm Trapped](https://open.spotify.com/album/4y4ERdBgwsYYgC1S9DRwxk) | 3:46 | 2022-05-10 | 2022-07-29 |
 | [LIKE ME](https://open.spotify.com/track/0nFgEsdBxAIbzboMBJR6RH) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [POOKIE](https://open.spotify.com/artist/2PZEcVX4rArVPpzqYslowq) | [LIKE ME](https://open.spotify.com/album/6ac3g2MrlKZAfpErucrbmm) | 2:28 | 2024-01-25 | 2024-03-15 |
+| [Like Me](https://open.spotify.com/track/7cgd1EstjL77fLQdOImYmj) | [The Royal Family Dance Crew](https://open.spotify.com/artist/1T8kflSp9rDlNvg2dZTmEV) | [Like Me](https://open.spotify.com/album/2KfdLZ4rLDL1kyBDvvfsEG) | 2:24 | 2026-06-11 |  |
 | [Like That](https://open.spotify.com/track/11IQbS1xKXEcqnGILyxIzD) | [KILL Carter](https://open.spotify.com/artist/6ZjGM1y9VoXBIdDspZAS04) | [Like That](https://open.spotify.com/album/2En5S8pcCffdY79qwakX8T) | 1:57 | 2024-11-14 | 2025-01-24 |
 | [LIKE THAT!](https://open.spotify.com/track/5FIF3EMXHbHjjGzCPfnhh8) | [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ) | [LIKE THAT!](https://open.spotify.com/album/2kBVyodgrV29T3OEbDPDEb) | 1:38 | 2023-02-02 | 2023-02-24 |
 | [LIKE THIS \(feat\. Nokz78\)](https://open.spotify.com/track/7K40BghEHMUOafChZ4VMbA) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [LIKE THIS \(feat\. Nokz78\)](https://open.spotify.com/album/45iTDyvvg5fhoyxxFTtXI6) | 3:45 | 2022-05-05 | 2022-12-02 |

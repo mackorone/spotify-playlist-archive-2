@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Olivia Rodrigo, BTS, Khai Bahar, BABYMONSTER, A\-Lin, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,149 likes - 108 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,145 likes - 108 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 77 | [Sitting Pretty](https://open.spotify.com/track/2o1PiGHw7EScDkUwDV1z8y) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [Sitting Pretty](https://open.spotify.com/album/7clBctHV0s3xQJ8dbmYBBg) | 4:10 |
 | 78 | [Cutting Off The Head Of A Ghost](https://open.spotify.com/track/7IEJbsoCq0LmB65CCst7i4) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Cutting Off The Head Of A Ghost](https://open.spotify.com/album/7n0nWnQTv7V65Xu2OxyarZ) | 3:51 |
 | 79 | [來生不](https://open.spotify.com/track/0o0KFypHASJfZ9tQawFeXU) | [Phoebus Ng 吳啟洋](https://open.spotify.com/artist/35C0EdhwEfPvQhZKU8Ax2X) | [來生不](https://open.spotify.com/album/6sMQCebJWo74mCPLyZ5xa1) | 3:41 |
-| 80 | [I'm not perfect](https://open.spotify.com/track/4fAdTzLcnnIZVhL4E37XvQ) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2), [babyMINT品妡](https://open.spotify.com/artist/2dYuRLwzF61JfbQOOwZced), [babyMINT栩栩](https://open.spotify.com/artist/6QGqGyadDnP4kKmUyXLzg8), [babyMINT YUN](https://open.spotify.com/artist/16Pa96wdwUZVnEJgrrQz6y) | [I'm not perfect](https://open.spotify.com/album/2KMZkPxfbsiAVxs2OU4QjF) | 2:59 |
+| 80 | [I'm not perfect](https://open.spotify.com/track/4fAdTzLcnnIZVhL4E37XvQ) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2), [babyMINT Pixie](https://open.spotify.com/artist/2dYuRLwzF61JfbQOOwZced), [babyMINT栩栩](https://open.spotify.com/artist/6QGqGyadDnP4kKmUyXLzg8), [babyMINT YUN](https://open.spotify.com/artist/16Pa96wdwUZVnEJgrrQz6y) | [I'm not perfect](https://open.spotify.com/album/2KMZkPxfbsiAVxs2OU4QjF) | 2:59 |
 | 81 | [亲爱的，这只是一场梦！](https://open.spotify.com/track/7wr1shM0Ohl4I78EALFzR7) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P), [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq) | [亲爱的，这只是一场梦！](https://open.spotify.com/album/6gduhdRpEZjCKnOZBxEefT) | 3:01 |
 | 82 | [YOU :你](https://open.spotify.com/track/7LVcrOUzTkjZbAx65gYoLi) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [YOU :你](https://open.spotify.com/album/0YGjhg1xMb09G7ahlYaoiM) | 2:52 |
 | 83 | [花朵](https://open.spotify.com/track/4OS0pN7t6VxzuA0HSbTPBk) | [SONG NING](https://open.spotify.com/artist/0HSetAKLsr5qfFODMMZUvo) | [花朵](https://open.spotify.com/album/0q96VkOgV6caIG4o5qCmWg) | 3:46 |

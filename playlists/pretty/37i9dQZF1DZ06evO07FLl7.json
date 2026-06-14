@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAD64SD+WDgElI5oUlvqzsn5",
+  "snapshot_id": "aitMAAAAAAAa1dogdoAGnUbYFu22/zku",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Topo da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Barba Negra",
+          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
+        }
+      ],
+      "duration_ms": 252074,
+      "name": "Topo da Minha Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1DAS8arlHh6lcKRMehzOAy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pr\u00f3spera",
         "url": "https://open.spotify.com/album/5lPf3mZW1C3ftYCbTklzC3"
       },
@@ -211,22 +231,6 @@
       "duration_ms": 173735,
       "name": "Dollar Euro",
       "url": "https://open.spotify.com/track/0SOMOhKK0MWIudHgsUVkLO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Topo da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "Asfalto Selvagem",
-      "url": "https://open.spotify.com/track/3IdRb6OVNZT71mshYXmKZa"
     },
     {
       "added_at": null,
@@ -271,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Topo da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Asfalto Selvagem",
+      "url": "https://open.spotify.com/track/3IdRb6OVNZT71mshYXmKZa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bem Longe do Fim",
         "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 213088,
       "name": "Bem Longe do Fim",
       "url": "https://open.spotify.com/track/28dQMrPIlNMFg5dyRqzO2x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Topo da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Barba Negra",
-          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
-        }
-      ],
-      "duration_ms": 252074,
-      "name": "Topo da Minha Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1DAS8arlHh6lcKRMehzOAy"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e1ssia Reis",
-        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 251706,
-      "name": "No Seu Radinho",
-      "url": "https://open.spotify.com/track/453XBrlQTxPs00wYkoF15L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 249728,
       "name": "T\u00e3o Crazy",
       "url": "https://open.spotify.com/track/4ESK6LYArhCpBczxcqqAsV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "Meu Rap Jazz",
+      "url": "https://open.spotify.com/track/12ZbL9YGr5myXixASp23mF"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e1ssia Reis",
-        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Meu Rap Jazz",
-      "url": "https://open.spotify.com/track/12ZbL9YGr5myXixASp23mF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 181760,
       "name": "Brecha",
       "url": "https://open.spotify.com/track/32gBZWk97ZnBANJwI7lWqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 251706,
+      "name": "No Seu Radinho",
+      "url": "https://open.spotify.com/track/453XBrlQTxPs00wYkoF15L"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Vida de Atriz",
-      "url": "https://open.spotify.com/track/0SJOmHa8lhpMcxg0yXWx1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 223829,
       "name": "N\u00f3s Vestimos Branco",
       "url": "https://open.spotify.com/track/3EcpXkOmdEVoBVl7ZwRHBt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Vida de Atriz",
+      "url": "https://open.spotify.com/track/0SJOmHa8lhpMcxg0yXWx1a"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Topo da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 224512,
+      "name": "S\u00f3 um Tempo",
+      "url": "https://open.spotify.com/track/65rmbJVvTil9exNJqloMPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pr\u00f3spera D+",
         "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 248354,
       "name": "Shonda D+",
       "url": "https://open.spotify.com/track/1oDkooP1cNyW8mKdZi9aWh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Topo da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/4G5dpUUYXH9HcOIBywF7iC"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 224512,
-      "name": "S\u00f3 um Tempo",
-      "url": "https://open.spotify.com/track/65rmbJVvTil9exNJqloMPQ"
     },
     {
       "added_at": null,

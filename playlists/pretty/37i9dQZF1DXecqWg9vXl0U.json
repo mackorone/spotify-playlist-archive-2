@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring fidoisblue \u2728",
-  "num_followers": 57003,
+  "num_followers": 57002,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Constelaci\u00f3n",
         "url": "https://open.spotify.com/album/0icWXRGdopPIamBatGerqU"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 249990,
       "name": "Constelaci\u00f3n",
       "url": "https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "4ME",
+        "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "Estudio A",
         "url": "https://open.spotify.com/album/5DzdNL9tkKzE7zXpbnLzVb"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 154282,
       "name": "Acapulco En La Azotea",
       "url": "https://open.spotify.com/track/2YHGUmTcXCnTe40uwDprsj"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "4ME",
-        "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "4ME",
-      "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "En Todas Partes",
-        "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
-      },
-      "artists": [
-        {
-          "name": "Micaela Salaverry",
-          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
-        },
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "En Todas Partes",
-      "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Midifalda",
         "url": "https://open.spotify.com/album/6w4QfLtTVOybMbEudLuWBi"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 230375,
       "name": "Midifalda",
       "url": "https://open.spotify.com/track/1HUgopO8WOk3aHtfP9bfwD"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "En Todas Partes",
+        "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
+      },
+      "artists": [
+        {
+          "name": "Micaela Salaverry",
+          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
+        },
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "En Todas Partes",
+      "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "\u00bfQu\u00e9 te falta?",
+        "url": "https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 199668,
+      "name": "\u00bfQu\u00e9 te falta?",
+      "url": "https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "cartulinas de colores",
         "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 159765,
       "name": "cartulinas de colores",
       "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "\u00bfQu\u00e9 te falta?",
-        "url": "https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 199668,
-      "name": "\u00bfQu\u00e9 te falta?",
-      "url": "https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "Toda La Luz",
+        "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Toda La Luz",
+      "url": "https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "En Otro Jard\u00edn X(",
         "url": "https://open.spotify.com/album/4Tw2RWDAoJQfHSB6iAK2Ao"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 137968,
       "name": "En Otro Jard\u00edn X(",
       "url": "https://open.spotify.com/track/2viqKpMbOfAH2lwHLsRYJG"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "Toda La Luz",
-        "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Toda La Luz",
-      "url": "https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "FASES",
-        "url": "https://open.spotify.com/album/4fIyIzv0if6AdxBbqiNWfN"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        },
-        {
-          "name": "Ronnie",
-          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
-        }
-      ],
-      "duration_ms": 179552,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/4RYR0Wmo8QbTo2zmNeZfSc"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Nada Que Perder",
         "url": "https://open.spotify.com/album/4Jx1Ktxmbhn0mk5a2hGjoQ"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 199853,
       "name": "Nada Que Perder",
       "url": "https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "FASES",
+        "url": "https://open.spotify.com/album/4fIyIzv0if6AdxBbqiNWfN"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        },
+        {
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
+        }
+      ],
+      "duration_ms": 179552,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4RYR0Wmo8QbTo2zmNeZfSc"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Verde Artificial",
-        "url": "https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF"
-      },
-      "artists": [
-        {
-          "name": "raquel",
-          "url": "https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB"
-        }
-      ],
-      "duration_ms": 244796,
-      "name": "Verde Artificial",
-      "url": "https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 229615,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "Verde Artificial",
+        "url": "https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF"
+      },
+      "artists": [
+        {
+          "name": "raquel",
+          "url": "https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB"
+        }
+      ],
+      "duration_ms": 244796,
+      "name": "Verde Artificial",
+      "url": "https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9"
     },
     {
       "added_at": "2025-12-05 14:55:26",

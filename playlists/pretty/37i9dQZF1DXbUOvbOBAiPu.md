@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Mentissa, Olivia Rodrigo, Bebe Rexha,  Guy2Bezbar x Tiakola, Tove Lo x Stromae and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,476 likes - 116 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,478 likes - 116 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 37 | [Impeccable Man](https://open.spotify.com/track/00BNnomNgBrG7xyTgJXbMw) | [Patches](https://open.spotify.com/artist/6doDaUbbcBJCFyLEvJPmlh) | [Impeccable Man](https://open.spotify.com/album/5tHBCnUhXJ0LUSe0JltMth) | 4:01 |
 | 38 | [Chérie coco](https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Chérie coco](https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU) | 2:24 |
 | 39 | [J'le fais quand même](https://open.spotify.com/track/3rhlagnlQQJU8ALrIMhkzr) | [AMIN](https://open.spotify.com/artist/0CA8jbz5CnyVRLR807BskD) | [J'le fais quand même](https://open.spotify.com/album/3dim8kIwGPIcmF8Yb6ff4m) | 2:39 |
-| 40 | [Four In The Morning](https://open.spotify.com/track/1LuXRYcbHFPTAmla2hrbQX) | [J\. Bernardt](https://open.spotify.com/artist/6LiV1FV5nwdp3k6n3LMoQn) | [Four In The Morning](https://open.spotify.com/album/3xHKrs8qlekQ8BNtq61p4u) | 3:38 |
+| 40 | [Four In The Morning](https://open.spotify.com/track/1LuXRYcbHFPTAmla2hrbQX) | [J.Bernardt](https://open.spotify.com/artist/6LiV1FV5nwdp3k6n3LMoQn) | [Four In The Morning](https://open.spotify.com/album/3xHKrs8qlekQ8BNtq61p4u) | 3:38 |
 | 41 | [Pardon Maman](https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Pardon Maman](https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C) | 2:20 |
-| 42 | [You Always Knew That Feeling](https://open.spotify.com/track/1VnREQaW6uCVuznjVKNY7h) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb), [Lindy Versyck](https://open.spotify.com/artist/6AVk4v6lvKUEaygKGutHRu) | [You Always Knew That Feeling](https://open.spotify.com/album/6U83FfftHQv57gB9hSapLT) | 3:05 |
+| 42 | [You Always Knew That Feeling](https://open.spotify.com/track/1VnREQaW6uCVuznjVKNY7h) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb) | [You Always Knew That Feeling](https://open.spotify.com/album/6U83FfftHQv57gB9hSapLT) | 3:05 |
 | 43 | [Push It](https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Push It](https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio) | 2:09 |
 | 44 | [Aye](https://open.spotify.com/track/33pUXRzNiEanlyCnnG22b4) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [Aye](https://open.spotify.com/album/0JwgRTigV0Uo6tmbQT7uFm) | 2:05 |
 | 45 | [Se Le Ve](https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [Se Le Ve](https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7) | 2:39 |

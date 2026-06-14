@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,747 likes - 110 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,992 likes - 110 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 109 | [Behind the water film](https://open.spotify.com/track/3AeXncW686oncxR8UTizFR) | [yasuhiro soda](https://open.spotify.com/artist/3AGGmnS4j6lDAAO0aYOFz4) | [liquid dream state](https://open.spotify.com/album/16lo5qOgobcApvysY4BsqK) | 2:07 |
 | 110 | [Aglow \(Intro\) \- Slowed Down Version](https://open.spotify.com/track/4UYHe1WQ3awT8gnk8Ym7Zw) | [Karamel Kel](https://open.spotify.com/artist/7DtsCpQjHH2ArmhvszfQNP) | [Aglow \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/4sHF7eL6b31Hs1flXf365Y) | 2:19 |
 
-Snapshot ID: `AAAAACQ7oIZa2nNYtf6/a7kU8x9N4bfz`
+Snapshot ID: `AAAAAEhVrPkZyqnuUOkEonzIaHth78o3`

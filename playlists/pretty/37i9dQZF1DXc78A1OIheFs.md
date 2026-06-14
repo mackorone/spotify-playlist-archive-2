@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,369 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,368 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 16 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
 | 17 | [BITE BACK](https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [BITE BACK](https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr) | 3:45 |
 | 18 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 |
-| 19 | [halftime oranges](https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [halftime oranges](https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d) | 3:33 |
-| 20 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 |
-| 21 | [PRETTY GYAL](https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [PRETTY GYAL](https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO) | 3:38 |
+| 19 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 |
+| 20 | [halftime oranges](https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [halftime oranges](https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d) | 3:33 |
+| 21 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 |
 | 22 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
-| 23 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 |
+| 23 | [PRETTY GYAL](https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [PRETTY GYAL](https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO) | 3:38 |
 | 24 | [Boots 'N All](https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 2:45 |
 | 25 | [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 |
 | 26 | [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 31 | [We Made It](https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [We Made It](https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG) | 2:44 |
 | 32 | [Nadja](https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:06 |
 | 33 | [drag](https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [drag](https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu) | 3:49 |
-| 34 | [Coats](https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Coats](https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv) | 3:28 |
-| 35 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 |
+| 34 | [pretend](https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [pretend](https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj) | 2:50 |
+| 35 | [Coats](https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Coats](https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv) | 3:28 |
 | 36 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
 | 37 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
 | 38 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 44 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 |
 | 45 | [Forever Is A Charm](https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Everything Is Going To Be Alright](https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU) | 3:11 |
 | 46 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 |
-| 47 | [Letting Love Die](https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g) | [Heidi Simpson](https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9) | [Letting Love Die](https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG) | 2:59 |
-| 48 | [DEATH COMES FROM THE SKY](https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [CURSE](https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41) | 2:28 |
+| 47 | [DEATH COMES FROM THE SKY](https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [CURSE](https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41) | 2:28 |
+| 48 | [Letting Love Die](https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g) | [Heidi Simpson](https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9) | [Letting Love Die](https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG) | 2:59 |
 | 49 | [BLEED](https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BLEED](https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2) | 3:35 |
 | 50 | [talk is cheap](https://open.spotify.com/track/75eXKchH6bxhksS7G5rFUf) | [Imani\-J](https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk), [Bam Marley](https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9) | [talk is cheap](https://open.spotify.com/album/7HbcPi920iYLcrKwJNfZGR) | 2:55 |
 | 51 | [Brown Sugar](https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [Brown Sugar](https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe) | 3:09 |

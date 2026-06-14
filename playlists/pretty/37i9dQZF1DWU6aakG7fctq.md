@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Helado Tropical \(Helado Negro & Reyna Tropical\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,029 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,993 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Injusto \- A COLORS SHOW](https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Injusto \- A COLORS SHOW](https://open.spotify.com/album/5vZ13fB8CvXLBIpFTFPLkE) | 4:44 |
 | 50 | [qué ves en mí?](https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [qué ves en mí? / interesante](https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw) | 3:24 |
 
-Snapshot ID: `AAAAAJ/CSNQJSiqRGAlYpg4p7ARlR3Rx`
+Snapshot ID: `AAAAADfBtio0EzisOOnMKVdXoVkUi/LI`

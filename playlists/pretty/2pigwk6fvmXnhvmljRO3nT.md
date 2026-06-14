@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,430 songs - 21 day 11 hr 36 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,436 songs - 21 day 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8438,5 +8438,11 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8428 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 |
 | 8429 | [Waltzing Flutes \- Remastered](https://open.spotify.com/track/2Ixa97FzjMRIEs9hCr7VLx) | [Manfred Minnich](https://open.spotify.com/artist/4KAS3VK0EeF1wMkyu0xOg8), [Manfred Minnich Strings](https://open.spotify.com/artist/23yrZtKsihxOgO511Ko6sW) | [Vintage Pearls: Retro Things with Strings](https://open.spotify.com/album/71psHM2kuCTkqLFJLrfxGa) | 2:10 |
 | 8430 | [Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 2:43 |
+| 8431 | [No More What Ifs \- instrumental version](https://open.spotify.com/track/7M0qKTxsVOEqtpSRbr2rDD) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [Persona 5 Royal: Original Soundtrack](https://open.spotify.com/album/5DFy4n6tGVadO1bqkEQw1I) | 4:34 |
+| 8432 | [Alright](https://open.spotify.com/track/5PITBTBO06wWuv3m30Gj7i) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 1:31 |
+| 8433 | [Sweet](https://open.spotify.com/track/5lmaHHNIWWV9MotGuQpfOP) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:21 |
+| 8434 | [Break it Down](https://open.spotify.com/track/31EHMbHn8AvizkX2X9cC6x) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 1:47 |
+| 8435 | [So Boring](https://open.spotify.com/track/5s9ArXmsRqEluztlmBPo9Q) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 1:26 |
+| 8436 | [Wake Up, Get Up, Get Out There \- instrumental version](https://open.spotify.com/track/1agTFuAHqxi4Tm3B3izTxV) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:52 |
 
-Snapshot ID: `AAAL/rzYIlYM5IUSIar+02a0nyf1k1MG`
+Snapshot ID: `AAAMBD/Idt2XR3JSm7F9y74/GEw0TA2Q`

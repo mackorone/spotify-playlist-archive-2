@@ -4,7 +4,7 @@
 
 > young soundsss 🥠
 
-437 songs - 22 hr 24 min
+439 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [For gamle ting](https://open.spotify.com/track/3s5FEMJxracb3iGPS87YZJ) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Kravler før vi går](https://open.spotify.com/album/2bcOShjWYuvZO2PEmnG460) | 3:55 | 2026-02-26 | 2026-03-06 |
 | [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 | 2025-02-20 | 2025-06-07 |
 | [FOR OS](https://open.spotify.com/track/3VwWhdt75AfDVuXaai6PKs) | [BRANDZ](https://open.spotify.com/artist/6uRoBsykra8GXLj9JRMjEf) | [FOR OS](https://open.spotify.com/album/3hhtdqPyvhjsixUSbMfjp8) | 2:08 | 2025-07-24 | 2025-08-01 |
+| [Forfra](https://open.spotify.com/track/4XWWYB5MDDdSJD0d2VMd9X) | [Max Felix](https://open.spotify.com/artist/146lWyxRmwLV9HuVagrvFB), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hygge & Hustle](https://open.spotify.com/album/2Srx5oXpWlK50X7XF4RYpb) | 3:11 | 2026-06-11 |  |
 | [Formskifter](https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Formskifter](https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl) | 3:15 | 2024-06-27 | 2024-09-13 |
 | [Forsvinde før min tid](https://open.spotify.com/track/739g1njLcGRxuinhHrGOyC) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Forsvinde før min tid](https://open.spotify.com/album/4vwkuHnC44uaEWw00M4mpO) | 2:34 | 2024-12-12 | 2025-01-24 |
 | [Fra ingenting til noget](https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ) | [Nikolaj Manuel Vonsild](https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO) | [Fra ingenting til noget](https://open.spotify.com/album/2bQRAwymZ1IJevDEqB6d9c) | 3:28 | 2026-05-28 |  |
@@ -213,7 +214,7 @@
 | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG) | 2:48 | 2025-10-02 |  |
 | [Jeg håber du er træt](https://open.spotify.com/track/4M7fc1XGQ52TYBOuQyVsyR) | [Angående Mig](https://open.spotify.com/artist/7bPVeep0ZjTQUyWx9m1xup) | [Jeg håber du er træt](https://open.spotify.com/album/7F1Oob5IkKadRfsSVESxXG) | 2:51 | 2025-04-17 | 2025-04-25 |
 | [JEG TOG FEJL](https://open.spotify.com/track/16HT5c4HSKErYQYPClyAUb) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [JEG TOG FEJL](https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo) | 2:57 | 2024-06-27 | 2024-07-15 |
-| [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 | 2025-09-04 |  |
+| [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 | 2025-09-04 | 2026-06-14 |
 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 | 2024-06-27 | 2024-09-07 |
 | [JEG VIL HØRE ALTING](https://open.spotify.com/track/38e4vqyumqZVXUB2jU1lkR) | [AFSKUM](https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM) | [JEG VIL HØRE ALTING / GLEMMER ALDRIG](https://open.spotify.com/album/0FOQGq5MzCH6HJpJO56kdA) | 4:18 | 2025-08-14 | 2025-08-22 |
 | [jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 | 2025-05-22 | 2025-05-30 |
@@ -245,6 +246,7 @@
 | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 | 2025-04-03 |  |
 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 |  |
 | [Like That](https://open.spotify.com/track/6gLqJMFHxveWZzHKmCbzv1) | [EMMA SEE](https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM) | [Like That](https://open.spotify.com/album/4jnfnJOU8HwBkc6y63d38h) | 3:16 | 2025-08-14 | 2025-08-22 |
+| [Lille hus i Jylland \(feat\. Dahlin\)](https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L), [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Lille hus i Jylland \(feat\. Dahlin\)](https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7) | 2:44 | 2026-06-11 |  |
 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 | 2025-09-11 | 2025-09-19 |
 | [Livet Er For Kort](https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Livet Er For Kort](https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF) | 2:50 | 2026-03-27 |  |
 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 | 2025-09-25 | 2026-04-21 |
@@ -323,7 +325,7 @@
 | [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 | 2026-02-05 |  |
 | [Scandalous](https://open.spotify.com/track/26MFKVVewVd2pEWlWIroNK) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Scandalous](https://open.spotify.com/album/6UritbdE08G7xkNzR34SyJ) | 2:40 | 2025-09-25 | 2026-02-20 |
 | [Scare Me](https://open.spotify.com/track/46A26fgcPCP6gVAn3Q9uDQ) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Scare Me](https://open.spotify.com/album/13SewIUseHQmyBg6RHTIkK) | 2:30 | 2025-04-17 | 2025-04-25 |
-| [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 | 2024-06-27 |  |
+| [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 | 2024-06-27 | 2026-06-14 |
 | [Se Mig Før Jeg Glemmer Hvem Jeg Er](https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 4:01 | 2024-10-24 | 2024-11-29 |
 | [Seen In A Movie](https://open.spotify.com/track/1V3QKm4YOq3PgWUYZdUd3M) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Seen In A Movie](https://open.spotify.com/album/1b74dPCUw7n0ycIGv5dDPX) | 2:50 | 2025-08-21 | 2025-08-29 |
 | [Ser I Mig Nu](https://open.spotify.com/track/5vUPHxD3j8UHXXcZwNgm63) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ser I Mig Nu](https://open.spotify.com/album/6R5lKOetm0GTwtvP5msPpY) | 2:05 | 2025-01-16 | 2025-01-24 |

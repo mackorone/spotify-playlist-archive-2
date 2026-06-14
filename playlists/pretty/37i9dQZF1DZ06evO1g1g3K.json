@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7293,
+  "num_followers": 7298,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAC/cjtwumapCB1t0qFXfElL",
+  "snapshot_id": "aitMAAAAAADuWhPJIrCsp5oZqwfEBwoE",
   "tracks": [
     {
       "added_at": null,
@@ -150,11 +150,15 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 232998,
-      "name": "Undivided",
-      "url": "https://open.spotify.com/track/5c61BpjqYhhs9xpqoGKei3"
+      "duration_ms": 247251,
+      "name": "soft.",
+      "url": "https://open.spotify.com/track/6ma9MpHKelkkQmOt9l30SF"
     },
     {
       "added_at": null,
@@ -218,15 +222,11 @@
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 247251,
-      "name": "soft.",
-      "url": "https://open.spotify.com/track/6ma9MpHKelkkQmOt9l30SF"
+      "duration_ms": 232998,
+      "name": "Undivided",
+      "url": "https://open.spotify.com/track/5c61BpjqYhhs9xpqoGKei3"
     },
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fist Bump (feat. Free Nationals) (Radio Edit)",
-        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
-      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
+      "duration_ms": 353242,
+      "name": "Leveled",
+      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+        "name": "Fist Bump (feat. Free Nationals) (Radio Edit)",
+        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
         }
       ],
-      "duration_ms": 353242,
-      "name": "Leveled",
-      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
+      "duration_ms": 213000,
+      "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
+      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Relocate",
-      "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
+      "duration_ms": 282219,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71"
     },
     {
       "added_at": null,
@@ -744,9 +744,29 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 282219,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71"
+      "duration_ms": 213000,
+      "name": "Relocate",
+      "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raw In Amsterdam (Live)",
+        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
+      },
+      "artists": [
+        {
+          "name": "Philip Lassiter",
+          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 291053,
+      "name": "Bump The Man - Live",
+      "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
     },
     {
       "added_at": null,

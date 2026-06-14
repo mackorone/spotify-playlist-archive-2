@@ -1207,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "Light That Leads Me (with Bebe Rexha)",
+        "url": "https://open.spotify.com/album/4rDHRIyHr7ixE7IBtUaHtm"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193289,
+      "name": "Light That Leads Me (with Bebe Rexha)",
+      "url": "https://open.spotify.com/track/1tNSYryHAUXKSMqYh1WS5M"
+    },
+    {
+      "album": {
         "name": "Stars Dance (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
       },

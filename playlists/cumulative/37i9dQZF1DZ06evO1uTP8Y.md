@@ -4,7 +4,7 @@
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 34 min
+75 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 | 2025-08-02 |  |
 | [Addicted](https://open.spotify.com/track/4dEnP592QE9qGqMqK4bmlW) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 3:04 | 2025-11-23 | 2025-11-25 |
 | [All That It Takes](https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:30 | 2025-08-02 |  |
-| [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/track/5JcLoePE4FisG4y5vLRXzD) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/album/6jp5LxG8lGxuetjqdJy10g) | 3:47 | 2026-05-31 |  |
+| [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:47 | 2026-06-14 |  |
+| [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/track/5JcLoePE4FisG4y5vLRXzD) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/album/6jp5LxG8lGxuetjqdJy10g) | 3:47 | 2026-05-31 | 2026-06-14 |
 | [Azure](https://open.spotify.com/track/4M2LTxfMSZnyT51TsuTTF9) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Out the Blue](https://open.spotify.com/album/5sTHywyZLnzU34tjOfdviE) | 3:29 | 2025-08-02 | 2025-11-23 |
 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 | 2025-08-02 |  |
 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 | 2025-08-02 | 2025-11-23 |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,450 songs - 9 day 22 hr 9 min
+4,452 songs - 9 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -809,6 +809,7 @@
 | [Czerwiec](https://open.spotify.com/track/371Bud7vCUKSWfKnOo3c25) | [E.SENS](https://open.spotify.com/artist/1BUQj1EELFrrdvYU0anLdQ) | [Czerwiec](https://open.spotify.com/album/6d01sG2vbnyE04774uzKY1) | 6:02 | 2025-12-23 |  |
 | [C´ero](https://open.spotify.com/track/2RFTA5u20GcOFPZyn9QHGD) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Simona Coretti](https://open.spotify.com/artist/55xuVhgRVbnRWQvlr1WqTk) | [C´ero](https://open.spotify.com/album/2MjMwLrjVZ7yG4kRaZr9fQ) | 4:45 | 2025-06-11 |  |
 | [D](https://open.spotify.com/track/7HOSm7ltAwHnCzhtLrathK) | [Devil's Degree](https://open.spotify.com/artist/0zGOAhPOYhMCw7er97nMer) | [19Hz](https://open.spotify.com/album/7gOO3LABrfDSW9P1OAXqop) | 6:49 | 2025-06-04 |  |
+| [D I F E R E N T E S](https://open.spotify.com/track/51rHJwOXwJPwlfs3NXVTL4) | [MAHAR3A](https://open.spotify.com/artist/63WQkHSjgo0T7Sf0E2LDsO) | [D I F E R E N T E S](https://open.spotify.com/album/5JSdDwuZRY1UI3NBpQt0oD) | 3:16 | 2026-06-13 |  |
 | [D.W.A.](https://open.spotify.com/track/2DvkQrm5DM3kVhwsAa4GtO) | [Park Place Project](https://open.spotify.com/artist/5cCZ0B3kcfRmntY3iRhiTf) | [D.W.A.](https://open.spotify.com/album/26gOaPsEoIhReppVIL9kjt) | 2:46 | 2025-11-14 |  |
 | [Da sé](https://open.spotify.com/track/16aUoyuxw526EZQHLi0cEw) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/5K3wpbQU0nlWweaLY3Rd7B) | 4:32 | 2023-05-21 |  |
 | [DA UNA TERRA LONTANA](https://open.spotify.com/track/7ENYScNM0qKSnoBR53P4bI) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [UNA DANZA SENZA FINE](https://open.spotify.com/album/240vYhl7VOgdme2OPuIRmq) | 2:57 | 2026-02-01 |  |
@@ -3196,6 +3197,7 @@
 | [Roses](https://open.spotify.com/track/1J850PsKKVf2euOIbMd7bX) | [XIX](https://open.spotify.com/artist/0ZUpmbNh1NeLibf0DGZxMX) | [Roses](https://open.spotify.com/album/7E3aGtofoDYwfB3nYfMjQX) | 4:06 | 2026-01-04 |  |
 | [Rosso di picche](https://open.spotify.com/track/0xBvjpmiXcyH4ygh42EUNN) | [MadEleine](https://open.spotify.com/artist/0qecsDJMNlyALgNFKoTtpi) | [Rosso di picche](https://open.spotify.com/album/7Fih6aegd8VcJiPdL5hjmG) | 2:50 | 2025-03-17 |  |
 | [Roster!](https://open.spotify.com/track/2xDF6qeiwqNLbIxH8UwhXh) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Roster!](https://open.spotify.com/album/1YVX5NgvUedHgCuqfXQzim) | 1:36 | 2026-01-17 |  |
+| [Roter Opel Corsa](https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx) | [Kurz Nach Zwei](https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6) | [Roter Opel Corsa](https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP) | 3:02 | 2026-06-13 |  |
 | [Roulette](https://open.spotify.com/track/2Y5TSpsBZtcB3xEhn48nZx) | [SANIE](https://open.spotify.com/artist/6hGhITRHyJ9SatLYAV58jK) | [Roulette](https://open.spotify.com/album/66wSLCLFpUEvWL0lx3Ow5i) | 2:40 | 2025-06-05 |  |
 | [ROULETTE DELL'ANIMA](https://open.spotify.com/track/0okook1MZEpjzb0aLbgV4p) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [UNA DANZA SENZA FINE](https://open.spotify.com/album/240vYhl7VOgdme2OPuIRmq) | 2:00 | 2026-02-01 |  |
 | [Route 66 Centennial](https://open.spotify.com/track/68lo19a7FTZhSmvWAZgzNe) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 3:02 | 2026-04-13 |  |

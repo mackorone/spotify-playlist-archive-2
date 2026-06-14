@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Everything Is Fine",
+        "url": "https://open.spotify.com/album/6YxbIqTn8jp6dT0gumt95i"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207324,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/37eDPMu6oa0qW4r8EWniqg"
+    },
+    {
+      "album": {
         "name": "RUCKUS!",
         "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
       },

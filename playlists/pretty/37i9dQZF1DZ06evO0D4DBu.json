@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211139,
+  "num_followers": 211138,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAD/eugoJ/UOXV7mJfRMggzq",
+  "snapshot_id": "aitMAAAAAABm1VE9/NGNvynYQT76OJ2c",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy (Acoustic)",
-        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
+        "name": "Mr. Wonderful",
+        "url": "https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 205815,
-      "name": "Holy - Acoustic",
-      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+      "duration_ms": 280160,
+      "name": "Baby Blue (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM"
     },
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Wonderful",
-        "url": "https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq"
+        "name": "Holy (Acoustic)",
+        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
       "artists": [
         {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 280160,
-      "name": "Baby Blue (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM"
+      "duration_ms": 205815,
+      "name": "Holy - Acoustic",
+      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
     },
     {
       "added_at": null,
@@ -472,17 +472,17 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Towkio",
-          "url": "https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS"
+          "name": "Chicago Children's Choir",
+          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
         }
       ],
-      "duration_ms": 219683,
-      "name": "Juke Jam (feat. Justin Bieber & Towkio)",
-      "url": "https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi"
+      "duration_ms": 203794,
+      "name": "All We Got (feat. Kanye West & Chicago Children's Choir)",
+      "url": "https://open.spotify.com/track/3ZLyt2ndLFBh148XRYjYYZ"
     },
     {
       "added_at": null,
@@ -564,17 +564,17 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Chicago Children's Choir",
-          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
+          "name": "Towkio",
+          "url": "https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS"
         }
       ],
-      "duration_ms": 203794,
-      "name": "All We Got (feat. Kanye West & Chicago Children's Choir)",
-      "url": "https://open.spotify.com/track/3ZLyt2ndLFBh148XRYjYYZ"
+      "duration_ms": 219683,
+      "name": "Juke Jam (feat. Justin Bieber & Towkio)",
+      "url": "https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi"
     },
     {
       "added_at": null,

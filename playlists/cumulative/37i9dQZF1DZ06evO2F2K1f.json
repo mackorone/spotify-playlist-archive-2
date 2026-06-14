@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Rock Comedy",
+        "url": "https://open.spotify.com/album/2KoWtuwcFiriY1aZ6TF2yq"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119475,
+      "name": "Chicken Man",
+      "url": "https://open.spotify.com/track/3RRoeQPpo3KJXyP9gmlrPW"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Flute for Moderns",
         "url": "https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM"
       },
@@ -2750,7 +2768,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 100666,
       "name": "Roving Reporter",
       "url": "https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz"
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 242698,
       "name": "Saturn Rings",
       "url": "https://open.spotify.com/track/77JPdHkaDLrXS1TrIieGnb"
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 242125,
       "name": "Serengeti",
       "url": "https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR"

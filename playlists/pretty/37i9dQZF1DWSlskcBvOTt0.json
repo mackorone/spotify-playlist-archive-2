@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 589225,
+  "num_followers": 589304,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1451,6 +1451,30 @@
     {
       "added_at": "2026-06-12 04:01:22",
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/4iPr6vfBSTzI3ksPdReHbQ"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        },
+        {
+          "name": "Dr. Chaii",
+          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
+        }
+      ],
+      "duration_ms": 218869,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/60N8926UPMzZTFwxq1jTse"
+    },
+    {
+      "added_at": "2026-06-12 04:01:22",
+      "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
       },
@@ -1475,30 +1499,6 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
-    },
-    {
-      "added_at": "2026-06-12 04:01:22",
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/4iPr6vfBSTzI3ksPdReHbQ"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        },
-        {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
-        },
-        {
-          "name": "Dr. Chaii",
-          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
-        }
-      ],
-      "duration_ms": 218869,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/60N8926UPMzZTFwxq1jTse"
     },
     {
       "added_at": "2026-06-12 04:01:22",
@@ -1787,30 +1787,6 @@
     {
       "added_at": "2026-06-12 04:01:22",
       "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/1eAwTFl959hlcrLUN5s61k"
-      },
-      "artists": [
-        {
-          "name": "Naarly",
-          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
-        },
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        },
-        {
-          "name": "Romy Janssen",
-          "url": "https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/2d6hC7Uu13Pn1axD7LplmR"
-    },
-    {
-      "added_at": "2026-06-12 04:01:22",
-      "album": {
         "name": "Rolling Thunder",
         "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
       },
@@ -1851,6 +1827,30 @@
       "duration_ms": 376271,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/3sdKayfObt6VePZL7AhiU5"
+    },
+    {
+      "added_at": "2026-06-12 04:01:22",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1eAwTFl959hlcrLUN5s61k"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Romy Janssen",
+          "url": "https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/2d6hC7Uu13Pn1axD7LplmR"
     },
     {
       "added_at": "2026-06-12 04:01:22",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2026-06-12 04:01:22",
       "album": {
-        "name": "Sympathy For The Devil",
-        "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        }
-      ],
-      "duration_ms": 219963,
-      "name": "Sympathy For The Devil",
-      "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
-    },
-    {
-      "added_at": "2026-06-12 04:01:22",
-      "album": {
         "name": "Your Command (Paul Kalkbrenner Remix)",
         "url": "https://open.spotify.com/album/5ZGfegmOmQ795QyKe5ln5U"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 448757,
       "name": "Your Command - Paul Kalkbrenner Remix",
       "url": "https://open.spotify.com/track/1GDQ1w0fXYXswcX34AUAor"
+    },
+    {
+      "added_at": "2026-06-12 04:01:22",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "duration_ms": 180014,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu"
     },
     {
       "added_at": "2026-06-12 04:01:22",
@@ -2371,22 +2371,22 @@
     {
       "added_at": "2026-06-12 04:01:22",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
+        "name": "Sympathy For The Devil",
+        "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
       },
       "artists": [
         {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
         },
         {
-          "name": "AMAKA",
-          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
         }
       ],
-      "duration_ms": 180014,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu"
+      "duration_ms": 219963,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
     },
     {
       "added_at": "2026-06-12 04:01:22",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2026-06-12 04:01:22",
       "album": {
-        "name": "I'm Here",
-        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        }
-      ],
-      "duration_ms": 205864,
-      "name": "I'm Here",
-      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
-    },
-    {
-      "added_at": "2026-06-12 04:01:22",
-      "album": {
         "name": "Yours to Take",
         "url": "https://open.spotify.com/album/6chCBhvEyDp2WexX9hi7is"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 302815,
       "name": "Yours to Take",
       "url": "https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv"
+    },
+    {
+      "added_at": "2026-06-12 04:01:22",
+      "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "duration_ms": 205864,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
     },
     {
       "added_at": "2026-06-12 04:01:22",
@@ -2551,26 +2551,6 @@
     {
       "added_at": "2026-06-12 04:01:22",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/3Yexscn1LCuJ1A5c6FDj4u"
-      },
-      "artists": [
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        },
-        {
-          "name": "Kingstarlight",
-          "url": "https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx"
-        }
-      ],
-      "duration_ms": 196096,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/7A59507Y8skdJbc49vPGwA"
-    },
-    {
-      "added_at": "2026-06-12 04:01:22",
-      "album": {
         "name": "Forever / Paper Walls",
         "url": "https://open.spotify.com/album/5QZAs0ZeibXc7aDf5PLw7D"
       },
@@ -2611,22 +2591,22 @@
     {
       "added_at": "2026-06-12 04:01:22",
       "album": {
-        "name": "Tik Tak",
-        "url": "https://open.spotify.com/album/5NoroFqrKDMCxdjpdN4N38"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/3Yexscn1LCuJ1A5c6FDj4u"
       },
       "artists": [
         {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
         },
         {
-          "name": "Gkat",
-          "url": "https://open.spotify.com/artist/4CX46ZO686NvuigcYb3UVD"
+          "name": "Kingstarlight",
+          "url": "https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx"
         }
       ],
-      "duration_ms": 175892,
-      "name": "Tik Tak",
-      "url": "https://open.spotify.com/track/08Tj1ZcFC7UgmXmTf00iov"
+      "duration_ms": 196096,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7A59507Y8skdJbc49vPGwA"
     },
     {
       "added_at": "2026-06-12 04:01:22",
@@ -2651,6 +2631,26 @@
     {
       "added_at": "2026-06-12 04:01:22",
       "album": {
+        "name": "Tik Tak",
+        "url": "https://open.spotify.com/album/5NoroFqrKDMCxdjpdN4N38"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Gkat",
+          "url": "https://open.spotify.com/artist/4CX46ZO686NvuigcYb3UVD"
+        }
+      ],
+      "duration_ms": 175892,
+      "name": "Tik Tak",
+      "url": "https://open.spotify.com/track/08Tj1ZcFC7UgmXmTf00iov"
+    },
+    {
+      "added_at": "2026-06-12 04:01:22",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/6v3AzcwtGZjSuAfBJOMTMB"
       },
@@ -2671,18 +2671,22 @@
     {
       "added_at": "2026-06-12 04:01:22",
       "album": {
-        "name": "330x14 EP",
-        "url": "https://open.spotify.com/album/24wON0xCTJaEUWnblqyUuw"
+        "name": "Blower",
+        "url": "https://open.spotify.com/album/2pK3RhDVE9XvD12aZGJJUE"
       },
       "artists": [
         {
-          "name": "Amber Stomp",
-          "url": "https://open.spotify.com/artist/5UXTcKe1xNl00TwtbFDn7z"
+          "name": "JANAKEY",
+          "url": "https://open.spotify.com/artist/24udzsxakjNTTMYETGtOMx"
+        },
+        {
+          "name": "Cem Seckin",
+          "url": "https://open.spotify.com/artist/7mPKbXLm5SyzOwTQ99hel4"
         }
       ],
-      "duration_ms": 197073,
-      "name": "330x14",
-      "url": "https://open.spotify.com/track/78qfZj2HSRWc0NMeg4PDAu"
+      "duration_ms": 208524,
+      "name": "Blower",
+      "url": "https://open.spotify.com/track/0fC67A99zxU0gzhLibyTsK"
     }
   ],
   "unique_name": "Tantra",

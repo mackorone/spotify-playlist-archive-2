@@ -1,13 +1,29 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 69897,
+  "num_followers": 69905,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACi6IEKJikl25H0oSYgvENQ",
+  "snapshot_id": "aitMAAAAAAD/bn1k6CT/G1PU/9FeNkMx",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mandil",
+        "url": "https://open.spotify.com/album/1jbdYNmAejdY9VhWC1VQ9C"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 171025,
+      "name": "El Mandil",
+      "url": "https://open.spotify.com/track/3AlRtwYO85qQROISP5u18A"
+    },
     {
       "added_at": null,
       "album": {
@@ -779,22 +795,6 @@
       "duration_ms": 204266,
       "name": "Recu\u00e9rdame y ven",
       "url": "https://open.spotify.com/track/0wS7IYnBpQIq5EGipjSmeu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura pasi\u00f3n",
-        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "El mandilon",
-      "url": "https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l"
     },
     {
       "added_at": null,

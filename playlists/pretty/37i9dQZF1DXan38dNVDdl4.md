@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,598,931 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599,076 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 74 | [Rich Sex](https://open.spotify.com/track/7tnE1N6Cf5l9Z17h3C34xQ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Rich Sex](https://open.spotify.com/album/5lB6dD6uOkcuR7jdEMuoCb) | 2:44 |
 | 75 | [My Type](https://open.spotify.com/track/3j8LTAARfkEw4oFO7QwjxM) | [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [RaheemWiddiBook](https://open.spotify.com/artist/2tu2x4ypYhnLoIeMwZdeIv), [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [My Type](https://open.spotify.com/album/6KZICvxKfXdBHEXxYvmZkA) | 2:48 |
 
-Snapshot ID: `AAAAALw2N2iCZvs5mbOLJWNDv7oSdLvN`
+Snapshot ID: `AAAAAAe0LTCN0kHFETBrnDZwETUxG6AN`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10424,
+  "num_followers": 10425,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAADaswC36u6l81N2gxkHOIbT",
+  "snapshot_id": "aitMAAAAAACFFvTUCJLZsoXhqe2BBnE2",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiranos del Norte",
-        "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 197825,
-      "name": "Matame a Besos",
-      "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
+      "duration_ms": 176666,
+      "name": "Hay una Persona en Este Mundo",
+      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+        "name": "Tiranos del Norte",
+        "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Hay una Persona en Este Mundo",
-      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
+      "duration_ms": 197825,
+      "name": "Matame a Besos",
+      "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
     },
     {
       "added_at": null,
@@ -511,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alejate de Mi",
-        "url": "https://open.spotify.com/album/6oVHqIdCIvsp2lG77O3cRN"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
         }
       ],
-      "duration_ms": 178863,
-      "name": "Alejate de Mi",
-      "url": "https://open.spotify.com/track/0IUOHEG3OdCNDOctgDUlbk"
+      "duration_ms": 230034,
+      "name": "Echame a Mi la Culpa",
+      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
     },
     {
       "added_at": null,
@@ -547,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+        "name": "Alejate de Mi",
+        "url": "https://open.spotify.com/album/6oVHqIdCIvsp2lG77O3cRN"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
         }
       ],
-      "duration_ms": 230034,
-      "name": "Echame a Mi la Culpa",
-      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
+      "duration_ms": 178863,
+      "name": "Alejate de Mi",
+      "url": "https://open.spotify.com/track/0IUOHEG3OdCNDOctgDUlbk"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invencibles",
-        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Que Se Junten Nuestros Brazos",
-      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 211017,
       "name": "Esta Tristeza Mia",
       "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invencibles",
+        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Que Se Junten Nuestros Brazos",
+      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
     },
     {
       "added_at": null,
@@ -699,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta La Miel Amarga",
-        "url": "https://open.spotify.com/album/5q7zBcS4853Hlg6hbyMiBu"
+        "name": "Asomate a Mi Alma",
+        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
       },
       "artists": [
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Hasta La Miel Amarga",
-      "url": "https://open.spotify.com/track/4NFMdFJa9j2hWlzrnQqtGF"
+      "duration_ms": 174419,
+      "name": "Te Pido y Te Ruego",
+      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
     },
     {
       "added_at": null,
@@ -735,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asomate a Mi Alma",
-        "url": "https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 174419,
-      "name": "Te Pido y Te Ruego",
-      "url": "https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cara a Cara",
         "url": "https://open.spotify.com/album/3RwlERz4moNAWgCbKtectx"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 191033,
       "name": "Por una Mujer Bonita",
       "url": "https://open.spotify.com/track/6L1B9w1dSvNI5dCASNb4Ez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta La Miel Amarga",
+        "url": "https://open.spotify.com/album/5q7zBcS4853Hlg6hbyMiBu"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        },
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Hasta La Miel Amarga",
+      "url": "https://open.spotify.com/track/4NFMdFJa9j2hWlzrnQqtGF"
     },
     {
       "added_at": null,

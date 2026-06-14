@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "BLUR",
+        "url": "https://open.spotify.com/album/105aiznYDd8TlZ3p2s1IqA"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "BLUR",
+      "url": "https://open.spotify.com/track/7sLkdm1CIDfTIFizosBODL"
+    },
+    {
+      "album": {
         "name": "Boku Wa Obake",
         "url": "https://open.spotify.com/album/01xypQ8STDaKbaZG0SxQ3h"
       },
@@ -1732,6 +1750,28 @@
       "duration_ms": 431000,
       "name": "Evocations 2",
       "url": "https://open.spotify.com/track/7LsaMGZqUxbfujsF4ML0HG"
+    },
+    {
+      "album": {
+        "name": "Familial Tones",
+        "url": "https://open.spotify.com/album/1xFKbhp8x5fuK59GwdG8Rd"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246518,
+      "name": "Familial Tones",
+      "url": "https://open.spotify.com/track/3qM7XZwkDp7pKZtaSJynZq"
     },
     {
       "album": {
@@ -3422,7 +3462,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 107546,
       "name": "LULL",
       "url": "https://open.spotify.com/track/6hSrJKrASONXLrLekOg6Kc"
@@ -3762,7 +3802,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 154128,
       "name": "Moon Dance in Tokyo",
       "url": "https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY"

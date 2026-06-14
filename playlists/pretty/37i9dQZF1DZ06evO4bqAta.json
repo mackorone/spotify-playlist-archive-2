@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 591145,
+  "num_followers": 591176,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAAXrFqA6kMUdz8t2Za8HUhG",
+  "snapshot_id": "aitMAAAAAAA1BGSFlIUL/Hvc+NDRtOH+",
   "tracks": [
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 454005,
-      "name": "Visions of Johanna",
-      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
+      "duration_ms": 146521,
+      "name": "I Threw It All Away",
+      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 146521,
-      "name": "I Threw It All Away",
-      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
+      "duration_ms": 454005,
+      "name": "Visions of Johanna",
+      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Dylan",
-        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 161622,
-      "name": "In My Time of Dyin'",
-      "url": "https://open.spotify.com/track/0udZHhCi7p1YzMlvI4fXoK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 331168,
       "name": "Sara",
       "url": "https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 161622,
+      "name": "In My Time of Dyin'",
+      "url": "https://open.spotify.com/track/0udZHhCi7p1YzMlvI4fXoK"
     }
   ],
   "unique_name": "This Is Bob Dylan",

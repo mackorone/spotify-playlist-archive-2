@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 203664,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
@@ -758,6 +758,32 @@
       "duration_ms": 237307,
       "name": "Indigenous Life",
       "url": "https://open.spotify.com/track/5AVIMvDz4vEQGUG0PJZJpb"
+    },
+    {
+      "album": {
+        "name": "Juggling Sweet",
+        "url": "https://open.spotify.com/album/45rDTa2S0arXLPVIXDMX9i"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173272,
+      "name": "Juggling Sweet",
+      "url": "https://open.spotify.com/track/0KRWxnOK6sw6VBKXVhKHR9"
     },
     {
       "album": {

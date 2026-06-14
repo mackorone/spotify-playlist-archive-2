@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2597762,
+  "num_followers": 2597672,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
         "name": "Meet Again",
         "url": "https://open.spotify.com/album/6DOWj1TYplUhV2QDRsVupR"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 206363,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -779,22 +779,22 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
       "artists": [
         {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
         }
       ],
-      "duration_ms": 232796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
+      "duration_ms": 164244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -819,22 +819,22 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
         },
         {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 164244,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Science (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Science (feat. Stevie Appleton) - Radio Edit",
-      "url": "https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 184938,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
+        "name": "Science (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Science (feat. Stevie Appleton) - Radio Edit",
+      "url": "https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Is It Over Now?",
-        "url": "https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 219971,
-      "name": "Is It Over Now?",
-      "url": "https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
         "name": "Like A Child",
         "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
       },
@@ -1071,6 +1055,42 @@
       "duration_ms": 183181,
       "name": "Like A Child",
       "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
+        "name": "Is It Over Now?",
+        "url": "https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 219971,
+      "name": "Is It Over Now?",
+      "url": "https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
+        "name": "Torture of the Heart",
+        "url": "https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 202248,
+      "name": "Torture of the Heart",
+      "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -1115,26 +1135,6 @@
       "duration_ms": 157717,
       "name": "Don't Wanna Go Home (feat. Henry Camamile)",
       "url": "https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
-        "name": "Torture of the Heart",
-        "url": "https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 202248,
-      "name": "Torture of the Heart",
-      "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
+        "name": "Going Existential In The Rave",
+        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 187297,
+      "name": "Going Existential In The Rave",
+      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Going Existential In The Rave",
-        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 187297,
-      "name": "Going Existential In The Rave",
-      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
       },
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
         "name": "The Dreams Strange and Eternal",
         "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 233794,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -1563,26 +1563,26 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Lost In Time",
-        "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
+        "name": "Locked In (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         },
         {
-          "name": "ROSY",
-          "url": "https://open.spotify.com/artist/4GqbQv1ULHsdxxq6yZJC6P"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 147777,
-      "name": "Lost In Time",
-      "url": "https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV"
+      "duration_ms": 168923,
+      "name": "Locked In (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -1607,26 +1607,26 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Locked In (feat. Trippie Redd)",
-        "url": "https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p"
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
         },
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "ROSY",
+          "url": "https://open.spotify.com/artist/4GqbQv1ULHsdxxq6yZJC6P"
         }
       ],
-      "duration_ms": 168923,
-      "name": "Locked In (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ"
+      "duration_ms": 147777,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 192681,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2wcXGuNBH6afGaUaEV2bTU"
       },
@@ -1899,26 +1919,6 @@
       "duration_ms": 256875,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/2DN97n8HVmamCfL9WGphFt"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 192681,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -1983,30 +1983,6 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Like A Prayer",
-        "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
-      },
-      "artists": [
-        {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
-        },
-        {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
-        },
-        {
-          "name": "Annabel",
-          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
-        }
-      ],
-      "duration_ms": 229337,
-      "name": "Like A Prayer",
-      "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
         "name": "Ultra Love",
         "url": "https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol"
       },
@@ -2031,18 +2007,26 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Turbo Speed",
-        "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
+        "name": "Like A Prayer",
+        "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
       },
       "artists": [
         {
-          "name": "Control Alt Delete",
-          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+        },
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
         }
       ],
-      "duration_ms": 168275,
-      "name": "Turbo Speed",
-      "url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH"
+      "duration_ms": 229337,
+      "name": "Like A Prayer",
+      "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -2063,6 +2047,22 @@
       "duration_ms": 200000,
       "name": "Enjoy the Silence - Don Diablo Version",
       "url": "https://open.spotify.com/track/3ZnFQ1vBuSp9ec7gGAGsEm"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
+        "name": "Turbo Speed",
+        "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
+      },
+      "artists": [
+        {
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Turbo Speed",
+      "url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Yogen",
-        "url": "https://open.spotify.com/album/6lV6E5nP31wVp6lIO2qiqu"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Yogen",
-      "url": "https://open.spotify.com/track/68xerRWgQrWYhVaojwmOXe"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 163664,
       "name": "Freak",
       "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
+        "name": "Yogen",
+        "url": "https://open.spotify.com/album/6lV6E5nP31wVp6lIO2qiqu"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Yogen",
+      "url": "https://open.spotify.com/track/68xerRWgQrWYhVaojwmOXe"
     },
     {
       "added_at": "2026-06-08 17:52:26",
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2026-06-08 17:52:26",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        }
-      ],
-      "duration_ms": 196691,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
-    },
-    {
-      "added_at": "2026-06-08 17:52:26",
-      "album": {
         "name": "It's Chemical",
         "url": "https://open.spotify.com/album/0VSsuCtELOjWFCMPK119DL"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 306500,
       "name": "It's Chemical",
       "url": "https://open.spotify.com/track/6httD7xB1MLxBcSw7q4fVD"
+    },
+    {
+      "added_at": "2026-06-08 17:52:26",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "duration_ms": 196691,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
     },
     {
       "added_at": "2026-06-08 17:52:26",

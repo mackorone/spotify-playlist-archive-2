@@ -6,7 +6,7 @@
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAAEMMn3l3w9dzQ2asJ97Z60Lclf6o+Z",
+  "snapshot_id": "AAAENf88kdX0ikhbEutVweE8w40O1rOz",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -17067,6 +17067,90 @@
       "duration_ms": 212000,
       "name": "Part of the Deal",
       "url": "https://open.spotify.com/track/0hsnlQNXNSqKjFnO6Oj0Jv"
+    },
+    {
+      "added_at": "2026-06-13 16:14:23",
+      "album": {
+        "name": "New Shit Has Come To Light",
+        "url": "https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "duration_ms": 170318,
+      "name": "New Shit Has Come To Light",
+      "url": "https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl"
+    },
+    {
+      "added_at": "2026-06-13 16:14:23",
+      "album": {
+        "name": "De lirios y delirios",
+        "url": "https://open.spotify.com/album/5MMuHHvCg1pNmwlYdw1k2K"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/6qkC5xhGUZiY9zO0OjA8P7"
+        },
+        {
+          "name": "Yo",
+          "url": "https://open.spotify.com/artist/3G82GSSIUk54XY7m19io4x"
+        }
+      ],
+      "duration_ms": 327920,
+      "name": "Silencio y olvido",
+      "url": "https://open.spotify.com/track/6xB10LnSD1naKlIXwCA0lP"
+    },
+    {
+      "added_at": "2026-06-13 16:14:23",
+      "album": {
+        "name": "Phantom Pain",
+        "url": "https://open.spotify.com/album/2LlwJ8hXUQjgjNpeJ2ZgDb"
+      },
+      "artists": [
+        {
+          "name": "FUFZ",
+          "url": "https://open.spotify.com/artist/6KNFJrJCNntGvNIJO64G41"
+        }
+      ],
+      "duration_ms": 252237,
+      "name": "Phantom Pain",
+      "url": "https://open.spotify.com/track/4NxNryJCCTgM1qH1yperrc"
+    },
+    {
+      "added_at": "2026-06-13 16:14:24",
+      "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/27VrebPBcPe2si5mYezIHp"
+      },
+      "artists": [
+        {
+          "name": "Condition Baker",
+          "url": "https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu"
+        }
+      ],
+      "duration_ms": 165633,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5meGXDPEwVvoZ5CDY4dnRZ"
+    },
+    {
+      "added_at": "2026-06-13 16:14:30",
+      "album": {
+        "name": "Mend",
+        "url": "https://open.spotify.com/album/6jaynVsSOfbjLstKOCqxP9"
+      },
+      "artists": [
+        {
+          "name": "Great Escapes",
+          "url": "https://open.spotify.com/artist/5U9BpGbYvHLcS6ED35PGeG"
+        }
+      ],
+      "duration_ms": 162899,
+      "name": "Mend",
+      "url": "https://open.spotify.com/track/041405dXJvK89ymfLPwd3M"
     }
   ],
   "unique_name": "Rock Square",

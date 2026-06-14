@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 63889,
+  "num_followers": 63909,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACPKKlYU5WB09hih2I21MyG",
+  "snapshot_id": "aitMAAAAAACvXqxbrVHo+mp29TVkCnuG",
   "tracks": [
     {
       "added_at": null,
@@ -551,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Despilfarro",
-        "url": "https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc"
+        "name": "Horizonte",
+        "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
       },
       "artists": [
+        {
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+        },
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 212920,
-      "name": "Let My People",
-      "url": "https://open.spotify.com/track/7FB8V2hRTVkqGiOXnHIfy9"
+      "duration_ms": 316002,
+      "name": "La Esquina del Mariachi",
+      "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
     },
     {
       "added_at": null,
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizonte",
-        "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
+        "name": "El Despilfarro",
+        "url": "https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc"
       },
       "artists": [
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        },
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 316002,
-      "name": "La Esquina del Mariachi",
-      "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
+      "duration_ms": 212920,
+      "name": "Let My People",
+      "url": "https://open.spotify.com/track/7FB8V2hRTVkqGiOXnHIfy9"
     },
     {
       "added_at": null,
@@ -642,11 +642,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Lianna",
+          "url": "https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa"
         }
       ],
-      "duration_ms": 230000,
-      "name": "El Sal\u00f3n de la Injusticia",
-      "url": "https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu"
+      "duration_ms": 177693,
+      "name": "No Hay Flores en Venus",
+      "url": "https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf"
     },
     {
       "added_at": null,
@@ -658,15 +662,11 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Lianna",
-          "url": "https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa"
         }
       ],
-      "duration_ms": 177693,
-      "name": "No Hay Flores en Venus",
-      "url": "https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf"
+      "duration_ms": 230000,
+      "name": "El Sal\u00f3n de la Injusticia",
+      "url": "https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu"
     }
   ],
   "unique_name": "This Is Alcolirykoz",

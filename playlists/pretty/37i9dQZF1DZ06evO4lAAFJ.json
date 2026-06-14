@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 691450,
+  "num_followers": 691511,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACwu37wla12sdCaQzI2Lppq",
+  "snapshot_id": "aitMAAAAAACXoLPpaSkLPUUBtZzvWDxB",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "Novia Robot",
-      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/3toVfR6MhCCxb08Y0WJYL9"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 199994,
       "name": "Antes de Morirme - feat. ROSAL\u00cdA",
       "url": "https://open.spotify.com/track/5FMPWjgWG5Rl6PNtQYk1ek"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "Novia Robot",
+      "url": "https://open.spotify.com/track/501aZny32oS5iewdx3e4Eu"
     },
     {
       "added_at": null,

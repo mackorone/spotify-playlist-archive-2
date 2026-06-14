@@ -213,6 +213,32 @@
     },
     {
       "album": {
+        "name": "Back from the Brink",
+        "url": "https://open.spotify.com/album/1Rx4Zo92DsDJbr5UOWayCt"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Pressure Cooker",
+          "url": "https://open.spotify.com/artist/2bxUH548JERtfXexv1BsVw"
+        },
+        {
+          "name": "Elben Schutte",
+          "url": "https://open.spotify.com/artist/1QUdvLaC6Az4Pn1vvygr4I"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Back from the Brink",
+      "url": "https://open.spotify.com/track/7JUy3iRs4b18z6INWwt6qC"
+    },
+    {
+      "album": {
         "name": "Welcome to Noxus (Original Soundtrack from League of Legends)",
         "url": "https://open.spotify.com/album/7oCUh77MwNd0x12QjA7F5K"
       },
@@ -1098,7 +1124,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 164773,
       "name": "Hellfire (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC"

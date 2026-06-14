@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 181803,
+  "num_followers": 181826,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "from JAPAN 2",
-        "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "\u9769\u547d\u524d\u591c",
-      "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "from JAPAN 2",
+        "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "\u9769\u547d\u524d\u591c",
+      "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "Smoky Valley",
-        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
-      },
-      "artists": [
-        {
-          "name": "I love you Orchestra Swing Style",
-          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
-        },
-        {
-          "name": "mahina",
-          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Night Distance",
-      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
         "name": "cherish",
         "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "Smoky Valley",
+        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
+      },
+      "artists": [
+        {
+          "name": "I love you Orchestra Swing Style",
+          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
+        },
+        {
+          "name": "mahina",
+          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Night Distance",
+      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "Living Room",
-        "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
-      "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
         "name": "Deja-vu",
         "url": "https://open.spotify.com/album/7jcNtagY3SxbU1fEz8qgUQ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 255866,
       "name": "Deja-vu",
       "url": "https://open.spotify.com/track/7J9I6C6AE9XPbhfYUwamjf"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "Living Room",
+        "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
+      "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
-        "url": "https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 202881,
-      "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
-      "url": "https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
         "name": "Rainy Runway",
         "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
       },
@@ -1627,26 +1611,6 @@
       "duration_ms": 241680,
       "name": "Rainy Runway",
       "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
-    },
-    {
-      "added_at": "2026-06-09 15:24:41",
-      "album": {
-        "name": "IMAGINE",
-        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "ENDLESS",
-      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1675,18 +1639,38 @@
     {
       "added_at": "2026-06-09 15:24:41",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+        "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
+        "url": "https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t"
       },
       "artists": [
         {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+      "duration_ms": 202881,
+      "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "IMAGINE",
+        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
     },
     {
       "added_at": "2026-06-09 15:24:41",
@@ -1703,6 +1687,22 @@
       "duration_ms": 220960,
       "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
       "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+    },
+    {
+      "added_at": "2026-06-09 15:24:41",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

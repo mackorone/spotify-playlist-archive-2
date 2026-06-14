@@ -6,7 +6,7 @@
     "name": "UP Music ProMotion",
     "url": "https://open.spotify.com/user/11141650175"
   },
-  "snapshot_id": "AAACJMxQqKvQSNTQKtaHlSQijXTUbs3h",
+  "snapshot_id": "AAACPyVb8QxpuUcRdi9iGtEkUBs7A7tq",
   "tracks": [
     {
       "added_at": "2025-01-24 22:20:44",
@@ -335,6 +335,542 @@
       "duration_ms": 97319,
       "name": "Free",
       "url": "https://open.spotify.com/track/6OqjQaWodDidWdfXJSsHqO"
+    },
+    {
+      "added_at": "2026-06-13 23:29:03",
+      "album": {
+        "name": "Biorhythm",
+        "url": "https://open.spotify.com/album/1qPTiF9acp1cL5TGOmg2BW"
+      },
+      "artists": [
+        {
+          "name": "Orika",
+          "url": "https://open.spotify.com/artist/7rnEq0GZPQ02CUMQMxJ1ID"
+        },
+        {
+          "name": "Desert Lines",
+          "url": "https://open.spotify.com/artist/3lw7xL8DPKCNqu3Dnu0yQT"
+        },
+        {
+          "name": "Taruun",
+          "url": "https://open.spotify.com/artist/0H757tDqb7XUrWP0ipzYvG"
+        }
+      ],
+      "duration_ms": 307559,
+      "name": "Boreal Wake",
+      "url": "https://open.spotify.com/track/6HbyojRPm982zZS7PMl0N9"
+    },
+    {
+      "added_at": "2026-06-13 23:30:55",
+      "album": {
+        "name": "Subterranean",
+        "url": "https://open.spotify.com/album/2xYZ5IxfFJC0XYeFnQWvj8"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Garden",
+          "url": "https://open.spotify.com/artist/3C7wDGvBEdPWOaq9TwoXYH"
+        }
+      ],
+      "duration_ms": 202239,
+      "name": "Subterranean",
+      "url": "https://open.spotify.com/track/0M1eAUtJdxrcnQ3YGWyMaD"
+    },
+    {
+      "added_at": "2026-06-13 23:32:10",
+      "album": {
+        "name": "Cristals",
+        "url": "https://open.spotify.com/album/3Kbz49aSWjELiePVfDLtYo"
+      },
+      "artists": [
+        {
+          "name": "Ocean Space",
+          "url": "https://open.spotify.com/artist/2EKESElMU5AT8yPMR7XCEz"
+        },
+        {
+          "name": "Parallel Forms",
+          "url": "https://open.spotify.com/artist/6kkNxmGZ6CY5pHgFpESqhj"
+        },
+        {
+          "name": "Nomiind",
+          "url": "https://open.spotify.com/artist/2QCbfBnJui14G0upywuNGQ"
+        }
+      ],
+      "duration_ms": 377800,
+      "name": "Fragmented",
+      "url": "https://open.spotify.com/track/5BgfZZdboGVTwoXbWu53we"
+    },
+    {
+      "added_at": "2026-06-13 23:33:57",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/5pZuyNR29gtQGcJ3Sy6g9a"
+      },
+      "artists": [
+        {
+          "name": "Orika",
+          "url": "https://open.spotify.com/artist/7rnEq0GZPQ02CUMQMxJ1ID"
+        },
+        {
+          "name": "Desert Lines",
+          "url": "https://open.spotify.com/artist/3lw7xL8DPKCNqu3Dnu0yQT"
+        },
+        {
+          "name": "Taruun",
+          "url": "https://open.spotify.com/artist/0H757tDqb7XUrWP0ipzYvG"
+        }
+      ],
+      "duration_ms": 299719,
+      "name": "Cryptic",
+      "url": "https://open.spotify.com/track/4RuZ1AdAm9Tkzy5xrTduZe"
+    },
+    {
+      "added_at": "2026-06-13 23:34:38",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/5pZuyNR29gtQGcJ3Sy6g9a"
+      },
+      "artists": [
+        {
+          "name": "Orika",
+          "url": "https://open.spotify.com/artist/7rnEq0GZPQ02CUMQMxJ1ID"
+        },
+        {
+          "name": "Desert Lines",
+          "url": "https://open.spotify.com/artist/3lw7xL8DPKCNqu3Dnu0yQT"
+        },
+        {
+          "name": "Taruun",
+          "url": "https://open.spotify.com/artist/0H757tDqb7XUrWP0ipzYvG"
+        }
+      ],
+      "duration_ms": 316919,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4tHgwenyYDcjvisGSj1M3D"
+    },
+    {
+      "added_at": "2026-06-13 23:35:11",
+      "album": {
+        "name": "Vapor Girl",
+        "url": "https://open.spotify.com/album/43dP9etYMKipaTfgZgqRq5"
+      },
+      "artists": [
+        {
+          "name": "Mutant Rebels",
+          "url": "https://open.spotify.com/artist/66gPvtIROnMPimZ44r3uRZ"
+        },
+        {
+          "name": "Urban Stereo",
+          "url": "https://open.spotify.com/artist/5242ikehGaZ3qxHMBv5r3B"
+        }
+      ],
+      "duration_ms": 232319,
+      "name": "Vapor Girl",
+      "url": "https://open.spotify.com/track/0MfaJ4y7ck1zpuweLENxiF"
+    },
+    {
+      "added_at": "2026-06-13 23:36:24",
+      "album": {
+        "name": "Voltage",
+        "url": "https://open.spotify.com/album/7fK79PgDGNr0PW30unzEWc"
+      },
+      "artists": [
+        {
+          "name": "BLOODSYNC",
+          "url": "https://open.spotify.com/artist/1JWs4C5mewNsMPQEKpacJx"
+        },
+        {
+          "name": "Mutant Rebels",
+          "url": "https://open.spotify.com/artist/66gPvtIROnMPimZ44r3uRZ"
+        }
+      ],
+      "duration_ms": 208359,
+      "name": "Voltage - Remix",
+      "url": "https://open.spotify.com/track/6tXWPOGIQpvNLaWDmBq6uf"
+    },
+    {
+      "added_at": "2026-06-13 23:37:11",
+      "album": {
+        "name": "Bleed in blue",
+        "url": "https://open.spotify.com/album/6HdDahzDxvPSdxxMQqODew"
+      },
+      "artists": [
+        {
+          "name": "Maikena",
+          "url": "https://open.spotify.com/artist/3TUk7MTBTrppDVJuCg6YzY"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Bleed in blue",
+      "url": "https://open.spotify.com/track/5PKgkkEaPzCPOpJBK4xOgR"
+    },
+    {
+      "added_at": "2026-06-13 23:37:50",
+      "album": {
+        "name": "I Repeat You Like a Song",
+        "url": "https://open.spotify.com/album/7brIz978bN93MelRMhrAmb"
+      },
+      "artists": [
+        {
+          "name": "Maikena",
+          "url": "https://open.spotify.com/artist/3TUk7MTBTrppDVJuCg6YzY"
+        }
+      ],
+      "duration_ms": 263999,
+      "name": "I Repeat You Like a Song",
+      "url": "https://open.spotify.com/track/0RTgUyrdnY4oiGBQyP3PZL"
+    },
+    {
+      "added_at": "2026-06-13 23:38:21",
+      "album": {
+        "name": "Mono",
+        "url": "https://open.spotify.com/album/4YRpgx6qcNqzYcMYHJhqho"
+      },
+      "artists": [
+        {
+          "name": "Nilo Senn",
+          "url": "https://open.spotify.com/artist/3PV7pMosaF4ZzlFpU4uBhI"
+        },
+        {
+          "name": "JunkSoul",
+          "url": "https://open.spotify.com/artist/1pLNRHwZYRrbZXr6qobBFQ"
+        }
+      ],
+      "duration_ms": 281919,
+      "name": "Mono",
+      "url": "https://open.spotify.com/track/2HtOCOJ3OQJ327NJgjrTLj"
+    },
+    {
+      "added_at": "2026-06-13 23:38:56",
+      "album": {
+        "name": "Mood Structure",
+        "url": "https://open.spotify.com/album/20nYGgiH0kR7A6VJIL4tnh"
+      },
+      "artists": [
+        {
+          "name": "Eugen Grieg",
+          "url": "https://open.spotify.com/artist/7IVbRI6RTbOj5ACRJIHCou"
+        },
+        {
+          "name": "MOHAA",
+          "url": "https://open.spotify.com/artist/6PSioLt0RTf8cPQLVhCEoT"
+        },
+        {
+          "name": "Vapor Loop",
+          "url": "https://open.spotify.com/artist/74r57qxsA5sbwOMYJgKLcO"
+        },
+        {
+          "name": "Nebruk",
+          "url": "https://open.spotify.com/artist/097AaJD5m9i4cuDnfWw5BU"
+        }
+      ],
+      "duration_ms": 253199,
+      "name": "Moode Structure",
+      "url": "https://open.spotify.com/track/2ZqgQFl6MzzivFBuk8mCzK"
+    },
+    {
+      "added_at": "2026-06-13 23:39:42",
+      "album": {
+        "name": "Mood Structure",
+        "url": "https://open.spotify.com/album/20nYGgiH0kR7A6VJIL4tnh"
+      },
+      "artists": [
+        {
+          "name": "MOHAA",
+          "url": "https://open.spotify.com/artist/6PSioLt0RTf8cPQLVhCEoT"
+        },
+        {
+          "name": "Vapor Loop",
+          "url": "https://open.spotify.com/artist/74r57qxsA5sbwOMYJgKLcO"
+        },
+        {
+          "name": "Nebruk",
+          "url": "https://open.spotify.com/artist/097AaJD5m9i4cuDnfWw5BU"
+        }
+      ],
+      "duration_ms": 323599,
+      "name": "Wet Sequence",
+      "url": "https://open.spotify.com/track/4ebispnT2FwPHpCZ4FYESU"
+    },
+    {
+      "added_at": "2026-06-13 23:40:11",
+      "album": {
+        "name": "Mood Structure",
+        "url": "https://open.spotify.com/album/20nYGgiH0kR7A6VJIL4tnh"
+      },
+      "artists": [
+        {
+          "name": "MOHAA",
+          "url": "https://open.spotify.com/artist/6PSioLt0RTf8cPQLVhCEoT"
+        },
+        {
+          "name": "Vapor Loop",
+          "url": "https://open.spotify.com/artist/74r57qxsA5sbwOMYJgKLcO"
+        },
+        {
+          "name": "Nebruk",
+          "url": "https://open.spotify.com/artist/097AaJD5m9i4cuDnfWw5BU"
+        }
+      ],
+      "duration_ms": 252639,
+      "name": "Sync Matters",
+      "url": "https://open.spotify.com/track/0Ntz8iMXhvpeNVXyACEIvA"
+    },
+    {
+      "added_at": "2026-06-13 23:40:55",
+      "album": {
+        "name": "Silent Walls",
+        "url": "https://open.spotify.com/album/0yu49WtAKOBaMcnUDshgF1"
+      },
+      "artists": [
+        {
+          "name": "CTRL+BODY",
+          "url": "https://open.spotify.com/artist/5PnjACEeJw5UzZPiKRqvsD"
+        }
+      ],
+      "duration_ms": 184639,
+      "name": "Silent Walls",
+      "url": "https://open.spotify.com/track/64DwAgNn79OTMB8eMGi5oJ"
+    },
+    {
+      "added_at": "2026-06-13 23:41:44",
+      "album": {
+        "name": "Nexora",
+        "url": "https://open.spotify.com/album/2NvlcLSh5FSBE92Xq4aK9C"
+      },
+      "artists": [
+        {
+          "name": "After Kollaps",
+          "url": "https://open.spotify.com/artist/0qmiwvyNCscuDEAfDg0TYX"
+        },
+        {
+          "name": "1\u00d8\u00d81",
+          "url": "https://open.spotify.com/artist/6l5R4W3bm41mElXy4M8piI"
+        },
+        {
+          "name": "Ocean Space",
+          "url": "https://open.spotify.com/artist/2EKESElMU5AT8yPMR7XCEz"
+        }
+      ],
+      "duration_ms": 234839,
+      "name": "Driftline",
+      "url": "https://open.spotify.com/track/5T1qLuRmcKDXBQxpH5ZiES"
+    },
+    {
+      "added_at": "2026-06-13 23:42:16",
+      "album": {
+        "name": "Nexora",
+        "url": "https://open.spotify.com/album/2NvlcLSh5FSBE92Xq4aK9C"
+      },
+      "artists": [
+        {
+          "name": "After Kollaps",
+          "url": "https://open.spotify.com/artist/0qmiwvyNCscuDEAfDg0TYX"
+        },
+        {
+          "name": "1\u00d8\u00d81",
+          "url": "https://open.spotify.com/artist/6l5R4W3bm41mElXy4M8piI"
+        },
+        {
+          "name": "Parallel Forms",
+          "url": "https://open.spotify.com/artist/6kkNxmGZ6CY5pHgFpESqhj"
+        }
+      ],
+      "duration_ms": 143599,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/26gBzGHFKzDQs4oYbEXEij"
+    },
+    {
+      "added_at": "2026-06-13 23:43:02",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5TPOpROapN2A9cWr1FNXdZ"
+      },
+      "artists": [
+        {
+          "name": "Another Concept",
+          "url": "https://open.spotify.com/artist/0yIE6PqXFY8FS7YRdssKGM"
+        },
+        {
+          "name": "After Kollaps",
+          "url": "https://open.spotify.com/artist/0qmiwvyNCscuDEAfDg0TYX"
+        },
+        {
+          "name": "1\u00d8\u00d81",
+          "url": "https://open.spotify.com/artist/6l5R4W3bm41mElXy4M8piI"
+        }
+      ],
+      "duration_ms": 183759,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/7xYEHymB4dsZEJmKj1whhm"
+    },
+    {
+      "added_at": "2026-06-13 23:43:51",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/5pZuyNR29gtQGcJ3Sy6g9a"
+      },
+      "artists": [
+        {
+          "name": "Orika",
+          "url": "https://open.spotify.com/artist/7rnEq0GZPQ02CUMQMxJ1ID"
+        },
+        {
+          "name": "Desert Lines",
+          "url": "https://open.spotify.com/artist/3lw7xL8DPKCNqu3Dnu0yQT"
+        },
+        {
+          "name": "Taruun",
+          "url": "https://open.spotify.com/artist/0H757tDqb7XUrWP0ipzYvG"
+        }
+      ],
+      "duration_ms": 251479,
+      "name": "Ayin",
+      "url": "https://open.spotify.com/track/0h88Mu9l26fl2lPv7KQELQ"
+    },
+    {
+      "added_at": "2026-06-13 23:44:26",
+      "album": {
+        "name": "Cracks in the Static",
+        "url": "https://open.spotify.com/album/5V5L9JflD4mBEyeYGefE0X"
+      },
+      "artists": [
+        {
+          "name": "Mia Delis",
+          "url": "https://open.spotify.com/artist/3MaYwWMQOpDTIDlWnG0x9N"
+        }
+      ],
+      "duration_ms": 204399,
+      "name": "Cracks in the Static",
+      "url": "https://open.spotify.com/track/3O9Rl79qolgA2A5dbQ6l48"
+    },
+    {
+      "added_at": "2026-06-13 23:44:54",
+      "album": {
+        "name": "Fading Lights",
+        "url": "https://open.spotify.com/album/6mA6bJQdfHQycTIbVDJ9U5"
+      },
+      "artists": [
+        {
+          "name": "N\u00f8ia",
+          "url": "https://open.spotify.com/artist/609UsRFCK90ch1N8OS8Hkc"
+        }
+      ],
+      "duration_ms": 228719,
+      "name": "Cold Bloom",
+      "url": "https://open.spotify.com/track/68HZsZ6IKqhuMdnLbVAXd7"
+    },
+    {
+      "added_at": "2026-06-13 23:46:13",
+      "album": {
+        "name": "Psycho Mi Amor",
+        "url": "https://open.spotify.com/album/1dt4tzdeBZ9jw8zC2h4p7x"
+      },
+      "artists": [
+        {
+          "name": "Gisella Engel",
+          "url": "https://open.spotify.com/artist/1t3O7vVm8VOKfLAkuL8Ku1"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "No Feeling",
+      "url": "https://open.spotify.com/track/1HlRmYKA6SkB6ReCeTdDqj"
+    },
+    {
+      "added_at": "2026-06-13 23:46:44",
+      "album": {
+        "name": "Whispers in the dark",
+        "url": "https://open.spotify.com/album/3SQGPgK2GPlhVDHLRjucuD"
+      },
+      "artists": [
+        {
+          "name": "Gisella Engel",
+          "url": "https://open.spotify.com/artist/1t3O7vVm8VOKfLAkuL8Ku1"
+        }
+      ],
+      "duration_ms": 143040,
+      "name": "Whispers in the static",
+      "url": "https://open.spotify.com/track/4RZk8GZLWPmxj9y4woV8IO"
+    },
+    {
+      "added_at": "2026-06-13 23:47:16",
+      "album": {
+        "name": "Psycho Mi Amor",
+        "url": "https://open.spotify.com/album/1dt4tzdeBZ9jw8zC2h4p7x"
+      },
+      "artists": [
+        {
+          "name": "Gisella Engel",
+          "url": "https://open.spotify.com/artist/1t3O7vVm8VOKfLAkuL8Ku1"
+        }
+      ],
+      "duration_ms": 398440,
+      "name": "Psycho Mi Amor",
+      "url": "https://open.spotify.com/track/0iXOH4bdAbpok6olSnmIan"
+    },
+    {
+      "added_at": "2026-06-13 23:47:46",
+      "album": {
+        "name": "Body Index",
+        "url": "https://open.spotify.com/album/2gztiGsunjwwsLbMOugp79"
+      },
+      "artists": [
+        {
+          "name": "Gisella Engel",
+          "url": "https://open.spotify.com/artist/1t3O7vVm8VOKfLAkuL8Ku1"
+        }
+      ],
+      "duration_ms": 362880,
+      "name": "Noise Pattern",
+      "url": "https://open.spotify.com/track/2GcjwMewXdnY0M9mqB4irL"
+    },
+    {
+      "added_at": "2026-06-14 00:13:27",
+      "album": {
+        "name": "Stormy Guitar",
+        "url": "https://open.spotify.com/album/5JaQqsvEVV6cB4RC7oxD8p"
+      },
+      "artists": [
+        {
+          "name": "RoberWiz",
+          "url": "https://open.spotify.com/artist/4s7i7GgPIAl0IIlXzHJCrJ"
+        }
+      ],
+      "duration_ms": 281635,
+      "name": "Stormy Guitar",
+      "url": "https://open.spotify.com/track/3xr4ZbuzjKspB5nQMUfxfZ"
+    },
+    {
+      "added_at": "2026-06-14 00:17:05",
+      "album": {
+        "name": "Volumen 1",
+        "url": "https://open.spotify.com/album/5u0LmILz3wZDkNKQ6xL9Du"
+      },
+      "artists": [
+        {
+          "name": "La Racha",
+          "url": "https://open.spotify.com/artist/5JzN6rrSv2tnE1Iau1kThx"
+        }
+      ],
+      "duration_ms": 208684,
+      "name": "Cuero Roto",
+      "url": "https://open.spotify.com/track/4ZYtpGn7jlmnQSlWb9a2au"
+    },
+    {
+      "added_at": "2026-06-14 00:31:18",
+      "album": {
+        "name": "Codigos de Calle",
+        "url": "https://open.spotify.com/album/4BOL5NfhGUfYMo322XWSKO"
+      },
+      "artists": [
+        {
+          "name": "Yonblok Music",
+          "url": "https://open.spotify.com/artist/7MZHN1U8dptbA645QA9Qku"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "Codigos de Calle",
+      "url": "https://open.spotify.com/track/3nUXbKuldWBNqoUp4Dxw9p"
     }
   ],
   "unique_name": "Today\u2019s Top Hits-Afrobeats \u00b7   Trap \u00b7   Rap \u00b7   Hip Hop \u00b7   RnB  ",

@@ -1,6 +1,6 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2285277,
+  "num_followers": 2285247,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
         "name": "kinda smacks",
         "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 136601,
       "name": "kinda smacks",
       "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "Mirror Muscles",
-        "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
-      },
-      "artists": [
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
-        }
-      ],
-      "duration_ms": 163257,
-      "name": "Mirror Muscles",
-      "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 170523,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
+        "name": "Mirror Muscles",
+        "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "duration_ms": 163257,
+      "name": "Mirror Muscles",
+      "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
     },
     {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D"
-      },
-      "artists": [
-        {
-          "name": "Airways",
-          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq"
-    },
-    {
       "added_at": "2024-05-30 23:43:17",
       "album": {
         "name": "POSTINDUSTRIAL HOMETOWN BLUES",
@@ -951,6 +935,22 @@
       "duration_ms": 177597,
       "name": "BLACK COUNTRY GOTHIC",
       "url": "https://open.spotify.com/track/4XtIwasPM2qnU8FMg4E9Ak"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D"
+      },
+      "artists": [
+        {
+          "name": "Airways",
+          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "Sink Ya Teeth",
-        "url": "https://open.spotify.com/album/3tbrfc220mSrlEKd5uad1i"
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ"
       },
       "artists": [
         {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 207652,
-      "name": "Sink Ya Teeth",
-      "url": "https://open.spotify.com/track/6xfeVHIcavY2ZwwASl00j4"
+      "duration_ms": 161560,
+      "name": "Puzzles",
+      "url": "https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -1083,34 +1083,18 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "Puzzles",
-        "url": "https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ"
+        "name": "Sink Ya Teeth",
+        "url": "https://open.spotify.com/album/3tbrfc220mSrlEKd5uad1i"
       },
       "artists": [
         {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
         }
       ],
-      "duration_ms": 161560,
-      "name": "Puzzles",
-      "url": "https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
-        "name": "How Will I Know If Heaven Will Find Me?",
-        "url": "https://open.spotify.com/album/6ObW1p8RsxkWN5MiphT43Z"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Ready For Something",
-      "url": "https://open.spotify.com/track/0D1RTbsoERxU3toO9Z2b46"
+      "duration_ms": 207652,
+      "name": "Sink Ya Teeth",
+      "url": "https://open.spotify.com/track/6xfeVHIcavY2ZwwASl00j4"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -1129,20 +1113,20 @@
       "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
     },
     {
-      "added_at": "2024-07-19 14:28:26",
+      "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "The Last Dance",
-        "url": "https://open.spotify.com/album/0rMHf3ngQEHHkNAKE259qe"
+        "name": "How Will I Know If Heaven Will Find Me?",
+        "url": "https://open.spotify.com/album/6ObW1p8RsxkWN5MiphT43Z"
       },
       "artists": [
         {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
         }
       ],
-      "duration_ms": 270148,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/4qRjuJ0yie272bG3JY2EvU"
+      "duration_ms": 237560,
+      "name": "Ready For Something",
+      "url": "https://open.spotify.com/track/0D1RTbsoERxU3toO9Z2b46"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -1175,6 +1159,22 @@
       "duration_ms": 165052,
       "name": "All I Wanna Do Is Hate",
       "url": "https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb"
+    },
+    {
+      "added_at": "2024-07-19 14:28:26",
+      "album": {
+        "name": "The Last Dance",
+        "url": "https://open.spotify.com/album/0rMHf3ngQEHHkNAKE259qe"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 270148,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/4qRjuJ0yie272bG3JY2EvU"
     },
     {
       "added_at": "2024-05-30 23:43:17",

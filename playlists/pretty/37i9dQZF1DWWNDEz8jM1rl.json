@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 158469,
+  "num_followers": 158504,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Mqb",
-        "url": "https://open.spotify.com/album/5p3zVMHk7f7a3IhELZ3Dfy"
-      },
-      "artists": [
-        {
-          "name": "Prop\u00f3sito Con Estilo",
-          "url": "https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN"
-        }
-      ],
-      "duration_ms": 164722,
-      "name": "Blindada",
-      "url": "https://open.spotify.com/track/54040tP5vp9wThDM8tPo6P"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Conmigo",
         "url": "https://open.spotify.com/album/6x4RUz4MAkT8SkQS2z1kfM"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "VIVE",
-        "url": "https://open.spotify.com/album/2brR0s3blQgdHhQaTIcEmH"
+        "name": "Mqb",
+        "url": "https://open.spotify.com/album/5p3zVMHk7f7a3IhELZ3Dfy"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "Prop\u00f3sito Con Estilo",
+          "url": "https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN"
         }
       ],
-      "duration_ms": 223914,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/5sbL2s9BSqy12XudGLmrje"
+      "duration_ms": 164722,
+      "name": "Blindada",
+      "url": "https://open.spotify.com/track/54040tP5vp9wThDM8tPo6P"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -451,6 +435,22 @@
       "duration_ms": 166779,
       "name": "DIOS es el que SABE",
       "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "VIVE",
+        "url": "https://open.spotify.com/album/2brR0s3blQgdHhQaTIcEmH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 223914,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/5sbL2s9BSqy12XudGLmrje"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Buenas Vibras",
-        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Barcel\u00f3",
-          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
-        }
-      ],
-      "duration_ms": 188624,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Conmigo",
         "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 170614,
       "name": "Conmigo",
       "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Buenas Vibras",
+        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+        }
+      ],
+      "duration_ms": 188624,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -555,6 +555,22 @@
       "duration_ms": 217090,
       "name": "Para Arriba",
       "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "ANTES ERA NADA",
+        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "ANTES ERA NADA",
+      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -595,22 +611,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "ANTES ERA NADA",
-        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 154421,
-      "name": "ANTES ERA NADA",
-      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Santa Cruz",
         "url": "https://open.spotify.com/album/5m7jFN3MlulVIxAHTJaC7m"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 235000,
       "name": "Santa Cruz",
       "url": "https://open.spotify.com/track/1WHdA1glBCsd6pbiOMn6u5"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 171703,
-      "name": "Rumbo Pa La Iglesia",
-      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -671,6 +655,22 @@
       "duration_ms": 206367,
       "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
       "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 171703,
+      "name": "Rumbo Pa La Iglesia",
+      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "No se Compara",
+        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 162751,
+      "name": "No se Compara",
+      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/6kErvhmAdGhtkoDJAQzZsA"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 231013,
       "name": "Nueva Temporada",
       "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "No se Compara",
-        "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 162751,
-      "name": "No se Compara",
-      "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Lo Mejor De La Vida (Cumbia Remix)",
-        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Lo Mejor De La Vida - Cumbia Remix",
-      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Cubana",
         "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 186750,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Lo Mejor De La Vida (Cumbia Remix)",
+        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Lo Mejor De La Vida - Cumbia Remix",
+      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Mes\u00edas",
-        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
-      },
-      "artists": [
-        {
-          "name": "Dexter Music",
-          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
-        }
-      ],
-      "duration_ms": 324017,
-      "name": "Mes\u00edas",
-      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3Dvdnm4MB1ZvZwEtRAjpSc"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 202500,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0WjfH61yW1TBoFgughJXvX"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Mes\u00edas",
+        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
+      },
+      "artists": [
+        {
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
+        }
+      ],
+      "duration_ms": 324017,
+      "name": "Mes\u00edas",
+      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1179,38 +1179,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Lamento En Baile",
-        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
-      },
-      "artists": [
-        {
-          "name": "Misael J",
-          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
-        }
-      ],
-      "duration_ms": 222715,
-      "name": "Lamento En Baile",
-      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "OMW",
-        "url": "https://open.spotify.com/album/6DZLO5Wp0JSFkpRdx3IL4B"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "OMW",
-      "url": "https://open.spotify.com/track/4NNmICAifT9UDArpQAfuph"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/1adMCOb4aseM7hhxcVC1wQ"
       },
@@ -1251,6 +1219,38 @@
       "duration_ms": 163200,
       "name": "SMC",
       "url": "https://open.spotify.com/track/53Rb7O0Khyu3n0yx9kgHpk"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Lamento En Baile",
+        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
+      },
+      "artists": [
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+        }
+      ],
+      "duration_ms": 222715,
+      "name": "Lamento En Baile",
+      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "OMW",
+        "url": "https://open.spotify.com/album/6DZLO5Wp0JSFkpRdx3IL4B"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/4NNmICAifT9UDArpQAfuph"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Del Agua Al Cielo",
         "url": "https://open.spotify.com/album/1OCvOFV7UCnBknPshXgXaC"
       },
@@ -1595,38 +1611,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
-      },
-      "artists": [
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Siempre y Nunca",
         "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "closefriend",
         "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 188108,
       "name": "closefriend",
       "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1687,38 +1703,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
-      },
-      "artists": [
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Antes Que Salga El Sol",
-      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Al Que Tenga O\u00eddos",
         "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
       },
@@ -1735,22 +1719,18 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Todito",
-        "url": "https://open.spotify.com/album/6PxTla2EDT4ShO1hH3YJtn"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
       },
       "artists": [
         {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        },
-        {
-          "name": "Kavelo Y No Drama",
-          "url": "https://open.spotify.com/artist/5A7m8sjvA3MMBh80K0jJWV"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 163839,
-      "name": "Todito",
-      "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1775,6 +1755,26 @@
       "duration_ms": 166666,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2RA4kDAh8pfMJ46xOYFrmA"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Todito",
+        "url": "https://open.spotify.com/album/6PxTla2EDT4ShO1hH3YJtn"
+      },
+      "artists": [
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        },
+        {
+          "name": "Kavelo Y No Drama",
+          "url": "https://open.spotify.com/artist/5A7m8sjvA3MMBh80K0jJWV"
+        }
+      ],
+      "duration_ms": 163839,
+      "name": "Todito",
+      "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Sin Ti No Me Imagino",
+        "url": "https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN"
+      },
+      "artists": [
+        {
+          "name": "Propiedad De Dios",
+          "url": "https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4"
+        }
+      ],
+      "duration_ms": 137547,
+      "name": "Sin Ti No Me Imagino",
+      "url": "https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Love Joy & Peace",
         "url": "https://open.spotify.com/album/0fhTJ1blBXypMh18HzHWZs"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 203714,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/2jSyrrOTSOY07i6KVNU12e"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Sin Ti No Me Imagino",
-        "url": "https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN"
-      },
-      "artists": [
-        {
-          "name": "Propiedad De Dios",
-          "url": "https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4"
-        }
-      ],
-      "duration_ms": 137547,
-      "name": "Sin Ti No Me Imagino",
-      "url": "https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0"
     },
     {
       "added_at": "2026-04-25 04:59:02",

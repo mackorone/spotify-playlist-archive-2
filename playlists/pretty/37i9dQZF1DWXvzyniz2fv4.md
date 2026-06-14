@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,580 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,575 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 54 | [Bateu Saudade](https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT) | [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bateu Saudade](https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621) | 3:50 |
 | 55 | [Pegando Carona](https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 |
 | 56 | [quem dera fosse...](https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS) | [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Léo da Bodega](https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [quem dera fosse...](https://open.spotify.com/album/2buJ0NeUZkGf0uu4I7CjCK) | 2:49 |
-| 57 | [Vem Me Dar](https://open.spotify.com/track/5ARljWIDvNllpQ49Uqmt6x) | [Vinta](https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C), [Lil Paul](https://open.spotify.com/artist/34hDRGnxDke2duRqJeuQ8p) | [Vem Me Dar](https://open.spotify.com/album/5f8VT6GKfTrl53z99gQHer) | 2:34 |
-| 58 | [Peito Aberto](https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Peito Aberto](https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl) | 3:13 |
-| 59 | [Bate A Onda](https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37) | [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Bate A Onda](https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1) | 4:41 |
-| 60 | [Beira do Mar](https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC Julio D.E.R.](https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV) | [Beira do Mar](https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda) | 3:07 |
+| 57 | [Peito Aberto](https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Peito Aberto](https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl) | 3:13 |
+| 58 | [Bate A Onda](https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37) | [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Bate A Onda](https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1) | 4:41 |
+| 59 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
+| 60 | [Vem Me Dar](https://open.spotify.com/track/5ARljWIDvNllpQ49Uqmt6x) | [Vinta](https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C), [Lil Paul](https://open.spotify.com/artist/34hDRGnxDke2duRqJeuQ8p) | [Vem Me Dar](https://open.spotify.com/album/5f8VT6GKfTrl53z99gQHer) | 2:34 |
 
 Snapshot ID: `AAAAAFL1sGrzJ45eSkjKdipMgqLZ444B`

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402256,
+  "num_followers": 402238,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mai 2026",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "Jeune & Laide",
         "url": "https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 160070,
       "name": "Autod\u00e9fense",
       "url": "https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "DISCO INFERNO",
-        "url": "https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl"
-      },
-      "artists": [
-        {
-          "name": "LinLin",
-          "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
-        }
-      ],
-      "duration_ms": 233788,
-      "name": "C\u0152UR DE PIRATE",
-      "url": "https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "Maman",
         "url": "https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 167666,
       "name": "Maman",
       "url": "https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "DISCO INFERNO",
+        "url": "https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl"
+      },
+      "artists": [
+        {
+          "name": "LinLin",
+          "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
+        }
+      ],
+      "duration_ms": 233788,
+      "name": "C\u0152UR DE PIRATE",
+      "url": "https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "Anomalie",
-        "url": "https://open.spotify.com/album/6YgQgvhLzxNDNZMu8Z8rC7"
-      },
-      "artists": [
-        {
-          "name": "Revers Gagnant",
-          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
-        },
-        {
-          "name": "Jade Mansion",
-          "url": "https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O"
-        }
-      ],
-      "duration_ms": 221561,
-      "name": "Anomalie",
-      "url": "https://open.spotify.com/track/7BjtnFWiaBWdbr5nKF6ogB"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "Voicetrack Generation",
         "url": "https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 253953,
       "name": "Voicetrack Generation",
       "url": "https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "Anomalie",
+        "url": "https://open.spotify.com/album/6YgQgvhLzxNDNZMu8Z8rC7"
+      },
+      "artists": [
+        {
+          "name": "Revers Gagnant",
+          "url": "https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8"
+        },
+        {
+          "name": "Jade Mansion",
+          "url": "https://open.spotify.com/artist/4L5L8gnE5hd4dMWMLbk59O"
+        }
+      ],
+      "duration_ms": 221561,
+      "name": "Anomalie",
+      "url": "https://open.spotify.com/track/7BjtnFWiaBWdbr5nKF6ogB"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efa Rose",
+          "url": "https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
         "name": "Fire Away (feat. Slayyyter)",
         "url": "https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 207868,
       "name": "Fire Away (feat. Slayyyter)",
       "url": "https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0"
-      },
-      "artists": [
-        {
-          "name": "Ja\u00efa Rose",
-          "url": "https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5"
     },
     {
       "added_at": "2026-05-31 22:00:06",

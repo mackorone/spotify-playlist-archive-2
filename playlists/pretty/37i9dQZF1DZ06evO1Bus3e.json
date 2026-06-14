@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12703,
+  "num_followers": 12705,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACLp8KuunEl1E+Vfn1Xs3i4",
+  "snapshot_id": "aitMAAAAAACFagTxopidrrk4ScoWN/y5",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trap Romantix",
+        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 203659,
+      "name": "Cuentame",
+      "url": "https://open.spotify.com/track/05HFx3DachZrnv9VvEGRyB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya Coron\u00f3 La Vuelta",
         "url": "https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 151536,
       "name": "Ya Coron\u00f3 La Vuelta",
       "url": "https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trap Romantix",
-        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 203659,
-      "name": "Cuentame",
-      "url": "https://open.spotify.com/track/05HFx3DachZrnv9VvEGRyB"
     },
     {
       "added_at": null,

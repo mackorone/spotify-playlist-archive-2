@@ -1,37 +1,13 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264784,
+  "num_followers": 264787,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACaFUWA5Z8LzDclDJcJGqAc",
+  "snapshot_id": "aitMAAAAAACzELUZXXVByDhUOGMT/q+4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "LABUBU (Latin Version)",
-        "url": "https://open.spotify.com/album/6FSY6tFduBWJvbhkZeDftj"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "ILYAH",
-          "url": "https://open.spotify.com/artist/3BKrAAsxD33NXflFODb7kq"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "LABUBU - Latin Version",
-      "url": "https://open.spotify.com/track/09fNHC3AibrTnmndlRuFVF"
-    },
     {
       "added_at": null,
       "album": {
@@ -111,70 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caro",
-        "url": "https://open.spotify.com/album/56TOlNuqJ05wDBJGfrjIjV"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 221857,
-      "name": "Hotel Caro",
-      "url": "https://open.spotify.com/track/13cC8N59S63EOeSNMhskEO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRUTAL PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        }
-      ],
-      "duration_ms": 184100,
-      "name": "Sonhei Contigo",
-      "url": "https://open.spotify.com/track/7awOe7nQfsexvICymZ7rco"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 234730,
-      "name": "Surreal",
-      "url": "https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -227,6 +139,70 @@
       "duration_ms": 628124,
       "name": "Poesia Ac\u00fastica 13",
       "url": "https://open.spotify.com/track/5ZWeAFfmlTGYleUxOq7kcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "duration_ms": 184100,
+      "name": "Sonhei Contigo",
+      "url": "https://open.spotify.com/track/7awOe7nQfsexvICymZ7rco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 234730,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caro",
+        "url": "https://open.spotify.com/album/56TOlNuqJ05wDBJGfrjIjV"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 221857,
+      "name": "Hotel Caro",
+      "url": "https://open.spotify.com/track/13cC8N59S63EOeSNMhskEO"
     },
     {
       "added_at": null,
@@ -515,6 +491,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LABUBU (Latin Version)",
+        "url": "https://open.spotify.com/album/6FSY6tFduBWJvbhkZeDftj"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "ILYAH",
+          "url": "https://open.spotify.com/artist/3BKrAAsxD33NXflFODb7kq"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "LABUBU - Latin Version",
+      "url": "https://open.spotify.com/track/09fNHC3AibrTnmndlRuFVF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seu Desejo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7CbL0bPlUb8LciWM8AaZzd"
+        "name": "Amor In Studio",
+        "url": "https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt"
       },
       "artists": [
         {
-          "name": "Seu Desejo",
-          "url": "https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 168131,
-      "name": "Seu Desejo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1u2eH3YKbVOINQiau9cT4B"
+      "duration_ms": 240000,
+      "name": "P\u00f3s Voc\u00ea",
+      "url": "https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW"
     },
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seu Desejo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7CbL0bPlUb8LciWM8AaZzd"
+      },
+      "artists": [
+        {
+          "name": "Seu Desejo",
+          "url": "https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 168131,
+      "name": "Seu Desejo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1u2eH3YKbVOINQiau9cT4B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BRABA",
         "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 129782,
       "name": "BRABA",
       "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor In Studio",
-        "url": "https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "P\u00f3s Voc\u00ea",
-      "url": "https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW"
     },
     {
       "added_at": null,

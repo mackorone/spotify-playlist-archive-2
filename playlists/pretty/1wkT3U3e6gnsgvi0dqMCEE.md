@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,549 likes - 353 songs - 23 hr 33 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,548 likes - 353 songs - 23 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 5 | [In The Stars \- Cirkut and Andrew Watt Remix](https://open.spotify.com/track/14W3MuGOhkAINlO1kVg0Rj) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Andrew Watt](https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI), [Cirkut](https://open.spotify.com/artist/75ejsr1iK59GJ93YnrUKrv) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/37JAJeWRJIQb2mNzKsoi2N) | 4:58 |
 | 6 | [Don't Tell Me It's Over](https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket \(25 Year Anniversary Edition\)](https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu) | 2:32 |
 | 7 | [True Colors](https://open.spotify.com/track/2QmLWxA1wy1Si2uojYby1q) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [True Colors](https://open.spotify.com/album/2bxIY0usnXnh7MCdEhMCL5) | 3:39 |
-| 8 | [Passing The Time \- Alternate Long Stereo Mix / Remastered 2026](https://open.spotify.com/track/0E55kn1JNIH25uRZgqIJS6) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/5wf3ZpbmLPb8BCp2ZZfiyh) | 5:51 |
+| 8 | [Passing The Time \- Alternate Long Stereo Mix / Remastered 2026](https://open.spotify.com/track/0E55kn1JNIH25uRZgqIJS6) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire \(Expanded Deluxe Edition\)](https://open.spotify.com/album/5wf3ZpbmLPb8BCp2ZZfiyh) | 5:51 |
 | 9 | [Clifton Grange Hotel \- Extended](https://open.spotify.com/track/3WMjWIRTkCaB4ar5aqREcc) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Clifton Grange Hotel \(Extended\)](https://open.spotify.com/album/2YqSqrMK1F0cS7M1loyldx) | 2:57 |
 | 10 | [Home to Us](https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Home to Us](https://open.spotify.com/album/1FZqNQGtTdGPWyvkYCzgjP) | 3:11 |
 | 11 | [What We Got](https://open.spotify.com/track/3UeGo2iTVN98fWW96iRL5p) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [What We Got](https://open.spotify.com/album/72T1E70vH8a71qX2OwGwrl) | 2:55 |

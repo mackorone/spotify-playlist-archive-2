@@ -416,7 +416,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 171840,
       "name": "How",
       "url": "https://open.spotify.com/track/0M7wMmWaB3ZIkGuRFE4457"
@@ -506,10 +506,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 196106,
       "name": "I Still Do",
       "url": "https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS"
+    },
+    {
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+        "url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "I Still Do - Remastered 2026",
+      "url": "https://open.spotify.com/track/3hoTEkYJjO3mDofJAPsxkp"
     },
     {
       "album": {
@@ -892,10 +910,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 136200,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/3mayeyaPg5DQGBa78LJM59"
+    },
+    {
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+        "url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136106,
+      "name": "Pretty - Remastered 2026",
+      "url": "https://open.spotify.com/track/0VZyPv9Rk7sCe7900NnCBG"
     },
     {
       "album": {
@@ -1332,6 +1368,24 @@
       "duration_ms": 128132,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/7rvF9L6OiGeKI6SgZYQIg7"
+    },
+    {
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+        "url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127813,
+      "name": "Wanted - Remastered 2026",
+      "url": "https://open.spotify.com/track/29dxtW2MLnH2acr2n1Yyqm"
     },
     {
       "album": {

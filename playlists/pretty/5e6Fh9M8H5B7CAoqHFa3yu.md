@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 336 likes - 2,385 songs - 5 day 20 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 336 likes - 2,387 songs - 5 day 20 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2393,5 +2393,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2383 | [The Overfitting Ex](https://open.spotify.com/track/3HyDtedJpJuCqzWuadPI2U) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [Symphony of Machine Learning](https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5) | 4:08 |
 | 2384 | [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 |
 | 2385 | [Is This Love](https://open.spotify.com/track/4cMjphwBnAg4LIvGFnK5fs) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [Is This Love](https://open.spotify.com/album/2zpdyhQ6qYlKnvrpnCL3AO) | 2:09 |
+| 2386 | [Burden \- Lo\-Fi Version](https://open.spotify.com/track/7iZGon0MGuoKcFSwdW5C2D) | [Ex Alma](https://open.spotify.com/artist/3djMiF1ty7aSuXuLy9AZY8) | [Burden \(Lo\-Fi Version\)](https://open.spotify.com/album/3ORrXUxNpI8btFHfFCv21J) | 2:52 |
+| 2387 | [Noroc, Bună Ziua](https://open.spotify.com/track/4w3S4BPLsGpfY6LOwxsh8a) | [Andrew Whistler](https://open.spotify.com/artist/1wyuerQdwzNyYFMp8tyDc9) | [Noroc, Bună Ziua](https://open.spotify.com/album/067ym3R00wLnNq6UrPcYxH) | 2:29 |
 
-Snapshot ID: `AAAKGzSyVc2YotlAKDr7X/jslwCIzYOn`
+Snapshot ID: `AAAKHdfAYAwCuJNpMD9SK3QI7eBej7Ef`

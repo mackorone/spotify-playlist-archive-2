@@ -4,7 +4,7 @@
 
 > Cover: Dollypran
 
-530 songs - 1 day 3 hr 32 min
+532 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Désert](https://open.spotify.com/track/51HpsmYJtOMzdO06DfnpNd) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Désert](https://open.spotify.com/album/4NES3mugoAZeqRC2P9i7qC) | 3:06 | 2025-02-12 | 2025-08-09 |
 | [El barrio](https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:28 | 2023-01-06 | 2023-06-23 |
 | [ELVIS](https://open.spotify.com/track/3DkAOxcXbO7iqrBkbTqWYR) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:06 | 2024-07-12 | 2024-07-27 |
+| [Epic Fury](https://open.spotify.com/track/5LKxJSEihInyb7Xer7WDdn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Epic Fury](https://open.spotify.com/album/5IkJ9HgQ1Jx7MyaiDPLT9o) | 2:08 | 2026-06-13 |  |
 | [ETAT](https://open.spotify.com/track/6wMXaJAZQMv9PUKyn62cWe) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [BALA W FAS](https://open.spotify.com/album/2QIh9VO7NiTo2BCqFnl9qa) | 3:35 | 2025-03-05 | 2025-04-17 |
 | [Eufury](https://open.spotify.com/track/6qLmmvQDXYI9jesFhTdOEn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Eufury](https://open.spotify.com/album/6SOAaopbpAVjiUE80HA1X5) | 2:34 | 2022-12-26 | 2023-01-20 |
 | [Everlasting](https://open.spotify.com/track/2Be8nEJt4Hb7FSc2XvvGvU) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Everlasting](https://open.spotify.com/album/3uaYjrZkX6GWwH4kT3I0Cj) | 2:09 | 2023-10-26 | 2024-04-16 |
@@ -285,6 +286,7 @@
 | [L’allemagne \- Bonus](https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/25gV823TIXt2rIf9G9Mt01) | 3:01 | 2022-11-14 | 2023-02-19 |
 | [L’appel V2](https://open.spotify.com/track/4wnqyUswpvK48T8LkfV75J) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 2:40 | 2025-06-05 | 2025-12-19 |
 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 | 2024-12-12 | 2025-07-02 |
+| [L’HARAKA](https://open.spotify.com/track/3mMki7s1p6KxtgphQDRHYB) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [L’HARAKA](https://open.spotify.com/album/489P1JurOGxA0jk9fQTdX4) | 2:50 | 2026-06-13 |  |
 | [M.I.M](https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [M.I.M](https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK) | 3:02 | 2023-12-09 | 2024-07-13 |
 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 | 2023-02-13 | 2023-10-27 |
 | [M3a L3echrane](https://open.spotify.com/track/39Tt3K2AHv4hJS4W6QIPgZ) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/0wmeXAtXpjaeevmIFsLPGh) | 3:52 | 2024-07-12 | 2024-11-18 |
@@ -332,7 +334,7 @@
 | [Mystère](https://open.spotify.com/track/7zFanGy616pVNrElqZFezE) | [B4D](https://open.spotify.com/artist/7JozyqjvLoyOv39mxg71zQ) | [Mystère](https://open.spotify.com/album/0HGpiaauvzzvDaqrmXC4zb) | 3:19 | 2026-03-25 | 2026-05-08 |
 | [Médaille d'or](https://open.spotify.com/track/1ga9yCBW8v3dgsRaRl1LVo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 2:37 | 2022-11-14 | 2022-12-13 |
 | [N13](https://open.spotify.com/track/0fekY543uGW1pGoSLuyvTr) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [N13](https://open.spotify.com/album/0plsfXFZk3RNyHMWBimiWS) | 2:39 | 2023-03-15 | 2023-05-26 |
-| [Nabra](https://open.spotify.com/track/0bQzTbyG0KppLpnMkS9SSe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 2:42 | 2026-01-09 |  |
+| [Nabra](https://open.spotify.com/track/0bQzTbyG0KppLpnMkS9SSe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 2:42 | 2026-01-09 | 2026-06-14 |
 | [Nadi Canadi](https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Nadi Canadi](https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE) | 3:41 | 2023-05-08 | 2023-06-23 |
 | [Nagazaki](https://open.spotify.com/track/6BXZv5RM5YweM71JiP1iy1) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Nagazaki](https://open.spotify.com/album/2aiusT32fJhAFWEHEghSlv) | 2:47 | 2026-04-07 |  |
 | [Naruto](https://open.spotify.com/track/6wpqdzIjSk5Fr2yM3znPjl) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Naruto](https://open.spotify.com/album/0UIrZk7WlwHmPDTojx6me5) | 2:49 | 2024-11-17 | 2024-11-29 |
@@ -492,7 +494,7 @@
 | [Valluminati](https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Valluminati](https://open.spotify.com/album/6elabSMRw648ju19QYg55P) | 2:20 | 2025-10-23 | 2025-12-11 |
 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 | 2024-11-13 | 2025-01-30 |
 | [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 | 2025-08-08 |  |
-| [violet](https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [violet](https://open.spotify.com/album/598wiKlgE2ZgHMOhV9uMRe) | 2:16 | 2025-07-16 |  |
+| [violet](https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [violet](https://open.spotify.com/album/598wiKlgE2ZgHMOhV9uMRe) | 2:16 | 2025-07-16 | 2026-06-14 |
 | [VIRA \- SLABA](https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [VIRA \- SLABA](https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb) | 2:48 | 2024-06-18 | 2024-11-13 |
 | [VISA](https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [VISA](https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly) | 2:04 | 2023-08-23 | 2024-05-18 |
 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 | 2023-01-06 | 2025-01-03 |

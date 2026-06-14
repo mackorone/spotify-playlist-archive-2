@@ -737,6 +737,32 @@
     },
     {
       "album": {
+        "name": "elixir remixes",
+        "url": "https://open.spotify.com/album/6W7i36tGCQu1MYkKZuW9KL"
+      },
+      "artists": [
+        {
+          "name": "Ebonii",
+          "url": "https://open.spotify.com/artist/5GgTzAqlQ9YkISvrWN4x7e"
+        },
+        {
+          "name": "Alektra",
+          "url": "https://open.spotify.com/artist/5wBJh4LU47mXERWr0DsR2Q"
+        },
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "dangerose",
+      "url": "https://open.spotify.com/track/2OLJ7bMkW54MYfD6BprIx0"
+    },
+    {
+      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/4TlN1FUusLJskg7Sl5HOwg"
       },
@@ -1837,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ"
+      },
+      "artists": [
+        {
+          "name": "Rafael Dies",
+          "url": "https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167916,
+      "name": "jealousy misery",
+      "url": "https://open.spotify.com/track/0x2N0M44PqRv2Dx4YtYJSy"
+    },
+    {
+      "album": {
         "name": "four dreams, one day",
         "url": "https://open.spotify.com/album/0NJfVdFby9KWkRWe4a5RjT"
       },
@@ -2572,6 +2616,24 @@
       "duration_ms": 178399,
       "name": "personal",
       "url": "https://open.spotify.com/track/3euE3Hrf5sGffTMoWaQw80"
+    },
+    {
+      "album": {
+        "name": "Cuerdas Nocturnas",
+        "url": "https://open.spotify.com/album/1HZmIA87i8LsruJ1rSglCC"
+      },
+      "artists": [
+        {
+          "name": "NayroMusic",
+          "url": "https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169991,
+      "name": "Pierdo el Control",
+      "url": "https://open.spotify.com/track/3C0bku6a2HSE7D7SdR1h0r"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 
 > The best hits from the biggest shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,331 likes - 49 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,328 likes - 49 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 | 22 | [Love Is an Open Door \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 2:04 |
 | 23 | [Popular](https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 4:01 |
 | 24 | [Friend Like Me](https://open.spotify.com/track/5f2TWu6R2YYCJtLQ0fP78H) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:35 |
-| 25 | [No Good Deed](https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 3:50 |
-| 26 | [Ex\-Wives](https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 5:50 |
+| 25 | [Ex\-Wives](https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 5:50 |
+| 26 | [No Good Deed](https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 3:50 |
 | 27 | [Waving Through A Window](https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Original Broadway Cast of Dear Evan Hansen](https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 3:56 |
 | 28 | [What Is This Feeling?](https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 3:48 |
 | 29 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:43 |

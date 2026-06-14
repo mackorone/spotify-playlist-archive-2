@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,621 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,622 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0usDEK.md) - [plain]
 | 34 | [No Tears \- In the End](https://open.spotify.com/track/1JQTXexqzRiUA2mVjGeem3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:56 |
 | 35 | [Only Heaven Can Wait \(For Love\) \(feat\. Donny Hathaway\)](https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack Featuring Donny Hathaway](https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg) | 4:06 |
 | 36 | [Only Heaven Can Wait \(For Love\) / You Are My Heaven \- Live Version](https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Live & More](https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ) | 9:30 |
-| 37 | [Bridge Over Troubled Water](https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 7:16 |
-| 38 | [HERE'S TO LOVE \(feat\. ROBERTA FLACK\)](https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [RENDEZVOUS \(2017 Remaster\)](https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M) | 4:39 |
+| 37 | [Mercy Mercy Me \- Live at Montreux, 2005](https://open.spotify.com/track/2zbX4mAR7ZZOs0utlZlXng) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Mercy Mercy Me \(Live at Montreux, 2005\)](https://open.spotify.com/album/35e5LeFW5xUq3mQonZtiak) | 6:03 |
+| 38 | [Bridge Over Troubled Water](https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 7:16 |
 | 39 | [And so It Goes](https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Oasis](https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4) | 3:32 |
 | 40 | [Feel the Fire \- Live Version](https://open.spotify.com/track/3psrv1KCESzitUw7FU0lyr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Live & More](https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ) | 8:26 |
-| 41 | [Mercy Mercy Me \- Live at Montreux, 2005](https://open.spotify.com/track/2zbX4mAR7ZZOs0utlZlXng) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Mercy Mercy Me \(Live at Montreux, 2005\)](https://open.spotify.com/album/35e5LeFW5xUq3mQonZtiak) | 6:03 |
+| 41 | [HERE'S TO LOVE \(feat\. ROBERTA FLACK\)](https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [RENDEZVOUS \(2017 Remaster\)](https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M) | 4:39 |
 | 42 | [It Might Be You](https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Roberta](https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1) | 10:02 |
 | 43 | [Sunday and Sister Jones](https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 5:00 |
 | 44 | [I Just Came Here To Dance](https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:03 |
 | 45 | [Ballad of the Sad Young Men](https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 7:00 |
-| 46 | [Until It's Time for You to Go](https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:59 |
+| 46 | [Reachin' for the Sky \- Live Version](https://open.spotify.com/track/7fkgZQETwePSUjTgydUl69) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Live & More](https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ) | 7:50 |
 | 47 | [To Love Somebody](https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 6:43 |
-| 48 | [Reachin' for the Sky \- Live Version](https://open.spotify.com/track/7fkgZQETwePSUjTgydUl69) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Live & More](https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ) | 7:50 |
-| 49 | [In the Name of Love](https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:58 |
+| 48 | [In the Name of Love](https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:58 |
+| 49 | [Until It's Time for You to Go](https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:59 |
 | 50 | [For All We Know](https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:40 |
 
-Snapshot ID: `ain6gAAAAADhGrrz5X0/BOPvuUucnLzi`
+Snapshot ID: `aitMAAAAAAAMF3PDb+cnztf6xz5zZE+p`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Olivia Rodrigo, ZAH1DE, FiNCH, LEA, Bebe Rexha & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,135 likes - 85 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,104 likes - 85 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 21 | [SCHÖNEBERGER JUNGS](https://open.spotify.com/track/0p9NBryeVeneaPx7Kvarra) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE) | [SCHÖNEBERGER JUNGS](https://open.spotify.com/album/2BEooA9wFEiMv44raxh0nV) | 2:40 |
 | 22 | [New York](https://open.spotify.com/track/0AWJRo6jXNibbsfDjKBdPi) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [New York](https://open.spotify.com/album/2YMTmgXj5mBZajV9oQQN1a) | 3:02 |
 | 23 | [Ich Wart Auf Dich](https://open.spotify.com/track/7swJnVcL7RwIrtE6MrQUAV) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Ich Wart Auf Dich](https://open.spotify.com/album/1VwRwhLd6uUMKccMOsYnhA) | 2:31 |
-| 24 | [POPKORN](https://open.spotify.com/track/6U0h1sVP05ZadxLgYDvraQ) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Hotel](https://open.spotify.com/album/710GKYlQJuDAPM5qQoYIdC) | 3:07 |
+| 24 | [Popkorn](https://open.spotify.com/track/6U0h1sVP05ZadxLgYDvraQ) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Hotel \(Premium Edition\)](https://open.spotify.com/album/710GKYlQJuDAPM5qQoYIdC) | 3:07 |
 | 25 | [Weight On My Shoulders](https://open.spotify.com/track/2dufQVp9S9MuVbHoDTG78y) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Weight On My Shoulders](https://open.spotify.com/album/2BWPGVKmzvbIM4fuwHM7jw) | 2:55 |
 | 26 | [LALISA](https://open.spotify.com/track/2yUaVDFgy4WW9LZNC9vdnc) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [LALISA/Gott sei Dank](https://open.spotify.com/album/7ISFCq5Z3UZpG63AgqKVuu) | 1:38 |
 | 27 | [GIRLS \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [GIRLS \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe) | 2:32 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 29 | [Pennsylvania Turnpike](https://open.spotify.com/track/4gXjzDndwLo65Mtc6zsNeZ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Pennsylvania Turnpike](https://open.spotify.com/album/5PcRDcKPzr2dORUnRWROwQ) | 3:40 |
 | 30 | [Hin und Her](https://open.spotify.com/track/5PcZTsUAo5ZH9JcTmBNy5t) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [Hin und Her](https://open.spotify.com/album/0pvSH2gyRSweJqDSelxPNK) | 2:38 |
 | 31 | [WHERE’S THE FUN?](https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [WHERE’S THE FUN?](https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl) | 3:25 |
-| 32 | [Endlos](https://open.spotify.com/track/7wkLavipEtUm5ib2GjseUw) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [The Cratez](https://open.spotify.com/artist/6ZA8p8sy5EJNH168vpFw8m) | [Endlos](https://open.spotify.com/album/0ZspwgKGDfteMjxAT8u30P) | 1:45 |
+| 32 | [Endlos](https://open.spotify.com/track/7wkLavipEtUm5ib2GjseUw) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [Endlos](https://open.spotify.com/album/0ZspwgKGDfteMjxAT8u30P) | 2:17 |
 | 33 | [Zuhause](https://open.spotify.com/track/0PHll7iX0GYtln2HTpdw8t) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Zuhause](https://open.spotify.com/album/5V83T1ylkkxNkhhD9O6WgQ) | 1:54 |
 | 34 | [Nirvana](https://open.spotify.com/track/40MQCDCTKImFEBGbh8zRaR) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Von Liebe & Entzug](https://open.spotify.com/album/4j6NnlH1lYPT36LZ9fs1Eh) | 2:37 |
 | 35 | [Planet](https://open.spotify.com/track/3jqrkCLNToczOkUbutDK2B) | [Berky](https://open.spotify.com/artist/2pMOrhY7Oit4TTRe6zEvJ2), [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [Planet](https://open.spotify.com/album/4AGuMclFqXQScBUF4OICPS) | 2:32 |

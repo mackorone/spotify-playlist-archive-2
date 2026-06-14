@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-353 songs - 21 hr 40 min
+354 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [FEED](https://open.spotify.com/track/2UnYYdvyWndHU4yPdoyAtZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:02 | 2023-12-13 |  |
 | [Feel A Way \(feat\. Kanye West & Brent Faiyaz\)](https://open.spotify.com/track/1GxoFQZxD7tFhQFUD9F0dD) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 3:33 | 2023-12-13 |  |
 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 | 2023-12-13 |  |
+| [Fight For Us \(feat\. Fave\)](https://open.spotify.com/track/3ql6nigejt92coPUMuPshO) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Generation of Kings](https://open.spotify.com/album/5K0fHzMU1aBOlWnKkZYqK4) | 3:17 | 2026-06-13 |  |
 | [Final Fantasy](https://open.spotify.com/track/44Du2IM1bGY7dicmLfXbUs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:39 | 2023-12-13 |  |
 | [Finally](https://open.spotify.com/track/0Ue6SyGx6Lm2DsQdxUsm5E) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Finally](https://open.spotify.com/album/1sJk23UnhRLiXqIXUZ9bf8) | 2:24 | 2023-12-13 |  |
 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 | 2023-12-13 |  |

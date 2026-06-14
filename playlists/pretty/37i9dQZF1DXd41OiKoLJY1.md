@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Carousel Casualties\]\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,953 likes - 36 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,962 likes - 36 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

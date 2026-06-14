@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 478,
+  "num_followers": 477,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAATby1S8UDxjc5Cxh69V0Km",
+  "snapshot_id": "aitMAAAAAABCziCaJpkvLAahCXrcKHPE",
   "tracks": [
     {
       "added_at": null,
@@ -139,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Hit Wonder",
-        "url": "https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l"
+        "name": "Nosebleeds: Encore",
+        "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
       },
       "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 200345,
-      "name": "One Hit Wonder",
-      "url": "https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d"
+      "duration_ms": 164213,
+      "name": "Sideways (feat. Meg Smith)",
+      "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
     },
     {
       "added_at": null,
@@ -187,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosebleeds: Encore",
-        "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
+        "name": "One Hit Wonder",
+        "url": "https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l"
       },
       "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164213,
-      "name": "Sideways (feat. Meg Smith)",
-      "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
+      "duration_ms": 200345,
+      "name": "One Hit Wonder",
+      "url": "https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 159383,
-      "name": "Hedonistic",
-      "url": "https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY"
+      "duration_ms": 142419,
+      "name": "I've got a bad feeling...",
+      "url": "https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 142419,
-      "name": "I've got a bad feeling...",
-      "url": "https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS"
+      "duration_ms": 159383,
+      "name": "Hedonistic",
+      "url": "https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 96733,
+  "num_followers": 96764,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAABR+rqDr0dowSijQ1V7Pqv2",
+  "snapshot_id": "aitMAAAAAAB7c6d4shb3010PZpMiCiT0",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 292485,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castles",
         "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 292485,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -255,26 +255,6 @@
       "duration_ms": 225195,
       "name": "Easy Runaway",
       "url": "https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
     },
     {
       "added_at": null,
@@ -303,6 +283,26 @@
       "duration_ms": 227554,
       "name": "Feel Like That (feat. Bradley Nowell)",
       "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 279323,
-      "name": "Just Another Dream",
-      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
+      "duration_ms": 266549,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 266549,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
+      "duration_ms": 279323,
+      "name": "Just Another Dream",
+      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
     },
     {
       "added_at": null,

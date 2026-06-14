@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > ANTONIA in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,759 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,758 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 99 | [Arma Puntata \(feat\. 22simba\)](https://open.spotify.com/track/2tchckpnk6RZ2yPyB09eeG) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [XS](https://open.spotify.com/album/3XIpwOtJ6Y0tXnx7M2CSJ2) | 2:51 |
 | 100 | [So What](https://open.spotify.com/track/2SBKzqeS4JBGoUwGWdlIEj) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [So What](https://open.spotify.com/album/1wyODxvIhnI7vxS8BPksbC) | 2:32 |
 
-Snapshot ID: `AAAAAHdDoIlGz82qTDAxxWxvEhVlQ7Z6`
+Snapshot ID: `AAAAAEHJdtmGXwp6VjxIwIDJKLuzg4J1`

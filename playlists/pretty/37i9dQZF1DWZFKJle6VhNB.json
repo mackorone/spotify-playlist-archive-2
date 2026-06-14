@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 444216,
+  "num_followers": 444215,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "menina solta",
-        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "menina solta",
-      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 207093,
       "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
       "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "menina solta",
+        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "menina solta",
+      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Amor de Verdade",
         "url": "https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 197333,
       "name": "Amor de Verdade",
       "url": "https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -511,6 +511,46 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+      },
+      "artists": [
+        {
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "50 Reais",
+        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 207104,
+      "name": "50 Reais",
+      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "SENTAD\u00c3O",
         "url": "https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ"
       },
@@ -555,26 +595,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "50 Reais",
-        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 207104,
-      "name": "50 Reais",
-      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Ao Vivo",
         "url": "https://open.spotify.com/album/16TISVZjZU8Y3A0rxpCJgr"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 275360,
       "name": "Temporal",
       "url": "https://open.spotify.com/track/4C0jbc9jPcDmPDGphIdDoN"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
-      },
-      "artists": [
-        {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Vem Ne Mim",
-        "url": "https://open.spotify.com/album/2MFpkPwvZn1UEoPy6niXJg"
-      },
-      "artists": [
-        {
-          "name": "Vingadora",
-          "url": "https://open.spotify.com/artist/7mP8fPbxbcw0iLEO47t2lM"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Pared\u00e3o Metralhadora",
-      "url": "https://open.spotify.com/track/5daPObs4UbM8ZGecl0NIVz"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Eu Sou a Diva Que Voc\u00ea Quer Copiar",
         "url": "https://open.spotify.com/album/4MLicWEL0VWklsLxmNHRaa"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 146346,
       "name": "Eu Sou a Diva Que Voc\u00ea Quer Copiar",
       "url": "https://open.spotify.com/track/5oU2Oa0dIlqTMRSEAnIlY5"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Vem Ne Mim",
+        "url": "https://open.spotify.com/album/2MFpkPwvZn1UEoPy6niXJg"
+      },
+      "artists": [
+        {
+          "name": "Vingadora",
+          "url": "https://open.spotify.com/artist/7mP8fPbxbcw0iLEO47t2lM"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Pared\u00e3o Metralhadora",
+      "url": "https://open.spotify.com/track/5daPObs4UbM8ZGecl0NIVz"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "O Carnaval De Ivete Sangalo - Sai Do Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0ggbRn1mM1fojrFOGJl6lR"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Tempo De Alegria",
+      "url": "https://open.spotify.com/track/3bRw8DppeHRTm1AxqEP1Po"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Duetos",
         "url": "https://open.spotify.com/album/7duv0ozDPdbrjVq38Hhw9x"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 215169,
       "name": "Loka",
       "url": "https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "O Carnaval De Ivete Sangalo - Sai Do Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0ggbRn1mM1fojrFOGJl6lR"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "Tempo De Alegria",
-      "url": "https://open.spotify.com/track/3bRw8DppeHRTm1AxqEP1Po"
     },
     {
       "added_at": "2022-02-10 18:18:16",

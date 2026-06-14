@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 179187,
       "name": "Machefounich | \u0645\u0627\u0634\u0627\u0641\u0648\u0646\u064a\u0634",
       "url": "https://open.spotify.com/track/2lXA71K1NU6XMFaMUNOSFm"
@@ -2938,6 +2938,24 @@
       "duration_ms": 220000,
       "name": "Souk",
       "url": "https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr"
+    },
+    {
+      "album": {
+        "name": "Soumi Ghali",
+        "url": "https://open.spotify.com/album/37lac9I41TB0xEslxzgFyd"
+      },
+      "artists": [
+        {
+          "name": "Mouka",
+          "url": "https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Soumi Ghali",
+      "url": "https://open.spotify.com/track/06pmPZIJER841SqzqkOlgu"
     },
     {
       "album": {

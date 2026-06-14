@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-540 songs - 1 day 9 hr 21 min
+541 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Stone](https://open.spotify.com/track/6AbB4SLDajR2skDmAs5lVc) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Stone](https://open.spotify.com/album/4ieLV6fk5MkrgRcgeQWkO8) | 3:57 | 2026-06-02 |  |
 | [Stop the Bleed](https://open.spotify.com/track/6SRtsdb5b1XfiQZo3vOBL1) | [Dreamer](https://open.spotify.com/artist/5LTRsVTTIAo7vGHEEzzACU) | [Stop the Bleed](https://open.spotify.com/album/5frACqlScmLdqmPv3sB7nT) | 5:24 | 2026-03-18 | 2026-04-20 |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-11 |  |
+| [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 | 2026-06-13 |  |
 | [Streetlights](https://open.spotify.com/track/7ubD7mlFekl7QGt6Vb6MAE) | [Dylan Camp](https://open.spotify.com/artist/0j2dNJnUm8oeQGR10pbBGv) | [Streetlights](https://open.spotify.com/album/5HpOdgBKfslIGUTMCGrXJP) | 4:19 | 2025-12-11 | 2026-01-05 |
 | [Strength](https://open.spotify.com/track/7sDdpxYqkM1iNdlKeICNpQ) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9) | [Strength](https://open.spotify.com/album/77PRbZD0JWk9peqfMxVsM1) | 4:12 | 2025-11-26 | 2026-01-05 |
 | [Stunned & Confused](https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:17 | 2026-01-22 | 2026-02-18 |

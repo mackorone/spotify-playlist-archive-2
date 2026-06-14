@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Philipp Poisel
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,313 likes - 91 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,261 likes - 91 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 7 | [Ein Leben lang](https://open.spotify.com/track/1eug6WtF4n9ngHSh3WWbAk) | [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Ein Leben lang](https://open.spotify.com/album/6s4s6uizvlMhARx5eW8Z5G) | 2:32 |
 | 8 | [LALISA](https://open.spotify.com/track/2yUaVDFgy4WW9LZNC9vdnc) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [LALISA/Gott sei Dank](https://open.spotify.com/album/7ISFCq5Z3UZpG63AgqKVuu) | 1:38 |
 | 9 | [Cool Girl](https://open.spotify.com/track/5NM7G83hLcTimRc2BOGYcY) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [Cool Girl](https://open.spotify.com/album/711dPM25Q6pgOPtgjvz3b2) | 2:34 |
-| 10 | [POPKORN](https://open.spotify.com/track/6U0h1sVP05ZadxLgYDvraQ) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Hotel](https://open.spotify.com/album/710GKYlQJuDAPM5qQoYIdC) | 3:07 |
+| 10 | [Popkorn](https://open.spotify.com/track/6U0h1sVP05ZadxLgYDvraQ) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Hotel \(Premium Edition\)](https://open.spotify.com/album/710GKYlQJuDAPM5qQoYIdC) | 3:07 |
 | 11 | [Einfach Nichts](https://open.spotify.com/track/1DaQUiNLccpiUHfVmgyeR5) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Einfach Nichts](https://open.spotify.com/album/3taHpQuD4yeFghjzdgQYTl) | 3:14 |
 | 12 | [Komet](https://open.spotify.com/track/35GKgDcswCvp0569VYbcVi) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Komet](https://open.spotify.com/album/11pxsHHLazYNScW5mz9GSN) | 3:36 |
 | 13 | [Rodeo](https://open.spotify.com/track/091jQLAysaH7en7vCLI6bA) | [Anne West](https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP) | [Rodeo](https://open.spotify.com/album/3zhU6kKhFvIj0tgG1SqCgg) | 1:56 |

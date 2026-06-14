@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299270,
+  "num_followers": 299288,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -59,8 +59,8 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -143,8 +143,8 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
+        "name": "sailing",
+        "url": "https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 244221,
+      "name": "sailing",
+      "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
         "name": "the van",
         "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 216000,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
-        "name": "sailing",
-        "url": "https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 244221,
-      "name": "sailing",
-      "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 181737,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
         "name": "Dive Into The Ocean",
         "url": "https://open.spotify.com/album/3wNI7uuXR8S3PKVjjJ6JMA"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 218453,
       "name": "Dive Into The Ocean (Prod. By Alok)",
       "url": "https://open.spotify.com/track/1QUE9sIUcCA2uvcieOQ2uJ"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 181737,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
-        "name": "Yellow Eyes",
-        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 224240,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
+        "name": "Yellow Eyes",
+        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/60WKdl73IpqWlbwEINjhBe"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 160220,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/59ibpnGNQLxhg5rnQVNxOn"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
         "name": "Sweet Emotion",
         "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/60WKdl73IpqWlbwEINjhBe"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160220,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/59ibpnGNQLxhg5rnQVNxOn"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
         "name": "The Avenue wave 1",
         "url": "https://open.spotify.com/album/32evpf12hMTPw544bBrMsq"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 254119,
       "name": "Back Alley Rhythm",
       "url": "https://open.spotify.com/track/3hJvsWP7gzv09iosdDmiAu"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
-      },
-      "artists": [
-        {
-          "name": "Malted Milk",
-          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
-        }
-      ],
-      "duration_ms": 241398,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -739,6 +723,22 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
+      },
+      "artists": [
+        {
+          "name": "Malted Milk",
+          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
+        }
+      ],
+      "duration_ms": 241398,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
         "name": "Whether I Win or Lose",
         "url": "https://open.spotify.com/album/6qFJGE4q3yu20PrJu4cTpr"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 242460,
       "name": "Whether I Win or Lose",
       "url": "https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -787,6 +771,22 @@
       "duration_ms": 214893,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/4YV1PTqHU45t70PJZSlqom"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k"
+        "name": "Fish in a Bowl",
+        "url": "https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp"
       },
       "artists": [
         {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+          "name": "Annie Lalalove",
+          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
         }
       ],
-      "duration_ms": 198287,
-      "name": "555",
-      "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
+      "duration_ms": 222400,
+      "name": "Fish in a Bowl",
+      "url": "https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7"
     }
   ],
   "unique_name": "Feel Good",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 155 songs - 8 hr 51 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 157 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,5 +163,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 153 | [Tu Primera](https://open.spotify.com/track/2YlY78siKTJAfYyLF1yAB4) | [Carmen Ferrer](https://open.spotify.com/artist/359XJlUvw7EUMAGeeGJ5Wk) | [Tu Primera](https://open.spotify.com/album/7ad6EW2XS1NfyktvuJl1uz) | 3:30 |
 | 154 | [Body 2 Body](https://open.spotify.com/track/6CtYSbKpNMIMuoGKRW5Al6) | [Elijah Hues](https://open.spotify.com/artist/3UQTDqiD4uvwcWKsStIL70) | [Body 2 Body](https://open.spotify.com/album/2ak3EIRlVn82ajlEpeZJ4n) | 1:40 |
 | 155 | [Never Meet Again](https://open.spotify.com/track/412lpqcx14nRzxB3orTega) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [Never Meet Again](https://open.spotify.com/album/3kRTgFuPKEhcIiwyJBHVoj) | 1:03 |
+| 156 | [Boy Next Door](https://open.spotify.com/track/5EHR4uVoXlshVyS5GpsiaD) | [Puri](https://open.spotify.com/artist/66Fil4hOah2YFjf7HRBRGz) | [Boy Next Door](https://open.spotify.com/album/5dqky6vKPGW81nAaSshzr3) | 2:03 |
+| 157 | [Alwida](https://open.spotify.com/track/1pip1R2XZVF6mq0SZiUlJH) | [Melodic Devesh](https://open.spotify.com/artist/2WAxrHRaxuJMtEHNF31qjr) | [Alwida](https://open.spotify.com/album/3uILzk0zDdni99ISE7Wi3N) | 4:05 |
 
-Snapshot ID: `AAAVG9kUT9Rhxv2n263FtGgCcbM3GJUh`
+Snapshot ID: `AAAVHchTTHfZJuArBlvYJXfCjov7DQsC`

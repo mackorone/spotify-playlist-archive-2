@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > What track is BTS's Spotify\-exclusive music video coming out on the 19th? Vote now to guess!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,082,785 likes - 323 songs - 18 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,083,601 likes - 323 songs - 18 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

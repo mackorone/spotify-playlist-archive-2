@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Bongeziwe Mabandla, TxC,  K.O, Nanette, Will Linley and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,413 likes - 69 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,450 likes - 69 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 28 | [Find A Way](https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Find A Way](https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK) | 2:34 |
 | 29 | [highway , dimas](https://open.spotify.com/track/5okF3lhSkbShCxHrCPTn3j) | [THE NORTHMOB.](https://open.spotify.com/artist/0iZ4kkTa0bDsMz9Qgrr0zx), [Trophy](https://open.spotify.com/artist/65vyqjRCxzXjN1TQ3wxoH2), [Orieblxckmaestro](https://open.spotify.com/artist/1fBoGGZkTvoMMUD90ZV5kj), [MajorIcey](https://open.spotify.com/artist/3D1v2h1bVnBVHAx1iSocJq), [Carlow Picasso](https://open.spotify.com/artist/4VoY4qXMbV8nRrMYagmJWs) | [highway , dimas](https://open.spotify.com/album/0HTixkmlawLjYQj8WwmaOu) | 3:07 |
 | 30 | [They Talk \- II](https://open.spotify.com/track/4oTH0WMGscs6a0giJZQ0Pr) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [JustSam](https://open.spotify.com/artist/2Ao8EyQwyG0jjPcr3t4d9o), [Dukii](https://open.spotify.com/artist/2a6JGeKaiaBPtBBWoOpkhx), [LAWKIID](https://open.spotify.com/artist/4up29VoP1PyOcSItAt87oK), [Mbatha](https://open.spotify.com/artist/2woCnUC5ZVgxloOlqnmzq6) | [They Talk \(II\)](https://open.spotify.com/album/5NJf3JRbluCGe9cFAUFKPS) | 3:48 |
-| 31 | [Jiva 2.0 \- Bacardi Remix](https://open.spotify.com/track/4gEQXAZB7RCCbpNpuD71Tn) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Zenn BK](https://open.spotify.com/artist/0CafURNNqrmlRnBZgcVLfS) | [Jiva 2.0 \(Bacardi Remix\)](https://open.spotify.com/album/7MzMTVhuD5pA5ysvl1sT3J) | 4:09 |
+| 31 | [Jiva 2.0 \- Bacardi Remix](https://open.spotify.com/track/4gEQXAZB7RCCbpNpuD71Tn) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Zenn'Bk](https://open.spotify.com/artist/4zgB4UJdwKp7n5g5vDwfIH) | [Jiva 2.0 \(Bacardi Remix\)](https://open.spotify.com/album/7MzMTVhuD5pA5ysvl1sT3J) | 4:09 |
 | 32 | [Holiday](https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Holiday](https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv) | 1:59 |
 | 33 | [Go Again](https://open.spotify.com/track/6zoLCHH5mKApNOmTsmVYhN) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Go Again](https://open.spotify.com/album/0S9ZGL0e712EkZQ9nuFOW6) | 2:12 |
 | 34 | [Vending Machine](https://open.spotify.com/track/3FampdJjnIzpdxLyTtTCyb) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Vending Machine](https://open.spotify.com/album/3JH7oecZaWwIlg4XbvW2IX) | 3:31 |

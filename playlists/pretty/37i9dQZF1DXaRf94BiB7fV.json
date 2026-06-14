@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels in India. Cover - Hemang",
-  "num_followers": 61637,
+  "num_followers": 61639,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
@@ -86,6 +86,10 @@
         {
           "name": "Janani Kamakshi",
           "url": "https://open.spotify.com/artist/7jkSVwry5EOYQlZRoEAkLn"
+        },
+        {
+          "name": "Shubhank Chaube",
+          "url": "https://open.spotify.com/artist/0uvov1rJmPqLOrhHCEtV6p"
         }
       ],
       "duration_ms": 167999,

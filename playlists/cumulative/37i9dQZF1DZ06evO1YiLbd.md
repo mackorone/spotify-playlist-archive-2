@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-211 songs - 9 hr 45 min
+212 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Our Journey \(feat\. AKKOGORILLA\)](https://open.spotify.com/track/1UqpL7fkplOA3fqFEKtTRk) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Hulu Anime](https://open.spotify.com/artist/4zO0OJ7PBiY6Sy3tiji0eS), [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [Our Journey \(feat\. AKKOGORILLA\)](https://open.spotify.com/album/1dnWvIAu634Ph0NiOxdCQZ) | 1:53 | 2023-07-29 | 2023-08-28 |
 | [Out of this world](https://open.spotify.com/track/1Hp0ED7TWgmOUT97zCtLXH) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [SAKAMOTO DAYS Original Sound Track \(Anime original Mix Vol.1\)](https://open.spotify.com/album/0AtteZMvoS7vviPXvl54LI) | 2:42 | 2025-09-26 | 2025-10-20 |
 | [Overlay](https://open.spotify.com/track/7jiQGNVSxAmnEy5z5mtYo2) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\)](https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz) | 2:13 | 2025-12-21 | 2026-04-18 |
+| [Photo of the Mother](https://open.spotify.com/track/3l15W38m58pCRUmzoZOXIH) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [YUUGAO Original Soundtrack](https://open.spotify.com/album/75UvJLYYrTVVWbDtNku3BF) | 1:11 | 2026-06-14 |  |
 | [POP STEP](https://open.spotify.com/track/7qzTaRnWhaqD9nbFQcMhfw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [ポップ☆ステップ](https://open.spotify.com/artist/4acDr2jLgAGAFtRDeTr4cq) | [POP STEP](https://open.spotify.com/album/4VKpIGkrUd3NXxedfLNCPR) | 1:42 | 2025-04-10 | 2025-05-08 |
 | [POP☆STEP \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/4s3M8iAxCO4z6CiRL2sctF) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [POP STEP](https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX) | [POP☆STEP \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/4WRjQepRunSqXRZ8aJpRKW) | 1:42 | 2025-05-08 | 2025-07-20 |
 | [Quintuble](https://open.spotify.com/track/09hawwfdE4t6tMJcqB4boW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Series Soundtrack\)](https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1) | 2:46 | 2024-10-25 | 2025-03-21 |
@@ -97,7 +98,7 @@
 | [Sword of Courage](https://open.spotify.com/track/3WfVVKF0evK1vkfNj3oEEd) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録](https://open.spotify.com/album/3KS2hEGBf4rUhwb9pZtUFZ) | 4:02 | 2024-10-02 |  |
 | [TENDERNESS](https://open.spotify.com/track/77UWObBTpXLmott7WRNtLW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [BGM FROM TV SERIES "MEDALIST"](https://open.spotify.com/album/2i8EU2h3ys89ZE09cihi9q) | 2:03 | 2025-04-10 | 2025-04-25 |
 | [The Demon Lord](https://open.spotify.com/track/6gsulI9GDDaXrBRChQdmOj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Pre\-Release Soundtrack\)](https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy) | 3:10 | 2024-07-22 | 2026-01-26 |
-| [The Fields of Rigarden](https://open.spotify.com/track/7lqiSW1H38DPiRc6O6TO8l) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の捌](https://open.spotify.com/album/3BCk6XjIy0TfwJNN7pFmxt) | 1:50 | 2026-06-03 |  |
+| [The Fields of Rigarden](https://open.spotify.com/track/7lqiSW1H38DPiRc6O6TO8l) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の捌](https://open.spotify.com/album/3BCk6XjIy0TfwJNN7pFmxt) | 1:50 | 2026-06-03 | 2026-06-14 |
 | [The Force of All For One](https://open.spotify.com/track/4QWMaW2NDLjREyxZa6qDGY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:53 | 2022-12-23 |  |
 | [The Last Wielder](https://open.spotify.com/track/391YmNKpOcOx5BQvAVBga4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 3:17 | 2023-03-24 | 2023-06-16 |
 | [The Reason I Have Insomnia](https://open.spotify.com/track/7bwns0di4JMdbrQm5rDKK2) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:12 | 2023-05-31 | 2023-07-08 |

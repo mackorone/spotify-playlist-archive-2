@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 141739,
+  "num_followers": 141785,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -519,30 +519,6 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 224684,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
-    },
-    {
-      "added_at": "2026-06-12 00:01:47",
-      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
+    },
+    {
+      "added_at": "2026-06-12 00:01:47",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 224684,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
     },
     {
       "added_at": "2026-06-12 00:01:47",
@@ -603,42 +603,6 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-06-12 00:01:47",
-      "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 192419,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
-    },
-    {
-      "added_at": "2026-06-12 00:01:47",
-      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -663,6 +627,42 @@
       "duration_ms": 148550,
       "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
       "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
+    },
+    {
+      "added_at": "2026-06-12 00:01:47",
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+    },
+    {
+      "added_at": "2026-06-12 00:01:47",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "added_at": "2026-06-12 00:01:47",
@@ -771,7 +771,7 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
-        "name": "till the wheels fall off",
+        "name": "Till The Wheels Fall Off",
         "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
       },
       "artists": [
@@ -785,7 +785,7 @@
         }
       ],
       "duration_ms": 169655,
-      "name": "till the wheels fall off",
+      "name": "Till The Wheels Fall Off",
       "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 147302,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
-    },
-    {
-      "added_at": "2026-06-12 00:01:47",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV"
       },
@@ -895,6 +875,26 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 147302,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
+    },
+    {
+      "added_at": "2026-06-12 00:01:47",
+      "album": {
         "name": "Attack",
         "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
-        "name": "Yori yori",
-        "url": "https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF"
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
       },
       "artists": [
         {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Yori yori",
-      "url": "https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx"
+      "duration_ms": 165625,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
     },
     {
       "added_at": "2026-06-12 00:01:47",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
-        "name": "Waist",
-        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Waist",
-      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-06-12 00:01:47",
-      "album": {
         "name": "All Over You",
         "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 145519,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
+    },
+    {
+      "added_at": "2026-06-12 00:01:47",
+      "album": {
+        "name": "Yori yori",
+        "url": "https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Yori yori",
+      "url": "https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx"
     },
     {
       "added_at": "2026-06-12 00:01:47",
@@ -995,6 +995,26 @@
       "duration_ms": 175000,
       "name": "Shakabulizzy - Remix",
       "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
+    },
+    {
+      "added_at": "2026-06-12 00:01:47",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb"
+      },
+      "artists": [
+        {
+          "name": "Oberz",
+          "url": "https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2"
     },
     {
       "added_at": "2026-06-12 00:01:47",
@@ -1023,26 +1043,6 @@
       "duration_ms": 183947,
       "name": "Come Slide",
       "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
-    },
-    {
-      "added_at": "2026-06-12 00:01:47",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb"
-      },
-      "artists": [
-        {
-          "name": "Oberz",
-          "url": "https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2"
     },
     {
       "added_at": "2026-06-12 00:01:47",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+        "name": "Uzama The 3rd",
+        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+      "duration_ms": 154268,
+      "name": "Osusu",
+      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
     },
     {
       "added_at": "2026-06-12 00:01:47",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
-        "name": "Uzama The 3rd",
-        "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
       },
       "artists": [
         {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 154268,
-      "name": "Osusu",
-      "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
     },
     {
       "added_at": "2026-06-12 00:01:47",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
+        "name": "2:02PM IN LONDON (FREESTYLE)",
+        "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "2:02PM IN LONDON (FREESTYLE)",
+      "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
+    },
+    {
+      "added_at": "2026-06-12 00:01:47",
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
-    },
-    {
-      "added_at": "2026-06-12 00:01:47",
-      "album": {
-        "name": "2:02PM IN LONDON (FREESTYLE)",
-        "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "2:02PM IN LONDON (FREESTYLE)",
-      "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
     },
     {
       "added_at": "2026-06-12 00:01:47",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-06-12 00:01:47",
       "album": {
-        "name": "Wrong Places",
-        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
-    },
-    {
-      "added_at": "2026-06-12 00:01:47",
-      "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 196250,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm"
+    },
+    {
+      "added_at": "2026-06-12 00:01:47",
+      "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
       "added_at": "2026-06-12 00:01:47",

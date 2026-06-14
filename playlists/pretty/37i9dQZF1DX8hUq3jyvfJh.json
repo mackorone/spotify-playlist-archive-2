@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 193865,
+  "num_followers": 193875,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Outra Ladeira",
-        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
-      },
-      "artists": [
-        {
-          "name": "Let\u00edcia Fialho",
-          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
-        }
-      ],
-      "duration_ms": 228312,
-      "name": "Outra Ladeira",
-      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Slap Sessions: Melly (Ao Vivo)",
         "url": "https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 166800,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Outra Ladeira",
+        "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Fialho",
+          "url": "https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN"
+        }
+      ],
+      "duration_ms": 228312,
+      "name": "Outra Ladeira",
+      "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
     },
     {
       "added_at": "2026-04-01 03:00:06",

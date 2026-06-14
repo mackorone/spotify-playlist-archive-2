@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: TSHA, HoneyLuv & Ellie Maxwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,757 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,759 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 74 | [Street Wave](https://open.spotify.com/track/7wNSIsR4P9KocevzBFKoR8) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d), [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW) | [Lift Off](https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa) | 12:47 |
 | 75 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 |
 
-Snapshot ID: `AAAAALxFL3t/sRmkU1+73p3GGlDlQ59U`
+Snapshot ID: `AAAAAOXmOKXniTrsmR2ZjZ8PZg1JTSwM`

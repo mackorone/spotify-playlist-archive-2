@@ -3351,6 +3351,40 @@
     },
     {
       "album": {
+        "name": "Straata",
+        "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310088,
+      "name": "Mude Mude",
+      "url": "https://open.spotify.com/track/1cm7fPLAmPqI0zNimGbgbG"
+    },
+    {
+      "album": {
         "name": "NDEYA NDEYA",
         "url": "https://open.spotify.com/album/2PYbwckWnjwkGJNjRQaj8M"
       },
@@ -3782,7 +3816,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 450425,
       "name": "Pure Bliss",
       "url": "https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe"
@@ -3852,7 +3886,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 324700,
       "name": "Roba Letheka (AmaPiano Remix)",
       "url": "https://open.spotify.com/track/66l4V5ojB4sBzLEuWJbLS4"
@@ -4109,6 +4143,32 @@
     },
     {
       "album": {
+        "name": "Shashalaza",
+        "url": "https://open.spotify.com/album/2xNxKyvVd76hFP61FyQhPg"
+      },
+      "artists": [
+        {
+          "name": "Airburn Sounds",
+          "url": "https://open.spotify.com/artist/2LkaC9qdFjuAWym0SCTHZ4"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "DJ Njabsta",
+          "url": "https://open.spotify.com/artist/7qZ8aOzDoBevTRvmfqNWXC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450309,
+      "name": "Shashalaza",
+      "url": "https://open.spotify.com/track/1j60JJ15Cnd32LhRZOsjmf"
+    },
+    {
+      "album": {
         "name": "Shayimpempe",
         "url": "https://open.spotify.com/album/6EcnO6qmWJzUuPODOMK6TH"
       },
@@ -4132,6 +4192,40 @@
       "duration_ms": 255049,
       "name": "Shayimpempe",
       "url": "https://open.spotify.com/track/0Rl25OrMjAz4w54JfkjGBo"
+    },
+    {
+      "album": {
+        "name": "Shokozela",
+        "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
+      },
+      "artists": [
+        {
+          "name": "Officixl RSA",
+          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
+        },
+        {
+          "name": "Lowbass Djy",
+          "url": "https://open.spotify.com/artist/21KhXtANqXDgtgCNdcZXhz"
+        },
+        {
+          "name": "Ndibo Ndibs",
+          "url": "https://open.spotify.com/artist/0NiFfDud2e3b99NDDCLE3q"
+        },
+        {
+          "name": "Matute Boy",
+          "url": "https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492759,
+      "name": "Shokozela",
+      "url": "https://open.spotify.com/track/1SFAM86VESPzwZbZOY3ndb"
     },
     {
       "album": {
@@ -4192,7 +4286,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 416653,
       "name": "Sihamba Sonke",
       "url": "https://open.spotify.com/track/79lSg4HBwmulMQmKieeCU6"

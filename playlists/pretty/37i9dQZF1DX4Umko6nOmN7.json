@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 612132,
+  "num_followers": 612116,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "A Beautiful Life (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "A Beautiful Life (From the Netflix Film \u2018A Beautiful Life\u2019)",
+      "url": "https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Kingmaker (with Julia Michaels)",
         "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 188106,
       "name": "Kingmaker (with Julia Michaels)",
       "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "A Beautiful Life (Music From The Netflix Film)",
-        "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "A Beautiful Life (From the Netflix Film \u2018A Beautiful Life\u2019)",
-      "url": "https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "First Heartbreak",
-        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
-      },
-      "artists": [
-        {
-          "name": "LAUV",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 180486,
-      "name": "First Heartbreak",
-      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Genom livet",
         "url": "https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 167156,
       "name": "Genom livet",
       "url": "https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+      },
+      "artists": [
+        {
+          "name": "LAUV",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "A Lovestory",
-        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "A Lovestory",
-      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 211000,
       "name": "Du & jag",
       "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Hus utan speglar",
-        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
-      },
-      "artists": [
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 164531,
-      "name": "Hus utan speglar",
-      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "House On Fire",
         "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 179561,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Hus utan speglar",
+        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 164531,
+      "name": "Hus utan speglar",
+      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "It's Not Easy to Write a Love Song",
-        "url": "https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "It's Not Easy to Write a Love Song",
-      "url": "https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Back To My Roots",
         "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 202453,
       "name": "Back To My Roots - Acoustic Version",
       "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "It's Not Easy to Write a Love Song",
+        "url": "https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "It's Not Easy to Write a Love Song",
+      "url": "https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI"
     },
     {
       "added_at": "2026-06-11 22:01:30",

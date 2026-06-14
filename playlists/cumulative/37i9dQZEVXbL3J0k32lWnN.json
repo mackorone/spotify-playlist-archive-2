@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "12 Dage",
+        "url": "https://open.spotify.com/album/2SegepYWdJtTAgHPVU20H0"
+      },
+      "artists": [
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153472,
+      "name": "12 Dage",
+      "url": "https://open.spotify.com/track/4SFx0z3e0MHU5RL6aA26SS"
+    },
+    {
+      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -1548,7 +1566,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 178413,
       "name": "Adrenalin",
       "url": "https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj"
@@ -3289,6 +3307,28 @@
     },
     {
       "album": {
+        "name": "Backshots",
+        "url": "https://open.spotify.com/album/13PMkppu9s4tzjzKefhNzp"
+      },
+      "artists": [
+        {
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+        },
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204030,
+      "name": "Backshots",
+      "url": "https://open.spotify.com/track/05rmBmmwJEk2qvhoK9PK98"
+    },
+    {
+      "album": {
         "name": "Ternet Ninja 2 (Soundtrack)",
         "url": "https://open.spotify.com/album/1GL7o6SorQ9Us3qOmt1zT7"
       },
@@ -3500,6 +3540,24 @@
       "duration_ms": 146949,
       "name": "Baddies & Draris",
       "url": "https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna"
+    },
+    {
+      "album": {
+        "name": "Badebro",
+        "url": "https://open.spotify.com/album/2nAKzMmmaiYggSTCs80JZt"
+      },
+      "artists": [
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201894,
+      "name": "Badebro",
+      "url": "https://open.spotify.com/track/3ana92dtECBiBiebGSCS6F"
     },
     {
       "album": {
@@ -5346,7 +5404,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 182608,
       "name": "Blodigt (feat. Annika)",
       "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
@@ -5444,7 +5502,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 228590,
       "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
@@ -7654,7 +7712,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 245565,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
@@ -11631,6 +11689,24 @@
     },
     {
       "album": {
+        "name": "Dr\u00f8mmer",
+        "url": "https://open.spotify.com/album/4CYOdoS3dnZs3RJaMiDqgL"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172352,
+      "name": "Dr\u00f8mmer",
+      "url": "https://open.spotify.com/track/3EP2PXtcM3NLO2R3QuRlRh"
+    },
+    {
+      "album": {
         "name": "Julemusik 2022",
         "url": "https://open.spotify.com/album/1BzZZjo4xeT5HrJm2hiEBx"
       },
@@ -12678,7 +12754,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 216755,
       "name": "En ulykke kommer sj\u00e6ldent alene",
       "url": "https://open.spotify.com/track/4smtLEQS8f1jJRgdYaplm6"
@@ -14424,7 +14500,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 194426,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/0UolqOx9kSyXyu8ZYL22iW"
@@ -14864,7 +14940,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 177220,
       "name": "FIS & BALLADE (feat. Benny Jamz)",
       "url": "https://open.spotify.com/track/4xAUsZHFsyL5Y2HS1IpkxM"
@@ -15242,7 +15318,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 182812,
       "name": "Foden p\u00e5 pedalen",
       "url": "https://open.spotify.com/track/3OAszfPOORVwn6aRAMNS9F"
@@ -16496,7 +16572,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 174374,
       "name": "F\u00f8r Vi G\u00e5r Hjem - naughty version",
       "url": "https://open.spotify.com/track/3JsCDUE7QrdUjg0DHnsUf2"
@@ -25728,7 +25804,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 207020,
       "name": "Knuser Hjerter",
       "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
@@ -26146,6 +26222,24 @@
       "duration_ms": 170986,
       "name": "Kongespil - Tinka og Kongespillet",
       "url": "https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH"
+    },
+    {
+      "album": {
+        "name": "Kort & Kontant",
+        "url": "https://open.spotify.com/album/7GDLqPFMdNBc7DfhOd5nnV"
+      },
+      "artists": [
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205173,
+      "name": "Kort & Kontant",
+      "url": "https://open.spotify.com/track/1VqsSu8ypQfuFqWSEhYXVW"
     },
     {
       "album": {
@@ -28866,6 +28960,24 @@
     {
       "album": {
         "name": "Lyse N\u00e6tter",
+        "url": "https://open.spotify.com/album/1oEI61D1UyQzAgZU4z8Rem"
+      },
+      "artists": [
+        {
+          "name": "Alberte Winding",
+          "url": "https://open.spotify.com/artist/42mipk3GhuRQ8CjFTBDGqt"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Lyse N\u00e6tter",
+      "url": "https://open.spotify.com/track/2qrxwBsuhtAopI7inJxW6u"
+    },
+    {
+      "album": {
+        "name": "Lyse N\u00e6tter",
         "url": "https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4"
       },
       "artists": [
@@ -29635,6 +29747,24 @@
     },
     {
       "album": {
+        "name": "Start 11",
+        "url": "https://open.spotify.com/album/3F5Cc03oc2AJUqfLFAfDo1"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141022,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/4ARdA06K4N7xiuZD5zN3VO"
+    },
+    {
+      "album": {
         "name": "FORZA",
         "url": "https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi"
       },
@@ -29668,10 +29798,32 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 136602,
       "name": "Marvel",
       "url": "https://open.spotify.com/track/3xo7KuTSE9Jj6t1hPH7hVW"
+    },
+    {
+      "album": {
+        "name": "Start 11",
+        "url": "https://open.spotify.com/album/3F5Cc03oc2AJUqfLFAfDo1"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137795,
+      "name": "Marvel",
+      "url": "https://open.spotify.com/track/5aFtEM5UmbaUv7mEUDtpuZ"
     },
     {
       "album": {
@@ -30334,6 +30486,28 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "album": {
+        "name": "Start 11",
+        "url": "https://open.spotify.com/album/3F5Cc03oc2AJUqfLFAfDo1"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        },
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120534,
+      "name": "Millionaires",
+      "url": "https://open.spotify.com/track/1VH6ZGO0cGshQqv0sQYX1S"
     },
     {
       "album": {
@@ -32030,7 +32204,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 217374,
       "name": "NATTEN BLIVER MORGEN",
       "url": "https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk"
@@ -36128,7 +36302,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -40729,6 +40903,28 @@
     },
     {
       "album": {
+        "name": "Spr\u00e6kker ft. S\u00f8n",
+        "url": "https://open.spotify.com/album/7zB2ONGvB3muGw7oTLejpF"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Seebach",
+          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+        },
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171412,
+      "name": "Spr\u00e6kker ft. S\u00f8n",
+      "url": "https://open.spotify.com/track/1n9crbeZNJCUnj6bZcJgxP"
+    },
+    {
+      "album": {
         "name": "Sp\u00e5kone",
         "url": "https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl"
       },
@@ -41796,6 +41992,24 @@
       "duration_ms": 157426,
       "name": "Stupid Man (feat. Gobs & Thomas Helmig)",
       "url": "https://open.spotify.com/track/7AwNzjpMLHvlkbgOc5MVKI"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
     },
     {
       "album": {
@@ -44913,6 +45127,28 @@
     },
     {
       "album": {
+        "name": "Start 11",
+        "url": "https://open.spotify.com/album/3F5Cc03oc2AJUqfLFAfDo1"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125255,
+      "name": "Tour De France",
+      "url": "https://open.spotify.com/track/0CrMFVugAx5EMrDCB83sla"
+    },
+    {
+      "album": {
         "name": "Tout l'univers",
         "url": "https://open.spotify.com/album/1UnqlxXSM5dlxZi6vLIIEH"
       },
@@ -47526,7 +47762,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 213000,
       "name": "V\u00e6r dig selv",
       "url": "https://open.spotify.com/track/4ldNmxq83FHrijnyVjzkcS"

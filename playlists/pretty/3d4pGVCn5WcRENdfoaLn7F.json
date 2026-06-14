@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 722,
+  "num_followers": 724,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADplYwbdHkNnt8dngkBFNHaUkaJXSs",
+  "snapshot_id": "AAADtm2XkPEnkLfPYaOcynWGKVs674zS",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd"
     },
     {
-      "added_at": "2026-05-31 15:04:10",
-      "album": {
-        "name": "Sinking Into The Ocean",
-        "url": "https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc"
-      },
-      "artists": [
-        {
-          "name": "Maia and the Squires",
-          "url": "https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/0hUbr66SmawTFyn17USbQS"
-    },
-    {
       "added_at": "2026-03-26 01:43:30",
       "album": {
         "name": "Timewaster",
@@ -167,22 +151,6 @@
       "duration_ms": 179923,
       "name": "You Don't Wanna Go Home",
       "url": "https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU"
-    },
-    {
-      "added_at": "2025-11-16 12:40:10",
-      "album": {
-        "name": "Dagger",
-        "url": "https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65"
-      },
-      "artists": [
-        {
-          "name": "Rhaina Yasmin",
-          "url": "https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Dagger",
-      "url": "https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75"
     },
     {
       "added_at": "2025-10-18 18:55:51",
@@ -377,22 +345,6 @@
       "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
     },
     {
-      "added_at": "2026-02-28 15:36:22",
-      "album": {
-        "name": "HOLES",
-        "url": "https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Slumber Party",
-          "url": "https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d"
-        }
-      ],
-      "duration_ms": 212391,
-      "name": "SPECKS",
-      "url": "https://open.spotify.com/track/3MqmmpXA0BHiUthZJ7kMgH"
-    },
-    {
       "added_at": "2026-03-03 02:10:15",
       "album": {
         "name": "Murder Parade",
@@ -477,38 +429,6 @@
       "url": "https://open.spotify.com/track/3JgWObXAw1zHF2pnHBUXQL"
     },
     {
-      "added_at": "2026-03-27 12:26:06",
-      "album": {
-        "name": "Stay Back",
-        "url": "https://open.spotify.com/album/0RCSlDlgi70bepX0U1JlzJ"
-      },
-      "artists": [
-        {
-          "name": "Jenny Scara",
-          "url": "https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw"
-        }
-      ],
-      "duration_ms": 145157,
-      "name": "Stay Back",
-      "url": "https://open.spotify.com/track/5Z8V6cOh37E7yNKaGlNcuC"
-    },
-    {
-      "added_at": "2026-03-27 21:47:02",
-      "album": {
-        "name": "PROVE YOUR LOVE",
-        "url": "https://open.spotify.com/album/3Hr5g5j91qMdfmCz50qMhF"
-      },
-      "artists": [
-        {
-          "name": "Shadows Become Substance",
-          "url": "https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm"
-        }
-      ],
-      "duration_ms": 243044,
-      "name": "PROVE YOUR LOVE",
-      "url": "https://open.spotify.com/track/36itdBqD0DqGDoI45dh7Nd"
-    },
-    {
       "added_at": "2026-03-28 16:53:09",
       "album": {
         "name": "X88B88",
@@ -525,22 +445,6 @@
       "url": "https://open.spotify.com/track/3Z0Q4Bvun8AtZnezG0ipZF"
     },
     {
-      "added_at": "2026-03-31 01:39:56",
-      "album": {
-        "name": "Ziggy Is a Alien",
-        "url": "https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q"
-      },
-      "artists": [
-        {
-          "name": "Vinto Van Go",
-          "url": "https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA"
-        }
-      ],
-      "duration_ms": 223635,
-      "name": "Ziggy Is a Alien",
-      "url": "https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j"
-    },
-    {
       "added_at": "2026-03-31 15:13:15",
       "album": {
         "name": "Rarin 2 Go",
@@ -555,38 +459,6 @@
       "duration_ms": 256654,
       "name": "Rarin 2 Go",
       "url": "https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG"
-    },
-    {
-      "added_at": "2026-03-31 15:15:27",
-      "album": {
-        "name": "L.E.S. ARTISTES",
-        "url": "https://open.spotify.com/album/4tbYNLtvOm8S23x3iakVl6"
-      },
-      "artists": [
-        {
-          "name": "Punkest",
-          "url": "https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP"
-        }
-      ],
-      "duration_ms": 227614,
-      "name": "L.E.S. ARTISTES",
-      "url": "https://open.spotify.com/track/4YuCXMNgPp74jBGRzMV8Ft"
-    },
-    {
-      "added_at": "2026-03-31 19:39:20",
-      "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/6w5A0FMOmXN6iubAeY392K"
-      },
-      "artists": [
-        {
-          "name": "Mac\u00edas",
-          "url": "https://open.spotify.com/artist/12tb38v6ePm4N3MSLWQVzu"
-        }
-      ],
-      "duration_ms": 248924,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/35WJrQEZY5tEzHjiGzCL62"
     },
     {
       "added_at": "2026-04-04 17:04:13",
@@ -701,26 +573,6 @@
       "url": "https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt"
     },
     {
-      "added_at": "2026-05-12 02:18:38",
-      "album": {
-        "name": "A Bridge Across the Sea",
-        "url": "https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d"
-      },
-      "artists": [
-        {
-          "name": "Drawing on Scars",
-          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
-        },
-        {
-          "name": "Jodie Reid",
-          "url": "https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u"
-        }
-      ],
-      "duration_ms": 188403,
-      "name": "Take It",
-      "url": "https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6"
-    },
-    {
       "added_at": "2026-05-12 02:40:34",
       "album": {
         "name": "Something Going Down",
@@ -751,118 +603,6 @@
       "duration_ms": 176439,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/1oCwhlhRkPd5dCmS22o6jY"
-    },
-    {
-      "added_at": "2026-05-14 14:30:40",
-      "album": {
-        "name": "Nie mehr halbe Wege",
-        "url": "https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T"
-      },
-      "artists": [
-        {
-          "name": "Voltwechsel",
-          "url": "https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j"
-        }
-      ],
-      "duration_ms": 205936,
-      "name": "Nie mehr halbe Wege",
-      "url": "https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K"
-    },
-    {
-      "added_at": "2026-05-15 16:30:59",
-      "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2"
-      },
-      "artists": [
-        {
-          "name": "Summoners",
-          "url": "https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn"
-        }
-      ],
-      "duration_ms": 201184,
-      "name": "Noir",
-      "url": "https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD"
-    },
-    {
-      "added_at": "2026-05-18 12:32:01",
-      "album": {
-        "name": "She Wants To Walk Away",
-        "url": "https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk"
-      },
-      "artists": [
-        {
-          "name": "Kevin ISM",
-          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "She Wants To Walk Away (Distribution)",
-      "url": "https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn"
-    },
-    {
-      "added_at": "2026-05-18 12:42:45",
-      "album": {
-        "name": "The Overview",
-        "url": "https://open.spotify.com/album/3QF66H9EbSTbTzEFoFEqgv"
-      },
-      "artists": [
-        {
-          "name": "The Streetlights",
-          "url": "https://open.spotify.com/artist/4wkbEfCePFwRy83imzOOuy"
-        }
-      ],
-      "duration_ms": 165665,
-      "name": "The Overview",
-      "url": "https://open.spotify.com/track/0f7ihpDrCtDwfqMgtDBFoV"
-    },
-    {
-      "added_at": "2026-05-19 20:02:11",
-      "album": {
-        "name": "HOLES",
-        "url": "https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Slumber Party",
-          "url": "https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d"
-        }
-      ],
-      "duration_ms": 164790,
-      "name": "HOLES",
-      "url": "https://open.spotify.com/track/45j00HSKzMiIfJ4elyzxGs"
-    },
-    {
-      "added_at": "2026-05-19 20:24:45",
-      "album": {
-        "name": "Sch\u00f6n und dumm",
-        "url": "https://open.spotify.com/album/0LIfzYI7U1mP56NgLwQ7TU"
-      },
-      "artists": [
-        {
-          "name": "Seelenpein",
-          "url": "https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV"
-        }
-      ],
-      "duration_ms": 232411,
-      "name": "Sch\u00f6n und dumm",
-      "url": "https://open.spotify.com/track/2C1cJLs5i7whe4nxVbSHs6"
-    },
-    {
-      "added_at": "2026-05-19 20:55:24",
-      "album": {
-        "name": "Finale",
-        "url": "https://open.spotify.com/album/1VQU6mqrk0yC9UffcI6Rj5"
-      },
-      "artists": [
-        {
-          "name": "Fenix",
-          "url": "https://open.spotify.com/artist/2VIZpeJoUKPcl9oU61pf8j"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5XOraQSzk88vT3orGMofDR"
     },
     {
       "added_at": "2026-05-21 00:13:21",

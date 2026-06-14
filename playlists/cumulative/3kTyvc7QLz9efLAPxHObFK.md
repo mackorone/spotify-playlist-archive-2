@@ -4,7 +4,7 @@
 
 > 
 
-3,118 songs - 6 day 16 hr 42 min
+3,119 songs - 6 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2618,6 +2618,7 @@
 | [Taste The Blade](https://open.spotify.com/track/2z6CtAg9x6hCT064WKnxWF) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Rest In Pieces](https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr) | 3:19 | 2023-05-01 |  |
 | [TASTE THE RAINBOW](https://open.spotify.com/track/4vk7n1kOvTDgLXlu0ZOS0f) | [KIOR](https://open.spotify.com/artist/5T4JS1DKk850DNKpQoIbYJ) | [TASTE THE RAINBOW](https://open.spotify.com/album/6siJ9gdGdG6efvl1tE5PWB) | 2:16 | 2026-03-26 |  |
 | [TEAR IT UP](https://open.spotify.com/track/2MItsy4zE5q16hkTiHRPpy) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [SMOKING SECTION](https://open.spotify.com/album/5QaKb2vnEAaDnjrb1K52Eo) | 2:28 | 2025-04-18 |  |
+| [Tear You Apart](https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16) | 4:44 | 2026-06-13 |  |
 | [TECHNO CITY](https://open.spotify.com/track/0Ua3nDprcE2YVHpINa9ceM) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [XTREME XTASY](https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK) | 2:45 | 2024-03-08 |  |
 | [TECHNO GENERATION](https://open.spotify.com/track/0IOE3L2vjgwGelpNkcxnBW) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [WAREHOUSE TAPES](https://open.spotify.com/album/6T43Smob7g3y3c07tGOMaG) | 2:46 | 2024-10-05 |  |
 | [Technophobia \- Darren Styles Remix](https://open.spotify.com/track/1MRviIlT3GqT8fvf2yOKOM) | [Scott Brown](https://open.spotify.com/artist/6gaPx3AryG77284T2ZvELv), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Technophobia \(Darren Styles Remix\)](https://open.spotify.com/album/5CSiJpjhI3KAMJH92ulvAD) | 2:32 | 2026-05-28 |  |

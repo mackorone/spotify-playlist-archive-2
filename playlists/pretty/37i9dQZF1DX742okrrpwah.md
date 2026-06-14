@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Olivia Rodrigo, Bebe Rexha et Guy2Bezbar x Tiakola au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,761 likes - 87 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,760 likes - 87 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

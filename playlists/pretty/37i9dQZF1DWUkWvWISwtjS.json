@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 431692,
+  "num_followers": 431625,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Z\u00e9 da Reca\u00edda",
         "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 168458,
       "name": "Z\u00e9 da Reca\u00edda",
       "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Nosso cupido foi Deus",
+        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 186276,
+      "name": "Nosso cupido foi Deus",
+      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Jenifer",
-        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Diniz",
-          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Jenifer",
-      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "O Embaixador - The Legacy (Ao Vivo)",
         "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 140629,
       "name": "Fala Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Jenifer",
+        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Diniz",
+          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Jenifer",
+      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 173020,
-      "name": "Desconhecido - Ao Vivo",
-      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
         "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
       },
@@ -1323,6 +1307,26 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Ponto Final - Ao Vivo",
+      "url": "https://open.spotify.com/track/78UZagNegqHZAKv3491xB2"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Juramento do Dedinho",
         "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
       },
@@ -1335,6 +1339,26 @@
       "duration_ms": 164808,
       "name": "Juramento do Dedinho",
       "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 144071,
+      "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1378,35 +1402,11 @@
         {
           "name": "Luiza Martins",
           "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        },
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
         }
       ],
-      "duration_ms": 147826,
-      "name": "Ponto Final - Ao Vivo",
-      "url": "https://open.spotify.com/track/78UZagNegqHZAKv3491xB2"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 144071,
-      "name": "Do Copo Eu Vim (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7sl95MXCpM8WWsaH1BqvR3"
+      "duration_ms": 173020,
+      "name": "Desconhecido - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 234592,
-      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Volta Marcada",
         "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 167573,
       "name": "Volta Marcada",
       "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 234592,
+      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Short Jeans (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
-      },
-      "artists": [
-        {
-          "name": "Hugo Henrique",
-          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
-        },
-        {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Short Jeans - Ao Vivo",
-      "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Noites Frustradas (Ao Vivo)",
         "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 196662,
       "name": "Noites Frustradas - Ao Vivo",
       "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Short Jeans (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
+      },
+      "artists": [
+        {
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+        },
+        {
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Short Jeans - Ao Vivo",
+      "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
     },
     {
       "added_at": "2026-01-16 03:03:24",

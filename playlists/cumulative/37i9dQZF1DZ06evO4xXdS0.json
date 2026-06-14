@@ -320,7 +320,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 168240,
       "name": "Go to Hell",
       "url": "https://open.spotify.com/track/0xJIP7dF3yRrL2FUKQF4IO"
@@ -1068,10 +1068,32 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 147906,
       "name": "That's All I Ask",
       "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
+    },
+    {
+      "album": {
+        "name": "That's All I Ask (HAAi Remix)",
+        "url": "https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257741,
+      "name": "That's All I Ask - HAAi Remix / Edit",
+      "url": "https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc"
     },
     {
       "album": {
@@ -1126,6 +1148,44 @@
       "duration_ms": 58426,
       "name": "The Times They Are A-Changin' - Outtake",
       "url": "https://open.spotify.com/track/159F1pdX35fbRevVBbjTFw"
+    },
+    {
+      "album": {
+        "name": "Thula Sizwe / I Shall Be Released",
+        "url": "https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO"
+      },
+      "artists": [
+        {
+          "name": "Common People",
+          "url": "https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Tommy Sims",
+          "url": "https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe"
+        },
+        {
+          "name": "Praise Paige",
+          "url": "https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195155,
+      "name": "Thula Sizwe / I Shall Be Released",
+      "url": "https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52"
     },
     {
       "album": {

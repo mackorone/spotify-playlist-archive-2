@@ -1,13 +1,29 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10057,
+  "num_followers": 10062,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAB0El7Puh+LnRrYF5SGJhzT",
+  "snapshot_id": "aitMAAAAAADsvRBGNwjlseiDN/gK50Xu",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Is Fine",
+        "url": "https://open.spotify.com/album/6YxbIqTn8jp6dT0gumt95i"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 207324,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/37eDPMu6oa0qW4r8EWniqg"
+    },
     {
       "added_at": null,
       "album": {

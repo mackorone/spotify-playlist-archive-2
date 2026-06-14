@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 157200,
       "name": "Aayegi Manzil",
       "url": "https://open.spotify.com/track/331Lyiz3LYvslIQI7NgP85"
@@ -1332,6 +1332,24 @@
       "duration_ms": 223833,
       "name": "Ab Tak Na",
       "url": "https://open.spotify.com/track/5TwJJ9D2lWMPkrhQMh96bd"
+    },
+    {
+      "album": {
+        "name": "absent-minded freak",
+        "url": "https://open.spotify.com/album/6sEg11bzLRFBo1quGNwKhS"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156984,
+      "name": "absent-minded freak",
+      "url": "https://open.spotify.com/track/2HG0beWmR0ZXuzxAZw8Zq6"
     },
     {
       "album": {

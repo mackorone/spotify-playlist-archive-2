@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: KI/KI
 
-3,005 songs - 6 day 22 hr 27 min
+3,006 songs - 6 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1907,7 +1907,7 @@
 | [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-05-03 | 2023-07-06 |
 | [Ophelia](https://open.spotify.com/track/5hjhaH0vwtpftiLtF3veZp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:35 | 2025-06-04 | 2025-07-03 |
 | [Options \(feat\. Tamera & Bellah\)](https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Options \(feat\. Tamera & Bellah\)](https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB) | 3:44 | 2023-08-02 | 2023-09-07 |
-| [ordinary love song](https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Acrobat](https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0) | 2:28 | 2026-05-06 |  |
+| [ordinary love song](https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Acrobat](https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0) | 2:28 | 2026-05-06 | 2026-06-14 |
 | [Orihime](https://open.spotify.com/track/0EIgCM5mScspP2MnSq2WCT) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 2:44 | 2022-06-01 | 2022-07-07 |
 | [Osú Qué Niña](https://open.spotify.com/track/0kZrv7hKThf4qUPlqDFZXF) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Osú Qué Niña](https://open.spotify.com/album/5e5LUOFIgGLBNq2675XQEu) | 3:19 | 2022-03-08 | 2022-04-07 |
 | [OTP](https://open.spotify.com/track/2gZjpC2hxO1kA7PLmvj75k) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [OTP](https://open.spotify.com/album/2fPPX83Dj02yGaDEHjpyUY) | 2:17 | 2023-01-04 | 2023-02-02 |
@@ -2606,6 +2606,7 @@
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-07-28 | 2022-09-09 |
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-07-06 | 2022-07-29 |
 | [Ups and downs](https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:15 | 2025-05-07 | 2026-03-20 |
+| [Upside Down](https://open.spotify.com/track/71WYq0Dq4VWatUIFDW0jvz) | [SHINJIRO ATAE](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [THIS IS HOW I AM](https://open.spotify.com/album/4GIIgSveSyls13q824SdUy) | 3:02 | 2026-06-05 |  |
 | [UPWARDS](https://open.spotify.com/track/43jg7CNRhPRHYgpXTowd3O) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [UPWARDS](https://open.spotify.com/album/7KjHJN6O7LbV2HXlSpY6Uc) | 3:15 | 2025-01-08 | 2025-02-20 |
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-06-01 | 2022-07-07 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-03 | 2025-01-09 |

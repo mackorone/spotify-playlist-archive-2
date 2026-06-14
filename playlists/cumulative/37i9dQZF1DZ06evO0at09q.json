@@ -352,7 +352,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 255937,
       "name": "Crown - Qlank Remix",
       "url": "https://open.spotify.com/track/7fLv8O1Exg0BR8MkOiOXk0"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 230400,
       "name": "Drip",
       "url": "https://open.spotify.com/track/67fa0QW9YqkasFEzzDRf04"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 243809,
       "name": "Fast Beats",
       "url": "https://open.spotify.com/track/7rshJK7NdCCqUOYI3pvBhy"
@@ -790,6 +790,28 @@
       "duration_ms": 220645,
       "name": "Funk - Radio Edit",
       "url": "https://open.spotify.com/track/3gd1CZ6lFqDlcKWPYU9Z32"
+    },
+    {
+      "album": {
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/2WWlFKJMpdb7axgCRRA60U"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/1n0sSFEvxvVcyBx6ck8gcq"
     },
     {
       "album": {

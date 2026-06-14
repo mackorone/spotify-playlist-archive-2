@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-179 songs - 10 hr 3 min
+180 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Deusa Do Amor \- Reggae Version](https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [tranqüilo inc](https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp) | [Deusa Do Amor \(Reggae Version\)](https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY) | 5:12 | 2025-02-21 |  |
 | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk), [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd) | 5:12 | 2024-03-22 | 2024-04-13 |
 | [Donavi](https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk) | [Msário](https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az), [Karina Buhr](https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm) | [Donavi](https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD) | 4:10 | 2023-08-04 | 2023-10-03 |
+| [Eita](https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eita](https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH) | 3:03 | 2026-06-12 |  |
 | [Eleva](https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00) | [Refinaria](https://open.spotify.com/artist/6d3WINgz7m8IPEt9rlYVgJ), [Chico Martins](https://open.spotify.com/artist/4AixCL5u5yznkGKB4DKCAw) | [Eleva](https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA) | 3:34 | 2023-08-18 | 2024-04-19 |
 | [Eleva \(feat\. Chico Martins\)](https://open.spotify.com/track/7p3UPbkx4Oo4tCFPu6aSI0) | [Refinaria](https://open.spotify.com/artist/6d3WINgz7m8IPEt9rlYVgJ), [Chico Martins](https://open.spotify.com/artist/4AixCL5u5yznkGKB4DKCAw) | [Eleva \(feat\. Chico Martins\)](https://open.spotify.com/album/1a62l5Z0f7VgWLKD43xOjT) | 3:34 | 2026-03-27 |  |
 | [Em Paz Com o Mundo](https://open.spotify.com/track/0MgmxMEBSIa1PCPNG2DLs0) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Em Paz Com o Mundo](https://open.spotify.com/album/6oqchEHdaJHysZvNeNXAqo) | 3:37 | 2026-05-08 |  |
@@ -48,7 +49,7 @@
 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 | 2023-07-03 |  |
 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6) | 4:28 | 2023-07-03 | 2024-04-19 |
 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/5B4daMtt3TIB14vjYNHsjl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:28 | 2026-03-27 |  |
-| [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 | 2024-08-02 |  |
+| [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 | 2024-08-02 | 2026-06-14 |
 | [eu não queria mais nada](https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3) | [bela](https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD), [contito](https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT) | [eu não queria mais nada](https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc) | 2:28 | 2024-09-30 | 2024-12-07 |
 | [Fica um Pouco Mais](https://open.spotify.com/track/0NnqH4MMr3sGyGeV9UuLP1) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/3VyPThQg2jJKs5cLmSZPSr) | 2:43 | 2023-10-13 | 2024-04-19 |
 | [Fica um Pouco Mais](https://open.spotify.com/track/3bN4uISvzllUNUQT9vtRtr) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Fica um Pouco Mais](https://open.spotify.com/album/2nAtRgvDgHMnDGn2DVEtra) | 2:43 | 2023-07-03 |  |

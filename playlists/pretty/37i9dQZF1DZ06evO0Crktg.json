@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 340421,
+  "num_followers": 340465,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAC/YeMPBa7CzLZCq7VIMdeP",
+  "snapshot_id": "aitMAAAAAACLkpbHxJuCbtEXsXAdvaNX",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 171925,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie 2",
-        "url": "https://open.spotify.com/album/2nNjq5Qu0IxFI7lXMrOfzm"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Fall in the Fall",
-      "url": "https://open.spotify.com/track/6RzCCKw2UI0vxzaVDandfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 254277,
       "name": "Life",
       "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waylon & Willie 2",
+        "url": "https://open.spotify.com/album/2nNjq5Qu0IxFI7lXMrOfzm"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Fall in the Fall",
+      "url": "https://open.spotify.com/track/6RzCCKw2UI0vxzaVDandfX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,974 likes - 99 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,962 likes - 99 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 98 | [Progress of Man \(Bitcoin & Cattle\)](https://open.spotify.com/track/5kyFUvN9MgbqyybaqkLC16) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Progress of Man \(Bitcoin & Cattle\)](https://open.spotify.com/album/22tFCbaKQln02zqGJSD4ui) | 4:05 |
 | 99 | [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 |
 
-Snapshot ID: `AAAAACZ5ZIZdXZY2HxyNu+oc8PjNtzGx`
+Snapshot ID: `AAAAALvHVTrEJq6m2lA3dxFHCf3sAquw`

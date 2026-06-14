@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,840 likes - 141 songs - 9 hr 4 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,841 likes - 142 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,5 +149,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 139 | [Boxcar Baby](https://open.spotify.com/track/1Ox8zpsrDRNunN5zKRS2Fb) | [Matty Simpson](https://open.spotify.com/artist/4Nz1zj8jj9nWKqXkPMUiB9) | [Boxcar Baby](https://open.spotify.com/album/6ho0bkSgjLLZotxypyyJsG) | 4:49 |
 | 140 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 |
 | 141 | [El Homo Clickens](https://open.spotify.com/track/49Oc3I1yEyTz3l25jPeCKy) | [KekoYoma](https://open.spotify.com/artist/7GldhIgOZLcj8PlZltwg1V) | [El Homo Clickens](https://open.spotify.com/album/5bdDEmbCYtXo3HznVvwOIL) | 3:33 |
+| 142 | [Mi memoria](https://open.spotify.com/track/5Thy4BzMaNWgj0Z3RlGHfw) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 3:55 |
 
-Snapshot ID: `AAALs8HWIwEiMRMMiyzDX0eGea1oHMZw`
+Snapshot ID: `AAALtGA564MXrePrmg2becNKGc+gBOT9`

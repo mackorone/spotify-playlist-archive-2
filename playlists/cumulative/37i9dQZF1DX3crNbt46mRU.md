@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Olivia Rodrigo, ZAH1DE, FiNCH, LEA, Bebe Rexha & many more!
 
-22,934 songs - 47 day 10 hr 20 min
+22,934 songs - 47 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6077,7 +6077,7 @@
 | [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 | 2026-03-12 | 2026-03-20 |
 | [ENDLICH EGAL](https://open.spotify.com/track/6FC4KbCKeKPZbdjEpJtNex) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [ENDLICH EGAL](https://open.spotify.com/album/2xadm1GleIfA1Q8Pt1WcT4) | 2:42 | 2024-07-04 | 2024-07-12 |
 | [Endlich wieder da wo es beginnt](https://open.spotify.com/track/7BGNum6Rn6W1e3sJgHXWPE) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Endlich wieder da wo es beginnt](https://open.spotify.com/album/4u9B1Yvly0s1OeTG6N9oG2) | 3:01 | 2023-10-05 | 2023-10-13 |
-| [Endlos](https://open.spotify.com/track/7wkLavipEtUm5ib2GjseUw) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [The Cratez](https://open.spotify.com/artist/6ZA8p8sy5EJNH168vpFw8m) | [Endlos](https://open.spotify.com/album/0ZspwgKGDfteMjxAT8u30P) | 1:45 | 2026-06-11 |  |
+| [Endlos](https://open.spotify.com/track/7wkLavipEtUm5ib2GjseUw) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [Endlos](https://open.spotify.com/album/0ZspwgKGDfteMjxAT8u30P) | 2:17 | 2026-06-11 |  |
 | [Endlos](https://open.spotify.com/track/1NP6Q7Nglj9Eb7PPCEVLVB) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Endlos](https://open.spotify.com/album/27Tb6ZBoQcnhbJMOCtxisT) | 2:55 | 2022-08-05 | 2022-08-12 |
 | [Endlos](https://open.spotify.com/track/6tuDUyZOXRKcf7LsqZZIXi) | [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Endlos](https://open.spotify.com/album/47en31omzOTqx0D6zicAJr) | 2:07 | 2023-07-27 | 2023-08-04 |
 | [Endorphine](https://open.spotify.com/track/7enu8G9wzACrCOSsGrzXWA) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Endorphine](https://open.spotify.com/album/3GAHfpsReZrt8QYIeEtuE6) | 2:08 | 2025-10-09 | 2025-10-17 |
@@ -15937,7 +15937,7 @@
 | [Pop It Off](https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pop It Off](https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt) | 3:09 | 2025-01-23 | 2025-01-31 |
 | [Pop That](https://open.spotify.com/track/2VEl3fZmYeoJacH1Sn4DS2) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Pop That](https://open.spotify.com/album/14t75m8JmscI68WH2AqqC8) | 2:14 | 2023-07-13 | 2023-07-21 |
 | [Pop Up](https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Modern Roses](https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf) | 3:02 | 2025-04-24 | 2025-05-02 |
-| [POPKORN](https://open.spotify.com/track/6U0h1sVP05ZadxLgYDvraQ) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Hotel](https://open.spotify.com/album/710GKYlQJuDAPM5qQoYIdC) | 3:07 | 2026-06-11 |  |
+| [Popkorn](https://open.spotify.com/track/6U0h1sVP05ZadxLgYDvraQ) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Hotel \(Premium Edition\)](https://open.spotify.com/album/710GKYlQJuDAPM5qQoYIdC) | 3:07 | 2026-06-11 |  |
 | [Popolari](https://open.spotify.com/track/6wLykMAs7JTfhvdWmPhGSW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/7pVRdGC80oCPudqzziRSxq) | 3:42 | 2024-03-07 | 2024-03-15 |
 | [Popped the Top](https://open.spotify.com/track/2jfaGVBg2VT1rEYwUrVCoR) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Popped the Top](https://open.spotify.com/album/2WQK9wTTE1h04YjAZFW0wC) | 4:14 | 2024-01-25 | 2024-02-02 |
 | [Poppin](https://open.spotify.com/track/6fPD92TEq6KsEV7L7nmhZ3) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Poppin](https://open.spotify.com/album/2vWmskQ93na9eB8RqsvvUR) | 2:46 | 2025-01-23 | 2025-01-31 |

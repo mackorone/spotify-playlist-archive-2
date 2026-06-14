@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,312 songs - 5 day 16 hr 35 min
+2,314 songs - 5 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 | 2025-08-11 |  |
 | [Bullies](https://open.spotify.com/track/4Xio8CUDoMqbiWNt8maLca) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:42 | 2024-03-25 |  |
 | [Bully Dub](https://open.spotify.com/track/0cOn1FrkgRejhgtB8edaM7) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:46 | 2024-03-25 |  |
+| [Burden \- Lo\-Fi Version](https://open.spotify.com/track/7iZGon0MGuoKcFSwdW5C2D) | [Ex Alma](https://open.spotify.com/artist/3djMiF1ty7aSuXuLy9AZY8) | [Burden \(Lo\-Fi Version\)](https://open.spotify.com/album/3ORrXUxNpI8btFHfFCv21J) | 2:52 | 2026-06-13 |  |
 | [Burn The Floor](https://open.spotify.com/track/1tJEcaWD4iIYoB1YZ1Cb1k) | [Fit with Luana](https://open.spotify.com/artist/0FJHi0Z34sZvHetSXPr5uw) | [Burn The Floor](https://open.spotify.com/album/1eyeG8hYgB6xs1PFCjCwEe) | 2:12 | 2025-11-22 |  |
 | [BURN the HORIZON](https://open.spotify.com/track/6OXNv2y3RGxoyomVYe3nKw) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:51 | 2025-09-08 |  |
 | [Burned out](https://open.spotify.com/track/1nDu8QwH1aTKMgbpqWdH6i) | [Air Vibration](https://open.spotify.com/artist/3ScG84iDoG9YBdTg4tFVDu) | [Burned out](https://open.spotify.com/album/5i1G5taACyPRRrrABEsUGu) | 2:28 | 2025-08-30 |  |
@@ -1413,6 +1414,7 @@
 | [Noise](https://open.spotify.com/track/1u3JgfLlgFqgOHT1tG9kGR) | [Fusik](https://open.spotify.com/artist/4EDtxm2WLicV4I1B9E8kl2) | [The Break Sessions](https://open.spotify.com/album/4RleoacO5Xqv4qzklW9cks) | 3:36 | 2026-02-07 |  |
 | [None Else](https://open.spotify.com/track/48Havqmv88gVscsSbTYtN8) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 2:42 | 2024-03-25 |  |
 | [NORMAL](https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:01 | 2026-04-12 |  |
+| [Noroc, Bună Ziua](https://open.spotify.com/track/4w3S4BPLsGpfY6LOwxsh8a) | [Andrew Whistler](https://open.spotify.com/artist/1wyuerQdwzNyYFMp8tyDc9) | [Noroc, Bună Ziua](https://open.spotify.com/album/067ym3R00wLnNq6UrPcYxH) | 2:29 | 2026-06-13 |  |
 | [Northern Star](https://open.spotify.com/track/33VX9hgtQXJWmH6W1hkwA4) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Northern Star](https://open.spotify.com/album/48ahazq0gDgALwMBxRrLu6) | 2:06 | 2025-11-21 |  |
 | [NOSTALGIA](https://open.spotify.com/track/3ep2vgJQeCVf2tHVW4QOLV) | [Kerco](https://open.spotify.com/artist/2My3jbzL64ADZUTa3nxhSA) | [AMELIORATION](https://open.spotify.com/album/1HC5qbtCbPFrwxbERDSxvv) | 2:33 | 2025-10-26 |  |
 | [nothing but you](https://open.spotify.com/track/37apT4GHmMnLjkEw65vl8d) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [nothing but you](https://open.spotify.com/album/3nqzTCIV881THXKTFrBhYv) | 3:54 | 2025-07-25 |  |

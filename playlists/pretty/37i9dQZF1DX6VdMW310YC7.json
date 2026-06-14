@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3906995,
+  "num_followers": 3906844,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,46 @@
     {
       "added_at": "2026-06-12 04:01:11",
       "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2026-06-12 04:01:11",
+      "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+    },
+    {
+      "added_at": "2026-06-12 04:01:11",
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -411,42 +451,6 @@
       "duration_ms": 453068,
       "name": "glow",
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
-    },
-    {
-      "added_at": "2026-06-12 04:01:11",
-      "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
-    },
-    {
-      "added_at": "2026-06-12 04:01:11",
-      "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2026-06-12 04:01:11",
@@ -515,22 +519,18 @@
     {
       "added_at": "2026-06-12 04:01:11",
       "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
       "artists": [
         {
           "name": "Rules",
           "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
         }
       ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "added_at": "2026-06-12 04:01:11",
@@ -711,6 +711,26 @@
       "duration_ms": 228880,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
+    },
+    {
+      "added_at": "2026-06-12 04:01:11",
+      "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 215062,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
     },
     {
       "added_at": "2026-06-12 04:01:11",
@@ -1115,26 +1135,6 @@
     {
       "added_at": "2026-06-12 04:01:11",
       "album": {
-        "name": "AMi Vol. 1",
-        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Miette Hope",
-          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Outline",
-      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
-    },
-    {
-      "added_at": "2026-06-12 04:01:11",
-      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -1151,6 +1151,26 @@
       "duration_ms": 137888,
       "name": "sicklysweet - Tobiahs Remix",
       "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+    },
+    {
+      "added_at": "2026-06-12 04:01:11",
+      "album": {
+        "name": "AMi Vol. 1",
+        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Miette Hope",
+          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Outline",
+      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
     },
     {
       "added_at": "2026-06-12 04:01:11",
@@ -1763,6 +1783,26 @@
     {
       "added_at": "2026-06-12 04:01:11",
       "album": {
+        "name": "Just Noise Pt. II",
+        "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
+      },
+      "artists": [
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        },
+        {
+          "name": "Ae:ther",
+          "url": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
+        }
+      ],
+      "duration_ms": 266189,
+      "name": "Pangea",
+      "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
+    },
+    {
+      "added_at": "2026-06-12 04:01:11",
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
@@ -1783,6 +1823,22 @@
       "duration_ms": 258644,
       "name": "Control",
       "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
+    },
+    {
+      "added_at": "2026-06-12 04:01:11",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 204419,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
     },
     {
       "added_at": "2026-06-12 04:01:11",
@@ -1815,22 +1871,6 @@
     {
       "added_at": "2026-06-12 04:01:11",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        }
-      ],
-      "duration_ms": 204419,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
-    },
-    {
-      "added_at": "2026-06-12 04:01:11",
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe"
       },
@@ -1843,22 +1883,6 @@
       "duration_ms": 232440,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK"
-    },
-    {
-      "added_at": "2026-06-12 04:01:11",
-      "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230243,
-      "name": "Heart Made Of Glass",
-      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
     },
     {
       "added_at": "2026-06-12 04:01:11",
@@ -1883,22 +1907,34 @@
     {
       "added_at": "2026-06-12 04:01:11",
       "album": {
-        "name": "Just Noise Pt. II",
-        "url": "https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV"
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
       },
       "artists": [
         {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        },
-        {
-          "name": "Ae:ther",
-          "url": "https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 266189,
-      "name": "Pangea",
-      "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
+      "duration_ms": 230243,
+      "name": "Heart Made Of Glass",
+      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
+    },
+    {
+      "added_at": "2026-06-12 04:01:11",
+      "album": {
+        "name": "Civilian World",
+        "url": "https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 456373,
+      "name": "Civilian World",
+      "url": "https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i"
     },
     {
       "added_at": "2026-06-12 04:01:11",
@@ -1923,22 +1959,6 @@
     {
       "added_at": "2026-06-12 04:01:11",
       "album": {
-        "name": "Civilian World",
-        "url": "https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH"
-      },
-      "artists": [
-        {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
-        }
-      ],
-      "duration_ms": 456373,
-      "name": "Civilian World",
-      "url": "https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i"
-    },
-    {
-      "added_at": "2026-06-12 04:01:11",
-      "album": {
         "name": "blinded",
         "url": "https://open.spotify.com/album/068Ad4vmafuvDv2AARyYLM"
       },
@@ -1955,30 +1975,6 @@
       "duration_ms": 259400,
       "name": "blinded",
       "url": "https://open.spotify.com/track/0RExYs6iWZwRpIMRnbofMi"
-    },
-    {
-      "added_at": "2026-06-12 04:01:11",
-      "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb"
-      },
-      "artists": [
-        {
-          "name": "Palisade",
-          "url": "https://open.spotify.com/artist/51knFsooF002cLj6fRUJny"
-        },
-        {
-          "name": "Ophanim",
-          "url": "https://open.spotify.com/artist/2YwyA5Urid8g7xLN5Gf52b"
-        },
-        {
-          "name": "Phoebe Tsen",
-          "url": "https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE"
-        }
-      ],
-      "duration_ms": 234204,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP"
     }
   ],
   "unique_name": "Chill Tracks",

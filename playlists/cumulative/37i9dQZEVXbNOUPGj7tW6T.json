@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Adelante, albirroja, adelante (Remix)",
+        "url": "https://open.spotify.com/album/0uXkrh2atA8nUOrNJ5KHgn"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195412,
+      "name": "Adelante, albirroja, adelante - Remix",
+      "url": "https://open.spotify.com/track/4BZ85YmtaYNYqcnywyDgIK"
+    },
+    {
+      "album": {
         "name": "Adem\u00e1s de M\u00ed (Remix)",
         "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
       },
@@ -938,7 +956,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 220546,
       "name": "Albirockja",
       "url": "https://open.spotify.com/track/7DcMF5TOvJdR8wggQqsaXc"
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 207296,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -3875,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+    },
+    {
+      "album": {
         "name": "Y Me Bes\u00f3",
         "url": "https://open.spotify.com/album/7DOslDoq6BKv3rQZKYHdIf"
       },
@@ -4278,7 +4314,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 200454,
       "name": "Cuerpo Natural",
       "url": "https://open.spotify.com/track/4uhRGeF8qhuNZYLrKbwxgV"
@@ -5723,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/3cmKUe4wOXjEbL77Bj6M60"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "El Sistema Solar",
+      "url": "https://open.spotify.com/track/09xMt0J034wVOVq2DmsImT"
+    },
+    {
+      "album": {
         "name": "The Bad Boy (The Most Wanted Edition)",
         "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
       },
@@ -6386,7 +6440,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -6404,7 +6458,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -6476,7 +6530,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -8184,6 +8238,32 @@
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/5zOv7QzCMrSkPJKQr1Tcif"
+    },
+    {
+      "album": {
+        "name": "Jah\u00e1ta al Mundial",
+        "url": "https://open.spotify.com/album/7baJBNh0VsrcCDuD68ZJjn"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        },
+        {
+          "name": "Mama Santa",
+          "url": "https://open.spotify.com/artist/4yfN6I5gIxbvuSCWEgM3SW"
+        },
+        {
+          "name": "Mario Halley",
+          "url": "https://open.spotify.com/artist/1sSrimbAgZPUUmtn7GrXZg"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Jah\u00e1ta al Mundial",
+      "url": "https://open.spotify.com/track/11QUmmeHtShXz3WVDEUoxF"
     },
     {
       "album": {
@@ -10510,7 +10590,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 188298,
       "name": "Mam\u00e1ma",
       "url": "https://open.spotify.com/track/0JsRLy29xQqkmxAOgsEWwd"
@@ -10826,6 +10906,24 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/39yWMXoenPOvaDwTNl1i2S"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184084,
+      "name": "Me Vuelve Loco La Albirr\u00f3",
+      "url": "https://open.spotify.com/track/7hs8PR9LlbnRswxZhkaPKM"
     },
     {
       "album": {
@@ -14636,7 +14734,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -16744,7 +16842,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 192078,
       "name": "Soy Albirrojo",
       "url": "https://open.spotify.com/track/3vMyng1aXtIT1r8Y0a6hjT"
@@ -18344,7 +18442,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 110495,
       "name": "TU VAS SIN (fav)",
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
@@ -19290,6 +19388,24 @@
       "duration_ms": 199253,
       "name": "VAMOaCOCHI",
       "url": "https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz"
+    },
+    {
+      "album": {
+        "name": "Vamos Albirr\u00f3",
+        "url": "https://open.spotify.com/album/17t11UnxVgRYbu5OZon5wu"
+      },
+      "artists": [
+        {
+          "name": "Sangre Albirroja",
+          "url": "https://open.spotify.com/artist/64kJ2BcYWxahI5X7l7xFGU"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169054,
+      "name": "Vamos Albirr\u00f3",
+      "url": "https://open.spotify.com/track/0CxRKScoL41vRtP9Tg1lWE"
     },
     {
       "album": {
@@ -20336,7 +20452,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
@@ -20374,7 +20490,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0"

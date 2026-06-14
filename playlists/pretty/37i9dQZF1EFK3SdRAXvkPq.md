@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 152 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 153 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 75 | [Ya No](https://open.spotify.com/track/6mqvfFsfBvZW3gBMlc3Wxo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya No](https://open.spotify.com/album/4fMoPysL4trKxy38MC0Pkp) | 2:48 |
 | 76 | [Gracias](https://open.spotify.com/track/0CCaGohJXrtZaNyPB3xQxz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 2:41 |
 | 77 | [Amantes](https://open.spotify.com/track/7ijXNy4CSDMFqSecPANn5p) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [GOTTI B](https://open.spotify.com/album/4ACfWcYe7nU8HbeJth17ms) | 2:04 |
-| 78 | [Esos Días](https://open.spotify.com/track/6oRyIk7U3jWGFH6zRKOT5T) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días](https://open.spotify.com/album/5YTwmNj6F1khhCCos7DV7w) | 2:31 |
-| 79 | [MHM](https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [DUAL](https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD) | 2:19 |
+| 78 | [MHM](https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [DUAL](https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD) | 2:19 |
+| 79 | [Esos Días](https://open.spotify.com/track/6oRyIk7U3jWGFH6zRKOT5T) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días](https://open.spotify.com/album/5YTwmNj6F1khhCCos7DV7w) | 2:31 |
 | 80 | [LA MISIÓN](https://open.spotify.com/track/4nN9RTkuQIX23aW4Z1nNwa) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:34 |
 | 81 | [One and Only](https://open.spotify.com/track/0EuTbYpWuCP7MAkotMUuP9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Stendhal](https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq) | 3:47 |
 | 82 | [Dando Vueltas](https://open.spotify.com/track/60vtpwMWSvG50mv5419s4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dando Vueltas](https://open.spotify.com/album/3U31M9OPy3eT9v4cxaePof) | 3:12 |
 | 83 | [ME HIZO UN FAVOR](https://open.spotify.com/track/0bODyWeaMOm8tqlgFfx3E9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 2:36 |
 | 84 | [Loco Por Perrearte](https://open.spotify.com/track/2KNeDbgymVCUJmP6PJQ4Bx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Loco Por Perrearte](https://open.spotify.com/album/5dD5GnMkozTvrcsqD1T97a) | 3:14 |
-| 85 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 |
-| 86 | [Ruca](https://open.spotify.com/track/7lTzzQWLu79UVztchgFAMR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:01 |
+| 85 | [Ruca](https://open.spotify.com/track/7lTzzQWLu79UVztchgFAMR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:01 |
+| 86 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 |
 | 87 | [Sussy](https://open.spotify.com/track/6AsNccD5m8eqlwZOQ256tg) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Playground](https://open.spotify.com/album/2NkyVnADJzU6adJMdhrSsH) | 3:14 |
 | 88 | [Se Ve](https://open.spotify.com/track/3YUFf5qfWEpridxVgjyEvH) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Stendhal](https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq) | 4:01 |
 | 89 | [0 Millas](https://open.spotify.com/track/4oNrM3k92pZat3Yrmhq6Bx) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 3:33 |
@@ -153,12 +153,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 143 | [Freshy](https://open.spotify.com/track/1kH0az3ybfv6yI7NAlLFE0) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Freshy](https://open.spotify.com/album/160ESTRdBsAbDx6kERV6TU) | 2:23 |
 | 144 | [Mi Favorita](https://open.spotify.com/track/4YTGpnKyqWeR1TnjYoEBdd) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU), [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Mi Favorita](https://open.spotify.com/album/6coF3KmIe24ZcGIucUMg5U) | 2:54 |
 | 145 | [Una Como Tu](https://open.spotify.com/track/2JiisgnK2JzDnnDPUvKUyo) | [Carlos Arroyo](https://open.spotify.com/artist/1v9AwCbfL2A1dXYWL0YGmv) | [Una Como Tu](https://open.spotify.com/album/1Kq8gisBaPFdKsF33btwKU) | 2:47 |
-| 146 | [Ca$H Ca$H](https://open.spotify.com/track/7em7X0JYptVCzZHGY5UF70) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:18 |
-| 147 | [Por Ahora](https://open.spotify.com/track/7j1GEM5wD0uV4Glx1fTTxz) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Anto\-Nio](https://open.spotify.com/album/59ALBB3cEbNoqQ9MC019Zy) | 2:24 |
-| 148 | [KYLIE](https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:00 |
-| 149 | [en la disco pensándote](https://open.spotify.com/track/6MB8jQR4PZqmiHMH4brGUS) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [XiOLLY](https://open.spotify.com/album/2zQDQd7w0BEv1slqKnp6ka) | 2:30 |
-| 150 | [QTVB](https://open.spotify.com/track/5UqXHK2uuwayIJrAMQS126) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Uno X Ciento](https://open.spotify.com/album/2eIR3IdzD32qKQQuLeQOXM) | 2:55 |
-| 151 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
-| 152 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
+| 146 | [Lagniappe](https://open.spotify.com/track/5LErpzXe83nEKVn7QFw2wW) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Femme Fatale](https://open.spotify.com/album/382fKwxrd9TGEMCKamedxj) | 3:20 |
+| 147 | [Ca$H Ca$H](https://open.spotify.com/track/7em7X0JYptVCzZHGY5UF70) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:18 |
+| 148 | [Por Ahora](https://open.spotify.com/track/7j1GEM5wD0uV4Glx1fTTxz) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Anto\-Nio](https://open.spotify.com/album/59ALBB3cEbNoqQ9MC019Zy) | 2:24 |
+| 149 | [KYLIE](https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:00 |
+| 150 | [en la disco pensándote](https://open.spotify.com/track/6MB8jQR4PZqmiHMH4brGUS) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [XiOLLY](https://open.spotify.com/album/2zQDQd7w0BEv1slqKnp6ka) | 2:30 |
+| 151 | [QTVB](https://open.spotify.com/track/5UqXHK2uuwayIJrAMQS126) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Uno X Ciento](https://open.spotify.com/album/2eIR3IdzD32qKQQuLeQOXM) | 2:55 |
+| 152 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
+| 153 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `AcUDkAAAAAA0VEj+tGnKHysL69poPiAr`
+Snapshot ID: `AcUJMAAAAACfPiqV8J+77j++XF8DHIsu`

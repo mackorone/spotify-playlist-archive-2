@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 36 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 294 likes - 36 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 4 | [sushi for breakfast](https://open.spotify.com/track/6sNxPUqycedL5qKgzUClVs) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [sushi for breakfast](https://open.spotify.com/album/4Vk4WD5RYrocyVqwTNBoBy) | 2:07 |
 | 5 | [all of that](https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:09 |
 | 6 | [16](https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [16](https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq) | 2:24 |
-| 7 | [TSUNAMI](https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TSUNAMI](https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr) | 2:06 |
-| 8 | [Monster](https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Monster](https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS) | 2:46 |
+| 7 | [Monster](https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Monster](https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS) | 2:46 |
+| 8 | [TSUNAMI](https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TSUNAMI](https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr) | 2:06 |
 | 9 | [SUGARCOAT](https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:01 |
 | 10 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
-| 11 | [not safe](https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [not safe](https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L) | 2:16 |
-| 12 | [BOTH](https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Sophie Gray](https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS) | [BOTH](https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC) | 2:34 |
+| 11 | [BOTH](https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Sophie Gray](https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS) | [BOTH](https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC) | 2:34 |
+| 12 | [not safe](https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [not safe](https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L) | 2:16 |
 | 13 | [hi fem](https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:31 |
 | 14 | [boys lie](https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO) | 2:25 |
 | 15 | [Float \(feat\. BAYLI\)](https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Float \(feat\. BAYLI\)](https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5) | 2:54 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 35 | [Kissing Practise](https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Quiet As Kept, F.O.G\. \(Extended Cut\)](https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL) | 4:22 |
 | 36 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 |
 
-Snapshot ID: `ain6gAAAAADPeAUzinFuez2DuN4J1Erx`
+Snapshot ID: `aitMAAAAAABs/Ay6lh5aGHxJSqDEvI/K`

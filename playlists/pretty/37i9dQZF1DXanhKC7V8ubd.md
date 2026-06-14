@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanhKC7V8ubd.md) - [plain]
 
 > Disfruta la música de la serie
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,149 likes - 41 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,173 likes - 41 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanhKC7V8ubd.md) - [plain]
 | 25 | [Yo No Sé Qué Me Pasó](https://open.spotify.com/track/2xapNXFHl2ZE81MEIqZlrA) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 5:12 |
 | 26 | [Buenos Días Señor Sol](https://open.spotify.com/track/2exQGoRJYeyh4t3LsviJQr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre en Mi Mente](https://open.spotify.com/album/41KWrNvgtyLOEc804OLppj) | 2:43 |
 | 27 | [Mi Más Bello Error](https://open.spotify.com/track/3VHFJxC16uBgLDrkRsaK2a) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:28 |
-| 28 | [Obertura: No Discutamos, Mi Fracaso, Adiós Amor, ..Te Vas \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/0ZJohcYnFriEYFATeRvtdv) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 4:26 |
-| 29 | [Yo No Nací para Amar \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/3KnNfFP4R25N5YAatx02qf) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 6:09 |
+| 28 | [Obertura: No Discutamos / Mi Fracaso / Adiós Amor Te Vas \- En el Palacio de Bellas Artes](https://open.spotify.com/track/0ZJohcYnFriEYFATeRvtdv) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 4:26 |
+| 29 | [Yo No Nací para Amar \- En el Palacio de Bellas Artes](https://open.spotify.com/track/3KnNfFP4R25N5YAatx02qf) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 6:09 |
 | 30 | [Debo Hacerlo](https://open.spotify.com/track/0Vu6MvjQLu68rOkhhUqY7h) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Debo Hacerlo](https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG) | 9:39 |
-| 31 | [Hasta Que Te Conocí \(Popurrí\) \[En Vivo\] \- En el Palacio de Bellas Artes](https://open.spotify.com/track/7DPqGXrgdRBDDB353sgwYx) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 25:55 |
+| 31 | [Popurrí: Hasta Que Te Conocí/La Negra Tomasa/Danzando Lambada/Caballo Viejo/Bamboleo/Hasta Que Te Conocí/Adoro/ Te Dedico Esta Canción \(Mi Canción\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/7DPqGXrgdRBDDB353sgwYx) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 25:55 |
 | 32 | [Te Lo Pido por Favor](https://open.spotify.com/track/08Jr52g99jcHUYx9NhU0IE) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:38 |
 | 33 | [Me Refugie En Tu Juventud](https://open.spotify.com/track/6QEGv9vhDD9HcpwS7nJfJl) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Juntos Otra Vez \(with Juan Gabriel\)](https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny) | 5:50 |
 | 34 | [El Final \(with Juan Gabriel\)](https://open.spotify.com/track/1R5Tpl4aLauQP6pKJT83NU) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juntos Otra Vez \(with Juan Gabriel\)](https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny) | 3:32 |

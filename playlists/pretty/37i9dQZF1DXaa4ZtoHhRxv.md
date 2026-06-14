@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,342 likes - 101 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,479 likes - 101 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 100 | [Hold You Tonight \(with Chris Lane\)](https://open.spotify.com/track/58jecLK0epwMLr9cy5vFUy) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Hold You Tonight \(with Chris Lane\)](https://open.spotify.com/album/3jpi8V1xyAiNNiheqa6Rl5) | 3:39 |
 | 101 | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/track/5hSJLszS7QUMQbVT3cwfEo) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/album/15NlctqXysjYS5fFGACncz) | 2:44 |
 
-Snapshot ID: `AAAAALaYGGCxJHY53RpAwHAgIyqh+QGc`
+Snapshot ID: `AAAAAPo8gEH+N1eNEihZBFYAFVPG4/Qb`

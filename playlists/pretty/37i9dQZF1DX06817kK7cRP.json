@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're studying or relaxing.",
-  "num_followers": 202248,
+  "num_followers": 202256,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "act n' chill",
+        "url": "https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1"
+      },
+      "artists": [
+        {
+          "name": "HPY DAYZ",
+          "url": "https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "act n' chill",
+      "url": "https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Jezerro",
         "url": "https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 153973,
       "name": "Jezerro",
       "url": "https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "act n' chill",
-        "url": "https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1"
-      },
-      "artists": [
-        {
-          "name": "HPY DAYZ",
-          "url": "https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "act n' chill",
-      "url": "https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Eat More Fruits",
-        "url": "https://open.spotify.com/album/3JENHK40xUTH4VgMbxrZVu"
-      },
-      "artists": [
-        {
-          "name": "Sweet Spot Lab",
-          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
-        }
-      ],
-      "duration_ms": 136153,
-      "name": "Eat More Fruits",
-      "url": "https://open.spotify.com/track/5zWf9Ug3ubWOizrx9iDnTi"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Cuffies",
         "url": "https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 146052,
       "name": "Cuffies",
       "url": "https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Eat More Fruits",
+        "url": "https://open.spotify.com/album/3JENHK40xUTH4VgMbxrZVu"
+      },
+      "artists": [
+        {
+          "name": "Sweet Spot Lab",
+          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
+        }
+      ],
+      "duration_ms": 136153,
+      "name": "Eat More Fruits",
+      "url": "https://open.spotify.com/track/5zWf9Ug3ubWOizrx9iDnTi"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Thursday",
-        "url": "https://open.spotify.com/album/5L829kuzY7EhGHEimMUDeF"
-      },
-      "artists": [
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        }
-      ],
-      "duration_ms": 137117,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36X8j52PvjhJztIGopCjIJ"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Hard Work",
         "url": "https://open.spotify.com/album/1hwYLeyaEykEvPT5xM9FYq"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Good feeling",
-        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
+        "name": "Thursday",
+        "url": "https://open.spotify.com/album/5L829kuzY7EhGHEimMUDeF"
       },
       "artists": [
         {
-          "name": "Moox",
-          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
         }
       ],
-      "duration_ms": 135987,
-      "name": "Good feeling",
-      "url": "https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP"
+      "duration_ms": 137117,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36X8j52PvjhJztIGopCjIJ"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -703,22 +687,18 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Dew Point",
-        "url": "https://open.spotify.com/album/4paxIGuHZFBrESPdMnx6uX"
+        "name": "Good feeling",
+        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
       },
       "artists": [
         {
-          "name": "Lofty",
-          "url": "https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0"
-        },
-        {
-          "name": "jaackson",
-          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+          "name": "Moox",
+          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
         }
       ],
-      "duration_ms": 134690,
-      "name": "Dew Point",
-      "url": "https://open.spotify.com/track/1h6pKwYlbxjV2rouBmol9T"
+      "duration_ms": 135987,
+      "name": "Good feeling",
+      "url": "https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -735,6 +715,26 @@
       "duration_ms": 144545,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/3ub8PrQqfYvPyLbzACDoGB"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Dew Point",
+        "url": "https://open.spotify.com/album/4paxIGuHZFBrESPdMnx6uX"
+      },
+      "artists": [
+        {
+          "name": "Lofty",
+          "url": "https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0"
+        },
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        }
+      ],
+      "duration_ms": 134690,
+      "name": "Dew Point",
+      "url": "https://open.spotify.com/track/1h6pKwYlbxjV2rouBmol9T"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Hi",
-        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
-      },
-      "artists": [
-        {
-          "name": "Sidual.",
-          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Hi",
-      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Reveries",
         "url": "https://open.spotify.com/album/2BtiUcWF9zmRoqgPAIJ2QA"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 122465,
       "name": "Get Home",
       "url": "https://open.spotify.com/track/1KcoB31KRMA6kq5wgxP5ws"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Hi",
+        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
+      },
+      "artists": [
+        {
+          "name": "Sidual.",
+          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Orle",
+        "url": "https://open.spotify.com/album/6s3FEdI41LNe9vgPWbgQAm"
+      },
+      "artists": [
+        {
+          "name": "Zonyo",
+          "url": "https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Orle",
+      "url": "https://open.spotify.com/track/3HMSwkVRwDlSqHjAzJ8Pqh"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Lithography Vol. 1",
         "url": "https://open.spotify.com/album/3YSXfVKvNTn58sbkhDNPdb"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Orle",
-        "url": "https://open.spotify.com/album/6s3FEdI41LNe9vgPWbgQAm"
+        "name": "Central Park",
+        "url": "https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5"
       },
       "artists": [
         {
-          "name": "Zonyo",
-          "url": "https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b"
+          "name": "Galva-Nice",
+          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Orle",
-      "url": "https://open.spotify.com/track/3HMSwkVRwDlSqHjAzJ8Pqh"
+      "duration_ms": 163500,
+      "name": "Central Park",
+      "url": "https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1143,46 +1159,6 @@
       "duration_ms": 131137,
       "name": "brief staycation",
       "url": "https://open.spotify.com/track/1ZipyL9f6fwhuSEnh9Z5gO"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4HFk3XAwn2CwQb0i8Dw3xg"
-      },
-      "artists": [
-        {
-          "name": "Teau",
-          "url": "https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID"
-        },
-        {
-          "name": "Rebiere",
-          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
-        },
-        {
-          "name": "himood",
-          "url": "https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/21huKjQlBFcumcRIwhFWG1"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Central Park",
-        "url": "https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5"
-      },
-      "artists": [
-        {
-          "name": "Galva-Nice",
-          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Central Park",
-      "url": "https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1215,6 +1191,30 @@
       "duration_ms": 140689,
       "name": "Millia",
       "url": "https://open.spotify.com/track/0sUNV4asStRuzKZt00srik"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4HFk3XAwn2CwQb0i8Dw3xg"
+      },
+      "artists": [
+        {
+          "name": "Teau",
+          "url": "https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        },
+        {
+          "name": "himood",
+          "url": "https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/21huKjQlBFcumcRIwhFWG1"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Melting Away",
-        "url": "https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ"
-      },
-      "artists": [
-        {
-          "name": "Josie Mehlin",
-          "url": "https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "Melting Away",
-      "url": "https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Moonlit",
         "url": "https://open.spotify.com/album/08eQz5C2sWlA8ivM5qv7RZ"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 112595,
       "name": "Moonlit",
       "url": "https://open.spotify.com/track/1aN1Dfdg1Fw7vkVHEV02jm"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Melting Away",
+        "url": "https://open.spotify.com/album/6Fcny8zpQ9huychcq3kHsJ"
+      },
+      "artists": [
+        {
+          "name": "Josie Mehlin",
+          "url": "https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Melting Away",
+      "url": "https://open.spotify.com/track/1dOSLiAiqzqH4fek2zyogm"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4gzdGWLEKxkUNxIyPwNp3K"
+      },
+      "artists": [
+        {
+          "name": "Prod. By Outtake",
+          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6D8pqERRdI5nwsONPRDd87"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Brooklyn Brownstone",
         "url": "https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 136000,
       "name": "Brooklyn Brownstone",
       "url": "https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4gzdGWLEKxkUNxIyPwNp3K"
-      },
-      "artists": [
-        {
-          "name": "Prod. By Outtake",
-          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
-        },
-        {
-          "name": "Zmeyev",
-          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/6D8pqERRdI5nwsONPRDd87"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Refractions",
+        "url": "https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT"
+      },
+      "artists": [
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "mishingo",
+          "url": "https://open.spotify.com/artist/4h3GbEbbDBcyrICmI4QUAK"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Refractions",
+      "url": "https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Soft Shadows",
         "url": "https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf"
       },
@@ -1643,6 +1663,22 @@
       "duration_ms": 155647,
       "name": "Soft Shadows",
       "url": "https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Moonwalker",
+        "url": "https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS"
+      },
+      "artists": [
+        {
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+        }
+      ],
+      "duration_ms": 162978,
+      "name": "Moonwalker",
+      "url": "https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1667,42 +1703,6 @@
       "duration_ms": 108000,
       "name": "Speakeasy",
       "url": "https://open.spotify.com/track/5YDoJVsS7bklB3c1YoETiy"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Moonwalker",
-        "url": "https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 162978,
-      "name": "Moonwalker",
-      "url": "https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Refractions",
-        "url": "https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT"
-      },
-      "artists": [
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "mishingo",
-          "url": "https://open.spotify.com/artist/4h3GbEbbDBcyrICmI4QUAK"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Refractions",
-      "url": "https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/1misnUF0YhwPZiEWP7ugsf"
-      },
-      "artists": [
-        {
-          "name": "CMJ",
-          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "Dinner Party",
-      "url": "https://open.spotify.com/track/0jTs2pJwZX2XHNyPyO4p2h"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "A Bouquet of Flowers",
         "url": "https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 165333,
       "name": "Sunflowers",
       "url": "https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/1misnUF0YhwPZiEWP7ugsf"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "Dinner Party",
+      "url": "https://open.spotify.com/track/0jTs2pJwZX2XHNyPyO4p2h"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke"
-      },
-      "artists": [
-        {
-          "name": "Deauxnuts",
-          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Keep Cruising",
         "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 236250,
       "name": "Keep Cruising",
       "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke"
+      },
+      "artists": [
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo"
     },
     {
       "added_at": "2026-05-26 07:53:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover \- Main Vaapas Aaunga
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,890 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,958 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

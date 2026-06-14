@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-73 songs - 4 hr 23 min
+74 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Destello](https://open.spotify.com/track/3ZkkNDpRYUYVf7o1hWM9m5) | [Psicodesia](https://open.spotify.com/artist/01gRUVy7a2Xm7zv57gNROY) | [Destello](https://open.spotify.com/album/6z1qOHM9bI1HuYtDKRxTBz) | 2:37 | 2023-05-23 |  |
 | [Diesseits](https://open.spotify.com/track/68YX8W5eZ6n42HNA7vw8EB) | [Revisor451](https://open.spotify.com/artist/1jLZBkZfxvWd9wDucP1v25) | [Wolkenhirt](https://open.spotify.com/album/6gx6tI7gqkoWV4RIfYrcNU) | 0:40 | 2024-10-20 | 2025-12-11 |
 | [Dizzy Spell \- Robert Owen Remix](https://open.spotify.com/track/4kMjKPw7NI3Z4nBHQN0miu) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Dizzy Spell \(Robert Owen Remix\)](https://open.spotify.com/album/3LYpcx19pYiwz5KNaKH4n9) | 4:00 | 2024-08-18 |  |
+| [Electric Goa](https://open.spotify.com/track/1fMsHvPAzXrHZK8tlyqQNO) | [The Last Enter](https://open.spotify.com/artist/5DzvL23NtlGCqYczriORom) | [Ethnic Freedom](https://open.spotify.com/album/5NUIQ04ZxCufKS7KCkDfhJ) | 3:24 | 2026-06-13 |  |
 | [Emptiness](https://open.spotify.com/track/2v6fP3uVKFtGWfK6GWRpDR) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Emptiness](https://open.spotify.com/album/2Lnbqbm2KFvneD7VuLcDUK) | 3:52 | 2025-08-13 |  |
 | [Ex\-Lover](https://open.spotify.com/track/5F75UuDUjuvhxY8YCfW9zN) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [Ex\-Lover](https://open.spotify.com/album/2NKNggYJ8KPq6edEqEOq0V) | 4:18 | 2026-01-17 |  |
 | [Film](https://open.spotify.com/track/0g1pfaF11B4Lo8oO8RgtW2) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Film](https://open.spotify.com/album/0gsJfbVgA2BL7xsGXuT9JO) | 4:18 | 2025-05-29 |  |

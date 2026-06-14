@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 30 | [your girlfriend´s in the bathroom, i´m trying to kiss you](https://open.spotify.com/track/2NHbMEJ3lozGJ4fRG8UIVl) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [mags](https://open.spotify.com/album/5RAlBASgQpO3Vuoq2KMHnX) | 2:26 |
 | 31 | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/track/4xNbZHwy05mDPp8aDJSVzG) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k), [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/album/4Tfp5bhONESSxLwwKFR9Jr) | 3:20 |
 | 32 | [Arcade Games](https://open.spotify.com/track/2kLGTBiwX7bFYELUIeHWC5) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [all is not well in heaven](https://open.spotify.com/album/7ffdbUVBAwlYb9dh2TdghA) | 3:06 |
-| 33 | [Avalanche](https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:08 |
+| 33 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `AcUDkAAAAAAEr7GplJt70x9e/eosWNDN`
+Snapshot ID: `AcUJMAAAAACJg0pOKSkdOH1oGL8LGyMX`

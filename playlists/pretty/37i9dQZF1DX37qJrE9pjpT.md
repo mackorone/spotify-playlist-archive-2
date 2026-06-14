@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rapcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,689 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,694 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 54 | [Glory](https://open.spotify.com/track/71l944iHhGOsZctedw8t4a) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Gifted](https://open.spotify.com/artist/0XrX0AFNhaz5uWuzV9tdIH) | [Glory](https://open.spotify.com/album/7GTHmMI3oRIuz3VDv6ekp8) | 2:54 |
 | 55 | [Salamu \(feat\. Van Star\)](https://open.spotify.com/track/6e0GXR0ZAahybXZvBMdYeO) | [Adam Mchomvu](https://open.spotify.com/artist/3utcZ5XfyGEu1okzABoJXn), [Van Star](https://open.spotify.com/artist/0jGA1IvvY5LGyHRNat5zRa) | [Salamu \(feat\. Van Star\)](https://open.spotify.com/album/1m7N1TzZkd86cbz7ym3Rmw) | 3:48 |
 | 56 | [Not A Hero](https://open.spotify.com/track/4uJgZVZzFbBTByC5Nih34o) | [Dizasta Vina](https://open.spotify.com/artist/1IC2bcgWHOl0i4YUndZLfI) | [Not A Hero](https://open.spotify.com/album/7it4TZqIGi1AiDAGHcksw8) | 5:44 |
-| 57 | [Nduki \(feat\. dutchavelli\)](https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Mbuzi](https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j) | 3:21 |
+| 57 | [Nduki \(feat\. Dutchavelli\)](https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Mbuzi](https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j) | 3:21 |
 | 58 | [Oii](https://open.spotify.com/track/15sPLwPvWBm7fOGypWV6xW) | [Bank Budha](https://open.spotify.com/artist/073OZYfKOK3OAGCcnfX82O), [Blinded Beats](https://open.spotify.com/artist/1YfhhXl6NSRLnXeHXgPiS7) | [Oii](https://open.spotify.com/album/16miUL85MfdJmskaJ3xGti) | 3:01 |
 | 59 | [Furaha](https://open.spotify.com/track/5TFlAv6T1YlAhOgispd9ma) | [Sanja Kong](https://open.spotify.com/artist/55q78Mg6CQqciS0WHDwaEs), [Belle 9](https://open.spotify.com/artist/6ggRSrG9TdJEVxreHuiapz) | [Furaha](https://open.spotify.com/album/4U06jK8aivkXgVesepycWx) | 2:34 |
 | 60 | [The Light](https://open.spotify.com/track/2lGSUOQxvsBGmFEE6ID3pr) | [Young Emperor](https://open.spotify.com/artist/1XctFd8XGLbmL2cj54sQoC) | [The Light](https://open.spotify.com/album/0AKou81sASGmv1SNLZgsyw) | 3:24 |

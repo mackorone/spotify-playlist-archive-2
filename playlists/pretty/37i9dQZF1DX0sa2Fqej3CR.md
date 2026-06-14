@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 축구 경기 응원가/테마곡과 함께 대한민국의 경기를 응원해보세요!! 🇰🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,928 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,940 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 70 | [Samba de Janeiro](https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB) | [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba de Janeiro](https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR) | 2:48 |
 | 71 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\)](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 4:11 |
 | 72 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
-| 73 | [Three Lions \(Football's Coming Home\)](https://open.spotify.com/track/0Ai6qtPfiEYGCqBGJYWD1W) | [Baddiel, Skinner & Lightning Seeds](https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h) | [Three Lions](https://open.spotify.com/album/6vOxOnQHYrXocGtFkbEx57) | 3:48 |
+| 73 | [Three Lions \(Football's Coming Home\)](https://open.spotify.com/track/0Ai6qtPfiEYGCqBGJYWD1W) | [Baddiel, Skinner & Lightning Seeds](https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h) | [Three Lions \(Football's Coming Home\)](https://open.spotify.com/album/6vOxOnQHYrXocGtFkbEx57) | 3:48 |
 | 74 | [Los Angeles City Theme x FIFA World Cup 26™️ by DJ Flict](https://open.spotify.com/track/1A0jy9LR2eoO3XSOOgaOje) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH), [DJ Flict](https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX) | [The Official FIFA World Cup 26™️ Host City Themes](https://open.spotify.com/album/6IcCa6PvGhf4f73q8uShOh) | 2:10 |
 | 75 | [We Are The Champions \- Remastered 2011](https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:59 |
 | 76 | [Desire \(Official FIFA Anthem\) \(feat\. Laura Pausini\)](https://open.spotify.com/track/4cE1UKQ5RvZlo53dL2qtzr) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Desire \(Official FIFA Anthem\) \(feat\. Laura Pausini\)](https://open.spotify.com/album/4idwkC0yHkciuQ6v0VkNU5) | 3:43 |

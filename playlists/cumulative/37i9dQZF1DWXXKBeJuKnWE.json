@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 199617,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
@@ -6101,6 +6101,24 @@
     },
     {
       "album": {
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181018,
+      "name": "House Of Matches",
+      "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
+    },
+    {
+      "album": {
         "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
         "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
       },
@@ -7448,7 +7466,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 343329,
       "name": "Like the Fourth Wall",
       "url": "https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3"
@@ -10077,6 +10095,24 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se"
+    },
+    {
+      "album": {
         "name": "The Return Of Tomorrow",
         "url": "https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX"
       },
@@ -11376,6 +11412,24 @@
       "duration_ms": 360626,
       "name": "Still Sickness",
       "url": "https://open.spotify.com/track/2ZnTLUHchoB4NCKl1sY64K"
+    },
+    {
+      "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3"
+      },
+      "artists": [
+        {
+          "name": "YHWH Nailgun",
+          "url": "https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78618,
+      "name": "Stillness Blues",
+      "url": "https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F"
     },
     {
       "album": {
@@ -13012,7 +13066,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 235800,
       "name": "Twilight Cabaret",
       "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"

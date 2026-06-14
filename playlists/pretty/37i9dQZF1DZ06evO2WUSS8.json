@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 15204,
+  "num_followers": 15205,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACZfWWczMxUUDxl7wpYRTCP",
+  "snapshot_id": "aitMAAAAAAAlpvIyE6B3dLAw3k4EF6Uk",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,30 @@
       "duration_ms": 198745,
       "name": "You Can - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5svecfVLEL5h846S2Kfdn4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batonga",
+        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
     },
     {
       "added_at": null,
@@ -619,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Sedjedo",
+      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HOPE!!",
         "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
       },
@@ -643,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+        "name": "The Lion King 2: Simba's Pride",
+        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
       },
       "artists": [
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Sedjedo",
-      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
+      "duration_ms": 250760,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
     },
     {
       "added_at": null,
@@ -679,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion King 2: Simba's Pride",
-        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
       "artists": [
         {
@@ -688,9 +728,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 250760,
-      "name": "We Are One",
-      "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
+      "duration_ms": 255333,
+      "name": "Wombo Lombo",
+      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
     },
     {
       "added_at": null,
@@ -715,22 +755,6 @@
       "duration_ms": 202466,
       "name": "For Me (feat. Charlie Wilson)",
       "url": "https://open.spotify.com/track/2L3HhDof9fD0EFI1KCMWef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Wombo Lombo",
-      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
     },
     {
       "added_at": null,
@@ -771,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 141973,
-      "name": "No Stopping Us",
-      "url": "https://open.spotify.com/track/6LL7k9NYdw4niljdYF7Pg9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
         "url": "https://open.spotify.com/album/2FQ8newTy5nZ4hw29A9wx8"
       },
@@ -807,6 +811,26 @@
       "duration_ms": 176585,
       "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
       "url": "https://open.spotify.com/track/1mSJSUeWM9AqF53z9D8QoO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 141973,
+      "name": "No Stopping Us",
+      "url": "https://open.spotify.com/track/6LL7k9NYdw4niljdYF7Pg9"
     },
     {
       "added_at": null,
@@ -999,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An African",
-        "url": "https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2"
-      },
-      "artists": [
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "An African",
-      "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR"
       },
@@ -1035,6 +1039,26 @@
       "duration_ms": 394640,
       "name": "Sparrow",
       "url": "https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An African",
+        "url": "https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "An African",
+      "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
     },
     {
       "added_at": null,
@@ -1075,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Color: Part One",
-        "url": "https://open.spotify.com/album/3fZ67qdEbXqdaGJP2uQhcg"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 224071,
-      "name": "The World Will Know",
-      "url": "https://open.spotify.com/track/2cTSxcvyIXDwyorRLGpHFE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs For Humanity",
         "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
       },
@@ -1127,6 +1131,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Color: Part One",
+        "url": "https://open.spotify.com/album/3fZ67qdEbXqdaGJP2uQhcg"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 224071,
+      "name": "The World Will Know",
+      "url": "https://open.spotify.com/track/2cTSxcvyIXDwyorRLGpHFE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -1155,26 +1179,6 @@
       "duration_ms": 237666,
       "name": "Fifa",
       "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keep Rising (The Woman King)",
-        "url": "https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ"
-      },
-      "artists": [
-        {
-          "name": "Jessy Wilson",
-          "url": "https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 194164,
-      "name": "Keep Rising - The Woman King",
-      "url": "https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

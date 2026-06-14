@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,058 likes - 235 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,144 likes - 235 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 | 234 | [Tanto](https://open.spotify.com/track/3sJoYQLr2z1t8LjI0P6smU) | [Leamouth](https://open.spotify.com/artist/0LeDIIIPpk8TMQPcbfqlTZ) | [Tanto](https://open.spotify.com/album/2tSD4fN5bODJyNYaQiaKlq) | 2:14 |
 | 235 | [raw talent](https://open.spotify.com/track/1fiLX6QvjBSo0l0QbIvn24) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [raw talent](https://open.spotify.com/album/7ba3jg4IxskbGahqLroe5H) | 2:40 |
 
-Snapshot ID: `AAAAABrIIJnDK/eMWed3y/Qz35dlIFkv`
+Snapshot ID: `AAAAAD44ObyGrYNEOhWmhaEuyT+v4Edz`

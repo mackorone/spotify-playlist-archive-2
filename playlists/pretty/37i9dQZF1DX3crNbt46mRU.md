@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Olivia Rodrigo, ZAH1DE, FiNCH, LEA, Bebe Rexha & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,909 likes - 101 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,912 likes - 101 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 25 | [If I could stop time...](https://open.spotify.com/track/1kni5NOsxhGawUi4CfWaEz) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [If I could stop time...](https://open.spotify.com/album/6ljrkih4qJTkkmJOVtnlrc) | 2:31 |
 | 26 | [glitter in the night](https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [glitter in the night](https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6) | 2:39 |
 | 27 | [SCHÖNEBERGER JUNGS](https://open.spotify.com/track/0p9NBryeVeneaPx7Kvarra) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE) | [SCHÖNEBERGER JUNGS](https://open.spotify.com/album/2BEooA9wFEiMv44raxh0nV) | 2:40 |
-| 28 | [POPKORN](https://open.spotify.com/track/6U0h1sVP05ZadxLgYDvraQ) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Hotel](https://open.spotify.com/album/710GKYlQJuDAPM5qQoYIdC) | 3:07 |
+| 28 | [Popkorn](https://open.spotify.com/track/6U0h1sVP05ZadxLgYDvraQ) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Hotel \(Premium Edition\)](https://open.spotify.com/album/710GKYlQJuDAPM5qQoYIdC) | 3:07 |
 | 29 | [GIRLS \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [GIRLS \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe) | 2:32 |
 | 30 | [what’s wrong with me](https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Robert Smith](https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:44 |
 | 31 | [Marsellus Wallace](https://open.spotify.com/track/1bvYpfabzNITCIx3xr0dfC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Marsellus Wallace](https://open.spotify.com/album/1pZ9OND8KLqWX58PbT2f97) | 2:30 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 36 | [Pennsylvania Turnpike](https://open.spotify.com/track/4gXjzDndwLo65Mtc6zsNeZ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Pennsylvania Turnpike](https://open.spotify.com/album/5PcRDcKPzr2dORUnRWROwQ) | 3:40 |
 | 37 | [Venice Beach](https://open.spotify.com/track/7CBHqqMZRpHKubp8McFKhW) | [Lexi](https://open.spotify.com/artist/6fUcsPIL6XSD0kwI04ikc2) | [Venice Beach](https://open.spotify.com/album/138sliANaaRxSGtt65IQfx) | 2:09 |
 | 38 | [Hin und Her](https://open.spotify.com/track/5PcZTsUAo5ZH9JcTmBNy5t) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [Hin und Her](https://open.spotify.com/album/0pvSH2gyRSweJqDSelxPNK) | 2:38 |
-| 39 | [Endlos](https://open.spotify.com/track/7wkLavipEtUm5ib2GjseUw) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [The Cratez](https://open.spotify.com/artist/6ZA8p8sy5EJNH168vpFw8m) | [Endlos](https://open.spotify.com/album/0ZspwgKGDfteMjxAT8u30P) | 1:45 |
+| 39 | [Endlos](https://open.spotify.com/track/7wkLavipEtUm5ib2GjseUw) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [Endlos](https://open.spotify.com/album/0ZspwgKGDfteMjxAT8u30P) | 2:17 |
 | 40 | [Zuhause](https://open.spotify.com/track/0PHll7iX0GYtln2HTpdw8t) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Zuhause](https://open.spotify.com/album/5V83T1ylkkxNkhhD9O6WgQ) | 1:54 |
 | 41 | [Nirvana](https://open.spotify.com/track/40MQCDCTKImFEBGbh8zRaR) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Von Liebe & Entzug](https://open.spotify.com/album/4j6NnlH1lYPT36LZ9fs1Eh) | 2:37 |
 | 42 | [Planet](https://open.spotify.com/track/3jqrkCLNToczOkUbutDK2B) | [Berky](https://open.spotify.com/artist/2pMOrhY7Oit4TTRe6zEvJ2), [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [Planet](https://open.spotify.com/album/4AGuMclFqXQScBUF4OICPS) | 2:32 |

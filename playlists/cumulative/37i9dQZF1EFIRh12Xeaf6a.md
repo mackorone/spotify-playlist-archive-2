@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-466 songs - 23 hr 18 min
+467 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Computer Eyes](https://open.spotify.com/track/0EEssyfGdM2PFsE1a82p5R) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 3:10 | 2025-01-09 | 2025-04-12 |
 | [Corazón](https://open.spotify.com/track/0v1qlRKi0ZwlQn4zK3kM4N) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 4:05 | 2026-04-21 |  |
 | [Crazy](https://open.spotify.com/track/7DJql3AIIFnbUUGf10hkHG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:37 | 2026-04-21 |  |
-| [Crying in the Rain](https://open.spotify.com/track/002we2OYkFf2fvF5SSTG10) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Midnight Whispers](https://open.spotify.com/album/0S8ykz524xoDdU92j8r5QR) | 1:59 | 2026-04-20 |  |
+| [Crying in the Rain](https://open.spotify.com/track/002we2OYkFf2fvF5SSTG10) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Midnight Whispers](https://open.spotify.com/album/0S8ykz524xoDdU92j8r5QR) | 1:59 | 2026-04-20 | 2026-06-14 |
+| [Crying In The Rain](https://open.spotify.com/track/5cNKTXDRPrHJuRRv2bmasg) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Crying In The Rain](https://open.spotify.com/album/0kMkn2pSEIAWmcDwCs5yRE) | 2:00 | 2026-06-13 |  |
 | [Dancin' with Tears in My Eyes](https://open.spotify.com/track/7IZKts0yjOguC78lwakLPX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Pearls: Songs of Goffin & King](https://open.spotify.com/album/0rwgfoVEgvcCvuwNsamaul) | 3:31 | 2025-01-09 | 2025-04-12 |
 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 | 2023-12-30 |  |
 | [Daughter Of Light](https://open.spotify.com/track/5tpL0OquIwmUJzLPdazwzx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:12 | 2023-12-30 |  |

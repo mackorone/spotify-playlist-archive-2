@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 16707,
+  "num_followers": 16719,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
+        "name": "ni una foto",
+        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
+      },
+      "artists": [
+        {
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
+        }
+      ],
+      "duration_ms": 192385,
+      "name": "ni una foto",
+      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
         "name": "Los Playa Vol. 1",
         "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "ni una foto",
-        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd"
       },
       "artists": [
         {
-          "name": "GAMBOA",
-          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
         }
       ],
-      "duration_ms": 192385,
-      "name": "ni una foto",
-      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+      "duration_ms": 182643,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1583,22 +1599,6 @@
       "duration_ms": 184925,
       "name": "Como Fuego",
       "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd"
-      },
-      "artists": [
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        }
-      ],
-      "duration_ms": 182643,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1783,6 +1783,30 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Manolo Ramos",
+          "url": "https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW"
+        },
+        {
+          "name": "Ghetto",
+          "url": "https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8"
       },
@@ -1839,30 +1863,6 @@
       "duration_ms": 211891,
       "name": "Tierra de Promesas (Sierra Nevada)",
       "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Manolo Ramos",
-          "url": "https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW"
-        },
-        {
-          "name": "Ghetto",
-          "url": "https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA"
     },
     {
       "added_at": "2026-05-22 04:59:38",

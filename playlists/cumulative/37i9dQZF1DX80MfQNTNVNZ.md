@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-655 songs - 1 day 14 hr 31 min
+656 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Lights Up \(feat\. Channel Tres\) \- Myd Remix](https://open.spotify.com/track/5B1JcoxYjVjRNt2ZJyraJT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lights Up \(feat\. Channel Tres\) \[Myd Remix\]](https://open.spotify.com/album/6uf2MqhxoUOvQ8tyUWOLk8) | 3:35 | 2022-03-31 | 2022-04-17 |
 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 | 2026-05-12 |  |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-11 | 2024-01-26 |
-| [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-12-23 |  |
+| [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-12-23 | 2026-06-14 |
 | [LMKWYGH](https://open.spotify.com/track/2wiIWQzSZ06GbgkABk4pT6) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 6:15 | 2022-08-18 | 2023-01-20 |
 | [Location Unknown \- feat\. NIKI \(10 Years\)](https://open.spotify.com/track/4NWrXSfKtXX5FCPqwpCuwT) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Location Unknown feat\. NIKI \(10 Years\)](https://open.spotify.com/album/49QKEYpomW6vxriaJM2xYM) | 5:31 | 2026-03-09 |  |
 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2025-06-03 | 2026-02-10 |
@@ -481,6 +481,7 @@
 | [SOBER](https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [SOBER](https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy) | 2:35 | 2023-07-13 | 2023-08-11 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 | 2026-02-12 |
 | [Solar](https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Solar](https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5) | 2:39 | 2022-07-07 | 2022-08-19 |
+| [Something Bout It](https://open.spotify.com/track/0ATYGGx8AP7w0tsTsC1L4o) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Labor Of Love](https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st) | 2:36 | 2026-06-12 |  |
 | [Somewhere You Can Fly](https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Archives Mixtape](https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni) | 2:37 | 2025-06-12 | 2025-06-28 |
 | [Sonhos Cor De Rosa](https://open.spotify.com/track/4BKsABy7jDwmuGRvnUcZkK) | [Tiawa](https://open.spotify.com/artist/0QrKRZo0bqCEvzjXfanjqw) | [Sonhos Cor De Rosa](https://open.spotify.com/album/3CaqsA6ii3fB6ME0EBZEQl) | 2:35 | 2022-03-31 | 2022-04-17 |
 | [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 | 2025-05-02 | 2026-03-26 |

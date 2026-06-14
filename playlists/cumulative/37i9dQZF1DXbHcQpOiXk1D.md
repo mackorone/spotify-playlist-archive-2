@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-815 songs - 2 day 8 hr 42 min
+816 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,7 +783,7 @@
 | [What Are You About?](https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh) | [MATTERS UNKNOWN](https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz) | [Silhouettes: A Dream Sphere Journal](https://open.spotify.com/album/5HBvvp3lcKavJbw9vnHMwP) | 3:35 | 2025-02-07 | 2025-09-05 |
 | [What Do You Do](https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [What Do You Do](https://open.spotify.com/album/6YdUUHoGvNTMHeTcNYYHmq) | 3:13 | 2024-03-08 | 2024-07-19 |
 | [What Does It Feel Like?](https://open.spotify.com/track/4tpEUoWgtQqzdpb0nllVWg) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Camilla George](https://open.spotify.com/artist/6gIw9VQPs8SI1XRYhSwYWH) | [What Does It Feel Like?](https://open.spotify.com/album/0D2ljWH1TFDbilmWRjGwST) | 2:56 | 2022-03-24 | 2022-07-26 |
-| [What I'd Give](https://open.spotify.com/track/5l7YXrYO9vwnqLetytpAkm) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [What I'd Give](https://open.spotify.com/album/4DCXpOKlV1iesz50B0NPYV) | 4:02 | 2026-04-02 |  |
+| [What I'd Give](https://open.spotify.com/track/5l7YXrYO9vwnqLetytpAkm) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [What I'd Give](https://open.spotify.com/album/4DCXpOKlV1iesz50B0NPYV) | 4:02 | 2026-04-02 | 2026-06-14 |
 | [What If Nile Rodgers And Fela Kuti Were Friends](https://open.spotify.com/track/3VeOPOlEAwZU0d4jBMcBbA) | [All Day Breakfast Cafe](https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd) | [What If Nile Rodgers And Fela Kuti Were Friends](https://open.spotify.com/album/37ddo5CFyRpim7tx97apXC) | 8:10 | 2022-01-14 | 2023-07-07 |
 | [What Kinda Music](https://open.spotify.com/track/4FQytrC7QjGy8mecYCnsuy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/7rnlxqdiSjjvceJLVMMmmv) | 3:50 | 2021-12-17 | 2022-03-25 |
 | [What We Do](https://open.spotify.com/track/4oMAEqrhyRwGL1d2iLTVxU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What We Do](https://open.spotify.com/album/5PvZJH5xtKDchKS7viqgov) | 3:19 | 2025-09-04 |  |
@@ -798,6 +798,7 @@
 | [Who Am I \(eh\-eh\)](https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY) | [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Who Am I \(eh\-eh\)](https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm) | 3:10 | 2022-08-04 | 2022-11-21 |
 | [who knows](https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [who knows](https://open.spotify.com/album/38hhGCLfuJZOmU0cnDrsRB) | 3:09 | 2026-01-09 |  |
 | [Why Are You?](https://open.spotify.com/track/7oMl1XtvJiBVsMDiaQeUW8) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Why Are You](https://open.spotify.com/album/5hTGwd8l6tWvdlkLgHwVg5) | 3:07 | 2024-10-24 | 2025-07-20 |
+| [Why Can’t You Love Me](https://open.spotify.com/track/5ZXihqMrOo8fM2OPA9enFj) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [My Man & Me](https://open.spotify.com/album/6Hf2bBJLBKaTF8yF0Jzy8z) | 4:00 | 2026-06-11 |  |
 | [Why they fly.](https://open.spotify.com/track/3wQed3BQzgZR1NXWubLvlC) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Why they fly.](https://open.spotify.com/album/41Fvn0ICyKC4Kuvu9ZRuWQ) | 1:44 | 2025-03-07 | 2026-04-03 |
 | [Widening Circles \- Regrown](https://open.spotify.com/track/5naAaC0pdrvUzNzlnlvdnc) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Earth](https://open.spotify.com/album/39n09ITi1qfmqBZz39IRYz) | 4:41 | 2024-06-14 | 2024-07-01 |
 | [Windshelter](https://open.spotify.com/track/4J0PtKNQqMzvlTbKvhpFof) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Windshelter](https://open.spotify.com/album/4dblzchQbZnp9z7jkfq1pP) | 4:43 | 2025-09-23 | 2026-05-17 |

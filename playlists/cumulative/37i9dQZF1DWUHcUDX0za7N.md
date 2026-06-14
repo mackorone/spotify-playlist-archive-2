@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: 6uff
 
-771 songs - 1 day 12 hr 13 min
+772 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [IDme \(owo to po leti\)](https://open.spotify.com/track/6tJxcQmhOM9jY744gFKWdY) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [IDme \(owo to po leti\)](https://open.spotify.com/album/3oohgPgt3Cj2hhsRUZRpvi) | 2:25 | 2023-09-14 | 2023-09-29 |
 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 | 2024-01-12 | 2024-09-28 |
 | [Ije Nwoke](https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Ije Nwoke](https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X) | 2:37 | 2024-05-10 | 2024-10-05 |
+| [Ijoba](https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Ijoba](https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj) | 2:19 | 2026-06-12 |  |
 | [Ikebe](https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0) | [DJ Madengo](https://open.spotify.com/artist/0tfwCQAV8i4yWS9ZEPZ1QF), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ikebe](https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek) | 3:09 | 2022-11-24 | 2023-01-20 |
 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 | 2026-01-14 | 2026-04-17 |
 | [ILU AGHA](https://open.spotify.com/track/6pH2EX3DVuDFMXlAVlwX35) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [ILU AGHA](https://open.spotify.com/album/2ixOzg4Fr34aI11YkAhVtt) | 3:03 | 2025-10-17 | 2026-01-15 |
@@ -633,7 +634,7 @@
 | [Shutdown](https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shutdown](https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC) | 2:59 | 2024-03-29 | 2024-11-22 |
 | [Sigh](https://open.spotify.com/track/61pbywwUdnOdgiBXmDQwLy) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Icen B4 the Cake](https://open.spotify.com/album/1z1mjM7ERkcVau0B0OWQhF) | 2:13 | 2022-10-14 | 2022-10-29 |
 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2022-11-04 | 2023-06-02 |
-| [Sin City](https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:48 | 2025-04-04 |  |
+| [Sin City](https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:48 | 2025-04-04 | 2026-06-14 |
 | [Sinner](https://open.spotify.com/track/7vHlCu70F8GQyA9cBvCoNg) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:45 | 2022-11-04 | 2022-11-19 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-02 | 2023-09-29 |
 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 | 2022-06-09 | 2022-11-16 |

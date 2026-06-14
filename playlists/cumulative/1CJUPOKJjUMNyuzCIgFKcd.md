@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-609 songs - 1 day 3 hr 31 min
+610 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,6 +578,7 @@
 | [Vertino](https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Vertino](https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R) | 5:33 | 2024-02-20 | 2024-07-23 |
 | [Visions](https://open.spotify.com/track/1NkgJ5U5Rb46t34Io9OGaJ) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Visions](https://open.spotify.com/album/2FWrzqmke6PXcX2QhmRdg2) | 2:44 | 2026-02-24 |  |
 | [Wade in The Water](https://open.spotify.com/track/1XVXMTNmNG6jyM34hmoes3) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Legend \(Deluxe\)](https://open.spotify.com/album/5xKCH7qY4mEXKXGA3N4xss) | 3:16 | 2024-11-25 | 2025-04-15 |
+| [Wait for Me](https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Wait for Me](https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8) | 3:14 | 2026-06-13 |  |
 | [WAKE EM UP](https://open.spotify.com/track/5b9eyzFhqDrxDjySPlGCo7) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [WAKE EM UP](https://open.spotify.com/album/4qjoG39v1vDKKZegKiMntm) | 2:43 | 2024-02-12 | 2024-05-21 |
 | [WAKE UP THE NEIGHBORS](https://open.spotify.com/track/1WL0XzjKDHpgfe33IEBhev) | [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [WAKE UP THE NEIGHBORS](https://open.spotify.com/album/45crqDY2TtPKhDLVTnzKyv) | 2:41 | 2024-09-23 | 2025-02-25 |
 | [War Time](https://open.spotify.com/track/71U449BwokARUhsdCW1gCk) | [Eldorado Red](https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc), [ShooterGang Kony](https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK) | [War Time](https://open.spotify.com/album/1TbKsZLiAdDgdnNVFDh49h) | 2:40 | 2024-07-22 | 2025-02-25 |

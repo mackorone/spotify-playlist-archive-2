@@ -4978,7 +4978,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 146750,
       "name": "Baqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
@@ -8399,6 +8399,24 @@
     },
     {
       "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+    },
+    {
+      "album": {
         "name": "Como Um Beijo",
         "url": "https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4"
       },
@@ -10808,7 +10826,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 198823,
       "name": "Direitos Iguais - Ao Vivo",
       "url": "https://open.spotify.com/track/0dNNhmOSnE6fOcXkNRO3uF"
@@ -13678,7 +13696,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 215040,
       "name": "Eu Te Esperarei",
       "url": "https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze"
@@ -17164,7 +17182,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 155553,
       "name": "Hoje N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/7rrzNI9TrcK7HLc5mBHUJn"
@@ -17290,6 +17308,24 @@
       "duration_ms": 176571,
       "name": "Honey Babe",
       "url": "https://open.spotify.com/track/7tcO4ICvtftGWI19MnUJXM"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
     },
     {
       "album": {
@@ -17722,7 +17758,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 179504,
       "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
       "url": "https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU"
@@ -20260,6 +20296,24 @@
       "duration_ms": 114461,
       "name": "Macetar",
       "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240100,
+      "name": "maggots for brains",
+      "url": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI"
     },
     {
       "album": {
@@ -24165,6 +24219,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
+    },
+    {
+      "album": {
         "name": "M\u00e1gica (Ao Vivo)",
         "url": "https://open.spotify.com/album/1e3FBSBxbutzfpC5tAe2w8"
       },
@@ -24740,7 +24812,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 142286,
       "name": "Nem Pagando",
       "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
@@ -29472,7 +29544,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 163674,
       "name": "Ponto G",
       "url": "https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj"
@@ -30506,7 +30578,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 273835,
       "name": "Quando Um Grande Amor Se Faz - Sertanejo S\u00e9rie A | Vol.1",
       "url": "https://open.spotify.com/track/5anu7i4DaB28dbv5qYAFs7"
@@ -30634,7 +30706,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 132346,
       "name": "Que Del\u00edcia",
       "url": "https://open.spotify.com/track/62ZeAs3fShuWFRYsV1TFFF"
@@ -30818,7 +30890,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 468953,
       "name": "Quem \u00c9 Esse? - Ao Vivo",
       "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"
@@ -33942,7 +34014,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 518783,
       "name": "SET DO JAPA NK 2.0",
       "url": "https://open.spotify.com/track/1JZDwJgE9VSC0V2GR66z63"
@@ -35031,6 +35103,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -35724,7 +35814,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 231057,
       "name": "TADINHA",
       "url": "https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw"
@@ -36780,6 +36870,24 @@
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
     },
     {
       "album": {
@@ -38590,6 +38698,24 @@
       "duration_ms": 200490,
       "name": "t\u00f4bem",
       "url": "https://open.spotify.com/track/7DQcatEz0pafKCO6LYzSef"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "u + me = <3",
+      "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
     },
     {
       "album": {
@@ -40710,7 +40836,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 270245,
       "name": "Volte Amor - Ao Vivo em Linhares",
       "url": "https://open.spotify.com/track/58etYboXC3fk4jBQQNI1WC"

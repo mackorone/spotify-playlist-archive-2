@@ -1,6 +1,6 @@
 {
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with Armin van Buuren & Hannah Liang",
-  "num_followers": 875393,
+  "num_followers": 875571,
   "original_name": "Trance Mission",
   "owner": {
     "name": "Spotify",
@@ -787,30 +787,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Astra",
-        "url": "https://open.spotify.com/album/2B2u8Eatyh0M0ZJ1Og3hHz"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Crooked Bangs",
-          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Astra",
-      "url": "https://open.spotify.com/track/0lLbYllOSgXnuKM2rA59Xw"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "Supersonic / Hands Up In The Sky",
         "url": "https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 208111,
       "name": "Fair",
       "url": "https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/2B2u8Eatyh0M0ZJ1Og3hHz"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Astra",
+      "url": "https://open.spotify.com/track/0lLbYllOSgXnuKM2rA59Xw"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1135,6 +1135,30 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG"
+      },
+      "artists": [
+        {
+          "name": "DOREY",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        },
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "duration_ms": 222978,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
         "name": "When Nobody Cares",
         "url": "https://open.spotify.com/album/2yaUK99KUedhcxrzwZns9C"
       },
@@ -1195,30 +1219,6 @@
       "duration_ms": 236521,
       "name": "Eclipsed By You",
       "url": "https://open.spotify.com/track/2Kv90dB4Bc0nXScJcQVc2C"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG"
-      },
-      "artists": [
-        {
-          "name": "DOREY",
-          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
-        },
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        },
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
-        }
-      ],
-      "duration_ms": 222978,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Inside This Room",
-        "url": "https://open.spotify.com/album/3guP2LE0HLHwyoqweuEoYF"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        }
-      ],
-      "duration_ms": 192608,
-      "name": "Inside This Room",
-      "url": "https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "Bullet In The Gun",
         "url": "https://open.spotify.com/album/1WqYGLcVq84pevylmgVRAP"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 240000,
       "name": "Bullet In The Gun",
       "url": "https://open.spotify.com/track/79Bo5d7iwaj8eYPn52A6Ni"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "Inside This Room",
+        "url": "https://open.spotify.com/album/3guP2LE0HLHwyoqweuEoYF"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 192608,
+      "name": "Inside This Room",
+      "url": "https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "NEON DUSK PROTOCOL",
-        "url": "https://open.spotify.com/album/50vghDLBK8nJvYu5Cae1Dx"
-      },
-      "artists": [
-        {
-          "name": "SUPERSTRINGS",
-          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
-        }
-      ],
-      "duration_ms": 202437,
-      "name": "NEON DUSK PROTOCOL",
-      "url": "https://open.spotify.com/track/3vLLB4uWZC1xOOcyx4NlYj"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "I Can See It",
         "url": "https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 172202,
       "name": "I Can See It",
       "url": "https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "NEON DUSK PROTOCOL",
+        "url": "https://open.spotify.com/album/50vghDLBK8nJvYu5Cae1Dx"
+      },
+      "artists": [
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "duration_ms": 202437,
+      "name": "NEON DUSK PROTOCOL",
+      "url": "https://open.spotify.com/track/3vLLB4uWZC1xOOcyx4NlYj"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
+        "name": "Echoes of Light",
+        "url": "https://open.spotify.com/album/2jsEJpyLXvBjcxroM6E18A"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Roncone",
+          "url": "https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Echoes of Light",
+      "url": "https://open.spotify.com/track/6E0Hs3MqwdTg3ffd61mNCg"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
         "name": "Each Other",
         "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 221818,
       "name": "Eyes Open Wide (feat. The Melody Men)",
       "url": "https://open.spotify.com/track/3lNB6AIzIndg6zUzWH8Wql"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
-        "name": "Echoes of Light",
-        "url": "https://open.spotify.com/album/2jsEJpyLXvBjcxroM6E18A"
-      },
-      "artists": [
-        {
-          "name": "Alessandra Roncone",
-          "url": "https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Echoes of Light",
-      "url": "https://open.spotify.com/track/6E0Hs3MqwdTg3ffd61mNCg"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Faultline",
-        "url": "https://open.spotify.com/album/624dOqHl09SJsjMWBj9T9f"
-      },
-      "artists": [
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG"
-        }
-      ],
-      "duration_ms": 220821,
-      "name": "Faultline",
-      "url": "https://open.spotify.com/track/1ohbar8IexoLGkxFiwwqPT"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 209674,
       "name": "Never",
       "url": "https://open.spotify.com/track/4T39ARHlb0UL7nsz4iUQPj"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "Faultline",
+        "url": "https://open.spotify.com/album/624dOqHl09SJsjMWBj9T9f"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG"
+        }
+      ],
+      "duration_ms": 220821,
+      "name": "Faultline",
+      "url": "https://open.spotify.com/track/1ohbar8IexoLGkxFiwwqPT"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/5VWET59iP5mSb7FXmI7f7j"
+      },
+      "artists": [
+        {
+          "name": "Doppenberg",
+          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
+        },
+        {
+          "name": "MIDI Kittyy",
+          "url": "https://open.spotify.com/artist/0MskAXm9cAVHMKcrBziwV4"
+        }
+      ],
+      "duration_ms": 232285,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/6eb8m9i9YfjdyqiOOrgXCR"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
         "name": "When I Found You",
         "url": "https://open.spotify.com/album/3gftFtNaaZxWSrPzOBGKM9"
       },
@@ -1879,22 +1899,18 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Who You Are",
-        "url": "https://open.spotify.com/album/5VWET59iP5mSb7FXmI7f7j"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
       },
       "artists": [
         {
-          "name": "Doppenberg",
-          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
-        },
-        {
-          "name": "MIDI Kittyy",
-          "url": "https://open.spotify.com/artist/0MskAXm9cAVHMKcrBziwV4"
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
         }
       ],
-      "duration_ms": 232285,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/6eb8m9i9YfjdyqiOOrgXCR"
+      "duration_ms": 236996,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1919,18 +1935,18 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
+        "name": "King's Secret Garden",
+        "url": "https://open.spotify.com/album/7rK8O7wufgwaB3QKTfjLUB"
       },
       "artists": [
         {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
         }
       ],
-      "duration_ms": 236996,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
+      "duration_ms": 179142,
+      "name": "King's Secret Garden",
+      "url": "https://open.spotify.com/track/0VNjHw4IngGNVHw8eyqlqx"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1951,18 +1967,22 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "King's Secret Garden",
-        "url": "https://open.spotify.com/album/7rK8O7wufgwaB3QKTfjLUB"
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa"
       },
       "artists": [
         {
-          "name": "Ahmed Helmy",
-          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 179142,
-      "name": "King's Secret Garden",
-      "url": "https://open.spotify.com/track/0VNjHw4IngGNVHw8eyqlqx"
+      "duration_ms": 210236,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -1987,26 +2007,6 @@
       "duration_ms": 186838,
       "name": "The Orange Theme",
       "url": "https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa"
-      },
-      "artists": [
-        {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 210236,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Trustfall",
-        "url": "https://open.spotify.com/album/7aaYQwMrTyNyrMgqvRpLZY"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "Trustfall",
-      "url": "https://open.spotify.com/track/1CkUMMdKrZsmuJdzkHKFwo"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "Seven Seas",
         "url": "https://open.spotify.com/album/7xWGfkbOi8UnDJxb51lSVR"
       },
@@ -2235,6 +2215,26 @@
       "duration_ms": 195000,
       "name": "Seven Seas / The Poem",
       "url": "https://open.spotify.com/track/7dub73ADzBTXTuN6ONhfWM"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
+        "name": "Trustfall",
+        "url": "https://open.spotify.com/album/7aaYQwMrTyNyrMgqvRpLZY"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "Trustfall",
+      "url": "https://open.spotify.com/track/1CkUMMdKrZsmuJdzkHKFwo"
     },
     {
       "added_at": "2026-06-11 22:02:55",
@@ -2391,26 +2391,6 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/6OIEacqHqXdcKmS3m5PJIz"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Helmy",
-          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
-        },
-        {
-          "name": "Cari",
-          "url": "https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/6RcemUDuHKPPGO5BTm6CsG"
-    },
-    {
-      "added_at": "2026-06-11 22:02:55",
-      "album": {
         "name": "ResuRection (Call Me)",
         "url": "https://open.spotify.com/album/6MfwXxqZWKDS1B0nVMYrW6"
       },
@@ -2435,6 +2415,26 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6OIEacqHqXdcKmS3m5PJIz"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+        },
+        {
+          "name": "Cari",
+          "url": "https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/6RcemUDuHKPPGO5BTm6CsG"
+    },
+    {
+      "added_at": "2026-06-11 22:02:55",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/391dou0sf3aAeqXzfSrMHW"
       },
@@ -2455,18 +2455,22 @@
     {
       "added_at": "2026-06-11 22:02:55",
       "album": {
-        "name": "Kick It",
-        "url": "https://open.spotify.com/album/68P5Ie37aH4kHSLssBESy5"
+        "name": "Turn Back",
+        "url": "https://open.spotify.com/album/5US7NXUSEZcFrWpumiMQ5i"
       },
       "artists": [
         {
-          "name": "Ben Gold",
-          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+          "name": "Daxson",
+          "url": "https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW"
+        },
+        {
+          "name": "Clara Yates",
+          "url": "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
         }
       ],
-      "duration_ms": 145306,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/5D0raSenwu2KadnM5fUzOS"
+      "duration_ms": 195107,
+      "name": "Turn Back",
+      "url": "https://open.spotify.com/track/6XAlf4sB4AWqwsKCTCQ9Ei"
     }
   ],
   "unique_name": "Trance Mission",

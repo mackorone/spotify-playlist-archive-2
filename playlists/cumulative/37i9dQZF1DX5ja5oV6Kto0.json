@@ -5657,6 +5657,28 @@
     },
     {
       "album": {
+        "name": "Don't Chase Me Away",
+        "url": "https://open.spotify.com/album/3DeMDwnfny4OTTfSdkStY0"
+      },
+      "artists": [
+        {
+          "name": "Cheruu",
+          "url": "https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB"
+        },
+        {
+          "name": "Chris Barr",
+          "url": "https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Don't Chase Me Away",
+      "url": "https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs"
+    },
+    {
+      "album": {
         "name": "Don't Go Far",
         "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
       },
@@ -8020,6 +8042,24 @@
       "duration_ms": 264760,
       "name": "Grindin'",
       "url": "https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS"
+    },
+    {
+      "album": {
+        "name": "growing up",
+        "url": "https://open.spotify.com/album/7ysHLnYuy40kbl5j7jCZ4M"
+      },
+      "artists": [
+        {
+          "name": "seyyoh",
+          "url": "https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "growing up",
+      "url": "https://open.spotify.com/track/5UOAfVQgz65gboUYoebRXp"
     },
     {
       "album": {
@@ -13142,7 +13182,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 237000,
       "name": "My letter to Zayn",
       "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
@@ -21018,7 +21058,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 119092,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/4DlM9d78S4HMaWnEHrVmRM"

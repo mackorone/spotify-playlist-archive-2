@@ -4,7 +4,7 @@
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-106 songs - 6 hr 59 min
+107 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Shovel In Hand \- 2025 Remaster](https://open.spotify.com/track/2scLfUCdzBYORZSL2dHQNV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 3:35 | 2025-04-13 | 2025-04-15 |
 | [Sing Your Praise To The Lord](https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:17 | 2023-04-02 |  |
 | [Softly And Tenderly](https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:03 | 2024-03-23 | 2025-12-25 |
-| [Somewhere Down The Road](https://open.spotify.com/track/63VewBt9Bbb4QntRb7mZ9S) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Behind The Eyes \(Remastered\)](https://open.spotify.com/album/7a5DZH4Hx6bv9r7JjUtrRd) | 5:09 | 2026-06-07 |  |
+| [Somewhere Down The Road](https://open.spotify.com/track/63VewBt9Bbb4QntRb7mZ9S) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Behind The Eyes \(Remastered\)](https://open.spotify.com/album/7a5DZH4Hx6bv9r7JjUtrRd) | 5:09 | 2026-06-07 | 2026-06-14 |
 | [Somewhere Somehow](https://open.spotify.com/track/52wbWBHEdMoGwO0zBo9FLS) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Change Your World](https://open.spotify.com/album/4e09Ygjp2WiHzqXqV1J1HR) | 4:15 | 2023-04-02 |  |
 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 | 2023-04-02 |  |
 | [Takes A Little Time](https://open.spotify.com/track/7hrwRUVE2exQkdZWjWl46i) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Behind The Eyes \(Remastered\)](https://open.spotify.com/album/7a5DZH4Hx6bv9r7JjUtrRd) | 4:32 | 2023-04-02 | 2023-04-16 |
@@ -95,6 +95,7 @@
 | [The Me That Remains](https://open.spotify.com/track/3DtDW1lguAxHojpMaMU9Fe) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Me That Remains](https://open.spotify.com/album/2ktGWYSlesWJvh47DhAQZm) | 3:45 | 2026-02-22 | 2026-05-17 |
 | [The Me That Remains](https://open.spotify.com/track/762zDbtUFKydiJ0ZiBejeI) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 3:45 | 2026-05-17 |  |
 | [The Next Time I Fall \(with Amy Grant\)](https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 3:46 | 2023-04-02 |  |
+| [The Other Side \(feat\. Amy Grant & Vince Gill\)](https://open.spotify.com/track/5A9vHWnC0NXzqQvTBWTbOG) | [Matt Brouwer](https://open.spotify.com/artist/7b5fhoHgMWMtu8L1fda8tW), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Writing to Remember](https://open.spotify.com/album/2cuTAm3kPspoDocaYW39BP) | 3:51 | 2026-06-14 |  |
 | [The Other Side Of Goodbye](https://open.spotify.com/track/6pVEBhRWnQLuIiDB0lsoFg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Sarah Cannon](https://open.spotify.com/artist/7dMCLcxGDEpPHQMrVSi0iC), [Corrina Gill](https://open.spotify.com/artist/0XX6hv23ARM9vJoaAGlaHX) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 3:30 | 2026-05-11 |  |
 | [The Saint](https://open.spotify.com/track/1DXTUFp7PD9ifGZcqAsaM0) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 3:20 | 2026-05-10 |  |
 | [These are the Days \(feat\. Amy Grant\)](https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:50 | 2023-11-10 | 2026-05-11 |

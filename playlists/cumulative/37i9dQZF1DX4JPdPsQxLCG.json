@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 132000,
       "name": "Car Crash in G Major",
       "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
@@ -7227,7 +7227,7 @@
     },
     {
       "album": {
-        "name": "Somehow Made It Out",
+        "name": "SOMEHOW MADE IT OUT",
         "url": "https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B"
       },
       "artists": [
@@ -7240,7 +7240,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222513,
-      "name": "Somehow Made It Out",
+      "name": "SOMEHOW MADE IT OUT",
       "url": "https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3"
     },
     {
@@ -7458,7 +7458,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 285653,
       "name": "Stay Wild",
       "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
@@ -8831,6 +8831,24 @@
     },
     {
       "album": {
+        "name": "Vending Machine",
+        "url": "https://open.spotify.com/album/3JH7oecZaWwIlg4XbvW2IX"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211204,
+      "name": "Vending Machine",
+      "url": "https://open.spotify.com/track/3FampdJjnIzpdxLyTtTCyb"
+    },
+    {
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -9164,6 +9182,24 @@
       "duration_ms": 259026,
       "name": "Wheat Kings",
       "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"
+    },
+    {
+      "album": {
+        "name": "When I Get Drunk (I Want You Boy)",
+        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "When I Get Drunk (I Want You Boy)",
+      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
     },
     {
       "album": {

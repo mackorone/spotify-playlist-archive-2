@@ -589,24 +589,6 @@
     },
     {
       "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "date_added": "2025-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 1555840,
-      "name": "Hasta Que Te Conoc\u00ed (Popurr\u00ed) [En Vivo] - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/7DPqGXrgdRBDDB353sgwYx"
-    },
-    {
-      "album": {
         "name": "Have You Ever Seen The Rain? (Gracias Al Sol)",
         "url": "https://open.spotify.com/album/3X2YDyu4CldfyNrq293rjT"
       },
@@ -1052,7 +1034,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 266733,
-      "name": "Obertura: No Discutamos, Mi Fracaso, Adi\u00f3s Amor, ..Te Vas (En Vivo) - En el Palacio de Bellas Artes",
+      "name": "Obertura: No Discutamos / Mi Fracaso / Adi\u00f3s Amor Te Vas - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/0ZJohcYnFriEYFATeRvtdv"
     },
     {
@@ -1108,6 +1090,24 @@
       "duration_ms": 354013,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/5rycwubN7We1zdSDM1ZABW"
+    },
+    {
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1555840,
+      "name": "Popurr\u00ed: Hasta Que Te Conoc\u00ed/La Negra Tomasa/Danzando Lambada/Caballo Viejo/Bamboleo/Hasta Que Te Conoc\u00ed/Adoro/ Te Dedico Esta Canci\u00f3n (Mi Canci\u00f3n) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/7DPqGXrgdRBDDB353sgwYx"
     },
     {
       "album": {
@@ -1510,7 +1510,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 369986,
-      "name": "Yo No Nac\u00ed para Amar (En Vivo) - En el Palacio de Bellas Artes",
+      "name": "Yo No Nac\u00ed para Amar - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/3KnNfFP4R25N5YAatx02qf"
     },
     {

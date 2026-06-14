@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12610,
+  "num_followers": 12613,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
-        "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
-      },
-      "artists": [
-        {
-          "name": "\ubc30\uc774 (NMIXX)",
-          "url": "https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
-    },
-    {
-      "added_at": "2026-05-13 08:52:28",
-      "album": {
         "name": "Love(Prod.Rocoberry)",
         "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 220626,
       "name": "Love(Prod.Rocoberry)",
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
+    },
+    {
+      "added_at": "2026-05-13 08:52:28",
+      "album": {
+        "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
+        "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
+      },
+      "artists": [
+        {
+          "name": "\ubc30\uc774 (NMIXX)",
+          "url": "https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
+        "name": "Before the Petals Fall",
+        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Before the Petals Fall",
+      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
+    },
+    {
+      "added_at": "2026-05-13 08:52:28",
+      "album": {
         "name": "The spring you never knew (with Yoojongkwon)",
         "url": "https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 213510,
       "name": "The spring you never knew (with Yoojongkwon)",
       "url": "https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk"
-    },
-    {
-      "added_at": "2026-05-13 08:52:28",
-      "album": {
-        "name": "Before the Petals Fall",
-        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Before the Petals Fall",
-      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
     },
     {
       "added_at": "2026-05-13 08:52:28",

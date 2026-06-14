@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: The Avalanches",
-  "num_followers": 138075,
+  "num_followers": 138063,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
+        "name": "Walk a Straight Line",
+        "url": "https://open.spotify.com/album/76fPezEx4UhZ7Tmh4Suefn"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Walk a Straight Line",
+      "url": "https://open.spotify.com/track/0KplVgxoofAxkihR8wOG54"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
         "name": "End Of Summer",
         "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
       },
@@ -651,38 +667,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Walk a Straight Line",
-        "url": "https://open.spotify.com/album/76fPezEx4UhZ7Tmh4Suefn"
-      },
-      "artists": [
-        {
-          "name": "Mack Geiger",
-          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Walk a Straight Line",
-      "url": "https://open.spotify.com/track/0KplVgxoofAxkihR8wOG54"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
-        "name": "The Biggest Dick",
-        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 163296,
-      "name": "The Biggest Dick",
-      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "LEZ GO!",
         "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 164566,
       "name": "LEZ GO!",
       "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "The Biggest Dick",
+        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 163296,
+      "name": "The Biggest Dick",
+      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "If That Makes Sense",
         "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 178303,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "A PERFECT WORLD",
-        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "A PERFECT WORLD",
-      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "Experiencing Feelings of Joy",
         "url": "https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F"
       },
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "wraith",
-        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 245892,
-      "name": "summer in december",
-      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "Karaoke Bar",
         "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
       },
@@ -1099,6 +1067,38 @@
       "duration_ms": 204467,
       "name": "Karaoke Bar",
       "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "A PERFECT WORLD",
+        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "A PERFECT WORLD",
+      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "wraith",
+        "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 245892,
+      "name": "summer in december",
+      "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1199,6 +1199,30 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
+        "name": "Ya Mind",
+        "url": "https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Lock 'N Load",
+          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
+        },
+        {
+          "name": "Harry Bee",
+          "url": "https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ya Mind",
+      "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
         "name": "Tragic Magic",
         "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
       },
@@ -1211,26 +1235,6 @@
       "duration_ms": 271087,
       "name": "Maker",
       "url": "https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1279,26 +1283,22 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Ya Mind",
-        "url": "https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5"
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         },
         {
-          "name": "Lock 'N Load",
-          "url": "https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9"
-        },
-        {
-          "name": "Harry Bee",
-          "url": "https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Ya Mind",
-      "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1315,22 +1315,6 @@
       "duration_ms": 193915,
       "name": "Chase Your Tail",
       "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
-        "name": "These Arms",
-        "url": "https://open.spotify.com/album/0wlMUld5GFdP9oLIMMd5om"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "These Arms",
-      "url": "https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
+        "name": "These Arms",
+        "url": "https://open.spotify.com/album/0wlMUld5GFdP9oLIMMd5om"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "These Arms",
+      "url": "https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Love Balloon",
-      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1423,34 +1407,18 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "LIFE KEEPS GOING",
-        "url": "https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m"
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 219204,
-      "name": "LIFE KEEPS GOING",
-      "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
-        "name": "I Love You Out Loud",
-        "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 213023,
-      "name": "I Love You Out Loud",
-      "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1471,6 +1439,22 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
+        "name": "I Love You Out Loud",
+        "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 213023,
+      "name": "I Love You Out Loud",
+      "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
         "name": "Ask That God",
         "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 256381,
       "name": "The Feeling You Get",
       "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "LIFE KEEPS GOING",
+        "url": "https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 219204,
+      "name": "LIFE KEEPS GOING",
+      "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Everything Every Single Day (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1sKinipNp30KnwhZTke1My"
-      },
-      "artists": [
-        {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
-        },
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 220966,
-      "name": "How to Breathe (feat. Matt Corby)",
-      "url": "https://open.spotify.com/track/6B2OZ4hgTVFsBLW4kmOibB"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "gossip",
         "url": "https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 199690,
       "name": "gossip",
       "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "Everything Every Single Day (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1sKinipNp30KnwhZTke1My"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        },
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 220966,
+      "name": "How to Breathe (feat. Matt Corby)",
+      "url": "https://open.spotify.com/track/6B2OZ4hgTVFsBLW4kmOibB"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Between Us",
-        "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
+        "name": "Miss You In The Morning",
+        "url": "https://open.spotify.com/album/3ctTWJYKS5XsVacC6s5O8R"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Femi Koleoso",
-          "url": "https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V"
+          "name": "Lane Pittman",
+          "url": "https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ"
         }
       ],
-      "duration_ms": 197122,
-      "name": "It Never Ends",
-      "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
+      "duration_ms": 205128,
+      "name": "Miss You In The Morning",
+      "url": "https://open.spotify.com/track/07o5o1HfjMhEZBouOED4GZ"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1699,18 +1695,22 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Miss You In The Morning",
-        "url": "https://open.spotify.com/album/3ctTWJYKS5XsVacC6s5O8R"
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
       },
       "artists": [
         {
-          "name": "Lane Pittman",
-          "url": "https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Femi Koleoso",
+          "url": "https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V"
         }
       ],
-      "duration_ms": 205128,
-      "name": "Miss You In The Morning",
-      "url": "https://open.spotify.com/track/07o5o1HfjMhEZBouOED4GZ"
+      "duration_ms": 197122,
+      "name": "It Never Ends",
+      "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
     },
     {
       "added_at": "2026-06-11 14:01:26",

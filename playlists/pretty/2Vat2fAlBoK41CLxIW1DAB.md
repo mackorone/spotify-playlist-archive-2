@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,592 likes - 1,033 songs - 2 day 17 hr 10 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,592 likes - 1,038 songs - 2 day 17 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1041,5 +1041,10 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1031 | [New World Disorder](https://open.spotify.com/track/6wVSfiqid6s1ylZ7jqHTAR) | [Intruder X](https://open.spotify.com/artist/2E8VDadqw9XWUxyggxNUch), [Within Shadows](https://open.spotify.com/artist/0h6y5s8dNwgfvGFrAXzD13) | [New World Disorder](https://open.spotify.com/album/5VQCZ6Isa1vU2713QOiZiZ) | 3:26 |
 | 1032 | [The More I Know You \(The Less I Feel Being a Part of It\)](https://open.spotify.com/track/3Ge205IaMXPiODIjpFpaUF) | [Set to Change](https://open.spotify.com/artist/5nGJaJYOxnj9OAFqeNM40U) | [The Great Nothing](https://open.spotify.com/album/3O29xMIWvR4YnhEBpY5qQ8) | 3:54 |
 | 1033 | [Part of the Deal](https://open.spotify.com/track/0hsnlQNXNSqKjFnO6Oj0Jv) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Part of the Deal](https://open.spotify.com/album/0hspMmrXzAYpwBTP3TGs3a) | 3:32 |
+| 1034 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 |
+| 1035 | [Silencio y olvido](https://open.spotify.com/track/6xB10LnSD1naKlIXwCA0lP) | [Jade](https://open.spotify.com/artist/6qkC5xhGUZiY9zO0OjA8P7), [Yo](https://open.spotify.com/artist/3G82GSSIUk54XY7m19io4x) | [De lirios y delirios](https://open.spotify.com/album/5MMuHHvCg1pNmwlYdw1k2K) | 5:27 |
+| 1036 | [Phantom Pain](https://open.spotify.com/track/4NxNryJCCTgM1qH1yperrc) | [FUFZ](https://open.spotify.com/artist/6KNFJrJCNntGvNIJO64G41) | [Phantom Pain](https://open.spotify.com/album/2LlwJ8hXUQjgjNpeJ2ZgDb) | 4:12 |
+| 1037 | [Sweet Nothings](https://open.spotify.com/track/5meGXDPEwVvoZ5CDY4dnRZ) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Sweet Nothings](https://open.spotify.com/album/27VrebPBcPe2si5mYezIHp) | 2:45 |
+| 1038 | [Mend](https://open.spotify.com/track/041405dXJvK89ymfLPwd3M) | [Great Escapes](https://open.spotify.com/artist/5U9BpGbYvHLcS6ED35PGeG) | [Mend](https://open.spotify.com/album/6jaynVsSOfbjLstKOCqxP9) | 2:42 |
 
-Snapshot ID: `AAAEMMn3l3w9dzQ2asJ97Z60Lclf6o+Z`
+Snapshot ID: `AAAENf88kdX0ikhbEutVweE8w40O1rOz`

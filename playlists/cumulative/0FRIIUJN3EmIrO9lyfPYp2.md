@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-919 songs - 1 day 7 hr 55 min
+925 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [cairn](https://open.spotify.com/track/0MrXp6b4dIKDinAIgeLDjs) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [cairn](https://open.spotify.com/album/0EA08wJHjBBr4a0vZbfHj9) | 1:11 | 2026-05-16 |  |
 | [Call Me](https://open.spotify.com/track/6JVo5FcnUm6pp3I5VgneX7) | [Fraqu](https://open.spotify.com/artist/6snLCgJWIQgUl9h9vNkdE2) | [Call Me](https://open.spotify.com/album/1zsHEAqex6QnAaEabOzXQS) | 1:20 | 2025-03-28 |  |
 | [can you hear me](https://open.spotify.com/track/36HX5yZlfa61TRCVpURSvP) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [can you hear me](https://open.spotify.com/album/1saOdzfv16QmauJBcnisKB) | 1:25 | 2025-08-02 |  |
+| [can't focus](https://open.spotify.com/track/5gzls9id5BMMRh1GVDqOOl) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI), [Dean Korso](https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx) | [can't focus](https://open.spotify.com/album/0gdfxUnQGQnZ0XnOZq8Qsf) | 2:19 | 2026-06-13 |  |
 | [cascade](https://open.spotify.com/track/6DEwrNh4mwUQNMxPUgJMop) | [inertia.](https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH), [nest.acoustics](https://open.spotify.com/artist/2hI1J8xNmxWrJ8KNSq8bA3) | [cascade](https://open.spotify.com/album/2ZmFEXyB9g9fixYMTLJSK3) | 2:05 | 2025-07-04 |  |
 | [cascade of tears](https://open.spotify.com/track/54cAcsnPbhuiQuiKe5TOOw) | [Soli2ude](https://open.spotify.com/artist/7ubxVOWczeDrGXewrxeNpu) | [broken dreams](https://open.spotify.com/album/5meV7MUTXITWkvikfkZnpN) | 2:10 | 2025-05-02 |  |
 | [cellular.aux](https://open.spotify.com/track/3dQokuL5SjhfY7au1lyTFw) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [cellular.aux](https://open.spotify.com/album/3eIpsvbKabQoUsmD7PXhiT) | 1:30 | 2025-10-24 |  |
@@ -211,6 +212,7 @@
 | [don't leave me alone](https://open.spotify.com/track/4Nrh5ol6pUuRyma4oEam9Z) | [rexlity](https://open.spotify.com/artist/6NGwHXK7pxQF4J2mxG4o86) | [don't leave me alone](https://open.spotify.com/album/2oOM7USnOyHmOoKb0eQLwk) | 2:14 | 2025-11-14 |  |
 | [don't let it go](https://open.spotify.com/track/4xsPLzqdMp7KBNQKwq1lsf) | [oversly](https://open.spotify.com/artist/0yW83Q0140sPnXTdk9gcyK) | [don't let it go](https://open.spotify.com/album/4dNfStWifetJTMCIspzmqG) | 2:00 | 2026-01-31 |  |
 | [don’t miss the past](https://open.spotify.com/track/3Q9x07VJ0YdCbp6FB2RW5i) | [forworn](https://open.spotify.com/artist/7JfmD7ppQAdkpWbqbGunko), [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [don’t miss the past](https://open.spotify.com/album/0vu7hFBCcNL6c1igwyphNI) | 1:16 | 2025-08-15 |  |
+| [douleur](https://open.spotify.com/track/10h1PoRpZLlROIAwQEcqSR) | [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [douleur](https://open.spotify.com/album/7yFlKZoTFtbO9MI3qksc2E) | 1:47 | 2026-06-13 |  |
 | [dread](https://open.spotify.com/track/4ZFHuWkeUUPckeer8cPznE) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [dread](https://open.spotify.com/album/4h1MstXkjoA8yZLcz2xJuV) | 2:52 | 2025-10-10 |  |
 | [Dream \(Short Version\)](https://open.spotify.com/track/0VsFrYFSfQQKGnGO3A6pgJ) | [Cholosus](https://open.spotify.com/artist/2IxefYESLxSZta8oWQOSvv) | [Dream](https://open.spotify.com/album/5Z1kpyPx0btNe8O3jZZl1b) | 3:08 | 2026-03-09 | 2026-03-12 |
 | [dream dealer](https://open.spotify.com/track/14jHbx8QjBgqjcn2B9TN7X) | [Sorry for the Delay](https://open.spotify.com/artist/0D2lWsYQ8aCg0zAPGydfBl) | [dream dealer](https://open.spotify.com/album/6Y2rMS8ptdZa7dAAEtjQDP) | 2:15 | 2025-07-04 |  |
@@ -369,6 +371,7 @@
 | [haloscapes](https://open.spotify.com/track/5unCXOlBmRQJDpy0JQaltJ) | [ID10](https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX) | [haloscapes](https://open.spotify.com/album/19MufRxaebPdyGaqhqfTYi) | 1:40 | 2026-03-27 |  |
 | [hasamiro](https://open.spotify.com/track/4tOKSHBVhgeokesqhlDf1w) | [tapei](https://open.spotify.com/artist/6IJCzUQPa8OZTS14N55erm) | [hasamiro](https://open.spotify.com/album/7jfa6cjx3c0CEmYOgOwXLK) | 3:15 | 2025-03-28 |  |
 | [have we met before?](https://open.spotify.com/track/0xvkFdFtVfCZqMdMuJtwhP) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn), [ID10](https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX) | [reality is a lie](https://open.spotify.com/album/1II9by0TMFS5AQ1KQhkCBH) | 1:55 | 2026-02-14 |  |
+| [headache](https://open.spotify.com/track/6nepmdwTUyODA1cpK9cCUi) | [Layanari](https://open.spotify.com/artist/22aDdyTumcQjpxGQ1432p3) | [headache](https://open.spotify.com/album/08T42wfxiDBKDJiN4zIJ9u) | 1:42 | 2026-06-13 |  |
 | [healing](https://open.spotify.com/track/1y0YuST93O5QcVrUjQnUe2) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [healing](https://open.spotify.com/album/46LS6PkNdRsO7OTIIl5cWd) | 1:40 | 2026-03-13 |  |
 | [healing](https://open.spotify.com/track/2Hpa6EAu7PTthincGeN1sJ) | [volmus](https://open.spotify.com/artist/24cCzCF9eeEaoCddKUqRvp) | [healing](https://open.spotify.com/album/1ZwnAjcmeaaeASTPpXGs8R) | 1:42 | 2026-02-27 |  |
 | [healing nature](https://open.spotify.com/track/5fz5jSvfSsyIlYSmLHTU00) | [sylian](https://open.spotify.com/artist/1WHwBNB87wpOFYvfcHzHuJ), [ID10](https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX) | [healing nature](https://open.spotify.com/album/6lRuSSyYJT3ho8129AKKbY) | 1:40 | 2025-12-05 | 2026-01-03 |
@@ -744,8 +747,10 @@
 | [standing still](https://open.spotify.com/track/5fpizl1lpYFnz678QOo38N) | [lovelxst](https://open.spotify.com/artist/1UCY8JhzaxZ8b05Br0Tioh) | [standing still](https://open.spotify.com/album/74gMwmImlOZSeAwXY2KKv1) | 1:54 | 2025-04-25 |  |
 | [stardust](https://open.spotify.com/track/5lPOJ053dfFtYFrtYK74Kd) | [pxlse.](https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS) | [stardust](https://open.spotify.com/album/70WClex68hQAM1PHBHuboF) | 1:41 | 2025-02-07 |  |
 | [stargazing](https://open.spotify.com/track/16KbOtrYHyfeSy0QT5LrDE) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX), [ankiiyo](https://open.spotify.com/artist/4yPuVkZ2p8q37O8p7SgFA9) | [stargazing](https://open.spotify.com/album/6BSzMSa52r1bLxAX3HdmGU) | 1:52 | 2026-01-10 |  |
+| [starlight](https://open.spotify.com/track/1AyH3kSHt5tKSzEt5oyJ1D) | [ohhdeer](https://open.spotify.com/artist/422PA7Nujo7hN8HVbUUl2x) | [starlight](https://open.spotify.com/album/7bdMGBvyGh04aVyoYATxRq) | 1:11 | 2026-06-13 |  |
 | [starshine](https://open.spotify.com/track/4WOkCbRWLyKtFpt2nk0YzY) | [sevenlies](https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7) | [starshine](https://open.spotify.com/album/6m0VPeyj2nle8CFiyH41uF) | 1:27 | 2025-05-09 |  |
 | [startup nostalgia](https://open.spotify.com/track/6TG3PbKYdnadGzUucLasts) | [statika](https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83), [computerwave](https://open.spotify.com/artist/6pgqBzfTtd6FgBE6nJB9ls) | [startup nostalgia](https://open.spotify.com/album/0Iomf15AOnkcsinRnWGbvY) | 2:24 | 2025-05-30 |  |
+| [static](https://open.spotify.com/track/2mki3WTjfDQ5OEbXvGDNex) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [static](https://open.spotify.com/album/1iT2lpvsCTJmLfS7UU9Lzz) | 2:01 | 2026-06-13 |  |
 | [static screen](https://open.spotify.com/track/2GvwZME6GDnTSmKzhpBKfj) | [away from](https://open.spotify.com/artist/40dRV2ORNV9fYyPnTkHw0a) | [static screen](https://open.spotify.com/album/02aN1TTrQbb2O1CrdKIxoe) | 1:45 | 2025-09-05 | 2026-01-03 |
 | [Stay](https://open.spotify.com/track/66YTq3h46VjWYDxQ4X4lH1) | [Kaiv](https://open.spotify.com/artist/2CjA0kHoULDHJz1ffRo6Ac) | [Stay](https://open.spotify.com/album/4iFiGRC8Cy2SEBkSmEdBgp) | 1:42 | 2026-03-07 |  |
 | [stay here](https://open.spotify.com/track/45yCkyxvImmU6GxVn4zrSm) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX), [entris](https://open.spotify.com/artist/3E7ltkx6E5aYeFS4yUwEgV) | [stay here](https://open.spotify.com/album/2Sx7DqjdZiktaAvZ6SpKNg) | 1:51 | 2025-08-02 |  |
@@ -786,6 +791,7 @@
 | [the reason](https://open.spotify.com/track/38To4gThFp0YNRoW8lspWQ) | [Mylesxiety](https://open.spotify.com/artist/4yJrGafkJqgcNXUr8aJ9Da) | [the reason](https://open.spotify.com/album/6A45Ank7uGavHRkZJoFwF8) | 1:56 | 2025-05-09 |  |
 | [the same place](https://open.spotify.com/track/6Q1azltrAU8sMeg8vMGbnx) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [the same place](https://open.spotify.com/album/5zOseKvDp2soyebU31QFq3) | 2:26 | 2025-01-31 |  |
 | [The Sky Remembers](https://open.spotify.com/track/3QbdHiN2UG92KBUMG5k8Cx) | [No One Is Listening](https://open.spotify.com/artist/5jIsbjAfJD4aHKLC4lRPT1) | [The Sky Remembers](https://open.spotify.com/album/6sIKKDnTBKcmLPYbhHEpZx) | 2:11 | 2025-08-02 | 2026-01-03 |
+| [the stars no longer shine here](https://open.spotify.com/track/19ZMYVdBpZl23amBtdUl2T) | [sylian](https://open.spotify.com/artist/1WHwBNB87wpOFYvfcHzHuJ) | [the stars no longer shine here](https://open.spotify.com/album/4F3lxmVX3e7axDLymUi4XX) | 1:52 | 2026-06-13 |  |
 | [the surface](https://open.spotify.com/track/11WM7J1YE9UmNtoDxflRjG) | [nohssiwi](https://open.spotify.com/artist/4CVCzMtPgCV07un7s3Ehbt) | [the surface](https://open.spotify.com/album/6DiBEO7wJp04MrujEOZf2U) | 1:55 | 2025-11-21 |  |
 | [the unknown](https://open.spotify.com/track/5aj8oriGvkKExgeBO1aEQm) | [pxlse.](https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS) | [the unknown](https://open.spotify.com/album/259jitpha65DzS2UGW9207) | 2:01 | 2025-04-25 |  |
 | [the world is yours](https://open.spotify.com/track/35kOmk0pVZspgxGgkXrlUJ) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [the world is yours](https://open.spotify.com/album/6VO87GOOdLbAcoi1SZgonn) | 3:26 | 2025-05-16 |  |

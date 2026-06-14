@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring OutStation, JBABE,  Achint and other exciting artists.
 
-1,472 songs - 3 day 8 hr 44 min
+1,473 songs - 3 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,12 +65,13 @@
 | [Aatish Mein](https://open.spotify.com/track/6SFyV5ngjxaCiqPi4KB4D9) | [Rahi](https://open.spotify.com/artist/28g9DTPD5ZCC8sC9XI1dTs), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Aatish Mein](https://open.spotify.com/album/4axPGOX6xHgkLReUNfVyo5) | 4:33 | 2023-11-17 | 2023-12-09 |
 | [Aavenga Kade O Maahi?](https://open.spotify.com/track/5T4Hi7KjxtKkBHy1kOiwaG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu), [Ramneek Singh](https://open.spotify.com/artist/5DqUQrH3OLXw8i0RFmJMb1) | [Aavenga Kade O Maahi?](https://open.spotify.com/album/7g3ej9AKDGiEOK0yWONCwc) | 3:16 | 2025-11-21 | 2026-02-07 |
 | [Aaye Kyon](https://open.spotify.com/track/3zxibdMTECVts6UDd9RgWJ) | [Prakruti Mishra](https://open.spotify.com/artist/57YUzjAZM4L84yMIkc9obC), [Satyajeet Jena](https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7), [Ravi Ra](https://open.spotify.com/artist/4IWejK8LHm1IXRJtmV1UQu) | [Aaye Kyon](https://open.spotify.com/album/1bMpY4t9pMLwhVRK6A6fUI) | 3:37 | 2025-06-20 | 2025-10-03 |
-| [Aayegi Manzil](https://open.spotify.com/track/331Lyiz3LYvslIQI7NgP85) | [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi) | [Aayegi Manzil](https://open.spotify.com/album/2dPgU0URbXcqJt6tOmu9AI) | 2:37 | 2026-05-29 |  |
+| [Aayegi Manzil](https://open.spotify.com/track/331Lyiz3LYvslIQI7NgP85) | [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi) | [Aayegi Manzil](https://open.spotify.com/album/2dPgU0URbXcqJt6tOmu9AI) | 2:37 | 2026-05-29 | 2026-06-14 |
 | [Aazmaati](https://open.spotify.com/track/0Q7yFAzSxQNDni4BJ5Pzr2) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aazmaati](https://open.spotify.com/album/6mRDdZqxAbHl9jlrIe86hC) | 2:50 | 2026-01-09 | 2026-04-04 |
 | [Ab Ke Hum Bichhde](https://open.spotify.com/track/6Qd3NL3Z29bRY7wuwdZ5wb) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Ab Ke Hum Bichhde](https://open.spotify.com/album/2uADKiCh7fZiRcdjwOSkIT) | 2:56 | 2026-04-24 |  |
 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 | 2024-10-25 | 2024-12-14 |
 | [Ab Main Kya Karun](https://open.spotify.com/track/4a8e7bDQwjKPVJcIn6RpOx) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Ab Main Kya Karun](https://open.spotify.com/album/2JNWOwxbfZF4sbXqVnODyp) | 3:46 | 2026-04-03 |  |
 | [Ab Tak Na](https://open.spotify.com/track/5TwJJ9D2lWMPkrhQMh96bd) | [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8), [Ashish Pandit](https://open.spotify.com/artist/03veJpSIc7GAx0mPLcskjI) | [Ab Tak Na](https://open.spotify.com/album/4FBO6cvJVGrIHr9zHXsfhr) | 3:43 | 2023-07-14 | 2023-08-12 |
+| [absent\-minded freak](https://open.spotify.com/track/2HG0beWmR0ZXuzxAZw8Zq6) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [absent\-minded freak](https://open.spotify.com/album/6sEg11bzLRFBo1quGNwKhS) | 2:36 | 2026-06-12 |  |
 | [Achha Lagta Hai](https://open.spotify.com/track/6Fk9iNxw9ktkNncyb7PjwH) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Priyanshi Bansal](https://open.spotify.com/artist/3JvfRFna73N7YPwdMVW0cN) | [Ehsaas](https://open.spotify.com/album/0GgmwDtmhM5633rM5cvbsF) | 2:54 | 2025-10-10 | 2025-12-05 |
 | [Ada](https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Ada](https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2) | 3:50 | 2026-06-12 |  |
 | [Adaayein!](https://open.spotify.com/track/1fGUQex7J5Le7any4zrvuk) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Adaayein!](https://open.spotify.com/album/1ul0MF0g4jvymdIccn44dO) | 3:28 | 2024-10-18 | 2024-12-14 |

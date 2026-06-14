@@ -4,7 +4,7 @@
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-86 songs - 6 hr 55 min
+87 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Lail Wa Raed Wa Reeh](https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Shafouha Wsaroo Yegolou](https://open.spotify.com/album/6EXBTvB64hbk2R6jtFiaVu) | 5:15 | 2021-02-21 | 2024-04-19 |
 | [Law Kent](https://open.spotify.com/track/65iXruEgoZEcCThhLWAmgU) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Law Kent](https://open.spotify.com/album/7p1TAYfTv8WNTOuBz9LQXc) | 3:47 | 2021-02-21 | 2022-11-30 |
 | [Layali El Shouq](https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:51 | 2021-02-21 | 2026-06-02 |
-| [Lola El Sahar](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 | 2021-02-21 |  |
+| [Lola El Sahar](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 | 2021-02-21 | 2026-06-14 |
 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Aly Hemeida](https://open.spotify.com/artist/0vJcPvDcJUf3XyzCjYz9VS) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 | 2021-02-21 |  |
 | [Maghrorah](https://open.spotify.com/track/0S7giBP11RxHzCAmT6Tmmi) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Baad Alsanten \(1996\)](https://open.spotify.com/album/6dfE01af5alHgjjbepEQIA) | 5:21 | 2021-02-21 | 2022-11-30 |
 | [Maghrorah](https://open.spotify.com/track/3GjTCj3ca0XlIVs6wGyWwD) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Baad Al Santen](https://open.spotify.com/album/6XuB4Rlnkf3V0bIlaLyCVd) | 5:21 | 2021-02-21 | 2022-10-13 |
@@ -65,6 +65,7 @@
 | [Nour El Chams](https://open.spotify.com/track/6aza2wOUMcyM46Jx4aFHeH) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Nour El Chams](https://open.spotify.com/album/6eugJv6YMD7lrYasmyOWOf) | 4:33 | 2021-02-21 | 2024-04-19 |
 | [Nour El Chams](https://open.spotify.com/track/6YbSbT4tYkeDZ2C73Y6cWA) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Nour El Chams](https://open.spotify.com/album/0BFHsOCWhl6xlGpCFdrE2g) | 4:33 | 2021-02-21 | 2022-07-29 |
 | [Nour El Ein](https://open.spotify.com/track/3ZTuYuaV1fhdNnuIBuzTYy) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:07 | 2021-02-21 |  |
+| [Qoulee Ouhibbouka](https://open.spotify.com/track/6OHINKaLH4ax5GMmVFHKR0) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Habibati Wal Matar](https://open.spotify.com/album/79Bw1khMvlEWxwtaooB0GB) | 5:31 | 2026-06-01 |  |
 | [Sahrany](https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI) | 4:19 | 2021-02-21 |  |
 | [Sahrany \- سحراني](https://open.spotify.com/track/7cTkY08BuO29qI43Z3teu4) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sahrany](https://open.spotify.com/album/6vyMe2Tnu0oTCFRYpH3NXj) | 4:19 | 2021-02-21 | 2022-07-29 |
 | [Sallimleh Alayh](https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Mish Kayan Hayek T'Koun](https://open.spotify.com/album/2ghb9Yy8zjyrgamm3SRzdI) | 5:50 | 2021-02-21 |  |

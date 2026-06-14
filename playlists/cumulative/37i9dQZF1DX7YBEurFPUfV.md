@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-179 songs - 10 hr 18 min
+180 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/track/1CbUpKk52t8R0bzxTFHJdH) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/album/1GkVd8003ojeJAId0GohK5) | 4:00 | 2026-01-15 |  |
 | [LOUMNI](https://open.spotify.com/track/0ENM5reWF2EpNb3msvqCQ0) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:50 | 2025-02-27 |  |
 | [Ma7abounech](https://open.spotify.com/track/2MmpGn3sHmxSRG8GIyLkMe) | [Joujma](https://open.spotify.com/artist/6J3OrlKMbWMx60M7QuDJsf) | [Ma7abounech](https://open.spotify.com/album/53uh6KHa3EmTcykX6s8m0s) | 3:22 | 2026-01-01 |  |
-| [Machefounich \| ماشافونيش](https://open.spotify.com/track/2lXA71K1NU6XMFaMUNOSFm) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Machefounich \| ماشافونيش](https://open.spotify.com/album/2SkGb7EeKzUq2PUQYZzQZK) | 2:59 | 2025-02-01 |  |
+| [Machefounich \| ماشافونيش](https://open.spotify.com/track/2lXA71K1NU6XMFaMUNOSFm) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Machefounich \| ماشافونيش](https://open.spotify.com/album/2SkGb7EeKzUq2PUQYZzQZK) | 2:59 | 2025-02-01 | 2026-06-14 |
 | [Mafiosa](https://open.spotify.com/track/4QZeQw28rvYnILQ9VXT1Te) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Rapina](https://open.spotify.com/album/4Yqia46OeHW5T6iQicQCCU) | 3:28 | 2025-12-18 |  |
 | [Makadni](https://open.spotify.com/track/0VgApj9niC8khmBjrIXqw6) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Makadni](https://open.spotify.com/album/6HfILZuDz8hInYDMOicx0i) | 3:53 | 2025-10-29 |  |
 | [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2024-02-24 | 2025-04-04 |
@@ -158,6 +158,7 @@
 | [Solo](https://open.spotify.com/track/35SGxqqbEWmGTXbnsKkbYt) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Solo](https://open.spotify.com/album/01H3uuzW07GqjNtveuvWiV) | 3:22 | 2026-04-07 |  |
 | [SOMMET](https://open.spotify.com/track/0BL3kRwVBhFH8pZ1NgLOIk) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [SOMMET](https://open.spotify.com/album/5tZPJfcLFCwma2ln8UaOHq) | 3:34 | 2024-07-08 | 2025-10-22 |
 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 | 2024-05-10 |  |
+| [Soumi Ghali](https://open.spotify.com/track/06pmPZIJER841SqzqkOlgu) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Soumi Ghali](https://open.spotify.com/album/37lac9I41TB0xEslxzgFyd) | 2:56 | 2026-06-13 |  |
 | [Sout El Houma](https://open.spotify.com/track/37TCnxoYBgjpb42OO0bYLG) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Sout El Houma](https://open.spotify.com/album/7M3i5MAk7lYAbAZGCj6mXE) | 3:14 | 2025-10-19 |  |
 | [Souvenir](https://open.spotify.com/track/3sajl2Mtz02P2QysiiDB6W) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Souvenir](https://open.spotify.com/album/5wVVL0wIYIJT2k08l5ysQi) | 2:57 | 2024-05-24 | 2025-03-13 |
 | [Stava Bene](https://open.spotify.com/track/0uEjppwk80YQMkyW4eWleQ) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Stava Bene](https://open.spotify.com/album/2WYGHDw0lmUlgKGlsY2FTF) | 3:44 | 2024-04-18 | 2024-06-01 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "(There's) Something In The Air",
+        "url": "https://open.spotify.com/album/7znmxL7XixLPylnBnL8PLg"
+      },
+      "artists": [
+        {
+          "name": "Cheap Petrol",
+          "url": "https://open.spotify.com/artist/12GUVzQKdS6WNQvbZRq100"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234005,
+      "name": "(There's) Something In The Air",
+      "url": "https://open.spotify.com/track/7JeSGqPjKT3zFH1qCyFDT3"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH"
       },
@@ -5713,6 +5731,24 @@
     },
     {
       "album": {
+        "name": "Darling Where Have You Been",
+        "url": "https://open.spotify.com/album/6acJjn7IRY8yjuWRx6z1JE"
+      },
+      "artists": [
+        {
+          "name": "love and lava twins",
+          "url": "https://open.spotify.com/artist/6vpruOXwUEtNwvpCfwKZw7"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201216,
+      "name": "Darling Where Have You Been",
+      "url": "https://open.spotify.com/track/0JOEKhCY9fmuNukbFHji2u"
+    },
+    {
+      "album": {
         "name": "A World Ablaze",
         "url": "https://open.spotify.com/album/4laLnj3qKXCHf3ILjjqNcM"
       },
@@ -7520,6 +7556,24 @@
       "duration_ms": 218000,
       "name": "Echo Chambers - Radio Edit",
       "url": "https://open.spotify.com/track/7io4vhWULhZDLHmPBcnrPi"
+    },
+    {
+      "album": {
+        "name": "Echoes Inside",
+        "url": "https://open.spotify.com/album/1OpvIMXP3B0yahutdyZecO"
+      },
+      "artists": [
+        {
+          "name": "Lies We Sold",
+          "url": "https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Echoes Inside",
+      "url": "https://open.spotify.com/track/31ErHcep5J8c1GhSLXGUxt"
     },
     {
       "album": {
@@ -9496,6 +9550,24 @@
       "duration_ms": 241000,
       "name": "Fuera de Ac\u00e1",
       "url": "https://open.spotify.com/track/3HgY7fZMkM09DlmOJ7Qg5Z"
+    },
+    {
+      "album": {
+        "name": "Mutante",
+        "url": "https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241750,
+      "name": "Fuera de Ac\u00e1 - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1Sga4VOAMh0rJg7jPz7e8H"
     },
     {
       "album": {
@@ -16979,6 +17051,24 @@
     },
     {
       "album": {
+        "name": "WHERE THE RIVER FLOWS",
+        "url": "https://open.spotify.com/album/4zcmnA4Yzq7HVSoyydBfta"
+      },
+      "artists": [
+        {
+          "name": "Mainframe Bird",
+          "url": "https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246688,
+      "name": "NEVER FADE",
+      "url": "https://open.spotify.com/track/08NDdyzO46LeYLeQOCjZfT"
+    },
+    {
+      "album": {
         "name": "Disobedient Mental Attitude",
         "url": "https://open.spotify.com/album/5yl51BhTCGT75QHJnWm7Pl"
       },
@@ -19943,6 +20033,24 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s de la Luz (Remastered)",
+        "url": "https://open.spotify.com/album/2nIkGEVas0sImcN9zdY9n0"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370285,
+      "name": "Raz\u00f3n (Remastered)",
+      "url": "https://open.spotify.com/track/6Du5DzMpJHDqK6l4iWEv39"
+    },
+    {
+      "album": {
         "name": "Reaching Out",
         "url": "https://open.spotify.com/album/0G52nGcTwICAyvNBCCRd9H"
       },
@@ -20391,7 +20499,7 @@
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 220962,
+      "duration_ms": 220750,
       "name": "Resistance (remaster)",
       "url": "https://open.spotify.com/track/0dq6lmjXEcwFDa6E7ZPWua"
     },
@@ -23276,6 +23384,24 @@
       "duration_ms": 187988,
       "name": "Spare Window",
       "url": "https://open.spotify.com/track/3LhGupBPjqbMc9BozMjKRg"
+    },
+    {
+      "album": {
+        "name": "WHERE THE RIVER FLOWS",
+        "url": "https://open.spotify.com/album/4zcmnA4Yzq7HVSoyydBfta"
+      },
+      "artists": [
+        {
+          "name": "Mainframe Bird",
+          "url": "https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288531,
+      "name": "SPEAK TO THE WIND",
+      "url": "https://open.spotify.com/track/5Ljwp5uq6ngsIGYfVNFcPV"
     },
     {
       "album": {
@@ -29026,6 +29152,24 @@
       "duration_ms": 192461,
       "name": "Wir sind hier",
       "url": "https://open.spotify.com/track/5U7hFohlAdK00qxp8sD9Lp"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Give It up!",
+        "url": "https://open.spotify.com/album/7yeR0xsknpDZ4rSMQ6ndMF"
+      },
+      "artists": [
+        {
+          "name": "Final Chapter",
+          "url": "https://open.spotify.com/artist/72ZCEpAVnDlPE9JOziYqHC"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82899,
+      "name": "Wishful Warfare",
+      "url": "https://open.spotify.com/track/5n1POYyik4EtXhvPOY2EMd"
     },
     {
       "album": {

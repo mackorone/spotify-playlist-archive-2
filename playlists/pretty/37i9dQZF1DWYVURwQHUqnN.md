@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Leto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,344 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,325 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 48 | [Taser](https://open.spotify.com/track/6DXsYe8iZPemTbcK7OBfxv) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW), [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH) | [Taser](https://open.spotify.com/album/5RB3sewlCEy3TFQ74WLhnq) | 2:40 |
 | 49 | [Pas besoin de toi](https://open.spotify.com/track/5qaKyps348j6M5NkP4n6h9) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Pas besoin de toi](https://open.spotify.com/album/1VdP0hVjcgPUtE2bM8DUp8) | 2:08 |
 
-Snapshot ID: `AAAAAIp/uMEBJXE/AxqFG7dltL6NlT1k`
+Snapshot ID: `AAAAAISg4aQStwJ51KHMy1FHMzYf9BuO`

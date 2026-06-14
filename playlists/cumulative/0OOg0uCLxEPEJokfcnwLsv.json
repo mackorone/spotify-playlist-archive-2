@@ -7587,6 +7587,24 @@
     },
     {
       "album": {
+        "name": "Strange Illusions",
+        "url": "https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7"
+      },
+      "artists": [
+        {
+          "name": "Beyond the touch",
+          "url": "https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313210,
+      "name": "Strange Illusions",
+      "url": "https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF"
+    },
+    {
+      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/5HpOdgBKfslIGUTMCGrXJP"
       },

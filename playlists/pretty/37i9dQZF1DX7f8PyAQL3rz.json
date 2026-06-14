@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1445044,
+  "num_followers": 1444932,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
-        "name": "Nasci pra ser - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2gQtiyrMsbXHQAFaphqkKR"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 175402,
-      "name": "Nasci pra ser - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
         "name": "Presentinho",
         "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 342857,
       "name": "Presentinho",
       "url": "https://open.spotify.com/track/5p4kRwizPeq39JpvOL8kYC"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
+        "name": "Nasci pra ser - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2gQtiyrMsbXHQAFaphqkKR"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 175402,
+      "name": "Nasci pra ser - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2TVPbqCPJezGriT4wjCtyD"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -639,34 +639,6 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
-        "name": "S\u00f3 Lazer",
-        "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "S\u00f3 Lazer",
-      "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
         "name": "Beck e Sexo",
         "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3"
       },
@@ -695,6 +667,34 @@
       "duration_ms": 267540,
       "name": "Beck e Sexo",
       "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
+        "name": "S\u00f3 Lazer",
+        "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "S\u00f3 Lazer",
+      "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -1363,6 +1363,38 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
+        "name": "CAN'T TOUCH THIS (REMIX)",
+        "url": "https://open.spotify.com/album/7GxEdpLHtlnIleMqwgv5P2"
+      },
+      "artists": [
+        {
+          "name": "AKA AFK",
+          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Lethal Bizzle",
+          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
+        },
+        {
+          "name": "Felix Dubs",
+          "url": "https://open.spotify.com/artist/5iF6YGehiRgkpZ2uyzVG4u"
+        },
+        {
+          "name": "Brasil Grime Show",
+          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "CAN'T TOUCH THIS (REMIX)",
+      "url": "https://open.spotify.com/track/7kxAU1jYYMnK13TUYLYSkV"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
         "name": "N\u00f3is Ta Diferente",
         "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
       },
@@ -1419,6 +1451,26 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Meio Feel",
+          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Perigos&Macetes",
+      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
         "name": "DIXAVANDO",
         "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
       },
@@ -1443,6 +1495,30 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
+        "name": "Sol Na Lata",
+        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ PEPI",
+          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sol Na Lata",
+      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -1539,82 +1615,6 @@
       "duration_ms": 165428,
       "name": "Linha de frente",
       "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
-        "name": "CAN'T TOUCH THIS (REMIX)",
-        "url": "https://open.spotify.com/album/7GxEdpLHtlnIleMqwgv5P2"
-      },
-      "artists": [
-        {
-          "name": "AKA AFK",
-          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "Lethal Bizzle",
-          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
-        },
-        {
-          "name": "Felix Dubs",
-          "url": "https://open.spotify.com/artist/5iF6YGehiRgkpZ2uyzVG4u"
-        },
-        {
-          "name": "Brasil Grime Show",
-          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "CAN'T TOUCH THIS (REMIX)",
-      "url": "https://open.spotify.com/track/7kxAU1jYYMnK13TUYLYSkV"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Meio Feel",
-          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Perigos&Macetes",
-      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
-        "name": "Sol Na Lata",
-        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Dj TC",
-          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
-        },
-        {
-          "name": "DJ PEPI",
-          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sol Na Lata",
-      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     }
   ],
   "unique_name": "creme",

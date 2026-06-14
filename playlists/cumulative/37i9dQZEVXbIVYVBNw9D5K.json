@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 212528,
       "name": "Ad\u0131 \u0130ntikamd\u0131 - Mustafa Sandal Sayg\u0131 1",
       "url": "https://open.spotify.com/track/4g2ixRBtPKBQA8TkKfB0JZ"
@@ -10978,7 +10978,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 164869,
       "name": "Gel",
       "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
@@ -17709,6 +17709,24 @@
     },
     {
       "album": {
+        "name": "K\u00f6r",
+        "url": "https://open.spotify.com/album/60swXqtAbCP7N83jR4M2Fr"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "K\u00f6r",
+      "url": "https://open.spotify.com/track/2BPhlWoCR8ryI6bu1K42ZV"
+    },
+    {
+      "album": {
         "name": "K\u00f6r Sevdam",
         "url": "https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa"
       },
@@ -22989,6 +23007,28 @@
     },
     {
       "album": {
+        "name": "VAKKO",
+        "url": "https://open.spotify.com/album/44YjUTmNcWVQwJWNU2XwaJ"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121714,
+      "name": "RDM",
+      "url": "https://open.spotify.com/track/2jxd1D0PUKtzFjML3gcuRK"
+    },
+    {
+      "album": {
         "name": "RDM",
         "url": "https://open.spotify.com/album/5wrTc1B12K6DCxGk7EYHkn"
       },
@@ -23004,7 +23044,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 121714,
       "name": "RDM",
       "url": "https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr"
@@ -29366,7 +29406,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 258931,
       "name": "Y\u00fcz\u00fck",
       "url": "https://open.spotify.com/track/657FCK2qs1P6DV8caSlWWY"

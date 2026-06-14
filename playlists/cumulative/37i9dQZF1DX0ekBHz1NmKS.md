@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,296 songs - 4 day 23 hr 9 min
+2,298 songs - 4 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [2U](https://open.spotify.com/track/1ooZsaGgmQI9CIbHxwexbb) | [Youso](https://open.spotify.com/artist/06bgm6DvMlm9ciPIJWW0gh) | [2U](https://open.spotify.com/album/6JE4kCzhXEQEEuKaaL93qf) | 2:42 | 2022-01-13 | 2022-03-31 |
 | [30 grader](https://open.spotify.com/track/5vgXUNzWWxOFSWM93PapZ3) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P), [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [30 grader](https://open.spotify.com/album/6S62IAftQnUL2tVp27xJzK) | 3:03 | 2024-06-27 | 2025-01-19 |
 | [30 personer](https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [30 personer](https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1) | 2:49 | 2022-02-05 | 2022-09-16 |
+| [360](https://open.spotify.com/track/1qSKSqfJ3eLWeSEb9phekc) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [360](https://open.spotify.com/album/7bjLLZrVTfWp0RrYfWhfNy) | 2:02 | 2026-06-11 |  |
 | [4 In The Morning](https://open.spotify.com/track/0SuyXIUFGDwdDUhJ95efC6) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [4 In The Morning](https://open.spotify.com/album/2NWTqLoxgcRzR7Ld7I3oOM) | 3:09 | 2022-03-17 | 2022-05-04 |
 | [42](https://open.spotify.com/track/5o0zuf9X17P9bha9TQT24n) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 3:44 | 2023-06-01 | 2023-06-29 |
 | [44](https://open.spotify.com/track/3EgGUHciOMVlUZAjH6VfDC) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [44](https://open.spotify.com/album/5U0g3N6dXf5AmedbMuRT3e) | 3:08 | 2024-01-25 | 2024-03-15 |
@@ -1466,6 +1467,7 @@
 | [Nåt på fickan](https://open.spotify.com/track/4NCi8meUtDzj04ovWWyDTr) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Nåt på fickan](https://open.spotify.com/album/0Oh2dhmJjIxXz2sh5dV7mT) | 2:30 | 2022-05-05 | 2022-07-29 |
 | [Nåt äkta](https://open.spotify.com/track/0GijOgh6mFH7J0UIhOBKnk) | [Adam Chia](https://open.spotify.com/artist/2pyhqBRwNtetqduSFHxaUX), [MAYKA](https://open.spotify.com/artist/4qVmTeHPsnwfF0QcQCGpnl) | [Hellre än mig själv](https://open.spotify.com/album/0pISOIFj7YO5fhpoBlzHoW) | 3:40 | 2022-06-09 | 2022-07-29 |
 | [Oas](https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 3:17 | 2023-04-01 | 2023-10-20 |
+| [Ocean House](https://open.spotify.com/track/2ndsXnYPnrkMRMPigIUZ9j) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Ocean House](https://open.spotify.com/album/59UdqKsd9U4NRaeurIPmRR) | 2:05 | 2026-06-11 |  |
 | [Ocean In Me](https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Ocean In Me](https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg) | 2:58 | 2024-01-04 | 2024-03-08 |
 | [Ocean Of Love](https://open.spotify.com/track/0HuzGszWURfPh46OS02wyn) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Ocean Of Love](https://open.spotify.com/album/4OEcpFgO5HBSaGm0NzLDKd) | 2:57 | 2023-08-10 | 2023-11-17 |
 | [Och blir en del av mig inuti](https://open.spotify.com/track/2pJewvGTgUrbHNHfN3Wg0S) | [Sara Thuresson](https://open.spotify.com/artist/3nYlkEt5H6K6uCoL7VBuq9) | [Och blir en del av mig inuti](https://open.spotify.com/album/29ZQuXmHQXcUSUjMIhg6K6) | 3:00 | 2024-02-08 | 2024-02-16 |
@@ -2081,7 +2083,7 @@
 | [Tänker tillbaka](https://open.spotify.com/track/5OAQWEdsrvYYYhyyaaPC2h) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG) | [Tänker tillbaka](https://open.spotify.com/album/6DMHlrrO2Mj100yYY52mow) | 3:20 | 2024-04-11 | 2024-05-10 |
 | [Tärning](https://open.spotify.com/track/2srEdr47X3EzfCrKLM6qWe) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Tärning](https://open.spotify.com/album/7mVP1swmqaWsaTOuWG3268) | 3:46 | 2022-02-13 | 2022-05-13 |
 | [Tårar](https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tårar](https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH) | 3:02 | 2025-10-09 | 2026-02-13 |
-| [TÅRAR](https://open.spotify.com/track/1bEaWgxOaYFUzDT9iSXMdv) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [TÅRAR](https://open.spotify.com/album/47Q9HTJqy6wBsl7fS6J26t) | 2:21 | 2026-02-27 |  |
+| [TÅRAR](https://open.spotify.com/track/1bEaWgxOaYFUzDT9iSXMdv) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [TÅRAR](https://open.spotify.com/album/47Q9HTJqy6wBsl7fS6J26t) | 2:21 | 2026-02-27 | 2026-06-14 |
 | [Tårarna \(feat\. Jackie Mere\)](https://open.spotify.com/track/0JcirT3JdGx29UAECyRhVV) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Tårarna \(feat\. Jackie Mere\)](https://open.spotify.com/album/4SMIJv8Cc6kxbSTgNKeDKF) | 2:38 | 2024-05-23 | 2024-06-21 |
 | [UFO](https://open.spotify.com/track/3QVmgJonGszpY29p1naRBo) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [UFO](https://open.spotify.com/album/22r0F3aQcdjGQyepYwmHgJ) | 3:11 | 2025-02-06 | 2025-02-15 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-05-23 | 2024-06-21 |
@@ -2114,7 +2116,7 @@
 | [Vakna \(Wake Me Up\)](https://open.spotify.com/track/1tv2VdXemEiW1wmQmS8lOZ) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Vakna \(Wake Me Up\)](https://open.spotify.com/album/5PSqlOEp3NoiHCGExXg963) | 3:50 | 2024-01-11 | 2024-03-15 |
 | [Valborg](https://open.spotify.com/track/2TvD1DYT6bxu3AqxR48aVy) | [november22](https://open.spotify.com/artist/6awYvXwNOuP95CVVkC3INd), [Maja Amcoff](https://open.spotify.com/artist/1rsfJb1udp1uOyUDKbxwsl) | [Valborg](https://open.spotify.com/album/4ml4PYVGGxY7YNQ72x2JdS) | 2:19 | 2024-10-10 | 2024-10-25 |
 | [Valborg \- Spotify Singles](https://open.spotify.com/track/6rHvgDYUjdYRf4K5jVLfpw) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Valborg \- Spotify Singles](https://open.spotify.com/album/2gh1otyRAP056ov4kwzPpz) | 2:33 | 2023-10-20 | 2024-01-26 |
-| [Valborg hela veckan](https://open.spotify.com/track/4ofntrRzWXBr9eT0aSnR3c) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Valborg hela veckan](https://open.spotify.com/album/5fPB7xU8dckN204Tnfml7H) | 2:46 | 2026-04-16 |  |
+| [Valborg hela veckan](https://open.spotify.com/track/4ofntrRzWXBr9eT0aSnR3c) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Valborg hela veckan](https://open.spotify.com/album/5fPB7xU8dckN204Tnfml7H) | 2:46 | 2026-04-16 | 2026-06-14 |
 | [Valborgsnatten](https://open.spotify.com/track/0yEyBp7zI6GLgOPhjtkYxD) | [Tomas Rimeika](https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz) | [Valborgsnatten](https://open.spotify.com/album/6cYdc9JBhrTL7MdnHioFFA) | 3:29 | 2024-04-04 | 2024-05-10 |
 | [Valborgsnatten \- Remix](https://open.spotify.com/track/0rybhNwTIeE2KDQjKFDYh9) | [Tomas Rimeika](https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz) | [Valborgsnatten \(Remix\)](https://open.spotify.com/album/3gLjHE3fJlpvDG8zBjI6bi) | 2:57 | 2024-04-25 | 2024-05-24 |
 | [Vanish!](https://open.spotify.com/track/3krsQzuDKZAdNTkhRLlQ71) | [Freddie Joon](https://open.spotify.com/artist/2uiFUbeyr7hVJrlnjolYct) | [Vanish!](https://open.spotify.com/album/7547vdxjNpucMOJF50Tatl) | 2:30 | 2024-02-08 | 2024-02-16 |

@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-109 songs - 8 hr 10 min
+110 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Christ is Lower Still](https://open.spotify.com/track/4stQGKTkAR2OY0uopaXZfq) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Sanctuary Songs](https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai) | 5:56 | 2023-11-10 | 2025-03-14 |
 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 | 2022-09-14 |  |
 | [Cling To The Cross](https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Cling To The Cross](https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY) | 4:08 | 2025-11-23 |  |
-| [Come As You Are \(Live\)](https://open.spotify.com/track/2fZaAbJv0MYegwqjSmI10W) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:32 | 2022-09-14 |  |
+| [Come As You Are \(Live\)](https://open.spotify.com/track/2fZaAbJv0MYegwqjSmI10W) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:32 | 2022-09-14 | 2026-06-14 |
 | [Come Now Is The Time To Worship \- 25th Anniversary](https://open.spotify.com/track/2pD7cMxcoaCTwgj5Zz43rQ) | [Brian Doerksen](https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Sneha Reddy](https://open.spotify.com/artist/324orFQbr7KjxGysLXx8S0), [Cobus](https://open.spotify.com/artist/3DRbOQuxQVP2gTky9vWGE2) | [Come Now Is The Time To Worship \(25th Anniversary\)](https://open.spotify.com/album/0twAjjiLbtNmQkkD0EfTyY) | 4:10 | 2023-10-01 | 2025-02-05 |
 | [Common Ground \(feat\. Dee Wilson\) \- Live](https://open.spotify.com/track/3armidhEXA4Ky23Wj97pFQ) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [Common Ground \- EP](https://open.spotify.com/album/7MJvVVKJZANsWfQfCz70r6) | 6:05 | 2022-09-14 | 2023-12-14 |
 | [Counting My Blessings \- Collab Version](https://open.spotify.com/track/6HQXoQ0ZascrhJLtY4uPkR) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:30 | 2024-08-03 |  |
@@ -43,6 +43,7 @@
 | [Echoes One](https://open.spotify.com/track/19oOSjEyj3ieUb3hamiUcA) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 1:29 | 2022-09-14 | 2022-10-13 |
 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 | 2022-09-21 | 2025-04-06 |
 | [Finished Work](https://open.spotify.com/track/1XcSkwXf1MJbfiXjKHj387) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The Praise Belongs](https://open.spotify.com/album/4Ua9C43QMyNlHOgV3QnT8G) | 3:38 | 2025-08-11 |  |
+| [Finished Work](https://open.spotify.com/track/5qve27Ge0zYn1KI1tadoo7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Finished Work](https://open.spotify.com/album/3a4FeZCuwdG7TH4Co0AZx0) | 3:52 | 2026-06-14 |  |
 | [Firelight](https://open.spotify.com/track/1j5N5RTJPkawg8eYodXo9z) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 4:14 | 2022-09-14 | 2022-10-13 |
 | [Flesh And Bone](https://open.spotify.com/track/6ZY1RmNRqBosEHmgQP5I8B) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 6:05 | 2022-09-14 | 2022-10-08 |
 | [Found It In Jesus](https://open.spotify.com/track/7kOw09xTJZQCinlD8xM5ST) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Found It In Jesus](https://open.spotify.com/album/7wJEg8eSQCa2y8Xm35eaQY) | 4:20 | 2025-09-22 |  |

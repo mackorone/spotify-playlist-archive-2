@@ -897,6 +897,28 @@
     },
     {
       "album": {
+        "name": "New Hope Club (Extended Version)",
+        "url": "https://open.spotify.com/album/2vMfvOtqKS8URmb0zqtVd7"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        },
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Know Me Too Well",
+      "url": "https://open.spotify.com/track/0jsVztH6MsKbg517aeZISN"
+    },
+    {
+      "album": {
         "name": "New Hope Club",
         "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
       },
@@ -912,7 +934,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 200600,
       "name": "Know Me Too Well (with Danna Paola)",
       "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"

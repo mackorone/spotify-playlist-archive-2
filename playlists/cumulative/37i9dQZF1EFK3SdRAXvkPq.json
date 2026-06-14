@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/382fKwxrd9TGEMCKamedxj"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Lagniappe",
+      "url": "https://open.spotify.com/track/5LErpzXe83nEKVn7QFw2wW"
+    },
+    {
+      "album": {
         "name": "LO QUE ME FALTA POR LLORAR",
         "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
       },

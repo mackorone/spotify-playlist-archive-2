@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,470 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,477 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 33 | [Crumbs](https://open.spotify.com/track/7KRGzLQ7KSiLP6Ku2BlVYH) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Crumbs](https://open.spotify.com/album/2MzwwsScAKSXZk1HatdHvv) | 3:39 |
 | 34 | [Shahbaz Qalandar](https://open.spotify.com/track/6CZ2bly7O9QbU9PH8GzXt8) | [Ustad Noor Bakhsh](https://open.spotify.com/artist/7LteUVt5zjstP7yHLFcYi8) | [Jingul](https://open.spotify.com/album/7MoEXnjeXwuXIeXDk5vOqE) | 3:31 |
 | 35 | [Are U Still Down?](https://open.spotify.com/track/2oeULFTIWZjdHDbapvJxAa) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Cool Relax](https://open.spotify.com/album/2AoerEEC2T9YEpwSCzYpJG) | 4:26 |
-| 36 | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/track/63rkDYfaDhcUaOh0UE0Dt1) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Um Brinde ao Agora](https://open.spotify.com/album/6qrAiIIlSK6YDc9hXtOdCr) | 3:15 |
+| 36 | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/track/63rkDYfaDhcUaOh0UE0Dt1) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [Carolina de Deus](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Um Brinde ao Agora](https://open.spotify.com/album/6qrAiIIlSK6YDc9hXtOdCr) | 3:15 |
 | 37 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 |
 | 38 | [friends](https://open.spotify.com/track/2wjc0DH5AhndXQQQd74wky) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [i asked the stars for this\. x](https://open.spotify.com/album/3KNYkyPYwSkUbHybeJVJzu) | 3:05 |
 | 39 | [Ala Geyik](https://open.spotify.com/track/3g53KBsgAxPefitoHQv3OG) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Island5](https://open.spotify.com/album/3GQvrDgKnfUA1ChvHjihgO) | 5:36 |

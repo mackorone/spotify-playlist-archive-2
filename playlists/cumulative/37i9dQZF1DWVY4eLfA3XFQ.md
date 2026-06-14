@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house 🦉 Tech house operators, featuring Cloonee
 
-2,844 songs - 6 day 11 hr 12 min
+2,845 songs - 6 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Focus \(feat\. CLOVES\) \- EdiP Remix](https://open.spotify.com/track/3ietKhJNHpuBltljTN6HrO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE) | [Playa Package](https://open.spotify.com/album/5aBan9hdzRhaHGAQC1AD1k) | 3:56 | 2025-10-17 | 2026-01-15 |
 | [Foggy Geezer](https://open.spotify.com/track/1nOYPvqoAW6cZS7LmowdvW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Foggy Geezer](https://open.spotify.com/album/2ARTpw5C9AyI3fOwEpGbyG) | 3:04 | 2022-06-24 | 2022-08-20 |
 | [Follow The Call](https://open.spotify.com/track/3hEp4tAxoZeRgFnL6rSgw0) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Follow The Call](https://open.spotify.com/album/72HtpLoORiq7jd9SoG3lk9) | 3:03 | 2023-04-14 | 2023-07-09 |
+| [Foot on the Gas](https://open.spotify.com/track/18V768rb4wOOamf39v1603) | [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Foot on the Gas](https://open.spotify.com/album/0CZp25Skbco97Enp6dmR3M) | 2:51 | 2026-06-13 |  |
 | [For A Beautiful Liar](https://open.spotify.com/track/6hZlNXmqT7rTwEC8rUqlrh) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF), [Black Department](https://open.spotify.com/artist/0EmKD5XDC7LXAPwXhK2Kuk) | [For A Beautiful Liar](https://open.spotify.com/album/4KDDKG0StS708HXyYxhNHO) | 1:57 | 2025-09-19 | 2025-10-25 |
 | [For One Night](https://open.spotify.com/track/4PDxk8IXTMxbRlSv7Cx2Hb) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [For One Night](https://open.spotify.com/album/4rFPkGiWzoaLl59j11Ruj4) | 2:53 | 2022-08-05 | 2022-11-12 |
 | [For the Music](https://open.spotify.com/track/36OMSWCG4S0OOnqSbEHmq0) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [For the Music](https://open.spotify.com/album/7Ix3ulz7HciLSZiicNv2cS) | 3:34 | 2026-03-13 |  |

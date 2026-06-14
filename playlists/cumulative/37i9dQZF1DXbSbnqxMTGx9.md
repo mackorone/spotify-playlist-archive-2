@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-661 songs - 1 day 12 hr 50 min
+662 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,7 +569,7 @@
 | [The Three Bells \(aka Jimmy Brown\)](https://open.spotify.com/track/0FQdjip13LhPA4CFK9cOwR) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Treasure Isle Presents: Original Reggae](https://open.spotify.com/album/224KlK9NLFFpJ8bxpQwcOP) | 2:29 | 2022-09-22 | 2023-11-11 |
 | [The Three Bells \(Jimmy Brown\)](https://open.spotify.com/track/11n3yA4Jd3oxegdyoNInfJ) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Here Comes Ken Parker / Jimmy Brown \(Expanded Version\)](https://open.spotify.com/album/6TvSuIxr7fSWqd5Htx0uv1) | 2:27 | 2022-09-22 | 2024-01-30 |
 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 | 2022-09-22 | 2024-04-19 |
-| [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 | 2021-03-02 |  |
+| [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 | 2021-03-02 | 2026-06-14 |
 | [The Upsetter](https://open.spotify.com/track/2oU3L7aXP2ohVQBWMN71H9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:05 | 2021-03-02 |  |
 | [They Gonna Talk](https://open.spotify.com/track/76BXmJ9QlH6zoiWVDMX35k) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Music Is Life](https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6) | 3:57 | 2022-08-18 | 2022-09-23 |
 | [Things You Say You Love](https://open.spotify.com/track/0X04RUhabzuAIhtNiTIByz) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Treasure Isle Presents: Rock Steady](https://open.spotify.com/album/3nNuXJadrSzqTJKY2jDU94) | 2:46 | 2022-09-22 | 2022-11-13 |
@@ -668,6 +668,7 @@
 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 | 2022-08-18 | 2022-09-23 |
 | [Yègellé Tezeta](https://open.spotify.com/track/3aoq49JkaA7UIYw4Scr1GT) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Afrobeat Experience, Vol.1](https://open.spotify.com/album/4wlCSu49JOHgOT4xAPlLto) | 3:13 | 2022-09-22 | 2022-11-14 |
 | [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 | 2021-03-02 | 2026-06-13 |
+| [Yègellé Tezeta](https://open.spotify.com/track/6UTg8n7UkdHq77b1ToTVA0) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/5MIGplDUloZZdW8izdHzJe) | 3:14 | 2024-01-29 |  |
 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted: The Best of King Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 | 2021-03-02 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

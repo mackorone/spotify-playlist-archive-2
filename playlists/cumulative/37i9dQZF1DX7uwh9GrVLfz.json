@@ -15814,7 +15814,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 159749,
       "name": "\u76f4\u6483\u4e16\u4ee3",
       "url": "https://open.spotify.com/track/5uR2LOyzEnStkF7atF0tbO"
@@ -16178,6 +16178,24 @@
       "duration_ms": 293360,
       "name": "\u8cfd\u3092\u632f\u308b",
       "url": "https://open.spotify.com/track/51Kx7vgqkbr68b4yAIBW1t"
+    },
+    {
+      "album": {
+        "name": "VS Tairiku Ondo",
+        "url": "https://open.spotify.com/album/7rwrDS4LF3SZ0ikQ5e6oXv"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30ec\u30d3\u5927\u9678\u97f3\u982d",
+          "url": "https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt"
+        }
+      ],
+      "date_added": "2026-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211450,
+      "name": "\u8d85\u5e38\u73fe\u8c61\u3092\u4fe1\u3093\u3058\u3066\u307f\u308b\u3002",
+      "url": "https://open.spotify.com/track/2OHFPkN0QscT2R6EL6tDm1"
     },
     {
       "album": {

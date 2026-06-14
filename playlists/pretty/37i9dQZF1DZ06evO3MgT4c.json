@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 440251,
+  "num_followers": 440257,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAABaK3kuWhud7IwWTYL+oHjG",
+  "snapshot_id": "aitMAAAAAADXFlf8taorSl7QU5sj/sc9",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peek A Boo",
+        "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 247612,
+      "name": "Peek A Boo",
+      "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 274207,
       "name": "Sloppy Toppy (feat. Migos & Peewee Longway)",
       "url": "https://open.spotify.com/track/1OLABkcTvWfXE2xs5Yb2Ex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teenage Emotions",
-        "url": "https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 246325,
-      "name": "Peek A Boo",
-      "url": "https://open.spotify.com/track/5hx4FpDZOnDVYlyoG3rMks"
     },
     {
       "added_at": null,

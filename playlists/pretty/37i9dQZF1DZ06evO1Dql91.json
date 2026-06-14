@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2731,
+  "num_followers": 2735,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACsLwT1PqpfkDxab9m6QmWi",
+  "snapshot_id": "aitMAAAAAAAPJ4u397TW1KhpNmnnXw5I",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 221000,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/1fq5OBjI5y88pmL5v3KGtG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Sayonara",
+      "url": "https://open.spotify.com/track/3W2yA6zPsnPWgPs4mg1qB2"
     },
     {
       "added_at": null,
@@ -183,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
       },
       "artists": [
         {
@@ -192,9 +208,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Mad Love",
-      "url": "https://open.spotify.com/track/77gxBuREXp2aJI6FmqjaeC"
+      "duration_ms": 40533,
+      "name": "Many Rivers Interlude",
+      "url": "https://open.spotify.com/track/6K5lEdKWEIj8nwUq2ggbst"
     },
     {
       "added_at": null,
@@ -251,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is Gonna Be Alright",
-        "url": "https://open.spotify.com/album/20Aiwmkcgo4LVORJQenn0F"
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
       },
       "artists": [
         {
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 198636,
-      "name": "Everything Is Gonna Be Alright",
-      "url": "https://open.spotify.com/track/0E7ZCzPoxcMM90ppB47d1Y"
+      "duration_ms": 177866,
+      "name": "Break Out",
+      "url": "https://open.spotify.com/track/6frvWkQRx9WhNpfyObPxA2"
     },
     {
       "added_at": null,
@@ -279,6 +295,74 @@
       "duration_ms": 234691,
       "name": "The Sunshine",
       "url": "https://open.spotify.com/track/6iefEnldbME0ecUsWYgbgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/77gxBuREXp2aJI6FmqjaeC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 156764,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6MJXj7Wt2UTB7JZLUNaT8g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/2CLaCt1UjX7Xv1wxHad7ng"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorphosis Complete",
+        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 234563,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS"
     },
     {
       "added_at": null,
@@ -312,15 +396,15 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 156764,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6MJXj7Wt2UTB7JZLUNaT8g"
+      "duration_ms": 215753,
+      "name": "She's A Sweetheart",
+      "url": "https://open.spotify.com/track/7atvuaadSawmTPCDLUkYcR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
       },
       "artists": [
         {
@@ -328,15 +412,15 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 174800,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/7AbL7KSgbtPTT6iNTwSif0"
+      "duration_ms": 188800,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis Complete",
-        "url": "https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G"
+        "name": "Everything Is Gonna Be Alright",
+        "url": "https://open.spotify.com/album/20Aiwmkcgo4LVORJQenn0F"
       },
       "artists": [
         {
@@ -344,9 +428,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 234563,
-      "name": "Comedy",
-      "url": "https://open.spotify.com/track/5EcUvUZ7wioHI6KEb4Q6YS"
+      "duration_ms": 198636,
+      "name": "Everything Is Gonna Be Alright",
+      "url": "https://open.spotify.com/track/0E7ZCzPoxcMM90ppB47d1Y"
     },
     {
       "added_at": null,
@@ -367,42 +451,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miss Michigan",
-        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
       "artists": [
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        },
         {
           "name": "Infinity Song",
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 215753,
-      "name": "She's A Sweetheart",
-      "url": "https://open.spotify.com/track/7atvuaadSawmTPCDLUkYcR"
+      "duration_ms": 174800,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7AbL7KSgbtPTT6iNTwSif0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Home, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
       },
       "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        },
         {
           "name": "Infinity Song",
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 379619,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni"
+      "duration_ms": 226600,
+      "name": "Stranger Danger",
+      "url": "https://open.spotify.com/track/3B4Bt4Ygb8TfosDDfE9Cdu"
     },
     {
       "added_at": null,
@@ -435,6 +511,42 @@
       "duration_ms": 253253,
       "name": "No One Comes Close",
       "url": "https://open.spotify.com/track/5TxHK9ZJVb6Rbh9xBYqVK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels Like Home, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 379619,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INFINITY SONG",
+        "url": "https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "All Of My Friends",
+      "url": "https://open.spotify.com/track/4jlMlg3vKgVa5inNUz42Tz"
     },
     {
       "added_at": null,
@@ -572,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 234404,
-      "name": "His Eye Is On the Sparrow",
-      "url": "https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36"
+      "duration_ms": 366625,
+      "name": "Dream Fighter",
+      "url": "https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4"
     },
     {
       "added_at": null,
@@ -636,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 366625,
-      "name": "Dream Fighter",
-      "url": "https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4"
+      "duration_ms": 234404,
+      "name": "His Eye Is On the Sparrow",
+      "url": "https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36"
     },
     {
       "added_at": null,
@@ -675,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 79701,
-      "name": "Intro - Live",
-      "url": "https://open.spotify.com/track/6yynZDWbyfY4emRXrNSExQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinity's Song",
         "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
       },
@@ -707,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 246788,
-      "name": "EOS Brussels - Live",
-      "url": "https://open.spotify.com/track/6uyKmOqPZm3diQOEq63JTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinity's Song",
         "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
       },
@@ -735,38 +815,6 @@
       "duration_ms": 234356,
       "name": "Raindrops Keep Falling On My Head",
       "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity's Song",
-        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 269909,
-      "name": "Love Is Watching",
-      "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity's Song",
-        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Walking in Your Eternal Love",
-      "url": "https://open.spotify.com/track/6SIfERtNKaRiinslahFDce"
     }
   ],
   "unique_name": "This Is Infinity Song",

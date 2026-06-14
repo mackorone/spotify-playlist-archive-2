@@ -551,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Until The Sun Explodes",
+        "url": "https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112506,
+      "name": "247-369 (feat. Pennywise)",
+      "url": "https://open.spotify.com/track/5wqnAJtY7ZT1jjwKwDjuNL"
+    },
+    {
+      "album": {
         "name": "Live At 55",
         "url": "https://open.spotify.com/album/51HetOJ0XC1F2snGFWoDKc"
       },
@@ -732,7 +754,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 215038,
       "name": "40 Years Of Fuckin' Up",
       "url": "https://open.spotify.com/track/3RHysDr2ioGYFKJUh5waWE"
@@ -1599,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249124,
+      "name": "A Pesar De Ti y De Mi",
+      "url": "https://open.spotify.com/track/5Mj8nBsQg04h33UXNfEONY"
+    },
+    {
+      "album": {
         "name": "A Pesar De Ti y De Mi",
         "url": "https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8"
       },
@@ -1610,7 +1650,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 249124,
       "name": "A Pesar De Ti y De Mi",
       "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
@@ -1858,7 +1898,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 211690,
       "name": "Above the Known",
       "url": "https://open.spotify.com/track/7Ig7LahOFcqMas7XrKeok1"
@@ -2648,7 +2688,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 139706,
       "name": "Ain't No Sunshine (feat. Sting)",
       "url": "https://open.spotify.com/track/5Rzymro3VV5m1YjVVWLqAF"
@@ -7282,10 +7322,28 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 272967,
       "name": "Black & Blue - 2026 Repented",
       "url": "https://open.spotify.com/track/6n0UKKVdHb4kkPG5MWIJ4w"
+    },
+    {
+      "album": {
+        "name": "Black & Blue (2026 Repented)",
+        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272967,
+      "name": "Black & Blue - 2026 Repented",
+      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
     },
     {
       "album": {
@@ -7766,6 +7824,24 @@
     {
       "album": {
         "name": "Frisson Noir",
+        "url": "https://open.spotify.com/album/3BaCui7eVmPhPkzpV8jRkj"
+      },
+      "artists": [
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391828,
+      "name": "Blaze Forever",
+      "url": "https://open.spotify.com/track/6F5YjLiK70iTwoY3MwEe4r"
+    },
+    {
+      "album": {
+        "name": "Frisson Noir",
         "url": "https://open.spotify.com/album/07XMYWkn1SHjceyXJ6TM4m"
       },
       "artists": [
@@ -7776,7 +7852,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 391828,
       "name": "Blaze Forever",
       "url": "https://open.spotify.com/track/6xOjmky613I9IH6POts4F4"
@@ -9611,6 +9687,28 @@
     },
     {
       "album": {
+        "name": "CYKA",
+        "url": "https://open.spotify.com/album/1euIZzjPzukDjGM63Oal9Q"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        },
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188053,
+      "name": "CANDY DOPAMINE",
+      "url": "https://open.spotify.com/track/5P1yityyf84Xrr0f9iL451"
+    },
+    {
+      "album": {
         "name": "CANDY DOPAMINE",
         "url": "https://open.spotify.com/album/1O0ioUh8VAINx6kBd8DWQ2"
       },
@@ -9626,7 +9724,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 188053,
       "name": "CANDY DOPAMINE",
       "url": "https://open.spotify.com/track/6CJXVlZ1kApaGVH5vMyQQ8"
@@ -11321,8 +11419,8 @@
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 485154,
-      "name": "Comfortably Numb Re-Imagined - Full-Length",
+      "duration_ms": 179999,
+      "name": "Comfortably Numb Re-Imagined - Radio Edit",
       "url": "https://open.spotify.com/track/67iNz0toHfYmEl1lQ6E5Hg"
     },
     {
@@ -13640,6 +13738,28 @@
       "duration_ms": 118618,
       "name": "Devil In Disguise",
       "url": "https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG"
+    },
+    {
+      "album": {
+        "name": "Gargoyle of the Garden State",
+        "url": "https://open.spotify.com/album/5vW1zVGGCLNbFXc6bqvnEg"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bolan",
+          "url": "https://open.spotify.com/artist/5y20uhyYiZ5kdQW0YjlYok"
+        },
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152606,
+      "name": "Devil in the White",
+      "url": "https://open.spotify.com/track/2AW7KLsSSSe9nyv6zEcJH4"
     },
     {
       "album": {
@@ -18539,6 +18659,24 @@
     },
     {
       "album": {
+        "name": "Exit Wound",
+        "url": "https://open.spotify.com/album/6tH8sjW4wo7eDiZn1WZTG9"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278231,
+      "name": "Exit Wound",
+      "url": "https://open.spotify.com/track/46PCeG1vUqW2TxTJuJsenw"
+    },
+    {
+      "album": {
         "name": "One Assassination Under God - Chapter 2",
         "url": "https://open.spotify.com/album/2dLD8W5hQ5XNagwy212lH2"
       },
@@ -18550,7 +18688,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 278231,
       "name": "Exit Wound",
       "url": "https://open.spotify.com/track/4J9TS0jeKJ5McAA7xrCZCC"
@@ -18568,7 +18706,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 195161,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
@@ -19858,7 +19996,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 249281,
       "name": "Flying Monkey",
       "url": "https://open.spotify.com/track/5sJIi9JFuNhj3JBwFVVHAI"
@@ -20990,7 +21128,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 348533,
       "name": "Future Breed Machine - Remastered 2026",
       "url": "https://open.spotify.com/track/2LalwijfqunfEmhKWMSHW9"
@@ -23403,6 +23541,28 @@
     },
     {
       "album": {
+        "name": "El Camino De Solgo",
+        "url": "https://open.spotify.com/album/0kfXp9m25PGQsIfObVflk9"
+      },
+      "artists": [
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195531,
+      "name": "Hasta El Fin",
+      "url": "https://open.spotify.com/track/0WADbEwXGIXEnVYAknGXf2"
+    },
+    {
+      "album": {
         "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
         "url": "https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY"
       },
@@ -23796,7 +23956,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 259593,
       "name": "Heaven on High",
       "url": "https://open.spotify.com/track/3EbT5LT9lgaYCVVRtmydEI"
@@ -31110,7 +31270,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 225590,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/1Aq646DNeBRKAyk6cmQXOd"
@@ -35210,7 +35370,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 202392,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/2Z6T171uzbiX0UHtHgWifP"
@@ -37172,7 +37332,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 225730,
       "name": "Monkey - A cappella",
       "url": "https://open.spotify.com/track/234xqvh7kryRd2XYXa7xKo"
@@ -41764,7 +41924,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 121788,
       "name": "Outlander - The Skye Boat Song (The Journey's End) (feat. Annie Lennox)",
       "url": "https://open.spotify.com/track/2pssdJs0gcu1RjEVpVjMVp"
@@ -46052,7 +46212,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
@@ -46738,7 +46898,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 226571,
       "name": "Rock and Roll Star",
       "url": "https://open.spotify.com/track/2Pt9w3T2jLEYAx8hChZeXA"
@@ -49604,7 +49764,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 214386,
       "name": "Shed",
       "url": "https://open.spotify.com/track/25Ko4HidXVJ7UDiLIGygof"
@@ -52301,6 +52461,24 @@
     },
     {
       "album": {
+        "name": "Spiral (2026 Remix)",
+        "url": "https://open.spotify.com/album/6rDVa1SZO58Buy77LW1X4R"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232517,
+      "name": "Spiral - 2026 Remix",
+      "url": "https://open.spotify.com/track/7wp6tnKFAIkJUj4yNjZkvN"
+    },
+    {
+      "album": {
         "name": "Spirit of Olympus",
         "url": "https://open.spotify.com/album/1lBudSeOxtbRvHdYKC8yPG"
       },
@@ -52356,7 +52534,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 362533,
       "name": "Spooky - Sub Sub 12'' Remix",
       "url": "https://open.spotify.com/track/3CeHkbLfr7hwuhOhccWVeD"
@@ -53204,7 +53382,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 302565,
       "name": "Sue\u00f1o con serpientes",
       "url": "https://open.spotify.com/track/0MImNCJE8DJD37HjIQb4gA"
@@ -60416,7 +60594,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/0Y8SvOwjZJRetOycgRAoSg"
@@ -60812,6 +60990,28 @@
       "duration_ms": 272813,
       "name": "True Belief",
       "url": "https://open.spotify.com/track/5ZW4JXZKsy28uOKCc1nJsi"
+    },
+    {
+      "album": {
+        "name": "True Faith-94 (Eschreamer Mix) [2025 Remaster]",
+        "url": "https://open.spotify.com/album/2TPEOMmSvKHfonJIdqjA8b"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        },
+        {
+          "name": "Eschreamer",
+          "url": "https://open.spotify.com/artist/7KDUSgRrKT96tlb64qyk9F"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479066,
+      "name": "True Faith-94 (Eschreamer Mix) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/6aPktk2lEptxDw9acsWVKj"
     },
     {
       "album": {
@@ -61596,7 +61796,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 211981,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/1kXEfakdJcD2Z85OkkJFof"

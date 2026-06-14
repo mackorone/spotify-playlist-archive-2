@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring Yorghaki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,145 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,808 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |
 | 50 | [1+1](https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [1+1](https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1) | 3:06 |
 
-Snapshot ID: `AAAAAIG8NHrUV6wrfW875iyGo3Cl7D0K`
+Snapshot ID: `AAAAAL/TttadYOA+prkrQ/9EKnxOBcI9`

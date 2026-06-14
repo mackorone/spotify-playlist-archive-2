@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 652188,
+  "num_followers": 652256,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2026-06-12 17:50:26",
       "album": {
-        "name": "Inocente",
-        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
-    },
-    {
-      "added_at": "2026-06-12 17:50:26",
-      "album": {
         "name": "Si Me Tomo una Cerveza",
         "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 182198,
       "name": "Si Me Tomo Una Cerveza",
       "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+    },
+    {
+      "added_at": "2026-06-12 17:50:26",
+      "album": {
+        "name": "Inocente",
+        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
     },
     {
       "added_at": "2026-06-12 17:50:26",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-06-12 17:50:26",
       "album": {
+        "name": "La Diosa - Los 20 \u00c9xitos M\u00e1s Pedidos",
+        "url": "https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 143813,
+      "name": "Te Perdon\u00e9 Tantas Veces",
+      "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"
+    },
+    {
+      "added_at": "2026-06-12 17:50:26",
+      "album": {
         "name": "QUE ME FALTE TODO",
         "url": "https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 165918,
       "name": "QUE ME FALTE TODO",
       "url": "https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l"
-    },
-    {
-      "added_at": "2026-06-12 17:50:26",
-      "album": {
-        "name": "La Diosa - Los 20 \u00c9xitos M\u00e1s Pedidos",
-        "url": "https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 143813,
-      "name": "Te Perdon\u00e9 Tantas Veces",
-      "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"
     },
     {
       "added_at": "2026-06-12 17:50:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-06-12 17:50:26",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2026-06-12 17:50:26",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 214093,
       "name": "Poeta Enamorado",
       "url": "https://open.spotify.com/track/7hz1CZ9EqizK9QjAIQFqRi"
+    },
+    {
+      "added_at": "2026-06-12 17:50:26",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2026-06-12 17:50:26",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-12 17:50:26",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
-    },
-    {
-      "added_at": "2026-06-12 17:50:26",
-      "album": {
         "name": "KaKa Nene",
         "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 246240,
       "name": "Traigo Una Rosa",
       "url": "https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI"
+    },
+    {
+      "added_at": "2026-06-12 17:50:26",
+      "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2026-06-12 17:50:26",
@@ -1003,26 +1003,6 @@
       "duration_ms": 344186,
       "name": "La mano de Dios (Homenaje a Diego Maradona)",
       "url": "https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G"
-    },
-    {
-      "added_at": "2026-06-12 17:50:26",
-      "album": {
-        "name": "Cuando Sea Conmigo",
-        "url": "https://open.spotify.com/album/7dZ5MenVbYqobkijuz0uFf"
-      },
-      "artists": [
-        {
-          "name": "Diel Paris",
-          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
-        },
-        {
-          "name": "Quintana Musik",
-          "url": "https://open.spotify.com/artist/5SGinZXSIoY7elh3aNVqKu"
-        }
-      ],
-      "duration_ms": 200180,
-      "name": "Cuando Sea Conmigo",
-      "url": "https://open.spotify.com/track/4FeIKd4S3ihhzlYorunZfs"
     },
     {
       "added_at": "2026-06-12 17:50:26",
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2026-06-12 17:50:26",
       "album": {
+        "name": "Cuando Sea Conmigo",
+        "url": "https://open.spotify.com/album/7dZ5MenVbYqobkijuz0uFf"
+      },
+      "artists": [
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        },
+        {
+          "name": "Quintana Musik",
+          "url": "https://open.spotify.com/artist/5SGinZXSIoY7elh3aNVqKu"
+        }
+      ],
+      "duration_ms": 200180,
+      "name": "Cuando Sea Conmigo",
+      "url": "https://open.spotify.com/track/4FeIKd4S3ihhzlYorunZfs"
+    },
+    {
+      "added_at": "2026-06-12 17:50:26",
+      "album": {
         "name": "VUELA",
         "url": "https://open.spotify.com/album/6tcsMZC2aZNXWymJNghFyi"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 158441,
       "name": "VUELA",
       "url": "https://open.spotify.com/track/6ryIAZUcqNrMi5D9kVaU7x"
+    },
+    {
+      "added_at": "2026-06-12 17:50:26",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
       "added_at": "2026-06-12 17:50:26",
@@ -1103,22 +1119,6 @@
       "duration_ms": 186360,
       "name": "Lo Mismo Que A M\u00ed",
       "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
-    },
-    {
-      "added_at": "2026-06-12 17:50:26",
-      "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
       "added_at": "2026-06-12 17:50:26",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-06-12 17:50:26",
       "album": {
-        "name": "Supermerk2 & Meta Guacha: 2x1",
-        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
-      },
-      "artists": [
-        {
-          "name": "Meta Guacha",
-          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Para la Gilada",
-      "url": "https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt"
-    },
-    {
-      "added_at": "2026-06-12 17:50:26",
-      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/5fLXLwHK9MshuBwROf4ILu"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 121303,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/6lUAXi3L4SzK1bTym888wq"
+    },
+    {
+      "added_at": "2026-06-12 17:50:26",
+      "album": {
+        "name": "Supermerk2 & Meta Guacha: 2x1",
+        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
+      },
+      "artists": [
+        {
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Para la Gilada",
+      "url": "https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt"
     },
     {
       "added_at": "2026-06-12 17:50:26",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-06-12 17:50:26",
       "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2026-06-12 17:50:26",
+      "album": {
         "name": "Barrio Prendido",
         "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
-    },
-    {
-      "added_at": "2026-06-12 17:50:26",
-      "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
     },
     {
       "added_at": "2026-06-12 17:50:26",

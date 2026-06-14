@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,209 songs - 2 day 23 hr 11 min
+1,210 songs - 2 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -940,7 +940,7 @@
 | [باليني](https://open.spotify.com/track/4IfxveU1bKptoIxYbQ2tob) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Vodafone Music](https://open.spotify.com/artist/5SnDV0R0NybsXoWGd6ueTR), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [باليني](https://open.spotify.com/album/6qGdo87NmiPWP9A1xxQv82) | 3:17 | 2025-12-27 | 2026-01-27 |
 | [بانوراما](https://open.spotify.com/track/2PCSAQsUfYMnmWZ4Tmkqme) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Enzo](https://open.spotify.com/artist/4U1hl9bY2xazNNeiU42obk), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 5:45 | 2022-07-14 | 2022-07-17 |
 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 | 2025-04-09 | 2026-04-27 |
-| [بتفتكرني ساعات](https://open.spotify.com/track/7JN6ZcsdAz2e1JWexv8edB) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/75rtGQGnNq7upYoNdtmtoJ) | 3:37 | 2026-04-26 |  |
+| [بتفتكرني ساعات](https://open.spotify.com/track/7JN6ZcsdAz2e1JWexv8edB) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/75rtGQGnNq7upYoNdtmtoJ) | 3:37 | 2026-04-26 | 2026-06-14 |
 | [بتمنى أنساك](https://open.spotify.com/track/0Rv0N34JIc3XGK5x2ohPOG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [بتمنى أنساك](https://open.spotify.com/album/2qjCon1r5mx9dxpMLwwDuG) | 2:59 | 2025-06-15 | 2025-07-03 |
 | [بتمنى انساك](https://open.spotify.com/track/7bjb5LjZficExnYOO4Z35v) | [Versus Music](https://open.spotify.com/artist/7lYo3vBvDbmhlgYhNBzM8V) | [بتمنى انساك](https://open.spotify.com/album/1AfwwstyBJUKJOWclXTjCg) | 3:04 | 2025-04-26 | 2025-05-08 |
 | [بتمنى انساك](https://open.spotify.com/track/5qhbsqqvLW26TwSJs9O6Mu) | [Versus Music](https://open.spotify.com/artist/7lYo3vBvDbmhlgYhNBzM8V) | [بتمنى انساك](https://open.spotify.com/album/3uoZohFyt3cGEEpNMeN4G0) | 3:04 | 2025-05-07 | 2025-05-10 |
@@ -1078,6 +1078,7 @@
 | [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 | 2026-03-03 | 2026-03-05 |
 | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2) | 3:39 | 2026-04-25 | 2026-05-28 |
 | [غاغة](https://open.spotify.com/track/4dhBcmOsysqol75RKDMooX) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 1:56 | 2022-10-11 | 2023-03-12 |
+| [غبي](https://open.spotify.com/track/4Xp2xAmjjGvMsmPwoz5aBR) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [غبي](https://open.spotify.com/album/5KwZPofeqoAFmkUTZzZ8jo) | 4:05 | 2026-06-13 |  |
 | [غيبنا وغاب الابداع والشغلانه لمت](https://open.spotify.com/track/35VEY9yoVhbR5hvFaMJaeU) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [غيبنا وغاب الابداع والشغلانه لمت](https://open.spotify.com/album/3qnXl1ef8DKUcCveAWeNCC) | 3:21 | 2025-02-21 | 2025-06-09 |
 | [غيرك حاول](https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [غيرك حاول](https://open.spotify.com/album/4OTUDz9Mm3VtTbNHg8eoss) | 3:15 | 2023-12-08 | 2024-06-24 |
 | [فارس عدي حدود الموت](https://open.spotify.com/track/4dFl3wR4D52ce1MsqQ7XHo) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [ميسو ميسره](https://open.spotify.com/artist/0QpJBmVA3GcAX8NgPlrrMW) | [فارس عدي حدود الموت](https://open.spotify.com/album/7gc3SVUvnxtD3OTZ99e2Ci) | 5:24 | 2025-11-04 | 2025-12-11 |

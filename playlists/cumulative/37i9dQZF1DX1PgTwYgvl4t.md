@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI?si=0pFwlycWSQ2EW\-aA6W\-b4A>Tkeyz</a>
 
-399 songs - 2 day 1 hr 43 min
+400 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [I surrender](https://open.spotify.com/track/4OTZiVgPtkJsYAftgOIQEu) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [I surrender](https://open.spotify.com/album/3Nm2FBMLY48THNMIi9IPRs) | 5:26 | 2025-08-08 | 2025-12-12 |
 | [I Was Made To Glorify Your Name](https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [I Was Made To Glorify Your Name](https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0) | 5:46 | 2026-02-27 |  |
 | [I will never bow](https://open.spotify.com/track/0RicsAMU6yVoDzGtOHsByv) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [I will never bow](https://open.spotify.com/album/5bc5Ac5sF64Pj8wXj8vISe) | 9:52 | 2025-04-04 | 2026-01-30 |
+| [I Will Wait](https://open.spotify.com/track/0tMRJTLAoxozAPwZOXCLuF) | [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX) | [I Will Wait](https://open.spotify.com/album/4DPUyVkh2fltVsJIWf6p3N) | 5:01 | 2026-06-13 |  |
 | [I Worship](https://open.spotify.com/track/2LLUDLGzrX9366WZOHiTNc) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX), [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Worship](https://open.spotify.com/album/5GRITao3nx7gyaAEn0tgYa) | 3:51 | 2024-06-07 | 2024-12-20 |
 | [i WoRsHiP \- Live](https://open.spotify.com/track/09miLEKvkU62Apb6HdRxRf) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [i WoRsHiP \(Live\)](https://open.spotify.com/album/25cB3qZIRT5KtC9Uu7xGDV) | 7:08 | 2024-08-30 | 2025-01-17 |
 | [If I Ever Need A Miracle \- Remix](https://open.spotify.com/track/2yIAksWvjIUbg3phZwqaWu) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Kingsley Ike](https://open.spotify.com/artist/7t4A3RZRxNW2VjBcPWM913), [PureFire](https://open.spotify.com/artist/05kRXo1yhPqm1NqzUifr4t) | [If I Ever Need A Miracle \(Remix\)](https://open.spotify.com/album/5ya70zaWuhzR1DJCzCylcj) | 11:12 | 2025-01-17 | 2025-02-28 |

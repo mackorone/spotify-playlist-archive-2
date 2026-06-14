@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 165476,
+  "num_followers": 165604,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
+        "name": "Gevangenis",
+        "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 164305,
+      "name": "Gevangenis",
+      "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
         "name": "En Ik Droom",
         "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 225733,
       "name": "Het Regent Zonnestralen",
       "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
-        "name": "Gevangenis",
-        "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 164305,
-      "name": "Gevangenis",
-      "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
+        "name": "Vandaag",
+        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
+      },
+      "artists": [
+        {
+          "name": "Nick & Simon",
+          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "Rosanne",
+      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
         "name": "Bon Gepakt",
         "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
-        "name": "Vandaag",
-        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
-      },
-      "artists": [
-        {
-          "name": "Nick & Simon",
-          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "Rosanne",
-      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
-        "name": "De nieuwe van....",
-        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "Jannes hitmedley",
-      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
         "name": "'n Koffer Vol Met Dromen",
         "url": "https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 267000,
       "name": "De Woonboot",
       "url": "https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
+        "name": "De nieuwe van....",
+        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "Jannes hitmedley",
+      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
-        "name": "Met Of Zonder Jou",
-        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 182618,
-      "name": "Met Of Zonder Jou",
-      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
         "name": "De Ring die jij draagt 2.0",
         "url": "https://open.spotify.com/album/0gXqjqCKGWGVSpxujOJTAg"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 192923,
       "name": "De Ring die jij draagt 2.0",
       "url": "https://open.spotify.com/track/1n5f3f1Ml3v08Kdh2bIKaq"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
+        "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 182618,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
+        "name": "Zo Ben Ik Mezelf",
+        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
+      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
         "name": "Frans Duits",
         "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
-        "name": "Zo Ben Ik Mezelf",
-        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
-      },
-      "artists": [
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
-      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
         "name": "Sugardaddy",
         "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 131796,
       "name": "Sugardaddy",
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
-    },
-    {
-      "added_at": "2026-05-28 22:01:04",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2026-05-28 22:01:04",
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
+    },
+    {
+      "added_at": "2026-05-28 22:01:04",
+      "album": {
         "name": "Hallo",
         "url": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
       },
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2026-05-28 22:01:04",
       "album": {
-        "name": "Zomernacht In Griekenland",
-        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
+        "name": "Turk Uit De Kroeg",
+        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
       },
       "artists": [
         {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
         }
       ],
-      "duration_ms": 167002,
-      "name": "Zomernacht In Griekenland",
-      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
+      "duration_ms": 192500,
+      "name": "Turk Uit De Kroeg",
+      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
     }
   ],
   "unique_name": "Hollandse Meezingers",

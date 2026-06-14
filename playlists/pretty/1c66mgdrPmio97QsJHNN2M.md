@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,658 likes - 287 songs - 15 hr 20 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,658 likes - 296 songs - 15 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -295,5 +295,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 285 | [Beach Bum of Manasota Key](https://open.spotify.com/track/4lLFS7PjxK4OvktXivDrgt) | [Alex Hutchinson](https://open.spotify.com/artist/0qzOSbk3s9TNXYp3ZsKI5c) | [Beach Bum of Manasota Key](https://open.spotify.com/album/6iRIDkjLwjMxC34WDnIh7D) | 2:22 |
 | 286 | [Adder](https://open.spotify.com/track/4PkTifZxY24BR22QPF7T8O) | [LYHE](https://open.spotify.com/artist/28KfiWYBExcoJ2W7m73VXM) | [Back to the Roots](https://open.spotify.com/album/5JNXLzLlOC6wZmbzxG8YeM) | 3:31 |
 | 287 | [Futuristic Forest Færies](https://open.spotify.com/track/54Yecslue2BMSUEHCMebmi) | [Æon of Æther](https://open.spotify.com/artist/1v5UcJGJfoYMVJ2XtNhuhA) | [Futuristic Forest Færies](https://open.spotify.com/album/4uNNPSbZBlTxUiPtSCFWbB) | 3:15 |
+| 288 | [Master Manipulator](https://open.spotify.com/track/2jObfi1IcQPvKrRGJJ8cgT) | [Diana Pilquist](https://open.spotify.com/artist/1CgNrGLOeBlZ64VjUnCSTt) | [Master Manipulator](https://open.spotify.com/album/7GpzVW3HoOqk8mtOrheFJm) | 2:49 |
+| 289 | [Damn Luxury](https://open.spotify.com/track/71Snil0cOeUszQZMBG8ORf) | [NIAMH MCKINNEY](https://open.spotify.com/artist/4VwLNeF6rkBaYMitWDhByr) | [Damn Luxury](https://open.spotify.com/album/2QiisQjTFfC35fhnaVERkq) | 3:20 |
+| 290 | [DIGNITY](https://open.spotify.com/track/0QzCTGI2x0aR6gmOcmoaA3) | [EJames](https://open.spotify.com/artist/7HgytjkAZ2Qo43hrJfYZ0y) | [DIGNITY](https://open.spotify.com/album/7HkExoL7icfW16SvL2ZBkj) | 2:37 |
+| 291 | [Did You Know It My Friend](https://open.spotify.com/track/4tdivNk8izLC7v1UzML87p) | [Aleksei Zharov](https://open.spotify.com/artist/3skn4JNrBemiClGHYA8KaN) | [Did You Know It My Friend](https://open.spotify.com/album/0zXQrJKBFwHIqvi0arGIkK) | 3:17 |
+| 292 | [New Classic](https://open.spotify.com/track/7biQFmMlQWFVT63Adgr08w) | [Megan Dawson](https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4) | [New Classic](https://open.spotify.com/album/4evx2V3nKnP3TQOnFAMp7F) | 3:15 |
+| 293 | [Eternal Flame Inside](https://open.spotify.com/track/1EMgHAulWiukWelGGIHB19) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Eternal Flame Inside](https://open.spotify.com/album/5HjSpIJUkZFoeGf1thgLHq) | 3:24 |
+| 294 | [Slide My Way](https://open.spotify.com/track/32GkNKuOiDECS4BhTxErqz) | [Paris Ymani](https://open.spotify.com/artist/5OWNeITz8jgqNfwsBMgson) | [Slide My Way](https://open.spotify.com/album/24437pGU6cPYlpdFWIxXyA) | 2:49 |
+| 295 | [WHERE THE RIVER FLOWS](https://open.spotify.com/track/4vmjUd8chnh3jhkDd6WXEa) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [WHERE THE RIVER FLOWS](https://open.spotify.com/album/4zcmnA4Yzq7HVSoyydBfta) | 3:08 |
+| 296 | [DEAD WEIGHT](https://open.spotify.com/track/2rY6U6EFbybjYFTXuu9kLN) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [WHERE THE RIVER FLOWS](https://open.spotify.com/album/4zcmnA4Yzq7HVSoyydBfta) | 3:23 |
 
-Snapshot ID: `AAA5WLchBSne7gd4fPXccJBhy+vqQQMx`
+Snapshot ID: `AAA5YVSjHgGXFEbtfJ6Z9OPPwc06y3va`

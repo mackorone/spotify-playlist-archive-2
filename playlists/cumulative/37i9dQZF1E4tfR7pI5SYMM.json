@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Dystopian X Vision, Lockjaw, SCHANZ and more",
+  "description": "With SCHANZ, Lockjaw, Dystopian X Vision and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 298602,
       "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
       "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 297731,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5IkLKsgujaFYoHSm72JJjR"
@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 253932,
       "name": "Farewell to Bad Old Days",
       "url": "https://open.spotify.com/track/3sYN2I2kCX2HHCgr9uNzB8"
@@ -3726,7 +3726,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 338079,
       "name": "Fire Dances",
       "url": "https://open.spotify.com/track/738UZ8hVEggxIVZ0UaNFqX"
@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 241927,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/5PMnDmYTGlkg15qvKhWc6E"
@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -4340,7 +4340,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 306448,
       "name": "Gunslinger",
       "url": "https://open.spotify.com/track/3NRX5tbwwo9AdyKrOSivN0"
@@ -5057,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "I've been There",
+        "url": "https://open.spotify.com/album/4QDJ059aAx10SFlDcinevN"
+      },
+      "artists": [
+        {
+          "name": "Me and My Devil",
+          "url": "https://open.spotify.com/artist/3iUl4tzIyebyi78QautkYh"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223862,
+      "name": "I've been There",
+      "url": "https://open.spotify.com/track/3GwfRlpH6Fo1w6DUWRxDj1"
+    },
+    {
+      "album": {
         "name": "Iba Raz",
         "url": "https://open.spotify.com/album/281sdBb3Q9isncYzu7E6f3"
       },
@@ -5266,7 +5284,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -5356,7 +5374,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -5450,7 +5468,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 265987,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
@@ -5916,7 +5934,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -5934,7 +5952,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 256894,
       "name": "Liberationizing Light",
       "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
@@ -6794,7 +6812,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 253600,
       "name": "Midnight Ritual",
       "url": "https://open.spotify.com/track/1p8Au17NXxXeEivXJaYqSJ"
@@ -7188,6 +7206,24 @@
       "duration_ms": 229923,
       "name": "Must Auk",
       "url": "https://open.spotify.com/track/14pLvYx7U8YcBVyuEj27c7"
+    },
+    {
+      "album": {
+        "name": "Acoustix Sessions: RAMMSTEIN",
+        "url": "https://open.spotify.com/album/0MOyV1AmUUff4RUSoDkhws"
+      },
+      "artists": [
+        {
+          "name": "Neo Acoustix",
+          "url": "https://open.spotify.com/artist/62Y13nqb3BG3dmiFB8d6ts"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316493,
+      "name": "Mutter",
+      "url": "https://open.spotify.com/track/0dZQZ2lzX73bPIqPG33AeA"
     },
     {
       "album": {
@@ -7776,7 +7812,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 287800,
       "name": "N\u00e1tthagi",
       "url": "https://open.spotify.com/track/5CqFBcZyQGu2EfUGAUvfWa"
@@ -8032,7 +8068,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 304336,
       "name": "Only Ash and Bones Remain",
       "url": "https://open.spotify.com/track/1Y8yynZorrHu39AjqJnEtX"
@@ -10716,7 +10752,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -10788,7 +10824,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -11022,7 +11058,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -11572,7 +11608,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -12392,7 +12428,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -13349,6 +13385,24 @@
     },
     {
       "album": {
+        "name": "Zwischen Dreck Und Licht",
+        "url": "https://open.spotify.com/album/0yMUvoJkRSYhL7zsP013rY"
+      },
+      "artists": [
+        {
+          "name": "Armin F.",
+          "url": "https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217667,
+      "name": "Zwischen Dreck Und Licht",
+      "url": "https://open.spotify.com/track/4B55PaipFFMirV00ewuTmE"
+    },
+    {
+      "album": {
         "name": "Fra Aska",
         "url": "https://open.spotify.com/album/1uZdfLhm94HpVc1WQ5H9R8"
       },
@@ -13494,7 +13548,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 230000,
       "name": "\u0421\u0435\u0440\u0435\u0434 \u0434\u043e\u0440\u0456\u0433",
       "url": "https://open.spotify.com/track/6Gpk7plhRG5MYuYnStHmc5"

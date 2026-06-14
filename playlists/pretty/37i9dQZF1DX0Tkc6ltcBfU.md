@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,448 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,407 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 36 | [Geeked up \(with OsamaSon\)](https://open.spotify.com/track/6Ke4o5sK2UqeGWpGxRZuvp) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Demon Heart Radio](https://open.spotify.com/album/2TUhJtMwtQE4fs1lxit9UB) | 2:35 |
 | 37 | [Time Out](https://open.spotify.com/track/3yJJKApDT021YcbEHEvEZb) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Time Out](https://open.spotify.com/album/01CT5CjDyWXuWWNgRvTaj3) | 2:40 |
 | 38 | [I GO PUNK](https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [I GO PUNK](https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW) | 2:08 |
-| 39 | [T\-Shirt \(Fresh\)](https://open.spotify.com/track/6QknxX3YWZJGNcP7ckY2bK) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9) | [Lost Files \- The Collection](https://open.spotify.com/album/74U2lRYy9rubW3Erm9x522) | 2:46 |
+| 39 | [T\-Shirt \(Fresh\)](https://open.spotify.com/track/6QknxX3YWZJGNcP7ckY2bK) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9) | [Lost Files \- The Collection 2011 \- 2013](https://open.spotify.com/album/74U2lRYy9rubW3Erm9x522) | 2:46 |
 | 40 | [Best Bitch](https://open.spotify.com/track/309ZKuood80t3ULYEZAqmQ) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Best Bitch](https://open.spotify.com/album/2Z2QLwalMC3lVnVm0AldBl) | 2:02 |
 | 41 | [BOO](https://open.spotify.com/track/0092fZcbCidhWrmBQX4guf) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/03nGdB6ACTi1GJG0vZJO3n) | 2:18 |
 | 42 | [Trunk Beating](https://open.spotify.com/track/6FMJaIukbFPr8BK9iVLWoT) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Trunk Beating](https://open.spotify.com/album/3C9JWINdLb4nIq4FQOSleN) | 2:49 |

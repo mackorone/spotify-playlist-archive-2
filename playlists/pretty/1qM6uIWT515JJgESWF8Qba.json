@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 473,
+  "num_followers": 474,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAB0ynXROLeYRsKxfnrYAs8BgtVVL4R",
+  "snapshot_id": "AAAB5CjGG+bNCoc+jYh43zF6dIcAyV/L",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -71,22 +71,6 @@
       "duration_ms": 228682,
       "name": "Queen of the Night",
       "url": "https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy"
-    },
-    {
-      "added_at": "2026-01-17 02:45:36",
-      "album": {
-        "name": "Camgirl",
-        "url": "https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heavens",
-          "url": "https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e"
-        }
-      ],
-      "duration_ms": 248106,
-      "name": "Camgirl",
-      "url": "https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s"
     },
     {
       "added_at": "2025-09-12 15:11:46",
@@ -205,22 +189,6 @@
       "url": "https://open.spotify.com/track/4jyWOoKSEY0zOTadmguLrL"
     },
     {
-      "added_at": "2025-11-04 03:05:37",
-      "album": {
-        "name": "Idun",
-        "url": "https://open.spotify.com/album/7y0Ek5WT2nIMo2MO17blCI"
-      },
-      "artists": [
-        {
-          "name": "Dingo",
-          "url": "https://open.spotify.com/artist/6GOHIe6YuljpICrbzPtP7z"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Idun",
-      "url": "https://open.spotify.com/track/10pE4RcZOqGPVXscREQOs7"
-    },
-    {
       "added_at": "2025-11-11 17:39:47",
       "album": {
         "name": "New Age: The Age of Karyttah",
@@ -267,6 +235,22 @@
       "duration_ms": 144395,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB"
+    },
+    {
+      "added_at": "2026-01-17 02:45:36",
+      "album": {
+        "name": "Camgirl",
+        "url": "https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heavens",
+          "url": "https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e"
+        }
+      ],
+      "duration_ms": 248106,
+      "name": "Camgirl",
+      "url": "https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s"
     },
     {
       "added_at": "2025-12-06 14:33:25",
@@ -317,22 +301,6 @@
       "url": "https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF"
     },
     {
-      "added_at": "2026-01-31 03:13:41",
-      "album": {
-        "name": "Worst Enemy",
-        "url": "https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb"
-      },
-      "artists": [
-        {
-          "name": "Solace in Me",
-          "url": "https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys"
-        }
-      ],
-      "duration_ms": 245733,
-      "name": "Worst Enemy",
-      "url": "https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja"
-    },
-    {
       "added_at": "2026-02-07 22:08:34",
       "album": {
         "name": "KARMA",
@@ -347,22 +315,6 @@
       "duration_ms": 172826,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/0PU9juIILyUqQiQ7vLjjNi"
-    },
-    {
-      "added_at": "2026-02-10 15:30:19",
-      "album": {
-        "name": "Age of Aquarius",
-        "url": "https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k"
-      },
-      "artists": [
-        {
-          "name": "Regina",
-          "url": "https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL"
-        }
-      ],
-      "duration_ms": 207881,
-      "name": "Age of Aquarius",
-      "url": "https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y"
     },
     {
       "added_at": "2026-02-16 15:05:56",
@@ -541,22 +493,6 @@
       "url": "https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg"
     },
     {
-      "added_at": "2026-04-16 14:41:55",
-      "album": {
-        "name": "Guardians of the Phallicy",
-        "url": "https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU"
-      },
-      "artists": [
-        {
-          "name": "AG Session",
-          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
-        }
-      ],
-      "duration_ms": 152708,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy"
-    },
-    {
       "added_at": "2026-04-28 14:38:54",
       "album": {
         "name": "Walk Away",
@@ -571,38 +507,6 @@
       "duration_ms": 194338,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0goHckNxy52mUUqaSqJ0gN"
-    },
-    {
-      "added_at": "2026-04-29 22:04:41",
-      "album": {
-        "name": "The Runaway Song",
-        "url": "https://open.spotify.com/album/1a5FKZRgTGoQCsLKFhDFcL"
-      },
-      "artists": [
-        {
-          "name": "Hunter Road",
-          "url": "https://open.spotify.com/artist/5aPH9KCyGCSIKUyrbsz1bn"
-        }
-      ],
-      "duration_ms": 351029,
-      "name": "The Runaway Song",
-      "url": "https://open.spotify.com/track/2LdQb5Pm6m7Sbi1esrv3Wj"
-    },
-    {
-      "added_at": "2026-05-02 14:13:27",
-      "album": {
-        "name": "188",
-        "url": "https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx"
-      },
-      "artists": [
-        {
-          "name": "Hag Roast",
-          "url": "https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ"
-        }
-      ],
-      "duration_ms": 189927,
-      "name": "188",
-      "url": "https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w"
     },
     {
       "added_at": "2026-05-04 14:40:48",
@@ -621,20 +525,20 @@
       "url": "https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp"
     },
     {
-      "added_at": "2026-05-04 14:42:04",
+      "added_at": "2026-05-02 14:13:27",
       "album": {
-        "name": "Forever Waiting",
-        "url": "https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz"
+        "name": "188",
+        "url": "https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx"
       },
       "artists": [
         {
-          "name": "Solar Flare Sunset",
-          "url": "https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r"
+          "name": "Hag Roast",
+          "url": "https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ"
         }
       ],
-      "duration_ms": 267042,
-      "name": "Silver Turns to Red",
-      "url": "https://open.spotify.com/track/7jVXNz0jEKienLLq7zvVe5"
+      "duration_ms": 189927,
+      "name": "188",
+      "url": "https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w"
     },
     {
       "added_at": "2026-05-04 15:15:40",
@@ -653,86 +557,6 @@
       "url": "https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU"
     },
     {
-      "added_at": "2026-05-04 15:15:53",
-      "album": {
-        "name": "In Our Nature",
-        "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
-      },
-      "artists": [
-        {
-          "name": "Touch of Red",
-          "url": "https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1"
-        }
-      ],
-      "duration_ms": 300633,
-      "name": "No Dice",
-      "url": "https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM"
-    },
-    {
-      "added_at": "2026-05-06 00:38:33",
-      "album": {
-        "name": "Forever Waiting",
-        "url": "https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz"
-      },
-      "artists": [
-        {
-          "name": "Solar Flare Sunset",
-          "url": "https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r"
-        }
-      ],
-      "duration_ms": 188557,
-      "name": "The Sand",
-      "url": "https://open.spotify.com/track/3kGvYan7NNd4I5Q12Tq4jW"
-    },
-    {
-      "added_at": "2026-05-07 16:20:11",
-      "album": {
-        "name": "Tanzt mit mir",
-        "url": "https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ"
-      },
-      "artists": [
-        {
-          "name": "Pro|Contra",
-          "url": "https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "Tanzt mit mir",
-      "url": "https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt"
-    },
-    {
-      "added_at": "2026-05-08 16:35:22",
-      "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2"
-      },
-      "artists": [
-        {
-          "name": "Summoners",
-          "url": "https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn"
-        }
-      ],
-      "duration_ms": 201184,
-      "name": "Noir",
-      "url": "https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD"
-    },
-    {
-      "added_at": "2026-05-12 02:14:26",
-      "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/3QStexIRzKruswq8FDYp9S"
-      },
-      "artists": [
-        {
-          "name": "Lemon Knife",
-          "url": "https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC"
-        }
-      ],
-      "duration_ms": 201614,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/7lBT4r2EB25JjsXzoDJjZ4"
-    },
-    {
       "added_at": "2026-05-12 02:40:12",
       "album": {
         "name": "A Big Dose of Speed",
@@ -749,54 +573,6 @@
       "url": "https://open.spotify.com/track/7FMnpQg1vy0fc4sDaKUb5Q"
     },
     {
-      "added_at": "2026-05-12 14:15:53",
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm"
-      },
-      "artists": [
-        {
-          "name": "The Fuzes",
-          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
-        }
-      ],
-      "duration_ms": 144347,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5"
-    },
-    {
-      "added_at": "2026-05-14 13:29:46",
-      "album": {
-        "name": "A Kiss Before Dying",
-        "url": "https://open.spotify.com/album/43HQW7GQUlQEvisvnaT2dJ"
-      },
-      "artists": [
-        {
-          "name": "CIRCUS",
-          "url": "https://open.spotify.com/artist/3mpN9JFZx0JdZvr4ZWvvf9"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "90 Seconds for Panic",
-      "url": "https://open.spotify.com/track/3JUfZLz6ONsDcW6CbYucwG"
-    },
-    {
-      "added_at": "2026-05-14 14:28:31",
-      "album": {
-        "name": "bad lover",
-        "url": "https://open.spotify.com/album/0M4u625Q69qPri1148zoe3"
-      },
-      "artists": [
-        {
-          "name": "Brake Loose",
-          "url": "https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA"
-        }
-      ],
-      "duration_ms": 297086,
-      "name": "bad lover",
-      "url": "https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG"
-    },
-    {
       "added_at": "2026-05-19 19:51:23",
       "album": {
         "name": "Heart of a Coward / Maelstrom",
@@ -811,22 +587,6 @@
       "duration_ms": 270498,
       "name": "Heart of a Coward",
       "url": "https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv"
-    },
-    {
-      "added_at": "2026-05-19 20:54:32",
-      "album": {
-        "name": "Let's Do It Again",
-        "url": "https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL"
-      },
-      "artists": [
-        {
-          "name": "Pink Cliffs",
-          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
-        }
-      ],
-      "duration_ms": 268933,
-      "name": "Let's Do It Again",
-      "url": "https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO"
     },
     {
       "added_at": "2026-05-23 16:05:19",

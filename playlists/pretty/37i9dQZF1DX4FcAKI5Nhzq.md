@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: H//PE Princess\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,737 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,707 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 35 | [FLY!](https://open.spotify.com/track/5GwWjZm2lyJCbP7pz5Glyi) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [FLY!](https://open.spotify.com/album/7iZQEPDUgzUzvPjetsbazh) | 2:36 |
 | 36 | [SERVE](https://open.spotify.com/track/1hFQ6vxNUsrRBgwb8m5b6s) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [I,God](https://open.spotify.com/album/0A1c1SWNQUub5c1BkVzam7) | 3:12 |
 | 37 | [PWLT](https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m) | [Krystal](https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI) | [PWLT](https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79) | 3:38 |
-| 38 | [My Only One](https://open.spotify.com/track/0vfX3sYP6YogtII1Ihhc8u) | [Jang Hyun Seung](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV) | [My Only One](https://open.spotify.com/album/5S1GgfexkW4slItt1bb6Xt) | 2:47 |
+| 38 | [My Only One](https://open.spotify.com/track/0vfX3sYP6YogtII1Ihhc8u) | [JANGHYUNSEUNG](https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV) | [My Only One](https://open.spotify.com/album/5S1GgfexkW4slItt1bb6Xt) | 2:47 |
 | 39 | [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 |
 | 40 | [Spring Breeze, Again](https://open.spotify.com/track/5Kbuqu5de3JY22BLNJBLco) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [Spring Breeze, Again \(Original Soundtrack from WANNA ONE GO : Back to Base\)](https://open.spotify.com/album/0K5oVVrkQKMOm5NhM8fwNg) | 3:38 |
 | 41 | [BUMPA](https://open.spotify.com/track/6GSdBUjAnJmIjxMAYz5WCa) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BUMPA](https://open.spotify.com/album/7je4W0rO93omBFfKDmkjNn) | 3:38 |

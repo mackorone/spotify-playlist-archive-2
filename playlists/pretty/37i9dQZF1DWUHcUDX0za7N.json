@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
-  "num_followers": 82589,
+  "num_followers": 82640,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -383,38 +383,6 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "THEY LOVE ME",
-        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "THEY LOVE ME",
-      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
-        "name": "Mofe",
-        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Mofe",
-      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -435,6 +403,38 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
+        "name": "Mofe",
+        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mofe",
+      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
+        "name": "THEY LOVE ME",
+        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "THEY LOVE ME",
+      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
+        "name": "IRON ORE",
+        "url": "https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
         "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
         "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 184682,
       "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
       "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
-        "name": "IRON ORE",
-        "url": "https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "CATALYST",
-      "url": "https://open.spotify.com/track/5dccPWAB8Rnkr4PXHTc8hX"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -951,6 +951,26 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
+        "name": "Ijoba",
+        "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Ijoba",
+      "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
         "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
         "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
@@ -1047,6 +1067,26 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
+        "name": "Many People",
+        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -1075,22 +1115,6 @@
       "duration_ms": 134896,
       "name": "Ise Oluwa",
       "url": "https://open.spotify.com/track/640JNqmCoELpUVGPGZ1OeV"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
-        "name": "HOOD BOY DREAMS 2",
-        "url": "https://open.spotify.com/album/5fMGQzPbvDkF8gQTMgGZfg"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "TEN STREET COMMANDMENT",
-      "url": "https://open.spotify.com/track/1AGbjWGPkFqxdKBsVG6oN6"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -1131,8 +1155,8 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "Many People",
-        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
       "artists": [
         {
@@ -1140,13 +1164,29 @@
           "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 175448,
-      "name": "Many People",
-      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
+      "duration_ms": 144000,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
+        "name": "HOOD BOY DREAMS 2",
+        "url": "https://open.spotify.com/album/5fMGQzPbvDkF8gQTMgGZfg"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "TEN STREET COMMANDMENT",
+      "url": "https://open.spotify.com/track/1AGbjWGPkFqxdKBsVG6oN6"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -1219,26 +1259,6 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "Compose",
-        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Compose",
-      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
         "name": "Stormy",
         "url": "https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB"
       },
@@ -1275,22 +1295,6 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "BORN TO BE GREAT",
-        "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 173559,
-      "name": "BORN TO BE GREAT",
-      "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
         "name": "OBT (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
       },
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+        "name": "BORN TO BE GREAT",
+        "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 168138,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ"
+      "duration_ms": 173559,
+      "name": "BORN TO BE GREAT",
+      "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
     }
   ],
   "unique_name": "Naija Bars ",

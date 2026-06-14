@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158580,
+  "num_followers": 158575,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Vem Me Dar",
-        "url": "https://open.spotify.com/album/5f8VT6GKfTrl53z99gQHer"
-      },
-      "artists": [
-        {
-          "name": "Vinta",
-          "url": "https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C"
-        },
-        {
-          "name": "Lil Paul",
-          "url": "https://open.spotify.com/artist/34hDRGnxDke2duRqJeuQ8p"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Vem Me Dar",
-      "url": "https://open.spotify.com/track/5ARljWIDvNllpQ49Uqmt6x"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
       },
@@ -1331,26 +1311,46 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Beira do Mar",
-        "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
       "artists": [
         {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "MC Julio D.E.R.",
-          "url": "https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV"
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
         }
       ],
-      "duration_ms": 187988,
-      "name": "Beira do Mar",
-      "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Vem Me Dar",
+        "url": "https://open.spotify.com/album/5f8VT6GKfTrl53z99gQHer"
+      },
+      "artists": [
+        {
+          "name": "Vinta",
+          "url": "https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C"
+        },
+        {
+          "name": "Lil Paul",
+          "url": "https://open.spotify.com/artist/34hDRGnxDke2duRqJeuQ8p"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "Vem Me Dar",
+      "url": "https://open.spotify.com/track/5ARljWIDvNllpQ49Uqmt6x"
     }
   ],
   "unique_name": "Resenha na Praia",

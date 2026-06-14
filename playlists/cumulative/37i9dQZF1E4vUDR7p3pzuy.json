@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With JUST LIZZY, ade wahyu kelana, Red Mecca and more",
+  "description": "With JUST LIZZY, LOR3L3I, Mercury Teardrop and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 219425,
       "name": "Again",
       "url": "https://open.spotify.com/track/32RlMu4tqWNlWUfEJDSRXP"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 195579,
       "name": "Always Me",
       "url": "https://open.spotify.com/track/3TBF6E2vcr2F0EZIS9fmLR"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 152842,
       "name": "Bar Fight with Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/3cXuIy8Si8CHoGMlYpvfF7"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 322091,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/526u08nYzWAfF9NFDrIguF"
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 291201,
       "name": "Deerslayer",
       "url": "https://open.spotify.com/track/33hRehaG2yHnh7AYokJHNN"
@@ -5252,7 +5252,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 194760,
       "name": "Glances",
       "url": "https://open.spotify.com/track/0BB4LPULcq712SaZKgVTVa"
@@ -5494,7 +5494,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 158000,
       "name": "Great & Wild Unknown",
       "url": "https://open.spotify.com/track/5UcOZNczYnfPca9hgM167s"
@@ -6054,7 +6054,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 172605,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/1oWVMlsltrtxzyht83O7Xi"
@@ -6130,6 +6130,32 @@
       "duration_ms": 96976,
       "name": "Humble Eyes",
       "url": "https://open.spotify.com/track/5O8cbA7QABRF8VN9QiYpAt"
+    },
+    {
+      "album": {
+        "name": "REMAKE",
+        "url": "https://open.spotify.com/album/66Yfa9rJupIclP2yFzjmQL"
+      },
+      "artists": [
+        {
+          "name": "Mondo Sangue",
+          "url": "https://open.spotify.com/artist/2L1UsVh7mAEfWdG6dV8rAF"
+        },
+        {
+          "name": "Mille Petrozza",
+          "url": "https://open.spotify.com/artist/2x6m4RrCqYWXO5nlqL4IgC"
+        },
+        {
+          "name": "Dirk von Lowtzow",
+          "url": "https://open.spotify.com/artist/4iThdARg7lrGGuvBkWhVLm"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169183,
+      "name": "Hypnosis - Suspiria Remix",
+      "url": "https://open.spotify.com/track/1iNZXgxmTa4dPfepnV58i9"
     },
     {
       "album": {
@@ -6728,7 +6754,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "Inside of a magnolia",
       "url": "https://open.spotify.com/track/2mONSUriKABbVj4fbrVUvX"
@@ -7624,7 +7650,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -7660,7 +7686,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 262226,
       "name": "Life on a chain",
       "url": "https://open.spotify.com/track/5H0c1YApnVuiXwXxHPDQIO"
@@ -7750,7 +7776,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 148000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/0WxMCIhAMjWaoCp81b57An"
@@ -8720,7 +8746,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 248906,
       "name": "Moving Forward, Head Turned",
       "url": "https://open.spotify.com/track/2TiaIc1xZ21q5p17gQxFO4"
@@ -8810,7 +8836,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 157920,
       "name": "My Place",
       "url": "https://open.spotify.com/track/5DbtmCIsreWgX7LEKStfWj"
@@ -9248,7 +9274,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 246413,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/0CA8XgSRKkaiBa0OzmqS7b"
@@ -9644,7 +9670,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 212406,
       "name": "Playing With The Orbits",
       "url": "https://open.spotify.com/track/6XX3lYN94ItERpKwkLSgab"
@@ -12784,7 +12810,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 289093,
       "name": "The Dark of Light",
       "url": "https://open.spotify.com/track/505s5auBD7triJ8I36BI37"
@@ -13314,7 +13340,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 312000,
       "name": "The Unbearable Weight Of What If",
       "url": "https://open.spotify.com/track/5vqa47SFvRy2SJeVl6m8P5"
@@ -13440,7 +13466,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 169411,
       "name": "The World I Know",
       "url": "https://open.spotify.com/track/5uqYuo3FpIqjS4LE6ECp4J"
@@ -13772,7 +13798,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 183637,
       "name": "Till the Morning Comes",
       "url": "https://open.spotify.com/track/1XHjrmR9ANg4EUP59QJhEf"
@@ -14046,7 +14072,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 199541,
       "name": "Trust the Pain",
       "url": "https://open.spotify.com/track/1mx38pvy0aNRdig8o3NRko"

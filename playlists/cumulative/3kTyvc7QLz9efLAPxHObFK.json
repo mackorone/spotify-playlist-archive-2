@@ -54145,6 +54145,24 @@
     },
     {
       "album": {
+        "name": "She Wants Revenge",
+        "url": "https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16"
+      },
+      "artists": [
+        {
+          "name": "She Wants Revenge",
+          "url": "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284613,
+      "name": "Tear You Apart",
+      "url": "https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi"
+    },
+    {
+      "album": {
         "name": "XTREME XTASY",
         "url": "https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK"
       },

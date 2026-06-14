@@ -1,12 +1,12 @@
 {
   "description": "This is Elori Saxl. The essential tracks, all in one playlist.",
-  "num_followers": 27,
+  "num_followers": 28,
   "original_name": "This Is Elori Saxl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAAw9lCo9MabnFMG8DnV5Sdo",
+  "snapshot_id": "aitMAAAAAABoHDaCfNk/FMd3YTBpGmx3",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texada (Original Score)",
-        "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
+        "name": "Drifts and Surfaces",
+        "url": "https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 132000,
-      "name": "How Big Is Time",
-      "url": "https://open.spotify.com/track/20V47MWSX8TPqQ0Rudb7HQ"
+      "duration_ms": 346560,
+      "name": "Surfaces",
+      "url": "https://open.spotify.com/track/3AOGToArEclNahkwA3k21d"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drifts and Surfaces",
-        "url": "https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA"
+        "name": "Texada (Original Score)",
+        "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 346560,
-      "name": "Surfaces",
-      "url": "https://open.spotify.com/track/3AOGToArEclNahkwA3k21d"
+      "duration_ms": 132000,
+      "name": "How Big Is Time",
+      "url": "https://open.spotify.com/track/20V47MWSX8TPqQ0Rudb7HQ"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
         }
       ],
-      "duration_ms": 416000,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/5IyrOfZhWm90lqIqyNpRY9"
+      "duration_ms": 112933,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/6KYsJ34pPITdHrCoq27nGn"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Concrete River",
-      "url": "https://open.spotify.com/track/0kWyDMdwYXMiN0ROB46xl7"
+      "duration_ms": 181000,
+      "name": "Changing Neighborhood",
+      "url": "https://open.spotify.com/track/01VCmdLsbkgm6Hc9RcunWY"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Changing Neighborhood",
-      "url": "https://open.spotify.com/track/01VCmdLsbkgm6Hc9RcunWY"
+      "duration_ms": 114000,
+      "name": "Concrete River",
+      "url": "https://open.spotify.com/track/0kWyDMdwYXMiN0ROB46xl7"
     }
   ],
   "unique_name": "This Is Elori Saxl",

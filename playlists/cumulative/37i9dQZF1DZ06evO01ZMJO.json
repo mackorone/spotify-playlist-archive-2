@@ -116,10 +116,32 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
+    },
+    {
+      "album": {
+        "name": "Cheerio (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/6lm4nGutsJbiG2hByo7rbj"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "Cheerio (Outsiders Remix)",
+      "url": "https://open.spotify.com/track/2iZStQEjwKOiOZHLcaNKpl"
     },
     {
       "album": {

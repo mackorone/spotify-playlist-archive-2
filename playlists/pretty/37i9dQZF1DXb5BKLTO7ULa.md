@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Olivia Rodrigo, ANOTR, D\-Double & Boef, Jeffrey Heesen en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,895 likes - 101 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,896 likes - 101 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

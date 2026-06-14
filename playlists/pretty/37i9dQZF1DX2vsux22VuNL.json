@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Gabriel Elias",
-  "num_followers": 290711,
+  "num_followers": 290701,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,34 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
+        "name": "Trama",
+        "url": "https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+        },
+        {
+          "name": "Aksel",
+          "url": "https://open.spotify.com/artist/1sUETKU4N8F8kABpmDiOZW"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Trama",
+      "url": "https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
         "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
         "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
       },
@@ -347,34 +375,6 @@
       "duration_ms": 158293,
       "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
       "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
-        "name": "Trama",
-        "url": "https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
-        },
-        {
-          "name": "Aksel",
-          "url": "https://open.spotify.com/artist/1sUETKU4N8F8kABpmDiOZW"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Trama",
-      "url": "https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o"
     },
     {
       "added_at": "2026-06-12 03:00:53",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
+        "name": "Dona de Si Mesma",
+        "url": "https://open.spotify.com/album/5cN7b2kc3rtAuHuKVJWQvY"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 148058,
+      "name": "Dona de Si Mesma",
+      "url": "https://open.spotify.com/track/03DjVfaxXfAcZmOuGetngw"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
         "name": "Um Pouco Mais",
         "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 182586,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
-        "name": "Dona de Si Mesma",
-        "url": "https://open.spotify.com/album/5cN7b2kc3rtAuHuKVJWQvY"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 148058,
-      "name": "Dona de Si Mesma",
-      "url": "https://open.spotify.com/track/03DjVfaxXfAcZmOuGetngw"
     },
     {
       "added_at": "2026-06-12 03:00:53",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
+        "name": "Eu te Superei (Remix)",
+        "url": "https://open.spotify.com/album/69uea5ycnqKG2jqYpxSHDc"
+      },
+      "artists": [
+        {
+          "name": "Aya Florez",
+          "url": "https://open.spotify.com/artist/5pAEIWr1snmCkKSiXWbfjv"
+        },
+        {
+          "name": "DJ Lucas Beat",
+          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+        }
+      ],
+      "duration_ms": 133186,
+      "name": "Eu te Superei - Remix",
+      "url": "https://open.spotify.com/track/0KA4DcRAkBDaghTI9uXbwY"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
         "name": "Nenhuma Outra Mulher",
         "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
       },
@@ -1167,22 +1187,6 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
-        "name": "Linda e Perigosa",
-        "url": "https://open.spotify.com/album/1kU1pKFPWKO3Ji8aMBzTy8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 189010,
-      "name": "Linda e Perigosa",
-      "url": "https://open.spotify.com/track/1NllK0fesDem5FNDdT2i8C"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1203,6 +1207,22 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
+        "name": "Linda e Perigosa",
+        "url": "https://open.spotify.com/album/1kU1pKFPWKO3Ji8aMBzTy8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 189010,
+      "name": "Linda e Perigosa",
+      "url": "https://open.spotify.com/track/1NllK0fesDem5FNDdT2i8C"
     },
     {
       "added_at": "2026-06-12 03:00:53",
@@ -1543,6 +1563,26 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
+        "name": "Camisa Vintage",
+        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        }
+      ],
+      "duration_ms": 144095,
+      "name": "Camisa Vintage",
+      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
         "name": "Desliga",
         "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
@@ -1791,46 +1831,6 @@
       "duration_ms": 182933,
       "name": "CULPADO",
       "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
-        "name": "Eu te Superei (Remix)",
-        "url": "https://open.spotify.com/album/69uea5ycnqKG2jqYpxSHDc"
-      },
-      "artists": [
-        {
-          "name": "Aya Florez",
-          "url": "https://open.spotify.com/artist/5pAEIWr1snmCkKSiXWbfjv"
-        },
-        {
-          "name": "DJ Lucas Beat",
-          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
-        }
-      ],
-      "duration_ms": 133186,
-      "name": "Eu te Superei - Remix",
-      "url": "https://open.spotify.com/track/0KA4DcRAkBDaghTI9uXbwY"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
-        "name": "Camisa Vintage",
-        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
-      },
-      "artists": [
-        {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
-        }
-      ],
-      "duration_ms": 144095,
-      "name": "Camisa Vintage",
-      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
     }
   ],
   "unique_name": "brisa",

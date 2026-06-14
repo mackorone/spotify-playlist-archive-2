@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: Lavt
 
-1,460 songs - 3 day 19 hr 59 min
+1,461 songs - 3 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Funny](https://open.spotify.com/track/0WzICKUgMJxdQbrTupsVTK) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Funny](https://open.spotify.com/album/0qZqHPQr5x7svWAMLMaqVH) | 3:45 | 2025-01-07 | 2025-01-15 |
 | [Furase!](https://open.spotify.com/track/61ipDffoEASVKPJSTHleTw) | [kei](https://open.spotify.com/artist/1xp6W3tUbDNPOZRm35KeNq) | [Furase!](https://open.spotify.com/album/7sP1NP9i9JLPAnmvSQjpvI) | 3:59 | 2025-06-03 | 2025-06-12 |
 | [Furo Cancel Rhapsody](https://open.spotify.com/track/4teG6JovQXKDN8ZFeFmO9Z) | [Rinko](https://open.spotify.com/artist/6eOehyQmnIKAN8ahkzMglf) | [Furo Cancel Rhapsody](https://open.spotify.com/album/7H0bGtOzdlNFdPrEBhk15O) | 3:25 | 2026-04-21 | 2026-04-29 |
-| [Gamble](https://open.spotify.com/track/424Ho36d2956l3YGP9FmNO) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Gamble](https://open.spotify.com/album/3okBueVfEdkzRHieSmB4Bq) | 3:03 | 2026-05-26 |  |
+| [Gamble](https://open.spotify.com/track/424Ho36d2956l3YGP9FmNO) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Gamble](https://open.spotify.com/album/3okBueVfEdkzRHieSmB4Bq) | 3:03 | 2026-05-26 | 2026-06-14 |
 | [GAME OVER](https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GAME OVER](https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ) | 3:24 | 2024-11-13 | 2025-07-06 |
 | [Garden](https://open.spotify.com/track/6dCfevSTtsBsVeU92ldTr6) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [MASSAN × BASHIRY](https://open.spotify.com/artist/0EOaA0vGFT2D83rSxeTNau) | [Garden](https://open.spotify.com/album/2434JXZnYl0kwSwoOgp6kw) | 4:10 | 2026-04-21 | 2026-04-29 |
 | [GARIGARI](https://open.spotify.com/track/4nxB5S1EkFs2LgqYssT9mQ) | [YUJI NAKADA](https://open.spotify.com/artist/7Kbz6xbASLAYT072Z3ZRCS) | [GARIGARI](https://open.spotify.com/album/5UvGO7ItyEeIZsc8hxrkUs) | 3:51 | 2025-09-30 | 2025-10-09 |
@@ -1449,6 +1449,7 @@
 | [青葉](https://open.spotify.com/track/5Nj8wQlcTur1FqYQM5dnXR) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q), [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [HATA EXPO \-The Collaboration Album\-](https://open.spotify.com/album/7H6K36YquDfRbMYHHG6SoX) | 4:56 | 2024-11-19 | 2025-05-29 |
 | [非常口 逃げてみた](https://open.spotify.com/track/3iPifjgO9OcLAcGC55lIKZ) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [非常口 逃げてみた](https://open.spotify.com/album/59TRLFMumqYTvUagnwi6Zh) | 3:03 | 2025-09-03 | 2026-02-12 |
 | [革命](https://open.spotify.com/track/48pPtNdzDKIvTuGGS66o21) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [変身のレシピ](https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk) | 3:05 | 2024-12-10 | 2025-03-26 |
+| [響け](https://open.spotify.com/track/3umeHCodFwWc30UoMCAQJX) | [Ushio Kou](https://open.spotify.com/artist/53LkOsNxuRf7dy9VnKWNis) | [響け](https://open.spotify.com/album/6yKhzXJ23mtiDZg69uA3Of) | 3:21 | 2026-06-10 |  |
 | [風と私の物語](https://open.spotify.com/track/7LNmFBcsv8lXBU3lGNmD1q) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [俺と、友だち](https://open.spotify.com/album/5naxqusV52Vo8oflET9ljx) | 5:33 | 2026-02-24 | 2026-05-05 |
 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 | 2024-10-15 | 2025-12-03 |
 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 | 2026-04-14 |  |

@@ -207,6 +207,32 @@
     },
     {
       "album": {
+        "name": "Clyde e Bonnie",
+        "url": "https://open.spotify.com/album/7y7hLgMJbRPSL40D7PGD80"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Clyde e Bonnie",
+      "url": "https://open.spotify.com/track/4mntgu8UotzfrrUo1g5mDM"
+    },
+    {
+      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
       },
@@ -1666,7 +1692,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 343399,
       "name": "Set Ajc",
       "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"

@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 127499,
       "name": "7ELEVEN",
       "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
@@ -4872,6 +4872,28 @@
       "duration_ms": 205307,
       "name": "Armato (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6fgLw0VwPmQtjSmvfCVC6u"
+    },
+    {
+      "album": {
+        "name": "Arricchiti (feat. Gu\u00e8)",
+        "url": "https://open.spotify.com/album/5r8qz3XZd9YULzc47y8Nd5"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155268,
+      "name": "Arricchiti (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/7agE2kK4XZnjRrbwnVJV1T"
     },
     {
       "album": {
@@ -9868,10 +9890,32 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 239330,
       "name": "Cantilene",
       "url": "https://open.spotify.com/track/3yaRrdo3DDeKgDaubuBsId"
+    },
+    {
+      "album": {
+        "name": "Canto d\u2019amore (con Marco Mengoni)",
+        "url": "https://open.spotify.com/album/164ST8Sbg81Pr7rJZ1iKBN"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        },
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194184,
+      "name": "Canto d\u2019amore (con Marco Mengoni)",
+      "url": "https://open.spotify.com/track/3JjyzXQ07ODREBhJknQgLS"
     },
     {
       "album": {
@@ -40380,7 +40424,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 226906,
       "name": "NEON",
       "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
@@ -46630,7 +46674,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 244244,
       "name": "Perdutamente",
       "url": "https://open.spotify.com/track/5pk3bAZLMs1PqdMuHITZU9"
@@ -47274,6 +47318,28 @@
       "duration_ms": 200897,
       "name": "Piccolo principe",
       "url": "https://open.spotify.com/track/0ReSNmM6DihL9WAb95jc5h"
+    },
+    {
+      "album": {
+        "name": "EL MOCO VERDE",
+        "url": "https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173774,
+      "name": "PIENXA EN MI",
+      "url": "https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP"
     },
     {
       "album": {
@@ -56785,6 +56851,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "album": {
         "name": "RAPPER",
         "url": "https://open.spotify.com/album/6UwZiJrgeVIMk24rUyxwWF"
       },
@@ -57739,6 +57823,24 @@
     },
     {
       "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
+    },
+    {
+      "album": {
         "name": "Talk To You (ft. 54 Ultra)",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
       },
@@ -57754,7 +57856,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"

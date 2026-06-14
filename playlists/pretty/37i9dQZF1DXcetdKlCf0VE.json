@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 31963,
+  "num_followers": 31969,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
+        "name": "Sibelius Piano Works",
+        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janne Mertanen",
+          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Ten Pieces, Op. 24: Idyll, Op. 24: No. 6",
+      "url": "https://open.spotify.com/track/2qvjgKcSEDndhfQyWRadRU"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
         "name": "Sibelius/Grieg: String Quartets",
         "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
       },
@@ -415,8 +435,8 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius Piano Works",
-        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
       },
       "artists": [
         {
@@ -424,13 +444,13 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Janne Mertanen",
-          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
-      "duration_ms": 209880,
-      "name": "Ten Pieces, Op. 24: Idyll, Op. 24: No. 6",
-      "url": "https://open.spotify.com/track/2qvjgKcSEDndhfQyWRadRU"
+      "duration_ms": 273213,
+      "name": "Rakastava, Op. 14: The Lover",
+      "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -459,26 +479,6 @@
       "duration_ms": 200973,
       "name": "Sibelius: Belshazzar's Feast: No. 2b, The Jewish Girl's Song",
       "url": "https://open.spotify.com/track/64SNGyVQej0x9Dq3DUvL4Z"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 273213,
-      "name": "Rakastava, Op. 14: The Lover",
-      "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
     },
     {
       "added_at": "2025-12-15 12:16:59",

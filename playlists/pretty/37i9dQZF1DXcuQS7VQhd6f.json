@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Mary Mary",
-  "num_followers": 57893,
+  "num_followers": 57948,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Mountain High Valley Low",
-        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 340040,
-      "name": "Open My Heart",
-      "url": "https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Renewed",
         "url": "https://open.spotify.com/album/1HV7nwX73bMeQxJgEZ8uQT"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 345706,
       "name": "Encourage Yourself",
       "url": "https://open.spotify.com/track/6G7VwsjxNBPjCyPmzrUS2R"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Mountain High Valley Low",
+        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 340040,
+      "name": "Open My Heart",
+      "url": "https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -707,6 +707,26 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
+        "name": "Purpose By Design",
+        "url": "https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Radical For Christ",
+          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
+        }
+      ],
+      "duration_ms": 327386,
+      "name": "You Are The Living Word (Live)",
+      "url": "https://open.spotify.com/track/5X2jIyGY95YNF3kmeOg1V1"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5dS9spd8jGdwIRNOzGZBFU"
       },
@@ -739,42 +759,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Purpose By Design",
-        "url": "https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        },
-        {
-          "name": "Radical For Christ",
-          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
-        }
-      ],
-      "duration_ms": 327386,
-      "name": "You Are The Living Word (Live)",
-      "url": "https://open.spotify.com/track/5X2jIyGY95YNF3kmeOg1V1"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
-        "name": "I'm Glad About It",
-        "url": "https://open.spotify.com/album/3yq9qBSLq7ixK74RinyjLg"
-      },
-      "artists": [
-        {
-          "name": "Rev. Timothy Wright",
-          "url": "https://open.spotify.com/artist/5R76YG5aRtZcXohk9NUju2"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Trouble Don't Last Always",
-      "url": "https://open.spotify.com/track/515MCqErErWXBz8h35i3uj"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "20/85 The Experience",
         "url": "https://open.spotify.com/album/716E6f5K4vHfQ6aewX5n8U"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "God Chaser",
-        "url": "https://open.spotify.com/album/0BLe7iiUwRz3qlYVSvHPdS"
+        "name": "I'm Glad About It",
+        "url": "https://open.spotify.com/album/3yq9qBSLq7ixK74RinyjLg"
       },
       "artists": [
         {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+          "name": "Rev. Timothy Wright",
+          "url": "https://open.spotify.com/artist/5R76YG5aRtZcXohk9NUju2"
         }
       ],
-      "duration_ms": 292240,
-      "name": "It's Working",
-      "url": "https://open.spotify.com/track/6cfvKRVBkw0i6usuYwsYSI"
+      "duration_ms": 384800,
+      "name": "Trouble Don't Last Always",
+      "url": "https://open.spotify.com/track/515MCqErErWXBz8h35i3uj"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -839,6 +823,22 @@
       "duration_ms": 385985,
       "name": "Draw Me Close/Thy Will Be Done",
       "url": "https://open.spotify.com/track/6nwCQqMyCjeYVtByOtkZq1"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "God Chaser",
+        "url": "https://open.spotify.com/album/0BLe7iiUwRz3qlYVSvHPdS"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 292240,
+      "name": "It's Working",
+      "url": "https://open.spotify.com/track/6cfvKRVBkw0i6usuYwsYSI"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Save The World",
-        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
+        "name": "Mountain High Valley Low",
+        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 264693,
-      "name": "The Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
+      "duration_ms": 417706,
+      "name": "In the Midst of It All",
+      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1183,8 +1183,8 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Mountain High Valley Low",
-        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
+        "name": "Save The World",
+        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
       },
       "artists": [
         {
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 417706,
-      "name": "In the Midst of It All",
-      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
+      "duration_ms": 264693,
+      "name": "The Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "The Live Experience",
-        "url": "https://open.spotify.com/album/3bYzNdEtcXBNA2cgTVrbDe"
-      },
-      "artists": [
-        {
-          "name": "The Rance Allen Group",
-          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
-        }
-      ],
-      "duration_ms": 613400,
-      "name": "Something About the Name Jesus",
-      "url": "https://open.spotify.com/track/2pfPbJ8MSk7eCqiMst4vMC"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Embracing The Next Dimension",
         "url": "https://open.spotify.com/album/0grLsMflubqWUr7Q8VZvI4"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 357213,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/5xfXawPA7zHr4OvadVfj4h"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "The Live Experience",
+        "url": "https://open.spotify.com/album/3bYzNdEtcXBNA2cgTVrbDe"
+      },
+      "artists": [
+        {
+          "name": "The Rance Allen Group",
+          "url": "https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g"
+        }
+      ],
+      "duration_ms": 613400,
+      "name": "Something About the Name Jesus",
+      "url": "https://open.spotify.com/track/2pfPbJ8MSk7eCqiMst4vMC"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
-      },
-      "artists": [
-        {
-          "name": "SINACH",
-          "url": "https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV"
-        }
-      ],
-      "duration_ms": 286742,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
         "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
       },
@@ -2003,18 +1987,18 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.",
-        "url": "https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE"
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
       },
       "artists": [
         {
-          "name": "Mahalia Jackson",
-          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+          "name": "SINACH",
+          "url": "https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV"
         }
       ],
-      "duration_ms": 257279,
-      "name": "Take My Hand Precious Lord",
-      "url": "https://open.spotify.com/track/5rTeB5roClzItVdGeYDDla"
+      "duration_ms": 286742,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2035,6 +2019,22 @@
       "duration_ms": 353400,
       "name": "Who Would've Thought (feat. Marvin Winans)",
       "url": "https://open.spotify.com/track/3Pp3efMD2VNkwIlCDUhlYP"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.",
+        "url": "https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "duration_ms": 257279,
+      "name": "Take My Hand Precious Lord",
+      "url": "https://open.spotify.com/track/5rTeB5roClzItVdGeYDDla"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Gospels, Spirituals, & Hymns",
-        "url": "https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV"
-      },
-      "artists": [
-        {
-          "name": "Mahalia Jackson",
-          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "His Eye Is On the Sparrow",
-      "url": "https://open.spotify.com/track/5XDOwqC7uOz4yVlXxml85M"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Think About These Things",
         "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 153853,
       "name": "Winning",
       "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Gospels, Spirituals, & Hymns",
+        "url": "https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "His Eye Is On the Sparrow",
+      "url": "https://open.spotify.com/track/5XDOwqC7uOz4yVlXxml85M"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "Gaither Homecoming Classics Vol.1",
-        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 118533,
-      "name": "The Blood Will Never Lose Its Power - Live",
-      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Alive In South Africa",
         "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 480560,
       "name": "Alpha And Omega - Live",
       "url": "https://open.spotify.com/track/61DPLakz3GX3KTliq6Xwek"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "Gaither Homecoming Classics Vol.1",
+        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 118533,
+      "name": "The Blood Will Never Lose Its Power - Live",
+      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "I See Miracles",
-        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "I See Miracles",
-      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Decade",
         "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 357306,
       "name": "Not Forgotten - Live",
       "url": "https://open.spotify.com/track/6Vkzf0DotL1ICs9noLC16Q"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "I See Miracles",
+        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "I See Miracles",
+      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
     },
     {
       "added_at": "2026-05-14 06:06:40",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2026-05-14 06:06:40",
       "album": {
-        "name": "The Best Of Both Worlds",
-        "url": "https://open.spotify.com/album/012wybQlwIzwi8a6rp3hAU"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins & Fellowship Chicago",
-          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
-        }
-      ],
-      "duration_ms": 349146,
-      "name": "Awesome",
-      "url": "https://open.spotify.com/track/0oA7qqMEL8R044XA699F00"
-    },
-    {
-      "added_at": "2026-05-14 06:06:40",
-      "album": {
         "name": "Alive In South Africa",
         "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 413266,
       "name": "To Worship You I Live - Live",
       "url": "https://open.spotify.com/track/5uIRfBq9GiUY7TRE3E2GNJ"
+    },
+    {
+      "added_at": "2026-05-14 06:06:40",
+      "album": {
+        "name": "The Best Of Both Worlds",
+        "url": "https://open.spotify.com/album/012wybQlwIzwi8a6rp3hAU"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins & Fellowship Chicago",
+          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
+        }
+      ],
+      "duration_ms": 349146,
+      "name": "Awesome",
+      "url": "https://open.spotify.com/track/0oA7qqMEL8R044XA699F00"
     },
     {
       "added_at": "2026-05-14 06:06:40",

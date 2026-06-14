@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAC2LMPjorQ2S2RLnevZ2xYq",
+  "snapshot_id": "aitMAAAAAAB6Mo2zPTiK+SVyRxKRG7te",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/5BSGbzEtg8cxyMYdiyb5rm"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        },
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 176642,
-      "name": "Subho Shaam",
-      "url": "https://open.spotify.com/track/6DpHKnSSFLe0cPIIVSpJdg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CROWN",
         "url": "https://open.spotify.com/album/5bPuDMi9I7tyKlUceNEQgr"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 197142,
       "name": "CROWN",
       "url": "https://open.spotify.com/track/313cWKPX3VujfQcxj7Se6x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/5BSGbzEtg8cxyMYdiyb5rm"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 176642,
+      "name": "Subho Shaam",
+      "url": "https://open.spotify.com/track/6DpHKnSSFLe0cPIIVSpJdg"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mess Me Up",
-        "url": "https://open.spotify.com/album/1HatZa4vV4vSWROa1fwgEB"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 201686,
-      "name": "Mess Me Up",
-      "url": "https://open.spotify.com/track/5NKbhVPp2CMGD8pV3qi93b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haule Haule",
         "url": "https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 243884,
       "name": "Haule Haule",
       "url": "https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mess Me Up",
+        "url": "https://open.spotify.com/album/1HatZa4vV4vSWROa1fwgEB"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 201686,
+      "name": "Mess Me Up",
+      "url": "https://open.spotify.com/track/5NKbhVPp2CMGD8pV3qi93b"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
       "duration_ms": 191538,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/1eLwmw8qLHaZQaJ0Rp3ySy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wedding Season (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Show Me More",
-      "url": "https://open.spotify.com/track/4mOFh28Qu0BnvgyqxJBesJ"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wedding Season (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Show Me More",
+      "url": "https://open.spotify.com/track/4mOFh28Qu0BnvgyqxJBesJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Four More Shots Please! Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2VmahNskoUK0FWJKa1bUH8"
       },
@@ -466,11 +466,19 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        },
+        {
+          "name": "DJ Akhil Talreja",
+          "url": "https://open.spotify.com/artist/1w69vD4mzo5L5kp6CcAaM1"
+        },
+        {
+          "name": "Naquita D'souza",
+          "url": "https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq"
         }
       ],
-      "duration_ms": 134800,
-      "name": "Killin It",
-      "url": "https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo"
+      "duration_ms": 191818,
+      "name": "Four More Shots Please! Remix - By Dj Akhil Talreja",
+      "url": "https://open.spotify.com/track/5aOasu79FVM8y13ZG32Jxw"
     },
     {
       "added_at": null,
@@ -550,19 +558,11 @@
         {
           "name": "Mikey McCleary",
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
-        },
-        {
-          "name": "DJ Akhil Talreja",
-          "url": "https://open.spotify.com/artist/1w69vD4mzo5L5kp6CcAaM1"
-        },
-        {
-          "name": "Naquita D'souza",
-          "url": "https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq"
         }
       ],
-      "duration_ms": 191818,
-      "name": "Four More Shots Please! Remix - By Dj Akhil Talreja",
-      "url": "https://open.spotify.com/track/5aOasu79FVM8y13ZG32Jxw"
+      "duration_ms": 134800,
+      "name": "Killin It",
+      "url": "https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muscle Memory",
-        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "Muscle Memory",
-      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad",
         "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 188571,
       "name": "Sad",
       "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know It All",
-        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 263575,
-      "name": "Know It All",
-      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
@@ -727,6 +711,26 @@
       "duration_ms": 144557,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Of The Jungle",
+        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "David Arkwright",
+          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "King Of The Jungle",
+      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
     },
     {
       "added_at": null,
@@ -779,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Of The Jungle",
-        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "David Arkwright",
-          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "King Of The Jungle",
-      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
       },
@@ -815,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+        "name": "Know It All",
+        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
       },
       "artists": [
         {
@@ -824,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 133781,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB"
+      "duration_ms": 263575,
+      "name": "Know It All",
+      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
     },
     {
       "added_at": null,
@@ -847,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm a Nykaa Everyday (feat. Dee MC)",
-        "url": "https://open.spotify.com/album/5f6EBNOJfn5jSnUEw0Xdg1"
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
       },
       "artists": [
         {
           "name": "Natania",
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "Dee MC",
-          "url": "https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C"
         }
       ],
-      "duration_ms": 137952,
-      "name": "I'm a Nykaa Everyday (feat. Dee MC)",
-      "url": "https://open.spotify.com/track/64X0RV6OC43sZox3cZZuOD"
+      "duration_ms": 133781,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB"
     },
     {
       "added_at": null,
@@ -883,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+        "name": "I'm a Nykaa Everyday (feat. Dee MC)",
+        "url": "https://open.spotify.com/album/5f6EBNOJfn5jSnUEw0Xdg1"
       },
       "artists": [
         {
           "name": "Natania",
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Dee MC",
+          "url": "https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C"
         }
       ],
-      "duration_ms": 165738,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w"
+      "duration_ms": 137952,
+      "name": "I'm a Nykaa Everyday (feat. Dee MC)",
+      "url": "https://open.spotify.com/track/64X0RV6OC43sZox3cZZuOD"
     },
     {
       "added_at": null,
@@ -924,9 +908,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 163232,
-      "name": "Get Dat",
-      "url": "https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu"
+      "duration_ms": 165738,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w"
     },
     {
       "added_at": null,
@@ -956,9 +940,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 179224,
-      "name": "Yay Yay Yay",
-      "url": "https://open.spotify.com/track/4XcHes4yJeduDIh6ndkHq6"
+      "duration_ms": 163232,
+      "name": "Get Dat",
+      "url": "https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu"
     }
   ],
   "unique_name": "This Is Natania",

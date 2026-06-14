@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,794 songs - 3 day 19 hr 48 min
+1,795 songs - 3 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1570,6 +1570,7 @@
 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-01-29 | 2026-03-20 |
 | [The Haze](https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Quiet Rooms](https://open.spotify.com/album/4q6HhPuaXZYkgQsp4n91re) | 2:54 | 2025-01-09 | 2025-02-28 |
 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 | 2025-10-02 | 2026-01-30 |
+| [The Most Beautiful Lovesong](https://open.spotify.com/track/02SzelvEOwaq1YD1UtqjQh) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp), [Toussaint Chiza](https://open.spotify.com/artist/1wc53bAOil4C5PxhoT08dA) | [The Most Beautiful Lovesong](https://open.spotify.com/album/5ASHu5CVD0O9p5zYK7apBs) | 4:03 | 2026-06-11 |  |
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-11-14 | 2025-01-24 |
 | [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 | 2025-03-06 | 2025-04-04 |
 | [The Reaper](https://open.spotify.com/track/1h1cFLBjXf4SgoCxbrcrLC) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Reaper](https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb) | 3:08 | 2025-03-06 | 2025-04-04 |

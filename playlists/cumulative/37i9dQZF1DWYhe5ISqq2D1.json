@@ -3752,7 +3752,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 183033,
       "name": "Gamble",
       "url": "https://open.spotify.com/track/424Ho36d2956l3YGP9FmNO"
@@ -26228,6 +26228,24 @@
       "duration_ms": 185733,
       "name": "\u9769\u547d",
       "url": "https://open.spotify.com/track/48pPtNdzDKIvTuGGS66o21"
+    },
+    {
+      "album": {
+        "name": "\u97ff\u3051",
+        "url": "https://open.spotify.com/album/6yKhzXJ23mtiDZg69uA3Of"
+      },
+      "artists": [
+        {
+          "name": "Ushio Kou",
+          "url": "https://open.spotify.com/artist/53LkOsNxuRf7dy9VnKWNis"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "\u97ff\u3051",
+      "url": "https://open.spotify.com/track/3umeHCodFwWc30UoMCAQJX"
     },
     {
       "album": {

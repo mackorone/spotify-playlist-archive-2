@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Ana Mena con Lola Indigo, DELLAFUENTE, Olivia Rodrigo y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,809 likes - 71 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,866 likes - 71 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 11 | [El verano sabe mejor](https://open.spotify.com/track/2MGhnm503cjByMmiodQVpG) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [El verano sabe mejor](https://open.spotify.com/album/77NcnG1fZoUsYdyGMwnWyy) | 2:20 |
 | 12 | [Godzila \- W Sound 09](https://open.spotify.com/track/3H8XilnD0LdRkT7RChDDUS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Godzila \(W Sound 09\)](https://open.spotify.com/album/5eRPFOY3oXbS25ok1yXON7) | 3:00 |
 | 13 | [Isla Viva](https://open.spotify.com/track/6DWbguJJtZ6OoGUgcfr1By) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Isla Viva](https://open.spotify.com/album/41mlpezVzn8RJHIu9kIYG8) | 3:26 |
-| 14 | [ELLAS SABEN YA](https://open.spotify.com/track/3XnBUjZV3LNfz3FwtMQvWs) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [ELLAS SABEN YA](https://open.spotify.com/album/4i4xBR9qPRoSgWgx4jZ0RO) | 4:27 |
+| 14 | [ELLAS SABEN YA](https://open.spotify.com/track/3XnBUjZV3LNfz3FwtMQvWs) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Orlando Moreno Feo](https://open.spotify.com/artist/4dQp6GyGTOqfD3diTK3Yvu) | [ELLAS SABEN YA](https://open.spotify.com/album/4i4xBR9qPRoSgWgx4jZ0RO) | 4:27 |
 | 15 | [Kien me presta una guitarra?](https://open.spotify.com/track/3sBShupFlnz2RdZaldBzq6) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Kien me presta una guitarra?](https://open.spotify.com/album/4q4MIPjP96zPQVk6pVDPEp) | 2:34 |
 | 16 | [MUITO LINDA](https://open.spotify.com/track/3NgHva2Aob1NLJSl2EtJ0N) | [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC) | [MUITO LINDA](https://open.spotify.com/album/0YNXTJjkAYNgSGxdpTKsS2) | 3:02 |
 | 17 | [otra suerte sería](https://open.spotify.com/track/0s2FPa023yQl7kLNYz2Wg8) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [mediterrania](https://open.spotify.com/album/5q5fwR6qGuoNJwRT9pLSSg) | 3:29 |

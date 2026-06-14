@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1564378,
+  "num_followers": 1564288,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABbvVAE/Iszumlx8w29l3e8cuvX1",
+  "snapshot_id": "AAAAAHiBBKAEzMXGCsFz94rJt8qvC0j0",
   "tracks": [
     {
       "added_at": "2026-06-05 04:01:45",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "IT'S BEEN AWFUL",
-        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Julian Sintonia",
-          "url": "https://open.spotify.com/artist/0a4bUi9F2GFCQkOYBESJKY"
-        }
-      ],
-      "duration_ms": 182718,
-      "name": "DO I LOOK HIGH?",
-      "url": "https://open.spotify.com/track/0sSkIRZuqZWigJvUnPMdKL"
-    },
-    {
-      "added_at": "2026-06-05 04:01:45",
-      "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 182440,
       "name": "Shangri La",
       "url": "https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF"
+    },
+    {
+      "added_at": "2026-06-05 04:01:45",
+      "album": {
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Julian Sintonia",
+          "url": "https://open.spotify.com/artist/0a4bUi9F2GFCQkOYBESJKY"
+        }
+      ],
+      "duration_ms": 182718,
+      "name": "DO I LOOK HIGH?",
+      "url": "https://open.spotify.com/track/0sSkIRZuqZWigJvUnPMdKL"
     },
     {
       "added_at": "2026-06-05 04:01:45",
@@ -615,30 +615,6 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Munyon Canyon",
-      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
-    },
-    {
-      "added_at": "2026-06-05 04:01:45",
-      "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 221786,
       "name": "Gold Feet (feat. J.I.D.)",
       "url": "https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm"
+    },
+    {
+      "added_at": "2026-06-05 04:01:45",
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Munyon Canyon",
+      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
       "added_at": "2026-06-05 04:01:45",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Do You Have A Destination?",
-      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
-    },
-    {
-      "added_at": "2026-06-05 04:01:45",
-      "album": {
         "name": "Alfredo 2",
         "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 235400,
       "name": "Feeling (feat. Larry June)",
       "url": "https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1"
+    },
+    {
+      "added_at": "2026-06-05 04:01:45",
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Do You Have A Destination?",
+      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
     },
     {
       "added_at": "2026-06-05 04:01:45",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 285805,
-      "name": "Friendly Hallucinations",
-      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
-    },
-    {
-      "added_at": "2026-06-05 04:01:45",
-      "album": {
         "name": "e.t.d.s. A Mixtape by .idk.",
         "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 149503,
       "name": "FLAKKA",
       "url": "https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ"
+    },
+    {
+      "added_at": "2026-06-05 04:01:45",
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 285805,
+      "name": "Friendly Hallucinations",
+      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
       "added_at": "2026-06-05 04:01:45",

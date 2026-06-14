@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAACse8J9R56CQG++L8IKCgeB",
+  "snapshot_id": "aitMAAAAAABc6PcRfCuvt0+zjRYhSjJh",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extraordin\u00e1ria Gra\u00e7a (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/29i8q7KVZZjFh82BgJCDHd"
+        "name": "Eu Quem Merecia",
+        "url": "https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib"
       },
       "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         },
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
         }
       ],
-      "duration_ms": 468427,
-      "name": "Rendido Estou (Arms Open Wide) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4pPpXzIZOX6tRyme9rp96E"
+      "duration_ms": 350914,
+      "name": "Eu Quem Merecia",
+      "url": "https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D"
     },
     {
       "added_at": null,
@@ -103,22 +99,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Quem Merecia",
-        "url": "https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib"
+        "name": "Extraordin\u00e1ria Gra\u00e7a (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/29i8q7KVZZjFh82BgJCDHd"
       },
       "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         },
         {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 350914,
-      "name": "Eu Quem Merecia",
-      "url": "https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D"
+      "duration_ms": 468427,
+      "name": "Rendido Estou (Arms Open Wide) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4pPpXzIZOX6tRyme9rp96E"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00caxodo",
-        "url": "https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 363075,
-      "name": "Deus de Mois\u00e9s",
-      "url": "https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com os Olhos da F\u00e9",
         "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 278593,
       "name": "Eu Sei que N\u00e3o Estou S\u00f3",
       "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00caxodo",
+        "url": "https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 363075,
+      "name": "Deus de Mois\u00e9s",
+      "url": "https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jerusal\u00e9m e Eu",
-        "url": "https://open.spotify.com/album/7tuxsnL55xrxw4GjIugQhK"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 313306,
-      "name": "Jerusal\u00e9m e Eu",
-      "url": "https://open.spotify.com/track/6rQ3Z7rzm7XAt620Nqk4lo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Novo Dia (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GSAZ8tFAL4wQVM6fLflbg"
       },
@@ -827,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jerusal\u00e9m e Eu",
+        "url": "https://open.spotify.com/album/4lpegfZbd6uJKDqA0FOThC"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 313306,
+      "name": "Jerusal\u00e9m e Eu",
+      "url": "https://open.spotify.com/track/3F21le2cG4FwJFS0UVBBvM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "Apaixonado Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quatro por Um Forever (Ao Vivo)",
         "url": "https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 300672,
       "name": "Porque Creio em Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "Apaixonado Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
     },
     {
       "added_at": null,

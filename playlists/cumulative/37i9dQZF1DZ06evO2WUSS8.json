@@ -561,6 +561,32 @@
     },
     {
       "album": {
+        "name": "Batonga",
+        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
+    },
+    {
+      "album": {
         "name": "Care For Haiti",
         "url": "https://open.spotify.com/album/5o4KCZHnzOSH9CiNg4GUku"
       },
@@ -1802,7 +1828,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 194164,
       "name": "Keep Rising - The Woman King",
       "url": "https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I"

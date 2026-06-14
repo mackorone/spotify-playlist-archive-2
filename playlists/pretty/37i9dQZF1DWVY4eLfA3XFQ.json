@@ -1,12 +1,12 @@
 {
   "description": "50% techno, 50% house \ud83e\udd89 Tech house operators, featuring Cloonee",
-  "num_followers": 707451,
+  "num_followers": 707561,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOgXo/xbK6tjr0LubdvmBvRyD6+n",
+  "snapshot_id": "AAAAAK8eBpGeqEUAvd9TObxbZGosGZ15",
   "tracks": [
     {
       "added_at": "2026-06-05 04:01:31",
@@ -239,6 +239,22 @@
       "duration_ms": 166153,
       "name": "Make A Cry",
       "url": "https://open.spotify.com/track/3GmIhCGeEF35TIdEcrIAVO"
+    },
+    {
+      "added_at": "2026-06-12 04:01:19",
+      "album": {
+        "name": "Thanks for Dancing",
+        "url": "https://open.spotify.com/album/06ZHwJAVw71ROqjgxaNLeT"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Thanks for Dancing",
+      "url": "https://open.spotify.com/track/45v6WFpKDVRtuKRnhlalKw"
     },
     {
       "added_at": "2026-05-15 04:02:19",
@@ -561,20 +577,20 @@
       "url": "https://open.spotify.com/track/3Gt8OyQ4R7zElVCQmY29OT"
     },
     {
-      "added_at": "2026-06-12 04:01:19",
+      "added_at": "2026-06-13 14:22:03",
       "album": {
-        "name": "Thanks for Dancing",
-        "url": "https://open.spotify.com/album/06ZHwJAVw71ROqjgxaNLeT"
+        "name": "Foot on the Gas",
+        "url": "https://open.spotify.com/album/0CZp25Skbco97Enp6dmR3M"
       },
       "artists": [
         {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Thanks for Dancing",
-      "url": "https://open.spotify.com/track/45v6WFpKDVRtuKRnhlalKw"
+      "duration_ms": 171968,
+      "name": "Foot on the Gas",
+      "url": "https://open.spotify.com/track/18V768rb4wOOamf39v1603"
     },
     {
       "added_at": "2026-05-22 07:00:11",

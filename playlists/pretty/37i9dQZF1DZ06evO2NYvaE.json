@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 52710,
+  "num_followers": 52733,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAABfwiDl7NO6dkG14Xc2y0Jy",
+  "snapshot_id": "aitMAAAAAABHyBZBRWXqx7pUio0yfdt0",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,30 @@
       "duration_ms": 147533,
       "name": "TYG (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/39bBo9c52p4bcUMWBbuOaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/1wgweZqqZYCIuW7DroiVDR"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "duration_ms": 276153,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/4q1LQDKbCd6JX2EDJTRZjn"
     },
     {
       "added_at": null,

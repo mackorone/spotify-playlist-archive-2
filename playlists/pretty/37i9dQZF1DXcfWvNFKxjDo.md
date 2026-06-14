@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Big Sean, HUGEL, Scott Storch
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,749 likes - 84 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,775 likes - 84 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 53 | [Right Here](https://open.spotify.com/track/7dfqSBe3I7m2GxuigR0zGk) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Right Here](https://open.spotify.com/album/5C1uiWNazII9KgQ8IkAQWM) | 1:53 |
 | 54 | [One](https://open.spotify.com/track/68B23QshmQtlQrPUUNUYER) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa) | [One](https://open.spotify.com/album/3mve10OQbw9YmRf6pCBoGb) | 2:36 |
 | 55 | [Better Times \(feat\. BARBZ\)](https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Better Times \(feat\. BARBZ\)](https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq) | 3:08 |
-| 56 | [nie genug](https://open.spotify.com/track/2K4JVaDYMMpGCnJiKrjDvS) | [OTIS](https://open.spotify.com/artist/5UhU0sGRQAyORoDKIoaoXn), [NØAH](https://open.spotify.com/artist/6aFGdXHBKah1nyrqrGryuE), [marita](https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u) | [nie genug](https://open.spotify.com/album/7oN8eJxSDYvDba5R25fO63) | 3:03 |
+| 56 | [nie genug \(feat\. marita\)](https://open.spotify.com/track/2K4JVaDYMMpGCnJiKrjDvS) | [OTIS](https://open.spotify.com/artist/5UhU0sGRQAyORoDKIoaoXn), [NØAH](https://open.spotify.com/artist/6aFGdXHBKah1nyrqrGryuE), [marita](https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u) | [nie genug \(feat\. marita\)](https://open.spotify.com/album/7oN8eJxSDYvDba5R25fO63) | 3:03 |
 | 57 | [Love Tonight](https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Love Tonight](https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz) | 3:30 |
 | 58 | [Diabla](https://open.spotify.com/track/7Gkm41BphwRX8nqjx9Chb7) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Funk D'void](https://open.spotify.com/artist/0FGRzlRQuT0pMkb3XxTiCe) | [Diabla](https://open.spotify.com/album/5IQtunjIb5YCVDeZDVGUs3) | 3:02 |
 | 59 | [Lost in translation...](https://open.spotify.com/track/07GnVJ5t7lk8zckrY5zOUZ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Lost in translation...](https://open.spotify.com/album/5xeZbPlJA518IqmiziGjxN) | 3:30 |

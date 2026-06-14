@@ -740,7 +740,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 193561,
       "name": "Clowning",
       "url": "https://open.spotify.com/track/55Av2tFcx9E7ke2lcfyO9v"
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 207438,
       "name": "Don't Wait Up For Me",
       "url": "https://open.spotify.com/track/6BfWe8EH9Dhb68F2trNvXx"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "Every Girl",
       "url": "https://open.spotify.com/track/4C4oQjntCiPjPltwKoSll7"
@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 144520,
       "name": "Garbage",
       "url": "https://open.spotify.com/track/2JRItlvpvHyI4n7b3mmy7b"
@@ -3316,6 +3316,24 @@
       "duration_ms": 206677,
       "name": "Genevieve",
       "url": "https://open.spotify.com/track/3C85PexccMkdnlojcc3TCw"
+    },
+    {
+      "album": {
+        "name": "Sonic Bloom",
+        "url": "https://open.spotify.com/album/7hTL4upicJyTw0BQpEAcC0"
+      },
+      "artists": [
+        {
+          "name": "The Kidd Electric",
+          "url": "https://open.spotify.com/artist/5xETbCYYG741ON9z7FBjPz"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205311,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/11dav0PkNPDaOLeIJYzIvZ"
     },
     {
       "album": {
@@ -3420,7 +3438,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 227058,
       "name": "Gimme the Sun",
       "url": "https://open.spotify.com/track/1gt8F2ppvLAQAbkclyRUAm"
@@ -3618,7 +3636,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -3672,7 +3690,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 173440,
       "name": "Have You No Pride",
       "url": "https://open.spotify.com/track/6hyawvI37HZdXkvDbAKLjv"
@@ -3708,7 +3726,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 244371,
       "name": "Heartbreakin' woman",
       "url": "https://open.spotify.com/track/6z7teyNlfVhzaGwr5zSaHx"
@@ -3982,7 +4000,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -4054,7 +4072,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 214706,
       "name": "How You Know It\u2019s Love",
       "url": "https://open.spotify.com/track/3L8o36BnvWlXJ1j9tLJbjG"
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -4310,7 +4328,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 166588,
       "name": "I DONT WANT YOU",
       "url": "https://open.spotify.com/track/17VL4zOgpjUG8vL5zGpNoE"
@@ -4938,7 +4956,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -6070,7 +6088,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -6852,7 +6870,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 173171,
       "name": "OPPosites",
       "url": "https://open.spotify.com/track/138wnhAVUNf2jxm1lpd5xb"
@@ -6924,7 +6942,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 235500,
       "name": "Overstay",
       "url": "https://open.spotify.com/track/7rkUaIzyuus22wvR6hRITA"
@@ -7684,7 +7702,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 207986,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/5knt1NyZCbNd9dKuwEkU5O"
@@ -8066,7 +8084,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 236334,
       "name": "Spirit Guide",
       "url": "https://open.spotify.com/track/2PJvgMENJ3GKKaYKuNhsbZ"
@@ -8120,7 +8138,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -8466,7 +8484,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 137266,
       "name": "Teenage",
       "url": "https://open.spotify.com/track/0XnZ2Qozwyht5rLxuRkSuS"
@@ -9223,6 +9241,24 @@
     },
     {
       "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/6RwjrceadVsYWjJQT5SPtT"
+      },
+      "artists": [
+        {
+          "name": "Hyaenas",
+          "url": "https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213641,
+      "name": "Wanna Get Along?",
+      "url": "https://open.spotify.com/track/1aWc1EmsU041fNqbEpDZFz"
+    },
+    {
+      "album": {
         "name": "Wanna Get Along?",
         "url": "https://open.spotify.com/album/6nXoVCjgTkOEfg4FZyO7IY"
       },
@@ -9234,7 +9270,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 213641,
       "name": "Wanna Get Along?",
       "url": "https://open.spotify.com/track/5yHm4fwAC3Y8jArEHpKvEy"

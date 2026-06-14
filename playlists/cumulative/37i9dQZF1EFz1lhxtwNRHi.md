@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-224 songs - 12 hr 24 min
+225 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Understand](https://open.spotify.com/track/4IiHCtnfw8tZasAeocWqVe) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 5:00 | 2022-09-08 |  |
 | [Understand](https://open.spotify.com/track/5VYgsWOawA5pqeYP5pJMFR) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 5:00 | 2026-02-12 | 2026-02-14 |
 | [Unless It's With You](https://open.spotify.com/track/7fklxl8AxKiGz5fFZEglIm) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:17 | 2022-09-08 |  |
-| [Vampire](https://open.spotify.com/track/4x6KNgwA99loNZcRYrFzod) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/3eKNnH66JwNGWV5F3ZGP55) | 3:34 | 2023-07-20 |  |
+| [Vampire](https://open.spotify.com/track/2oQ8SEjzU4hyfmpHVmJHYY) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/4fIo4wTSXhhTL9G6qczeGc) | 3:34 | 2026-06-13 |  |
+| [Vampire](https://open.spotify.com/track/4x6KNgwA99loNZcRYrFzod) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/3eKNnH66JwNGWV5F3ZGP55) | 3:34 | 2023-07-20 | 2026-06-14 |
 | [Vampire](https://open.spotify.com/track/56WkfBKWfbvauMgeK8nivR) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/7Gq6sRRezEa7QKpX4oXVjr) | 3:34 | 2022-09-08 | 2023-07-21 |
 | [Voodoo](https://open.spotify.com/track/5Abiq1bL8hMcMh1JUawYQM) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:59 | 2022-10-20 |  |
 | [Voodoo](https://open.spotify.com/track/6lhp2HxYk0dPxrKwWEuaWr) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/5shnElSTugZ2ITzWUmDS5L) | 3:59 | 2022-09-08 | 2022-10-21 |

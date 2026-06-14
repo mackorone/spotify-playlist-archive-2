@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Any Weather (606 Version)",
       "url": "https://open.spotify.com/track/1bvFSldZLilaG73zaPd3aL"
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "First Sessions",
+        "url": "https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 162066,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5tgl0clpp1zalEpKZhwluY"
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-14",
       "duration_ms": 141773,
       "name": "Tush",
       "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"

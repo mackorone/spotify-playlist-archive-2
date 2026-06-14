@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: YBRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,429 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,384 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 22 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
 | 23 | [lieblingsmensch.](https://open.spotify.com/track/6KdnCUI9aw8QN6WO6zKQ4O) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [lieblingsmensch.](https://open.spotify.com/album/46JdATR49sI6FNKyKIY3IR) | 2:21 |
 | 24 | [lichter aus](https://open.spotify.com/track/520UQoBkZ0PflLhFa7hKFa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [lichter aus](https://open.spotify.com/album/5t3WKWE6rb1ZP0ztXgjatz) | 2:41 |
-| 25 | [Endlos](https://open.spotify.com/track/7wkLavipEtUm5ib2GjseUw) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [The Cratez](https://open.spotify.com/artist/6ZA8p8sy5EJNH168vpFw8m) | [Endlos](https://open.spotify.com/album/0ZspwgKGDfteMjxAT8u30P) | 1:45 |
+| 25 | [Endlos](https://open.spotify.com/track/7wkLavipEtUm5ib2GjseUw) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [Endlos](https://open.spotify.com/album/0ZspwgKGDfteMjxAT8u30P) | 2:17 |
 | 26 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 27 | [AWGAZI](https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [AWGAZI](https://open.spotify.com/album/17KKeHngp4vbAYAMRRgVSW) | 2:46 |
 | 28 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |

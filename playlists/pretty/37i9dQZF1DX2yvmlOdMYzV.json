@@ -1,6 +1,6 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 957834,
+  "num_followers": 957820,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
@@ -1045,6 +1045,22 @@
       "url": "https://open.spotify.com/track/7eTBRHSfEtedwe2nJYUw6l"
     },
     {
+      "added_at": "2024-10-26 03:56:59",
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 223522,
+      "name": "Sweet Little Rainbows",
+      "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
+    },
+    {
       "added_at": "2024-04-05 04:04:34",
       "album": {
         "name": "In Limbo",
@@ -1065,6 +1081,22 @@
       "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
     },
     {
+      "added_at": "2025-05-16 05:59:57",
+      "album": {
+        "name": "YARN",
+        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 197323,
+      "name": "Empath",
+      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
+    },
+    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Marigold",
@@ -1083,38 +1115,6 @@
       "duration_ms": 205479,
       "name": "Such A Thing",
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
-    },
-    {
-      "added_at": "2025-05-16 05:59:57",
-      "album": {
-        "name": "YARN",
-        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 197323,
-      "name": "Empath",
-      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
-    },
-    {
-      "added_at": "2024-10-26 03:56:59",
-      "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 223522,
-      "name": "Sweet Little Rainbows",
-      "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
       "added_at": "2025-05-16 05:59:57",
@@ -1257,38 +1257,6 @@
       "url": "https://open.spotify.com/track/0cng6ZQ0SnOUsLWMlozTJg"
     },
     {
-      "added_at": "2024-01-19 06:34:14",
-      "album": {
-        "name": "Nothing Sweeter",
-        "url": "https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 265386,
-      "name": "Nothing Sweeter",
-      "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
-    },
-    {
-      "added_at": "2025-01-24 08:17:53",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/5liG8ifZWteRMyYAQMh9fj"
-      },
-      "artists": [
-        {
-          "name": "Bathe",
-          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/0BP4fjdFdVvhNFa6Ij2CeL"
-    },
-    {
       "added_at": "2025-05-16 05:59:57",
       "album": {
         "name": "The Old And New",
@@ -1311,6 +1279,38 @@
       "duration_ms": 150006,
       "name": "The Old And New",
       "url": "https://open.spotify.com/track/6iOJxq8Vq7ix9c9Mgv9V2X"
+    },
+    {
+      "added_at": "2025-01-24 08:17:53",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/5liG8ifZWteRMyYAQMh9fj"
+      },
+      "artists": [
+        {
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/0BP4fjdFdVvhNFa6Ij2CeL"
+    },
+    {
+      "added_at": "2024-01-19 06:34:14",
+      "album": {
+        "name": "Nothing Sweeter",
+        "url": "https://open.spotify.com/album/0lCIshkOsKjTmEUSYi2ADc"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 265386,
+      "name": "Nothing Sweeter",
+      "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J"
     },
     {
-      "added_at": "2024-03-01 06:22:39",
-      "album": {
-        "name": "Need Nothing",
-        "url": "https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 147825,
-      "name": "Need Nothing",
-      "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
-    },
-    {
       "added_at": "2025-02-07 08:33:49",
       "album": {
         "name": "Mathematics (feat. Kano)",
@@ -1473,22 +1457,6 @@
       "url": "https://open.spotify.com/track/68sOQ9M10Uy7eL8rhaWdyj"
     },
     {
-      "added_at": "2024-02-17 05:00:00",
-      "album": {
-        "name": "a little love for myself",
-        "url": "https://open.spotify.com/album/1x8VAK3gdCGOrSY1tNCKUN"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "a little love for myself",
-      "url": "https://open.spotify.com/track/6GoTkMsiBcsrpWjII05gZS"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Pink Magnolia (Deluxe)",
@@ -1505,6 +1473,22 @@
       "url": "https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb"
     },
     {
+      "added_at": "2024-03-01 06:22:39",
+      "album": {
+        "name": "Need Nothing",
+        "url": "https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 147825,
+      "name": "Need Nothing",
+      "url": "https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9"
+    },
+    {
       "added_at": "2025-07-25 10:12:39",
       "album": {
         "name": "In The Moment",
@@ -1519,6 +1503,22 @@
       "duration_ms": 246413,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/26m3a6jjutoB86efXGO2dP"
+    },
+    {
+      "added_at": "2024-02-17 05:00:00",
+      "album": {
+        "name": "a little love for myself",
+        "url": "https://open.spotify.com/album/1x8VAK3gdCGOrSY1tNCKUN"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "a little love for myself",
+      "url": "https://open.spotify.com/track/6GoTkMsiBcsrpWjII05gZS"
     },
     {
       "added_at": "2025-03-29 05:25:30",
@@ -1553,6 +1553,22 @@
       "url": "https://open.spotify.com/track/5FWmsWC8TyoupXKAPq9nll"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Deliver Me",
+        "url": "https://open.spotify.com/album/1loTEiFpkWnWgOEtAavZna"
+      },
+      "artists": [
+        {
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Bloody Bouquets",
+      "url": "https://open.spotify.com/track/5qbJK62OGEkPB1jkeH1hTa"
+    },
+    {
       "added_at": "2025-01-31 08:58:42",
       "album": {
         "name": "been a minute",
@@ -1571,22 +1587,6 @@
       "duration_ms": 216000,
       "name": "been a minute",
       "url": "https://open.spotify.com/track/6p726bJa2dr85y1Ze8EzSi"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Deliver Me",
-        "url": "https://open.spotify.com/album/1loTEiFpkWnWgOEtAavZna"
-      },
-      "artists": [
-        {
-          "name": "Demae",
-          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Bloody Bouquets",
-      "url": "https://open.spotify.com/track/5qbJK62OGEkPB1jkeH1hTa"
     },
     {
       "added_at": "2025-09-07 02:15:48",
@@ -1773,22 +1773,6 @@
       "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
     },
     {
-      "added_at": "2025-03-21 05:45:29",
-      "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/2IP5WUelgVoRgI0zJhMjmj"
-      },
-      "artists": [
-        {
-          "name": "MAYOR",
-          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/6oVoUjbvtteQ6NFM5KUoyn"
-    },
-    {
       "added_at": "2025-06-13 04:00:58",
       "album": {
         "name": "Kill Switch",
@@ -1803,6 +1787,22 @@
       "duration_ms": 184259,
       "name": "Kill Switch",
       "url": "https://open.spotify.com/track/1uLxsQ0X6utcJEV5qE5w88"
+    },
+    {
+      "added_at": "2025-03-21 05:45:29",
+      "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/2IP5WUelgVoRgI0zJhMjmj"
+      },
+      "artists": [
+        {
+          "name": "MAYOR",
+          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
+        }
+      ],
+      "duration_ms": 192631,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/6oVoUjbvtteQ6NFM5KUoyn"
     },
     {
       "added_at": "2025-01-24 08:17:53",
@@ -1941,22 +1941,6 @@
       "url": "https://open.spotify.com/track/7BlXlv0e5I87d0KZ4Y9NDz"
     },
     {
-      "added_at": "2024-11-08 14:58:29",
-      "album": {
-        "name": "cloudy",
-        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 108829,
-      "name": "she just wanna see me rn",
-      "url": "https://open.spotify.com/track/132NmIOKCUGXSXQCno3WSB"
-    },
-    {
       "added_at": "2025-08-01 07:30:09",
       "album": {
         "name": "way you want it",
@@ -1975,6 +1959,22 @@
       "duration_ms": 143478,
       "name": "way you want it",
       "url": "https://open.spotify.com/track/3JveaiLXIDccSZ2vxulKKu"
+    },
+    {
+      "added_at": "2024-11-08 14:58:29",
+      "album": {
+        "name": "cloudy",
+        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 108829,
+      "name": "she just wanna see me rn",
+      "url": "https://open.spotify.com/track/132NmIOKCUGXSXQCno3WSB"
     },
     {
       "added_at": "2025-05-16 05:59:57",
@@ -2521,22 +2521,6 @@
       "url": "https://open.spotify.com/track/3mr5IsAJMwN4FxWzRf2yng"
     },
     {
-      "added_at": "2024-11-08 14:58:29",
-      "album": {
-        "name": "HiYA",
-        "url": "https://open.spotify.com/album/35dPX13gN6H8CLNXL6viq1"
-      },
-      "artists": [
-        {
-          "name": "Ray Lozano",
-          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
-        }
-      ],
-      "duration_ms": 178063,
-      "name": "HiYA",
-      "url": "https://open.spotify.com/track/0EszgYPRpVpz4pVaXttpiJ"
-    },
-    {
       "added_at": "2025-10-17 06:10:24",
       "album": {
         "name": "Lonely Mile",
@@ -2553,6 +2537,22 @@
       "url": "https://open.spotify.com/track/6rQ1ypqzzbYrVTmhSt2nKl"
     },
     {
+      "added_at": "2024-11-08 14:58:29",
+      "album": {
+        "name": "HiYA",
+        "url": "https://open.spotify.com/album/35dPX13gN6H8CLNXL6viq1"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "duration_ms": 178063,
+      "name": "HiYA",
+      "url": "https://open.spotify.com/track/0EszgYPRpVpz4pVaXttpiJ"
+    },
+    {
       "added_at": "2024-02-17 05:00:00",
       "album": {
         "name": "Thinking Less",
@@ -2567,6 +2567,22 @@
       "duration_ms": 162653,
       "name": "Thinking Less",
       "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
+    },
+    {
+      "added_at": "2025-02-14 09:47:36",
+      "album": {
+        "name": "blip",
+        "url": "https://open.spotify.com/album/3W07RwmsFX2OI0sWwQ9E4F"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        }
+      ],
+      "duration_ms": 132830,
+      "name": "blip",
+      "url": "https://open.spotify.com/track/5VD0U65kjk8SKtmEmDWzpO"
     },
     {
       "added_at": "2025-07-13 05:44:43",
@@ -2587,22 +2603,6 @@
       "duration_ms": 157261,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/75DV6KHoL58McX0a9S8vap"
-    },
-    {
-      "added_at": "2025-02-14 09:47:36",
-      "album": {
-        "name": "blip",
-        "url": "https://open.spotify.com/album/3W07RwmsFX2OI0sWwQ9E4F"
-      },
-      "artists": [
-        {
-          "name": "Merges",
-          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
-        }
-      ],
-      "duration_ms": 132830,
-      "name": "blip",
-      "url": "https://open.spotify.com/track/5VD0U65kjk8SKtmEmDWzpO"
     },
     {
       "added_at": "2025-05-30 05:27:02",
@@ -2769,22 +2769,6 @@
       "url": "https://open.spotify.com/track/41l95qoyybdbcWm0mvMjzX"
     },
     {
-      "added_at": "2023-09-15 01:16:56",
-      "album": {
-        "name": "Drop In",
-        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
-      },
-      "artists": [
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 206511,
-      "name": "Drop In",
-      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
-    },
-    {
       "added_at": "2025-07-13 05:44:43",
       "album": {
         "name": "Moonlight Radiator",
@@ -2803,6 +2787,22 @@
       "duration_ms": 227874,
       "name": "Moonlight Radiator",
       "url": "https://open.spotify.com/track/0CwN3EOEdSEDZA1lzSLxoE"
+    },
+    {
+      "added_at": "2023-09-15 01:16:56",
+      "album": {
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
     },
     {
       "added_at": "2024-12-06 06:41:45",
@@ -2877,38 +2877,6 @@
       "url": "https://open.spotify.com/track/7cWhXtvDtQ3aOfb62rllyx"
     },
     {
-      "added_at": "2024-11-22 08:43:50",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/6SvW6Kh0xDNgcsrkFxPprt"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 196834,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0PFptuWqSctnyhq2VXxxrD"
-    },
-    {
-      "added_at": "2024-09-28 03:33:15",
-      "album": {
-        "name": "FOR THE BOY IN ME",
-        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "IMY",
-      "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
-    },
-    {
       "added_at": "2025-05-16 05:59:57",
       "album": {
         "name": "River Native",
@@ -2923,6 +2891,22 @@
       "duration_ms": 362203,
       "name": "River Native",
       "url": "https://open.spotify.com/track/655ytGqzgDfJ8bBFbFVwQl"
+    },
+    {
+      "added_at": "2024-11-22 08:43:50",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/6SvW6Kh0xDNgcsrkFxPprt"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 196834,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0PFptuWqSctnyhq2VXxxrD"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2943,6 +2927,42 @@
       "duration_ms": 219913,
       "name": "& Then Some",
       "url": "https://open.spotify.com/track/2875XTVzJUuYQEEhy8NJGw"
+    },
+    {
+      "added_at": "2024-09-28 03:33:15",
+      "album": {
+        "name": "FOR THE BOY IN ME",
+        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
+    },
+    {
+      "added_at": "2025-03-21 05:45:29",
+      "album": {
+        "name": "Love Deep",
+        "url": "https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        },
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "Love Deep",
+      "url": "https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi"
     },
     {
       "added_at": "2025-02-14 09:47:36",
@@ -2969,26 +2989,6 @@
       "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
     },
     {
-      "added_at": "2025-03-21 05:45:29",
-      "album": {
-        "name": "Love Deep",
-        "url": "https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        },
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "Love Deep",
-      "url": "https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi"
-    },
-    {
       "added_at": "2023-09-08 06:30:47",
       "album": {
         "name": "Cherry Delight",
@@ -3007,6 +3007,22 @@
       "duration_ms": 177600,
       "name": "Cherry Delight",
       "url": "https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN"
+    },
+    {
+      "added_at": "2024-03-29 07:27:25",
+      "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/6BXhsVJP6Lus1iXf5Z7P1M"
+      },
+      "artists": [
+        {
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT"
+        }
+      ],
+      "duration_ms": 144137,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/2odCr4E6CiL2kkcy8EMUeg"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -3029,22 +3045,6 @@
       "url": "https://open.spotify.com/track/0vxQhrAQYLElaXMh2EFB4l"
     },
     {
-      "added_at": "2024-03-29 07:27:25",
-      "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/6BXhsVJP6Lus1iXf5Z7P1M"
-      },
-      "artists": [
-        {
-          "name": "LUCA",
-          "url": "https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT"
-        }
-      ],
-      "duration_ms": 144137,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/2odCr4E6CiL2kkcy8EMUeg"
-    },
-    {
       "added_at": "2025-03-29 05:25:30",
       "album": {
         "name": "1-800 FANTASY",
@@ -3059,22 +3059,6 @@
       "duration_ms": 255207,
       "name": "CHASING FANTASIES",
       "url": "https://open.spotify.com/track/3zMfCySyYt5H0vB4p8dd4n"
-    },
-    {
-      "added_at": "2025-06-13 04:00:58",
-      "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6"
     },
     {
       "added_at": "2025-03-07 07:16:40",
@@ -3165,20 +3149,20 @@
       "url": "https://open.spotify.com/track/1YjGMLIu5NmX7A0p6AQsCJ"
     },
     {
-      "added_at": "2025-07-25 10:12:39",
+      "added_at": "2025-06-13 04:00:58",
       "album": {
-        "name": "Room In My World",
-        "url": "https://open.spotify.com/album/2AOUQEQMN92FRWXZXbX63M"
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI"
       },
       "artists": [
         {
-          "name": "Sophia Galat\u00e9",
-          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "duration_ms": 174085,
-      "name": "Room In My World",
-      "url": "https://open.spotify.com/track/0O3jlE6RhnI2nvkFXBo2fg"
+      "duration_ms": 182213,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6"
     },
     {
       "added_at": "2024-04-05 04:04:34",
@@ -3195,6 +3179,22 @@
       "duration_ms": 186666,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/1MmvqCwhowwV2qFZ9DrXAY"
+    },
+    {
+      "added_at": "2025-07-25 10:12:39",
+      "album": {
+        "name": "Room In My World",
+        "url": "https://open.spotify.com/album/2AOUQEQMN92FRWXZXbX63M"
+      },
+      "artists": [
+        {
+          "name": "Sophia Galat\u00e9",
+          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "Room In My World",
+      "url": "https://open.spotify.com/track/0O3jlE6RhnI2nvkFXBo2fg"
     },
     {
       "added_at": "2024-06-07 13:35:49",
@@ -3421,38 +3421,6 @@
       "url": "https://open.spotify.com/track/0MPUFzx6mhOD8CSDLMISna"
     },
     {
-      "added_at": "2024-11-08 14:58:29",
-      "album": {
-        "name": "Another Day Another Moon",
-        "url": "https://open.spotify.com/album/3poftEIIhJAPGjgEqbBq6F"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Another Day Another Moon",
-      "url": "https://open.spotify.com/track/4SKY9UeWcdV3stPDXjNxUO"
-    },
-    {
-      "added_at": "2024-08-16 04:13:42",
-      "album": {
-        "name": "I'LL FINISH THE LYRICS LATER",
-        "url": "https://open.spotify.com/album/5HhsawLcSAifZcJGobnKbW"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 127208,
-      "name": "TANGERINE",
-      "url": "https://open.spotify.com/track/3XumBe8GRlXPmxR8kr6cdw"
-    },
-    {
       "added_at": "2024-04-05 04:04:34",
       "album": {
         "name": "Multiply (Feat. Luedji Luna)",
@@ -3471,6 +3439,38 @@
       "duration_ms": 240133,
       "name": "Multiply - Feat. Luedji Luna",
       "url": "https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9"
+    },
+    {
+      "added_at": "2024-08-16 04:13:42",
+      "album": {
+        "name": "I'LL FINISH THE LYRICS LATER",
+        "url": "https://open.spotify.com/album/5HhsawLcSAifZcJGobnKbW"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 127208,
+      "name": "TANGERINE",
+      "url": "https://open.spotify.com/track/3XumBe8GRlXPmxR8kr6cdw"
+    },
+    {
+      "added_at": "2024-11-08 14:58:29",
+      "album": {
+        "name": "Another Day Another Moon",
+        "url": "https://open.spotify.com/album/3poftEIIhJAPGjgEqbBq6F"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Another Day Another Moon",
+      "url": "https://open.spotify.com/track/4SKY9UeWcdV3stPDXjNxUO"
     },
     {
       "added_at": "2024-11-22 08:43:50",

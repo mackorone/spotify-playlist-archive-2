@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143362,
+  "num_followers": 143370,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Speak Now World Tour Live",
-        "url": "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh"
+        "name": "HIGH AND A(LIVE)",
+        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 245973,
-      "name": "Ours - Live/2011",
-      "url": "https://open.spotify.com/track/68QyrSzpnoU04AAhE5z8lj"
+      "duration_ms": 188200,
+      "name": "You Get What You Give - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -699,18 +699,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "HIGH AND A(LIVE)",
-        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
+        "name": "Speak Now World Tour Live",
+        "url": "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 188200,
-      "name": "You Get What You Give - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I"
+      "duration_ms": 245973,
+      "name": "Ours - Live/2011",
+      "url": "https://open.spotify.com/track/68QyrSzpnoU04AAhE5z8lj"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
+        "name": "Opry 100: Country's Greatest Songs (Live on the Grand Ole Opry)",
+        "url": "https://open.spotify.com/album/4N6V8PtEATBpzfjEA3e9yh"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Grand Ole Opry",
+          "url": "https://open.spotify.com/artist/0hyJLnnmiy5ZAW0fYKOYjN"
+        }
+      ],
+      "duration_ms": 287938,
+      "name": "Tennessee Whiskey (Live on the Grand Ole Opry, October 29th, 2016)",
+      "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
         "name": "Bullets in the Gun",
         "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 237488,
       "name": "Am I Okay? (Spotify OUTSIDE Version) - Live from Nashville, TN",
       "url": "https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Opry 100: Country's Greatest Songs (Live on the Grand Ole Opry)",
-        "url": "https://open.spotify.com/album/4N6V8PtEATBpzfjEA3e9yh"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Grand Ole Opry",
-          "url": "https://open.spotify.com/artist/0hyJLnnmiy5ZAW0fYKOYjN"
-        }
-      ],
-      "duration_ms": 287938,
-      "name": "Tennessee Whiskey (Live on the Grand Ole Opry, October 29th, 2016)",
-      "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "An Evening With John Denver",
-        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
+        "name": "No Horse To Ride (Live From Boston)",
+        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
-      "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
+      "duration_ms": 226523,
+      "name": "No Horse To Ride - Live From Boston",
+      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "No Horse To Ride (Live From Boston)",
-        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
+        "name": "An Evening With John Denver",
+        "url": "https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4"
       },
       "artists": [
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 226523,
-      "name": "No Horse To Ride - Live From Boston",
-      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
+      "duration_ms": 198173,
+      "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
+      "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1371,22 +1371,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Waylon Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
+        "name": "Human (Live)",
+        "url": "https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Good Hearted Woman - Live in Texas - September 1974",
-      "url": "https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p"
+      "duration_ms": 214760,
+      "name": "Human - Live",
+      "url": "https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1407,18 +1403,38 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Human (Live)",
-        "url": "https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg"
+        "name": "Waylon Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 214760,
-      "name": "Human - Live",
-      "url": "https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K"
+      "duration_ms": 184840,
+      "name": "Good Hearted Woman - Live in Texas - September 1974",
+      "url": "https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+        }
+      ],
+      "duration_ms": 242369,
+      "name": "Lookin' For Love",
+      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
       "artists": [
         {
-          "name": "Johnny Lee",
-          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 242369,
-      "name": "Lookin' For Love",
-      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
+      "duration_ms": 211706,
+      "name": "Write This Down - Live",
+      "url": "https://open.spotify.com/track/5AP4NeswU941cNkFxeloME"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1471,22 +1487,6 @@
       "duration_ms": 288106,
       "name": "Body Like A Back Road - 15 In A 30 Tour Live",
       "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Write This Down - Live",
-      "url": "https://open.spotify.com/track/5AP4NeswU941cNkFxeloME"
     },
     {
       "added_at": "2026-04-15 17:00:10",

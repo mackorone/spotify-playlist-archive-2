@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: JAY B)",
-  "num_followers": 1097869,
+  "num_followers": 1097939,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 108986,
+      "name": "New Jeans",
+      "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 108986,
-      "name": "New Jeans",
-      "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "KISS OF LIFE",
-        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Sugarcoat (NATTY Solo)",
-      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 180066,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Sugarcoat (NATTY Solo)",
+      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "224",
-        "url": "https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Lips Hips Kiss",
-      "url": "https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 235562,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
+        "name": "224",
+        "url": "https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Lips Hips Kiss",
+      "url": "https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
         "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
         "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 183906,
       "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
       "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
         "name": "DIE 4 YOU",
         "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
       },
@@ -639,38 +655,22 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Killin\u2019 Me Good",
-      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         },
         {
           "name": "Wonstein",
           "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 151733,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
+      "duration_ms": 197613,
+      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
         "name": "Wait On Me - The 4th Mini Album",
         "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 193053,
       "name": "Wait On Me",
       "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 197613,
-      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -851,8 +851,8 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "Moodswings In This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 195013,
-      "name": "Nerves",
-      "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -939,8 +939,8 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+        "name": "Moodswings In This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+      "duration_ms": 195013,
+      "name": "Nerves",
+      "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "JULIE",
-          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
-      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "JULIE",
+          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
+      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "PWLT",
-        "url": "https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79"
-      },
-      "artists": [
-        {
-          "name": "Krystal",
-          "url": "https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI"
-        }
-      ],
-      "duration_ms": 218945,
-      "name": "PWLT",
-      "url": "https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 206680,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
+        "name": "PWLT",
+        "url": "https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79"
+      },
+      "artists": [
+        {
+          "name": "Krystal",
+          "url": "https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI"
+        }
+      ],
+      "duration_ms": 218945,
+      "name": "PWLT",
+      "url": "https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "COME CLOSER",
-        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
-      },
-      "artists": [
-        {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Come Closer",
-      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
         "name": "Know me",
         "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 214613,
       "name": "Know me",
       "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
+        "name": "COME CLOSER",
+        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
+      },
+      "artists": [
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
     },
     {
       "added_at": "2026-06-11 07:43:54",

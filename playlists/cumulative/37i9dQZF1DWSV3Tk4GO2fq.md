@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1950s\. Cover: Elvis Presley
 
-338 songs - 15 hr 36 min
+339 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Mr\. Blue](https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:25 | 2021-04-28 |  |
 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 | 2021-04-28 |  |
 | [Mr\. Sandman](https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Wonderful One](https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ) | 2:27 | 2022-06-09 | 2024-04-19 |
+| [My Foolish Heart \(with Glenn Osser & His Orchestra\) \- Single Version](https://open.spotify.com/track/4iYUM85fYzTkoPurkrLpU7) | [Mindy Carson](https://open.spotify.com/artist/59ALkceePwVbv7jX5PoYYj), [Glenn Osser & His Orchestra](https://open.spotify.com/artist/6C1jg9FpjBccIUIN0SoFJg) | [Baby, Baby, Baby \(Expanded Edition\)](https://open.spotify.com/album/4egh3Ez8Jg9VA19KiUuIh4) | 3:06 | 2024-09-06 |  |
 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 | 2021-04-28 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Young Lovers](https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur) | 2:30 | 2021-04-28 |  |
 | [My Prayer](https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:47 | 2021-04-28 |  |
@@ -325,7 +326,7 @@
 | [When They Ring The Golden Bell](https://open.spotify.com/track/32csDpGNVJu6lEP77Bg5FJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:29 | 2024-03-01 |  |
 | [Who's Sorry Now](https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:16 | 2021-04-28 |  |
 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2021-04-28 | 2022-04-29 |
-| [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/3EdEML9OuJmadb6qHvLvID) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Whole Lotta Shakin' Going On / It'll Be Me](https://open.spotify.com/album/3yIm9sw7a2OScbcB1bPJeV) | 2:53 | 2022-04-29 |  |
+| [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/3EdEML9OuJmadb6qHvLvID) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Whole Lotta Shakin' Going On / It'll Be Me](https://open.spotify.com/album/3yIm9sw7a2OScbcB1bPJeV) | 2:53 | 2022-04-29 | 2026-06-14 |
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 | 2022-06-09 | 2024-04-19 |
 | [Why Do Fools Fall In Love](https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Frankie Lymon & The Teenagers Greatest Hits](https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC) | 2:20 | 2021-04-28 | 2022-07-29 |
 | [Why Do Fools Fall In Love?](https://open.spotify.com/track/1Lw3f4kieVLzwPPItlO4bS) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Milestones of "The" Legends \- Boy Groups, Vol\. 8](https://open.spotify.com/album/5vHNocVGT5hVdYlAPaXQZd) | 2:18 | 2022-06-09 | 2023-08-13 |

@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19369,
+  "num_followers": 19368,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-06-11 14:00:40",
       "album": {
-        "name": "halftime oranges",
-        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 213409,
-      "name": "halftime oranges",
-      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
-    },
-    {
-      "added_at": "2026-06-11 14:00:40",
-      "album": {
         "name": "Ain't No Party",
         "url": "https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb"
       },
@@ -343,18 +327,34 @@
     {
       "added_at": "2026-06-11 14:00:40",
       "album": {
-        "name": "PRETTY GYAL",
-        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
+        "name": "halftime oranges",
+        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
       },
       "artists": [
         {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
         }
       ],
-      "duration_ms": 218134,
-      "name": "PRETTY GYAL",
-      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
+      "duration_ms": 213409,
+      "name": "halftime oranges",
+      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
+    },
+    {
+      "added_at": "2026-06-11 14:00:40",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
     },
     {
       "added_at": "2026-06-11 14:00:40",
@@ -375,18 +375,18 @@
     {
       "added_at": "2026-06-11 14:00:40",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
+        "name": "PRETTY GYAL",
+        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
       },
       "artists": [
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
         }
       ],
-      "duration_ms": 162266,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
+      "duration_ms": 218134,
+      "name": "PRETTY GYAL",
+      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
     },
     {
       "added_at": "2026-06-11 14:00:40",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-06-11 14:00:40",
       "album": {
-        "name": "Coats",
-        "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 208875,
-      "name": "Coats",
-      "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
-    },
-    {
-      "added_at": "2026-06-11 14:00:40",
-      "album": {
         "name": "pretend",
         "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 170676,
       "name": "pretend",
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "added_at": "2026-06-11 14:00:40",
+      "album": {
+        "name": "Coats",
+        "url": "https://open.spotify.com/album/2MhzYUysgTkEC01pE2Sfjv"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 208875,
+      "name": "Coats",
+      "url": "https://open.spotify.com/track/3Ms4gyZoCG0e63Guz3gkBM"
     },
     {
       "added_at": "2026-06-11 14:00:40",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-11 14:00:40",
       "album": {
-        "name": "Letting Love Die",
-        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
-      },
-      "artists": [
-        {
-          "name": "Heidi Simpson",
-          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Letting Love Die",
-      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
-    },
-    {
-      "added_at": "2026-06-11 14:00:40",
-      "album": {
         "name": "CURSE",
         "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 148525,
       "name": "DEATH COMES FROM THE SKY",
       "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+    },
+    {
+      "added_at": "2026-06-11 14:00:40",
+      "album": {
+        "name": "Letting Love Die",
+        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
+      },
+      "artists": [
+        {
+          "name": "Heidi Simpson",
+          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Letting Love Die",
+      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
     },
     {
       "added_at": "2026-06-11 14:00:40",

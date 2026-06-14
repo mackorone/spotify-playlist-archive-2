@@ -1,12 +1,12 @@
 {
   "description": "Turn this playlist all the way up! Featuring Fenix Flexin, Shaboozey, LUCKI &amp; more.",
-  "num_followers": 33581,
+  "num_followers": 33574,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAcdWGj12GJ5y4/w4H6oGb4WhfIeVIJ",
+  "snapshot_id": "AAAcdiSU459USnir0kgEnWdOLaxzaJ1v",
   "tracks": [
     {
       "added_at": "2026-06-08 23:36:08",
@@ -79,6 +79,26 @@
       "duration_ms": 180703,
       "name": "Roundtripski",
       "url": "https://open.spotify.com/track/2BPjxkBhFjP2sp1SW6MyhU"
+    },
+    {
+      "added_at": "2026-06-13 18:43:12",
+      "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        },
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 194525,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI"
     },
     {
       "added_at": "2026-01-26 19:55:56",

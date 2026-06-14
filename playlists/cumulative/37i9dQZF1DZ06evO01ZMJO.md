@@ -4,7 +4,7 @@
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 40 min
+70 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [1 Team](https://open.spotify.com/track/2mao0X8xezsrM0oCmm9T9f) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [1 Team](https://open.spotify.com/album/2Kky2Fv8uR0FzaI3rcOwKk) | 3:18 | 2025-12-07 |  |
 | [Adrenaline](https://open.spotify.com/track/3n5GXYHCAnK9VskjAseOEr) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Adrenaline](https://open.spotify.com/album/2SXDYAcPeTsKSdQJYT86VM) | 3:09 | 2025-07-20 | 2025-12-12 |
 | [Baila de Gasolina \- Remix](https://open.spotify.com/track/1EHUaXrI4iKIPz2RvGyWX7) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Ruthless](https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F), [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina \(Remix\)](https://open.spotify.com/album/3JHvRZxGFMron9RLauackt) | 3:24 | 2025-10-19 |  |
-| [Break The Rules](https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Break The Rules](https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2) | 3:51 | 2025-07-20 |  |
+| [Break The Rules](https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Break The Rules](https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2) | 3:51 | 2025-07-20 | 2026-06-14 |
+| [Cheerio \(Outsiders Remix\)](https://open.spotify.com/track/2iZStQEjwKOiOZHLcaNKpl) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Cheerio \(Outsiders Remix\)](https://open.spotify.com/album/6lm4nGutsJbiG2hByo7rbj) | 3:47 | 2026-06-14 |  |
 | [Cocaina](https://open.spotify.com/track/2YeZhfPOkFND5OYL6zp6we) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Cocaina](https://open.spotify.com/album/6KnEcN7zTiIOzDaYhR3qdk) | 3:04 | 2025-07-20 | 2025-12-08 |
 | [Cocaina \(feat\. Emy Perez\)](https://open.spotify.com/track/6M7SrgWmctDecpmE31qDzO) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Dutch Movement](https://open.spotify.com/artist/7zQ4pgdx0xfMAl5I2dQ3bd), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Cocaina \(feat\. Emy Perez\)](https://open.spotify.com/album/0wgY2mP9qbxTodGmOraclu) | 3:04 | 2025-12-08 |  |
 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 | 2025-07-20 |  |

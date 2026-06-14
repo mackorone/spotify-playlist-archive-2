@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-142 songs - 7 hr 35 min
+143 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Hold On](https://open.spotify.com/track/6pA2g7vd1G2yWbOJg7SgPh) | [Legard](https://open.spotify.com/artist/1kj0x0ZeBM6Yd5mfVuRCnT) | [Hold On](https://open.spotify.com/album/14Ld5fK0KulZMN0GHnt0eN) | 2:59 | 2023-01-03 | 2023-09-22 |
 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 | 2023-01-03 |  |
 | [Insegurança \- Ao Vivo](https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [15 Anos \(Ao Vivo\)](https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n) | 3:00 | 2023-01-03 |  |
+| [Jogou Aonde](https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Jogou Aonde](https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo) | 2:38 | 2026-06-12 |  |
 | [Largado Às Traças \- Ao Vivo](https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:54 | 2023-01-03 | 2024-04-19 |
 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 | 2023-01-03 | 2024-04-19 |
 | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV) | [Liberdade \(Quando o Grave Bate Forte\)](https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR) | 2:30 | 2023-01-03 |  |
@@ -116,7 +117,7 @@
 | [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:55 | 2023-01-03 |  |
 | [Quem Me Dera](https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Made In Studio](https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV) | 2:27 | 2023-01-03 |  |
 | [Recairei \- Ao Vivo](https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Conquistas \(Ao Vivo\)](https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f) | 2:46 | 2023-11-17 |  |
-| [Romance Proibido \- Ao Vivo](https://open.spotify.com/track/2UxeBJPanPvF3Q2xH6zkbC) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Evoluiu, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4RuiLiqSdL0dClN0JRtDVk) | 2:42 | 2023-11-17 |  |
+| [Romance Proibido \- Ao Vivo](https://open.spotify.com/track/2UxeBJPanPvF3Q2xH6zkbC) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Evoluiu, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4RuiLiqSdL0dClN0JRtDVk) | 2:42 | 2023-11-17 | 2026-06-14 |
 | [Saideira \- Ao Vivo](https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 2:58 | 2023-11-17 |  |
 | [Saudade do Caramba \- Ao Vivo](https://open.spotify.com/track/7knOtdRwbbvP55B6KB2xvv) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 2:53 | 2024-07-09 |  |
 | [Saudade Nível Hard \(Filtr Collab\)](https://open.spotify.com/track/6tkzskyx8PrIz8LgZvR4gz) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Filtr Music Brasil](https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q) | [Filtr Collab \- Yasmin Santos e Di Propósito Vol 1.](https://open.spotify.com/album/4kbaAFyIuYYxnkg6YiQPw0) | 3:04 | 2024-07-09 |  |

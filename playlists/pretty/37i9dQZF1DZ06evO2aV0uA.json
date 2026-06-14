@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 144773,
+  "num_followers": 144788,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ain6gAAAAAC7y8rs3YaJ5IE7W8OPaaFC",
+  "snapshot_id": "aitMAAAAAADC1Vt8JhaNJDfOi8x+YJsT",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 234266,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w"
+      "duration_ms": 215240,
+      "name": "Descending",
+      "url": "https://open.spotify.com/track/0xNx1JxP6PCZ8KpW0cVsDJ"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrament (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 215240,
-      "name": "Descending",
-      "url": "https://open.spotify.com/track/0xNx1JxP6PCZ8KpW0cVsDJ"
+      "duration_ms": 234266,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w"
     },
     {
       "added_at": null,
@@ -770,15 +770,11 @@
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "Jamey Jasta",
-          "url": "https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL"
         }
       ],
-      "duration_ms": 297713,
-      "name": "Poison Dream",
-      "url": "https://open.spotify.com/track/6CSdZhtJ2hmsp5OyEfzTz2"
+      "duration_ms": 270508,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy"
     },
     {
       "added_at": null,
@@ -822,11 +818,15 @@
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Jamey Jasta",
+          "url": "https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL"
         }
       ],
-      "duration_ms": 270508,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy"
+      "duration_ms": 297713,
+      "name": "Poison Dream",
+      "url": "https://open.spotify.com/track/6CSdZhtJ2hmsp5OyEfzTz2"
     }
   ],
   "unique_name": "This Is Lamb of God",

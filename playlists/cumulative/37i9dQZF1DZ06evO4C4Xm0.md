@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-192 songs - 14 hr 39 min
+193 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Thought \- Instrumental](https://open.spotify.com/track/6uN4hsPm9t7tHNTXyp8gBN) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/62Au97ad3lAew8oFHtd3Qa) | 3:59 | 2023-03-17 | 2023-04-12 |
 | [A Thought \- Instrumental](https://open.spotify.com/track/7xU738CyZW1H8JjvxAC2Kb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/2McOBODIvLon65xiVcB2gt) | 3:59 | 2023-04-11 | 2023-04-27 |
 | [Above Chiangmai \- Remastered 2004](https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 2:55 | 2022-10-12 |  |
+| [Afterlife](https://open.spotify.com/track/51A16T7C1uE9yQzFuVQAqp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Afterlife](https://open.spotify.com/album/0qMgaPtlDCCOWFaUgp3bLI) | 6:12 | 2026-06-14 |  |
 | [Against The Sky \- 2005 Digital Remaster](https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:52 | 2022-05-29 |  |
 | [All I Remember](https://open.spotify.com/track/1AkWtJQjphlvoZ3DvLQCrZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Eno \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aPERwmFrLzH0mE8G95UHU) | 3:52 | 2024-05-26 | 2024-06-28 |
 | [All I Remember](https://open.spotify.com/track/1ePTixXXx9O4GqH0laeKQi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Eno \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs) | 3:52 | 2024-03-16 | 2024-05-07 |

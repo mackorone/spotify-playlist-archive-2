@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 575872,
+  "num_followers": 575830,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-05-19 07:30:05",
       "album": {
-        "name": "Fictions You Produce",
-        "url": "https://open.spotify.com/album/1XnZLallUu8u13vepIfW35"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT"
-    },
-    {
-      "added_at": "2026-05-19 07:30:05",
-      "album": {
         "name": "Buwan",
         "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 343446,
       "name": "Buwan",
       "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
+    },
+    {
+      "added_at": "2026-05-19 07:30:05",
+      "album": {
+        "name": "Panata",
+        "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
+      },
+      "artists": [
+        {
+          "name": "Tothapi",
+          "url": "https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Panata",
+      "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
     },
     {
       "added_at": "2026-05-19 07:30:05",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-05-19 07:30:05",
       "album": {
-        "name": "Panata",
-        "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
+        "name": "Fictions You Produce",
+        "url": "https://open.spotify.com/album/1XnZLallUu8u13vepIfW35"
       },
       "artists": [
         {
-          "name": "Tothapi",
-          "url": "https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 275893,
-      "name": "Panata",
-      "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
+      "duration_ms": 198688,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT"
     },
     {
       "added_at": "2026-05-19 07:30:05",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-19 07:30:05",
       "album": {
-        "name": "Panatag",
-        "url": "https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 229403,
-      "name": "Panatag",
-      "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
-    },
-    {
-      "added_at": "2026-05-19 07:30:05",
-      "album": {
         "name": "Sandali",
         "url": "https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 269568,
       "name": "Isang Daan",
       "url": "https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t"
+    },
+    {
+      "added_at": "2026-05-19 07:30:05",
+      "album": {
+        "name": "Panatag",
+        "url": "https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Panatag",
+      "url": "https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7"
     }
   ],
   "unique_name": "Relax Tayo",

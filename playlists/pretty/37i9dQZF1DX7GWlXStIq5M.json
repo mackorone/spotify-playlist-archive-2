@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Aretuza Lovi",
-  "num_followers": 361219,
+  "num_followers": 361192,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -291,18 +291,26 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Del\u00edrio Favorito",
-        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
+        "name": "CARAMELO SALGADO",
+        "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
       },
       "artists": [
         {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Del\u00edrio Favorito",
-      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+      "duration_ms": 238058,
+      "name": "SECA PALHA",
+      "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -331,26 +339,34 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "CARAMELO SALGADO",
-        "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
+        "name": "Del\u00edrio Favorito",
+        "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
       },
       "artists": [
         {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
         }
       ],
-      "duration_ms": 238058,
-      "name": "SECA PALHA",
-      "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
+      "duration_ms": 195692,
+      "name": "Del\u00edrio Favorito",
+      "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-06-12 03:00:55",
+      "album": {
+        "name": "Eita",
+        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 183867,
+      "name": "Eita",
+      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -407,6 +423,22 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
+        "name": "Avenida",
+        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 184303,
+      "name": "Avenida",
+      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
+    },
+    {
+      "added_at": "2026-06-12 03:00:55",
+      "album": {
         "name": "NOVA: Energia",
         "url": "https://open.spotify.com/album/5bwXJ7z9FAv0Tyw9v8Zcy8"
       },
@@ -431,22 +463,6 @@
       "duration_ms": 168000,
       "name": "NOVA: Energia",
       "url": "https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj"
-    },
-    {
-      "added_at": "2026-06-12 03:00:55",
-      "album": {
-        "name": "Avenida",
-        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 184303,
-      "name": "Avenida",
-      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -511,6 +527,22 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
+        "name": "Baunilha",
+        "url": "https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV"
+      },
+      "artists": [
+        {
+          "name": "Sofia Oliveira",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        }
+      ],
+      "duration_ms": 189054,
+      "name": "Baunilha",
+      "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
+    },
+    {
+      "added_at": "2026-06-12 03:00:55",
+      "album": {
         "name": "Descomplica",
         "url": "https://open.spotify.com/album/5eYtbArx818qyC8Tjm2Nt5"
       },
@@ -547,38 +579,6 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Baunilha",
-        "url": "https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV"
-      },
-      "artists": [
-        {
-          "name": "Sofia Oliveira",
-          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
-        }
-      ],
-      "duration_ms": 189054,
-      "name": "Baunilha",
-      "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
-    },
-    {
-      "added_at": "2026-06-12 03:00:55",
-      "album": {
-        "name": "Curvas",
-        "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "Curvas",
-      "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
-    },
-    {
-      "added_at": "2026-06-12 03:00:55",
-      "album": {
         "name": "Mais Que Isso",
         "url": "https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Tudo Pelo Show",
-        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
+        "name": "Curvas",
+        "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
       },
       "artists": [
         {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
         }
       ],
-      "duration_ms": 152232,
-      "name": "Os Mo\u00e7os da R\u00e1dio",
-      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
+      "duration_ms": 157186,
+      "name": "Curvas",
+      "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
+        "name": "Tudo Pelo Show",
+        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 152232,
+      "name": "Os Mo\u00e7os da R\u00e1dio",
+      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
+    },
+    {
+      "added_at": "2026-06-12 03:00:55",
+      "album": {
         "name": "no seu tempo",
         "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
@@ -647,6 +663,22 @@
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-06-12 03:00:55",
+      "album": {
+        "name": "Deixa eu te sentir",
+        "url": "https://open.spotify.com/album/3l9x2o5TnRTnQyfm3PdneQ"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 161419,
+      "name": "Deixa eu te sentir",
+      "url": "https://open.spotify.com/track/3oE47KzHTOBEA5utcirjGy"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -667,18 +699,22 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Deixa eu te sentir",
-        "url": "https://open.spotify.com/album/3l9x2o5TnRTnQyfm3PdneQ"
+        "name": "Esqueleto",
+        "url": "https://open.spotify.com/album/78Hln7xFuFdsh6grNA8qIM"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+          "name": "Ariah",
+          "url": "https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8"
+        },
+        {
+          "name": "Gabriel Aiala",
+          "url": "https://open.spotify.com/artist/7BaQ2BKBgFgSUBxa9ulAlT"
         }
       ],
-      "duration_ms": 161419,
-      "name": "Deixa eu te sentir",
-      "url": "https://open.spotify.com/track/3oE47KzHTOBEA5utcirjGy"
+      "duration_ms": 177560,
+      "name": "Esqueleto",
+      "url": "https://open.spotify.com/track/4wsioNig2uczFFKKgpe4yO"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -703,22 +739,18 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Esqueleto",
-        "url": "https://open.spotify.com/album/78Hln7xFuFdsh6grNA8qIM"
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
       },
       "artists": [
         {
-          "name": "Ariah",
-          "url": "https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8"
-        },
-        {
-          "name": "Gabriel Aiala",
-          "url": "https://open.spotify.com/artist/7BaQ2BKBgFgSUBxa9ulAlT"
+          "name": "Lorenza Pozza",
+          "url": "https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Esqueleto",
-      "url": "https://open.spotify.com/track/4wsioNig2uczFFKKgpe4yO"
+      "duration_ms": 220750,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -915,22 +947,6 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Seda de Casulo",
-        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "Ningu\u00e9m Morre de Amor",
-      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
-    },
-    {
-      "added_at": "2026-06-12 03:00:55",
-      "album": {
         "name": "G\u00caMEOS EM G\u00caMEOS",
         "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
       },
@@ -947,6 +963,38 @@
       "duration_ms": 189333,
       "name": "rela\u00e7\u00f5es superficiais",
       "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
+    },
+    {
+      "added_at": "2026-06-12 03:00:55",
+      "album": {
+        "name": "Seda de Casulo",
+        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 150422,
+      "name": "Ningu\u00e9m Morre de Amor",
+      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+    },
+    {
+      "added_at": "2026-06-12 03:00:55",
+      "album": {
+        "name": "Me Deixa Partir",
+        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Me Deixa Partir",
+      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -975,18 +1023,26 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Me Deixa Partir",
-        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
+        "name": "Voc\u00ea pra mim \u00e9",
+        "url": "https://open.spotify.com/album/7JeH4i5AYvfiqRlnT9GUlE"
       },
       "artists": [
         {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        },
+        {
+          "name": "Breno Duarte",
+          "url": "https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG"
+        },
+        {
+          "name": "Bia Siqueira",
+          "url": "https://open.spotify.com/artist/5X5jyBjFtdl9vwBd6bEIqI"
         }
       ],
-      "duration_ms": 174107,
-      "name": "Me Deixa Partir",
-      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
+      "duration_ms": 153600,
+      "name": "Voc\u00ea pra mim \u00e9",
+      "url": "https://open.spotify.com/track/744UBIuHXHzs6nciPFBMjG"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -1023,26 +1079,6 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
-      },
-      "artists": [
-        {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
-    },
-    {
-      "added_at": "2026-06-12 03:00:55",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
       },
@@ -1063,26 +1099,22 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Voc\u00ea pra mim \u00e9",
-        "url": "https://open.spotify.com/album/7JeH4i5AYvfiqRlnT9GUlE"
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
       },
       "artists": [
         {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
         },
         {
-          "name": "Breno Duarte",
-          "url": "https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG"
-        },
-        {
-          "name": "Bia Siqueira",
-          "url": "https://open.spotify.com/artist/5X5jyBjFtdl9vwBd6bEIqI"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Voc\u00ea pra mim \u00e9",
-      "url": "https://open.spotify.com/track/744UBIuHXHzs6nciPFBMjG"
+      "duration_ms": 139354,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -1223,18 +1255,18 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+        "name": "carne fraca",
+        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
       },
       "artists": [
         {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
         }
       ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
+      "duration_ms": 154285,
+      "name": "carne fraca",
+      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
     },
     {
       "added_at": "2026-06-12 03:00:55",
@@ -1259,58 +1291,18 @@
     {
       "added_at": "2026-06-12 03:00:55",
       "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+        "name": "MUCHO SEXY - ASTRO SESSIONS",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
         }
       ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
-    },
-    {
-      "added_at": "2026-06-12 03:00:55",
-      "album": {
-        "name": "carne fraca",
-        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "carne fraca",
-      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
-    },
-    {
-      "added_at": "2026-06-12 03:00:55",
-      "album": {
-        "name": "Caos e Poesia",
-        "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
-      },
-      "artists": [
-        {
-          "name": "Isix",
-          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
-        },
-        {
-          "name": "Dreicon",
-          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
-        }
-      ],
-      "duration_ms": 145927,
-      "name": "Caos e Poesia",
-      "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     }
   ],
   "unique_name": "Palco POP",

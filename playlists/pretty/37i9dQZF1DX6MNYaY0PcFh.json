@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
-  "num_followers": 105496,
+  "num_followers": 105516,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Still Sincere",
-        "url": "https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d"
-      },
-      "artists": [
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 188719,
-      "name": "Still Sincere",
-      "url": "https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
         "name": "Jump Higher",
         "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 176842,
       "name": "Jump Higher",
       "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
+        "name": "Still Sincere",
+        "url": "https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 188719,
+      "name": "Still Sincere",
+      "url": "https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Just The Way You Are (Remixes Part Two)",
-        "url": "https://open.spotify.com/album/7IuJ75kkCYnCnXg5EBS2Fi"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        },
-        {
-          "name": "Paige Tomlinson",
-          "url": "https://open.spotify.com/artist/5ADZw92wug6Jlx6oxL3b66"
-        }
-      ],
-      "duration_ms": 176749,
-      "name": "Just The Way You Are - Paige Tomlinson Remix",
-      "url": "https://open.spotify.com/track/2tazKVVJBWqFOAAlFzfQe5"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
         "name": "Supa Smoov (Bumpa's Xtra Smoov Mix)",
         "url": "https://open.spotify.com/album/0S1uf6gfZYHzSjkhHcsSWf"
       },
@@ -831,26 +811,22 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c"
+        "name": "Just The Way You Are (Remixes Part Two)",
+        "url": "https://open.spotify.com/album/7IuJ75kkCYnCnXg5EBS2Fi"
       },
       "artists": [
         {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
         },
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+          "name": "Paige Tomlinson",
+          "url": "https://open.spotify.com/artist/5ADZw92wug6Jlx6oxL3b66"
         }
       ],
-      "duration_ms": 199411,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
+      "duration_ms": 176749,
+      "name": "Just The Way You Are - Paige Tomlinson Remix",
+      "url": "https://open.spotify.com/track/2tazKVVJBWqFOAAlFzfQe5"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -871,6 +847,30 @@
       "duration_ms": 123406,
       "name": "Needed You",
       "url": "https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 199411,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "XTZY",
-        "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
-      },
-      "artists": [
-        {
-          "name": "FULLCLIP",
-          "url": "https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9"
-        },
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 167492,
-      "name": "XTZY",
-      "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
         "name": "F\u00f3n P\u00f3ca (feat. Travy)",
         "url": "https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 217706,
       "name": "F\u00f3n P\u00f3ca (feat. Travy)",
       "url": "https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
+        "name": "XTZY",
+        "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
+      },
+      "artists": [
+        {
+          "name": "FULLCLIP",
+          "url": "https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "duration_ms": 167492,
+      "name": "XTZY",
+      "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
+        "name": "Draw a Line",
+        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
+      },
+      "artists": [
+        {
+          "name": "Lu.Re",
+          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
+        }
+      ],
+      "duration_ms": 205162,
+      "name": "Draw a Line",
+      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
         "name": "LOOK4MYLOVE",
         "url": "https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 220108,
       "name": "LOOK4MYLOVE",
       "url": "https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
-        "name": "Draw a Line",
-        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
-      },
-      "artists": [
-        {
-          "name": "Lu.Re",
-          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
-        }
-      ],
-      "duration_ms": 205162,
-      "name": "Draw a Line",
-      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Swept Away",
-        "url": "https://open.spotify.com/album/5OQWYahgccARpqqFBq0hr8"
-      },
-      "artists": [
-        {
-          "name": "Hutcher",
-          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
-        },
-        {
-          "name": "Cecelia",
-          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
-        }
-      ],
-      "duration_ms": 167518,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
         "name": "Welcome 2 LDN (feat. Flowdan)",
         "url": "https://open.spotify.com/album/08s53yPAoXtWg29VLYK8Ju"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 172548,
       "name": "Welcome 2 LDN (feat. Flowdan)",
       "url": "https://open.spotify.com/track/74yRHYEYFueRYYDriUFNIH"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
+        "name": "Swept Away",
+        "url": "https://open.spotify.com/album/5OQWYahgccARpqqFBq0hr8"
+      },
+      "artists": [
+        {
+          "name": "Hutcher",
+          "url": "https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI"
+        },
+        {
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+        }
+      ],
+      "duration_ms": 167518,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI"
     },
     {
       "added_at": "2026-06-11 23:00:19",

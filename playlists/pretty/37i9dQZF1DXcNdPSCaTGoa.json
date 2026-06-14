@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 3439,
+  "num_followers": 3482,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Sondelani",
-        "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Sondela",
-      "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Nkalakatha",
         "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 285933,
       "name": "Nkalakatha",
       "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Sondelani",
+        "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "M'du Or Die",
         "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 336666,
       "name": "Siya Jola (Ok'Salayo)",
       "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 279306,
       "name": "Weekend Special",
       "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 311880,
-      "name": "Doo Be Doo",
-      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 214960,
       "name": "Another Universe",
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 311880,
+      "name": "Doo Be Doo",
+      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
+      },
+      "artists": [
+        {
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+        }
+      ],
+      "duration_ms": 314772,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Khokhovula",
         "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
-      },
-      "artists": [
-        {
-          "name": "Lebo Mathosa",
-          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
-        }
-      ],
-      "duration_ms": 314772,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
     },
     {
       "added_at": "2026-04-24 07:22:05",

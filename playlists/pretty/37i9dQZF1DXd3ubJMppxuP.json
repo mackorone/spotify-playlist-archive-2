@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 88063,
+  "num_followers": 88082,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-06-11 22:00:25",
       "album": {
+        "name": "Als De Morgen Is Gekomen (Remix)",
+        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
+      },
+      "artists": [
+        {
+          "name": "Nederlandse Hardstyle",
+          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
+        }
+      ],
+      "duration_ms": 145241,
+      "name": "Als De Morgen Is Gekomen (Remix)",
+      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
+    },
+    {
+      "added_at": "2026-06-11 22:00:25",
+      "album": {
         "name": "Ons Moeder Zeej Nog (Special Krew Total Loss Remix)",
         "url": "https://open.spotify.com/album/4VaDQ9MRyqYgIvbpdHX3lB"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 156692,
       "name": "Ons Moeder Zeej Nog - Special Krew Total Loss Remix",
       "url": "https://open.spotify.com/track/2rDH1NyPLSfhg6USrQ0IvK"
-    },
-    {
-      "added_at": "2026-06-11 22:00:25",
-      "album": {
-        "name": "Als De Morgen Is Gekomen (Remix)",
-        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
-      },
-      "artists": [
-        {
-          "name": "Nederlandse Hardstyle",
-          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
-        }
-      ],
-      "duration_ms": 145241,
-      "name": "Als De Morgen Is Gekomen (Remix)",
-      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
     },
     {
       "added_at": "2026-06-11 22:00:25",

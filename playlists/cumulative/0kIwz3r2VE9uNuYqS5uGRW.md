@@ -4,7 +4,7 @@
 
 > 
 
-215 songs - 11 hr 14 min
+218 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Crying \(In September\)](https://open.spotify.com/track/6DhVlfBpDjqnGQHx2LhxK2) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [DJ Rozwell](https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:37 | 2025-12-28 |  |
 | [Cueca Vermelha](https://open.spotify.com/track/0psQlXBy3LAWiYGcg2Vz6Y) | [Marcos Yury Dieper](https://open.spotify.com/artist/2NgqmdXxP8paU9uQWL3btf) | [Cueca Vermelha](https://open.spotify.com/album/4hJlPnSql0scw26e7qr0l4) | 3:30 | 2025-06-22 |  |
 | [Cuentame](https://open.spotify.com/track/1ofaTXh8Vp8j8JDjFkcvoN) | [J MART](https://open.spotify.com/artist/4U5QlsisiFasO599Hn5rTK) | [Cuentame](https://open.spotify.com/album/5aPjoYmj0AuOvC3pg6Xzrv) | 1:48 | 2025-08-17 |  |
+| [dangerose](https://open.spotify.com/track/2OLJ7bMkW54MYfD6BprIx0) | [Ebonii](https://open.spotify.com/artist/5GgTzAqlQ9YkISvrWN4x7e), [Alektra](https://open.spotify.com/artist/5wBJh4LU47mXERWr0DsR2Q), [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [elixir remixes](https://open.spotify.com/album/6W7i36tGCQu1MYkKZuW9KL) | 2:54 | 2026-06-13 |  |
 | [Delorean](https://open.spotify.com/track/0ipu6uwgDaq38JeXheuO2R) | [Tokyo Killa](https://open.spotify.com/artist/44HYvFdD06IqOhCBXawbtz) | [Delorean](https://open.spotify.com/album/4TlN1FUusLJskg7Sl5HOwg) | 3:12 | 2026-03-27 |  |
 | [Desahogo](https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Desahogo](https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz) | 3:20 | 2026-03-19 |  |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2025-12-10 |  |
@@ -104,6 +105,7 @@
 | [IRS](https://open.spotify.com/track/3IC6BEliAIbqt6cv9yzxWD) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [IRS](https://open.spotify.com/album/3JYd80QtqjS7fw0nZrXBHs) | 4:01 | 2026-01-07 |  |
 | [jack of all trades](https://open.spotify.com/track/2NiFKEDeAhGeJdbjtQVQH6) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC), [music ZerO](https://open.spotify.com/artist/6YRV4XG1UsZxRsaC194vAY) | [jack of all trades](https://open.spotify.com/album/5R9GLxQ237gIqXUZRXzyzz) | 2:37 | 2026-02-06 |  |
 | [Jazz Soul \- \(Freestyle\)](https://open.spotify.com/track/2SGF1liiKRxgtJM12X2XfU) | [Pazzo](https://open.spotify.com/artist/1DDE68aTInM89DhuzkIWAR) | [Jazz Soul](https://open.spotify.com/album/3pdWZJ8FhYGdasB8Qon7l5) | 3:32 | 2026-04-02 |  |
+| [jealousy misery](https://open.spotify.com/track/0x2N0M44PqRv2Dx4YtYJSy) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 2:47 | 2026-06-13 |  |
 | [jive](https://open.spotify.com/track/7bTCD4VX14Le9iNWUBjUJ5) | [Moonrust](https://open.spotify.com/artist/0BdOZyc2UcgDOc46WepPBY) | [four dreams, one day](https://open.spotify.com/album/0NJfVdFby9KWkRWe4a5RjT) | 3:02 | 2025-11-28 |  |
 | [Julieta](https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX) | [Amillie](https://open.spotify.com/artist/1duM4rm8TlgqBKOTPCHXgd), [Fermin Daddy](https://open.spotify.com/artist/021cc0FsTWmMjCULvwsZg8) | [Julieta](https://open.spotify.com/album/58vKWq7EQkKQIcw92aOhPm) | 3:16 | 2025-03-27 |  |
 | [keep your head up, bitch](https://open.spotify.com/track/14P02Pz06wm2Mnov97XFyg) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [BROKEN SIGNALS](https://open.spotify.com/album/7o3fL9GzxzP2RwnPwALHUB) | 3:06 | 2026-05-06 |  |
@@ -143,6 +145,7 @@
 | [peak cinema](https://open.spotify.com/track/3Lt7BxHEYOLcfWURRf7SdR) | [Nakeltbg](https://open.spotify.com/artist/2Vg7QmOQ4alrHtr5vu677Q) | [COALESCENCE \(7\)](https://open.spotify.com/album/5oFCxq9UhLjkbmlcKbem7U) | 2:46 | 2025-09-02 |  |
 | [PERREO MALDITO BB](https://open.spotify.com/track/52JXO6Hq0RyQYfTtsLFd5F) | [J.Cantero](https://open.spotify.com/artist/4UPnYaUpsfkxIf8WbUhYgb) | [ALL BEATS 2](https://open.spotify.com/album/6POoVSAMhdL1BT0Z2m0MmR) | 3:37 | 2025-08-11 |  |
 | [personal](https://open.spotify.com/track/3euE3Hrf5sGffTMoWaQw80) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N), [taidyn](https://open.spotify.com/artist/28xsr9dcYuN8Kmy1zdN4xx) | [personal](https://open.spotify.com/album/38zNure1dJiTE4rhKE2Fxf) | 2:58 | 2026-04-07 |  |
+| [Pierdo el Control](https://open.spotify.com/track/3C0bku6a2HSE7D7SdR1h0r) | [NayroMusic](https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc) | [Cuerdas Nocturnas](https://open.spotify.com/album/1HZmIA87i8LsruJ1rSglCC) | 2:49 | 2026-06-13 |  |
 | [Pine](https://open.spotify.com/track/38WAf7TDAQESf2AFTZlDnm) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Pine](https://open.spotify.com/album/4Ku6TElKYc9ML30DbgWEg5) | 3:24 | 2025-04-14 |  |
 | [pinky promise](https://open.spotify.com/track/4OIZrD0Q5HjdFSL0FPrAu3) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [WANT 2 BE 3](https://open.spotify.com/album/4IhdgtgY206V0NATs0V694) | 2:00 | 2025-11-10 |  |
 | [Pocket Dialer](https://open.spotify.com/track/5YC7pEmFK6wGSnfJghKNIJ) | [Gold Foil Hum](https://open.spotify.com/artist/2fk3ifpGKFFprX6C863u1Y) | [Character Flaw](https://open.spotify.com/album/4qn26yLrkTT6dSYXe1nlCs) | 3:19 | 2025-11-04 |  |

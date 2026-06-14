@@ -4723,6 +4723,28 @@
     },
     {
       "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        },
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194525,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI"
+    },
+    {
+      "album": {
         "name": "walk",
         "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
       },

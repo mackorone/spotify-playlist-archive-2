@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Manu
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,022 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,085 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bebo e Choro](https://open.spotify.com/track/1YNwYzvMokLXodeOi5OIYY) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Paredão da Bahtidão](https://open.spotify.com/album/6W2eJiGBfxSK2o5mlm8euX) | 2:16 |
-| 2 | [Só Pra Tu](https://open.spotify.com/track/3xKxxF4yQ7WBgxCtG9LASw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Ensaios Da Anitta](https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39) | 2:59 |
-| 3 | [Foguinho](https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 1:22 |
+| 2 | [Foguinho](https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 1:22 |
+| 3 | [Só Pra Tu](https://open.spotify.com/track/3xKxxF4yQ7WBgxCtG9LASw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Ensaios Da Anitta](https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39) | 2:59 |
 | 4 | [Voando Pro Pará](https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 2:59 |
 | 5 | [Só no Caquiado](https://open.spotify.com/track/01FtRxIfpX9M67Zpj35dY2) | [Banda Sayonara](https://open.spotify.com/artist/4WudSn9b3V05mnxaH9uNks) | [Só no Caquiado](https://open.spotify.com/album/2g2IrM7y3lkzsl5xrvzKYP) | 2:56 |
 | 6 | [Clima de Rodeio](https://open.spotify.com/track/1WBLJW3c8uaEMe5FBPaqyF) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Clima de Rodeio](https://open.spotify.com/album/1RKyc13s0UFhSd00vYdCEi) | 1:56 |

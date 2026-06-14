@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Army, The Navy
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,833 likes - 159 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,841 likes - 159 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

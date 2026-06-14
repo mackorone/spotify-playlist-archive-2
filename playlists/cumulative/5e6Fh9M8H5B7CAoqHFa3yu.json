@@ -5279,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Burden (Lo-Fi Version)",
+        "url": "https://open.spotify.com/album/3ORrXUxNpI8btFHfFCv21J"
+      },
+      "artists": [
+        {
+          "name": "Ex Alma",
+          "url": "https://open.spotify.com/artist/3djMiF1ty7aSuXuLy9AZY8"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172687,
+      "name": "Burden - Lo-Fi Version",
+      "url": "https://open.spotify.com/track/7iZGon0MGuoKcFSwdW5C2D"
+    },
+    {
+      "album": {
         "name": "Burn The Floor",
         "url": "https://open.spotify.com/album/1eyeG8hYgB6xs1PFCjCwEe"
       },
@@ -26796,6 +26814,24 @@
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
+    },
+    {
+      "album": {
+        "name": "Noroc, Bun\u0103 Ziua",
+        "url": "https://open.spotify.com/album/067ym3R00wLnNq6UrPcYxH"
+      },
+      "artists": [
+        {
+          "name": "Andrew Whistler",
+          "url": "https://open.spotify.com/artist/1wyuerQdwzNyYFMp8tyDc9"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149655,
+      "name": "Noroc, Bun\u0103 Ziua",
+      "url": "https://open.spotify.com/track/4w3S4BPLsGpfY6LOwxsh8a"
     },
     {
       "album": {

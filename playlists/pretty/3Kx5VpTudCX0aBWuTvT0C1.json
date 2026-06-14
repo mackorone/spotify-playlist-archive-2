@@ -1,357 +1,13 @@
 {
   "description": "\ud83d\udd00 Hit shuffle &amp; meet new artists &amp; pop rock song. \u271a Each track also joins tailored playlists.  By @faceless.diversum \ud83d\udcf8 Insta. Follow, save &amp; share ! Submit here : ",
-  "num_followers": 1734,
+  "num_followers": 1743,
   "original_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",
   "owner": {
     "name": "DIVERSUM WORLD",
     "url": "https://open.spotify.com/user/1163990293"
   },
-  "snapshot_id": "AAACncYPu6tGsKc372S0ysQJ5VFBirqc",
+  "snapshot_id": "AAACphYavix26e405S5can26xpuDM2fn",
   "tracks": [
-    {
-      "added_at": "2025-11-22 09:55:43",
-      "album": {
-        "name": "Weaker",
-        "url": "https://open.spotify.com/album/44m2wMyKWD8ANnMBUToYp5"
-      },
-      "artists": [
-        {
-          "name": "Daryan Tchoubineh",
-          "url": "https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj"
-        }
-      ],
-      "duration_ms": 211153,
-      "name": "Weaker",
-      "url": "https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1"
-    },
-    {
-      "added_at": "2025-11-24 13:13:33",
-      "album": {
-        "name": "Queso",
-        "url": "https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD"
-      },
-      "artists": [
-        {
-          "name": "Summer in the Attic",
-          "url": "https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq"
-        }
-      ],
-      "duration_ms": 157490,
-      "name": "tiny thoughts",
-      "url": "https://open.spotify.com/track/1Egax32yGqCIA0Fcw2PDDN"
-    },
-    {
-      "added_at": "2025-09-24 22:16:32",
-      "album": {
-        "name": "12|12|12",
-        "url": "https://open.spotify.com/album/4Oydl17pAHsG5XE32aa6m1"
-      },
-      "artists": [
-        {
-          "name": "Faceless DIVERSUM",
-          "url": "https://open.spotify.com/artist/4bmj6GZWAkZhD2syFEuNXG"
-        }
-      ],
-      "duration_ms": 209959,
-      "name": "12.12.12 - Rock",
-      "url": "https://open.spotify.com/track/1LrE3JYp37AzpCSkovSPAK"
-    },
-    {
-      "added_at": "2025-11-24 13:14:18",
-      "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/63eb3gQjXxJUflcgKMTBy3"
-      },
-      "artists": [
-        {
-          "name": "DataBass",
-          "url": "https://open.spotify.com/artist/2Rvog1SN7fG6KPC2KDbjM4"
-        }
-      ],
-      "duration_ms": 222647,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/7FKST7WmlWa4RKcr6RNEQE"
-    },
-    {
-      "added_at": "2025-11-25 18:37:04",
-      "album": {
-        "name": "MIK's Tape",
-        "url": "https://open.spotify.com/album/2fhP1JdNOxSnAjjS739uQL"
-      },
-      "artists": [
-        {
-          "name": "MIK's Reaction",
-          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
-        }
-      ],
-      "duration_ms": 229034,
-      "name": "World Of Thirds",
-      "url": "https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk"
-    },
-    {
-      "added_at": "2025-11-25 21:27:06",
-      "album": {
-        "name": "Aunque No Estes",
-        "url": "https://open.spotify.com/album/65zPECDNUQCcMY4c2nSgLx"
-      },
-      "artists": [
-        {
-          "name": "De este Lado",
-          "url": "https://open.spotify.com/artist/7djoMWla9ZaXo7IdYjVaVc"
-        },
-        {
-          "name": "JUAN PABLO FERRI",
-          "url": "https://open.spotify.com/artist/4tCZZHceT5fVsmXNN9ulds"
-        },
-        {
-          "name": "Jesus Salinas",
-          "url": "https://open.spotify.com/artist/1dKgEobaksoR3O35J0G1GI"
-        }
-      ],
-      "duration_ms": 196092,
-      "name": "Aunque No Estes",
-      "url": "https://open.spotify.com/track/3jiuTtZ3MwufcxJ5oJ6oq5"
-    },
-    {
-      "added_at": "2025-11-25 21:29:49",
-      "album": {
-        "name": "Kickin' It Down the Road",
-        "url": "https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1"
-      },
-      "artists": [
-        {
-          "name": "Hickory",
-          "url": "https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg"
-        }
-      ],
-      "duration_ms": 175068,
-      "name": "Charlottetown",
-      "url": "https://open.spotify.com/track/3SCi5byZCBZ69icO68dWna"
-    },
-    {
-      "added_at": "2025-11-26 09:03:41",
-      "album": {
-        "name": "To the Ends of the Earth",
-        "url": "https://open.spotify.com/album/0EJr6qOrJteFJ8L0skZ7KC"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Curses",
-          "url": "https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Tell Me the Truth",
-      "url": "https://open.spotify.com/track/1JomByRV3tjxdJMc9eyG8P"
-    },
-    {
-      "added_at": "2025-11-26 09:18:18",
-      "album": {
-        "name": "Away Too Long",
-        "url": "https://open.spotify.com/album/4iJhmu6czRwB1FUiKjIBsg"
-      },
-      "artists": [
-        {
-          "name": "Digital Bog",
-          "url": "https://open.spotify.com/artist/34WuPzlCsRIbT5RuFGtTMw"
-        }
-      ],
-      "duration_ms": 180552,
-      "name": "Away Too Long",
-      "url": "https://open.spotify.com/track/0tuvYh6wDvM45ivRimfyUB"
-    },
-    {
-      "added_at": "2025-11-27 19:33:33",
-      "album": {
-        "name": "Ghost Skin",
-        "url": "https://open.spotify.com/album/3YHvKACYd2PHnmlwDZIlKw"
-      },
-      "artists": [
-        {
-          "name": "Elliot Tellman",
-          "url": "https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Ghost Skin",
-      "url": "https://open.spotify.com/track/5pHEqCiFsCUwNT1MZ704xm"
-    },
-    {
-      "added_at": "2025-11-27 19:45:38",
-      "album": {
-        "name": "Coming Stars",
-        "url": "https://open.spotify.com/album/5nRfA7DrRB7FEYswNXIUMy"
-      },
-      "artists": [
-        {
-          "name": "Tony Rocha",
-          "url": "https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm"
-        }
-      ],
-      "duration_ms": 190257,
-      "name": "Coming Stars",
-      "url": "https://open.spotify.com/track/7EsFMWgc1EVf6NUepID6gd"
-    },
-    {
-      "added_at": "2025-11-27 19:49:47",
-      "album": {
-        "name": "So\u00f1ando Despierto",
-        "url": "https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc"
-      },
-      "artists": [
-        {
-          "name": "Pandino",
-          "url": "https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW"
-        }
-      ],
-      "duration_ms": 187083,
-      "name": "Perro insensible",
-      "url": "https://open.spotify.com/track/61sja73d8He0LLeEFtznED"
-    },
-    {
-      "added_at": "2025-11-28 10:33:47",
-      "album": {
-        "name": "Not Supposed to Let You Know",
-        "url": "https://open.spotify.com/album/3X5OMgdsTqKqo0ZZ4RO98k"
-      },
-      "artists": [
-        {
-          "name": "Going Big",
-          "url": "https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "Not Supposed to Let You Know",
-      "url": "https://open.spotify.com/track/7nOehwhib8wpPrvt4ZFF2f"
-    },
-    {
-      "added_at": "2025-11-29 14:27:19",
-      "album": {
-        "name": "Do you tell",
-        "url": "https://open.spotify.com/album/7FTkRYhJGYUKMNw5Tc0Yfj"
-      },
-      "artists": [
-        {
-          "name": "CEDER",
-          "url": "https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Do you tell",
-      "url": "https://open.spotify.com/track/4yZES25Ta3YswJ1xjbggBa"
-    },
-    {
-      "added_at": "2025-11-29 14:28:34",
-      "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y"
-      },
-      "artists": [
-        {
-          "name": "MINNA ORA",
-          "url": "https://open.spotify.com/artist/76RqksjOb9wTLKq1EUfNOC"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/77lY028zHQMb93dP5XEYTE"
-    },
-    {
-      "added_at": "2025-11-30 17:39:55",
-      "album": {
-        "name": "Festivus Rocks!",
-        "url": "https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK"
-      },
-      "artists": [
-        {
-          "name": "The Lollygags",
-          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
-        }
-      ],
-      "duration_ms": 137990,
-      "name": "Festivus Rocks!",
-      "url": "https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5"
-    },
-    {
-      "added_at": "2025-12-01 17:54:03",
-      "album": {
-        "name": "Vur Kalbimden",
-        "url": "https://open.spotify.com/album/7efSlA8XFS5odUgIg36w0V"
-      },
-      "artists": [
-        {
-          "name": "Azel",
-          "url": "https://open.spotify.com/artist/6Wefz4jdGRWUIPjmvl76QU"
-        }
-      ],
-      "duration_ms": 191571,
-      "name": "Vur Kalbimden",
-      "url": "https://open.spotify.com/track/0fu2sSqESedfVKV7QD7fBz"
-    },
-    {
-      "added_at": "2025-12-06 15:22:32",
-      "album": {
-        "name": "EQUINOCCIO",
-        "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
-      },
-      "artists": [
-        {
-          "name": "Rodeo Manhattan",
-          "url": "https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD"
-        }
-      ],
-      "duration_ms": 153240,
-      "name": "No Queda Mas",
-      "url": "https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy"
-    },
-    {
-      "added_at": "2025-12-12 10:14:10",
-      "album": {
-        "name": "Too Close For Comfort",
-        "url": "https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF"
-      },
-      "artists": [
-        {
-          "name": "DIZTEN",
-          "url": "https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/2eLNKsTamXcUGp8Q0PrfeJ"
-    },
-    {
-      "added_at": "2025-12-12 10:16:27",
-      "album": {
-        "name": "Not Real",
-        "url": "https://open.spotify.com/album/4kGbXFHPB46aYEtQTJ22HD"
-      },
-      "artists": [
-        {
-          "name": "FAIA LYN",
-          "url": "https://open.spotify.com/artist/0PIi7hsIDjKPYH66SOko0H"
-        }
-      ],
-      "duration_ms": 197033,
-      "name": "Not Real",
-      "url": "https://open.spotify.com/track/2h0rNNxfeN6n18zEhb1uOA"
-    },
-    {
-      "added_at": "2025-12-15 10:40:28",
-      "album": {
-        "name": "Camera 321/Tivoli Park/Drink Deep",
-        "url": "https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx"
-      },
-      "artists": [
-        {
-          "name": "The Rabbit Council",
-          "url": "https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf"
-        }
-      ],
-      "duration_ms": 242628,
-      "name": "Drink Deep",
-      "url": "https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT"
-    },
     {
       "added_at": "2025-12-15 10:43:01",
       "album": {
@@ -399,6 +55,22 @@
       "duration_ms": 251374,
       "name": "LOS BIOLOGOS",
       "url": "https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU"
+    },
+    {
+      "added_at": "2025-09-24 22:16:32",
+      "album": {
+        "name": "12|12|12",
+        "url": "https://open.spotify.com/album/4Oydl17pAHsG5XE32aa6m1"
+      },
+      "artists": [
+        {
+          "name": "Faceless DIVERSUM",
+          "url": "https://open.spotify.com/artist/4bmj6GZWAkZhD2syFEuNXG"
+        }
+      ],
+      "duration_ms": 209959,
+      "name": "12.12.12 - Rock",
+      "url": "https://open.spotify.com/track/1LrE3JYp37AzpCSkovSPAK"
     },
     {
       "added_at": "2025-12-30 15:09:37",
@@ -1131,6 +803,54 @@
       "duration_ms": 207245,
       "name": "Dale Hodges Park",
       "url": "https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM"
+    },
+    {
+      "added_at": "2026-06-13 07:28:10",
+      "album": {
+        "name": "Fool For Your Loving",
+        "url": "https://open.spotify.com/album/3nf6hEV110QjHkYK4ZvOon"
+      },
+      "artists": [
+        {
+          "name": "Gary.D.Pearson",
+          "url": "https://open.spotify.com/artist/5pNe5hQpRgMBOG1mLSXxlX"
+        }
+      ],
+      "duration_ms": 271887,
+      "name": "Fool For Your Loving",
+      "url": "https://open.spotify.com/track/2P2syb5wOQfqhzczK3UZtC"
+    },
+    {
+      "added_at": "2026-06-13 08:55:58",
+      "album": {
+        "name": "save your words",
+        "url": "https://open.spotify.com/album/76rsI0ClezjwUCu4kQQIrx"
+      },
+      "artists": [
+        {
+          "name": "michelle gwod",
+          "url": "https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL"
+        }
+      ],
+      "duration_ms": 150671,
+      "name": "save your words",
+      "url": "https://open.spotify.com/track/1wQ2R6aecRThAisPlhXkLx"
+    },
+    {
+      "added_at": "2026-06-13 09:04:53",
+      "album": {
+        "name": "Stop Bugging Me",
+        "url": "https://open.spotify.com/album/1cvkR5d7O9u6exG68IQjwi"
+      },
+      "artists": [
+        {
+          "name": "A&A Music",
+          "url": "https://open.spotify.com/artist/44JpteVluI2YY0TpZw3E2a"
+        }
+      ],
+      "duration_ms": 174445,
+      "name": "Stop Bugging Me",
+      "url": "https://open.spotify.com/track/6vB5GtdaVnKxI9oKLSJp1I"
     }
   ],
   "unique_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",

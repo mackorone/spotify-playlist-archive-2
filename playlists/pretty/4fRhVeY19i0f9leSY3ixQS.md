@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added regularly :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,384 likes - 205 songs - 11 hr 13 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,385 likes - 213 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,5 +213,13 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 203 | [Petrified](https://open.spotify.com/track/47xGJKUnfW3k7xawmS5BME) | [Tommy Red](https://open.spotify.com/artist/1TCvvfxmq6fFGLDCCPqzdv), [suisside](https://open.spotify.com/artist/79oXnSqjYH5WW260RhSHzZ) | [Petrified](https://open.spotify.com/album/4HY8V4x2MMV7ONhXrSpI59) | 2:56 |
 | 204 | [Unique](https://open.spotify.com/track/0XpAW2Oh7Kn2pvz00S60gX) | [Tomigotti](https://open.spotify.com/artist/3YFm69NGpg7uQg3nmLYLy9) | [Unique](https://open.spotify.com/album/1A5F32H6jV5I9fsP0loXkt) | 2:50 |
 | 205 | [nomad](https://open.spotify.com/track/3qZpVtOkVmO5vTcAPhpf2l) | [Noorag](https://open.spotify.com/artist/00pawg55oM8J4PPbekB1IT) | [nomad](https://open.spotify.com/album/6PpcohKzSTc8n3UOOLYbBl) | 2:48 |
+| 206 | [NEVER FADE](https://open.spotify.com/track/08NDdyzO46LeYLeQOCjZfT) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [WHERE THE RIVER FLOWS](https://open.spotify.com/album/4zcmnA4Yzq7HVSoyydBfta) | 4:06 |
+| 207 | [Fuera de Acá \- Versión Acústica](https://open.spotify.com/track/1Sga4VOAMh0rJg7jPz7e8H) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [Mutante](https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj) | 4:01 |
+| 208 | [Razón \(Remastered\)](https://open.spotify.com/track/6Du5DzMpJHDqK6l4iWEv39) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [Después de la Luz \(Remastered\)](https://open.spotify.com/album/2nIkGEVas0sImcN9zdY9n0) | 6:10 |
+| 209 | [Darling Where Have You Been](https://open.spotify.com/track/0JOEKhCY9fmuNukbFHji2u) | [love and lava twins](https://open.spotify.com/artist/6vpruOXwUEtNwvpCfwKZw7) | [Darling Where Have You Been](https://open.spotify.com/album/6acJjn7IRY8yjuWRx6z1JE) | 3:21 |
+| 210 | [\(There's\) Something In The Air](https://open.spotify.com/track/7JeSGqPjKT3zFH1qCyFDT3) | [Cheap Petrol](https://open.spotify.com/artist/12GUVzQKdS6WNQvbZRq100) | [\(There's\) Something In The Air](https://open.spotify.com/album/7znmxL7XixLPylnBnL8PLg) | 3:54 |
+| 211 | [SPEAK TO THE WIND](https://open.spotify.com/track/5Ljwp5uq6ngsIGYfVNFcPV) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [WHERE THE RIVER FLOWS](https://open.spotify.com/album/4zcmnA4Yzq7HVSoyydBfta) | 4:48 |
+| 212 | [Wishful Warfare](https://open.spotify.com/track/5n1POYyik4EtXhvPOY2EMd) | [Final Chapter](https://open.spotify.com/artist/72ZCEpAVnDlPE9JOziYqHC) | [Never Gonna Give It up!](https://open.spotify.com/album/7yeR0xsknpDZ4rSMQ6ndMF) | 1:22 |
+| 213 | [Echoes Inside](https://open.spotify.com/track/31ErHcep5J8c1GhSLXGUxt) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Echoes Inside](https://open.spotify.com/album/1OpvIMXP3B0yahutdyZecO) | 3:17 |
 
-Snapshot ID: `AAAQduMzUitc71bO3csPWkQnn4WRqZMp`
+Snapshot ID: `AAAQfspZt2T/kjnJRTV1xCToLr64F7a5`
