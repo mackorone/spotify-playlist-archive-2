@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: Jahson Paynter
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,496 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,494 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [So Scandalous](https://open.spotify.com/track/0Stuc5s9TH32u5IqQyNokc) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [So Scandalous](https://open.spotify.com/album/7zx3zzLxKuz7YfuZOmFUzB) | 2:16 |
 | 50 | [Shadows of My Trauma](https://open.spotify.com/track/671m9jOM4sxoNoz5K0Odr6) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [Shadows of My Trauma](https://open.spotify.com/album/4FLG5tZ5ZwKE9C05ude5GP) | 3:16 |
 
-Snapshot ID: `AAAAAC0hs+Tje4LmoiymGPDX5QMxncN9`
+Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`

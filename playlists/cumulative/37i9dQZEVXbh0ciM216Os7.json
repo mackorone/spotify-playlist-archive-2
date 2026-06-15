@@ -14680,7 +14680,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 197679,
       "name": "Dance",
       "url": "https://open.spotify.com/track/2xEeMjuNsSp6YUcsDxNufC"
@@ -50276,6 +50276,36 @@
       "duration_ms": 419640,
       "name": "Papa Was A Rollin' Stone - Single Version",
       "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
+    },
+    {
+      "album": {
+        "name": "Dreamscope II",
+        "url": "https://open.spotify.com/album/1DYuZNEl8qXQvLktRcsBrK"
+      },
+      "artists": [
+        {
+          "name": "TJ DA ZULU",
+          "url": "https://open.spotify.com/artist/1ZwzT8SFz0FCQqyiuVlhjd"
+        },
+        {
+          "name": "MR LAGO",
+          "url": "https://open.spotify.com/artist/16D2Mqgaxr3RRmuu7C7jkF"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "name": "K WAMAHITS",
+          "url": "https://open.spotify.com/artist/5KFKej5pBWDmpBX8Vmpm7j"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224519,
+      "name": "Paper Lottery",
+      "url": "https://open.spotify.com/track/1nonZX8A9MKK1SU6OBIJXW"
     },
     {
       "album": {

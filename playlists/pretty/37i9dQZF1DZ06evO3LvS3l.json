@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28436,
+  "num_followers": 28445,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAABOwJNFu2TnldbuUsjOZQAW",
+  "snapshot_id": "aiydgAAAAAC2/qoUPBSzX4Le8C6xm9FT",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "Whiskey & Women",
-      "url": "https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unchained",
         "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
       },
@@ -283,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son of the South",
-        "url": "https://open.spotify.com/album/3PcXCSl8cdoDLspkdG0oKm"
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
       },
       "artists": [
         {
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Son of the South",
-      "url": "https://open.spotify.com/track/3T1wesBkJDrO3atfJJg0gk"
+      "duration_ms": 154360,
+      "name": "Whiskey & Women",
+      "url": "https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii"
     },
     {
       "added_at": null,
@@ -315,6 +299,22 @@
       "duration_ms": 168080,
       "name": "Don't Cry Darlin' (Recitation by George Jones)",
       "url": "https://open.spotify.com/track/5sTNElZHQWHWkz3WuIX3XA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son of the South",
+        "url": "https://open.spotify.com/album/3PcXCSl8cdoDLspkdG0oKm"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Son of the South",
+      "url": "https://open.spotify.com/track/3T1wesBkJDrO3atfJJg0gk"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invictus (Means) Unconquered",
-        "url": "https://open.spotify.com/album/7eR0fHwS4IHEBpos8ESiZb"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "London Homesick Blues",
-      "url": "https://open.spotify.com/track/7DTNuvqJQPDNHKv9skEpIk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Emotions",
         "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 152906,
       "name": "Mississippi River Queen",
       "url": "https://open.spotify.com/track/5fHhVrVYg4TloeZoVf6wJX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invictus (Means) Unconquered",
+        "url": "https://open.spotify.com/album/7eR0fHwS4IHEBpos8ESiZb"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "London Homesick Blues",
+      "url": "https://open.spotify.com/track/7DTNuvqJQPDNHKv9skEpIk"
     },
     {
       "added_at": null,

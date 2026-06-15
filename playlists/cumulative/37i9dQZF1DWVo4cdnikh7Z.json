@@ -5101,6 +5101,28 @@
     },
     {
       "album": {
+        "name": "Aravindh",
+        "url": "https://open.spotify.com/album/5MMZDHwfBtTiaNr3JD5lxQ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Aravindh",
+      "url": "https://open.spotify.com/track/1G2h7mB8UJi8qG0TbVEjGP"
+    },
+    {
+      "album": {
         "name": "Archana (From \"Aho Vikramaarka\") (Tamil)",
         "url": "https://open.spotify.com/album/3jlPD6C0ta9nbL5mTxS6Ed"
       },
@@ -14333,6 +14355,32 @@
     },
     {
       "album": {
+        "name": "First Vibe",
+        "url": "https://open.spotify.com/album/4EG64vjf5n6zQG1C3HuuCH"
+      },
+      "artists": [
+        {
+          "name": "Mathesh",
+          "url": "https://open.spotify.com/artist/7hJtNjalMpL6lcLCQnKRGc"
+        },
+        {
+          "name": "Varsha Baskar",
+          "url": "https://open.spotify.com/artist/4OPgvsG0jW3c4R2hIldZii"
+        },
+        {
+          "name": "Santhosh Arumugam",
+          "url": "https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "First Vibe",
+      "url": "https://open.spotify.com/track/1HcyB26LTKPBOU35vFuLm1"
+    },
+    {
+      "album": {
         "name": "Euphoria (Tamil)",
         "url": "https://open.spotify.com/album/6fDNz7p8vNyOSoNWyQCdNy"
       },
@@ -15926,7 +15974,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 227647,
       "name": "Hey Alangaari",
       "url": "https://open.spotify.com/track/4IyVy5AyBz7XVgqnKdOzZJ"
@@ -17058,7 +17106,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 266666,
       "name": "Idhayam Thudikiradhu (From \"Breakfast - Tamil\")",
       "url": "https://open.spotify.com/track/0hAiIkIyDjVGW4LnbKZ1If"
@@ -17856,6 +17904,28 @@
       "duration_ms": 210000,
       "name": "Inum Konjam Pakathula Varen (From \"Keluthi\")",
       "url": "https://open.spotify.com/track/5vFPOllPMQbu1Rc85vmggk"
+    },
+    {
+      "album": {
+        "name": "IOIO",
+        "url": "https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30"
+      },
+      "artists": [
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169117,
+      "name": "IOIO",
+      "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
     },
     {
       "album": {
@@ -33010,7 +33080,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 247000,
       "name": "Naan Veezhven Endru Ninaithaiyo (From \"Sattendru Maarudhu Vaanilai\")",
       "url": "https://open.spotify.com/track/4tsbgbm8sTlbuSM5Bk1bgt"
@@ -36434,7 +36504,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 192396,
       "name": "Oh My Faahh!",
       "url": "https://open.spotify.com/track/5ulozItll1NPmEcxCfJQm6"

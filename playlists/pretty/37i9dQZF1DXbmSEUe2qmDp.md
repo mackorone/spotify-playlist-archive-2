@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,053 likes - 83 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,063 likes - 83 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

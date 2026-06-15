@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Bicycles & Tricycles",
+        "url": "https://open.spotify.com/album/2L05MlMdQmCWFLmaa5tlAg"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280386,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/0oixK8PZxKG67QJ1dNxJnW"
+    },
+    {
+      "album": {
         "name": "Orboretum: The Orb Collection",
         "url": "https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ"
       },
@@ -566,6 +584,28 @@
     {
       "album": {
         "name": "Presents the Orbserver in the Star House",
+        "url": "https://open.spotify.com/album/4CBoRrlyjoHu2yn9EpTVpb"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251057,
+      "name": "Ball of Fire",
+      "url": "https://open.spotify.com/track/0LEHV71Ri18k9dsmRslyTI"
+    },
+    {
+      "album": {
+        "name": "Presents the Orbserver in the Star House",
         "url": "https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm"
       },
       "artists": [
@@ -580,7 +620,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 251057,
       "name": "Ball of Fire",
       "url": "https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9"
@@ -812,10 +852,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 172720,
       "name": "Daze - Missing & Messed up Mix",
       "url": "https://open.spotify.com/track/4Y45c3UrXw6tXuiJYHw9JQ"
+    },
+    {
+      "album": {
+        "name": "Abolition of the Royal Familia (Deluxe)",
+        "url": "https://open.spotify.com/album/7lXAPbAKOAG8S19lNB3cfS"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172720,
+      "name": "Daze - Missing & Messed up Mix",
+      "url": "https://open.spotify.com/track/7r5u3EQDDXTjV6NTIBJmRk"
     },
     {
       "album": {
@@ -990,6 +1048,28 @@
     {
       "album": {
         "name": "No Sounds Are Out of Bounds (Deluxe)",
+        "url": "https://open.spotify.com/album/14ILyM9wVFY78CneucvUV7"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "Jah Wobble",
+          "url": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210042,
+      "name": "Doughnuts Forever",
+      "url": "https://open.spotify.com/track/3J6oItm2pujyoJgtYWo3H6"
+    },
+    {
+      "album": {
+        "name": "No Sounds Are Out of Bounds (Deluxe)",
         "url": "https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL"
       },
       "artists": [
@@ -1004,7 +1084,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 210042,
       "name": "Doughnuts Forever",
       "url": "https://open.spotify.com/track/7hZ86JXDN4N2QO3XkhVEwR"
@@ -1298,10 +1378,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 344795,
       "name": "Golden Clouds",
       "url": "https://open.spotify.com/track/1O79Bxc3uJCyIZCY3VZEMS"
+    },
+    {
+      "album": {
+        "name": "Presents the Orbserver in the Star House",
+        "url": "https://open.spotify.com/album/4CBoRrlyjoHu2yn9EpTVpb"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344796,
+      "name": "Golden Clouds",
+      "url": "https://open.spotify.com/track/3aienL4yqdSFnJsVOY5mGL"
     },
     {
       "album": {
@@ -1816,7 +1918,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 108766,
       "name": "Mermaids",
       "url": "https://open.spotify.com/track/4JsiRi34NYuzrxIUtDSCJu"

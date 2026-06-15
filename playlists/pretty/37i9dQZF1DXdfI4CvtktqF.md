@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยฮิตที่นี่เลย ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,733 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,741 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
-| 2 | [ลามปาม \(circus\)](https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลามปาม \(circus\)](https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t) | 4:56 |
-| 3 | [I Just Wanna Know](https://open.spotify.com/track/2a78JDp7YVCyEydtRiHOn7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:43 |
-| 4 | [Yours Ever \(feat\. Q Flure\)](https://open.spotify.com/track/5W2IYA5Su42XiI90GDdscj) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:19 |
-| 5 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
-| 6 | [เหตุผล \(feat\. whateve\)](https://open.spotify.com/track/71GcMzDsHM7HxbAnLxBKNH) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [whateve](https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG) | [เหตุผล \(feat\. whateve\)](https://open.spotify.com/album/6mdtFQaLaLklgBbQI4A8ia) | 4:09 |
-| 7 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/1wHfn9mdLtPXL2IQhpiyIf) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/album/1ZDKlvjyDjadVmBnPL86Cc) | 4:08 |
-| 8 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
-| 9 | [Neon](https://open.spotify.com/track/4vRmticnTF2Vwb1ICXX7NG) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [Neon](https://open.spotify.com/album/1wYWO5DHO3FeiQT5obsg1M) | 3:47 |
-| 10 | [แสนวิเศษ \(Gifted\) \(feat\. BLVCKHEART\)](https://open.spotify.com/track/3Xm4DmLWJ2M8btMdcW1mIJ) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [แสนวิเศษ \(Gifted\) \(feat\. BLVCKHEART\)](https://open.spotify.com/album/3b6QBlJNSCAf3MR5jEX9Wj) | 3:46 |
-| 11 | [ใครจะรู้ \(Silent Blue\)](https://open.spotify.com/track/30rV6UdNAKRLu6he7Qw7oS) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Grow With The Flow](https://open.spotify.com/album/3l0MMLc8ilY62qt7gh3y4I) | 4:18 |
+| 1 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
+| 2 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
+| 3 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 |
+| 4 | [จำไว้](https://open.spotify.com/track/4UbYIYA0YmoSfkD7o9fbXJ) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [จำไว้](https://open.spotify.com/album/71lNvoJeFSc0bAKf5GhNrx) | 4:01 |
+| 5 | [ลามปาม \(circus\)](https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลามปาม \(circus\)](https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t) | 4:56 |
+| 6 | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/track/6XARn0Eq1mOQZmuAArPNA6) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ), [KHEM FREEHAND](https://open.spotify.com/artist/5QkPxDQTObq1U2uSfpwhhN) | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/album/54cxKQb85yrv96YnG6G8wI) | 4:08 |
+| 7 | [Yours Ever \(feat\. Q Flure\)](https://open.spotify.com/track/5W2IYA5Su42XiI90GDdscj) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:19 |
+| 8 | [เดิมเดิม \(Once\)](https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เดิมเดิม \(Once\)](https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ) | 3:59 |
+| 9 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
+| 10 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/1wHfn9mdLtPXL2IQhpiyIf) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/album/1ZDKlvjyDjadVmBnPL86Cc) | 4:08 |
+| 11 | [Neon](https://open.spotify.com/track/4vRmticnTF2Vwb1ICXX7NG) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [Neon](https://open.spotify.com/album/1wYWO5DHO3FeiQT5obsg1M) | 3:47 |
 | 12 | [Benz ดำ](https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 2:50 |
 | 13 | [ไม่ให้ไป](https://open.spotify.com/track/3qT2Jn6s5k5dluHNqThi1X) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป](https://open.spotify.com/album/28dy93d5fLZFNkBKpuhtpQ) | 4:00 |
 | 14 | [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 | 49 | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/album/6USjhvo2kxlFA9cyEBgw6m) | 4:44 |
 | 50 | [เริ่มใหม่](https://open.spotify.com/track/11qQIIxJ8BqQOzZ0jAmftA) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เริ่มใหม่](https://open.spotify.com/album/5NAkGig4ajWDazmU0sA0Xn) | 3:21 |
 
-Snapshot ID: `AAAAABJNH4WsxkvsKLfNNtTcLBtcmQus`
+Snapshot ID: `AAAAAG6qV5dzaKvV7bYVU0QFfAYlWWvA`

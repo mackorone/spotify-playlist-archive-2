@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Celebrating all the songs with over a Billion streams on Spotify\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,900 likes - 1,300 songs - 3 day 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,347 likes - 1,300 songs - 3 day 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

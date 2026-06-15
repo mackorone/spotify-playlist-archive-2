@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano, BTS, Ricky Martin com Luan Santana, Olivia Rodrigo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,295,747 likes - 93 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,526 likes - 93 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fama de Louco \- Ao Vivo](https://open.spotify.com/track/6rhITqSztJmJ9FuIcwX7qO) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Vocês & Deus, Vol 1 \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/1PEjlvSkkE6oX2dwOEgPRi) | 3:01 |
 | 2 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 |
 | 3 | [Te Trouxe Rosas](https://open.spotify.com/track/0xb3ArRQhUZQGFNjGN1hFc) | [Gabriel Sales](https://open.spotify.com/artist/6tcNRB3rCmYF41qZo5UXkL), [Jeninho](https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os) | [Te Trouxe Rosas](https://open.spotify.com/album/61du5w19GrGSPa1fc5ef3t) | 3:00 |
-| 4 | [Acima dos Fatos](https://open.spotify.com/track/1fUKgESTqHTExhYfrEZNuT) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Acima dos Fatos](https://open.spotify.com/album/1YtmYktU690FHiz6nrfWKa) | 3:14 |
+| 4 | [Acima dos Fatos](https://open.spotify.com/track/1fUKgESTqHTExhYfrEZNuT) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Acima dos Fatos](https://open.spotify.com/album/1YtmYktU690FHiz6nrfWKa) | 3:16 |
 | 5 | [GEMINI SEASON](https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [GEMINI SEASON](https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc) | 1:46 |
 | 6 | [Jogo da Copa](https://open.spotify.com/track/595MWNcImM7ndqAss3BVlu) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [dj gui de novo](https://open.spotify.com/artist/5SLTDEkquT3RfEPallrzxX), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Jogo da Copa](https://open.spotify.com/album/5pW3fLh4DF7J90RSkkn8PP) | 2:29 |
 | 7 | [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 |

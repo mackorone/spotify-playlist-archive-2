@@ -6071,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "Fireworks Fall",
+        "url": "https://open.spotify.com/album/1a2GSekjvduf484J6N71yx"
+      },
+      "artists": [
+        {
+          "name": "Cormac O Caoimh",
+          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Fireworks Fall",
+      "url": "https://open.spotify.com/track/2LmF5dQhaxFNnTpnFOn8z2"
+    },
+    {
+      "album": {
         "name": "First Kiss",
         "url": "https://open.spotify.com/album/3sAIi79IKg3rmjV4RKtUL0"
       },

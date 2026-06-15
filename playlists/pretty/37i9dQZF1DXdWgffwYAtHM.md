@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5WlYDuAy95HR70mLGMoH4X">Café Frio Show com Victor Vaz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,043 likes - 20 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,044 likes - 20 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

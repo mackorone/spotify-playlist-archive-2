@@ -29207,6 +29207,28 @@
     },
     {
       "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/4LF7YcvBP2hyHQ1lO3LZle"
+      },
+      "artists": [
+        {
+          "name": "L.S. Diezel",
+          "url": "https://open.spotify.com/artist/1yTPzYZA58jZqHFkbM2p8R"
+        },
+        {
+          "name": "Launch DAT",
+          "url": "https://open.spotify.com/artist/12UITYabVAssnAyJiiAbSj"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437500,
+      "name": "Poor Man's Glory (2026 Vinyl Version)",
+      "url": "https://open.spotify.com/track/6b9H59yXpk7rL0N7DpsJ6P"
+    },
+    {
+      "album": {
         "name": "Transici\u00f3n",
         "url": "https://open.spotify.com/album/7H8t3H9Az4FLBQ9e7EwGC4"
       },

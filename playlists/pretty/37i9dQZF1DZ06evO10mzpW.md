@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10mzpW.md) - [plain]
 | 16 | [Phantom Dancer](https://open.spotify.com/track/1kqewyGYEj7eUroTS1mUIm) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 4:17 |
 | 17 | [The Unveiling](https://open.spotify.com/track/6uY4jTpE2hjhSwE2imW2A1) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 5:09 |
 | 18 | [Small Reptiles on the Forest Floor](https://open.spotify.com/track/6z0Jsf6rbNz92gvoXZrNPb) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 5:36 |
-| 19 | [Tenement Stairwell](https://open.spotify.com/track/5uNPTCRQdNOP1lAKsoRXQo) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 5:23 |
-| 20 | [Symphonic Industry](https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 6:39 |
+| 19 | [Symphonic Industry](https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 6:39 |
+| 20 | [Blood Thirst](https://open.spotify.com/track/6j5m9nfZE0s6Xr2rYZF1vW) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 7:27 |
 | 21 | [Energies](https://open.spotify.com/track/5ffQVvHxrfeRyYA58Xq4yq) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 5:58 |
 | 22 | [I Still Hope](https://open.spotify.com/track/2zOwNbJfFqXG6TqOmMLAdv) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 2:28 |
-| 23 | [Blood Thirst](https://open.spotify.com/track/6j5m9nfZE0s6Xr2rYZF1vW) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 7:27 |
-| 24 | [Freebasing](https://open.spotify.com/track/2rOxqqDdR7YrJ9s5RXPQhY) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 9:34 |
+| 23 | [Freebasing](https://open.spotify.com/track/2rOxqqDdR7YrJ9s5RXPQhY) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 9:34 |
+| 24 | [Tenement Stairwell](https://open.spotify.com/track/5uNPTCRQdNOP1lAKsoRXQo) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 5:23 |
 | 25 | [Blood Celebrants](https://open.spotify.com/track/7AyQv7X8dtIM8fJyzUIGNl) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 7:30 |
 
-Snapshot ID: `aitMAAAAAACdKbAkvUbFY0TAWP/BDG2D`
+Snapshot ID: `aiydgAAAAAAJuGbk/lA+bpum86tkXkcu`

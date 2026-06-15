@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,074 likes - 85 songs - 5 hr 11 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,074 likes - 86 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 83 | [Pocket Friend](https://open.spotify.com/track/1o3vJA4CscYdUMNALRorHX) | [The Wild Life](https://open.spotify.com/artist/6v89r44ZBn2egA98VSHrTD) | [Pocket Friend](https://open.spotify.com/album/4eJU1HUt931tQ3dlte1ENP) | 3:21 |
 | 84 | [Hey Woman](https://open.spotify.com/track/6wdZHEXuu5JWMyydPlMeqt) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Fixed Up \(Remastered\)](https://open.spotify.com/album/2Wwy5fnDfPGoXhkKmBcVFM) | 2:57 |
 | 85 | [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 |
+| 86 | [Meet You There](https://open.spotify.com/track/15tiZK3Wk9yB5mIKqPSZLY) | [Eve Indigo](https://open.spotify.com/artist/7EY2PX3OuDZUpNiaPkufKC) | [Meet You There](https://open.spotify.com/album/6YY5GY3agv7G7LwMtLUDrM) | 5:29 |
 
-Snapshot ID: `AAAGermySySRxIvQ50fkXoW5T6ldvC2n`
+Snapshot ID: `AAAGe7AmkxODtWQD9x0UFQB+yBSOuFL0`

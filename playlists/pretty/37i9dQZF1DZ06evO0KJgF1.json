@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 50973,
+  "num_followers": 50982,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAAC7LBdO8mzsKCQP12zpi3cZ",
+  "snapshot_id": "aiydgAAAAAD9hSvl96TGuBsFT92/7DhP",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Join Hands",
-        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
+        "name": "The Rapture (Remastered / Expanded)",
+        "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 154066,
-      "name": "Love In A Void",
-      "url": "https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf"
+      "duration_ms": 197946,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/0JoshvvOkRzlbbrrveImUE"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rapture (Remastered / Expanded)",
-        "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
+        "name": "Join Hands",
+        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 197946,
-      "name": "Stargazer",
-      "url": "https://open.spotify.com/track/0JoshvvOkRzlbbrrveImUE"
+      "duration_ms": 154066,
+      "name": "Love In A Void",
+      "url": "https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf"
     },
     {
       "added_at": null,

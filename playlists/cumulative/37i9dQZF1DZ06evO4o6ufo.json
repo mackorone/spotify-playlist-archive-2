@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "Bienvenidos a Durango (En Vivo)",
+        "url": "https://open.spotify.com/album/3ESxQqYpPl6X1lppH2W6qS"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163084,
+      "name": "De Ah\u00ed Pal Real (En Vivo)",
+      "url": "https://open.spotify.com/track/0S871eJczQPGefjUryFPcD"
+    },
+    {
+      "album": {
         "name": "De la Estancia a Cosala",
         "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
       },

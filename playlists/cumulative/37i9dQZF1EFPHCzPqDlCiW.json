@@ -3937,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Weight On Me",
+        "url": "https://open.spotify.com/album/4Se8RHq2O13HbDeGeSxPVM"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148695,
+      "name": "Weight On Me",
+      "url": "https://open.spotify.com/track/45duzYferoDQWzJ51oDoHh"
+    },
+    {
+      "album": {
         "name": "Goldrush",
         "url": "https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm"
       },

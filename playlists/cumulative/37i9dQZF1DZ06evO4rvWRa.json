@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 145548,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/3jwmCZW0KLkPF6ioxUWBCS"
@@ -2520,6 +2520,28 @@
       "duration_ms": 193787,
       "name": "The Spectre",
       "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
+    },
+    {
+      "album": {
+        "name": "The Sting Within Me",
+        "url": "https://open.spotify.com/album/1ipKnIuLzj5nVhRxgBVeZV"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "DREAMDNVR",
+          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152328,
+      "name": "The Sting Within Me",
+      "url": "https://open.spotify.com/track/1ORAf04NWqfo4yZv07yJLg"
     },
     {
       "album": {

@@ -7517,6 +7517,28 @@
     },
     {
       "album": {
+        "name": "Jaaniye",
+        "url": "https://open.spotify.com/album/4G7eE0scFLM09iJpVMLwZv"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "Jaaniye",
+      "url": "https://open.spotify.com/track/711yZ5MrFLgZHJ47lyAAYV"
+    },
+    {
+      "album": {
         "name": "Jaate Hue Lamhon (From \"BORDER 2\")",
         "url": "https://open.spotify.com/album/4CVNevhXz2vS2g8sA4iLl9"
       },
@@ -9758,7 +9780,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 299132,
       "name": "Kya Kamaal Hai (From \"Main Vaapas Aaunga\")",
       "url": "https://open.spotify.com/track/43sFADxRRZQqutFgfzI6cx"
@@ -17787,6 +17809,36 @@
     },
     {
       "album": {
+        "name": "Tu Bewafa",
+        "url": "https://open.spotify.com/album/4ft1Rnjuq8Zq3LtdPUoC4Z"
+      },
+      "artists": [
+        {
+          "name": "Krish Mondal",
+          "url": "https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt"
+        },
+        {
+          "name": "Kishore Mondal",
+          "url": "https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX"
+        },
+        {
+          "name": "A.M. Turaz",
+          "url": "https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9"
+        },
+        {
+          "name": "Shafaat Ali",
+          "url": "https://open.spotify.com/artist/0yo4hq252dnqbVxVU7RGrT"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195728,
+      "name": "Tu Bewafa",
+      "url": "https://open.spotify.com/track/0prEgNY46jYlQRY1pZdevO"
+    },
+    {
+      "album": {
         "name": "Tu Chhod Gyi",
         "url": "https://open.spotify.com/album/0FPBQxwsjdkFBX1SaxHGOO"
       },
@@ -19116,7 +19168,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 227178,
       "name": "Ya Tum",
       "url": "https://open.spotify.com/track/0afUzDQQ4QavsET1wxwQyc"

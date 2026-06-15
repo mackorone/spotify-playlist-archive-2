@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Damini Bhatla, Manisha Eerabathini, Pho",
-  "num_followers": 44282,
+  "num_followers": 44289,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADbwja9BXnAeXil84PQh6eg5QWAX",
+  "snapshot_id": "AAAAAI4NxwR4DpzldpP3f8uHqQWSSL/X",
   "tracks": [
     {
       "added_at": "2026-06-10 06:10:52",
@@ -31,6 +31,26 @@
       "duration_ms": 204000,
       "name": "Ramba Urvasi Menaka",
       "url": "https://open.spotify.com/track/63D9vDB9RFoteyS2AgM0Jw"
+    },
+    {
+      "added_at": "2026-06-14 04:40:13",
+      "album": {
+        "name": "Aravindh (Telugu)",
+        "url": "https://open.spotify.com/album/6S74tGtUi00gmHXS8UuC69"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Srinivasa Mouli",
+          "url": "https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Aravindh (Telugu)",
+      "url": "https://open.spotify.com/track/47EyHixke4M8597pX7aBWi"
     },
     {
       "added_at": "2026-06-12 00:10:05",
@@ -1731,22 +1751,6 @@
       "duration_ms": 262857,
       "name": "Nee Valle..",
       "url": "https://open.spotify.com/track/4Q2LSzEsSRsa6vig93MFaI"
-    },
-    {
-      "added_at": "2025-12-02 05:51:23",
-      "album": {
-        "name": "Em Tech Ra B Tech",
-        "url": "https://open.spotify.com/album/7aR1rjE3DjkdAgd34MPj6z"
-      },
-      "artists": [
-        {
-          "name": "Prem",
-          "url": "https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l"
-        }
-      ],
-      "duration_ms": 233420,
-      "name": "Em Tech Ra B Tech",
-      "url": "https://open.spotify.com/track/6SA8q9gHqnO0352sPHz8cP"
     },
     {
       "added_at": "2026-03-06 11:18:07",

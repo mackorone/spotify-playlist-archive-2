@@ -4,7 +4,7 @@
 
 > 
 
-8,650 songs - 22 day 0 hr 54 min
+8,651 songs - 22 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5732,6 +5732,7 @@
 | [Sierra Leone](https://open.spotify.com/track/1HwbgJAU9PZ7YbzKgVgoIF) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 2:28 | 2025-01-03 |  |
 | [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:56 | 2026-03-21 |  |
 | [Sign](https://open.spotify.com/track/1hi0P1Y2he1p09xnUccuAN) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Microcosm](https://open.spotify.com/album/2Ab5lzoUer8JKtP0ucUU8L) | 3:56 | 2026-02-20 |  |
+| [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2026-06-14 |  |
 | [Signal of Abydos](https://open.spotify.com/track/0yOXRZOUNOFUsg9M27H86b) | [Nor](https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p) | [Blue Archive 1st Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/1SSgN0kVcWjFGkqMq8zdvz) | 1:53 | 2025-03-08 |  |
 | [Signs Of Love](https://open.spotify.com/track/2GtQU3R2zEUqDyapXdBENM) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) | 3:00 | 2025-04-20 | 2025-05-05 |
 | [Signs Of Love](https://open.spotify.com/track/32NyN0Tby1YpKObfd8nrzN) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/6X3WjCJIzOzTAyTSjZ65op) | 3:00 | 2025-01-31 | 2025-05-05 |

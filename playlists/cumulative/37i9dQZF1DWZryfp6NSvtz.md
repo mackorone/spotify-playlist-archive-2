@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Interpol
 
-10,908 songs - 25 day 21 hr 34 min
+10,909 songs - 25 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2006,7 +2006,7 @@
 | [Crack In The Glass](https://open.spotify.com/track/1QGUDtsMHFg97XK533cotm) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Crack In The Glass](https://open.spotify.com/album/6SD6bl4EOazDhZfGgLO5Mx) | 2:57 | 2023-03-17 | 2023-03-25 |
 | [Cradle The Pain](https://open.spotify.com/track/04K5qfFqfxJF5yh3xaUYZS) | [Morgan Nagler](https://open.spotify.com/artist/6mT5D1CUrWTMXngtqazglr) | [Cradle The Pain](https://open.spotify.com/album/7vpQiPMi8SmOEGwEjBCP4C) | 4:08 | 2025-01-10 | 2025-01-18 |
 | [crash](https://open.spotify.com/track/2eGGf6bIyhZPd9fPuE5kMb) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [crash](https://open.spotify.com/album/4zhau6qTOQkCzyEwzaccNv) | 2:34 | 2026-03-06 | 2026-03-21 |
-| [Crash](https://open.spotify.com/track/6VDWS96opUxod7l4qgzWPv) | [Girl Cologne](https://open.spotify.com/artist/1jcxHWLTbQbg7mG50dJhvA) | [Crash](https://open.spotify.com/album/5dB73hWXKNcybPL52hxDA1) | 3:17 | 2026-06-05 |  |
+| [Crash](https://open.spotify.com/track/6VDWS96opUxod7l4qgzWPv) | [Girl Cologne](https://open.spotify.com/artist/1jcxHWLTbQbg7mG50dJhvA) | [Crash](https://open.spotify.com/album/5dB73hWXKNcybPL52hxDA1) | 3:17 | 2026-06-05 | 2026-06-15 |
 | [Crash](https://open.spotify.com/track/4Wz4y4CsKURsGI9kJRTDDn) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Crash](https://open.spotify.com/album/2hiystlrYkGPmBhah4WDsd) | 3:47 | 2025-07-11 | 2025-07-26 |
 | [Crash](https://open.spotify.com/track/3jV1HUte1s6ZGxTDbYK9O2) | [We Are the Catalyst](https://open.spotify.com/artist/06q1JEvxIDhmuBnDj0V6qw) | [Crash](https://open.spotify.com/album/4F4jrJtim0izdVNW98RFMi) | 3:34 | 2025-04-04 | 2025-04-12 |
 | [CRASH COURSE DUMMY](https://open.spotify.com/track/33gjrrapm7VH9wL4bhIQ23) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [CRASH COURSE DUMMY](https://open.spotify.com/album/4ubZWSy942liL4mNyLvbyp) | 3:06 | 2026-05-22 | 2026-06-06 |
@@ -4862,6 +4862,7 @@
 | [In Your Eyes](https://open.spotify.com/track/1uWkHb5H1Kdogi6tvuvGGC) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [In Your Eyes](https://open.spotify.com/album/0NIwJS93DCIpjtwFAkNTrk) | 3:05 | 2022-12-09 | 2022-12-17 |
 | [In Your Head](https://open.spotify.com/track/1ib6xwfqPhHZnxZlinxiyn) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [In Your Head](https://open.spotify.com/album/64DKyYtO5tU7MCxJOgJQNv) | 2:28 | 2025-01-10 | 2025-01-18 |
 | [In Your Name](https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [In Your Name](https://open.spotify.com/album/5z3UBg2HZS5tqNyzRZ7wAD) | 4:42 | 2026-04-10 | 2026-05-02 |
+| [In Yr Right Hand Reveal Heaven](https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2) | 4:41 | 2026-06-15 |  |
 | [IN\_OUT](https://open.spotify.com/track/7GpVaj9dkF6qj4ncGlI74v) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome b/w IN\_OUT](https://open.spotify.com/album/3SOjx5ALtCLxwMCeBrpZeD) | 3:23 | 2023-08-18 | 2023-08-26 |
 | [Incline \(feat\. Nova Twins, Pink Siifu & Yung Skrrt\)](https://open.spotify.com/track/6QnlhyJkaLpxEslu7sB5el) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Incline \(feat\. Nova Twins, Pink Siifu & Yung Skrrt\)](https://open.spotify.com/album/7772WgBOwdNwxi8PlJnH3Y) | 3:39 | 2025-08-01 | 2025-08-23 |
 | [Incomplete](https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Incomplete](https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu) | 3:36 | 2025-02-14 | 2025-02-22 |

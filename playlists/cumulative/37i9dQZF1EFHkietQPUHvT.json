@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "She's Like Me",
+        "url": "https://open.spotify.com/album/3o0l4GY2j7Jq1ZquMvmUSC"
+      },
+      "artists": [
+        {
+          "name": "Marti Perramon",
+          "url": "https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165692,
+      "name": "She's Like Me",
+      "url": "https://open.spotify.com/track/4wJeuAI2Ed632BdC4rBN1t"
+    },
+    {
+      "album": {
         "name": "Short Ride",
         "url": "https://open.spotify.com/album/5GTjzOsKk8R250oKqgvmEg"
       },

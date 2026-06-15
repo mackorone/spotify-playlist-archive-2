@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sarah Black",
-  "num_followers": 81784,
+  "num_followers": 81798,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACTzp8Kb3GEyfK4b2KfbnV+5m1mG",
+  "snapshot_id": "AAAAANGG53P9J9ivnIYx1EHI5x9Aq4ar",
   "tracks": [
     {
       "added_at": "2026-03-25 09:30:08",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/1GTWzhdIIIugDh4AClJ2ZF"
     },
     {
-      "added_at": "2026-06-10 11:40:12",
-      "album": {
-        "name": "VALAYAL GOLUSU",
-        "url": "https://open.spotify.com/album/0bA1037iLb0YxXi4Ql1EwI"
-      },
-      "artists": [
-        {
-          "name": "Junior Nithya",
-          "url": "https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "VALAYAL GOLUSU",
-      "url": "https://open.spotify.com/track/6zbhIEf4Vi0j6enoeM47KZ"
-    },
-    {
       "added_at": "2026-03-25 09:30:08",
       "album": {
         "name": "Maayam Neeyadi",
@@ -113,6 +97,110 @@
       "url": "https://open.spotify.com/track/6dEDlp5g1WaebGKI3K3IGH"
     },
     {
+      "added_at": "2026-06-14 06:04:55",
+      "album": {
+        "name": "Aravindh",
+        "url": "https://open.spotify.com/album/5MMZDHwfBtTiaNr3JD5lxQ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Aravindh",
+      "url": "https://open.spotify.com/track/1G2h7mB8UJi8qG0TbVEjGP"
+    },
+    {
+      "added_at": "2025-11-18 11:33:46",
+      "album": {
+        "name": "Maara Makka (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
+      },
+      "artists": [
+        {
+          "name": "rudh",
+          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Maara Makka - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
+    },
+    {
+      "added_at": "2026-04-08 11:14:11",
+      "album": {
+        "name": "Raw Tapes 01 (Acoustic)",
+        "url": "https://open.spotify.com/album/4qQWsDwWHyfz46GkKWgah7"
+      },
+      "artists": [
+        {
+          "name": "Kaber Vasuki",
+          "url": "https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb"
+        }
+      ],
+      "duration_ms": 610797,
+      "name": "Frangipani - Acoustic",
+      "url": "https://open.spotify.com/track/38xB1JeSCiElBawdcatCrg"
+    },
+    {
+      "added_at": "2025-10-15 10:53:16",
+      "album": {
+        "name": "Yeno Indru (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/6AUBZzoyT95nF9qWJCxj0P"
+      },
+      "artists": [
+        {
+          "name": "Rakhooo",
+          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
+        },
+        {
+          "name": "Anand Kashinath",
+          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Yeno Indru - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/40xVepzK7qT60Jl3BHjRj7"
+    },
+    {
+      "added_at": "2025-10-25 00:47:45",
+      "album": {
+        "name": "Inayum Paadhaigal",
+        "url": "https://open.spotify.com/album/3Jtm5SG8WAMQjRmh4KIbsO"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Prasanna Suresh",
+          "url": "https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Vinaita Sivakumar",
+          "url": "https://open.spotify.com/artist/0dtzGDwccz8vDDPv57ljRe"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "Inayum Paadhaigal",
+      "url": "https://open.spotify.com/track/5Q9EytmVjm1TFZ3hCfjdD3"
+    },
+    {
       "added_at": "2026-05-06 10:50:13",
       "album": {
         "name": "POCHA (From \"Cheers Music\")",
@@ -133,20 +221,80 @@
       "url": "https://open.spotify.com/track/6T4r1F01eg0jmcal7ulg4j"
     },
     {
-      "added_at": "2026-04-08 11:14:11",
+      "added_at": "2026-06-10 11:40:12",
       "album": {
-        "name": "Raw Tapes 01 (Acoustic)",
-        "url": "https://open.spotify.com/album/4qQWsDwWHyfz46GkKWgah7"
+        "name": "VALAYAL GOLUSU",
+        "url": "https://open.spotify.com/album/0bA1037iLb0YxXi4Ql1EwI"
       },
       "artists": [
         {
-          "name": "Kaber Vasuki",
-          "url": "https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb"
+          "name": "Junior Nithya",
+          "url": "https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3"
         }
       ],
-      "duration_ms": 610797,
-      "name": "Frangipani - Acoustic",
-      "url": "https://open.spotify.com/track/38xB1JeSCiElBawdcatCrg"
+      "duration_ms": 252000,
+      "name": "VALAYAL GOLUSU",
+      "url": "https://open.spotify.com/track/6zbhIEf4Vi0j6enoeM47KZ"
+    },
+    {
+      "added_at": "2026-06-08 12:02:22",
+      "album": {
+        "name": "Neeye Pirai (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/5waJpOUVftiYA3AysbLEpi"
+      },
+      "artists": [
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        },
+        {
+          "name": "Nithya Mammen",
+          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
+        },
+        {
+          "name": "Navin Kannan",
+          "url": "https://open.spotify.com/artist/3wVQcIbAURstU5Yhxc5K8C"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Neeye Pirai (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/79ofmDwd5EY9joMICaxCEc"
+    },
+    {
+      "added_at": "2026-01-30 00:43:24",
+      "album": {
+        "name": "Fancy Store (From \"Atti Culture\")",
+        "url": "https://open.spotify.com/album/61FdiV3mqRtVRAMyEQa94o"
+      },
+      "artists": [
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "Kelithee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        }
+      ],
+      "duration_ms": 197367,
+      "name": "Fancy Store - From \"Atti Culture\"",
+      "url": "https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj"
+    },
+    {
+      "added_at": "2026-03-24 07:29:44",
+      "album": {
+        "name": "Naa Enna Pannen",
+        "url": "https://open.spotify.com/album/2ojKXyUJIjXwsfpWDX93dO"
+      },
+      "artists": [
+        {
+          "name": "Saisharan",
+          "url": "https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3"
+        }
+      ],
+      "duration_ms": 184390,
+      "name": "Naa Enna Pannen",
+      "url": "https://open.spotify.com/track/0X9jO7SPcxJV9t7cGcBKm2"
     },
     {
       "added_at": "2026-05-21 08:14:14",
@@ -173,22 +321,6 @@
       "url": "https://open.spotify.com/track/0S50iZD9akT3iIW1cRr7SC"
     },
     {
-      "added_at": "2025-11-18 11:33:46",
-      "album": {
-        "name": "Maara Makka (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
-      },
-      "artists": [
-        {
-          "name": "rudh",
-          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Maara Makka - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
-    },
-    {
       "added_at": "2026-06-08 12:01:11",
       "album": {
         "name": "Oorvasi",
@@ -211,30 +343,6 @@
       "duration_ms": 237333,
       "name": "Oorvasi",
       "url": "https://open.spotify.com/track/0Rj7HxwijxQEydIca9Jdja"
-    },
-    {
-      "added_at": "2025-10-15 10:53:16",
-      "album": {
-        "name": "Yeno Indru (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/6AUBZzoyT95nF9qWJCxj0P"
-      },
-      "artists": [
-        {
-          "name": "Rakhooo",
-          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
-        },
-        {
-          "name": "Anand Kashinath",
-          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
-        },
-        {
-          "name": "vaisagh",
-          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Yeno Indru - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/40xVepzK7qT60Jl3BHjRj7"
     },
     {
       "added_at": "2026-06-08 11:22:43",
@@ -267,46 +375,6 @@
       "duration_ms": 193381,
       "name": "Nee Enbathey",
       "url": "https://open.spotify.com/track/4XfUN7YvKTxHstqJ9KwLkN"
-    },
-    {
-      "added_at": "2026-03-18 13:36:01",
-      "album": {
-        "name": "Yaen",
-        "url": "https://open.spotify.com/album/6qtKKlVADeAl0QvJEIk5NJ"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        },
-        {
-          "name": "Varsha Gopinath",
-          "url": "https://open.spotify.com/artist/7ayUOUsYhzGOrNtKP0yDUz"
-        },
-        {
-          "name": "NZM",
-          "url": "https://open.spotify.com/artist/6xpJ0F0DpEITHP4HHAunl2"
-        }
-      ],
-      "duration_ms": 230183,
-      "name": "Yaen",
-      "url": "https://open.spotify.com/track/1gqAZ2iYeqyuwuOS3Hnb7T"
-    },
-    {
-      "added_at": "2026-04-10 09:03:26",
-      "album": {
-        "name": "Orey Oru Life",
-        "url": "https://open.spotify.com/album/2dvxyqMjUivdJLnGSK4LCK"
-      },
-      "artists": [
-        {
-          "name": "Anoop Sankar",
-          "url": "https://open.spotify.com/artist/4Ws69yH4Vj4zyN140TCSvQ"
-        }
-      ],
-      "duration_ms": 239144,
-      "name": "Orey Oru Life",
-      "url": "https://open.spotify.com/track/1GPAO3qEDu0hT4W95Pm5vi"
     },
     {
       "added_at": "2026-06-03 21:27:45",
@@ -349,34 +417,6 @@
       "url": "https://open.spotify.com/track/3pOTheMxTE43pjFS41Ks0r"
     },
     {
-      "added_at": "2025-10-25 00:47:45",
-      "album": {
-        "name": "Inayum Paadhaigal",
-        "url": "https://open.spotify.com/album/3Jtm5SG8WAMQjRmh4KIbsO"
-      },
-      "artists": [
-        {
-          "name": "Shravan Sridhar",
-          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
-        },
-        {
-          "name": "Prasanna Suresh",
-          "url": "https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn"
-        },
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        },
-        {
-          "name": "Vinaita Sivakumar",
-          "url": "https://open.spotify.com/artist/0dtzGDwccz8vDDPv57ljRe"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "Inayum Paadhaigal",
-      "url": "https://open.spotify.com/track/5Q9EytmVjm1TFZ3hCfjdD3"
-    },
-    {
       "added_at": "2026-01-23 10:22:14",
       "album": {
         "name": "Raajabhodai",
@@ -417,30 +457,6 @@
       "url": "https://open.spotify.com/track/26U8VKvAYhaA8xUeaZLsXd"
     },
     {
-      "added_at": "2026-06-08 12:02:22",
-      "album": {
-        "name": "Neeye Pirai (From \"Loopd\")",
-        "url": "https://open.spotify.com/album/5waJpOUVftiYA3AysbLEpi"
-      },
-      "artists": [
-        {
-          "name": "Sreejith Edavana",
-          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
-        },
-        {
-          "name": "Nithya Mammen",
-          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
-        },
-        {
-          "name": "Navin Kannan",
-          "url": "https://open.spotify.com/artist/3wVQcIbAURstU5Yhxc5K8C"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Neeye Pirai (From \"Loopd\")",
-      "url": "https://open.spotify.com/track/79ofmDwd5EY9joMICaxCEc"
-    },
-    {
       "added_at": "2026-03-25 16:02:52",
       "album": {
         "name": "Oyaamaley",
@@ -469,26 +485,6 @@
       "url": "https://open.spotify.com/track/2WnpzuKf3aV0oeaIRmkJO4"
     },
     {
-      "added_at": "2026-01-30 00:43:24",
-      "album": {
-        "name": "Fancy Store (From \"Atti Culture\")",
-        "url": "https://open.spotify.com/album/61FdiV3mqRtVRAMyEQa94o"
-      },
-      "artists": [
-        {
-          "name": "ofRO",
-          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
-        },
-        {
-          "name": "Kelithee",
-          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
-        }
-      ],
-      "duration_ms": 197367,
-      "name": "Fancy Store - From \"Atti Culture\"",
-      "url": "https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj"
-    },
-    {
       "added_at": "2026-03-24 07:19:37",
       "album": {
         "name": "ANBIYE",
@@ -511,22 +507,6 @@
       "duration_ms": 182741,
       "name": "ANBIYE",
       "url": "https://open.spotify.com/track/06Po3Xeup2V7wfeBxVit6W"
-    },
-    {
-      "added_at": "2026-03-24 07:29:44",
-      "album": {
-        "name": "Naa Enna Pannen",
-        "url": "https://open.spotify.com/album/2ojKXyUJIjXwsfpWDX93dO"
-      },
-      "artists": [
-        {
-          "name": "Saisharan",
-          "url": "https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3"
-        }
-      ],
-      "duration_ms": 184390,
-      "name": "Naa Enna Pannen",
-      "url": "https://open.spotify.com/track/0X9jO7SPcxJV9t7cGcBKm2"
     },
     {
       "added_at": "2026-02-16 12:18:04",
@@ -773,26 +753,6 @@
       "url": "https://open.spotify.com/track/4EQsSuqZF3gXEEo5w9j8Md"
     },
     {
-      "added_at": "2026-02-03 11:37:24",
-      "album": {
-        "name": "Hey Raasathi",
-        "url": "https://open.spotify.com/album/2zWzaoEJ7ciF4rZ6xFxlpV"
-      },
-      "artists": [
-        {
-          "name": "Samson P Moses",
-          "url": "https://open.spotify.com/artist/0B8HwZtfjJyqF8WiQJRUu1"
-        },
-        {
-          "name": "Sam Vishal",
-          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "Hey Raasathi",
-      "url": "https://open.spotify.com/track/4ASsUoVKSrwVtvPRwbRwJ5"
-    },
-    {
       "added_at": "2026-01-30 00:45:19",
       "album": {
         "name": "Theeradha",
@@ -923,26 +883,6 @@
       "duration_ms": 169401,
       "name": "Mayangiren",
       "url": "https://open.spotify.com/track/1HtOdjgJ6ebtl4YR7Mwmhj"
-    },
-    {
-      "added_at": "2025-10-23 10:54:30",
-      "album": {
-        "name": "Konji Urakura",
-        "url": "https://open.spotify.com/album/1ePEwcbiDbt2xvd35jyE3G"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Konji Urakura",
-      "url": "https://open.spotify.com/track/3imEZcLELNTED8E2wfM8ZY"
     },
     {
       "added_at": "2025-10-10 12:41:47",

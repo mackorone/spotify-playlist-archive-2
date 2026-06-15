@@ -1,4 +1,4 @@
-## Playlists \(9250\)
+## Playlists \(9252\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -5438,6 +5438,7 @@
 - [SAMURAI CHAMPLOO](/playlists/pretty/37i9dQZF1DXbXXaIQy2nTx.md)
 - [SBS INKIGAYO "UNICON" in TOKYO DOME](/playlists/pretty/37i9dQZF1DX3AFH5Qgf8R3.md)
 - [SEHD](/playlists/pretty/37i9dQZF1DXcw5kRGCYhea.md)
+- [SEOUL PARK MUSIC FESTIVAL 2026](/playlists/pretty/37i9dQZF1DXaEMAgmPRDVj.md)
 - [SEOUL SISTAS](/playlists/pretty/37i9dQZF1DX4xTLpzJybMI.md)
 - [SEVENTEEN 8TH FAN MEETING \[SEVENTEEN in CARAT LAND\]](/playlists/pretty/37i9dQZF1DWV4gRwUQrqr8.md)
 - [SEVENTEEN TOUR 'FOLLOW'](/playlists/pretty/37i9dQZF1DXbtA6H6FCiTv.md)
@@ -7246,6 +7247,7 @@
 - [This Is Rush](/playlists/pretty/37i9dQZF1DX9E92APFiTvV.md)
 - [This Is Ryan Adams](/playlists/pretty/37i9dQZF1DZ06evO1nTCV2.md)
 - [This Is Ryan Adams \(2\)](/playlists/pretty/37i9dQZF1DXdXKIWnpyigm.md)
+- [This Is RÜFÜS DU SOL](/playlists/pretty/37i9dQZF1DZ06evO3qQrNm.md)
 - [This Is S\. A\. Cosby](/playlists/pretty/37i9dQZF1DWVVLiNhjKpX4.md)
 - [This Is SEGA SOUND TEAM](/playlists/pretty/37i9dQZF1DX2CtuHQcongT.md)
 - [This Is SEVENTEEN](/playlists/pretty/37i9dQZF1DWXa2ShUct1Fm.md)

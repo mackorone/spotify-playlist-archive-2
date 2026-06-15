@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 24 | [Best 2 Out Of 3](https://open.spotify.com/track/2pdVrTpiKK0sogDr72pNpl) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/6FR9vFhRGgeC3dMIJqtG3T) | 2:56 |
 | 25 | [IDC](https://open.spotify.com/track/2uawWVWUoUr621DlO1cgdi) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:08 |
 | 26 | [First Time](https://open.spotify.com/track/5hCG5TSz3fk2DEexB7TL9T) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Fuck, Marry, Kill](https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG) | 3:37 |
-| 27 | [Pressure](https://open.spotify.com/track/7o84y2UKRFwzdRzBFigtgf) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Pressure](https://open.spotify.com/album/79xuMQfvykmnxgjZui9MYB) | 2:35 |
-| 28 | [Spoil Me](https://open.spotify.com/track/4HLQhOgV31QwnGSJyzY4cV) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:05 |
+| 27 | [Spoil Me](https://open.spotify.com/track/4HLQhOgV31QwnGSJyzY4cV) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:05 |
+| 28 | [Pressure](https://open.spotify.com/track/7o84y2UKRFwzdRzBFigtgf) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Pressure](https://open.spotify.com/album/79xuMQfvykmnxgjZui9MYB) | 2:35 |
 | 29 | [Up 4 Me](https://open.spotify.com/track/0RZR9BBg5ql33lwPuot46e) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Black & Unlimited](https://open.spotify.com/album/6rDL2TKoD4MzyJd7Dn2RFQ) | 2:34 |
 | 30 | [What U Need](https://open.spotify.com/track/57tUD88allOaqJRWEbZKGb) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Chalynn](https://open.spotify.com/artist/1RU4jaXgpfpoHrDEzAJTjx) | [Note To Self](https://open.spotify.com/album/47KtxHjRKa2h8gHdmS10Zs) | 2:43 |
 | 31 | [PROVE IT](https://open.spotify.com/track/7b2eUHjwHx9E7h9CMOtZz6) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [if only u knew](https://open.spotify.com/album/2efASljhtPCOtJKlK0l18Q) | 1:52 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 37 | [Into me](https://open.spotify.com/track/0O3N02GOlmA64FjatIvzIp) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Into me](https://open.spotify.com/album/5qlLxd49w1hdiJrZIsbMu7) | 1:50 |
 | 38 | [all i need](https://open.spotify.com/track/00joKEPIitqe05LXwZcWT2) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [all i need](https://open.spotify.com/album/72NXupoFp47op0ZlhzEMuu) | 2:23 |
 
-Snapshot ID: `AcUJMAAAAAAJzqQniW7FmbhJNWghE7Bc`
+Snapshot ID: `AcUO0AAAAAAcQJbgIbS1NZXylPVkr1gK`

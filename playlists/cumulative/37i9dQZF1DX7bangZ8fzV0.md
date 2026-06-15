@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Demi Lee Moore
+> Net die beste Afrikaanse musiek! Omslag: Dassie en Robbie Wessels
 
-387 songs - 21 hr 22 min
+388 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Diepseeduiker 17](https://open.spotify.com/track/1eIZwzjI4lB2nRoxO50l4q) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Ontdekking](https://open.spotify.com/album/0nUGaOlp2pVhxbTlfKVcLq) | 2:45 | 2025-11-10 | 2025-11-15 |
 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 | 2024-02-29 |  |
 | [Dieselfde Bly](https://open.spotify.com/track/2dfE8HxGJQv8RRSkyeYJ7G) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Dieselfde Bly](https://open.spotify.com/album/3l6zhVLJs90NyQMa7bHMcv) | 3:39 | 2026-02-05 | 2026-03-27 |
-| [Dik Stukke](https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Dik Stukke](https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy) | 3:07 | 2025-05-08 |  |
+| [Dik Stukke](https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Dik Stukke](https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy) | 3:07 | 2025-05-08 | 2026-06-15 |
 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 | 2023-03-09 | 2024-04-27 |
 | [Dis 'n Vibe](https://open.spotify.com/track/5cM47TXZurGyo8c0JcOJ8v) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Dis 'n Vibe](https://open.spotify.com/album/2Mo2TPvo9aehgvcLdyP67Z) | 3:06 | 2024-07-04 | 2024-12-23 |
 | [Dis Raak](https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Dis Raak](https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1) | 3:33 | 2023-12-21 | 2025-11-11 |
@@ -197,6 +197,7 @@
 | [Kom Klop Weer](https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4) | [EDEN](https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu) | [Kom Klop Weer](https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc) | 2:55 | 2025-09-18 |  |
 | [Komeet](https://open.spotify.com/track/69vbzbwI2vPXguduchibPl) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Komeet](https://open.spotify.com/album/06ih95tsmk1zXeVKMLUWo5) | 3:25 | 2024-04-26 | 2024-06-14 |
 | [Kommie Kommie](https://open.spotify.com/track/2grGYpbOv0e7Mig0pHIPIk) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Kommie Kommie](https://open.spotify.com/album/3ngluFUYvZS2pPVa4GaZ01) | 3:06 | 2025-05-29 | 2025-06-01 |
+| [Koop Vir Jou 'n Bakkie](https://open.spotify.com/track/5fYkebDjaaqTk25dg1urAx) | [Dassie](https://open.spotify.com/artist/6nxwYjU9ngwfCXXtJBGZrg), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Koop Vir Jou 'n Bakkie](https://open.spotify.com/album/17RBDJVzry1MbR0ToP32wF) | 3:31 | 2026-06-14 |  |
 | [Koos Wye Voete](https://open.spotify.com/track/0fXZzePp4nG3t34VziBTYh) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Koos Wye Voete](https://open.spotify.com/album/27PyNOkOLh3yaFkz7wugZX) | 3:16 | 2024-10-31 | 2024-12-13 |
 | [Kortbroek](https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Kortbroek](https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH) | 2:56 | 2023-04-27 | 2023-08-25 |
 | [Koue Hande](https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Hier Waar Ek Nou Is](https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg) | 4:30 | 2025-11-10 |  |

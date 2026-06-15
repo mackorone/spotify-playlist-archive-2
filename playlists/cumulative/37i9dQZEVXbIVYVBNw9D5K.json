@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 207678,
       "name": "Bir \u00c7ift G\u00f6z",
       "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
@@ -13990,6 +13990,32 @@
       "duration_ms": 120285,
       "name": "HODR\u0130 MEYDAN",
       "url": "https://open.spotify.com/track/7IVyGl2LapK633TQEhn6rz"
+    },
+    {
+      "album": {
+        "name": "hola hola",
+        "url": "https://open.spotify.com/album/2YGeHMEaSs4cHZdds4HZot"
+      },
+      "artists": [
+        {
+          "name": "ASLAR",
+          "url": "https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA"
+        },
+        {
+          "name": "Lessio",
+          "url": "https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139350,
+      "name": "hola hola",
+      "url": "https://open.spotify.com/track/4va2AJCPRNFuCSm8RaPmVL"
     },
     {
       "album": {
@@ -22682,7 +22708,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 125000,
       "name": "PSS PSS",
       "url": "https://open.spotify.com/track/5CQem4aQAsjP47PGkfxiXt"
@@ -25720,6 +25746,28 @@
       "duration_ms": 116250,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/3931TjhYLiINn49kKUvT1F"
+    },
+    {
+      "album": {
+        "name": "VAKKO",
+        "url": "https://open.spotify.com/album/44YjUTmNcWVQwJWNU2XwaJ"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "Sorma",
+      "url": "https://open.spotify.com/track/6CI1lK5mZBTlYKhfcuFwE1"
     },
     {
       "album": {
@@ -29406,7 +29454,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 258931,
       "name": "Y\u00fcz\u00fck",
       "url": "https://open.spotify.com/track/657FCK2qs1P6DV8caSlWWY"
@@ -30802,7 +30850,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 163448,
       "name": "\u015eEHR\u0130ME BOMBALAR",
       "url": "https://open.spotify.com/track/52e9OPUMOE97on91NrpxnK"

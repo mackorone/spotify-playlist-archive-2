@@ -427,6 +427,28 @@
     },
     {
       "album": {
+        "name": "Aravindh (Telugu)",
+        "url": "https://open.spotify.com/album/6S74tGtUi00gmHXS8UuC69"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Srinivasa Mouli",
+          "url": "https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Aravindh (Telugu)",
+      "url": "https://open.spotify.com/track/47EyHixke4M8597pX7aBWi"
+    },
+    {
+      "album": {
         "name": "Ayyayyo",
         "url": "https://open.spotify.com/album/6rhrJYqtqsse4H6b5gVoTB"
       },
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 233420,
       "name": "Em Tech Ra B Tech",
       "url": "https://open.spotify.com/track/6SA8q9gHqnO0352sPHz8cP"

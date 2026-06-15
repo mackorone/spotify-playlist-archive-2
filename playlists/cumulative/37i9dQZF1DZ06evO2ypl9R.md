@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-83 songs - 7 hr 32 min
+84 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Crazy You](https://open.spotify.com/track/6rnJ7OaRmyLR0UjrRxB0Ul) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Rewind, Vol\. 5](https://open.spotify.com/album/2tojNsBrVyIrbujdDHnJZR) | 3:58 | 2026-03-18 |  |
 | [Cucumber Sweat](https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Cucumber Sweat](https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H) | 3:32 | 2025-06-28 | 2025-12-17 |
 | [Dance Circle](https://open.spotify.com/track/04R8GPa3nH28LIDTVSL7bA) | [Mr\. Flip](https://open.spotify.com/artist/1yODnwYRnOM87gsZKi31Xl), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade Presents Mr\. Flip](https://open.spotify.com/album/3bSqGNEv3hgYePAtBPdukQ) | 5:07 | 2025-10-19 | 2025-11-03 |
-| [Dating Game](https://open.spotify.com/track/4gorL6Fj07RhhB5utjNkB0) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [The Dating Game](https://open.spotify.com/album/4orENSlBaaazYeV7RY7yHI) | 6:06 | 2026-02-15 |  |
+| [Dating Game](https://open.spotify.com/track/4gorL6Fj07RhhB5utjNkB0) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [The Dating Game](https://open.spotify.com/album/4orENSlBaaazYeV7RY7yHI) | 6:06 | 2026-02-15 | 2026-06-15 |
 | [Deep Musique \- Rampa Remix](https://open.spotify.com/track/2TPymcTIlvJKpPWnqAiqxL) | [Pastaboys](https://open.spotify.com/artist/3e2yTUnzQ3S3lITAt0Er1l), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Rebirth 10 Remixed, Vol\. 1](https://open.spotify.com/album/1bfVFEQMolOYkQhPj5uaNE) | 8:00 | 2025-06-28 |  |
 | [Dionne](https://open.spotify.com/track/3SocpdBxeWEwfvXrMrP9is) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dionne / What Gets You High?](https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H) | 4:16 | 2025-06-28 |  |
 | [Don’t Ever Look Back](https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:23 | 2025-06-28 |  |
@@ -71,6 +71,7 @@
 | [Put It On \- Osunlade Club Mix](https://open.spotify.com/track/1SpdnBjTgVNmtjdmAHMR9K) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Ernesto](https://open.spotify.com/artist/1whoHyyDCn7LqwFWdJjyqg) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:52 | 2025-07-02 | 2025-07-06 |
 | [Recovery Music](https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Mike Steva](https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6) | [The Quieter You Become, the More You Hear](https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO) | 4:47 | 2025-06-28 |  |
 | [Reign](https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Han Litz](https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD), [Myles Bigelow](https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:18 | 2025-06-28 | 2026-05-30 |
+| [Reno \- Original Mix](https://open.spotify.com/track/0rlL3d4FppohJlxdQCrxda) | [Marcus Worgull](https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Muwekma EP](https://open.spotify.com/album/5nCsh7xwFw7jyCMe2iQDB3) | 6:50 | 2026-06-15 |  |
 | [Same Thing \- Vocal Mix](https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Maiya James](https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6) | [Same Thing](https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP) | 6:19 | 2025-06-28 |  |
 | [Same, Same \- Borrowed Identity Remix](https://open.spotify.com/track/7yAz5s6E7xuP1vQBcwV0FT) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Borrowed Identity](https://open.spotify.com/artist/1tZG3UAJijrpZXViAfSIWu) | [Same Same Remixes, Pt\. 2](https://open.spotify.com/album/2SKlMCe3sIu4iMX8trqdtm) | 6:08 | 2025-11-17 | 2025-11-25 |
 | [Serenade](https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |

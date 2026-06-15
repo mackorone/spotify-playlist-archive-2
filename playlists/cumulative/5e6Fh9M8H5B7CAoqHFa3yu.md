@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,314 songs - 5 day 16 hr 41 min
+2,315 songs - 5 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1539,6 +1539,7 @@
 | [POLE POLE](https://open.spotify.com/track/1slDFbODGFm4ztv7XlysSg) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [POLE POLE](https://open.spotify.com/album/6ZTsDoZzJxI2LBMuFC5zF7) | 2:42 | 2025-12-26 |  |
 | [Poncho Dub](https://open.spotify.com/track/6LOSSEQStBtYLzZYfeRuvo) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Poncho Dub](https://open.spotify.com/album/3OFPpzLmCBYYtuNaai9eJ0) | 4:57 | 2024-03-29 |  |
 | [Poop Goes in the Toilet](https://open.spotify.com/track/6dZ29RCNpeSx16744HSUTA) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [Poop Goes in the Toilet](https://open.spotify.com/album/4Wpc4MXAVzMxxmsIoZ51XR) | 2:45 | 2025-09-30 |  |
+| [Poor Man's Glory \(2026 Vinyl Version\)](https://open.spotify.com/track/6b9H59yXpk7rL0N7DpsJ6P) | [L.S\. Diezel](https://open.spotify.com/artist/1yTPzYZA58jZqHFkbM2p8R), [Launch DAT](https://open.spotify.com/artist/12UITYabVAssnAyJiiAbSj) | [Aliens](https://open.spotify.com/album/4LF7YcvBP2hyHQ1lO3LZle) | 7:17 | 2026-06-14 |  |
 | [Por el Sendero de la Utopia](https://open.spotify.com/track/2GG4V8WAkDnD8EqNemWSWk) | [Lonely Days For](https://open.spotify.com/artist/4yTcl4GvLCu068IP0chIQw) | [Transición](https://open.spotify.com/album/7H8t3H9Az4FLBQ9e7EwGC4) | 2:37 | 2025-07-15 |  |
 | [Por Ti](https://open.spotify.com/track/066HXmIFhUAnOSzXsdJBil) | [Skndalosos M.A.S](https://open.spotify.com/artist/3j6m7q3u03ijqgvtFYWmw0), [Saturno](https://open.spotify.com/artist/0Abmg2HYpZnps2B9hLhXG3) | [Por Ti](https://open.spotify.com/album/7xUdmCUG7PjtkNUdbpTZjr) | 2:03 | 2025-11-17 |  |
 | [Por Você Mãe](https://open.spotify.com/track/0v66kiW2dWkYAIQ7OKoFGX) | [LuquinhaMaker](https://open.spotify.com/artist/2aAIHDLdT5HsmNCFRJeeEY), [Alessandra](https://open.spotify.com/artist/1YoMfaBisEhbIaYAlmagLW) | [Por Você Mãe](https://open.spotify.com/album/1dhBeKTmQW2LM74UWdv41J) | 3:09 | 2025-07-01 |  |

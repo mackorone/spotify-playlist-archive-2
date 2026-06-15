@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Dottie Andersson
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,965 likes - 89 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,955 likes - 89 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

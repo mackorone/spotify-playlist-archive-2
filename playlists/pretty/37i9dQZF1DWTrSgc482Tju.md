@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTrSgc482Tju.md) - [plain]
 
 > Underground bangers for your late summer nights \- Mixes available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 107 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

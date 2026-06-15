@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! June ambassador: <a href="spotify:artist:0UMs6dTf23FC2fHc40fXNS">KI/KI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,180 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,179 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 79 | [Assasin](https://open.spotify.com/track/4smopoePG6oxekk8ZBF920) | [Anne\-Fay](https://open.spotify.com/artist/4NKiHTs8h3aJkfya3JC0no) | [+1](https://open.spotify.com/album/6HfcKrOM725mH8QCIxTbCr) | 2:52 |
 | 80 | [Lonely](https://open.spotify.com/track/6kMunWRjTa86kOQ2yujVM6) | [Sterre Weldring](https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL) | [Lonely](https://open.spotify.com/album/5jWyVVF4hSxcO6CVdHCvLI) | 3:34 |
 
-Snapshot ID: `AAAAALinHey+zgeUtJRhlGluiqkC0Ohl`
+Snapshot ID: `AAAAAE7z5SPyyWEPg/oU7pgCMVpositw`

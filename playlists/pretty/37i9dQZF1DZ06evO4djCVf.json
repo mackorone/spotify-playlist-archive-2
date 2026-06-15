@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 102893,
+  "num_followers": 102878,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAACKZYQjdGP9LkjdydUSe6X0",
+  "snapshot_id": "aiydgAAAAABJYei54neU1I0TmS/E2xw7",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 191666,
-      "name": "Elke Keer - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im"
+      "duration_ms": 232666,
+      "name": "Op Deze Dag - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Op Deze Dag - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH"
+      "duration_ms": 191666,
+      "name": "Elke Keer - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im"
     }
   ],
   "unique_name": "This Is Suzan & Freek",

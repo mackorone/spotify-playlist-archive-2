@@ -354,7 +354,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -3828,7 +3828,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 195974,
       "name": "b\u00ecnh y\u00ean",
       "url": "https://open.spotify.com/track/41DlPJXKTCypXdf2eSqa03"
@@ -6454,7 +6454,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 293500,
       "name": "C\u1ea3m \u01a0n Ng\u01b0\u1eddi \u0110\u00e3 Th\u1ee9c C\u00f9ng T\u00f4i",
       "url": "https://open.spotify.com/track/0t8g66pWghsU8MphjUQIdg"
@@ -8726,7 +8726,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -16805,6 +16805,32 @@
     },
     {
       "album": {
+        "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
+        "url": "https://open.spotify.com/album/0UgMx9HBZHHmpxg0l5A13I"
+      },
+      "artists": [
+        {
+          "name": "24k.Right",
+          "url": "https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0"
+        },
+        {
+          "name": "Ng\u1eafn",
+          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
+        },
+        {
+          "name": "Hipz",
+          "url": "https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230036,
+      "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
+      "url": "https://open.spotify.com/track/0pavLg3wbL6PVXAgXoWv4S"
+    },
+    {
+      "album": {
         "name": "S\u1ed0 KH\u00d4NG",
         "url": "https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe"
       },
@@ -16824,7 +16850,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -18726,7 +18752,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 254304,
       "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
       "url": "https://open.spotify.com/track/6nInHlewtrNKguNKlXt0Ur"
@@ -29596,7 +29622,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 261105,
       "name": "\u0110\u00e3 L\u1ee1 Y\u00eau Em Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/3J3nv18iIrOhca1ZWNeuyW"

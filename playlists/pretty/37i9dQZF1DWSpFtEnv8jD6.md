@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpFtEnv8jD6.md) - [plain]
 
 > Oficjalna playlista Great September Festival 2026\. Posłuchaj wyjątkowych artystów, którzy wystąpią na festiwalu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,469 likes - 133 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,470 likes - 133 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

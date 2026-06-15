@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 183530,
       "name": "COMPA BLADI - En Vivo",
       "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
@@ -2082,6 +2082,32 @@
       "duration_ms": 174089,
       "name": "LUCES ROJAS",
       "url": "https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP"
+    },
+    {
+      "album": {
+        "name": "LVR",
+        "url": "https://open.spotify.com/album/55eQK3OCkiOuEWyKczz1xQ"
+      },
+      "artists": [
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        },
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172319,
+      "name": "LVR",
+      "url": "https://open.spotify.com/track/1OLoQ9k8WRYc6zQ4mBWEqP"
     },
     {
       "album": {

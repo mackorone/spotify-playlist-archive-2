@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 374543,
+  "num_followers": 374576,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAADYI+7qQaNL0+atPGH4AEoj",
+  "snapshot_id": "aiydgAAAAABNUpVNZb8qI9mUfUJ95f4t",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reina Canta A Mexico",
-        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Voy a Ser",
-      "url": "https://open.spotify.com/track/0WaCinH2B4I2m2XuM5ULKM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mariachi En Altos De Chav\u00f3n",
         "url": "https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 475880,
       "name": "Medley Ranchero: Mi Talism\u00e1n/No Entiendo/Hechizo - Altos De Chav\u00f3n Live Version",
       "url": "https://open.spotify.com/track/4Jw0iZI9fjtoKIHDDlkcEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Reina Canta A Mexico",
+        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/0WaCinH2B4I2m2XuM5ULKM"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas De Dos Siglos",
-        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 171013,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S"
+      "duration_ms": 174800,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 229426,
       "name": "No a Pedir Perd\u00f3n",
       "url": "https://open.spotify.com/track/7jhGpbLaAo99bQbEW1zhhM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Propuesta - En Vivo - Remasterizado",
-      "url": "https://open.spotify.com/track/0aqUzB00ONkLsVdjESxIsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/26PwKiG8QLNnJBrow5YsmR"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 206746,
       "name": "Yo Te Perdono",
       "url": "https://open.spotify.com/track/2MmEUmmMXH0kyBagMlCRGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Propuesta - En Vivo - Remasterizado",
+      "url": "https://open.spotify.com/track/0aqUzB00ONkLsVdjESxIsQ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > Noah Carter 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,386 likes - 53 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,379 likes - 53 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

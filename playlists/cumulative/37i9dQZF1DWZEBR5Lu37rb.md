@@ -2,7 +2,7 @@
 
 ### [Your Valentine's Mood](https://open.spotify.com/playlist/37i9dQZF1DWZEBR5Lu37rb)
 
-> You act tough, but these songs know you are soft.
+> If love is in the air then you've got your own gas tank\. No roses\. Just vibes.
 
 325 songs - 21 hr 30 min
 

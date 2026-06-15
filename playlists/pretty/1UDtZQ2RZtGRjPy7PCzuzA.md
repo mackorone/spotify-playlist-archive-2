@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,176 songs - 2 day 19 hr 8 min
+[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,177 songs - 2 day 19 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1184,5 +1184,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1174 | [Coolest Place in the World](https://open.spotify.com/track/54rOvFIQHqhv0sf71A4NpJ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Coolest Place in the World](https://open.spotify.com/album/26MANgWn0x5nt51ctMzWln) | 2:37 |
 | 1175 | [Model, Actress, Whatever](https://open.spotify.com/track/4wjE62bHELzlZvE52cxMfL) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 3:32 |
 | 1176 | [To Love](https://open.spotify.com/track/4pteEcX2rHSJXK8XSOtWP8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 3:56 |
+| 1177 | [begged](https://open.spotify.com/track/3BnMfPPWs59CVfcQ8CcdfR) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:37 |
 
-Snapshot ID: `AAAJzF2DwNE4mtN6JjRyRjllUSZVbpvg`
+Snapshot ID: `AAAJzX9gBr1cof3rOiIVbLdNxA16uhOf`

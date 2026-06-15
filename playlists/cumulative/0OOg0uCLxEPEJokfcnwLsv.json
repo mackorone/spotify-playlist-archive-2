@@ -4957,6 +4957,24 @@
     },
     {
       "album": {
+        "name": "Meet You There",
+        "url": "https://open.spotify.com/album/6YY5GY3agv7G7LwMtLUDrM"
+      },
+      "artists": [
+        {
+          "name": "Eve Indigo",
+          "url": "https://open.spotify.com/artist/7EY2PX3OuDZUpNiaPkufKC"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329429,
+      "name": "Meet You There",
+      "url": "https://open.spotify.com/track/15tiZK3Wk9yB5mIKqPSZLY"
+    },
+    {
+      "album": {
         "name": "melt into you",
         "url": "https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8"
       },

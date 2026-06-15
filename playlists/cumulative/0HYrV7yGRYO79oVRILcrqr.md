@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-568 songs - 1 day 11 hr 15 min
+571 songs - 1 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 | 2026-05-21 |  |
 | [Into the Fire](https://open.spotify.com/track/2pfZbypE18sp9V0D4ZSYOQ) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [To Love](https://open.spotify.com/album/75qeEXGYWh1F6pqolkQ7wt) | 4:19 | 2026-02-24 | 2026-03-18 |
 | [It's My Ex\-Boyfriend's Birthday Today](https://open.spotify.com/track/2chbWtPLRCTU9GJhJ2rdjt) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [It's My Ex\-Boyfriend's Birthday Today](https://open.spotify.com/album/6JovZkHHw7EOlmaYv1gw8E) | 2:28 | 2025-09-22 | 2025-12-17 |
+| [It's Time \(For Me\)](https://open.spotify.com/track/6PuGtQq0EEWjOiLkGQbpxg) | [Soul Shadow](https://open.spotify.com/artist/2eFLOgdscHu39EZAqcCMmr) | [Nocturnal Shift](https://open.spotify.com/album/78CJKbMt3tP2Cb3J5FJwTT) | 5:38 | 2026-06-14 |  |
 | [Janet](https://open.spotify.com/track/1JNOovQfkhp3fnB5oodVQv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p) | [Janet](https://open.spotify.com/album/0NrLESS4kSbJR6jcmzgG0Z) | 3:09 | 2026-04-01 | 2026-04-21 |
 | [Jeda](https://open.spotify.com/track/42Z4r7nU0ybiUUrU129gc3) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Hanya Harapan](https://open.spotify.com/album/1NMwn4G89U9mh2wBBz3paS) | 5:06 | 2026-05-18 | 2026-05-26 |
 | [Jim Beam Interlude](https://open.spotify.com/track/63ep6PgJWhx1D5kPrgGvC6) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Jim Beam Interlude](https://open.spotify.com/album/4Fwi2mky3CowxhhGx2g3F3) | 2:40 | 2025-12-16 | 2026-04-21 |
@@ -429,6 +430,7 @@
 | [Scared of Okay](https://open.spotify.com/track/07VAdJmbCNBbloWnzmNEpX) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Scared of Okay](https://open.spotify.com/album/3QByuDDlt1E7u2UwfpgbzB) | 4:15 | 2026-05-21 |  |
 | [Schutzengel \- Live 2026](https://open.spotify.com/track/5yGpfxLnzmjY3yI8zJE4fO) | [Frame Band](https://open.spotify.com/artist/4IVYWGaG93XXtfwh1SbbHu), [van HOB](https://open.spotify.com/artist/7v8PUdfmhuEtfM8WthheHS) | [Schutzengel \(Live 2026\)](https://open.spotify.com/album/0az5EtzuhcARBvkdb1CGsR) | 4:02 | 2026-05-31 |  |
 | [Schwarzer Tag](https://open.spotify.com/track/4g9TF07neCl7oZf50PGsQ6) | [Onexx](https://open.spotify.com/artist/5VauwpnaW66TvC0HrJ8ISv) | [Schwarzer Tag](https://open.spotify.com/album/0yWvmpUZP2IoZhNdR9K5Ql) | 3:01 | 2025-10-30 | 2025-12-17 |
+| [Se Fue, Se Fue](https://open.spotify.com/track/0EBgZkRvCbFsHs92iwLU9U) | [The Killing Floors](https://open.spotify.com/artist/3OlsTjvSJp2bUAV3n8vQ9p) | [The Killing Floors](https://open.spotify.com/album/3byCWpzeu4CIXgXu99ghmr) | 2:16 | 2026-06-14 |  |
 | [See The Fun](https://open.spotify.com/track/5Usry4IsZuNFBNSjUE6DUb) | [Park Crescent](https://open.spotify.com/artist/0eH4YPI7CuV9eWHgjxvqwH) | [See The Fun](https://open.spotify.com/album/2DrEO9bJMAeqNVHCkpcw4y) | 3:11 | 2026-03-28 | 2026-04-21 |
 | [SELF\-ABSOLUTION](https://open.spotify.com/track/47uOpInGUoZmIop6bgs5PT) | [OTA3D3](https://open.spotify.com/artist/7zTt9AcgJTtOgkIjs45qnp) | [THE ROAR](https://open.spotify.com/album/1dR1Jr4m8CYfA6G4XFwj2t) | 1:42 | 2026-04-29 | 2026-05-26 |
 | [Selling Marilyn](https://open.spotify.com/track/2YK61LSjiXDFmggC3TwVWG) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Selling Marilyn](https://open.spotify.com/album/4q8tEkFrhMyaET5LA0vKuy) | 3:23 | 2025-10-04 | 2025-12-17 |
@@ -505,6 +507,7 @@
 | [The Tallahatchie Bridge](https://open.spotify.com/track/21LLRRYgZ2NiuVgrr2p5eT) | [Tim Hall and Buffalo Country](https://open.spotify.com/artist/6yGS5pRLuajIewHjZO2f8a) | [The Tallahatchie Bridge](https://open.spotify.com/album/00itmvsffnRW14XIlToe1F) | 3:34 | 2026-03-23 | 2026-04-21 |
 | [The Whale Song](https://open.spotify.com/track/64r3ojbuHjdw9JIOPmojdl) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [The Whale Song](https://open.spotify.com/album/7eZcwmTkVW02d3MoxOaD63) | 5:38 | 2025-09-21 |  |
 | [The Whistleblower](https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Under The East End Sky](https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD) | 3:37 | 2025-11-17 | 2025-12-17 |
+| [Three Good Motown Puns](https://open.spotify.com/track/52YlgRaJn2bzOeasVwQ1Sr) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Three Good Motown Puns](https://open.spotify.com/album/0rHNfIKgzKZPMRlg57Qfj5) | 3:16 | 2026-06-14 |  |
 | [Thrift Store Girl](https://open.spotify.com/track/2jq9HoHfKXEJJR3noL0DQM) | [Idan Altman](https://open.spotify.com/artist/7MomsgGtMu3PUg3dRGleQQ) | [It all works out in the ☰nd](https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw) | 3:45 | 2025-12-22 | 2026-04-21 |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-01-27 | 2026-03-18 |
 | [Tonight](https://open.spotify.com/track/5WeH9AfJ8rXgojFe2Ljgpf) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Tonight](https://open.spotify.com/album/1je3MKYL9fqv0leNc02zfr) | 3:05 | 2025-10-28 | 2025-12-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Andy Mineo & Wordsplayed
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,193 likes - 76 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,219 likes - 76 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 | 2021-09-17 |  |
+| [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/5xSDgnp0t87WsXyMUjuKG9) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 | 2021-09-17 |  |
 | [communist love song](https://open.spotify.com/track/5syQxLfvGTORKxZ4qjkfdT) | [Soltero](https://open.spotify.com/artist/7407UR5CvlJRYClGHhO33F) | [Science Will Figure You Out](https://open.spotify.com/album/6k2vwLlQvuVqZW8fj0kPsx) | 3:24 | 2021-09-17 |  |
 | [Crane Your Neck \- Remastered](https://open.spotify.com/track/7FMedJPiag48GjON0tp2PO) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Ripely Pine](https://open.spotify.com/album/0f0Owyducr559mI43AW8Mt) | 6:27 | 2021-09-17 |  |
 | [Cryptid \(Mothman\)](https://open.spotify.com/track/6jRrFtoVDukFAgwugqUQx5) | [Ratwyfe](https://open.spotify.com/artist/5OlARALdX4igefmFOROcjB) | [Mushroom Melancholia](https://open.spotify.com/album/3nZNzHJXPAJeLo4ia8L7yy) | 3:05 | 2021-04-21 |  |

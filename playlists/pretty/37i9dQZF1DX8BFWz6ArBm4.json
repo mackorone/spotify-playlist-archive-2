@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Petros Iakovidis",
-  "num_followers": 39095,
+  "num_followers": 39128,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-06-11 21:00:46",
       "album": {
+        "name": "To Diko Mou DNA",
+        "url": "https://open.spotify.com/album/45Og4woUGkRvl93FUpsTTP"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Gia Tin Epomeni",
+      "url": "https://open.spotify.com/track/3TIKWISOKMf12koBZjfAfE"
+    },
+    {
+      "added_at": "2026-06-11 21:00:46",
+      "album": {
         "name": "Siopi Sti Diapason",
         "url": "https://open.spotify.com/album/5hq3mhVls5TmQmreXUslx2"
       },
@@ -843,26 +859,6 @@
       "duration_ms": 222397,
       "name": "Me 'Geia Sou",
       "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
-    },
-    {
-      "added_at": "2026-06-11 21:00:46",
-      "album": {
-        "name": "San To Louloudi",
-        "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        },
-        {
-          "name": "Stavento",
-          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
-        }
-      ],
-      "duration_ms": 193274,
-      "name": "San To Louloudi",
-      "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
     }
   ],
   "unique_name": "Laika tou Simera",

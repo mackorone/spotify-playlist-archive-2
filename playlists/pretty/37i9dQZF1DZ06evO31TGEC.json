@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55474,
+  "num_followers": 55491,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAABkBJPkoZNaBaKqMwIxa2ny",
+  "snapshot_id": "aiydgAAAAAD854tC1f0x3+RJLc9dSOOH",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Ser Un Mago",
-        "url": "https://open.spotify.com/album/4A5Nj0jfBvn0U69gbSizWC"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 177133,
-      "name": "Quisiera Ser Un Mago",
-      "url": "https://open.spotify.com/track/0u4zq0V8sImdJD3vfX1KUs"
+      "duration_ms": 176626,
+      "name": "Esa Muchacha Me Gusta",
+      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+        "name": "Quisiera Ser Un Mago",
+        "url": "https://open.spotify.com/album/4A5Nj0jfBvn0U69gbSizWC"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Esa Muchacha Me Gusta",
-      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
+      "duration_ms": 177133,
+      "name": "Quisiera Ser Un Mago",
+      "url": "https://open.spotify.com/track/0u4zq0V8sImdJD3vfX1KUs"
     },
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF"
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
       "artists": [
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Frank Velasquez",
+          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
         }
       ],
-      "duration_ms": 147051,
-      "name": "Esa Fue Mi Novia",
-      "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
+      "duration_ms": 191796,
+      "name": "Le Dire Que Me Gusta",
+      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
     },
     {
       "added_at": null,
@@ -675,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF"
       },
       "artists": [
         {
@@ -684,9 +688,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 205213,
-      "name": "Mayor de Edad (Banda)",
-      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
+      "duration_ms": 147051,
+      "name": "Esa Fue Mi Novia",
+      "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
     },
     {
       "added_at": null,
@@ -707,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
       "artists": [
         {
@@ -716,9 +720,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 186746,
-      "name": "Contigo Me Gusta",
-      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
+      "duration_ms": 205213,
+      "name": "Mayor de Edad (Banda)",
+      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
     },
     {
       "added_at": null,
@@ -739,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
       "artists": [
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Frank Velasquez",
-          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
         }
       ],
-      "duration_ms": 191796,
-      "name": "Le Dire Que Me Gusta",
-      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
+      "duration_ms": 186746,
+      "name": "Contigo Me Gusta",
+      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,181 songs - 2 day 20 hr 53 min
+1,182 songs - 2 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Fire Fire](https://open.spotify.com/track/5kocHOL5zvOMxyi5ajD95W) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Odd Creations](https://open.spotify.com/album/7ywm5pYJfnPdnK7cC1owlx) | 2:22 | 2026-02-23 | 2026-03-25 |
 | [Fire of a Romance](https://open.spotify.com/track/01VaTr7Ogz81bKPB4ElbD9) | [Luke Assem](https://open.spotify.com/artist/0TqL3o1xboCvsPXD4A8cF0) | [Fire of a Romance](https://open.spotify.com/album/3X9jGTNs2rqdVCkHi0DFo1) | 2:52 | 2026-01-20 | 2026-02-20 |
 | [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 | 2026-02-08 | 2026-03-07 |
+| [Fireworks Fall](https://open.spotify.com/track/2LmF5dQhaxFNnTpnFOn8z2) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Fireworks Fall](https://open.spotify.com/album/1a2GSekjvduf484J6N71yx) | 3:31 | 2026-06-14 |  |
 | [First Kiss](https://open.spotify.com/track/4MoYQiwBZqFX4DfCn7kQQ6) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [First Kiss](https://open.spotify.com/album/3sAIi79IKg3rmjV4RKtUL0) | 3:24 | 2026-06-11 |  |
 | [Fish Tank](https://open.spotify.com/track/2hDnvkxpCSo57nPmEMN6ND) | [Buckeye Belle](https://open.spotify.com/artist/1f5o9LL9uj7X7KOBVpSiGa) | [I'd Rather Be Sleeping](https://open.spotify.com/album/4sBEZPvbIVcubfxcde4KOR) | 3:44 | 2026-04-08 | 2026-05-14 |
 | [Floto](https://open.spotify.com/track/0cpVDFhmJ5mRssyaE8ZjAo) | [Manu Geijo](https://open.spotify.com/artist/1Lcqhy5qgKAS6bvwjXIoxs) | [Floto](https://open.spotify.com/album/2Z8DVQAobcZtSFHc05afHk) | 3:58 | 2026-02-25 | 2026-03-25 |

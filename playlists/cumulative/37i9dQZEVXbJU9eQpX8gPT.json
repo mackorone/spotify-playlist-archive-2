@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 228617,
       "name": "Action",
       "url": "https://open.spotify.com/track/5Dtzyp05eJDj4SlCjewnmE"
@@ -6814,7 +6814,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 220705,
       "name": "CARABINIERI",
       "url": "https://open.spotify.com/track/3nyOjWqmnMw1fxiJIXQ2Ro"
@@ -9110,6 +9110,28 @@
       "duration_ms": 162222,
       "name": "Daba Daba",
       "url": "https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "album": {
@@ -20964,7 +20986,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 140550,
       "name": "LIBERT\u00c9",
       "url": "https://open.spotify.com/track/3F6ekESAuCYK2BFXsuYKMf"
@@ -31528,7 +31550,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 163995,
       "name": "RIRI&ROCKY",
       "url": "https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J"
@@ -31670,7 +31692,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 173338,
       "name": "ROCKSTAR (feat. Rounhaa & Najm)",
       "url": "https://open.spotify.com/track/2aUEoerwxKhDDMJe4Gjoij"
@@ -33938,7 +33960,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 116666,
       "name": "SOFITEL",
       "url": "https://open.spotify.com/track/6bzqPGZr0dtVVS5y6jvABs"
@@ -35540,7 +35562,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -35674,7 +35696,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 205013,
       "name": "Tach",
       "url": "https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB"
@@ -36846,7 +36868,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 172173,
       "name": "TJENENY",
       "url": "https://open.spotify.com/track/75wMBCs7Qo3CiAQDqQBhTJ"
@@ -37684,7 +37706,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 147761,
       "name": "Tsswirtek",
       "url": "https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL"
@@ -41134,7 +41156,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 123421,
       "name": "ZTAYLA & FUFU",
       "url": "https://open.spotify.com/track/6hhxc7kYtbWwJCxOPzBJsj"

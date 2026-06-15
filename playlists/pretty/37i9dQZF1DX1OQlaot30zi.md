@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Astro, 22simba, Villabanks, Clamö e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,628 likes - 90 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,632 likes - 90 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

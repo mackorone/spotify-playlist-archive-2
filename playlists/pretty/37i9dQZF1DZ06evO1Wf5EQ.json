@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAADcwJpML6cWtngycNhGap0+",
+  "snapshot_id": "aiydgAAAAADQTxqp0pOiOV3xkFNtlE0N",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX"
         }
       ],
-      "duration_ms": 87440,
-      "name": "Ava's Idea",
-      "url": "https://open.spotify.com/track/1eyAJikmJQaEqbwt0vr5WC"
+      "duration_ms": 175066,
+      "name": "The Late Night Monologue",
+      "url": "https://open.spotify.com/track/2ameK6EdJsC23gMpugT77Q"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX"
         }
       ],
-      "duration_ms": 175066,
-      "name": "The Late Night Monologue",
-      "url": "https://open.spotify.com/track/2ameK6EdJsC23gMpugT77Q"
+      "duration_ms": 87440,
+      "name": "Ava's Idea",
+      "url": "https://open.spotify.com/track/1eyAJikmJQaEqbwt0vr5WC"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
       "duration_ms": 186000,
       "name": "Deborah Vance",
       "url": "https://open.spotify.com/track/5MKvswPOgnzuFE7pIUaPof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hacks: Season 1 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 77822,
-      "name": "Unhoused Residents - Ava's Theme - Alternate",
-      "url": "https://open.spotify.com/track/4cWL6iAoBFVMcjBBdzFXEu"
     },
     {
       "added_at": null,

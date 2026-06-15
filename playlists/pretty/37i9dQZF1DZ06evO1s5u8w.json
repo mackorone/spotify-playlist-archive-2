@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 203036,
+  "num_followers": 203050,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAAC+afTBnT3BghE+RD8SGQl2",
+  "snapshot_id": "aiydgAAAAAA2cYpCOkF+Kk3aytf6VYJr",
   "tracks": [
     {
       "added_at": null,
@@ -418,11 +418,15 @@
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        },
+        {
+          "name": "Arthur Russell",
+          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
         }
       ],
-      "duration_ms": 178732,
-      "name": "Love Goes to a Building on Fire - 2024 Remaster",
-      "url": "https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ"
+      "duration_ms": 257685,
+      "name": "Psycho Killer (Acoustic Version) [feat. Arthur Russell] - 2024 Remaster",
+      "url": "https://open.spotify.com/track/6KrIQLaIYptiYdB9GwAlpv"
     },
     {
       "added_at": null,
@@ -482,15 +486,11 @@
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Arthur Russell",
-          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
         }
       ],
-      "duration_ms": 257685,
-      "name": "Psycho Killer (Acoustic Version) [feat. Arthur Russell] - 2024 Remaster",
-      "url": "https://open.spotify.com/track/6KrIQLaIYptiYdB9GwAlpv"
+      "duration_ms": 178732,
+      "name": "Love Goes to a Building on Fire - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,459 likes - 69 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,524 likes - 69 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

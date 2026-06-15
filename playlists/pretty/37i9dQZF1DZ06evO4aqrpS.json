@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 65166,
+  "num_followers": 65189,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAADpihQ4v3AkFJnYOw7xTk0k",
+  "snapshot_id": "aiydgAAAAACNmH008tTm17aO8MW/fuxp",
   "tracks": [
     {
       "added_at": null,
@@ -263,38 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser de Ti",
-      "url": "https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias",
-        "url": "https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 214443,
-      "name": "Cada D\u00eda Te Extra\u00f1o Menos",
-      "url": "https://open.spotify.com/track/4T8i5In6BRejd70ekFFgi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Te Muerdes el Labio",
         "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
       },
@@ -315,6 +283,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias",
+        "url": "https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 214443,
+      "name": "Cada D\u00eda Te Extra\u00f1o Menos",
+      "url": "https://open.spotify.com/track/4T8i5In6BRejd70ekFFgi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser de Ti",
+      "url": "https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh"
       },
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5L5R2hZwnVfJxegcskK5n6"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/18Blt113OMVGgPhkoOdBNX"
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/5hPCcl7zLURnhKU1myysEq"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5L5R2hZwnVfJxegcskK5n6"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/5hPCcl7zLURnhKU1myysEq"
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/18Blt113OMVGgPhkoOdBNX"
     },
     {
       "added_at": null,
@@ -399,58 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/6RYVcNJuNpj9tmNCKxePl7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias",
-        "url": "https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 205767,
-      "name": "Lila Alel\u00ed",
-      "url": "https://open.spotify.com/track/2xGAVeckOuMklQdClxW7iP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universo Amor",
-        "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
-      },
-      "artists": [
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Universo Amor",
-      "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Sagrado",
         "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
       },
@@ -471,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias",
+        "url": "https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 205767,
+      "name": "Lila Alel\u00ed",
+      "url": "https://open.spotify.com/track/2xGAVeckOuMklQdClxW7iP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
       },
@@ -480,9 +444,29 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 226746,
-      "name": "Marchita",
-      "url": "https://open.spotify.com/track/2yrN2kALBBWeqgyvcmei5g"
+      "duration_ms": 211680,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/6RYVcNJuNpj9tmNCKxePl7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universo Amor",
+        "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Universo Amor",
+      "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "Marchita",
+      "url": "https://open.spotify.com/track/2yrN2kALBBWeqgyvcmei5g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Problema",
         "url": "https://open.spotify.com/album/591cjIQ96fv6ZhWZu1YC5p"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 204735,
       "name": "Qu\u00e9 Problema",
       "url": "https://open.spotify.com/track/7FrX63yOHJZucV0MADP3iS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/4xlQ2xYTgzuY7LMGmHxfeu"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/4xlQ2xYTgzuY7LMGmHxfeu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abrazo (Extendido)",
         "url": "https://open.spotify.com/album/4R0hHeF1UxfCfKsBi9siBM"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 172386,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/4qB0bNvfGcS85OOaa32Qo0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 135306,
-      "name": "M\u00e1s o Menos Antes",
-      "url": "https://open.spotify.com/track/0yozlAb1wVR4UFJf28XXjx"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 175610,
       "name": "Los D\u00edas",
       "url": "https://open.spotify.com/track/4xbe3iVH32qzMo3b4zT0jT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 135306,
+      "name": "M\u00e1s o Menos Antes",
+      "url": "https://open.spotify.com/track/0yozlAb1wVR4UFJf28XXjx"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasica por Mi M\u00e9xico",
-        "url": "https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 170790,
-      "name": "Dios Nunca Muere",
-      "url": "https://open.spotify.com/track/4n6WuF8iQ8zELVtwjdyzV0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Sagrado",
         "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00fasica por Mi M\u00e9xico",
+        "url": "https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 170790,
+      "name": "Dios Nunca Muere",
+      "url": "https://open.spotify.com/track/4n6WuF8iQ8zELVtwjdyzV0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
       },
@@ -747,6 +747,26 @@
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Sagrado",
+        "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "Lo Sagrado",
+      "url": "https://open.spotify.com/track/6bhAUwtrHTPLuFRY2GYCdL"
     },
     {
       "added_at": null,
@@ -791,26 +811,6 @@
       "duration_ms": 278886,
       "name": "El Agua Y La Miel",
       "url": "https://open.spotify.com/track/6S32t8SspzeR7Pr9qQfe0U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Sagrado",
-        "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "Lo Sagrado",
-      "url": "https://open.spotify.com/track/6bhAUwtrHTPLuFRY2GYCdL"
     }
   ],
   "unique_name": "This Is Silvana Estrada",

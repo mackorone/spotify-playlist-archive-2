@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Gaise Baba
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,663 likes - 80 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,684 likes - 80 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

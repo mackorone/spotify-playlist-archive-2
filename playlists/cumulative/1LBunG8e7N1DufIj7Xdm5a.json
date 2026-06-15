@@ -30257,6 +30257,24 @@
     },
     {
       "album": {
+        "name": "Grand Social",
+        "url": "https://open.spotify.com/album/0sITVX4ltEr8W19hfLmKes"
+      },
+      "artists": [
+        {
+          "name": "Von Loop",
+          "url": "https://open.spotify.com/artist/7xj9QGmzc8LLQU8sCsFYcN"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179298,
+      "name": "Grand Social",
+      "url": "https://open.spotify.com/track/5VXh6UbjkesZvwpUrGYs2c"
+    },
+    {
+      "album": {
         "name": "Greaseproof Paper",
         "url": "https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X"
       },

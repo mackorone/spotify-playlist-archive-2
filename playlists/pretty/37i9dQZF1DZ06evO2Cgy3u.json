@@ -1,12 +1,12 @@
 {
   "description": "This is The Raincoats. The essential tracks, all in one playlist.",
-  "num_followers": 1014,
+  "num_followers": 1015,
   "original_name": "This Is The Raincoats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAAAVt8dnCDDm6Y+pqL39Hs7X",
+  "snapshot_id": "aiydgAAAAAAY6Ll+iq6qohFCuQ64W07v",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 149293,
-      "name": "Black and White",
-      "url": "https://open.spotify.com/track/77EIe4Q2YYU3JPhIMBcCDl"
+      "duration_ms": 195440,
+      "name": "Off Duty Trip",
+      "url": "https://open.spotify.com/track/6hsh2tGBNL5WlaQLrD61P7"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 269866,
-      "name": "Animal Rhapsody",
-      "url": "https://open.spotify.com/track/4PuQC1KUxsIGf6bTnM0Td1"
+      "duration_ms": 274400,
+      "name": "Balloon",
+      "url": "https://open.spotify.com/track/2IHAoSawKMALzFRU6yRH8o"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 195440,
-      "name": "Off Duty Trip",
-      "url": "https://open.spotify.com/track/6hsh2tGBNL5WlaQLrD61P7"
+      "duration_ms": 149293,
+      "name": "Black and White",
+      "url": "https://open.spotify.com/track/77EIe4Q2YYU3JPhIMBcCDl"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 274400,
-      "name": "Balloon",
-      "url": "https://open.spotify.com/track/2IHAoSawKMALzFRU6yRH8o"
+      "duration_ms": 269866,
+      "name": "Animal Rhapsody",
+      "url": "https://open.spotify.com/track/4PuQC1KUxsIGf6bTnM0Td1"
     },
     {
       "added_at": null,

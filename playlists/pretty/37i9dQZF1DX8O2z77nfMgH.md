@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Cultura Profética
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,524 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,401 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [Así de Rico \(Va uno a ver y ve Remizzz\)](https://open.spotify.com/track/5Vv1JUpzsQYBQdRiRdi9EE) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [ASÍ DE RICO \(Va uno a ver y ve Remizzz\)](https://open.spotify.com/album/3ffqJRB3AqcyRw3GrgYXys) | 2:20 |
 | 39 | [QUE LA CHOQUE](https://open.spotify.com/track/3TYvIrg45hJlLimkXA8ULE) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Coyote 63](https://open.spotify.com/artist/3FFfUMK7ZibxUKyQpskQEk) | [QUE LA CHOQUE](https://open.spotify.com/album/1HahN3BveEGA7fjvTZnUKJ) | 2:07 |
 | 40 | [Jogadora Cara \- Ao Vivo](https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4) | [Filtr Music Brasil](https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Jogadora Cara \(Ao Vivo\)](https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0) | 2:34 |
-| 41 | [Q'Fay](https://open.spotify.com/track/2oAgt9OMlKzWo0J4dV65ta) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Mati Bomba](https://open.spotify.com/artist/2Co933aALjqO2S4kqXpntB) | [Q'Fay](https://open.spotify.com/album/6l09AuvejW6qjhZTgHUzbn) | 2:54 |
+| 41 | [Q'Fay](https://open.spotify.com/track/2oAgt9OMlKzWo0J4dV65ta) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Mati Bomba](https://open.spotify.com/artist/2Co933aALjqO2S4kqXpntB) | [Q'Fay](https://open.spotify.com/album/6l09AuvejW6qjhZTgHUzbn) | 2:54 |
 | 42 | [La Papa y La Leña](https://open.spotify.com/track/6LtpBD5NFh5Fkm7rWP5ROt) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Desde Abajo](https://open.spotify.com/album/1lFE9PE40lVFgCaEdDb8xc) | 3:37 |
 | 43 | [pa ti toa <3](https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [pa ti toa <3](https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD) | 3:33 |
 | 44 | [119](https://open.spotify.com/track/2jdTwJjgRAIaO4yaxvlOcL) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [119](https://open.spotify.com/album/1rrk57whQ36G12xKGWF0EH) | 2:48 |

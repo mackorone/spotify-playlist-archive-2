@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: DAMEDAME\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,469 likes - 199 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,472 likes - 199 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,452 songs - 9 day 22 hr 15 min
+4,453 songs - 9 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1662,6 +1662,7 @@
 | [Gothic Ackward](https://open.spotify.com/track/6iVOcEDNlwqgaQXpXY4O96) | [Digipunk.13](https://open.spotify.com/artist/1VzdFvdcX856XUhiltDhj0), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [Gothic Ackward](https://open.spotify.com/album/6qk9E24NtMnPd1E3PBgoov) | 2:56 | 2026-05-07 |  |
 | [Gotta Go Baby](https://open.spotify.com/track/0j7WLlQUzoawGRjs5m8YR7) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Gotta Go Baby](https://open.spotify.com/album/5FXw6cJb5jTvI2zReZMTFB) | 3:32 | 2025-06-04 |  |
 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 | 2025-05-09 |  |
+| [Grand Social](https://open.spotify.com/track/5VXh6UbjkesZvwpUrGYs2c) | [Von Loop](https://open.spotify.com/artist/7xj9QGmzc8LLQU8sCsFYcN) | [Grand Social](https://open.spotify.com/album/0sITVX4ltEr8W19hfLmKes) | 2:59 | 2026-06-14 |  |
 | [Greaseproof Paper](https://open.spotify.com/track/2PxE6OXL7NiTiFVNfB5ugl) | [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Greaseproof Paper](https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X) | 2:33 | 2025-12-04 |  |
 | [GREED](https://open.spotify.com/track/4Sv5sgRvyd3xXqTZMWnlO0) | [iivrson](https://open.spotify.com/artist/7jsiVHCNUT0PsO9fIskEXC) | [534RCH](https://open.spotify.com/album/0nZVVuTqGDbBnhBdLI8mJn) | 2:56 | 2025-06-23 |  |
 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 | 2025-12-29 |  |

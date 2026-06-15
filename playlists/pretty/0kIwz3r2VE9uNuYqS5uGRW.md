@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 225 songs - 11 hr 46 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 227 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,5 +233,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 223 | [jealousy misery](https://open.spotify.com/track/0x2N0M44PqRv2Dx4YtYJSy) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 2:47 |
 | 224 | [dangerose](https://open.spotify.com/track/2OLJ7bMkW54MYfD6BprIx0) | [Ebonii](https://open.spotify.com/artist/5GgTzAqlQ9YkISvrWN4x7e), [Alektra](https://open.spotify.com/artist/5wBJh4LU47mXERWr0DsR2Q), [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [elixir remixes](https://open.spotify.com/album/6W7i36tGCQu1MYkKZuW9KL) | 2:54 |
 | 225 | [Pierdo el Control](https://open.spotify.com/track/3C0bku6a2HSE7D7SdR1h0r) | [NayroMusic](https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc) | [Cuerdas Nocturnas](https://open.spotify.com/album/1HZmIA87i8LsruJ1rSglCC) | 2:49 |
+| 226 | [The Fish That Never Went To Mauritius](https://open.spotify.com/track/7nWnAKibNLSktV18hn0vuZ) | [Jonny Hiley](https://open.spotify.com/artist/0Uhg2uDTQsgfuxzFlq4MKO) | [The Fish That Never Went To Mauritius](https://open.spotify.com/album/2jyvwXJ7yl4xEkgVtYI6lv) | 5:04 |
+| 227 | [Walking Away](https://open.spotify.com/track/4CEqsSBbZ0IQVGGvBMn4BN) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY), [Josh Yau](https://open.spotify.com/artist/4KDt1OdgiC9fZQb1ql0uIT) | [Walking Away](https://open.spotify.com/album/6IPHBP1F6s1lYqEkWWBZlW) | 2:45 |
 
-Snapshot ID: `AAAV56mNa44cvUGYag4ocpeONAA88r8t`
+Snapshot ID: `AAAV6XNqMUujpiOBHy6Z2psmHTdxIFJy`

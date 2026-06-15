@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 51808,
+  "num_followers": 51823,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAACQP4CaDo4TnpuYBXA1DCfx",
+  "snapshot_id": "aiydgAAAAADPave8RurojU6l2iMhK0NS",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 239401,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/4twv8UGL58aYGQqStfDp3B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sellout",
         "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
@@ -391,6 +407,22 @@
       "duration_ms": 241972,
       "name": "Kuntry & Wistern",
       "url": "https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 224695,
+      "name": "Damn Near Normal",
+      "url": "https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf"
     },
     {
       "added_at": null,
@@ -411,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
       },
       "artists": [
         {
@@ -420,9 +452,25 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 224695,
-      "name": "Damn Near Normal",
-      "url": "https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf"
+      "duration_ms": 217853,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/4NLqlM8fFk69g63HsuWS8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 198313,
+      "name": "Cold & Alone",
+      "url": "https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt"
     },
     {
       "added_at": null,
@@ -447,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 198313,
-      "name": "Cold & Alone",
-      "url": "https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -475,6 +507,22 @@
       "duration_ms": 210576,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 242949,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix"
     },
     {
       "added_at": null,
@@ -511,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night Champion",
-        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/4NLqlM8fFk69g63HsuWS8q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -539,6 +571,22 @@
       "duration_ms": 282282,
       "name": "Sober Sunday",
       "url": "https://open.spotify.com/track/6uzJmSCgxBMu9cIyYfFUKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 271944,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/17QqHs8dXWR6HcELuqC04z"
     },
     {
       "added_at": null,
@@ -575,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night Champion",
-        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 239401,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/4twv8UGL58aYGQqStfDp3B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -607,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
       },
       "artists": [
         {
@@ -616,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 149659,
-      "name": "Depression & Obsession",
-      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
+      "duration_ms": 251473,
+      "name": "I'll Lock Up",
+      "url": "https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb"
     },
     {
       "added_at": null,
@@ -647,6 +679,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 149659,
+      "name": "Depression & Obsession",
+      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 180558,
+      "name": "Nothing Left to Say",
+      "url": "https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Night Champion",
         "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
       },
@@ -656,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 242949,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix"
+      "duration_ms": 225951,
+      "name": "When I Was",
+      "url": "https://open.spotify.com/track/40qpt6DLPe4vXsRC2zKK3y"
     },
     {
       "added_at": null,
@@ -695,38 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 180558,
-      "name": "Nothing Left to Say",
-      "url": "https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Night Champion",
-        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 271944,
-      "name": "Nowhere Fast",
-      "url": "https://open.spotify.com/track/17QqHs8dXWR6HcELuqC04z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Out on Parole",
         "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
       },
@@ -739,22 +771,6 @@
       "duration_ms": 272674,
       "name": "Wine Glass",
       "url": "https://open.spotify.com/track/142j2y0wEDHuofNFBggRDb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 287926,
-      "name": "Lonesome Dove",
-      "url": "https://open.spotify.com/track/6owKFz2r0DDseMD2Os26l9"
     },
     {
       "added_at": null,
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night Champion",
-        "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
+        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
+        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
       "artists": [
         {
@@ -784,9 +800,25 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 251473,
-      "name": "I'll Lock Up",
-      "url": "https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb"
+      "duration_ms": 287926,
+      "name": "Lonesome Dove",
+      "url": "https://open.spotify.com/track/6owKFz2r0DDseMD2Os26l9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Werewolf",
+        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 222578,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
     },
     {
       "added_at": null,
@@ -803,38 +835,6 @@
       "duration_ms": 240068,
       "name": "Gravedigger",
       "url": "https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 243152,
-      "name": "GTFO",
-      "url": "https://open.spotify.com/track/69yFW3GkClGTCXdOrZ8cSl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 214532,
-      "name": "What You Deserve",
-      "url": "https://open.spotify.com/track/73xnOl3QWeh0GS720CFPrO"
     }
   ],
   "unique_name": "This Is Koe Wetzel",

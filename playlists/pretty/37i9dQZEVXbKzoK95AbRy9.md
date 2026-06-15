@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,813 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,867 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Assunto Que Dói](https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão](https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl) | 2:46 |
 | 50 | [Arrependidaço \(Onde Você Anda\)](https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Sentimento](https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E) | 3:00 |
 
-Snapshot ID: `McDTWAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `McInMAAAAAAAAAAAAAAAAAAAAAAAAGVu`

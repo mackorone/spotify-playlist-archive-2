@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "All I Want From You",
+        "url": "https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "All I Want From You (Distribution)",
+      "url": "https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV"
+    },
+    {
+      "album": {
         "name": "All That We Need",
         "url": "https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq"
       },

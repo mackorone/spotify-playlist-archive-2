@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Giegd, Donson, Veertien en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,883 likes - 85 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,874 likes - 85 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

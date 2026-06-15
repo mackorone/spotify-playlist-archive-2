@@ -4299,6 +4299,24 @@
     },
     {
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/4q7m1vMzZ3vzjXUm13R6gf"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9n with the Mane",
+          "url": "https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263381,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/7CtHfnRGEwcbN0aGr8WIJn"
+    },
+    {
+      "album": {
         "name": "Ambroxyde (LP)",
         "url": "https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk"
       },

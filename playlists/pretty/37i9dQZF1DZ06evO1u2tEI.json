@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 88004,
+  "num_followers": 88019,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAABOw6QKp6BMmqcpu7G4k5l7",
+  "snapshot_id": "aiydgAAAAACBm/ao99V2pwaCZlUvPHKY",
   "tracks": [
     {
       "added_at": null,
@@ -76,7 +76,7 @@
       "added_at": null,
       "album": {
         "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+      "duration_ms": 177200,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/0Ziohm1Ku8E2yUDYoclfhO"
     },
     {
       "added_at": null,
@@ -140,7 +140,7 @@
       "added_at": null,
       "album": {
         "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 177200,
-      "name": "Angeles",
-      "url": "https://open.spotify.com/track/0Ziohm1Ku8E2yUDYoclfhO"
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
     },
     {
       "added_at": null,

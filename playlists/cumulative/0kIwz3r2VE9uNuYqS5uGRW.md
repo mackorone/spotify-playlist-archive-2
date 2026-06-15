@@ -4,7 +4,7 @@
 
 > 
 
-218 songs - 11 hr 22 min
+220 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [talk](https://open.spotify.com/track/1d9xyrASfsD0edthqvHbpL) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [talk](https://open.spotify.com/album/6gVHNh3J56BQdaqO5cSCKF) | 3:36 | 2026-04-02 |  |
 | [That One Girl](https://open.spotify.com/track/77uc3YwRFqWcTJX9GquTMw) | [Pablo Santana](https://open.spotify.com/artist/40g1dctGAaTqem3oED2j8l) | [That One Girl](https://open.spotify.com/album/0p9Ckyg7TybvPbE5vgvAux) | 2:13 | 2025-03-12 |  |
 | [The Climb](https://open.spotify.com/track/0HKxgYyUTgSGkY8hPCEXIf) | [Richard Green](https://open.spotify.com/artist/5ZMNSlmvEo9xyBSCK7yK1w) | [The Climb](https://open.spotify.com/album/1RiFybPic6zBZ3viZ6B3Nf) | 4:58 | 2026-06-03 |  |
+| [The Fish That Never Went To Mauritius](https://open.spotify.com/track/7nWnAKibNLSktV18hn0vuZ) | [Jonny Hiley](https://open.spotify.com/artist/0Uhg2uDTQsgfuxzFlq4MKO) | [The Fish That Never Went To Mauritius](https://open.spotify.com/album/2jyvwXJ7yl4xEkgVtYI6lv) | 5:04 | 2026-06-14 |  |
 | [The Good, The Bad and The Electric](https://open.spotify.com/track/06lGeazjV3Il8dEtfRo7Jd) | [Chance the Closer](https://open.spotify.com/artist/2N8BKNbDpSuVVZNHKvQN40) | [The Good, The Bad and The Electric](https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a) | 3:12 | 2025-12-21 |  |
 | [The Goonies Are Good Enough](https://open.spotify.com/track/27VOni0i9mmss8Hc5fchnG) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [The Goonies Are Good Enough](https://open.spotify.com/album/3zp4sH0nh9faKVLurq1JGY) | 2:33 | 2026-05-06 |  |
 | [The Last Song Of The Moon](https://open.spotify.com/track/0GZBewpkqjQHewlpGod48N) | [Le Monk](https://open.spotify.com/artist/2BX1nNrrRMfJCYvs3RwDX3) | [The Last Song Of The Moon](https://open.spotify.com/album/4yGHbD5qjrg5jIw7UCeeEv) | 3:06 | 2026-02-11 |  |
@@ -214,6 +215,7 @@
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2026-02-19 |  |
 | [Wait Up](https://open.spotify.com/track/1cF1sWGapFXHssAQjGeHmI) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Wait Up](https://open.spotify.com/album/38n1tJIhXqdh6yGGLdWngM) | 2:04 | 2026-03-27 |  |
 | [Waiting for the Day After](https://open.spotify.com/track/6HHjEdNV1ZUoAptVcis6zN) | [Hollowave](https://open.spotify.com/artist/3pOKXtt845AaIJxzoUY918) | [Pigheaded](https://open.spotify.com/album/40QIQaRkMHTx2IKrRkGBFD) | 5:24 | 2025-10-30 |  |
+| [Walking Away](https://open.spotify.com/track/4CEqsSBbZ0IQVGGvBMn4BN) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY), [Josh Yau](https://open.spotify.com/artist/4KDt1OdgiC9fZQb1ql0uIT) | [Walking Away](https://open.spotify.com/album/6IPHBP1F6s1lYqEkWWBZlW) | 2:45 | 2026-06-14 |  |
 | [Way We Remember](https://open.spotify.com/track/01sL1rfTr78MW7w1Me2pLo) | [Ev\. G](https://open.spotify.com/artist/7fF6lYj7ZXaTAmRRdtzOvE) | [Way We Remember](https://open.spotify.com/album/2CkRy3A2t9F9w4266B1sIA) | 2:48 | 2025-08-19 |  |
 | [Weather App](https://open.spotify.com/track/37jwT2aZIzgGicQQCJuYZY) | [Ariana Fig](https://open.spotify.com/artist/7t96BctZBDQcfKnDfREzDg) | [Weather App](https://open.spotify.com/album/6X4GGtNhMtAyyngGuOwM2P) | 4:13 | 2025-05-24 |  |
 | [Weird Girl](https://open.spotify.com/track/6xNe0TUuIDa6YiI6Y1AdbJ) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq) | [Weird Girl](https://open.spotify.com/album/1OESZlZjjs74udB6OBVAE7) | 3:21 | 2025-04-21 |  |

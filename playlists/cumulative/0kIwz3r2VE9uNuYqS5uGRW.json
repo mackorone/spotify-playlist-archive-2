@@ -3577,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "The Fish That Never Went To Mauritius",
+        "url": "https://open.spotify.com/album/2jyvwXJ7yl4xEkgVtYI6lv"
+      },
+      "artists": [
+        {
+          "name": "Jonny Hiley",
+          "url": "https://open.spotify.com/artist/0Uhg2uDTQsgfuxzFlq4MKO"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "The Fish That Never Went To Mauritius",
+      "url": "https://open.spotify.com/track/7nWnAKibNLSktV18hn0vuZ"
+    },
+    {
+      "album": {
         "name": "The Good, The Bad and The Electric",
         "url": "https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a"
       },
@@ -3902,6 +3920,28 @@
       "duration_ms": 324425,
       "name": "Waiting for the Day After",
       "url": "https://open.spotify.com/track/6HHjEdNV1ZUoAptVcis6zN"
+    },
+    {
+      "album": {
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/6IPHBP1F6s1lYqEkWWBZlW"
+      },
+      "artists": [
+        {
+          "name": "Eric Ananda",
+          "url": "https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY"
+        },
+        {
+          "name": "Josh Yau",
+          "url": "https://open.spotify.com/artist/4KDt1OdgiC9fZQb1ql0uIT"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/4CEqsSBbZ0IQVGGvBMn4BN"
     },
     {
       "album": {

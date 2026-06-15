@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: BTS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,950 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,384 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 49 | [Labyrinth](https://open.spotify.com/track/2aLPTpA9zaLbGyNQM7UqIS) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU), [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Labyrinth](https://open.spotify.com/album/366bXWPlIg9V58s5GWCA1I) | 3:06 |
 | 50 | [lemon](https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:21 |
 
-Snapshot ID: `AAAAAFuEGveNui1MtLm+lPXAeB5R/bWH`
+Snapshot ID: `AAAAAIRSNWDMq7IBXwak18TGXmhEmWm/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 336 likes - 2,387 songs - 5 day 20 hr 53 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 336 likes - 2,388 songs - 5 day 21 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2395,5 +2395,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2385 | [Is This Love](https://open.spotify.com/track/4cMjphwBnAg4LIvGFnK5fs) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [Is This Love](https://open.spotify.com/album/2zpdyhQ6qYlKnvrpnCL3AO) | 2:09 |
 | 2386 | [Burden \- Lo\-Fi Version](https://open.spotify.com/track/7iZGon0MGuoKcFSwdW5C2D) | [Ex Alma](https://open.spotify.com/artist/3djMiF1ty7aSuXuLy9AZY8) | [Burden \(Lo\-Fi Version\)](https://open.spotify.com/album/3ORrXUxNpI8btFHfFCv21J) | 2:52 |
 | 2387 | [Noroc, Bună Ziua](https://open.spotify.com/track/4w3S4BPLsGpfY6LOwxsh8a) | [Andrew Whistler](https://open.spotify.com/artist/1wyuerQdwzNyYFMp8tyDc9) | [Noroc, Bună Ziua](https://open.spotify.com/album/067ym3R00wLnNq6UrPcYxH) | 2:29 |
+| 2388 | [Poor Man's Glory \(2026 Vinyl Version\)](https://open.spotify.com/track/6b9H59yXpk7rL0N7DpsJ6P) | [L.S\. Diezel](https://open.spotify.com/artist/1yTPzYZA58jZqHFkbM2p8R), [Launch DAT](https://open.spotify.com/artist/12UITYabVAssnAyJiiAbSj) | [Aliens](https://open.spotify.com/album/4LF7YcvBP2hyHQ1lO3LZle) | 7:17 |
 
-Snapshot ID: `AAAKHdfAYAwCuJNpMD9SK3QI7eBej7Ef`
+Snapshot ID: `AAAKHq9rbEbHAVrIKsgyzn9NaBCfnd0g`

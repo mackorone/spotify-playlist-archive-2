@@ -4,7 +4,7 @@
 
 > La playlist des artistes LGBTQIA+\. Photo : Bilal Hassani
 
-117 songs - 6 hr 4 min
+119 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,11 +27,13 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-10-18 | 2025-05-27 |
 | [Bonjour docteur](https://open.spotify.com/track/5DCa18LuNfuTRwW78k4ocS) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Bonjour docteur](https://open.spotify.com/album/1ceUkJZZo7FYSOEVgd1upM) | 3:25 | 2026-06-07 |  |
 | [C'est La Vie](https://open.spotify.com/track/65h2qZ7sBG9GcRSgSlobvy) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [C'est La vie](https://open.spotify.com/album/2DpWqMGAYZlpIJhNpTZN9u) | 2:51 | 2024-06-04 | 2025-05-27 |
+| [Capitale](https://open.spotify.com/track/1m7lR2aBMnTWx1vCfdLeyy) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Capitale](https://open.spotify.com/album/162686tqoOtQnHC80kRbma) | 2:51 | 2026-06-14 |  |
 | [Catching feelings](https://open.spotify.com/track/1cfpNIlKX4jDGBVwVWbpmf) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Catching feelings](https://open.spotify.com/album/23a1PGqGITDhfPf8aWC91a) | 3:22 | 2026-06-07 |  |
 | [Catching feelings](https://open.spotify.com/track/5WZL03aLF9GVNaa5Q6ATNe) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Catching feelings](https://open.spotify.com/album/2lUIfpdrW8OuEgpvPjMhWg) | 3:22 | 2025-05-26 | 2026-06-08 |
 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-05-26 | 2026-06-08 |
 | [Coco Chanel](https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [La Dame](https://open.spotify.com/album/1XmeiDJ7WhLJhhKHSMBAH5) | 2:10 | 2026-06-07 |  |
 | [Coeur Stone \(feat\. Styleto\)](https://open.spotify.com/track/6ysaavTOBBGZk5AlQJXCFi) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Coeur Stone](https://open.spotify.com/album/4gas5cfeYrFcSi4BSXAzDJ) | 3:03 | 2026-06-07 |  |
+| [COMPORTEMENT A RISQUE](https://open.spotify.com/track/3RjSRL3QcyQtRf4lffPkbV) | [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5), [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [cross/øver](https://open.spotify.com/album/1QS7U1kkKBZ73XWeiY6Xz4) | 2:19 | 2026-06-14 |  |
 | [COPINES?](https://open.spotify.com/track/0Sl3aAMvfly1KaHyHzOkut) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [LE CŒUR ET SA DICTATURE.](https://open.spotify.com/album/4rM6sNDT33rocB4UpauxyM) | 2:23 | 2026-06-07 |  |
 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 | 2024-06-04 | 2026-06-08 |
 | [Dada](https://open.spotify.com/track/6bIpArBwm2I0EpmSgqrKrf) | [La Grande Dame](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh) | [Dada](https://open.spotify.com/album/2uThFwczO3iFZISZV27fld) | 3:50 | 2024-06-04 | 2025-05-27 |
@@ -44,8 +46,8 @@
 | [Enfant de](https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Enfant de](https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR) | 2:54 | 2024-06-04 | 2025-05-27 |
 | [Estafette](https://open.spotify.com/track/3DNz1uS5Z5Qw5XHFZmxL9I) | [Sexy Sushi](https://open.spotify.com/artist/6yNXUzxIakMVY5LoVgZGHG), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4), [Mitch Silver](https://open.spotify.com/artist/585FeCXfQKceH2hCHn5SKO) | [Estafette](https://open.spotify.com/album/2jlIufCIWbnn0x9f00pL8I) | 2:38 | 2026-06-07 |  |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2024-06-04 | 2025-05-27 |
-| [Faux amis](https://open.spotify.com/track/41mC1Qr332B7S6XYC5xn77) | [JeanneTo](https://open.spotify.com/artist/4QZHVgbqlCMCvLBtTcV39a) | [Faux amis](https://open.spotify.com/album/7eXnUH96qHqy0xgbiCQQ2S) | 3:16 | 2026-06-07 |  |
-| [FENTY](https://open.spotify.com/track/411gQre9TWwXUj0bRCvHVa) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [FENTY](https://open.spotify.com/album/7lY5m74VatcMjoohjdAN2z) | 1:46 | 2026-06-07 |  |
+| [Faux amis](https://open.spotify.com/track/41mC1Qr332B7S6XYC5xn77) | [JeanneTo](https://open.spotify.com/artist/4QZHVgbqlCMCvLBtTcV39a) | [Faux amis](https://open.spotify.com/album/7eXnUH96qHqy0xgbiCQQ2S) | 3:16 | 2026-06-07 | 2026-06-15 |
+| [FENTY](https://open.spotify.com/track/411gQre9TWwXUj0bRCvHVa) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [FENTY](https://open.spotify.com/album/7lY5m74VatcMjoohjdAN2z) | 1:46 | 2026-06-07 | 2026-06-15 |
 | [Festin](https://open.spotify.com/track/1PwoPHlYkcQl42PX6jHnf0) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [Festin](https://open.spotify.com/album/5t9b4u5IKNu2nowfZkmW8W) | 2:33 | 2024-06-04 | 2025-05-27 |
 | [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 | 2024-06-04 | 2025-05-27 |
 | [Film Catastrophe](https://open.spotify.com/track/3RoxedHN25iZHx24dfLv8Z) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Film Catastrophe](https://open.spotify.com/album/3MijnpevilL0gZyutW12wp) | 4:02 | 2025-05-26 | 2026-06-08 |

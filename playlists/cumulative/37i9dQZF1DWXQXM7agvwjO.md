@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: NEW LORE \(Philippines\)
 
-2,627 songs - 6 day 16 hr 2 min
+2,628 songs - 6 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,6 +751,7 @@
 | [Fuel](https://open.spotify.com/track/0gJmOAnZf2YXocQUYCQ77T) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Fuel](https://open.spotify.com/album/4Ss0Awq2lU4wnuBMH8wLWv) | 3:26 | 2023-06-08 | 2023-06-30 |
 | [FULL TIME LOVER](https://open.spotify.com/track/4G2l27MHZ9bk2VKjKxOzOA) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 2:00 | 2022-08-25 | 2022-09-16 |
 | [Fun Kaya Fun](https://open.spotify.com/track/4BNEjUYMw5eTestrJfHHId) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b), [Suraa](https://open.spotify.com/artist/1VA3wkQ3Ux11Lf6P2k8b5z) | [Rimpang](https://open.spotify.com/album/1ooPTrKGBfTcD8iqdIAGy3) | 4:51 | 2023-01-26 | 2023-03-25 |
+| [Funky Getaway](https://open.spotify.com/track/1tGVOdfrDeDwWVSSqalfFn) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Funky Getaway](https://open.spotify.com/album/0NnYBIaFPp6XSKV49oJET2) | 4:25 | 2026-06-15 |  |
 | [Funky Lovely Girl](https://open.spotify.com/track/5tC5E4f9rjRgxsUpr4abHh) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/5Gqs19b1vhux4Y5tSS364z) | 3:45 | 2025-07-03 | 2025-09-13 |
 | [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-03-20 | 2025-04-18 |
 | [FUTASHIKANA SEKAI](https://open.spotify.com/track/45t69CLLKDwVlSRawFHxjl) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [MEMORIES](https://open.spotify.com/album/2rZWuJ521siMuP2TYUwP4W) | 3:42 | 2024-09-06 | 2024-09-13 |
@@ -1092,7 +1093,7 @@
 | [kamera](https://open.spotify.com/track/1xru5ynjXpLsqTSNucwtnr) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2), [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy), [Zeke Khaseli](https://open.spotify.com/artist/3XBY4eyiy1tI1SKwkvWokU) | [pasang](https://open.spotify.com/album/4rV163NIU4KQjG3xr2Xruk) | 3:42 | 2024-11-08 | 2024-11-22 |
 | [Kami Khawatir, Kawan](https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Kami Khawatir, Kawan](https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P) | 4:25 | 2023-06-01 | 2024-01-17 |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-03-24 | 2022-04-15 |
-| [Kay Dali Mong Ibigin](https://open.spotify.com/track/1u1Kinh1tU3i5JDXbnnbfb) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2), [Scottie Doesn't Know](https://open.spotify.com/artist/4UYwHmdpsxRJtM9HrOn0Bg) | [Kay Dali Mong Ibigin](https://open.spotify.com/album/3MpLAAJELMBdXUzKcMVnN3) | 6:00 | 2026-05-07 |  |
+| [Kay Dali Mong Ibigin](https://open.spotify.com/track/1u1Kinh1tU3i5JDXbnnbfb) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2), [Scottie Doesn't Know](https://open.spotify.com/artist/4UYwHmdpsxRJtM9HrOn0Bg) | [Kay Dali Mong Ibigin](https://open.spotify.com/album/3MpLAAJELMBdXUzKcMVnN3) | 6:00 | 2026-05-07 | 2026-06-15 |
 | [Keeping Love](https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love](https://open.spotify.com/album/0uplHKgYixtwWOb5eZc5VL) | 1:56 | 2023-03-31 | 2023-05-05 |
 | [Keluh](https://open.spotify.com/track/4YCEwufcKpKulCa6tJlAjD) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Dreane](https://open.spotify.com/album/0dbhJr4XSB9SRuYB8sTnmi) | 2:38 | 2025-06-05 | 2025-08-02 |
 | [kessel run \(for the rebellion\)](https://open.spotify.com/track/7uM22MGDe4LaPept5PwW2D) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [cinema paradiso](https://open.spotify.com/album/6jA92hAUuFO6lXKqrj1dFq) | 3:00 | 2026-03-12 | 2026-04-17 |

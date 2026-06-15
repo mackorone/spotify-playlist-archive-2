@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 121573,
       "name": "Reason",
       "url": "https://open.spotify.com/track/6p7e4TZv0lPmuufELRArHm"
@@ -1292,10 +1292,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 235440,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/5wIKQRf5BreHJPGZaYCEVC"
+    },
+    {
+      "album": {
+        "name": "Roses (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2keUkN22C99cHN8NU9Tq2v"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/7htNAPiOOZojiTuxfPrzTg"
     },
     {
       "album": {
@@ -1476,6 +1494,24 @@
       "duration_ms": 301813,
       "name": "Why",
       "url": "https://open.spotify.com/track/1UZns15TdY7BFYFrs51bJo"
+    },
+    {
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301813,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/263omDZiPVO59MhpGOfQPZ"
     },
     {
       "album": {

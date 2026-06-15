@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 22768,
+  "num_followers": 22776,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAADulx9C8Ic0sapYODsQKfVb",
+  "snapshot_id": "aiydgAAAAACDl7XVtESzE0qSyFc5oCSx",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobo Me Tienes / Suave",
+        "url": "https://open.spotify.com/album/4FJGLIc25LqXXlcavslW4M"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/7AEHbbJXyDZYwEjPCr1B9L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 176573,
       "name": "Old Money",
       "url": "https://open.spotify.com/track/0qdtB6uRpQHCdrSrpbrId5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobo Me Tienes / Suave",
-        "url": "https://open.spotify.com/album/4FJGLIc25LqXXlcavslW4M"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/7AEHbbJXyDZYwEjPCr1B9L"
     },
     {
       "added_at": null,

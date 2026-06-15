@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 | 2023-04-08 |  |
+| [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/5xSDgnp0t87WsXyMUjuKG9) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 | 2023-04-08 |  |
 | [5th and James](https://open.spotify.com/track/7f49BlB4GeVB402PU1UTMg) | [Ezra Bell](https://open.spotify.com/artist/1nGqKVGfPPiVgxMdx8hYOI) | [5th and James](https://open.spotify.com/album/6mDwWUWn6Q83qhbAHqsp7b) | 3:58 | 2023-04-08 |  |
 | [A Better Son/Daughter](https://open.spotify.com/track/1OrBPFs8yLkT02aLiloHQs) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:39 | 2023-04-08 |  |
 | [A Drink from the Trough](https://open.spotify.com/track/3uHVGtuZMXtfJpwS63GNOL) | [Ezra Bell](https://open.spotify.com/artist/1nGqKVGfPPiVgxMdx8hYOI) | [Ezra Bell](https://open.spotify.com/album/6ZsUkdYEqcFuVVfqsnPLSK) | 3:00 | 2023-04-08 |  |

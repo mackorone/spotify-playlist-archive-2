@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 6 hr 24 min
+138 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Summer Chick](https://open.spotify.com/track/0RMMiZnHet7g8drfUVuP7x) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:10 | 2023-12-13 |  |
 | [Sunrise](https://open.spotify.com/track/4l7D1q4Z2XIZE7GzCWnFeb) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj) | [Blue](https://open.spotify.com/album/4xYXybTIaWJJVR3ahv85TO) | 2:18 | 2023-12-13 | 2024-11-21 |
 | [Sunrise](https://open.spotify.com/track/0TZU7f8kkSpSrTGDQ6tlAx) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj) | [Blue](https://open.spotify.com/album/6c1ZoarYrehwUalcmRUsTt) | 2:18 | 2024-11-20 |  |
-| [Sunshine](https://open.spotify.com/track/06pHDBwLH2pLRLKHyOn4oY) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [MP3+WAV](https://open.spotify.com/album/7suGgXP17eAgx9dBJUFAWZ) | 2:52 | 2024-02-27 |  |
+| [Sunshine](https://open.spotify.com/track/06pHDBwLH2pLRLKHyOn4oY) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [MP3+WAV](https://open.spotify.com/album/7suGgXP17eAgx9dBJUFAWZ) | 2:52 | 2024-02-27 | 2026-06-15 |
+| [Sunshine](https://open.spotify.com/track/4qJBPtFpLjlRaLo3ymKfCF) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [MP3+WAV](https://open.spotify.com/album/3p1e2Fgo2Pi7LwhUfcNJB7) | 2:52 | 2026-06-14 |  |
 | [Switch](https://open.spotify.com/track/6KCzYRnwngV2aYykXRPFU8) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Switch](https://open.spotify.com/album/6xTbTfx554N3fTIte4LP8n) | 3:09 | 2023-12-13 |  |
 | [Teary Eyes \(feat\. Burna Boy\)](https://open.spotify.com/track/68uqUS5wIIZgSbnWwNEH9Q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:45 | 2026-04-15 |  |
 | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/track/3t7ohmWgtPcE1yXesf9oQU) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Will Juergens](https://open.spotify.com/artist/4Jz0bwESNeDnb8eo1tvpXX), [Cam Chambers](https://open.spotify.com/artist/6ljxfnGOuwFBz8Uw6C5gUj) | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/album/2EsAhFe68A3wSzwp2lMyxA) | 3:55 | 2024-11-26 |  |

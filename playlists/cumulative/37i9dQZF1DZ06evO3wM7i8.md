@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-73 songs - 3 hr 37 min
+74 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 | 2025-07-20 |  |
 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Indispensible Django Reinhardt \(1949\-1950\)](https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH) | 4:19 | 2025-07-20 |  |
 | [Billets Doux](https://open.spotify.com/track/2BsOqXWv9LMNBaSzaznPFv) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:57 | 2025-07-20 |  |
+| [Brazil](https://open.spotify.com/track/1j3dgBGVjeVe20ch5VXVEK) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 2:48 | 2026-06-15 |  |
 | [Brazil](https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:48 | 2025-07-20 | 2025-08-18 |
-| [Brazil](https://open.spotify.com/track/7EgyUrTd8PQIbMzRVRFeGC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 2:48 | 2025-08-18 |  |
+| [Brazil](https://open.spotify.com/track/7EgyUrTd8PQIbMzRVRFeGC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 2:48 | 2025-08-18 | 2026-06-15 |
 | [Chasing Shadows](https://open.spotify.com/track/6oM4MacpuZJH6VUhIQfy3L) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Bioshock 2: The Official Soundtrack \- Music From And Inspired By The Game](https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0) | 2:57 | 2025-10-06 | 2026-05-31 |
 | [Coucou](https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [War Clouds 1940](https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx) | 2:43 | 2025-07-20 |  |
 | [Daphne \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/5317GK88yRZlAQraN7M9gJ) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 2:26 | 2026-02-16 | 2026-04-28 |

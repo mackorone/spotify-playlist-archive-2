@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,312 likes - 150 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,452 likes - 150 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 67 | [Ambrosia](https://open.spotify.com/track/7ibIRUtuqPL0PkWlaQgdgC) | [Sombra Azul](https://open.spotify.com/artist/4EYXyORAJ8gvI1cZVeSEoc) | [Ambrosia](https://open.spotify.com/album/7no7G8lC0uwgYkb3AeoEAK) | 2:16 |
 | 68 | [Evening Sun](https://open.spotify.com/track/500jrBSnirI6rBHNqgUkWn) | [Nebulae Waves](https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2), [Viktorius](https://open.spotify.com/artist/5dtGpKk0Ue8rrE89Y0lUGi), [Moryla](https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0) | [Evening Sun](https://open.spotify.com/album/3caYqdYqo8JtiP5D6dOgjp) | 2:58 |
 | 69 | [Sunshine Dance](https://open.spotify.com/track/52D3PnojEgC52Cvn2HK1MA) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Sunshine Dance](https://open.spotify.com/album/2rm4qnsPiUIenrpLzrQt06) | 2:27 |
-| 70 | [Low Light Service](https://open.spotify.com/track/7xwiSrve65KqROFnSI2Qdm) | [Ohne](https://open.spotify.com/artist/09XX8pHvk6NdIw7Xwymn9z) | [Low Light Service](https://open.spotify.com/album/6q7xHlohvGvjIK6oU9ORv3) | 3:38 |
+| 70 | [Low Light Service](https://open.spotify.com/track/7xwiSrve65KqROFnSI2Qdm) | [Ohne](https://open.spotify.com/artist/2hiE1OsyDyTLyIZbAixdHn) | [Low Light Service](https://open.spotify.com/album/6q7xHlohvGvjIK6oU9ORv3) | 3:38 |
 | 71 | [All Together](https://open.spotify.com/track/7lsQ5xKT9mxtmhgJyKUfKm) | [bonaira](https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ) | [All Together](https://open.spotify.com/album/6eMwp4EudeSkr9gOBS2JyN) | 2:07 |
 | 72 | [Velvet Booth](https://open.spotify.com/track/7nr7FBOjNubyavoqhoRkMb) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Velvet Booth](https://open.spotify.com/album/3VInFJGz32nL7s5aCWRxIa) | 2:14 |
 | 73 | [Solar Winds](https://open.spotify.com/track/0KxKq8657bW5oaJCvvH10o) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Solar Winds](https://open.spotify.com/album/6snQcHa7GKReD4BULad0Kv) | 4:11 |

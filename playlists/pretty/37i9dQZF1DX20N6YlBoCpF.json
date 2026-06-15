@@ -1,28 +1,28 @@
 {
   "description": "Al die nuutste Afrikaanse musiek met Danny Smoke, Kurt Darren, Droomsindroom, Bernice West, ONS en meer!",
-  "num_followers": 43738,
+  "num_followers": 43740,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOelUNV3/GMcALxPaO6GPQkHFoDC",
+  "snapshot_id": "AAAAAC3l27iHlKn0hhz5W0YiokRT9KNP",
   "tracks": [
     {
       "added_at": "2026-06-11 22:01:37",
       "album": {
-        "name": "Langarm en Liefde",
-        "url": "https://open.spotify.com/album/5ODx8UmLROnoeeYdVUbIXe"
+        "name": "Naam Weggooi",
+        "url": "https://open.spotify.com/album/3pagQ7biGd66WxfSwVmXbM"
       },
       "artists": [
         {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
         }
       ],
-      "duration_ms": 194560,
-      "name": "Langarm en Liefde",
-      "url": "https://open.spotify.com/track/2OP7Uxh6cU0bkL5ZsVAtge"
+      "duration_ms": 171713,
+      "name": "Naam Weggooi",
+      "url": "https://open.spotify.com/track/6KB5RJg3ZbzNPSqESXMIVj"
     },
     {
       "added_at": "2026-06-04 22:01:23",
@@ -43,18 +43,18 @@
     {
       "added_at": "2026-06-11 22:01:37",
       "album": {
-        "name": "Naam Weggooi",
-        "url": "https://open.spotify.com/album/3pagQ7biGd66WxfSwVmXbM"
+        "name": "Langarm en Liefde",
+        "url": "https://open.spotify.com/album/5ODx8UmLROnoeeYdVUbIXe"
       },
       "artists": [
         {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
         }
       ],
-      "duration_ms": 171713,
-      "name": "Naam Weggooi",
-      "url": "https://open.spotify.com/track/6KB5RJg3ZbzNPSqESXMIVj"
+      "duration_ms": 194560,
+      "name": "Langarm en Liefde",
+      "url": "https://open.spotify.com/track/2OP7Uxh6cU0bkL5ZsVAtge"
     },
     {
       "added_at": "2026-06-04 22:01:23",

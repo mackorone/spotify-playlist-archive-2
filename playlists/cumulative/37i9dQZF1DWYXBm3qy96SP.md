@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Soft Pine
 
-2,089 songs - 5 day 1 hr 35 min
+2,090 songs - 5 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Bleed Out](https://open.spotify.com/track/1oNy8VAsmqlx7isSPR5oQe) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/6NyQhDlNC1CDy0WliMhCvZ) | 4:30 | 2023-08-17 | 2023-08-25 |
 | [Bleeding for Nothing](https://open.spotify.com/track/2nGE6WcpvY0zkjo6jdHhFN) | [Modern Jazz War](https://open.spotify.com/artist/0RuckljmK4FzRmu5lU9PjU) | [Holes in Modernity](https://open.spotify.com/album/38LAAjVp1J1uDPUufgViZc) | 4:34 | 2026-03-05 | 2026-04-10 |
 | [BLiNDEYES feat\. hanabie](https://open.spotify.com/track/12JJURPpbzVF9VSgrYo90M) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt), [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [BLiNDEYES feat\. hanabie](https://open.spotify.com/album/3CarnqeuK6s3rwPqE1hTHN) | 3:17 | 2026-05-21 | 2026-06-12 |
-| [BLINDFOLD](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 | 2026-04-20 |  |
+| [BLINDFOLD](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 | 2026-04-20 | 2026-06-15 |
 | [blindspot](https://open.spotify.com/track/1rju0XLSgmtqpjrrCJxsp4) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [blindspot](https://open.spotify.com/album/5LXixqIRcSzjsHRQkGDooc) | 3:27 | 2023-12-14 | 2024-01-05 |
 | [Blood & Fire](https://open.spotify.com/track/3TWjjl0gp332SPLMxlmWET) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Blood & Fire](https://open.spotify.com/album/27Otg8SYC2BhPkLD3pqbG3) | 3:32 | 2023-08-31 | 2023-09-08 |
 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 | 2023-05-18 | 2023-06-02 |
@@ -922,6 +922,7 @@
 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 | 2026-05-07 |  |
 | [In Your City](https://open.spotify.com/track/6eZj6copAxs0la9V8FTJmA) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Wabi Sabi](https://open.spotify.com/album/0kPjOeepHuRmHR43CtmUlD) | 3:21 | 2023-11-23 | 2023-12-01 |
 | [In Your Name](https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [In Your Name](https://open.spotify.com/album/5z3UBg2HZS5tqNyzRZ7wAD) | 4:42 | 2026-04-09 | 2026-05-06 |
+| [In Yr Right Hand Reveal Heaven](https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2) | 4:41 | 2026-06-15 |  |
 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-05 | 2025-08-27 |
 | [Infernoids](https://open.spotify.com/track/0pok6MZVjACv63B032iF7W) | [Adora](https://open.spotify.com/artist/6hlmeO5GSiAKHjBgZlKPmB) | [Infernoids \- Single](https://open.spotify.com/album/1UThdhct5a4WeVQc8croan) | 3:11 | 2024-05-16 | 2024-06-01 |
 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 | 2025-08-21 | 2026-03-13 |

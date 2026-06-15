@@ -5426,7 +5426,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 245783,
       "name": "Cabernet",
       "url": "https://open.spotify.com/track/16ElBU3Nnk4SCElgYmK0jt"
@@ -6988,7 +6988,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 178603,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
@@ -11464,6 +11464,28 @@
       "duration_ms": 110571,
       "name": "distorted memories",
       "url": "https://open.spotify.com/track/2QJEVdIX5xuBGrDSpPjocC"
+    },
+    {
+      "album": {
+        "name": "Diviri",
+        "url": "https://open.spotify.com/album/0vqRcUCIht7qZ4GyL2T62V"
+      },
+      "artists": [
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        },
+        {
+          "name": "Ricko",
+          "url": "https://open.spotify.com/artist/6iMwEtMtogBXXnBUOowaIj"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100750,
+      "name": "Diviri",
+      "url": "https://open.spotify.com/track/4LAamFiajCs6noXW6NpVZH"
     },
     {
       "album": {
@@ -33756,7 +33778,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 250560,
       "name": "Que Se Mueran",
       "url": "https://open.spotify.com/track/7FrPSk0rZdCPR50pfzdzMK"
@@ -37620,7 +37642,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 100269,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/5SfpF8yQCo9C2DINN9jrzl"
@@ -38376,6 +38398,40 @@
       "duration_ms": 141355,
       "name": "Silla",
       "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
+    },
+    {
+      "album": {
+        "name": "Silla \"EMPIRICO SESION 3\"",
+        "url": "https://open.spotify.com/album/7wrXIJdic5UrprpM8MtmEx"
+      },
+      "artists": [
+        {
+          "name": "Empirico741",
+          "url": "https://open.spotify.com/artist/7sCchIB60qI85CqYxCMWXs"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Aldeeen",
+          "url": "https://open.spotify.com/artist/7fJQfmymCz7KYn1kdSlzFO"
+        },
+        {
+          "name": "Little Loove",
+          "url": "https://open.spotify.com/artist/4BteQtQJ7nGJRjLC3VNK8i"
+        },
+        {
+          "name": "OKEIFLOU",
+          "url": "https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e"
+        }
+      ],
+      "date_added": "2026-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Silla \"EMPIRICO SESION 3\"",
+      "url": "https://open.spotify.com/track/11e8NRE8OiGuMA53Qby67Y"
     },
     {
       "album": {
@@ -39588,7 +39644,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -44010,7 +44066,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-15",
       "duration_ms": 199253,
       "name": "VAMOaCOCHI",
       "url": "https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz"

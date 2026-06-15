@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Olivia Rodrigo, Spacey Jane, Sonny Fodera, LE SSERAFIM, ILLIT, KATSEYE + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,872 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,839 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

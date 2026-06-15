@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Damini Bhatla, Manisha Eerabathini, Pho
 
-536 songs - 1 day 8 hr 4 min
+537 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Anna Chelli Anubandham](https://open.spotify.com/track/4GejSY5P7SQXc5Hln6dnU6) | [Boda Jayanth Maadhur](https://open.spotify.com/artist/3x168egz6kQ67souPEwZFY), [Sahithi Adapa](https://open.spotify.com/artist/0G7jVjthZwdLRMADl7Kg5m), [Hamsini](https://open.spotify.com/artist/5KVLBdQwLKz3KNAEC97fB8), [Dia](https://open.spotify.com/artist/76rZrfcbFRe8C0URMZBd2A) | [Anna Chelli Anubandham](https://open.spotify.com/album/2ff94mRYUtwgxUbmHNjiGj) | 3:46 | 2023-09-13 | 2023-09-28 |
 | [Anukokunda](https://open.spotify.com/track/3SSAFT9NPbQTTAT8cKCuyD) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Anukokunda](https://open.spotify.com/album/3mmudJUHwELNQuiaLsAOMY) | 2:50 | 2024-07-25 | 2024-10-11 |
 | [Apashampakirikiri](https://open.spotify.com/track/5Aq0ncMH951va6Rm3owSLy) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Apashampakirikiri](https://open.spotify.com/album/7ycxolhPIqW83cNKuRsecS) | 2:21 | 2025-04-11 | 2025-07-02 |
+| [Aravindh \(Telugu\)](https://open.spotify.com/track/47EyHixke4M8597pX7aBWi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Srinivasa Mouli](https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi) | [Aravindh \(Telugu\)](https://open.spotify.com/album/6S74tGtUi00gmHXS8UuC69) | 4:09 | 2026-06-14 |  |
 | [Ayyayyo](https://open.spotify.com/track/1uQrWxg5XuFXAtgADRgQQP) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Ayyayyo](https://open.spotify.com/album/6rhrJYqtqsse4H6b5gVoTB) | 4:30 | 2023-03-17 | 2024-01-03 |
 | [Ayyo](https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o) | [Jedediah.wtf](https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Ayyo](https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt) | 3:38 | 2024-02-14 | 2025-09-11 |
 | [Baapu](https://open.spotify.com/track/59jdncLuldJpVDYfBAm2Co) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP) | [Baapu](https://open.spotify.com/album/3CloadVWRFcT50PfnGPkUQ) | 3:19 | 2025-06-19 | 2025-08-11 |
@@ -106,7 +107,7 @@
 | [Eeroje](https://open.spotify.com/track/3bVDOouNAzL5tHsISeCbgw) | [Fleep & Arin](https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl) | [Eeroje](https://open.spotify.com/album/1wfq34tbWY4qN4ojUJJ81F) | 3:08 | 2024-11-29 | 2025-04-24 |
 | [Em Mantramo](https://open.spotify.com/track/5bPh0qRKt19LMSz3YN6G1V) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf), [Sherni](https://open.spotify.com/artist/4Zw7oOYwz6P9NHJP5NGnWS) | [Em Mantramo](https://open.spotify.com/album/4TcOrl0eAyJTtCMqHIcxFh) | 2:53 | 2023-12-19 | 2024-05-11 |
 | [Em Ra Balraju Heavy Dose](https://open.spotify.com/track/4mmmsCgcZ6OQi5s0pyK9Ey) | [Sharwan Swain](https://open.spotify.com/artist/1RgodyRIVuzKzKY5fNfrwB) | [Em Ra Balraju Heavy Dose](https://open.spotify.com/album/1WQbnAg3CvQV7DADCoZ19R) | 2:36 | 2025-04-23 | 2025-06-13 |
-| [Em Tech Ra B Tech](https://open.spotify.com/track/6SA8q9gHqnO0352sPHz8cP) | [Prem](https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l) | [Em Tech Ra B Tech](https://open.spotify.com/album/7aR1rjE3DjkdAgd34MPj6z) | 3:53 | 2025-12-02 |  |
+| [Em Tech Ra B Tech](https://open.spotify.com/track/6SA8q9gHqnO0352sPHz8cP) | [Prem](https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l) | [Em Tech Ra B Tech](https://open.spotify.com/album/7aR1rjE3DjkdAgd34MPj6z) | 3:53 | 2025-12-02 | 2026-06-15 |
 | [Emone](https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Emone](https://open.spotify.com/album/2WcXXGGJiY1ID6JsVx2c1f) | 5:28 | 2023-02-02 | 2025-10-04 |
 | [Endukala \(Lovers No More\)](https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6) | [Alluri](https://open.spotify.com/artist/1MJd59IWbIWtj6CdlJhWG8) | [O Katha](https://open.spotify.com/album/4mj1O1w8H5TjhoYWzyKxYC) | 3:25 | 2024-02-02 | 2024-04-06 |
 | [Ennenni Chitralu Chesave](https://open.spotify.com/track/5W4Wm1O3ShKn6uBzskh4TE) | [BG Shirdi](https://open.spotify.com/artist/1JeCUmcHMT3B8PUndozsMt), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2) | [Ennenni Chitralu Chesave](https://open.spotify.com/album/6PsFOsPksHBSGE17dkDVSU) | 3:40 | 2024-07-29 | 2024-08-24 |

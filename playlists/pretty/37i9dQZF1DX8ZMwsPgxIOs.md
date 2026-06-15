@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Juliet Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,336 likes - 169 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,349 likes - 169 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

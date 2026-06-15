@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,635 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,681 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 |
 | 100 | [Sunflower, Raise Your Heavy Head and Face the Sun!](https://open.spotify.com/track/2mXwSbqPRfmiG2KcM81Y1j) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Greenhouse](https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU) | 1:44 |
 
-Snapshot ID: `AAAAAO4alT32HlX2BZ0VTZmsnU3F16Yp`
+Snapshot ID: `AAAAAPAUSKvs8JSAwuX1cIQ3M7CZ9ReB`

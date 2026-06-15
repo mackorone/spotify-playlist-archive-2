@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Danny Smoke, Kurt Darren, Droomsindroom, Bernice West, ONS en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,738 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,740 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Langarm en Liefde](https://open.spotify.com/track/2OP7Uxh6cU0bkL5ZsVAtge) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Langarm en Liefde](https://open.spotify.com/album/5ODx8UmLROnoeeYdVUbIXe) | 3:14 |
+| 1 | [Naam Weggooi](https://open.spotify.com/track/6KB5RJg3ZbzNPSqESXMIVj) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Naam Weggooi](https://open.spotify.com/album/3pagQ7biGd66WxfSwVmXbM) | 2:51 |
 | 2 | [Daai Gevoel](https://open.spotify.com/track/04DsO0XoYGNDACYf3k3BoC) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Daai Gevoel](https://open.spotify.com/album/7EsYIKwbw2huLtVoNxhNpF) | 3:11 |
-| 3 | [Naam Weggooi](https://open.spotify.com/track/6KB5RJg3ZbzNPSqESXMIVj) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Naam Weggooi](https://open.spotify.com/album/3pagQ7biGd66WxfSwVmXbM) | 2:51 |
+| 3 | [Langarm en Liefde](https://open.spotify.com/track/2OP7Uxh6cU0bkL5ZsVAtge) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Langarm en Liefde](https://open.spotify.com/album/5ODx8UmLROnoeeYdVUbIXe) | 3:14 |
 | 4 | [Langpad Na Die Hemel](https://open.spotify.com/track/2wLbkfGvlZDJJULuuqoYiM) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Langpad Na Die Hemel](https://open.spotify.com/album/0nlV0Xzj4UIxbi6SxgmMgi) | 3:56 |
 | 5 | [Toelaat](https://open.spotify.com/track/2xv9q2QK3wWHRB5nM0TLde) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Toelaat](https://open.spotify.com/album/5JdyijoGX7ODZBtwQ4kMSn) | 3:49 |
 | 6 | [Sink In Die Hemel In](https://open.spotify.com/track/2GAksPn9Omb2JusaztzY6V) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Sink In Die Hemel In](https://open.spotify.com/album/6LqkflOHAHzsQSxaOrbfcU) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 99 | [Vanaand Vergeet Ons Van Môre](https://open.spotify.com/track/7d7w5HM2K2Z7ejznFSWiIn) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ), [Pieter Marcato](https://open.spotify.com/artist/5Aam1RqgWsQpwMJsG7TNzA) | [Vanaand Vergeet Ons Van Môre](https://open.spotify.com/album/4V0trGNqwlZQwpkRZfX80Q) | 2:49 |
 | 100 | [Skaakmat](https://open.spotify.com/track/47CTcKuABlWUJ89Lyikx56) | [PJ Moll](https://open.spotify.com/artist/2DxTse8dON1AbgTlo2cvHR) | [Skaakmat](https://open.spotify.com/album/1a4D35n5AvB5rKEYOaCJJB) | 2:44 |
 
-Snapshot ID: `AAAAAOelUNV3/GMcALxPaO6GPQkHFoDC`
+Snapshot ID: `AAAAAC3l27iHlKn0hhz5W0YiokRT9KNP`

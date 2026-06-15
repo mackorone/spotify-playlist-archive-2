@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Emmett Jerome
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,067 likes - 184 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,066 likes - 184 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

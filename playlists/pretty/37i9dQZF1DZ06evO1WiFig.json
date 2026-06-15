@@ -1,12 +1,12 @@
 {
   "description": "This is Aldous Harding. The essential tracks, all in one playlist.",
-  "num_followers": 4834,
+  "num_followers": 4848,
   "original_name": "This Is Aldous Harding",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aitMAAAAAAAiKuDuHM3b4IaMPSumFeYO",
+  "snapshot_id": "aiydgAAAAAB0biQYa4yW5uu55ufUlZes",
   "tracks": [
     {
       "added_at": null,
@@ -170,11 +170,15 @@
         {
           "name": "Aldous Harding",
           "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        },
+        {
+          "name": "H. Hawkline",
+          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
         }
       ],
-      "duration_ms": 246573,
-      "name": "I Ate the Most",
-      "url": "https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ"
+      "duration_ms": 197372,
+      "name": "Venus in the Zinnia",
+      "url": "https://open.spotify.com/track/0l6WmPHX45TGQTKyQ3nATI"
     },
     {
       "added_at": null,
@@ -234,15 +238,11 @@
         {
           "name": "Aldous Harding",
           "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        },
-        {
-          "name": "H. Hawkline",
-          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
         }
       ],
-      "duration_ms": 197372,
-      "name": "Venus in the Zinnia",
-      "url": "https://open.spotify.com/track/0l6WmPHX45TGQTKyQ3nATI"
+      "duration_ms": 246573,
+      "name": "I Ate the Most",
+      "url": "https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 224475,
-      "name": "What Am I Gonna Do?",
-      "url": "https://open.spotify.com/track/0zjJ6PEvlySewSEuXYTWJc"
+      "duration_ms": 282031,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/09rHthpRrPxjwXZdurBpfi"
     },
     {
       "added_at": null,
