@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "Aa Bhi Jaa",
+        "url": "https://open.spotify.com/album/5Zulfwq1eAiYuGXADP2xBA"
+      },
+      "artists": [
+        {
+          "name": "Dnox",
+          "url": "https://open.spotify.com/artist/5aJBn1uk9kLVqZj5w1gAVc"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Aa Bhi Jaa",
+      "url": "https://open.spotify.com/track/64cTlLXOwNKsoWz5Bi5QH3"
+    },
+    {
+      "album": {
         "name": "Aa Zara",
         "url": "https://open.spotify.com/album/1mZTDaxkW3J7eMpnHP4HoW"
       },
@@ -1266,7 +1288,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 176000,
       "name": "Ab Ke Hum Bichhde",
       "url": "https://open.spotify.com/track/6Qd3NL3Z29bRY7wuwdZ5wb"
@@ -1834,7 +1856,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 275647,
       "name": "Akela Dil",
       "url": "https://open.spotify.com/track/53hnl4DuFj9qtujPvRwXkY"
@@ -26873,6 +26895,32 @@
     },
     {
       "album": {
+        "name": "Tere Mere Darmiyaan",
+        "url": "https://open.spotify.com/album/3qBUDbNXhsglk1KJH3uRJh"
+      },
+      "artists": [
+        {
+          "name": "Dr. Kunal Sharma",
+          "url": "https://open.spotify.com/artist/6VvOVHnYYrFqkmldHt0ici"
+        },
+        {
+          "name": "Prajakta Shukre",
+          "url": "https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB"
+        },
+        {
+          "name": "Himani Kapoor",
+          "url": "https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180892,
+      "name": "Tere Mere Darmiyaan",
+      "url": "https://open.spotify.com/track/6ZpeicTNLIBEctuNWX0f0D"
+    },
+    {
+      "album": {
         "name": "Tere Peeche Chal Diya",
         "url": "https://open.spotify.com/album/7HmP4zLHdIgP6WiNhdCvRA"
       },
@@ -29642,7 +29690,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 242000,
       "name": "Waqt",
       "url": "https://open.spotify.com/track/2CHJGXI9cbp16WLpz3ohdj"
@@ -29818,6 +29866,24 @@
       "duration_ms": 183785,
       "name": "What To do",
       "url": "https://open.spotify.com/track/0mrh7hdwT3Ro6lk2WhsEe2"
+    },
+    {
+      "album": {
+        "name": "What\u2019s Love?",
+        "url": "https://open.spotify.com/album/2o4NvurXkAgNoSXFVQ5bJS"
+      },
+      "artists": [
+        {
+          "name": "Abhimanyu-Pragya",
+          "url": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "What\u2019s Love?",
+      "url": "https://open.spotify.com/track/1E16RREgD2Vrb5aqtS8Jwj"
     },
     {
       "album": {

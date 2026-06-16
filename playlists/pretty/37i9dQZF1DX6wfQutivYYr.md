@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > Tedua sulla cover della playlist più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,724,494 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,724,385 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 13 | [Maladie](https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM) | 3:12 |
 | 14 | [Buon Vento](https://open.spotify.com/track/5vdmfjy5CVrV0xYEcO2f4Q) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Buon Vento](https://open.spotify.com/album/06ge45XUS63W0ENu9QjjQN) | 2:55 |
 | 15 | [SWAG MUSIC](https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [SWAG MUSIC](https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10) | 2:52 |
-| 16 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:40 |
+| 16 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:43 |
 | 17 | [the cure](https://open.spotify.com/track/5gJMjRYDWy2vxUi9v1ZWd8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure \(performance video\)](https://open.spotify.com/album/32kd4g7m4ZBpoaOL5Wuowm) | 4:57 |
 | 18 | [AYAYAY](https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [AYAYAY](https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n) | 2:26 |
 | 19 | [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 |

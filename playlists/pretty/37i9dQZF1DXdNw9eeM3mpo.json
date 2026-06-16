@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Vicente Cifuentes y Joselo Osses en portada.",
-  "num_followers": 489303,
+  "num_followers": 489328,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4o6q7jqE6r4r6AQOsXcFov"
-      },
-      "artists": [
-        {
-          "name": "Baby Aventurero",
-          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
-        },
-        {
-          "name": "Los Madafakers",
-          "url": "https://open.spotify.com/artist/1SAld8ktXze42eYj6oN4xt"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/6UGW4PkoGy1nW4rzrzlwbp"
-    },
-    {
-      "added_at": "2026-05-01 06:00:35",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2026-05-01 06:00:35",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4o6q7jqE6r4r6AQOsXcFov"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Los Madafakers",
+          "url": "https://open.spotify.com/artist/1SAld8ktXze42eYj6oN4xt"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/6UGW4PkoGy1nW4rzrzlwbp"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "PASO AL AIRE",
-        "url": "https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z"
+        "name": "La Bacha",
+        "url": "https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw"
       },
       "artists": [
         {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+          "name": "Adhesivo",
+          "url": "https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n"
         }
       ],
-      "duration_ms": 210026,
-      "name": "PASO AL AIRE",
-      "url": "https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac"
+      "duration_ms": 196018,
+      "name": "La Bacha",
+      "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
     },
     {
       "added_at": "2026-05-01 06:00:35",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2026-05-01 06:00:35",
       "album": {
-        "name": "La Bacha",
-        "url": "https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw"
+        "name": "En Vivo Desde el Teatro Metrop\u00f3litan",
+        "url": "https://open.spotify.com/album/1zU1ZCHv0ZlTJNOmyCqzVc"
       },
       "artists": [
         {
-          "name": "Adhesivo",
-          "url": "https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 196018,
-      "name": "La Bacha",
-      "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
+      "duration_ms": 241306,
+      "name": "Fuera de Control - En Vivo",
+      "url": "https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd"
     },
     {
       "added_at": "2026-05-01 06:00:35",

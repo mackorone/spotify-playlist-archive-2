@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 > Geniet van de zon met deze lijst vol zomer vibes! Met muziek van Olivia Dean, Sam Fender , Shakira en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 127,572 likes - 88 songs - 4 hr 53 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 127,562 likes - 88 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

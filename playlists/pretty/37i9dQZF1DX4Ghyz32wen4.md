@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Big Sempa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,623 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,615 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 6 | [ROMANTIK DRAMA](https://open.spotify.com/track/4kQnlG3iWjnIzfrOyBr66j) | [Lei B](https://open.spotify.com/artist/7ENibarVYEjVWB6SNKQUhm) | [ROMANTIK DRAMA](https://open.spotify.com/album/4UPJXJV2t3SiqOTZmHnNqi) | 2:43 |
 | 7 | [Escutando Delacruz](https://open.spotify.com/track/3M8YpdZnaokDuqmkOusZ2Y) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Escutando Delacruz](https://open.spotify.com/album/3o7auDjK8L2PYoxMQSuO8H) | 2:49 |
 | 8 | [MALASNOTICIAS.](https://open.spotify.com/track/5W1bHlFGv5jJw1xyWQJlrJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [MALASNOTICIAS.](https://open.spotify.com/album/76HEOpvvIpymofngK3tRSE) | 3:16 |
-| 9 | [TORNADO](https://open.spotify.com/track/1Yhp8svb5L8VWdIAesrCd5) | [Flavio Rodriguez](https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [TORNADO](https://open.spotify.com/album/63Cmwn1kDLhojUTqk11PK9) | 2:58 |
+| 9 | [TORNADO](https://open.spotify.com/track/1Yhp8svb5L8VWdIAesrCd5) | [Flavio Rodriguez](https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53), [Cruzzi](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [TORNADO](https://open.spotify.com/album/63Cmwn1kDLhojUTqk11PK9) | 2:58 |
 | 10 | [Los Desconocidos](https://open.spotify.com/track/0QPZNxvf6M4mWJqdAtEwwm) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Llamas](https://open.spotify.com/artist/67wz05u28BbbBx6lU9g1Jt) | [Genaro Presenta: Este No Es el Disco Volumen\. II](https://open.spotify.com/album/6ISuv9ZZaNvs0vRVzk6Tmx) | 3:14 |
 | 11 | [Hiperfoco](https://open.spotify.com/track/4UW06E8zwQ8rv4aNkiJVrJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb), [RZNHA](https://open.spotify.com/artist/4VLo8tyf3dGJnmh6S6B7ce) | [RZNHA na Pineapple](https://open.spotify.com/album/0dtjgYoTx1cfgbj5HjqcEJ) | 3:13 |
 | 12 | [Yoseké](https://open.spotify.com/track/5Ec9bwF9RtmDejMauRGb9x) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [Yoseké](https://open.spotify.com/album/4G8PJak3gIHDSU61urSkan) | 3:14 |

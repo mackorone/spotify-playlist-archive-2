@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 💚 Cover: Carla Hero
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,850 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,852 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 99 | [Dream Life](https://open.spotify.com/track/1NhIwUE8G191kk431ALDmB) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Dream Life / Shoe Shaped Cloud](https://open.spotify.com/album/4onLOTag1tj6Iu8jXzUFDx) | 4:00 |
 | 100 | [mia](https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Nessuna](https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM) | 2:14 |
 
-Snapshot ID: `AAAAABRzHEhfT4KIq2vQoCHhMu5JwEvR`
+Snapshot ID: `AAAAABb+QzznYzfmo2ajacvh3bZZkRYE`

@@ -1,6 +1,6 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1427102,
+  "num_followers": 1427332,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
         }
       ],
-      "duration_ms": 245600,
-      "name": "Old",
-      "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
+      "duration_ms": 321573,
+      "name": "Jet City Woman - Remastered 2003",
+      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
     },
     {
       "added_at": "2025-11-24 12:45:57",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
       },
       "artists": [
         {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 321573,
-      "name": "Jet City Woman - Remastered 2003",
-      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+      "duration_ms": 245600,
+      "name": "Old",
+      "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
     },
     {
       "added_at": "2025-11-24 12:45:57",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/76g4Ybt7SW4PvloFDIzsSX"
+    },
+    {
+      "added_at": "2025-11-24 12:45:57",
+      "album": {
         "name": "The Downward Spiral",
         "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 178426,
       "name": "March Of The Pigs",
       "url": "https://open.spotify.com/track/2Ad7XA54Jw0YyBF5rjiFyl"
-    },
-    {
-      "added_at": "2025-11-24 12:45:57",
-      "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3EZeqOrysyyuUXoJv0Vy5K"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/7cWBlhe7dt3nHipbII25m1"
     },
     {
       "added_at": "2025-11-24 12:45:57",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "Spit",
-        "url": "https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu"
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3EZeqOrysyyuUXoJv0Vy5K"
       },
       "artists": [
         {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 239066,
-      "name": "Charlotte",
-      "url": "https://open.spotify.com/track/76g4Ybt7SW4PvloFDIzsSX"
+      "duration_ms": 153800,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/7cWBlhe7dt3nHipbII25m1"
     }
   ],
   "unique_name": "90s Metal Classics",

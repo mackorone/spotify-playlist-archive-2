@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 342903,
+  "num_followers": 342942,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAACtLTSgru2PSYJdjIvpxCwB",
+  "snapshot_id": "ai3vAAAAAAB7CpvtzdSPxbXcF/PtTIWX",
   "tracks": [
     {
       "added_at": null,
@@ -1007,18 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEAUTIFUL DAY",
-        "url": "https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa"
+        "name": "Second Rounds On Me",
+        "url": "https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5"
       },
       "artists": [
+        {
+          "name": "Obie Trice",
+          "url": "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 158107,
-      "name": "RINGTONE",
-      "url": "https://open.spotify.com/track/3hwF82gqPyi3GdQLVcxVpp"
+      "duration_ms": 241253,
+      "name": "Snitch",
+      "url": "https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr"
     }
   ],
   "unique_name": "This Is Akon",

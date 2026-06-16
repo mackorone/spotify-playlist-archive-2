@@ -14143,6 +14143,24 @@
     },
     {
       "album": {
+        "name": "Critical Mass",
+        "url": "https://open.spotify.com/album/1A6frMXAG6GRbl9SJMbR6S"
+      },
+      "artists": [
+        {
+          "name": "Shiny Baubles",
+          "url": "https://open.spotify.com/artist/2GfcjLOZP7VNM2uI6ZPOVj"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163105,
+      "name": "Critical Mass",
+      "url": "https://open.spotify.com/track/4spaTikylB1WV0ckpALzH7"
+    },
+    {
+      "album": {
         "name": "Critics of Neon",
         "url": "https://open.spotify.com/album/1L1bxqGy28y3uiBaTBjANa"
       },

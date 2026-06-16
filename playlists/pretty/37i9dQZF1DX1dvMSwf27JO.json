@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 556397,
+  "num_followers": 556366,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -815,30 +815,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Are You In The Room",
-        "url": "https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej"
-      },
-      "artists": [
-        {
-          "name": "CLUB INDGO",
-          "url": "https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC"
-        },
-        {
-          "name": "San\u00e7a",
-          "url": "https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc"
-        },
-        {
-          "name": "Ill Addicts",
-          "url": "https://open.spotify.com/artist/0M4HBOoYoByb7ErrGMjM3z"
-        }
-      ],
-      "duration_ms": 187383,
-      "name": "Are You In The Room",
-      "url": "https://open.spotify.com/track/5d4njBTnGHcaSvjDnicA3N"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Fisherrr (Remix)",
         "url": "https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 235354,
       "name": "Fisherrr - Remix",
       "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Are You In The Room",
+        "url": "https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej"
+      },
+      "artists": [
+        {
+          "name": "CLUB INDGO",
+          "url": "https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC"
+        },
+        {
+          "name": "San\u00e7a",
+          "url": "https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc"
+        },
+        {
+          "name": "Ill Addicts",
+          "url": "https://open.spotify.com/artist/0M4HBOoYoByb7ErrGMjM3z"
+        }
+      ],
+      "duration_ms": 187383,
+      "name": "Are You In The Room",
+      "url": "https://open.spotify.com/track/5d4njBTnGHcaSvjDnicA3N"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Good Movie",
-        "url": "https://open.spotify.com/album/2REajdJ8KOaR8Vm2Zx8UXM"
+        "name": "WAN ME DEAD",
+        "url": "https://open.spotify.com/album/2IZuFx4C7bvUQdCWEiRcLR"
       },
       "artists": [
         {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+          "name": "808vic",
+          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
         }
       ],
-      "duration_ms": 189151,
-      "name": "DJ In The Car",
-      "url": "https://open.spotify.com/track/7w4yrrz2HMkqjhDrLjA4yy"
+      "duration_ms": 131427,
+      "name": "WAN ME DEAD",
+      "url": "https://open.spotify.com/track/7xQNKbIhGbfibisThIb75d"
     }
   ],
   "unique_name": "'fit check",

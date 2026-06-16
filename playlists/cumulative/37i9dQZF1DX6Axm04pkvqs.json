@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "Igbo Worship Medley (Live)",
+        "url": "https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs"
+      },
+      "artists": [
+        {
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
+        }
+      ],
+      "date_added": "2025-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474999,
+      "name": "Igbo Worship Medley - Live",
+      "url": "https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G"
+    },
+    {
+      "album": {
         "name": "Ihe I Na-Emere M DI Mma",
         "url": "https://open.spotify.com/album/5DoRb3TJZwF4C1g4GMdgvw"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 214479,
       "name": "Intensify",
       "url": "https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw"

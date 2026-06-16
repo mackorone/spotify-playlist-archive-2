@@ -1,6 +1,6 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 230950,
+  "num_followers": 230926,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
@@ -15,6 +15,10 @@
         "url": "https://open.spotify.com/album/6DB9aJSH9YGNlQLWBRYalw"
       },
       "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
         {
           "name": "Trevor Jackson",
           "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"

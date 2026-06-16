@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-715 songs - 1 day 14 hr 28 min
+716 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,8 @@
 | [To You](https://open.spotify.com/track/2PgNsFmKHk63j13lhm4WFf) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [Alex Hackett](https://open.spotify.com/artist/6Pl6blrLZuvByS5oXyOzYG), [Trap King](https://open.spotify.com/artist/6AQA8AHchvs0v84tGbetVR) | [To You](https://open.spotify.com/album/3Csgtkqqx4PgruS16l5kQO) | 2:43 | 2024-07-24 | 2025-06-28 |
 | [Todo Me Gusta de Ti](https://open.spotify.com/track/1vk9m2padsURaoKnh8eBM4) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Voces y Ritmos del Caribe](https://open.spotify.com/album/7MUPRtgyyOFXvd72zkN3Nj) | 2:41 | 2024-07-24 | 2025-06-28 |
 | [Tom, Dick Or Harry](https://open.spotify.com/track/3a71derQFVkhZWEvQIsDjD) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 3:53 | 2025-07-10 |  |
-| [Tomorrow](https://open.spotify.com/track/395b9mfjEHhWfb9YAWMmsl) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Tomorrow](https://open.spotify.com/album/4kWe0MtW6jWGlKxzoVAJ64) | 3:48 | 2024-07-24 |  |
+| [Tomorrow](https://open.spotify.com/track/395b9mfjEHhWfb9YAWMmsl) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Tomorrow](https://open.spotify.com/album/4kWe0MtW6jWGlKxzoVAJ64) | 3:48 | 2024-07-24 | 2026-06-16 |
+| [Tomorrow](https://open.spotify.com/track/5uLu2Xc0HteRl5Mjh1Q7p7) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Tomorrow](https://open.spotify.com/album/1iiRROlXh0DOJyyuur5K0O) | 3:48 | 2026-06-15 |  |
 | [Too Bad \(With Alternate Dance Orchestration\)](https://open.spotify.com/track/3K8ScfKyswQX5GvSSjrbvK) | [Cole Porter \(composer\)](https://open.spotify.com/artist/2MlrdhziMAogDail35dBMR) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 3:04 | 2025-06-27 | 2025-10-31 |
 | [Too Bad \- Single Edit](https://open.spotify.com/track/2W4sO74zIbkgqXLcCpJCoQ) | [Gladius James](https://open.spotify.com/artist/6aUGlRUfGKww4IwhbK7yjY) | [Too Bad](https://open.spotify.com/album/5ZfmENeXhL7NEARlXa3EKS) | 2:54 | 2024-07-24 | 2025-06-28 |
 | [Too Bad \- With Alternate Dance Orchestration](https://open.spotify.com/track/1DVSJaF34zTVdzuzQ02rTC) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Joseph Buloff](https://open.spotify.com/artist/7yO5e0sy05N4LVHbX1J6ze), [Peter Lorre](https://open.spotify.com/artist/0tMRevj5WupjcYQANy6s2Q), [Jules Munshin](https://open.spotify.com/artist/0F0nZC33ETug2U7pTakZNQ), [MGM Studio Chorus](https://open.spotify.com/artist/5dmuBOlipco9YnYwCbN5PW) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 3:04 | 2025-10-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 
 > Let's flow to the beats of downtempo deep house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,141 likes - 61 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,200 likes - 61 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 | 56 | [Moments](https://open.spotify.com/track/1FFKcFY3kDm75lxlQpwn4h) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Moments](https://open.spotify.com/album/5KGOVm9wBnxB54cfaDhwOM) | 4:02 |
 | 57 | [Hypnos](https://open.spotify.com/track/7BM6DcS66FsWisqvfXpJvB) | [Acado](https://open.spotify.com/artist/1z6fgjuCMlbaHSM0xqApwM) | [Hypnos](https://open.spotify.com/album/6MCNpLk6dvP47hq2JZ3cxX) | 5:59 |
 | 58 | [Tankwa Town](https://open.spotify.com/track/55kDJdv7pymmG4URJlVTYR) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [The Arc of Tension](https://open.spotify.com/album/6m8yu8ytRnnxy395MbA80U) | 7:33 |
-| 59 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Meditelectro](https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 |
+| 59 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Meditelectro](https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg), [Periklis Papadopoulos](https://open.spotify.com/artist/44C4nZkSnDjNJ9Fga6SkB6) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 |
 | 60 | [Beautiful Fields](https://open.spotify.com/track/42lAfXPF206dlqzN2v8Y3s) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Beautiful Fields](https://open.spotify.com/album/1MV5RZDGOyn6bFpffuJTKp) | 6:59 |
 | 61 | [sunflower](https://open.spotify.com/track/4pmoV05KcsSw2JnGgTxVea) | [plant milk](https://open.spotify.com/artist/7sdP82BOHQI8W6dT3FSAjc) | [sunflower](https://open.spotify.com/album/73PNYwqdDCfdVJCUl1jaKR) | 2:18 |
 

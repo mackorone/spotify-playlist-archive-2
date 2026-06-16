@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover:  Slayyyter",
-  "num_followers": 65401,
+  "num_followers": 65398,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+      },
+      "artists": [
+        {
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
         "name": "Reputation (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
-      },
-      "artists": [
-        {
-          "name": "Not For Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
-        }
-      ],
-      "duration_ms": 265606,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
       "added_at": "2026-06-02 19:01:30",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
-        "name": "Don\u2019t Make Me Love U",
-        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 205322,
-      "name": "Don\u2019t Make Me Love U",
-      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
         "name": "kiss goodbye / brb",
         "url": "https://open.spotify.com/album/45omOM9b7ujbjudttnasFa"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 163736,
       "name": "kiss goodbye",
       "url": "https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
+        "name": "Don\u2019t Make Me Love U",
+        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 205322,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
     },
     {
       "added_at": "2026-06-02 19:01:30",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 200710,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
         "name": "Janney",
         "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 154992,
       "name": "MALIBU",
       "url": "https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 200710,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
     },
     {
       "added_at": "2026-06-02 19:01:30",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
-        "name": "M\u00fasica Para Abrir El Cielo: Act 2",
-        "url": "https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 147423,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/7zhKcGwizryo4VIJueO1V4"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 150853,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/6zEgLCKqeYmAG83pEvXHw3"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
+        "name": "M\u00fasica Para Abrir El Cielo: Act 2",
+        "url": "https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 147423,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB"
     },
     {
       "added_at": "2026-06-02 19:01:30",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
-        "name": "Jade",
-        "url": "https://open.spotify.com/album/2KIhBAxa9FMbVn9PToW2p0"
-      },
-      "artists": [
-        {
-          "name": "Maya Engen",
-          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
-        }
-      ],
-      "duration_ms": 244007,
-      "name": "Jade",
-      "url": "https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
         "name": "Wanderer",
         "url": "https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 230700,
       "name": "Wanderer",
       "url": "https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
+        "name": "Jade",
+        "url": "https://open.spotify.com/album/2KIhBAxa9FMbVn9PToW2p0"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "duration_ms": 244007,
+      "name": "Jade",
+      "url": "https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z"
     },
     {
       "added_at": "2026-06-02 19:01:30",

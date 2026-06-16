@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,146 songs - 3 day 1 hr 55 min
+1,147 songs - 3 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Just a Room](https://open.spotify.com/track/6yZs8pZm14d3r0ZkrZDOOy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 3:29 | 2022-06-28 |  |
 | [Just Another Day](https://open.spotify.com/track/6w6I3AFRv7tQMmUTgAghUB) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 5:12 | 2023-11-06 | 2024-05-20 |
 | [K.G.L.W.](https://open.spotify.com/track/7sd7teUrIBBxNMGG9BDXic) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 1:36 | 2024-01-15 |  |
+| [Keep Me on Your Mind](https://open.spotify.com/track/7DYIFyeJ7hHxns755Z8WgU) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:17 | 2026-06-15 |  |
 | [Kemp's Jig](https://open.spotify.com/track/3o0XLKK0sKaoAeGCWYKB7q) | [Gryphon](https://open.spotify.com/artist/4Dghr6IbymdYuMDUEybhUR) | [Gryphon](https://open.spotify.com/album/1JPuxlcUBfWvw7guYHmzr8) | 3:09 | 2024-08-19 |  |
 | [KILLA MODE \(feat\. Storm Ford\)](https://open.spotify.com/track/6JotKhX3MBz3OfOU8HD0xe) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 | 2022-12-14 |  |
 | [Kim Cattrall](https://open.spotify.com/track/2JPh5kSNgX79mgaMmUQPFN) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Rabbit Rabbit](https://open.spotify.com/album/5RWNHToyEel7qS5CZmYOms) | 3:18 | 2024-01-18 |  |

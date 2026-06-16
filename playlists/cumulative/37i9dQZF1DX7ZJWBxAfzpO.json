@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 4160064,
       "name": "Bakla Bakla, Ano Na Gawa Mo? (with AC Soriano)",
       "url": "https://open.spotify.com/episode/7o4avXZZTYnzi4CGxOoOb7"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 2080181,
       "name": "DAGOK TIME - ISTURII EPISODE 63",
       "url": "https://open.spotify.com/episode/7LVe7dRNno3IO7hAuaTbTT"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 3642513,
       "name": "DAGOK TIME - Namujane with QD and SASSA GURL",
       "url": "https://open.spotify.com/episode/6RmgXFMfXabPF6l2tabG9D"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 3107050,
       "name": "EP 46: In Aid of Sex Appeal: Basta Dancer, Sexy Lover (with guest Sexbomb Jopay and Aira)",
       "url": "https://open.spotify.com/episode/5qFstTnKpkPMilGGqTiaNN"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 2986325,
       "name": "EP 66 - In Aid of Baklang Kanal: Paano ang Atake? ",
       "url": "https://open.spotify.com/episode/2dtNBID3GGmKxwAHyNOpPJ"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 2652757,
       "name": "Ep. 27: Depressed ka ba? Ayaw mo nang mabuhay? May lunas ba dito? Pag usapan natin ang mental health with Doc Joanna Herrera.",
       "url": "https://open.spotify.com/episode/3e1iAY3hHmUyB5YPIhqerW"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 3192960,
       "name": "Ep. 49: Paolo of BEN and BEN kasing lalim ng kanta niya!",
       "url": "https://open.spotify.com/episode/3JML7e7E5lTuaeIBNvrtSO"
@@ -826,10 +826,28 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 2747456,
       "name": "Ep. 50: Meet Mauro Lumba, fastest Hyrox athlete sa bansa! (Pinaka guwapo din)",
       "url": "https://open.spotify.com/episode/1ohLn4bJPNng5gMKgX1CjK"
+    },
+    {
+      "album": {
+        "name": "Ano Ba Talaga? With Kuya Kim",
+        "url": "https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK"
+      },
+      "artists": [
+        {
+          "name": "Ano Ba Talaga? With Kuya Kim",
+          "url": "https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3420885,
+      "name": "Ep. 54: ANG LOVE STORY NI GARY V!",
+      "url": "https://open.spotify.com/episode/7tct3VRYBS8TglFAWreoUn"
     },
     {
       "album": {
@@ -970,7 +988,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 1492583,
       "name": "K's Drama S4E17: Hosting The Biggest Night in Music! ft My Leg Brace",
       "url": "https://open.spotify.com/episode/0iBZimuoh8sBeUpeFL58Nx"
@@ -1022,6 +1040,24 @@
           "url": "https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI"
         }
       ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1692791,
+      "name": "K's Drama S4E6: Quezon Is Here! Come With Me To The Premiere Night",
+      "url": "https://open.spotify.com/episode/5HYpbggxXtQsRBX2V9q0mM"
+    },
+    {
+      "album": {
+        "name": "K's Drama",
+        "url": "https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI"
+      },
+      "artists": [
+        {
+          "name": "K's Drama",
+          "url": "https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI"
+        }
+      ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
       "date_removed": "2026-02-12",
@@ -1060,7 +1096,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 1825291,
       "name": "K's Drama S5E2: Chona\u2019s Delight: A Baguio Food Legacy",
       "url": "https://open.spotify.com/episode/7rCicqSuuZciV2DhMPzMT4"
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 880291,
       "name": "K's Drama S5E3: Becoming Mrs. Bucket!",
       "url": "https://open.spotify.com/episode/1KlOrzqluQAIsfmkvNEqyn"
@@ -1132,7 +1168,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 3108827,
       "name": "PODCAST NG MGA TANGA (ft. janine berdin)",
       "url": "https://open.spotify.com/episode/4gqzHCIEaMjoaX43LLbdVX"
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 3166272,
       "name": "reading your love problems (para may problema rin ako)",
       "url": "https://open.spotify.com/episode/7IxurT7LpeQDxLrhMqh3Gw"
@@ -1186,7 +1222,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 3336312,
       "name": "she's just a girl! (ft. fyang smith of Almost Us)",
       "url": "https://open.spotify.com/episode/79mHcT0uYQzuVpji1Te2zn"

@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-247 songs - 13 hr 12 min
+248 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Doe M'n Ding](https://open.spotify.com/track/0ZF5ujlDXxgNci5rWQ3lVs) | [Miquelangelo](https://open.spotify.com/artist/4h9QOAPn546KMLAgaxUEwQ) | [Doe M'n Ding](https://open.spotify.com/album/6KUvf4WRh5UnkoAZp5uqFb) | 1:48 | 2025-03-24 |  |
 | [Don't Bring Me Down](https://open.spotify.com/track/1gA36VJjbNeVtjLsRBrSq4) | [The Greatest Flowman](https://open.spotify.com/artist/7gJMbjXZ6c0nqylpiM9kaT), [Overdrive Juan](https://open.spotify.com/artist/3RrgRiQbtmCK6zWMkZ9Jbd) | [BiPolar Express](https://open.spotify.com/album/5ynAQSOc1X9JTQwRW8ZyH9) | 1:41 | 2023-04-24 |  |
 | [Don't Hide Your Pride](https://open.spotify.com/track/7LjxYYpobcGvhJHExOuRGZ) | [ANGELO](https://open.spotify.com/artist/6TDcDHUYcKAmqdabRHToIG) | [Don't Hide Your Pride](https://open.spotify.com/album/4891vHy5wF4DlWQ7ZNdIye) | 4:05 | 2023-06-12 |  |
+| [DOULEUR ÉBÈNE](https://open.spotify.com/track/0rb5xz3USUEhASJpOZdiGH) | [2IGREC](https://open.spotify.com/artist/4QoDKHsb78Q4HWjDACnzDA), [Mousseh](https://open.spotify.com/artist/5MrvNbpLOprCDGvsboQXL3) | [RELIQVA](https://open.spotify.com/album/4bWUrv6YPbBDPvgpPtefTs) | 2:43 | 2026-06-15 |  |
 | [Drifting Away](https://open.spotify.com/track/4fsmW2eFheTH4UWoZ7E8D1) | [Nicola Bertoldi](https://open.spotify.com/artist/7N0wf5IY4VEtgbzTf9fbmw) | [Drifting Away](https://open.spotify.com/album/6BgWVANAfPabf9XXVkpyyN) | 4:02 | 2024-01-26 |  |
 | [Drop me low](https://open.spotify.com/track/4qnC2w6fZLCtTgoSdtY4Nh) | [Whysoserious?](https://open.spotify.com/artist/3Bc30majoOTbZUG9n4hfiB) | [Drop me low](https://open.spotify.com/album/0srd0vpJJwZWfMqtlo3ff1) | 2:29 | 2023-10-28 |  |
 | [Du Rhum dans le Rhum](https://open.spotify.com/track/2UYTPwog7livQPBVLO5f2M) | [El Piñolito](https://open.spotify.com/artist/1zDKtNxBnapISvVa72z5WG) | [Du Rhum dans le Rhum](https://open.spotify.com/album/2eHXXkOAwyHUOTHZVw17xU) | 2:49 | 2024-05-28 |  |

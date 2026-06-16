@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,199 songs - 3 day 16 hr 4 min
+1,200 songs - 3 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Drunken Clouds](https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Drunken Clouds](https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR) | 4:13 | 2022-07-01 | 2022-07-29 |
 | [Dry Faces \- Original Mix](https://open.spotify.com/track/2MAZX1hM4EiBeSUwzt3ctu) | [Egomorph](https://open.spotify.com/artist/2Gbn2Rc0bAU77kK16wcTon) | [Dry Faces / Wet Feelings](https://open.spotify.com/album/0oEV4mu1DXSBFatu2B4mru) | 7:22 | 2019-06-19\* | 2020-08-26 |
 | [Dub 004](https://open.spotify.com/track/7496CPkQHjCsimdFAGEBC4) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Cosmonection](https://open.spotify.com/artist/752ZwPUx0lcLZyxgSQTL3D) | [Dub 004](https://open.spotify.com/album/3UzwI0WmHgiVjvVpTIpKkG) | 4:12 | 2022-02-11 | 2022-07-29 |
-| [Dub de Saia Travada \- Mad Professor Dub](https://open.spotify.com/track/3yfDT5djAWPFl5XpdplQcN) | [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7), [Sensible Soccers](https://open.spotify.com/artist/34MPa7vYWHpXiVrT1Nm0al) | [EP\#1 Dub Versions](https://open.spotify.com/album/04R9Cecuh4k9mg0IRxrguF) | 4:15 | 2026-05-19 |  |
+| [Dub de Saia Travada \- Mad Professor Dub](https://open.spotify.com/track/3yfDT5djAWPFl5XpdplQcN) | [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7), [Sensible Soccers](https://open.spotify.com/artist/34MPa7vYWHpXiVrT1Nm0al) | [EP\#1 Dub Versions](https://open.spotify.com/album/04R9Cecuh4k9mg0IRxrguF) | 4:15 | 2026-05-19 | 2026-06-16 |
 | [Dundas, Ontario](https://open.spotify.com/track/2xjxVDCkGBBEYWUjSZIl9S) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Start Breaking My Heart \(Special Edition\)](https://open.spotify.com/album/447aAsTmmXFZ0tyoB7sK3z) | 4:24 | 2023-03-24 | 2023-12-30 |
 | [Dunes](https://open.spotify.com/track/7u6uE9g62XZPY5QVqjchBG) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Dunes](https://open.spotify.com/album/2fMnNvoza67FCacSuC840X) | 2:26 | 2021-04-09 | 2022-07-14 |
 | [Dusk](https://open.spotify.com/track/4EJ7A3F6xyI6UBUYjRtSEa) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Dusk](https://open.spotify.com/album/5jth5CvZIsIGlHGWOSBqif) | 3:50 | 2020-04-23 | 2020-10-22 |
@@ -850,6 +850,7 @@
 | [Rising Urge \- Lost Tapes](https://open.spotify.com/track/7Bm0j8ALNJ7ledPN0fKfBw) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\)](https://open.spotify.com/album/6vWgySuOqxQcfOyvzYV74B) | 5:06 | 2019-06-19\* | 2022-04-16 |
 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 | 2025-02-28 |  |
 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 | 2024-08-02 |  |
+| [Roads](https://open.spotify.com/track/3kXFJOY06bfBr945dSrouM) | [Else](https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B) | [Roads](https://open.spotify.com/album/05TvGTyLS5jiO4nDZ8YtiN) | 3:46 | 2026-06-13 |  |
 | [Rock In The Video Age](https://open.spotify.com/track/6b9I77bVLGkPfhgeQHDzhS) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 8:03 | 2025-08-28 |  |
 | [Roman](https://open.spotify.com/track/6xIoTyFvqpswNNiLPpfLvz) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Young Alaska](https://open.spotify.com/album/2DstkNuTgbUk6hcHHMaVed) | 7:28 | 2019-06-19\* | 2020-08-26 |
 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 | 2022-07-01 | 2024-01-24 |

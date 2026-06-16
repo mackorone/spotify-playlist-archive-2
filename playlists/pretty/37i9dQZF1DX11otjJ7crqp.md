@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,441 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,861 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Miss Me More](https://open.spotify.com/track/1BT4DKm4C3FBJntfzxAdKI) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Miss Me More](https://open.spotify.com/album/6sF3ifHeZhuzBvtle2lhct) | 2:43 |
 | 100 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 
-Snapshot ID: `AAAAAIMjAd0tG0AnsXpr70tBfNWUWX3Z`
+Snapshot ID: `AAAAAMnAY6OHuwJMKSeVmNSQ7rXpukAI`

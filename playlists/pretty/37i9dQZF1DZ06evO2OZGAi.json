@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7183,
+  "num_followers": 7184,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAACBMaH4TYjqrao1/OR8YFiy",
+  "snapshot_id": "ai3vAAAAAACNVS1zW9WC+WDBpqiNOIXF",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos 2)",
-        "url": "https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5"
+        "name": "Rutas",
+        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 210906,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/4SoW3apb8bu1X5DusdV9PO"
+      "duration_ms": 256092,
+      "name": "Rutas",
+      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rutas",
-        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
+        "name": "Somos la Gente (Somos 2)",
+        "url": "https://open.spotify.com/album/1AjwqEv9RweRL9ZJcazBs5"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 256092,
-      "name": "Rutas",
-      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
+      "duration_ms": 210906,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/4SoW3apb8bu1X5DusdV9PO"
     },
     {
       "added_at": null,

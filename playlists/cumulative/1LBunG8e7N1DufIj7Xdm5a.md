@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,453 songs - 9 day 22 hr 18 min
+4,454 songs - 9 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [Crisalide](https://open.spotify.com/track/7haXcLi7dwzfql2RzUvvsd) | [Zephiro](https://open.spotify.com/artist/7euzpSgCdCp5RdQQ1hvsyJ) | [Baikonur](https://open.spotify.com/album/00L7KNS2LWUiSMTM54Irhr) | 3:32 | 2025-06-06 |  |
 | [cristales](https://open.spotify.com/track/2DyveHrmScZ8yKctmsuHtK) | [shacrà](https://open.spotify.com/artist/02SdYXLpU3vPyGmqQ0F2Lx) | [shacrà](https://open.spotify.com/album/3QoEHAgT7Ph50CgCgl46G5) | 3:47 | 2026-02-01 |  |
 | [Cristo moderno](https://open.spotify.com/track/7dvGx2vz27QrDeJUJ1E1Bp) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn), [I Paradisi](https://open.spotify.com/artist/7F98U5g3UfhjAd6rhefY1A) | [Musica buona](https://open.spotify.com/album/35aGpU9MM9yCOCZDHjjqn7) | 3:26 | 2025-06-06 |  |
+| [Critical Mass](https://open.spotify.com/track/4spaTikylB1WV0ckpALzH7) | [Shiny Baubles](https://open.spotify.com/artist/2GfcjLOZP7VNM2uI6ZPOVj) | [Critical Mass](https://open.spotify.com/album/1A6frMXAG6GRbl9SJMbR6S) | 2:43 | 2026-06-15 |  |
 | [Critics of Neon](https://open.spotify.com/track/5GErt7vpDrfzUjr8FLM0VH) | [Loc Harp](https://open.spotify.com/artist/03NpM6Pz59hIUDTuP587pY) | [Critics of Neon](https://open.spotify.com/album/1L1bxqGy28y3uiBaTBjANa) | 3:19 | 2025-05-23 |  |
 | [CROCEVIA](https://open.spotify.com/track/2A9VIY7bgdG8A7nor3w9Ae) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [CROCEVIA](https://open.spotify.com/album/6khi0zbmXz59UOzVgczZYv) | 2:24 | 2026-01-20 |  |
 | [Cromoterapia](https://open.spotify.com/track/2FcD7aXAebYhBQwok93LTo) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Cromoterapia](https://open.spotify.com/album/3cmuDeVogBxVsTfbj48jF7) | 3:02 | 2026-02-13 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 32246,
+  "num_followers": 32253,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 198466,
       "name": "Love Her Madly",
       "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Dandy In The Underworld",
         "url": "https://open.spotify.com/album/0yKKzDz0Uod7oCHb10pBwt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 135666,
       "name": "I Love To Boogie (From \"Billy Elliot\")",
       "url": "https://open.spotify.com/track/2yCXjCr32mfkJ4JPxQ35dz"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Songs Of Yesterday",
-        "url": "https://open.spotify.com/album/1V3HZsFh7CaYBQLA1af5CK"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "The Slider",
         "url": "https://open.spotify.com/album/3Dg3quPRLDCsEqnzgPl6PE"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 149786,
       "name": "Metal Guru",
       "url": "https://open.spotify.com/track/0HoMdjB1XwwMlyPfTV7DEj"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Songs Of Yesterday",
+        "url": "https://open.spotify.com/album/1V3HZsFh7CaYBQLA1af5CK"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Lola Versus Powerman and the Moneygoround / Percy",
-        "url": "https://open.spotify.com/album/2R0lR3exaV33RnKob1WebK"
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
       },
       "artists": [
         {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Lola - Remastered",
-      "url": "https://open.spotify.com/track/7bIQeY33PkduZRmR3h9BIY"
+      "duration_ms": 210253,
+      "name": "Jesus Just Left Chicago - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+        "name": "Lola Versus Powerman and the Moneygoround / Percy",
+        "url": "https://open.spotify.com/album/2R0lR3exaV33RnKob1WebK"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 210253,
-      "name": "Jesus Just Left Chicago - 2006 Remaster",
-      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
+      "duration_ms": 242026,
+      "name": "Lola - Remastered",
+      "url": "https://open.spotify.com/track/7bIQeY33PkduZRmR3h9BIY"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Watch",
-        "url": "https://open.spotify.com/album/2Cg9BAwbhnHxLsHj5tv5uS"
+        "name": "The Complete UK Recordings",
+        "url": "https://open.spotify.com/album/3gyK04qL9Si5MgCidiVy1V"
       },
       "artists": [
         {
-          "name": "Manfred Mann's Earth Band",
-          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 354933,
-      "name": "Davy's on the Road Again",
-      "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
+      "duration_ms": 241572,
+      "name": "The Wall Street Shuffle",
+      "url": "https://open.spotify.com/track/3HyZGwZAq9oQJQBzSyjs7Q"
     }
   ],
   "unique_name": "70s Summer Rock",

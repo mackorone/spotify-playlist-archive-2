@@ -4,7 +4,7 @@
 
 > New Rock & Alt driving the current\. Cover: Genesis Owusu
 
-374 songs - 19 hr 18 min
+375 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [DORRIGO](https://open.spotify.com/track/2HADhFSuN65iC1qDHQeWGr) | [Roberto](https://open.spotify.com/artist/5tE6Vl7ytONXbf5JYVJJ4S) | [DORRIGO](https://open.spotify.com/album/2NAXiM6NNBmnr5vOeWxvtg) | 3:08 | 2022-02-12 | 2022-03-18 |
 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 | 2023-09-15 | 2024-02-02 |
 | [Dream Bigger](https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Dream Bigger](https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1) | 3:05 | 2025-01-31 |  |
+| [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 | 2026-06-15 |  |
 | [dumb with you](https://open.spotify.com/track/0nJbXArCCbkRflshkWQUJM) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 2:59 | 2024-05-31 |  |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2022-02-12 | 2022-07-23 |
 | [dysphoria](https://open.spotify.com/track/4SoZGGmT1dr8m4plCxBMkV) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [VOL\. 3](https://open.spotify.com/album/1t2vmgSDDzA7xrngcZvxUL) | 2:19 | 2026-02-13 |  |

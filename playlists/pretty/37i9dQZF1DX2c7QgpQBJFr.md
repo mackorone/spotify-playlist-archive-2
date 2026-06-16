@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Birthh
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,455 likes - 94 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,463 likes - 94 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 4 | [Sorry Scusa Lo Siento](https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Sorry Scusa Lo Siento](https://open.spotify.com/album/6fsms67vLncXwehxDegR5I) | 3:20 |
 | 5 | [DISINCANTO](https://open.spotify.com/track/4lxrVDGmkUTivSFDylC26Z) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [DISINCANTO](https://open.spotify.com/album/5uUhwToRipr5CJerXxNz8K) | 3:27 |
 | 6 | [FLAMENCO PARANOIA](https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [AMATORE](https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f) | 2:44 |
-| 7 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:40 |
+| 7 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:43 |
 | 8 | [Aranciata](https://open.spotify.com/track/6Ytq1UqEa7M6JU3viWheCO) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Aranciata](https://open.spotify.com/album/58oNEAAdQ2eFvX2GZNBL8x) | 3:32 |
 | 9 | [Ti Guardo](https://open.spotify.com/track/3JRy0SB3nA8ReiGcLKVJm3) | [INVERNO](https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt) | [Act III: Ti guardo / Do You Want it? / Nessuno come te](https://open.spotify.com/album/4j5Wcyvab3eB5oSGjkCYjJ) | 3:33 |
 | 10 | [California mediterranea](https://open.spotify.com/track/1n2Y4UUAyeHCwVsGf3jEgx) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [California mediterranea](https://open.spotify.com/album/0Xc419MxKwQok6BoBXD9U7) | 3:07 |

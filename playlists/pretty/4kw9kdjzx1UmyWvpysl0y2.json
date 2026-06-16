@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123785,
+  "num_followers": 123774,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVeA/eGvzu5Vxj+M5HHek8G3+v8t53",
+  "snapshot_id": "AAAVefPQ+fPsZdqohSmI7wp4epqjruKd",
   "tracks": [
+    {
+      "added_at": "2026-06-15 15:45:53",
+      "album": {
+        "name": "Speed Of Light",
+        "url": "https://open.spotify.com/album/5i0cFxjBv38hQmSEHgyQyO"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "duration_ms": 177310,
+      "name": "Speed Of Light",
+      "url": "https://open.spotify.com/track/6Gr4CPYjaP5969AACKDdfZ"
+    },
     {
       "added_at": "2026-06-12 13:57:12",
       "album": {

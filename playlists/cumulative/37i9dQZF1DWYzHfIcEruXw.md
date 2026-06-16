@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-128 songs - 9 hr 16 min
+129 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Crow Song](https://open.spotify.com/track/3gvA4qesNQ2HyBVr34i1q3) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/6zdGnjO1xFsPr3eEIrjQec) | 4:08 | 2024-12-30 |  |
 | [Daydream cafe](https://open.spotify.com/track/129V9JvCGREpwD3gHpNJKl) | [Petit Rabbit's](https://open.spotify.com/artist/5l7xE3vT6bXnhBALsAetdE) | [｢ご注文はうさぎですか？｣キャラクターソング・セレクションアルバム／order the songs](https://open.spotify.com/album/2KbaBQLCfWQFrqrUH1e2Cm) | 4:15 | 2023-07-04 | 2024-04-19 |
 | [Daydream cafe](https://open.spotify.com/track/3AdtUKxxIsPEV3nJC0U3Hk) | [Petit Rabbit's](https://open.spotify.com/artist/5l7xE3vT6bXnhBALsAetdE) | [｢ご注文はうさぎですか？｣キャラクターソング・セレクションアルバム／order the songs](https://open.spotify.com/album/2hI6IUBcq7Lmrpk177Gr8q) | 4:15 | 2021-12-21 |  |
+| [departure!](https://open.spotify.com/track/2yyx5kPSz2mET1zAqj7uBv) | [Masatoshi Ono](https://open.spotify.com/artist/2R1ubdXY4sUiDqsCtoAVUE) | [HUNTER×HUNTER セレクトｘベストｘα](https://open.spotify.com/album/5BHo1ls5JD1wifba373dF7) | 4:17 | 2026-06-15 |  |
 | [Dramatic Market Ride](https://open.spotify.com/track/4XVdyXUBYR70qhHSKUgZL9) | [Kitashirakawa Tamako \(CV: Aya Suzaki\)](https://open.spotify.com/artist/0aElBIWdrU7d9yJHSAFSbn) | [Dramatic Market Ride](https://open.spotify.com/album/3Qn1FGT5fVX03YsHYILUZM) | 4:20 | 2021-12-21 | 2024-04-19 |
 | [DREAM SOLISTER](https://open.spotify.com/track/59Swm876fBPn9qGsRByJNV) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Joy Heart](https://open.spotify.com/album/0EagKH2euPBYoiyJH8oYJa) | 5:00 | 2021-12-21 |  |
 | [Escape](https://open.spotify.com/track/19jDGiuezpLTUAy90xnByO) | [Hemenway](https://open.spotify.com/artist/1aelbjRiScFc639v34vNsv) | [Escape](https://open.spotify.com/album/7iZqNLOolDEbvA1j5zQwO7) | 3:37 | 2021-12-21 | 2024-04-19 |

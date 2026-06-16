@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:62k5LKMhymqlDNo2DWOvvv">Boys Noize</a>'s favorite tracks\. Updated regularly\. Curated by Boys Noize\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-59 songs - 4 hr 14 min
+61 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,12 +21,14 @@
 | [Creedooo](https://open.spotify.com/track/3wsmgFU806dU9tA6akggwk) | [WTCHCRFT](https://open.spotify.com/artist/5BfKiWheLXOhRKgVka5Gkq) | [The Machine](https://open.spotify.com/album/3R5M3WcYsmZ9yu7LI7cs5I) | 5:10 | 2026-03-02 |  |
 | [Cuando Vengas \(Chloé Robinson & DJ ADHD Remix\)](https://open.spotify.com/track/0eRw06OvDV70whptvRc2Ru) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Cuando Vengas \(Chloé Robinson & DJ ADHD Remix\)](https://open.spotify.com/album/4IIZwl0yZth4NhAMiwwnv1) | 4:33 | 2026-03-02 |  |
 | [DAMELO](https://open.spotify.com/track/2Ntw0hin2R3LEA2Ufynyp3) | [pavvvvvvlo](https://open.spotify.com/artist/7CqRrRjRpA1yZbXxCwjmTe) | [DAMELO](https://open.spotify.com/album/5mBYtt3mupFHq1hxtaPOlK) | 4:43 | 2026-03-02 |  |
+| [Destrava](https://open.spotify.com/track/6LKN0L3C15O6jB57yLFxa3) | [Adame DJ](https://open.spotify.com/artist/7lOdAZzqR1Ju4bhq1kZUvy), [Mc Mr Bim](https://open.spotify.com/artist/037xCJ62sVpX7xYMnvhnwx), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Destrava / A bucetada melodica](https://open.spotify.com/album/0NvzKs5ytzrQpywIQn6zMX) | 2:22 | 2026-06-15 |  |
 | [Dracula \- JENNIE Remix \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(JENNIE Remix \- Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 | 2026-05-15 |  |
 | [Entelechy III \- Original Mix](https://open.spotify.com/track/1dipgfoww5tQN16a802QVo) | [Maedon](https://open.spotify.com/artist/6m1DAoWnJsLUGiI4MNVphJ) | [Matter & Form](https://open.spotify.com/album/6C4XQ63wX1plI6TVUeNjKX) | 6:26 | 2026-03-02 |  |
 | [Ey Bb](https://open.spotify.com/track/1PslJEbowF4VnAJcEs2J8S) | [Taube](https://open.spotify.com/artist/7CkJFCrOBweQ9bOL3C5MCu), [Malagüera](https://open.spotify.com/artist/5YXZvDM2mB1EgnmIqFlGGD) | [Ey Bb](https://open.spotify.com/album/0HiZTjBfAEH3Szt9Je7U11) | 3:41 | 2026-05-15 |  |
 | [Fake Denim](https://open.spotify.com/track/4l1u4uXrGE8DMLhkYrymJD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fake Denim](https://open.spotify.com/album/2gpruJPGNa8BMvwjYa8Gnc) | 3:20 | 2026-03-02 |  |
 | [Flesh Mix](https://open.spotify.com/track/1chmoeIeQ5WS7WKmz8HeBn) | [Kiss Facility](https://open.spotify.com/artist/5gHuonqo1YwbLPKQAl7jD5) | [Flesh Mix](https://open.spotify.com/album/5XiH6sVXdkvOmGOdFAD91h) | 3:36 | 2026-03-02 |  |
 | [Fuck How You Wanna Fuck](https://open.spotify.com/track/7xJdxeZwg0NkOu4mgJG6vp) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [No Lube So Rude](https://open.spotify.com/album/6gCIqW8uTdkgNNnXmDj5rD) | 2:33 | 2026-03-02 |  |
+| [FUCK THE SPEAKERZ UP \- Boys Noize Remix](https://open.spotify.com/track/6nQa2Qc8GhNGVHR9J3DzO6) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [FUCK THE SPEAKERZ UP \(Boys Noize Remix\)](https://open.spotify.com/album/3t5k5AL6pll2p1jerRgChw) | 3:31 | 2026-06-15 |  |
 | [Get Away](https://open.spotify.com/track/0DVD3CGjarIqqsMv0WbpiS) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Get Away](https://open.spotify.com/album/4ImOLLeOpQtooSemIRx2pl) | 4:28 | 2026-05-15 |  |
 | [Goodbye Horses \- Single](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 | 2026-03-02 |  |
 | [Gutter Queen](https://open.spotify.com/track/5znfFsMUYC1K25Wshi1Ezr) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [5 Signs You Are Dealing With A Human Demon](https://open.spotify.com/album/6W3DE1j1qe9uT8JCoNYw4i) | 4:39 | 2026-03-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI?si=xfh\-oe3CT86n6tuTHiYS4A">Mia Lord</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,005 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,029 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 44 | [Tena](https://open.spotify.com/track/3H5n3Wn5mwQrUbnTArjsMH) | [Qudus](https://open.spotify.com/artist/5qMHRCUZxh5roylOMzQA3j) | [Tena](https://open.spotify.com/album/2qTXyBqxHPzGM8RRFKfBt3) | 2:51 |
 | 45 | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1) | [SHON](https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo) | [HOW E DEY BE \(HEDB\)](https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA) | 2:10 |
 | 46 | [T Fare \(seXyy!!\)](https://open.spotify.com/track/0uFsObl0zTfLCE9WYJypL6) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [T Fare \(seXyy!!\)](https://open.spotify.com/album/55CrHDpDqSMcaPWSc0zFYk) | 2:25 |
-| 47 | [Slow](https://open.spotify.com/track/51vTd5iLJvD6qdZuyKXcCN) | [Tee\-Jay](https://open.spotify.com/artist/484jRW0FSFscts8vhmUYBP) | [Slow](https://open.spotify.com/album/5xNUdev3SKlyKdEtocpXaB) | 2:16 |
-| 48 | [Bring You Home](https://open.spotify.com/track/7odIv0UuSvwHOAYJS0EK6S) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 2:28 |
-| 49 | [PTSD](https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [PTSD](https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC) | 2:50 |
-| 50 | [better](https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:51 |
-| 51 | [tears water my garden](https://open.spotify.com/track/37cnPtuVrmQiWzJWhXQ1t7) | [nostalgiclegend](https://open.spotify.com/artist/3uFHqCG2upcBFspDduHuRx), [OrahDae](https://open.spotify.com/artist/24h2OlaHJVuoEZ7naH8Xc7) | [tears water my garden](https://open.spotify.com/album/4XV75WSejdJE5vyeeUugl6) | 3:03 |
+| 47 | [Bring You Home](https://open.spotify.com/track/7odIv0UuSvwHOAYJS0EK6S) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 2:28 |
+| 48 | [PTSD](https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [PTSD](https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC) | 2:50 |
+| 49 | [better](https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:51 |
+| 50 | [tears water my garden](https://open.spotify.com/track/37cnPtuVrmQiWzJWhXQ1t7) | [nostalgiclegend](https://open.spotify.com/artist/3uFHqCG2upcBFspDduHuRx), [OrahDae](https://open.spotify.com/artist/24h2OlaHJVuoEZ7naH8Xc7) | [tears water my garden](https://open.spotify.com/album/4XV75WSejdJE5vyeeUugl6) | 3:03 |
 
-Snapshot ID: `AAAAAOgybaDxTRq5AcZ4fWqLiJzjmunn`
+Snapshot ID: `AAAAADCJqSHqRQU+CCbK+sHoS9YXpPLz`

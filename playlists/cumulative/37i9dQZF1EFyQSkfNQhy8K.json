@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "No Quiero Que Se Acabe Este Bendito Verano",
+        "url": "https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191962,
+      "name": "AGRADECIMIENTO",
+      "url": "https://open.spotify.com/track/3n2VrtOex6O2jV9SquyEyh"
+    },
+    {
+      "album": {
         "name": "Al Lau",
         "url": "https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st"
       },

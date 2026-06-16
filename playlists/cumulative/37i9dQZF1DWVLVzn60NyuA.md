@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-579 songs - 1 day 6 hr 15 min
+580 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-05-18 | 2025-02-23 |
 | [911](https://open.spotify.com/track/5jFQM82pmdJSBHGnlhL8as) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [911](https://open.spotify.com/album/4UKWh8YBQqktuX1HArlnwq) | 3:13 | 2021-12-16 | 2022-01-26 |
 | [911](https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Lafropop](https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB) | [911](https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3) | 2:49 | 2023-04-12 | 2024-04-19 |
-| [A Toro Pasao](https://open.spotify.com/track/2DQeFpkjR3hmkUxK7LVEWe) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [A Toro Pasao](https://open.spotify.com/album/3vkguHKm1kGA5CryAk48bi) | 3:24 | 2025-10-16 |  |
+| [A Toro Pasao](https://open.spotify.com/track/2DQeFpkjR3hmkUxK7LVEWe) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [A Toro Pasao](https://open.spotify.com/album/3vkguHKm1kGA5CryAk48bi) | 3:24 | 2025-10-16 | 2026-06-16 |
 | [Abena](https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:04 | 2021-12-16 | 2023-03-09 |
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-03-23 | 2024-03-29 |
 | [Activate](https://open.spotify.com/track/0aHV99VipGqb8uwnMTxbYh) | [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91) | [Activate](https://open.spotify.com/album/0tQ3jHEuVyNat7bmECwY4d) | 3:10 | 2021-12-28 | 2022-07-20 |
@@ -441,6 +441,7 @@
 | [Sanko](https://open.spotify.com/track/6hJHVYmb81ecCPUEBxXsI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/3XOLe6u3PhDseCeE5RO84l) | 3:07 | 2022-03-25 | 2022-04-21 |
 | [Sans moi](https://open.spotify.com/track/5cZ6NaDFs0a7ZYfGpaJWEt) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Vibe](https://open.spotify.com/album/1TMCeLmJhVY2WQwAweIyKf) | 2:39 | 2021-12-16 | 2023-06-08 |
 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 | 2024-06-25 |  |
+| [Se Le Ve](https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [Se Le Ve](https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7) | 2:39 | 2026-06-15 |  |
 | [Searching For My Love \- Remix](https://open.spotify.com/track/710k0B71hZCdMikQatmqSM) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Searching For My Love \(Remix\)](https://open.spotify.com/album/1bbd5nw3fKxGDmKppGEaLU) | 2:33 | 2021-12-16 | 2022-07-29 |
 | [Section](https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Section](https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K) | 2:14 | 2022-06-09 | 2025-02-23 |
 | [See You Again](https://open.spotify.com/track/1fiXFwKNKcTRFBeR9wlKhB) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2021](https://open.spotify.com/album/47ngDCKILaUidvXeest7sz) | 2:45 | 2021-12-16 | 2023-04-19 |

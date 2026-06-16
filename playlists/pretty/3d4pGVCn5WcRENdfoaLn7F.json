@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 725,
+  "num_followers": 729,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADt4dkZ/jmoKcSObaliU9zhABJiTBy",
+  "snapshot_id": "AAADu01pzgowMQBgxGYLUtEwwuKqRmEA",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1003,6 +1003,74 @@
       "duration_ms": 149600,
       "name": "All I Want From You (Distribution)",
       "url": "https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV"
+    },
+    {
+      "added_at": "2026-06-15 20:51:16",
+      "album": {
+        "name": "The Morning",
+        "url": "https://open.spotify.com/album/5wxzMqAHFsxQ4K1h1bWJxW"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/6AvJQ7MB7BwSr7ZoTkHYf4"
+    },
+    {
+      "added_at": "2026-06-15 21:20:50",
+      "album": {
+        "name": "In Our Nature",
+        "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
+      },
+      "artists": [
+        {
+          "name": "Touch of Red",
+          "url": "https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Just a Little",
+      "url": "https://open.spotify.com/track/5gTqfu1tnwW4FRWVPWwAHB"
+    },
+    {
+      "added_at": "2026-06-15 21:34:35",
+      "album": {
+        "name": "Spent My Whole Life Loving You",
+        "url": "https://open.spotify.com/album/52Ac8NvHzJ6pxVDMvM23yC"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Klee",
+          "url": "https://open.spotify.com/artist/3SbQ1Fwzf6okKXEXfCkTLP"
+        },
+        {
+          "name": "Andreas Wallner",
+          "url": "https://open.spotify.com/artist/02u2I6IenqojYw6JMPnat6"
+        }
+      ],
+      "duration_ms": 194166,
+      "name": "Spent My Whole Life Loving You",
+      "url": "https://open.spotify.com/track/3NeYvY7holTVNCpaQt8BH1"
+    },
+    {
+      "added_at": "2026-06-15 21:39:07",
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p"
+      },
+      "artists": [
+        {
+          "name": "Monday's Monsoon",
+          "url": "https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg"
+        }
+      ],
+      "duration_ms": 280606,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

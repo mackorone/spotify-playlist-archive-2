@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Latto",
-  "num_followers": 270796,
+  "num_followers": 270788,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-05-29 04:01:26",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
+    },
+    {
+      "added_at": "2026-05-29 04:01:26",
+      "album": {
         "name": "THY KINGDOM COME",
         "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 223951,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W"
-    },
-    {
-      "added_at": "2026-05-29 04:01:26",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
-      },
-      "artists": [
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 154469,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
     },
     {
       "added_at": "2026-05-29 04:01:26",

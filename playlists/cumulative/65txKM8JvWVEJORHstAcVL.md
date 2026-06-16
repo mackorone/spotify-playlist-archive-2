@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(7/06/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(14/06/2026\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-276 songs - 13 hr 53 min
+278 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-10-08 | 2024-06-03 |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-06-30 | 2026-03-24 |
 | [Malèfica](https://open.spotify.com/track/5AgyV3dRa5xJetCw5ciOsJ) | [Lal'Ba](https://open.spotify.com/artist/1wlYowWXP2lahrXGn5opzG) | [Malèfica](https://open.spotify.com/album/1OTlOo1pni9yNH9ySQsATT) | 2:31 | 2024-10-20 | 2025-03-18 |
-| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-12-18 |  |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-12-18 | 2026-06-16 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-07-14 | 2026-02-19 |
 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 | 2025-02-02 | 2025-03-25 |
 | [Menys mal que ja és Nadal](https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Menys mal que ja és Nadal](https://open.spotify.com/album/4RAv69esnKNHWnX6esgUAf) | 2:39 | 2024-12-15 | 2025-01-13 |
@@ -173,6 +173,7 @@
 | [MOLTA TRALLA](https://open.spotify.com/track/3WqsYnIplEVhnsPp9oUnIf) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 2:52 | 2025-08-18 | 2026-02-03 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-11-03 | 2025-02-10 |
 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 | 2026-01-07 | 2026-04-28 |
+| [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 | 2026-06-15 |  |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-05-26 | 2026-03-10 |
 | [Mòbil, claus i cartera](https://open.spotify.com/track/6IAHliI122x980aplpGvie) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [Joc de nens](https://open.spotify.com/album/5SoJX0KUIsSEv97sVVfn9P) | 2:48 | 2025-04-07 | 2025-07-22 |
 | [Nanana](https://open.spotify.com/track/2YWsm7QJo8w1AVfnr2Ftmc) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Tothom té raó](https://open.spotify.com/album/0FJcGAmhKdmB6DteGKxG0Q) | 2:20 | 2026-04-07 | 2026-05-06 |
@@ -182,6 +183,7 @@
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-03-24 | 2025-07-01 |
 | [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 | 2026-05-19 |  |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2025-08-04 | 2025-12-19 |
+| [NO HI HA PLA B](https://open.spotify.com/track/2Fbx71bXpVKKgn0Dycz9NE) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD) | [NO HI HA PLA B](https://open.spotify.com/album/4vPkiF2AkdmAN1IrZDY5eC) | 2:24 | 2026-06-15 |  |
 | [no sta mal](https://open.spotify.com/track/42IZ43xd4Utj3dz5sAAJwP) | [guillembautista](https://open.spotify.com/artist/4aMz9dbnuj9prr7EkFnf2r) | [no sta mal](https://open.spotify.com/album/1t4zSbwhZ0R4YWl3CxrgVg) | 2:29 | 2026-03-31 |  |
 | [NO VULL DESPERTAR](https://open.spotify.com/track/5lthjy7KCQZ1szrp1r9QJJ) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR) | [NO VULL DESPERTAR](https://open.spotify.com/album/0DqfqVvGvGUpoTwKqiVvxZ) | 3:03 | 2025-10-27 | 2026-03-10 |
 | [NO ÉS MIAMI](https://open.spotify.com/track/6dEsxPaNst8eZHClWD6qu4) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Els Catarres](https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY), [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1) | [NO ÉS MIAMI](https://open.spotify.com/album/3W20utgkDw9OwMqF8I8yf6) | 2:37 | 2025-06-02 | 2025-11-12 |
@@ -278,7 +280,7 @@
 | [WE PRAY \- Single Version](https://open.spotify.com/track/4ePie7AbHKyKdQtCte6SYC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY \(TINI Version\)](https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO) | 3:53 | 2024-09-15 | 2025-07-15 |
 | [Welcome to My Party](https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ) | [Joan Dausà](https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I) | [Welcome to My Party](https://open.spotify.com/album/7KEVcNxrpxA7smtdLbnQ0X) | 3:19 | 2026-02-18 |  |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-02-05 | 2024-07-15 |
-| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-12-18 |  |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-12-18 | 2026-06-16 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-09-01 | 2024-11-04 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-08-18 | 2024-09-16 |
 | [xinu xanu](https://open.spotify.com/track/6ouV7526AeqeXrALRn6ZDb) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU) | [xinu xanu](https://open.spotify.com/album/68eoTwykrA0JIUnCefZKEY) | 2:28 | 2023-11-19 | 2024-06-17 |

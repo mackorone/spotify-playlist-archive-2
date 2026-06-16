@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 featuring Disco Lines
 
-1,388 songs - 2 day 21 hr 47 min
+1,389 songs - 2 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Cruise Control](https://open.spotify.com/track/5deXnyAyuJ4fyRIFEtAwIC) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [RYA](https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ), [Delaino](https://open.spotify.com/artist/34F3CNF3gS2LVir6FuPqX2) | [Cruise Control](https://open.spotify.com/album/4chbByDEJiI0FemneRlnOy) | 2:42 | 2026-05-01 | 2026-05-16 |
 | [Cut Me](https://open.spotify.com/track/2GCvwyaMtjFuTAF4x1o1dK) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68) | [Cut Me](https://open.spotify.com/album/7Hw1AMF5zNEA0ODA9ICVrf) | 2:41 | 2026-06-12 |  |
 | [D.I.S.C.O.](https://open.spotify.com/track/2BRqdAILazQ4Brd95GJjpv) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [BERROW](https://open.spotify.com/artist/307piZl5uWR3Nti6ssXp4T) | [D.I.S.C.O.](https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP) | 2:21 | 2023-03-14 | 2023-12-30 |
-| [Da Da Da](https://open.spotify.com/track/1ogu8yIjNzdzs1Up7ZQXxG) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Aneesa' Marie](https://open.spotify.com/artist/2mMkAbnk5RyNVDXs8gzisd) | [Da Da Da](https://open.spotify.com/album/0jClnYL0s48ulL7L9E3bv2) | 2:29 | 2026-05-29 |  |
+| [Da Da Da](https://open.spotify.com/track/1ogu8yIjNzdzs1Up7ZQXxG) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Aneesa' Marie](https://open.spotify.com/artist/2mMkAbnk5RyNVDXs8gzisd) | [Da Da Da](https://open.spotify.com/album/0jClnYL0s48ulL7L9E3bv2) | 2:29 | 2026-05-29 | 2026-06-16 |
 | [Daddy](https://open.spotify.com/track/5nCNUHYlt3yIsoLD4rbb4Y) | [Filex](https://open.spotify.com/artist/7qv9xIkGqakygPuX00yabK) | [Daddy](https://open.spotify.com/album/2u6i67inzqoGRpA3sIAzbY) | 2:38 | 2025-08-01 | 2025-08-30 |
 | [Daddy](https://open.spotify.com/track/3Bp5P1UoYfprzFy7EClcoz) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Daddy / What Happens In Vegas](https://open.spotify.com/album/4jq7sudnqaNjpJh8FMNTKZ) | 2:27 | 2021-10-29 | 2023-04-01 |
 | [Daddy's Back](https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Daddy's Back](https://open.spotify.com/album/4GCZvwAgE1yE1K2H9l1f5W) | 2:59 | 2023-06-16 | 2023-11-16 |
@@ -1326,6 +1326,7 @@
 | [Warehouse Rave](https://open.spotify.com/track/6S0JCDhbSI9J1w4BIudS2C) | [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [DJ ZRECK](https://open.spotify.com/artist/3P1CizJkgK4UgvavBduBd5) | [Warehouse Rave](https://open.spotify.com/album/54h04hUFVsgvkfvgbCdYCm) | 2:56 | 2021-10-29 | 2022-05-07 |
 | [WARP](https://open.spotify.com/track/4TJS6YjBbM3P5HFa9Ipg0k) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [WARP](https://open.spotify.com/album/0VIzRQd6H9iINS3VeRojqC) | 2:35 | 2024-04-05 | 2024-05-21 |
 | [Wat U Want](https://open.spotify.com/track/06mJKi1dNqdCOSz89Z8wNv) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Wat U Want](https://open.spotify.com/album/6i0zG01d98dJPcq6EuFNoi) | 2:24 | 2023-03-03 | 2023-06-01 |
+| [Watch Where You Walk \(Sidewalk Talk\)](https://open.spotify.com/track/1ycJm1sa3w203quK3tHx25) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Sven Lochenhoer](https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU) | [Watch Where You Walk \(Sidewalk Talk\)](https://open.spotify.com/album/4mIsFxcSTgfwWZtsygXJas) | 2:38 | 2026-06-15 |  |
 | [Way Down](https://open.spotify.com/track/5wBWgsr5PdN0mXzUeRKFB1) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Way Down](https://open.spotify.com/album/0K0TlJquSYn6l06dQldZMi) | 3:30 | 2022-01-07 | 2022-01-17 |
 | [We Run The Nite](https://open.spotify.com/track/4xQSpCYLyV37VZBTZnvKPi) | [Tonite Only](https://open.spotify.com/artist/2anxHOHdqE0LvI8eGcc6k2), [BARTS](https://open.spotify.com/artist/44qzMC9QX2iSk5ttc4SZfH) | [We Run The Nite](https://open.spotify.com/album/5fh0tqLpej1VKtyD4NW4eW) | 2:56 | 2026-01-16 | 2026-01-24 |
 | [Welcome to the Club](https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Welcome to the Club](https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe) | 4:02 | 2022-06-10 | 2023-11-25 |

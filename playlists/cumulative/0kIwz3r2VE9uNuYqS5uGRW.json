@@ -2579,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI"
+      },
+      "artists": [
+        {
+          "name": "The Summer Fruits",
+          "url": "https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172890,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2"
+    },
+    {
+      "album": {
         "name": "ALL BEATS 2",
         "url": "https://open.spotify.com/album/6POoVSAMhdL1BT0Z2m0MmR"
       },

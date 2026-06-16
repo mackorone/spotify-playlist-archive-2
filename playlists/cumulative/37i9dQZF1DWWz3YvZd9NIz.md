@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-271 songs - 13 hr 19 min
+272 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bad Boys \- Harddance Mix](https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Bad Boys \(Harddance Mix\)](https://open.spotify.com/album/2zzWnVDrpUWehyFWdYXtqc) | 2:53 | 2023-02-02 | 2023-04-14 |
 | [Bad Habits](https://open.spotify.com/track/7JLHaZFkxdOlq4Fzkc6pxh) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Bad Habits](https://open.spotify.com/album/4VNyPO6EhBSKg83IMLchl3) | 3:07 | 2023-04-13 | 2023-05-12 |
 | [Bailando](https://open.spotify.com/track/37DUuymoNwvzuxmlsIeUEB) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [TESFY](https://open.spotify.com/artist/2ElvCuSMCZ357wrmbDvz2C), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/55D7V1U0QxSauay1loyOsS) | 2:40 | 2023-06-29 | 2023-07-22 |
-| [Bang Bang](https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX), [GLDY LX](https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl) | [Bang Bang](https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW) | 3:47 | 2025-12-15 |  |
+| [Bang Bang](https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX), [GLDY LX](https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl) | [Bang Bang](https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW) | 3:47 | 2025-12-15 | 2026-06-16 |
 | [Barbie Girl RMX](https://open.spotify.com/track/3GnXG8EvUeuo0IWH3kXFec) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Barbie Girl RMX](https://open.spotify.com/album/5ZgTuCjlxomuHqtRnFt9OR) | 2:56 | 2023-08-16 | 2023-10-01 |
 | [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 | 2024-10-23 |  |
 | [Because The Night](https://open.spotify.com/track/6T4pigGxYcBBOi6q4pdTDl) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:21 | 2022-12-05 | 2023-01-13 |
@@ -71,6 +71,7 @@
 | [Cry For You](https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Cry For You](https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ) | 2:48 | 2024-02-08 |  |
 | [Cynical \- Hardstyle](https://open.spotify.com/track/4cEMgH0ERFoLyKb9dxccvD) | [HARD DEMON](https://open.spotify.com/artist/4hs7FsiMKHZoMozVh72PjK), [X\-Hard](https://open.spotify.com/artist/44lkLJnPol5vOPY9HwWX3S), [Mr Demon](https://open.spotify.com/artist/4KxFQKuMJRcrnz0UpiGgw4) | [Cynical \(Hardstyle\)](https://open.spotify.com/album/0RxssWi0DN1f4Y1v6JBTj8) | 2:34 | 2025-02-18 | 2025-05-07 |
 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 | 2023-09-07 |  |
+| [Dancing In The Moonlight](https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Dancing In The Moonlight](https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl) | 3:03 | 2026-06-15 |  |
 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/1U43pviSmkzoBDxIqPWbAc) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/0WNNiEmWs9OlBiZaBvM9Et) | 1:48 | 2023-02-09 | 2023-05-23 |
 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/26AwKORtQduylqg17xd0MH) | 1:48 | 2023-05-18 | 2024-04-19 |
 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 | 2023-04-27 | 2023-09-08 |

@@ -3801,6 +3801,24 @@
     },
     {
       "album": {
+        "name": "Hector's Sunflower",
+        "url": "https://open.spotify.com/album/2UBqTZK0dQHWYuSyR3rnaz"
+      },
+      "artists": [
+        {
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568324,
+      "name": "Hector's Sunflower",
+      "url": "https://open.spotify.com/track/2COjs33KOlsXhIbHfpSTpA"
+    },
+    {
+      "album": {
         "name": "Hell To The Liars (feat. NATURE)",
         "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
       },
@@ -4134,7 +4152,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 143146,
       "name": "I'm Every Sparkly Woman",
       "url": "https://open.spotify.com/track/1wJl3JYS0rwr6vzghouw43"
@@ -6825,6 +6843,24 @@
     },
     {
       "album": {
+        "name": "The Photo Album",
+        "url": "https://open.spotify.com/album/0BYa8c258aW7tKhjYhXZO2"
+      },
+      "artists": [
+        {
+          "name": "Seth Weaver",
+          "url": "https://open.spotify.com/artist/2gorlpHoMkIMPGDYlml8Il"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Photo Album",
+      "url": "https://open.spotify.com/track/1EbRmdcJwBNdym18zXsLEY"
+    },
+    {
+      "album": {
         "name": "Physics Project",
         "url": "https://open.spotify.com/album/5y4Bxkhyk9pLI7fTrL16JG"
       },
@@ -7006,7 +7042,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 200783,
       "name": "Procession",
       "url": "https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu"
@@ -8784,7 +8820,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 228594,
       "name": "take me home",
       "url": "https://open.spotify.com/track/4epImGStlFs4BL95Po1iHn"
@@ -8996,6 +9032,24 @@
       "duration_ms": 183999,
       "name": "The Apiary",
       "url": "https://open.spotify.com/track/1ksUGKzkQfB9FDGfIJPqTG"
+    },
+    {
+      "album": {
+        "name": "What We Lost",
+        "url": "https://open.spotify.com/album/4OucqQdIyWceXDGLiMRNbK"
+      },
+      "artists": [
+        {
+          "name": "Hanan Townshend",
+          "url": "https://open.spotify.com/artist/4G8H1peJnT7swm4Ygtm80F"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437773,
+      "name": "The Birds",
+      "url": "https://open.spotify.com/track/3yJmL9I3nGSvx2wdFOQdIH"
     },
     {
       "album": {

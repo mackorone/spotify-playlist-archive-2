@@ -20843,6 +20843,24 @@
     },
     {
       "album": {
+        "name": "Speed Of Light",
+        "url": "https://open.spotify.com/album/5i0cFxjBv38hQmSEHgyQyO"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177310,
+      "name": "Speed Of Light",
+      "url": "https://open.spotify.com/track/6Gr4CPYjaP5969AACKDdfZ"
+    },
+    {
+      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/4VYcnqjXVo6ekUEIOUr0Ml"
       },

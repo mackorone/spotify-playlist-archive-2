@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 289458,
+  "num_followers": 289473,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "She's Like Texas",
-        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 235253,
-      "name": "She's Like Texas",
-      "url": "https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Cross Canadian Ragweed",
         "url": "https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 319200,
       "name": "17",
       "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "She's Like Texas",
+        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 235253,
+      "name": "She's Like Texas",
+      "url": "https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Blink You'll Miss It",
-        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
       "artists": [
         {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 212819,
-      "name": "Damn Good Goodbye",
-      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
+      "duration_ms": 157053,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+        "name": "Blink You'll Miss It",
+        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
         }
       ],
-      "duration_ms": 157053,
-      "name": "Shotgun Willie",
-      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
+      "duration_ms": 212819,
+      "name": "Damn Good Goodbye",
+      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "The Blue Light Live",
-        "url": "https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 275106,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "The Essential Willie Nelson",
         "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 183453,
       "name": "My Heroes Have Always Been Cowboys",
       "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "The Blue Light Live",
+        "url": "https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 275106,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "No Vacancy",
-        "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
+        "name": "Marfa Lights",
+        "url": "https://open.spotify.com/album/24NOQ09OAx540cYX976EEo"
       },
       "artists": [
         {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 244429,
-      "name": "No Vacancy",
-      "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
+      "duration_ms": 222400,
+      "name": "Marfa Lights",
+      "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Marfa Lights",
-        "url": "https://open.spotify.com/album/24NOQ09OAx540cYX976EEo"
+        "name": "No Vacancy",
+        "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Marfa Lights",
-      "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
+      "duration_ms": 244429,
+      "name": "No Vacancy",
+      "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Texas Cookin",
-        "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "Anyhow, I Love You",
-      "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Brand New Me",
         "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 189413,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Texas Cookin",
+        "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "Anyhow, I Love You",
+      "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Lovers and Leavers",
-        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "The Love That We Need",
-      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Three Days",
         "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 224840,
       "name": "Three Days",
       "url": "https://open.spotify.com/track/0vCfqTdVanc42UWTQmVU2S"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Lovers and Leavers",
+        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "The Love That We Need",
+      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
     },
     {
       "added_at": "2026-02-11 22:47:27",

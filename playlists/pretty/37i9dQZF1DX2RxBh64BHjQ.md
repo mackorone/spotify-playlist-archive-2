@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0LGKNkqCNnflIi35z00rGu">PayGotti</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,729,338 likes - 99 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,729,241 likes - 99 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 11 | [Kriss Vecc](https://open.spotify.com/track/3vJxspQ5ZqrCpZgV1FX9wf) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 2:45 |
 | 12 | [Secret Indictment](https://open.spotify.com/track/4rD5qxURCWoEjlqTAccepX) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Secret Indictment](https://open.spotify.com/album/3byaONLhCK35Oh3FzftsRc) | 3:16 |
 | 13 | [Bitch You Weird](https://open.spotify.com/track/73csCra2J1nVwjnoKOLMeX) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Bitch You Weird](https://open.spotify.com/album/3vH1WsxMDci9qU3wmHwmQw) | 2:27 |
-| 14 | [Lil Mama](https://open.spotify.com/track/0G869PQwqx7tcIB6ftQDg6) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Lil Mama](https://open.spotify.com/album/15XdftqQ6gFZDhlmWIqh90) | 2:03 |
-| 15 | [Money Calling](https://open.spotify.com/track/3TwvyrsySAyV9zaaMukj6i) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Destined For Greatness](https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B) | 2:04 |
-| 16 | [Da Problem Solva](https://open.spotify.com/track/6dXdZKMIWP78xQg2aMl89C) | [Thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi) | [Clique City Vol\. 2](https://open.spotify.com/album/4StdrWDWy5MZRIjTl4Mtsm) | 2:20 |
-| 17 | [MULA THA ROOT OF ALL EVIL](https://open.spotify.com/track/178Kk0lBFBHRh8EhuRj7YY) | [Lil Novi](https://open.spotify.com/artist/0p2aFROS95bdLkYYL0pYSz), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [MULA THA ROOT OF ALL EVIL](https://open.spotify.com/album/1nhuz9B3Goim5GgBDPh1km) | 2:17 |
-| 18 | [Like A Virgin](https://open.spotify.com/track/3zSLxRr6oagNkmKINPW3uu) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Terrified .](https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ) | 2:34 |
-| 19 | [Champions \(WC 26\)](https://open.spotify.com/track/6V6QUm9LvLoAGTQ2uJemdc) | [IShowSpeed](https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS) | [Champions \(WC 26\)](https://open.spotify.com/album/6esjGviBmNEzgoakCIZQYy) | 4:15 |
-| 20 | [30 Days](https://open.spotify.com/track/4xC2eq5lA0CzDFZH7yk3Um) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [30 Days](https://open.spotify.com/album/4uWXP3dsrs3ipaZoP4ZP2b) | 2:16 |
+| 14 | [WYM \(I Ain't Fresh\)](https://open.spotify.com/track/2XM18Uw0HEMGGeRGPxTeD7) | [Tahjaee](https://open.spotify.com/artist/6PvayPkNZDVr1LHKzaCAs2), [jhonniedamnd](https://open.spotify.com/artist/7qWZ7Mw71hkXKztqoEy727) | [WYM \(I Ain't Fresh\)](https://open.spotify.com/album/0bSDvvWRojNGeTkoAKqX1t) | 2:53 |
+| 15 | [Lil Mama](https://open.spotify.com/track/0G869PQwqx7tcIB6ftQDg6) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Lil Mama](https://open.spotify.com/album/15XdftqQ6gFZDhlmWIqh90) | 2:02 |
+| 16 | [Money Calling](https://open.spotify.com/track/3TwvyrsySAyV9zaaMukj6i) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Destined For Greatness](https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B) | 2:04 |
+| 17 | [Da Problem Solva](https://open.spotify.com/track/6dXdZKMIWP78xQg2aMl89C) | [Thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi) | [Clique City Vol\. 2](https://open.spotify.com/album/4StdrWDWy5MZRIjTl4Mtsm) | 2:20 |
+| 18 | [MULA THA ROOT OF ALL EVIL](https://open.spotify.com/track/178Kk0lBFBHRh8EhuRj7YY) | [Lil Novi](https://open.spotify.com/artist/0p2aFROS95bdLkYYL0pYSz), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [MULA THA ROOT OF ALL EVIL](https://open.spotify.com/album/1nhuz9B3Goim5GgBDPh1km) | 2:17 |
+| 19 | [Like A Virgin](https://open.spotify.com/track/3zSLxRr6oagNkmKINPW3uu) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Terrified .](https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ) | 2:34 |
+| 20 | [Champions \(WC 26\)](https://open.spotify.com/track/6V6QUm9LvLoAGTQ2uJemdc) | [IShowSpeed](https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS) | [Champions \(WC 26\)](https://open.spotify.com/album/6esjGviBmNEzgoakCIZQYy) | 4:15 |
 | 21 | [R.I.P Peace](https://open.spotify.com/track/0HGiBth3dhLw2NFF0M3AsS) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [R.I.P Peace](https://open.spotify.com/album/4pDROA57uQG30SDAwEt4Lo) | 2:55 |
 | 22 | [I Wanna Rock](https://open.spotify.com/track/6PetGqmYmxytj5TfEvHO5k) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [I Wanna Rock](https://open.spotify.com/album/5RvJlNjUyH6D7DEdbFjI1z) | 3:44 |
 | 23 | [Lay It Down](https://open.spotify.com/track/22HQqPzsM2kl79Ck1mJIAP) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Lay It Down](https://open.spotify.com/album/4THqnp5AGT1ZtA94wtcrYb) | 2:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/4HzMo8F6xAYOZGYy72CUjX) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/album/06hD4ATITFcIPIrwwGboAi) | 3:11 |
 | 99 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
 
-Snapshot ID: `AAAAAPb5hcd23hYOHZEiFouJGwbn8Kst`
+Snapshot ID: `AAAAAGp4b17gtobuKHgOBKXoTp6Y78F9`

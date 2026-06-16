@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,520 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,522 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 5 | [8 миля](https://open.spotify.com/track/67llqAFIyR6d6JMjDImDyU) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [VILLIAN](https://open.spotify.com/artist/4UsmVGTdKwCWC0B86P6N7L) | [8 миля](https://open.spotify.com/album/3YnW0b8cZDhpCoBi0uI0Y6) | 1:55 |
 | 6 | [Шадэ](https://open.spotify.com/track/6GiiGC1f90eZdYwyg0NEJl) | [By Индия](https://open.spotify.com/artist/0BPOpRKw4vLwPFp4LsFRpO), [Xcho](https://open.spotify.com/artist/774od4b04zDMQMGxrJDeuB), [МОТ](https://open.spotify.com/artist/6OTMjaRQ9kxdwoPRYTmyOM) | [Шадэ](https://open.spotify.com/album/6DBQO6xPJEwKISFHrlYkjI) | 2:48 |
 | 7 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
-| 8 | [священная война](https://open.spotify.com/track/2rmBspVsLbjzTIfMgKEX5V) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [саундклауд пак](https://open.spotify.com/album/61ZwsIyzfz82gHTrOIsvzP) | 1:42 |
+| 8 | [священная война](https://open.spotify.com/track/51hYk2CuUoZPd003ENH5lO) | [урал гайсин](https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm) | [саундклауд пак](https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw) | 1:42 |
 | 9 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 |
 | 10 | [Jealous](https://open.spotify.com/track/1A4VLW48hd3N4leX2bkLs6) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [Jealous](https://open.spotify.com/album/2mt9564w8001zioTwQIZzU) | 3:05 |
 | 11 | [Юра, Юра](https://open.spotify.com/track/60rhfD30Cpfj4SY5A7ft4Z) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [Как испортить вечеринку?](https://open.spotify.com/album/2JvSSXtfGp3QIv1VWxIr4J) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Вселенная бесконечна?](https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5) | [Noize MC](https://open.spotify.com/artist/69v4ZOOomf1TNp59YYB1j7) | [Новый альбом](https://open.spotify.com/album/5O0lvSqOB9IEmHyKsYppAn) | 4:20 |
 | 50 | [Время](https://open.spotify.com/track/7qTNNLNMIUEImA7bbRHVbE) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 3:38 |
 
-Snapshot ID: `McInMAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `McN4sAAAAAAAAAAAAAAAAAAAAAAAAGVu`

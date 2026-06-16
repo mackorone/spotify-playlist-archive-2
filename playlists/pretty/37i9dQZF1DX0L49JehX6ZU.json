@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 195955,
+  "num_followers": 195965,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-06-10 09:54:20",
       "album": {
+        "name": "tere bina",
+        "url": "https://open.spotify.com/album/1Us61dLUqSkclDwUyygBmJ"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "duration_ms": 157245,
+      "name": "tere bina",
+      "url": "https://open.spotify.com/track/6N5WkgPIDoTdbCXyyIIKAv"
+    },
+    {
+      "added_at": "2026-06-10 09:54:20",
+      "album": {
         "name": "Don't Even Text",
         "url": "https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 179644,
       "name": "Don't Even Text",
       "url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv"
-    },
-    {
-      "added_at": "2026-06-10 09:54:20",
-      "album": {
-        "name": "tere bina",
-        "url": "https://open.spotify.com/album/1Us61dLUqSkclDwUyygBmJ"
-      },
-      "artists": [
-        {
-          "name": "Zaeden",
-          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
-        }
-      ],
-      "duration_ms": 157245,
-      "name": "tere bina",
-      "url": "https://open.spotify.com/track/6N5WkgPIDoTdbCXyyIIKAv"
     },
     {
       "added_at": "2026-06-10 09:54:20",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-06-10 09:54:20",
       "album": {
-        "name": "Tere Jaane Se",
-        "url": "https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri"
-      },
-      "artists": [
-        {
-          "name": "Anurag Vashisht",
-          "url": "https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c"
-        }
-      ],
-      "duration_ms": 211462,
-      "name": "Tere Jaane Se",
-      "url": "https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E"
-    },
-    {
-      "added_at": "2026-06-10 09:54:20",
-      "album": {
         "name": "Baatein Karo",
         "url": "https://open.spotify.com/album/66vdrbexbgZKs1NkNRmIET"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 195309,
       "name": "Baatein Karo",
       "url": "https://open.spotify.com/track/0defKES0cQIsig27CpfPWx"
+    },
+    {
+      "added_at": "2026-06-10 09:54:20",
+      "album": {
+        "name": "Tere Jaane Se",
+        "url": "https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri"
+      },
+      "artists": [
+        {
+          "name": "Anurag Vashisht",
+          "url": "https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c"
+        }
+      ],
+      "duration_ms": 211462,
+      "name": "Tere Jaane Se",
+      "url": "https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E"
     },
     {
       "added_at": "2026-06-10 09:54:20",

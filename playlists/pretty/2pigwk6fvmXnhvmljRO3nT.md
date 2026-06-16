@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,437 songs - 21 day 11 hr 56 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,442 songs - 21 day 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2578,7 +2578,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 2568 | [Wild Flowers](https://open.spotify.com/track/1Tk0kXDRFRM2isik62dkOv) | [Jo Kwan Woo](https://open.spotify.com/artist/6O3pgOz6eZNFrHl5Z3PTG7) | [Best Album Blue Snow](https://open.spotify.com/album/6w41RgTGXqnVWDSAU5LMl4) | 4:09 |
 | 2569 | [IDC \(with Joony\)](https://open.spotify.com/track/12zPyoqYbVdi5JoZ4A0q22) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 1:50 |
 | 2570 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
-| 2571 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:27 |
+| 2571 | [](https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 0:00 |
 | 2572 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 |
 | 2573 | [Sandiego](https://open.spotify.com/track/6gEM3Is1pYv5WTD1emc5O0) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Valley Hopefuls](https://open.spotify.com/album/1n6ULeNHEteS5eucGgsUSp) | 3:52 |
 | 2574 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
@@ -8445,5 +8445,10 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8435 | [So Boring](https://open.spotify.com/track/5s9ArXmsRqEluztlmBPo9Q) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 1:26 |
 | 8436 | [Wake Up, Get Up, Get Out There \- instrumental version](https://open.spotify.com/track/1agTFuAHqxi4Tm3B3izTxV) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:52 |
 | 8437 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
+| 8438 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
+| 8439 | [san francisco](https://open.spotify.com/track/0nsn0xuYHUTbq47O7SBV5v) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy) | [\#501](https://open.spotify.com/album/6RBllZsBADYShDDWdqRkJu) | 3:26 |
+| 8440 | [Difficult Love](https://open.spotify.com/track/0UDEtLcKGBU73D15u5g1r3) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD) | 2:33 |
+| 8441 | [My Lady](https://open.spotify.com/track/3ely8ruLcndSzzvKCjRJzg) | [marQ](https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC) | [My Lady](https://open.spotify.com/album/0BSI9ULgvFaDN9m5rKlwN7) | 3:12 |
+| 8442 | [なにが悪い](https://open.spotify.com/track/2Ifn0MXm7x9ddBQPUabV9a) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:47 |
 
-Snapshot ID: `AAAMBeQiJ5tJXqQ0CcgzXGNpPgGXmLkY`
+Snapshot ID: `AAAMCiHT1XwnNwWj0WkTRtWiHK4a/J/4`

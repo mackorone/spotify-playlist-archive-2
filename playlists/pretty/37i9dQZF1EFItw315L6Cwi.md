@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3S9miHGqiEuJftY8aaaBvm">Paul \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10 likes - 99 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 90 | [Hier oben](https://open.spotify.com/track/2sBcWePtEzOXMzdvJIiLYn) | [Danju](https://open.spotify.com/artist/383SVV0agxDRv1X2dKHsUb), [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [Hier oben](https://open.spotify.com/album/6EbV9QwccvX2l1spTk9TiE) | 2:52 |
 | 91 | [DU BIST](https://open.spotify.com/track/4YIHEP52AVXgzxpDzwaQqT) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [DU BIST](https://open.spotify.com/album/3aUs4NkHYXsMUP5i0eqOW8) | 2:37 |
 | 92 | [so ist life](https://open.spotify.com/track/1H8gdQpKDFHvJNS4kw9U20) | [Stoopid Lou](https://open.spotify.com/artist/3Cz2lOY9tNQ4hEraVbTFXi), [SWEETBOYBLONDEY](https://open.spotify.com/artist/5PKNAQEEXyfYEmteXrSCGI) | [so ist life](https://open.spotify.com/album/38WeIcCo0Mrde5y3dVgyMk) | 1:57 |
-| 93 | [Some2Prove / Tea Time](https://open.spotify.com/track/3Njm5IIFsj6wMh4kRkabgc) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 3:37 |
-| 94 | [Gone](https://open.spotify.com/track/0nl3c2C0yvPpbYibIYYIEp) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 2:16 |
-| 95 | [Lanvins](https://open.spotify.com/track/1TqcAjGtF13aHsoEdOqSps) | [SAIM x CAN](https://open.spotify.com/artist/4YUesmru7Xm84LGTBKVBSc) | [JUNGLE BOYS](https://open.spotify.com/album/3nB3dNhzCFHjRLvmx6nSiI) | 2:18 |
-| 96 | [Vorbei](https://open.spotify.com/track/5gqpGCjWFgxkP2o2HJjeor) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Vorbei](https://open.spotify.com/album/0tJQ5qWoPH5wrUCx24OUQY) | 2:47 |
-| 97 | [Marmorboden](https://open.spotify.com/track/0Af4QsTJeFF9Qn0UW4iHM3) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Marmorboden](https://open.spotify.com/album/6KGh0Lg2MJhjIaSjXOt5Nj) | 2:14 |
-| 98 | [Rendevouz](https://open.spotify.com/track/2hdRHsfNsiZThDXFLA1BOT) | [NOK1D](https://open.spotify.com/artist/3aiVrUEKRgBLXMGsh2IIJ5) | [Cold Exposure](https://open.spotify.com/album/1J1k0DkFsty571I4H8ee0H) | 2:20 |
-| 99 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
-| 100 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
+| 93 | [Gone](https://open.spotify.com/track/0nl3c2C0yvPpbYibIYYIEp) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 2:16 |
+| 94 | [Lanvins](https://open.spotify.com/track/1TqcAjGtF13aHsoEdOqSps) | [SAIM x CAN](https://open.spotify.com/artist/4YUesmru7Xm84LGTBKVBSc) | [JUNGLE BOYS](https://open.spotify.com/album/3nB3dNhzCFHjRLvmx6nSiI) | 2:18 |
+| 95 | [Vorbei](https://open.spotify.com/track/5gqpGCjWFgxkP2o2HJjeor) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Vorbei](https://open.spotify.com/album/0tJQ5qWoPH5wrUCx24OUQY) | 2:47 |
+| 96 | [Marmorboden](https://open.spotify.com/track/0Af4QsTJeFF9Qn0UW4iHM3) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Marmorboden](https://open.spotify.com/album/6KGh0Lg2MJhjIaSjXOt5Nj) | 2:14 |
+| 97 | [Rendevouz](https://open.spotify.com/track/2hdRHsfNsiZThDXFLA1BOT) | [NOK1D](https://open.spotify.com/artist/3aiVrUEKRgBLXMGsh2IIJ5) | [Cold Exposure](https://open.spotify.com/album/1J1k0DkFsty571I4H8ee0H) | 2:20 |
+| 98 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
+| 99 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcUO7gAAAADPo4UV8fFGpfFEoLeyVa4x`
+Snapshot ID: `AcUUhAAAAAD54nmB2xVEXlLR+wYp7DhA`

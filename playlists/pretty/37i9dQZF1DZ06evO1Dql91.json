@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2741,
+  "num_followers": 2745,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAABVXjDzWX65e9gQBaeZLjIn",
+  "snapshot_id": "ai3vAAAAAAAeUy87BRwj2JFAT+ZZOxSn",
   "tracks": [
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk"
+      "duration_ms": 240400,
+      "name": "All Of My Friends",
+      "url": "https://open.spotify.com/track/4jlMlg3vKgVa5inNUz42Tz"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 240400,
-      "name": "All Of My Friends",
-      "url": "https://open.spotify.com/track/4jlMlg3vKgVa5inNUz42Tz"
+      "duration_ms": 188800,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5"
+      "duration_ms": 234356,
+      "name": "Raindrops Keep Falling On My Head",
+      "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 234356,
-      "name": "Raindrops Keep Falling On My Head",
-      "url": "https://open.spotify.com/track/4PFh0a7r03jCNHtj69mvA3"
+      "duration_ms": 245133,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5"
     }
   ],
   "unique_name": "This Is Infinity Song",

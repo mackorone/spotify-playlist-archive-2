@@ -4,7 +4,7 @@
 
 > compare, prenda el asador que hoy juega mi selección 🇲🇽⚽️
 
-601 songs - 1 day 11 hr 59 min
+602 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Me Va, Me Va \(En Vivo\)](https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 3:17 | 2026-06-08 |  |
 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/77OrXA8n0USqp0IlxgIBkp) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [La Más Completa Colección \(Disc 1 \-Mexico Version\)](https://open.spotify.com/album/2bynGiYzJfqV5SXS1wQ8rL) | 3:56 | 2021-06-16 | 2022-07-22 |
 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 | 2023-01-16 | 2025-11-30 |
-| [Me Voy al Amanecer](https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Me Voy al Amanecer](https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr) | 3:22 | 2026-06-08 |  |
+| [Me Voy al Amanecer](https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Me Voy al Amanecer](https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr) | 3:22 | 2026-06-08 | 2026-06-16 |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 | 2021-06-16 | 2022-10-29 |
 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 | 2022-08-19 | 2022-08-27 |
 | [Mentiras](https://open.spotify.com/track/5ISbI7uonHP3Qx6OloertA) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/6UTNGpgi32axo5ilCMPhCF) | 3:21 | 2021-06-16 | 2022-07-20 |
@@ -522,6 +522,7 @@
 | [Te Juro](https://open.spotify.com/track/1xcAolejmJBYKywAEIfUOs) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Eterno](https://open.spotify.com/album/4sH1E8H6CVW02WBRaAUhil) | 3:00 | 2021-06-16 | 2022-07-25 |
 | [Te lo agradezco, pero no](https://open.spotify.com/track/6VNDcCfh2d74YP8SneYQ2Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Te lo agradezco, pero no](https://open.spotify.com/album/2ucdvgyJfOVUmlfieStEdR) | 4:33 | 2021-06-16 | 2022-07-22 |
 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 | 2021-06-16 | 2022-07-29 |
+| [Te Metiste En Mi Cama](https://open.spotify.com/track/5uYvByiOhvRa2k4kszt51y) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Situaciones](https://open.spotify.com/album/2R3XydysYP28DgcD8OHDyr) | 3:12 | 2026-06-08 |  |
 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 | 2025-01-31 | 2026-01-03 |
 | [Te Vez Buena \- En Vivo](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 | 2026-06-08 |  |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 | 2024-08-25 |

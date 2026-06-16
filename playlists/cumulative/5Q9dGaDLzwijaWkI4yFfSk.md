@@ -51,7 +51,7 @@
 | [What's The Point](https://open.spotify.com/track/5wJ21Tafkdymm6LX9xTJuj) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/1wuMWkIWPFmNRDHCiAxBPg) | 4:15 | 2014-03-20 |  |
 | [Who's At The Door](https://open.spotify.com/track/3RhySASWf4Io3ivgL5g6te) | [Young Squage](https://open.spotify.com/artist/47NhkkzyXmVSUa2wXOmUbb) | [Who's At the Door](https://open.spotify.com/album/2ZCLiWOvWHzEQ1TBf2eoxR) | 4:05 | 2014-03-20 |  |
 | [Wings](https://open.spotify.com/track/0rf8whOpWQjuBqQwPbtLma) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC) | [Wings](https://open.spotify.com/album/2wiNiheGgmiI4irB7Zh7uJ) | 4:58 | 2012-10-25 |  |
-| [Wings \- Radio Version](https://open.spotify.com/track/12h1t8Nnzgv6u5m7q4qbJq) | [Lunde Bros](https://open.spotify.com/artist/3vfze5i984lHvh9VHS4fTJ) | [Wings](https://open.spotify.com/album/7BZIkNumU3UwFvUXssTpBr) | 3:58 | 2014-03-20 |  |
+| [Wings \- Radio Version](https://open.spotify.com/track/12h1t8Nnzgv6u5m7q4qbJq) | [Lunde Bros.](https://open.spotify.com/artist/2uVRl03JrnOpGw4jpefPmq) | [Wings](https://open.spotify.com/album/7BZIkNumU3UwFvUXssTpBr) | 3:58 | 2014-03-20 |  |
 | [Wolf](https://open.spotify.com/track/0I8neJTT3b16EzqvtXxt8K) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/4WGwICew7TZW1k2oTYkGrj) | 3:40 | 2014-03-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

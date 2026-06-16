@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Olivia Rodrigo on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,093 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,113 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 53 | [All My Girls](https://open.spotify.com/track/4eMJvvkRQuxLIuuO9m2kY8) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [All My Girls](https://open.spotify.com/album/0zuCHsOytrFSapisjsSwlB) | 2:11 |
 | 54 | [thumbs](https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [thumbs](https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8) | 2:50 |
 | 55 | [Se Le Ve](https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [Se Le Ve](https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7) | 2:39 |
-| 56 | [Lil Mama](https://open.spotify.com/track/0G869PQwqx7tcIB6ftQDg6) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Lil Mama](https://open.spotify.com/album/15XdftqQ6gFZDhlmWIqh90) | 2:03 |
+| 56 | [Lil Mama](https://open.spotify.com/track/0G869PQwqx7tcIB6ftQDg6) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Lil Mama](https://open.spotify.com/album/15XdftqQ6gFZDhlmWIqh90) | 2:02 |
 | 57 | [Go To Hell](https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Go To Hell](https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt) | 3:28 |
 | 58 | [In The Name Of Healing \- from the Prime Original Movie ‘Your Fault: London’](https://open.spotify.com/track/6nnt4dluOfRFlrZawFHTbc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [In The Name Of Healing \(from the Prime Original Movie ‘Your Fault: London’\)](https://open.spotify.com/album/1T0yBHa2eKYVtAXMu7UxCn) | 2:37 |
 | 59 | [Days of My Life](https://open.spotify.com/track/4Ana7sa1xkbWPMuLTITOjD) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Days of My Life](https://open.spotify.com/album/1M6RCsoo6Cq1yX3YpP93s5) | 3:28 |

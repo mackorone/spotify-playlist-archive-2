@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 112811,
+  "num_followers": 112809,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
+        "name": "Dr. Psiquiatra",
+        "url": "https://open.spotify.com/album/62VXkWtudUuwXEpDu6LmkZ"
+      },
+      "artists": [
+        {
+          "name": "Gladys \"La bomba tucumana\"",
+          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
+        }
+      ],
+      "duration_ms": 168715,
+      "name": "Dr. Psiquiatra",
+      "url": "https://open.spotify.com/track/28N9f5LPtZOWnWPeX02WXv"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 166736,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
-        "name": "Dr. Psiquiatra",
-        "url": "https://open.spotify.com/album/62VXkWtudUuwXEpDu6LmkZ"
-      },
-      "artists": [
-        {
-          "name": "Gladys \"La bomba tucumana\"",
-          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
-        }
-      ],
-      "duration_ms": 168715,
-      "name": "Dr. Psiquiatra",
-      "url": "https://open.spotify.com/track/28N9f5LPtZOWnWPeX02WXv"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm"
-      },
-      "artists": [
-        {
-          "name": "Mariana Bfly",
-          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
-        }
-      ],
-      "duration_ms": 151463,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Ya No Vives en M\u00ed",
         "url": "https://open.spotify.com/album/5ohmkNgIZFdrcK5ORDGuxu"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 182728,
       "name": "Ya No Vives en M\u00ed",
       "url": "https://open.spotify.com/track/1WIWF8JFYthRZQsUdqXK0v"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm"
+      },
+      "artists": [
+        {
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        }
+      ],
+      "duration_ms": 151463,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe"
     },
     {
       "added_at": "2025-07-18 03:00:26",

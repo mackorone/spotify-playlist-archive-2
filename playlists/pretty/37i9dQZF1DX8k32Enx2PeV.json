@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 16723,
+  "num_followers": 16731,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,26 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
+        "name": "Coste\u00f1ita",
+        "url": "https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "Coste\u00f1ita",
+      "url": "https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
         "name": "Belleza",
         "url": "https://open.spotify.com/album/7dFEzeWR3MbGdQEykDTVbF"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 240006,
       "name": "Belleza",
       "url": "https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
-        "name": "Coste\u00f1ita",
-        "url": "https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 226618,
-      "name": "Coste\u00f1ita",
-      "url": "https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo"
-      },
-      "artists": [
-        {
-          "name": "Vera Delacruz",
-          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
         "name": "Un Vac\u00edo",
         "url": "https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 187715,
       "name": "Besos Ricos",
       "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo"
+      },
+      "artists": [
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        }
+      ],
+      "duration_ms": 173836,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "B\u00faho",
-        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bleat",
-          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
-        }
-      ],
-      "duration_ms": 300338,
-      "name": "B\u00faho",
-      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 215466,
       "name": "Conexi\u00f3n Total",
       "url": "https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
+        "name": "B\u00faho",
+        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bleat",
+          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
+        }
+      ],
+      "duration_ms": 300338,
+      "name": "B\u00faho",
+      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
-      },
-      "artists": [
-        {
-          "name": "10 QUI",
-          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
-        },
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
-        }
-      ],
-      "duration_ms": 180652,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -1099,22 +1079,22 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "Saltas Por M\u00ed",
-        "url": "https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW"
+        "name": "Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
       },
       "artists": [
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "10 QUI",
+          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
         },
         {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Saltas Por M\u00ed",
-      "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
+      "duration_ms": 180652,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1131,6 +1111,26 @@
       "duration_ms": 172800,
       "name": "EMDDMV",
       "url": "https://open.spotify.com/track/7iR2INATAqjNsevyTqojre"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
+        "name": "Saltas Por M\u00ed",
+        "url": "https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Saltas Por M\u00ed",
+      "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "Un Poco Menos Idiota",
-        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 225547,
-      "name": "Un Poco Menos Idiota",
-      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
-    },
-    {
-      "added_at": "2026-05-22 04:59:38",
-      "album": {
         "name": "Yo Quisiera",
         "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2026-05-22 04:59:38",
       "album": {
-        "name": "ni una foto",
-        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
+        "name": "Un Poco Menos Idiota",
+        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
       },
       "artists": [
         {
-          "name": "GAMBOA",
-          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 192385,
-      "name": "ni una foto",
-      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+      "duration_ms": 225547,
+      "name": "Un Poco Menos Idiota",
+      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
     },
     {
       "added_at": "2026-05-22 04:59:38",
@@ -1567,6 +1551,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2026-05-22 04:59:38",
+      "album": {
+        "name": "ni una foto",
+        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
+      },
+      "artists": [
+        {
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
+        }
+      ],
+      "duration_ms": 192385,
+      "name": "ni una foto",
+      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
     },
     {
       "added_at": "2026-05-22 04:59:38",

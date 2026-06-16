@@ -4,10 +4,11 @@
 
 > It’s a call from the ancestors\. Listen to new music from Moana 2, now streaming on Disney+.
 
-84 songs - 3 hr 3 min
+85 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Along The Way \- From "Moana"](https://open.spotify.com/track/5QLI9Dn0jOseDb2ptAibK1) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Catherine Laga'aia](https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Along The Way \(From "Moana"\)](https://open.spotify.com/album/2ZaaAHqCBhZKCQiPz3LBEY) | 4:17 | 2026-06-15 |  |
 | [An Innocent Warrior](https://open.spotify.com/track/3ZJnc1eGicPxRitBoC7eWZ) | [Vai Mahina](https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9), [Sulata Foai\-Amiatu](https://open.spotify.com/artist/5jJBMnM3wotWAKrVBdzFRi), [Matthew Ineleo](https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 1:37 | 2024-11-08 |  |
 | [Battle of Wills](https://open.spotify.com/track/5owH90gSdbZK9Iot4bCrjQ) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:10 | 2024-11-08 |  |
 | [Beyond](https://open.spotify.com/track/28NuQOBWZGX9jG647T6vWV) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:50 | 2024-11-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,887 likes - 93 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,920 likes - 93 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 41 | [K’ami](https://open.spotify.com/track/4DP1C8n0qQuyi0YQ8EiQD8) | [Omar Dahl](https://open.spotify.com/artist/3Vb4rwqi73ubzzZzmGzsFB) | [K’ami](https://open.spotify.com/album/6riZcUdFtFoE7O9htLROx3) | 6:51 |
 | 42 | [Bedouin \- Radio Edit](https://open.spotify.com/track/5GQEgfI9pzWe29jC6lBmaj) | [Afgo](https://open.spotify.com/artist/2w1hjvhihR8mNsPNGdyAKr), [Lemon](https://open.spotify.com/artist/4nprN6zSALQ9v3XNvQpMZP) | [Bedouin \(Radio Edit\)](https://open.spotify.com/album/4F74nb9hsz1jJimMhl4fSm) | 3:37 |
 | 43 | [Moon \- Alvaro Suarez Remix](https://open.spotify.com/track/0MTPgQdn4dOvRc4n1jSicW) | [Faran Ensemble](https://open.spotify.com/artist/5DxLQmr0Kb4wHKsNdWpfmc), [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv) | [Faran Ensemble \(Remixed\)](https://open.spotify.com/album/16fT3QYxIL06bG7dLpM9tD) | 9:27 |
-| 44 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Meditelectro](https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 |
+| 44 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Meditelectro](https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg), [Periklis Papadopoulos](https://open.spotify.com/artist/44C4nZkSnDjNJ9Fga6SkB6) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 |
 | 45 | [Ch'Uwa Yaku Kawsaypuni \- Nicola Cruz Remix](https://open.spotify.com/track/5eGVRd0UTksrv949lPToPQ) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:23 |
 | 46 | [Tembo](https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 8:41 |
 | 47 | [Abiogenesis](https://open.spotify.com/track/0zz17YzBvTBLHwOwaCvHd0) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Earth Night 2019](https://open.spotify.com/album/5A7ggVyiQKqtJE1IZ5Kj6o) | 7:11 |

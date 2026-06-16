@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,678 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,681 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 11 | [J'OUBLIERAI](https://open.spotify.com/track/4pDeWODXFzJgpc0RgyRtZQ) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [BACKSTAGE](https://open.spotify.com/album/5ELu99KDhQPxQXcHj1eJHN) | 2:47 |
 | 12 | [50 Gars](https://open.spotify.com/track/1B0jx8RVaD2cEvVwVCrAOW) | [SUEILO](https://open.spotify.com/artist/3MeK3kaFCmsYOIcWjjXpbO) | [50 Gars](https://open.spotify.com/album/5gPQqqTFsDY8KJ0OHV0nIo) | 2:14 |
 | 13 | [Red Flag](https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 3:06 |
-| 14 | [Impolie](https://open.spotify.com/track/0APVifXwHibtji2UP0Zx3u) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [Impolie](https://open.spotify.com/album/0KzWsiWyCYwxirg68jBnD0) | 2:19 |
+| 14 | [IMPOLIE](https://open.spotify.com/track/0APVifXwHibtji2UP0Zx3u) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [IMPOLIE](https://open.spotify.com/album/0KzWsiWyCYwxirg68jBnD0) | 2:19 |
 | 15 | [ZÉRO DEFAUT](https://open.spotify.com/track/4JJpP2JWOL2hO4vx4WJQ0l) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [GINGERBOY Party](https://open.spotify.com/album/6dwlw37qooKhMsH4K1EbAL) | 2:45 |
 | 16 | [Ça va aller](https://open.spotify.com/track/4s6i1gchWOJXTUPy7dc8uA) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [BPM](https://open.spotify.com/album/0dQQNapuO631RSnGLl0oTA) | 2:40 |
 | 17 | [Pas comme moi](https://open.spotify.com/track/3rdiPxdC5Y2N9eDgEk3MY4) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Pas comme moi](https://open.spotify.com/album/4Z7rvNms3Gtk1g8BNxejoz) | 3:48 |

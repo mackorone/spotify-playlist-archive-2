@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Mentissa, Olivia Rodrigo, Bebe Rexha,  Guy2Bezbar x Tiakola, Tove Lo x Stromae and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,478 likes - 116 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,476 likes - 116 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 16 | [Through the Beam](https://open.spotify.com/track/60zFN50t9JC2nFm2A78xk5) | [Triggerfinger](https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU) | [Through the Beam](https://open.spotify.com/album/3v5TBf7ZtfGDvi6WSyLYk0) | 3:14 |
 | 17 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 |
 | 18 | [Mélo Décalé](https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo Décalé](https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc) | 2:36 |
-| 19 | [MONA LISA](https://open.spotify.com/track/4ZrITEhPtOTsIsDQRkBwv5) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ), [Ky Janea](https://open.spotify.com/artist/5jaQoL0k6l3BHdF24j42im), [Dessa](https://open.spotify.com/artist/071eYqdF7w29jwzwFx9YvA), [Bobby Taylor](https://open.spotify.com/artist/6zMLleTVyslDg6NTVicqer) | [MONA LISA](https://open.spotify.com/album/4p1uYpjOfPuPJz8RJewZqn) | 2:38 |
+| 19 | [MONA LISA](https://open.spotify.com/track/4ZrITEhPtOTsIsDQRkBwv5) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ), [Ky Janea](https://open.spotify.com/artist/5jaQoL0k6l3BHdF24j42im), [Dessa](https://open.spotify.com/artist/071eYqdF7w29jwzwFx9YvA), [Bobby Taylor](https://open.spotify.com/artist/6zMLleTVyslDg6NTVicqer), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [MONA LISA](https://open.spotify.com/album/4p1uYpjOfPuPJz8RJewZqn) | 2:38 |
 | 20 | [Terminé](https://open.spotify.com/track/2kCpJcd7oKKJBb8oCkAQdu) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Terminé](https://open.spotify.com/album/6M6flSEBeH8E0ry91NrBKb) | 3:30 |
 | 21 | [SUPERMOTOR](https://open.spotify.com/track/3P3H3FrpvH8nzJmCmTc2CP) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SUPERMOTOR](https://open.spotify.com/album/5KwUa7OPLW1a8PvQEFfP1A) | 2:26 |
 | 22 | [Andersom \(feat\. Boef\)](https://open.spotify.com/track/5kYM2ac4h8SDGyoT6O7Q0i) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Andersom \(feat\. Boef\)](https://open.spotify.com/album/0eZLLmggsAmrXm8ZISADy8) | 3:50 |

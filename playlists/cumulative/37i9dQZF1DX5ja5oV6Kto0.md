@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Sarah Phenom, Maleigh Zan, Brazy
 
-1,098 songs - 2 day 5 hr 2 min
+1,099 songs - 2 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Graveyard Freestyle](https://open.spotify.com/track/3RjRA6hxS5aC4Vnra5dSVu) | [yurmomsboifrend](https://open.spotify.com/artist/3FquFbbyMyV9NW1PFKBtPn), [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Graveyard Freestyle](https://open.spotify.com/album/5K3b5HF1P2sAHS1Mx6oNFP) | 2:24 | 2023-11-17 | 2023-11-24 |
 | [Greedy](https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Greedy](https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1) | 2:45 | 2026-02-20 |  |
 | [Green Light \(feat\. Brazy & Maleigh Zan\)](https://open.spotify.com/track/0qdXgKaog8kQxgF573XIcJ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G), [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Green Light \(feat\. Brazy & Maleigh Zan\)](https://open.spotify.com/album/4K5dyyoPwTGgeMiTDIj3lO) | 2:34 | 2026-06-12 |  |
+| [green mile](https://open.spotify.com/track/3tT9tgQ5VaobAVITOyOr8S) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs) | [Are You With Me!](https://open.spotify.com/album/6efiIGTRyuGuHLliDvpX49) | 1:25 | 2026-06-12 |  |
 | [Grindin'](https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:24 | 2024-03-21 | 2024-03-25 |
 | [growing up](https://open.spotify.com/track/5UOAfVQgz65gboUYoebRXp) | [seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [growing up](https://open.spotify.com/album/7ysHLnYuy40kbl5j7jCZ4M) | 3:12 | 2026-06-12 |  |
 | [Grown Ass Girl.](https://open.spotify.com/track/0Z8VkJm8To18FclbvmYVMn) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/2J9GQxJkFjgkkKC9O4O21g) | 2:59 | 2023-07-14 | 2023-08-18 |
@@ -888,7 +889,7 @@
 | [SKI](https://open.spotify.com/track/4wfonbgh4rNBq10322vx27) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [SKI](https://open.spotify.com/album/6EAj8OOM4FDunQrETdECiv) | 3:12 | 2025-05-09 | 2025-05-30 |
 | [Skooby Snack](https://open.spotify.com/track/28MeLMeCVHpOyaiWWAdsax) | [Chilleaux](https://open.spotify.com/artist/1qtIAJW16IZzYa9qZKlBCw) | [Skooby Snack](https://open.spotify.com/album/7AG6Mxy9qY4OMYCPMabYJd) | 2:33 | 2025-05-09 | 2025-05-23 |
 | [Slave Mill](https://open.spotify.com/track/4hvhYBWFbNfBHk5OGAFqmw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:48 | 2024-03-21 | 2024-03-25 |
-| [SLiDE](https://open.spotify.com/track/3jfWO9owdGpkNFq0gtHszK) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [SLiDE](https://open.spotify.com/album/5Vs1bARehxJBSjPYy1piOj) | 3:02 | 2026-05-08 |  |
+| [SLiDE](https://open.spotify.com/track/3jfWO9owdGpkNFq0gtHszK) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [SLiDE](https://open.spotify.com/album/5Vs1bARehxJBSjPYy1piOj) | 3:02 | 2026-05-08 | 2026-06-16 |
 | [Slide](https://open.spotify.com/track/02h7LkDcneD5ucrBtWynF3) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Slide](https://open.spotify.com/album/2IYHliuJCkUkswU1sb3XHM) | 2:06 | 2025-08-22 | 2025-10-08 |
 | [SLIDE](https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW) | [DOZ](https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV), [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [SLIDE](https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL) | 3:00 | 2021-12-17 | 2023-06-17 |
 | [Slow](https://open.spotify.com/track/529UbUitoTJqEO5do3znnW) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Slow](https://open.spotify.com/album/6ou78tufapX7uj4wawzjJy) | 2:49 | 2022-09-09 | 2022-11-04 |

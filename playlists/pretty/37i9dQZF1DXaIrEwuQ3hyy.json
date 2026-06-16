@@ -1,6 +1,6 @@
 {
   "description": "sommerurlaub f\u00fcr zwischendurch \u26f1\ufe0f",
-  "num_followers": 1097873,
+  "num_followers": 1097879,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "SHIVER",
-        "url": "https://open.spotify.com/album/3MwbiuKnRS79mDoQjjyA8H"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "SHIVER",
-      "url": "https://open.spotify.com/track/4ggoW4LKonBMecWMS1VDlK"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Changes - EP",
         "url": "https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 215265,
       "name": "Ozean",
       "url": "https://open.spotify.com/track/7ED8m8m3QJvDCnYFOi6VXB"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "SHIVER",
+        "url": "https://open.spotify.com/album/3MwbiuKnRS79mDoQjjyA8H"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "SHIVER",
+      "url": "https://open.spotify.com/track/4ggoW4LKonBMecWMS1VDlK"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 204467,
+      "name": "Karaoke Bar",
+      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 222092,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
-        "name": "Karaoke Bar",
-        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 204467,
-      "name": "Karaoke Bar",
-      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Into You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 246901,
-      "name": "Into You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Eugene",
         "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
       },
@@ -1051,6 +1035,38 @@
       "duration_ms": 221804,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Prolog I",
+        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 258505,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Into You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 246901,
+      "name": "Into You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1075,22 +1091,6 @@
       "duration_ms": 194210,
       "name": "Tall Pines",
       "url": "https://open.spotify.com/track/2VQ5Zw5bDevO8iRx1EQ2gr"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
-        "name": "Prolog I",
-        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 258505,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "How Lucky",
-        "url": "https://open.spotify.com/album/50EZwVxvU2MKMV3KzDNxUm"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 172351,
-      "name": "How Lucky",
-      "url": "https://open.spotify.com/track/49bXMIWYEubmbhS2t984QT"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Am Ende des Tages",
         "url": "https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
+        "name": "How Lucky",
+        "url": "https://open.spotify.com/album/50EZwVxvU2MKMV3KzDNxUm"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 172351,
+      "name": "How Lucky",
+      "url": "https://open.spotify.com/track/49bXMIWYEubmbhS2t984QT"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Know the Night",
-        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Know the Night",
-      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Iman",
         "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Blanc",
-        "url": "https://open.spotify.com/album/6Dsu7W8rO1eq2n2aYrLGPC"
+        "name": "Know the Night",
+        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Blanc",
-      "url": "https://open.spotify.com/track/3rT4gJN45VHbkPguDsE4Op"
+      "duration_ms": 190266,
+      "name": "Know the Night",
+      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
+        "name": "When A Good Man Cries",
+        "url": "https://open.spotify.com/album/2QAkD0UQPequuKUym51naj"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/32EMc8jknohqZlNSM6gtj7"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
       },
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "When A Good Man Cries",
-        "url": "https://open.spotify.com/album/2QAkD0UQPequuKUym51naj"
+        "name": "Blanc",
+        "url": "https://open.spotify.com/album/6Dsu7W8rO1eq2n2aYrLGPC"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/32EMc8jknohqZlNSM6gtj7"
+      "duration_ms": 194026,
+      "name": "Blanc",
+      "url": "https://open.spotify.com/track/3rT4gJN45VHbkPguDsE4Op"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
+        "name": "1000 Tage",
+        "url": "https://open.spotify.com/album/5TeTkaORghKxRZob0qxBqD"
+      },
+      "artists": [
+        {
+          "name": "yung pepp",
+          "url": "https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR"
+        }
+      ],
+      "duration_ms": 120491,
+      "name": "1000 Tage",
+      "url": "https://open.spotify.com/track/5No65rZdw7efFpH5Ax6F6Z"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
         "name": "Nur",
         "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "1000 Tage",
-        "url": "https://open.spotify.com/album/5TeTkaORghKxRZob0qxBqD"
-      },
-      "artists": [
-        {
-          "name": "yung pepp",
-          "url": "https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR"
-        }
-      ],
-      "duration_ms": 120491,
-      "name": "1000 Tage",
-      "url": "https://open.spotify.com/track/5No65rZdw7efFpH5Ax6F6Z"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Morning Birds",
         "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 287000,
       "name": "Morning Birds",
       "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Two Thirds",
+        "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
+      },
+      "artists": [
+        {
+          "name": "Childe",
+          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Two Thirds",
+      "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Two Thirds",
-        "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
-      },
-      "artists": [
-        {
-          "name": "Childe",
-          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Two Thirds",
-      "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 213400,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
-        "name": "Anywhere & Everywhere EP",
-        "url": "https://open.spotify.com/album/6gZ5gFFMlGGBt3YZzuR8oP"
-      },
-      "artists": [
-        {
-          "name": "Max Allais",
-          "url": "https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn"
-        }
-      ],
-      "duration_ms": 149007,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/1FiSZZWBeDNKcPqtS9dkh3"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1687,6 +1671,22 @@
       "duration_ms": 173415,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/2yGiQ4RlVLczAorOE6vmTl"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Anywhere & Everywhere EP",
+        "url": "https://open.spotify.com/album/6gZ5gFFMlGGBt3YZzuR8oP"
+      },
+      "artists": [
+        {
+          "name": "Max Allais",
+          "url": "https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn"
+        }
+      ],
+      "duration_ms": 149007,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/1FiSZZWBeDNKcPqtS9dkh3"
     },
     {
       "added_at": "2026-06-11 22:01:19",

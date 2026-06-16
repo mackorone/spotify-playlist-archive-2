@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 15787,
+  "num_followers": 15788,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,18 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+        "name": "A-TEEN Part. 2",
+        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
       },
       "artists": [
         {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Question Marks (Feat. Paul Kim)",
-      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
+      "duration_ms": 204942,
+      "name": "I'II be your star",
+      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -539,18 +535,22 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "A-TEEN Part. 2",
-        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
       },
       "artists": [
         {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 204942,
-      "name": "I'II be your star",
-      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+      "duration_ms": 166000,
+      "name": "Question Marks (Feat. Paul Kim)",
+      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
+        "name": "Spring Is You",
+        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 225647,
+      "name": "Spring Is You",
+      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
         "name": "Ten Reasons I Love You(2021)",
         "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 250813,
       "name": "Ten Reasons I Love You(2021)",
       "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
-        "name": "Spring Is You",
-        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 225647,
-      "name": "Spring Is You",
-      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "Full Bloom",
-        "url": "https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Spring Bloom",
-      "url": "https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
-        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y"
       },
       "artists": [
         {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 170746,
-      "name": "Say I Love U",
-      "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
+      "duration_ms": 163733,
+      "name": "Spring Bloom",
+      "url": "https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
+        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
       },
       "artists": [
         {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
         }
       ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+      "duration_ms": 170746,
+      "name": "Say I Love U",
+      "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -1067,6 +1051,22 @@
       "duration_ms": 244106,
       "name": "Again Spring",
       "url": "https://open.spotify.com/track/5x5xiwS1HInKYLkIAuRjSA"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "I'LL BE YOUR SPRING",
-        "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
-      },
-      "artists": [
-        {
-          "name": "HyeJu",
-          "url": "https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG"
-        }
-      ],
-      "duration_ms": 189664,
-      "name": "I'LL BE YOUR SPRING",
-      "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
         "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 204266,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "I'LL BE YOUR SPRING",
+        "url": "https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf"
+      },
+      "artists": [
+        {
+          "name": "HyeJu",
+          "url": "https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG"
+        }
+      ],
+      "duration_ms": 189664,
+      "name": "I'LL BE YOUR SPRING",
+      "url": "https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn"
     },
     {
       "added_at": "2026-04-25 04:24:32",

@@ -2455,6 +2455,36 @@
     },
     {
       "album": {
+        "name": "Jindua",
+        "url": "https://open.spotify.com/album/4g2sRBNskak775SL1Qidoo"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Neeshitaa Kumar",
+          "url": "https://open.spotify.com/artist/7nPSQjeftA9KU8Z6BWniQc"
+        },
+        {
+          "name": "Rabica Wadhawan",
+          "url": "https://open.spotify.com/artist/7JvI3rxourVbaMmZT382fk"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176938,
+      "name": "Jindua",
+      "url": "https://open.spotify.com/track/5Efx3o1NB0vfFDBusFYjqh"
+    },
+    {
+      "album": {
         "name": "Jinna Jinna",
         "url": "https://open.spotify.com/album/1HbsoYzl6lIJwfSa9vvxSI"
       },
@@ -6188,7 +6218,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 177858,
       "name": "Vyaah",
       "url": "https://open.spotify.com/track/3V84R6k8bGkidWWTr0iKll"

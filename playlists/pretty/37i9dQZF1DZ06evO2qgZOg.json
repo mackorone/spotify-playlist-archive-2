@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 329108,
+  "num_followers": 329159,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAABy/hBJusWWlqPIQxrH8/tl",
+  "snapshot_id": "ai3vAAAAAADhO5/Dpql1d1d1tfdY2bFN",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "One Day Too Late",
+      "url": "https://open.spotify.com/track/6JLnc7pF4WUzQ6BWONpc7j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unleashed Beyond (Special Edition)",
         "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 232813,
       "name": "Breaking Free (feat. Lacey Sturm)",
       "url": "https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "One Day Too Late",
-      "url": "https://open.spotify.com/track/6JLnc7pF4WUzQ6BWONpc7j"
     },
     {
       "added_at": null,

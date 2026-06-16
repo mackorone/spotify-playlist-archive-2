@@ -4,11 +4,12 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-483 songs - 1 day 20 hr 7 min
+484 songs - 1 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [247](https://open.spotify.com/track/0Q7bUZezJYEf74LfJ391w8) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [247](https://open.spotify.com/album/1FVOgRtvMsPc2QAdeoBqx4) | 3:09 | 2023-08-25 | 2023-09-01 |
+| [Aanu Ni](https://open.spotify.com/track/6Xlk1BRpm8popHswG85vsw) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Aanu Ni](https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET) | 3:42 | 2026-06-15 |  |
 | [Abba](https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Forever](https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7) | 3:08 | 2023-08-25 | 2024-01-04 |
 | [Abba Father](https://open.spotify.com/track/4GaNCiCC9xW3W18zpBtt49) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Abba Father](https://open.spotify.com/album/5lP7HPJ05Hlk9FSDpPY8Vg) | 3:40 | 2023-05-12 | 2023-05-26 |
 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 | 2020-09-17 | 2023-04-14 |
@@ -149,7 +150,7 @@
 | [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 | 2023-12-31 | 2024-01-04 |
 | [Gbogbonise](https://open.spotify.com/track/2g5SqiHdJjOPucWuHnzB4k) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Gbogbonise](https://open.spotify.com/album/0f9sJpmbLfaa2GstxF7Fxu) | 6:26 | 2025-12-03 | 2025-12-25 |
 | [Give Me Chance](https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Give Me Chance](https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q) | 4:15 | 2025-12-03 | 2025-12-25 |
-| [Give Me Oil](https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [Give Me Oil](https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId) | 11:33 | 2024-05-03 |  |
+| [Give Me Oil](https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [Give Me Oil](https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId) | 11:33 | 2024-05-03 | 2026-06-16 |
 | [Give Me Time \(Gimme\)](https://open.spotify.com/track/5xrlv9xFTnzqraUOtStgCD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Give Me Time \(Gimme\)](https://open.spotify.com/album/21ICHmCBp2my574mRH2otm) | 3:00 | 2023-08-25 | 2023-09-01 |
 | [God Has Been Good](https://open.spotify.com/track/5WpB9rh1D2mRCnHZNZDZJf) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [House Victimz](https://open.spotify.com/artist/2jLxHBm09mAVmAoaVh47Lr) | [The Gospel According To Artwork Sounds Chapter II](https://open.spotify.com/album/29GVpaBSSetPQ38LohweSs) | 6:52 | 2023-04-28 | 2023-05-19 |
 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 | 2022-08-26 | 2023-12-15 |

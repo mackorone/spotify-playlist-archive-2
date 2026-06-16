@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: Modern Woman",
-  "num_followers": 131086,
+  "num_followers": 131099,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
     },
     {
-      "added_at": "2026-06-09 10:19:39",
-      "album": {
-        "name": "Busker's Paradise",
-        "url": "https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb"
-      },
-      "artists": [
-        {
-          "name": "The Reytons",
-          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
-        }
-      ],
-      "duration_ms": 223812,
-      "name": "Busker's Paradise",
-      "url": "https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL"
-    },
-    {
       "added_at": "2026-05-01 00:00:20",
       "album": {
         "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
@@ -875,6 +859,22 @@
       "duration_ms": 204543,
       "name": "Diamond In The Dark",
       "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
+    },
+    {
+      "added_at": "2026-06-09 10:19:39",
+      "album": {
+        "name": "Busker's Paradise",
+        "url": "https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "duration_ms": 223812,
+      "name": "Busker's Paradise",
+      "url": "https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL"
     },
     {
       "added_at": "2026-06-09 10:19:39",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/7mMWTrcGwJPbl4WdRjWLT7"
-      },
-      "artists": [
-        {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/7ddTjbmyWUAX3aVttgePhO"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Pick-Up Full Of Pink Carnations",
         "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
@@ -1407,34 +1391,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Smitten",
-        "url": "https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO"
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/7mMWTrcGwJPbl4WdRjWLT7"
       },
       "artists": [
         {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
         }
       ],
-      "duration_ms": 214245,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
-        "name": "marry me to dopamine",
-        "url": "https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7"
-      },
-      "artists": [
-        {
-          "name": "Kilu",
-          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
-        }
-      ],
-      "duration_ms": 213083,
-      "name": "marry me to dopamine",
-      "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
+      "duration_ms": 264266,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/7ddTjbmyWUAX3aVttgePhO"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1459,18 +1427,18 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Inaction",
-        "url": "https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9"
+        "name": "Smitten",
+        "url": "https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO"
       },
       "artists": [
         {
-          "name": "Declan Welsh and The Decadent West",
-          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
         }
       ],
-      "duration_ms": 186437,
-      "name": "Inaction",
-      "url": "https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm"
+      "duration_ms": 214245,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1491,18 +1459,34 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Love Me Please",
-        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+        "name": "Inaction",
+        "url": "https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9"
       },
       "artists": [
         {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+          "name": "Declan Welsh and The Decadent West",
+          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
         }
       ],
-      "duration_ms": 158667,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+      "duration_ms": 186437,
+      "name": "Inaction",
+      "url": "https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "marry me to dopamine",
+        "url": "https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "duration_ms": 213083,
+      "name": "marry me to dopamine",
+      "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1519,6 +1503,22 @@
       "duration_ms": 232197,
       "name": "Calypso Blue",
       "url": "https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
     },
     {
       "added_at": "2026-05-01 00:00:20",

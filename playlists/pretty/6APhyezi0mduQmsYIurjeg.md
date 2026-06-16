@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 569 songs - 1 day 10 hr 28 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 574 songs - 1 day 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -577,5 +577,10 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 567 | [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 |
 | 568 | [Fanático del Rock And Roll](https://open.spotify.com/track/7gxjjbv9dR7rE9I8FPuVPs) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll](https://open.spotify.com/album/1MHoJyg99X7SO8Jihuiwr2) | 3:01 |
 | 569 | [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 |
+| 570 | [Human Touch](https://open.spotify.com/track/6a8WOjBWaNkbnuCWjPHOOE) | [huch79](https://open.spotify.com/artist/6fMQ33yPUv5a6CHDEGKhd8) | [Human Touch](https://open.spotify.com/album/1GvLfzrvVI3ueu5ZEM8DjL) | 5:17 |
+| 571 | [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 |
+| 572 | [Duele](https://open.spotify.com/track/5POi6OOXViiSfO93jfktEa) | [Javix Durakoz](https://open.spotify.com/artist/1jGZsCyA4sKJ3ZEHhiVepa) | [Duele](https://open.spotify.com/album/6Nwmv6UXFTiAZUfkGGph1P) | 4:28 |
+| 573 | [DON'T DO THAT](https://open.spotify.com/track/630YNEl6c2QU3rflfCxnGz) | [YASSiN & Sean Terrio](https://open.spotify.com/artist/6MQaXix1Y8JL3q2zYZkd1v) | [DON'T DO THAT](https://open.spotify.com/album/5safWD1mR13AS3OP8WbWmZ) | 3:45 |
+| 574 | [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 |
 
-Snapshot ID: `AAACztdsfWcf2jps00wZqbPZKy06yz/K`
+Snapshot ID: `AAAC05F2RuzUBhV+jWAKDi58o8vKAyys`

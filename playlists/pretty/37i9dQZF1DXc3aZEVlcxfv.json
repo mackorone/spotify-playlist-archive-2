@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21544,
+  "num_followers": 21549,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
     },
     {
-      "added_at": "2025-10-10 00:01:09",
-      "album": {
-        "name": "Halleluyah",
-        "url": "https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 416232,
-      "name": "Halleluyah",
-      "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
-    },
-    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Reckless Lover",
@@ -583,6 +567,22 @@
       "duration_ms": 537386,
       "name": "Reckless Lover",
       "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
+    },
+    {
+      "added_at": "2025-10-10 00:01:09",
+      "album": {
+        "name": "Halleluyah",
+        "url": "https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 416232,
+      "name": "Halleluyah",
+      "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
     },
     {
       "added_at": "2024-09-30 14:25:52",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
     },
     {
-      "added_at": "2025-05-09 00:01:37",
-      "album": {
-        "name": "ZA",
-        "url": "https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT"
-      },
-      "artists": [
-        {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
-        }
-      ],
-      "duration_ms": 161841,
-      "name": "ZA",
-      "url": "https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z"
-    },
-    {
       "added_at": "2026-05-29 00:01:36",
       "album": {
         "name": "Subscribed (Live)",
@@ -727,6 +711,22 @@
       "duration_ms": 198518,
       "name": "Subscribed - Live",
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
+    },
+    {
+      "added_at": "2025-05-09 00:01:37",
+      "album": {
+        "name": "ZA",
+        "url": "https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 161841,
+      "name": "ZA",
+      "url": "https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z"
     },
     {
       "added_at": "2026-01-23 00:01:16",
@@ -929,26 +929,6 @@
       "url": "https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n"
     },
     {
-      "added_at": "2025-02-28 00:01:33",
-      "album": {
-        "name": "Covenant Keeping God",
-        "url": "https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp"
-      },
-      "artists": [
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        }
-      ],
-      "duration_ms": 836670,
-      "name": "Covenant Keeping God",
-      "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
-    },
-    {
       "added_at": "2026-02-27 00:01:20",
       "album": {
         "name": "Holy Love",
@@ -971,6 +951,26 @@
       "duration_ms": 170500,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
+    },
+    {
+      "added_at": "2025-02-28 00:01:33",
+      "album": {
+        "name": "Covenant Keeping God",
+        "url": "https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp"
+      },
+      "artists": [
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 836670,
+      "name": "Covenant Keeping God",
+      "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
     },
     {
       "added_at": "2026-05-29 00:01:36",
@@ -1085,6 +1085,22 @@
       "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
     },
     {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
+    },
+    {
       "added_at": "2026-03-27 00:01:13",
       "album": {
         "name": "Citizen",
@@ -1109,20 +1125,20 @@
       "url": "https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
+      "added_at": "2026-04-24 00:01:08",
       "album": {
-        "name": "My Lover (Live)",
-        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
         }
       ],
-      "duration_ms": 435240,
-      "name": "My Lover (Live)",
-      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1141,20 +1157,20 @@
       "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
-      "added_at": "2026-04-24 00:01:08",
+      "added_at": "2026-05-22 00:01:37",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+        "name": "ABBA FATHER (raw)",
+        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
         }
       ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+      "duration_ms": 68869,
+      "name": "ABBA FATHER - raw",
+      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -1193,20 +1209,20 @@
       "url": "https://open.spotify.com/track/4A5WBAFb9w2dNRI1nqxwyx"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "ABBA FATHER (raw)",
-        "url": "https://open.spotify.com/album/68RAoLRRu8sKyakgEIDYia"
+        "name": "Miracle Walking (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
       },
       "artists": [
         {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
         }
       ],
-      "duration_ms": 68869,
-      "name": "ABBA FATHER - raw",
-      "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
+      "duration_ms": 217333,
+      "name": "Miracle Walking - Radio Edit",
+      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
       "added_at": "2026-03-06 00:01:07",
@@ -1239,22 +1255,6 @@
       "duration_ms": 356000,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/4px2IwQ5OVSdTTeo4hzHYV"
-    },
-    {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Miracle Walking (Radio Edit)",
-        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
-      },
-      "artists": [
-        {
-          "name": "Freke Umoh",
-          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Miracle Walking - Radio Edit",
-      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -1349,6 +1349,26 @@
       "url": "https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT"
     },
     {
+      "added_at": "2026-06-12 08:46:43",
+      "album": {
+        "name": "We Worship You",
+        "url": "https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        },
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "duration_ms": 497779,
+      "name": "We Worship You",
+      "url": "https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r"
+    },
+    {
       "added_at": "2026-04-03 00:01:46",
       "album": {
         "name": "With You",
@@ -1367,22 +1387,6 @@
       "duration_ms": 162935,
       "name": "With You",
       "url": "https://open.spotify.com/track/1q73vgp83XE42lE86YiSNT"
-    },
-    {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Off Days",
-        "url": "https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Off Days",
-      "url": "https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz"
     },
     {
       "added_at": "2026-03-06 00:01:07",
@@ -1407,34 +1411,18 @@
     {
       "added_at": "2026-04-03 00:01:46",
       "album": {
-        "name": "Africa Rejoice!",
-        "url": "https://open.spotify.com/album/21tKokYIWn3qKCVdUfzvTX"
+        "name": "Off Days",
+        "url": "https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU"
       },
       "artists": [
         {
-          "name": "Hallel Wrshp",
-          "url": "https://open.spotify.com/artist/0XefxRUeAKzoEDn7r3VfPP"
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
         }
       ],
-      "duration_ms": 207801,
-      "name": "A Cikin Inuwarka",
-      "url": "https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR"
-    },
-    {
-      "added_at": "2026-05-22 00:01:37",
-      "album": {
-        "name": "OINS MOI ENCORE",
-        "url": "https://open.spotify.com/album/0ykgQXzMWGzVH0dhO3g4e9"
-      },
-      "artists": [
-        {
-          "name": "Marius Psalmiste",
-          "url": "https://open.spotify.com/artist/7D5oRKDVOHKULH718U6hOf"
-        }
-      ],
-      "duration_ms": 336448,
-      "name": "OINS MOI ENCORE",
-      "url": "https://open.spotify.com/track/6Nr1IHqWZllh494l9DIxEM"
+      "duration_ms": 200869,
+      "name": "Off Days",
+      "url": "https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1461,6 +1449,38 @@
       "url": "https://open.spotify.com/track/1DmDFKRHIdH1g9mLO18dkq"
     },
     {
+      "added_at": "2026-05-22 00:01:37",
+      "album": {
+        "name": "OINS MOI ENCORE",
+        "url": "https://open.spotify.com/album/0ykgQXzMWGzVH0dhO3g4e9"
+      },
+      "artists": [
+        {
+          "name": "Marius Psalmiste",
+          "url": "https://open.spotify.com/artist/7D5oRKDVOHKULH718U6hOf"
+        }
+      ],
+      "duration_ms": 336448,
+      "name": "OINS MOI ENCORE",
+      "url": "https://open.spotify.com/track/6Nr1IHqWZllh494l9DIxEM"
+    },
+    {
+      "added_at": "2026-04-03 00:01:46",
+      "album": {
+        "name": "Africa Rejoice!",
+        "url": "https://open.spotify.com/album/21tKokYIWn3qKCVdUfzvTX"
+      },
+      "artists": [
+        {
+          "name": "Hallel Wrshp",
+          "url": "https://open.spotify.com/artist/0XefxRUeAKzoEDn7r3VfPP"
+        }
+      ],
+      "duration_ms": 207801,
+      "name": "A Cikin Inuwarka",
+      "url": "https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR"
+    },
+    {
       "added_at": "2026-04-10 00:01:38",
       "album": {
         "name": "Yielded",
@@ -1477,22 +1497,6 @@
       "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
     },
     {
-      "added_at": "2026-05-08 00:01:38",
-      "album": {
-        "name": "Loved by You",
-        "url": "https://open.spotify.com/album/41iOYhHoBxpD7Wv7UkfuVu"
-      },
-      "artists": [
-        {
-          "name": "O'Tims",
-          "url": "https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD"
-        }
-      ],
-      "duration_ms": 153513,
-      "name": "Loved by You",
-      "url": "https://open.spotify.com/track/5NSA2avgm4ObXCUcRksQGK"
-    },
-    {
       "added_at": "2026-05-29 00:01:36",
       "album": {
         "name": "E Ba Mi Gbe Ga",
@@ -1507,6 +1511,22 @@
       "duration_ms": 350190,
       "name": "E Ba Mi Gbe Ga",
       "url": "https://open.spotify.com/track/0fGcgCXGeZGflUzBgwkneW"
+    },
+    {
+      "added_at": "2026-05-08 00:01:38",
+      "album": {
+        "name": "Loved by You",
+        "url": "https://open.spotify.com/album/41iOYhHoBxpD7Wv7UkfuVu"
+      },
+      "artists": [
+        {
+          "name": "O'Tims",
+          "url": "https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD"
+        }
+      ],
+      "duration_ms": 153513,
+      "name": "Loved by You",
+      "url": "https://open.spotify.com/track/5NSA2avgm4ObXCUcRksQGK"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1533,44 +1553,20 @@
       "url": "https://open.spotify.com/track/3jhKmcPfx0TAexrvNCCiMG"
     },
     {
-      "added_at": "2026-04-24 00:01:08",
+      "added_at": "2025-11-28 00:01:15",
       "album": {
-        "name": "My Elshaddai",
-        "url": "https://open.spotify.com/album/38CdwH27OsQF185txvPw1z"
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/3HCRvYPY5SQhWZZBaD8Xkd"
       },
       "artists": [
         {
-          "name": "Evans Ogboi",
-          "url": "https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0"
-        },
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Purist Ogboi",
-          "url": "https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
         }
       ],
-      "duration_ms": 276083,
-      "name": "My Elshaddai",
-      "url": "https://open.spotify.com/track/7z81J8HgIVSpyeF2996zDy"
-    },
-    {
-      "added_at": "2026-03-27 00:01:13",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/1HMUdkIPCBsOBJy7518Hh6"
-      },
-      "artists": [
-        {
-          "name": "Oge Stan",
-          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
-        }
-      ],
-      "duration_ms": 271699,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
+      "duration_ms": 175645,
+      "name": "The Lover",
+      "url": "https://open.spotify.com/track/6v4W9CW3BzHU6a38FaIq7v"
     }
   ],
   "unique_name": "Blessed",

@@ -7272,10 +7272,28 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 194040,
       "name": "SUPERSCAR",
       "url": "https://open.spotify.com/track/3OXswcKSaO6mNiNyeEbnAS"
+    },
+    {
+      "album": {
+        "name": "Superscar",
+        "url": "https://open.spotify.com/album/381XElKgcMnMRNP9yFrwJ4"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "Superscar",
+      "url": "https://open.spotify.com/track/41omgwj9Hoqy8B7ApXX6Zf"
     },
     {
       "album": {

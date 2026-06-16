@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "HUNTER\u00d7HUNTER \u30bb\u30ec\u30af\u30c8\uff58\u30d9\u30b9\u30c8\uff58\u03b1",
+        "url": "https://open.spotify.com/album/5BHo1ls5JD1wifba373dF7"
+      },
+      "artists": [
+        {
+          "name": "Masatoshi Ono",
+          "url": "https://open.spotify.com/artist/2R1ubdXY4sUiDqsCtoAVUE"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "departure!",
+      "url": "https://open.spotify.com/track/2yyx5kPSz2mET1zAqj7uBv"
+    },
+    {
+      "album": {
         "name": "Dramatic Market Ride",
         "url": "https://open.spotify.com/album/3Qn1FGT5fVX03YsHYILUZM"
       },

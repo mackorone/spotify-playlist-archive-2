@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per un'estate non proprio felice 🥀 cover: SCAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,215 likes - 107 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,210 likes - 107 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

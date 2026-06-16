@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 408342,
+  "num_followers": 408527,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -739,18 +739,22 @@
     {
       "added_at": "2026-05-21 22:02:57",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+        "name": "Magico\u2026 di notte (Pekka Remix)",
+        "url": "https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4"
       },
       "artists": [
         {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+          "name": "Alan Sorrenti",
+          "url": "https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq"
+        },
+        {
+          "name": "Pekka",
+          "url": "https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm"
         }
       ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+      "duration_ms": 183515,
+      "name": "Magico\u2026 di notte - Pekka Remix",
+      "url": "https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs"
     },
     {
       "added_at": "2026-05-21 22:02:57",
@@ -791,22 +795,18 @@
     {
       "added_at": "2026-05-21 22:02:57",
       "album": {
-        "name": "Magico\u2026 di notte (Pekka Remix)",
-        "url": "https://open.spotify.com/album/33prMFWRolx0tl0Wqi6hw4"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
       },
       "artists": [
         {
-          "name": "Alan Sorrenti",
-          "url": "https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq"
-        },
-        {
-          "name": "Pekka",
-          "url": "https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm"
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
         }
       ],
-      "duration_ms": 183515,
-      "name": "Magico\u2026 di notte - Pekka Remix",
-      "url": "https://open.spotify.com/track/6J4aJyqlNCaWUrbxphFEGs"
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2026-05-21 22:02:57",

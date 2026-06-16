@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Pirra
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,483 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,484 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [Sea](https://open.spotify.com/track/2HYfwdan04hnDBDMAmpm2l) | [Blanche](https://open.spotify.com/artist/1gW6b6p5ogkjRepKSDO8Ju) | [Sea & Fly](https://open.spotify.com/album/2jou6BoH9Pd2IaM17Ez94J) | 5:55 |
 | 50 | [Same Old Song](https://open.spotify.com/track/0r8NGjlCNT3nx0F4G3Q7kr) | [NoKTuRNL](https://open.spotify.com/artist/0QUKRQJwwjtmZ8xfSewrZt) | [Unveiled](https://open.spotify.com/album/45bQZt8S7uOEyMxUAHysQs) | 3:26 |
 
-Snapshot ID: `AAAAADtw/XIUWn6d4x6nfRNalJmpg48U`
+Snapshot ID: `AAAAAP4Zi6TfGKiwV1KrBdHCRovo5dvi`

@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 379743,
+  "num_followers": 379757,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Tudo \u00c9 do Pai",
+        "url": "https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 396777,
+      "name": "Tudo \u00c9 do Pai",
+      "url": "https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Ao Monte",
         "url": "https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 368300,
       "name": "Ao Monte",
       "url": "https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Tudo \u00c9 do Pai",
-        "url": "https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X"
-      },
-      "artists": [
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 396777,
-      "name": "Tudo \u00c9 do Pai",
-      "url": "https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -199,18 +199,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
+        "name": "Eu Te Levantarei",
+        "url": "https://open.spotify.com/album/42A1I5OJSFlNmx40vhwfU4"
       },
       "artists": [
         {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 449016,
-      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
+      "duration_ms": 215324,
+      "name": "Eu Te Levantarei",
+      "url": "https://open.spotify.com/track/5VhNo3giwElyUv92ykqLsx"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -231,22 +235,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Eu Te Levantarei",
-        "url": "https://open.spotify.com/album/42A1I5OJSFlNmx40vhwfU4"
+        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
       },
       "artists": [
         {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         }
       ],
-      "duration_ms": 215324,
-      "name": "Eu Te Levantarei",
-      "url": "https://open.spotify.com/track/5VhNo3giwElyUv92ykqLsx"
+      "duration_ms": 449016,
+      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Atr\u00e1s do Temporal",
         "url": "https://open.spotify.com/album/7DxudzZT8MjDJyjT6iEt4e"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 275242,
       "name": "Atr\u00e1s do Temporal",
       "url": "https://open.spotify.com/track/72RRX9piGwAcHYrIQ6eqnN"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        },
+        {
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Santa Rita de C\u00e1ssia",
+        "url": "https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 310772,
+      "name": "Santa Rita de C\u00e1ssia",
+      "url": "https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Santa Rita de C\u00e1ssia",
-        "url": "https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy"
-      },
-      "artists": [
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 310772,
-      "name": "Santa Rita de C\u00e1ssia",
-      "url": "https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Minha Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c"
-      },
-      "artists": [
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 236442,
-      "name": "S\u00f3 por Ti Jesus",
-      "url": "https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Ora\u00e7\u00e3o pela Paz",
         "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 221476,
       "name": "Ora\u00e7\u00e3o pela Paz",
       "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Minha Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c"
+      },
+      "artists": [
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 236442,
+      "name": "S\u00f3 por Ti Jesus",
+      "url": "https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA"
     },
     {
       "added_at": "2026-06-12 03:01:51",

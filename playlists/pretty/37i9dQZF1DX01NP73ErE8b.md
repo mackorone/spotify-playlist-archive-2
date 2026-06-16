@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 Merk & Kremont, Serena Brancale e The Kolors in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,359 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,378 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 30 | [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 |
 | 31 | [Mai](https://open.spotify.com/track/4VLr4Esg0hHSVoNjs19u3u) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:19 |
 | 32 | [sabato sera \(feat\. Enrico Nigiotti\)](https://open.spotify.com/track/4KVkqDpNaSW9av9kKPRMoe) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk), [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [sabato sera \(feat\. Enrico Nigiotti\)](https://open.spotify.com/album/0JPqbUEKqS5oDwQn4WqN74) | 3:03 |
-| 33 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:40 |
+| 33 | [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:43 |
 | 34 | [Gioielli Neri](https://open.spotify.com/track/0F34WTdm0Yn2FFJtnMu3jf) | [Sara Gioielli](https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI) | [Gioielli Neri](https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt) | 2:46 |
 | 35 | [Serenamente](https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:16 |
 | 36 | [Più in Alto](https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [SENZA FIATO](https://open.spotify.com/album/1SG8l9HK7JW4ECmURSPLVX) | 3:04 |

@@ -815,6 +815,36 @@
     },
     {
       "album": {
+        "name": "Chatni (From \"Dhamaal 4\")",
+        "url": "https://open.spotify.com/album/7LcDbGpG2Ti1cq9QKlaF8q"
+      },
+      "artists": [
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Neelkamal Singh",
+          "url": "https://open.spotify.com/artist/2pywmTkxO0H1CY8ZXSJTSC"
+        },
+        {
+          "name": "Mamta Sharma",
+          "url": "https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4"
+        },
+        {
+          "name": "Dhiraj Babuaan",
+          "url": "https://open.spotify.com/artist/6rVoypz9oLQQugC1W9pH4k"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155144,
+      "name": "Chatni (From \"Dhamaal 4\")",
+      "url": "https://open.spotify.com/track/3sC1jet8rEyTu3GOrPDJlm"
+    },
+    {
+      "album": {
         "name": "Chhoti Si Kahani Se - Single",
         "url": "https://open.spotify.com/album/4OZ0MTyBsnrzBa0xq42Gjm"
       },
@@ -4096,7 +4126,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 191089,
       "name": "O Saki Saki (From \"Batla House\")",
       "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"

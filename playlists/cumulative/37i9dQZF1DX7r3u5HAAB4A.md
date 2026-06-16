@@ -4,7 +4,7 @@
 
 > A melting pot of Caribbean culture\. Cover: Drake
 
-354 songs - 17 hr 23 min
+355 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Pam Pam Pam](https://open.spotify.com/track/0rAaMscdc9Rrs0fMc3BXKD) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Echelon Beatz](https://open.spotify.com/artist/61znra23oiOShvDCDC32Gh) | [Pam Pam Pam](https://open.spotify.com/album/2M8vkoHzc8l77iWO5wgYgE) | 2:59 | 2026-02-06 | 2026-04-18 |
 | [Panic](https://open.spotify.com/track/3n9KcMNRaUluDxwKzZAVA8) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Panic](https://open.spotify.com/album/7zMSm96aaWBxtUGNbl6RkZ) | 2:06 | 2026-02-25 |  |
 | [PARDY \- Road Mix](https://open.spotify.com/track/7ksaZiIN0xGny4iS3sHqFP) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [One Degree Hotter](https://open.spotify.com/album/79pkMBFXLF3RGt2I1Z6Y54) | 7:03 | 2025-02-28 | 2025-03-08 |
+| [Party Criminal](https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Cutting Thread](https://open.spotify.com/album/2l3soHjdwpJifx0Nn7Jh1N) | 3:14 | 2026-06-16 |  |
 | [Party Next Door](https://open.spotify.com/track/4uIuf9PyfooM5yr90oeCs2) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Party Next Door](https://open.spotify.com/album/0Z0GucmnsdB60DmhSa8drt) | 2:43 | 2025-05-23 | 2025-05-31 |
 | [Passenger Princess](https://open.spotify.com/track/3K0Brj5efNDnuanUlQACq7) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Passenger Princess](https://open.spotify.com/album/4aO1h3geLdTrYrl612pf6g) | 2:30 | 2025-07-11 |  |
 | [Payroll](https://open.spotify.com/track/08lpmcULw7gi6VQ9DhrqIX) | [The 9ine](https://open.spotify.com/artist/25f1NjILSP7owhgqIQNOPg) | [Payroll](https://open.spotify.com/album/0RRzVs6vxZ5s3JzJA6jMoE) | 2:22 | 2024-08-29 |  |

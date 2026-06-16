@@ -4,7 +4,7 @@
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-1,004 songs - 2 day 8 hr 6 min
+1,005 songs - 2 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,6 +942,7 @@
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-09-12 | 2024-11-22 |
 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 | 2025-02-07 | 2025-04-21 |
 | [Wisła \- Magiera Lo\-fi Remix](https://open.spotify.com/track/4AOuahbJm9qZR8lf7rFwQf) | [Robert Mróz Jr](https://open.spotify.com/artist/0QQOdzcr4w488zxeSSSTaG), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Wisła \(Magiera Lo\-fi Remix\)](https://open.spotify.com/album/4M60GATA6TQcUHpYsBBx9k) | 3:07 | 2024-10-25 | 2024-11-09 |
+| [Without You](https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Without You](https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU) | 3:57 | 2026-06-12 |  |
 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 | 2024-11-08 | 2025-02-22 |
 | [Więcej czasu na miłość](https://open.spotify.com/track/5o7X5kqohQgvHjKBd66338) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Więcej czasu na miłość](https://open.spotify.com/album/5JNkppeS6JqBu7lM0fSgqD) | 4:12 | 2026-04-24 | 2026-05-01 |
 | [Wolta](https://open.spotify.com/track/3HdpFbpjgxgSxEw5LctEFY) | [Blauka](https://open.spotify.com/artist/2ZgaoICJy1V38lHdzlVB8a) | [Wolta](https://open.spotify.com/album/59hCJs29RWZ0SdfxiXzGfs) | 4:43 | 2025-05-31 | 2025-06-22 |
@@ -958,7 +959,7 @@
 | [WSZYSTKO](https://open.spotify.com/track/2GPQ8HjBA9KvQcsGduVOUX) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD) | [WSZYSTKO](https://open.spotify.com/album/3GrbrV75vsH22JdIHRzScV) | 3:32 | 2026-06-09 | 2026-06-13 |
 | [Wszystko](https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 4:06 | 2024-11-21 | 2025-02-22 |
 | [Wszystko jedno](https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Wszystko jedno](https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I) | 3:03 | 2024-11-21 | 2024-12-20 |
-| [wszystko jedno, wszystko źle](https://open.spotify.com/track/1yXPUokqPGKcdzP7gsS6TZ) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [pele\-mele](https://open.spotify.com/album/445NbCN6D81ShHmKjbmFiz) | 3:05 | 2026-04-30 |  |
+| [wszystko jedno, wszystko źle](https://open.spotify.com/track/1yXPUokqPGKcdzP7gsS6TZ) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [pele\-mele](https://open.spotify.com/album/445NbCN6D81ShHmKjbmFiz) | 3:05 | 2026-04-30 | 2026-06-16 |
 | [wszystko mam](https://open.spotify.com/track/4BmBjbRt4EnSJGN3HHp3JF) | [Maks Łapiński](https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke) | [wszystko mam](https://open.spotify.com/album/62ezCRqCDNbJ7lB3jyCMF4) | 2:38 | 2026-03-13 | 2026-03-21 |
 | [wszystko na bursztynowo](https://open.spotify.com/track/36BxwhqydaC791m9yvsb9H) | [Hubert.](https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH) | [wszystko na bursztynowo](https://open.spotify.com/album/3p60S20bPwQwDxjHOgyXHT) | 3:27 | 2026-06-09 |  |
 | [Wszystko się ułoży](https://open.spotify.com/track/59aqzh41cy5Cg6aSWPjXuJ) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wszystko się ułoży](https://open.spotify.com/album/3zxROJJfzFpOJEwVM1v0j5) | 2:04 | 2025-02-28 | 2025-03-09 |

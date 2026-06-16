@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,566 likes - 91 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,668 likes - 91 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 71 | [Eshkeri: Tristan & Yvaine](https://open.spotify.com/track/6olGW6PnE8otoEXPo59VQq) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4), [Andy Brown](https://open.spotify.com/artist/2Tn4bD6wcI4UzCTxBABeZe) | [Stardust \- Music From The Motion Picture](https://open.spotify.com/album/1NF8tCRVwrkWkGjLXO8nsa) | 2:05 |
 | 72 | [Letting Go \(From "God of War Ragnarök" Soundtrack\)](https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 9:25 |
 | 73 | [Feast Of Starlight \- From "The Hobbit \- The Desolation Of Smaug"](https://open.spotify.com/track/0OmFvEb5a3iJPwW2h0tTO0) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit \- The Desolation Of Smaug \(Original Motion Picture Soundtrack / Special Edition\)](https://open.spotify.com/album/2nsRpsb5aeOhNEWV1MoiHB) | 2:48 |
-| 74 | [Dumbledore's Farewell](https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter and the Half\-Blood Prince \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx) | 2:22 |
+| 74 | [Dumbledore's Farewell](https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Half\-Blood Prince: Original Motion Picture Soundtrack](https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx) | 2:22 |
 | 75 | [When I Sail](https://open.spotify.com/track/0DMQWtHyI2OoEoAeFuI72Q) | [Clinton Shorter](https://open.spotify.com/artist/23Vu6ClvSnmNSbz3ODd3iJ) | [The Expanse Season 4 \(Music From The Amazon Original Series\)](https://open.spotify.com/album/1lQXSh4P7wmUNGrW3msSOV) | 1:26 |
 | 76 | [Anakin and Padmé](https://open.spotify.com/track/0QmGja490CPspd6qvyum9q) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \(Seasons One Through Six/Original Soundtrack\)](https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC) | 1:48 |
 | 77 | [Thor and Liv](https://open.spotify.com/track/7dXzN1jTxmeqIo8Q2XiEkq) | [Johan Söderqvist](https://open.spotify.com/artist/0Z6bE6kOVhh2DHZPMUz2Sr), [Hans Ek](https://open.spotify.com/artist/446mV2yNk82K3T6TW1j7Ot), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Kon Tiki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oWKPVuvYjGTPD34hh5Pee) | 1:21 |

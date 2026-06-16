@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Aretuza Lovi
 
-1,162 songs - 2 day 9 hr 34 min
+1,163 songs - 2 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Assault \(Crime Perfeito\)](https://open.spotify.com/track/7b8kjWj4TKWmWo2LX9Lkiz) | [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Assault \(Crime Perfeito\)](https://open.spotify.com/album/3tnFroQ43SHOKeCxMLAAxY) | 3:44 | 2020-10-20 | 2022-07-27 |
 | [Assome](https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 3:00 | 2024-11-28 | 2025-12-05 |
 | [Atenção](https://open.spotify.com/track/2V6GQIS5s2HsMoIpR9wi77) | [Letícia Hally](https://open.spotify.com/artist/47q3Hm8x4YEh0ZNocF323p) | [Atenção](https://open.spotify.com/album/5rbPngm7aHcm5QJLNwSdke) | 2:36 | 2023-09-15 | 2023-10-14 |
-| [ATITUDE](https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc) | [MUCHO SEXY \- ASTRO SESSIONS](https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC) | 2:24 | 2026-03-27 |  |
+| [ATITUDE](https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc) | [MUCHO SEXY \- ASTRO SESSIONS](https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC) | 2:24 | 2026-03-27 | 2026-06-16 |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2023-08-25 | 2024-03-23 |
 | [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 | 2023-02-14 | 2023-07-15 |
 | [Atrás do Que Eu Sonhava \- Ao Vivo](https://open.spotify.com/track/3Q37BzBnACG1Lmih1CFMoY) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Nina in Rio \(Ao Vivo\)](https://open.spotify.com/album/6oOhIZGdoRtmnS6kQIskfH) | 4:28 | 2025-07-04 | 2025-12-12 |
@@ -377,6 +377,7 @@
 | [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 | 2024-03-23 |
 | [Eu Não Sei Brincar](https://open.spotify.com/track/1JV9pzSaSkFw3S9R5ZZZSl) | [NANNY](https://open.spotify.com/artist/3kosy0ERWA2PZ1zNi7PHSt) | [Eu Não Sei Brincar](https://open.spotify.com/album/7dDuVrVyt8cPynbjZIXuH2) | 2:19 | 2023-02-14 | 2023-03-25 |
 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 | 2020-10-20 | 2023-02-15 |
+| [Eu Não Te Amo](https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Eu Não Te Amo](https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG) | 3:12 | 2026-06-12 |  |
 | [eu odeio despedidas](https://open.spotify.com/track/5IZ5Kx9r1VX9VsBBUt22Gd) | [UELO](https://open.spotify.com/artist/4IvFfW47jtzYq83IFccA7M), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [eu odeio despedidas](https://open.spotify.com/album/3Cs0yY0A9dxYtHCSVOrkKO) | 2:31 | 2024-07-05 | 2024-08-22 |
 | [Eu te odeio](https://open.spotify.com/track/0IVob1bQGOvDHYz0KuSTtG) | [Dri](https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g) | [Eu te odeio](https://open.spotify.com/album/4bYDEYdCNcBMkI3lOBR9ER) | 2:31 | 2025-01-24 | 2025-06-13 |
 | [Eu Tenho o Molho](https://open.spotify.com/track/0BJ8mgcL9zVU3JvZCqxtAM) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:26 | 2024-09-27 | 2024-11-09 |

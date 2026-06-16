@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by <br/>SMG, Navaan Sandhu & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,823 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,836 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 49 | [Unbreakable](https://open.spotify.com/track/6MmJ6SZwFn46fy83a3ehsf) | [Simu Dhillon](https://open.spotify.com/artist/4J6ZAQTOOrnXrbo5Wffly1), [The Hxrwn](https://open.spotify.com/artist/374bcSL3tQrCv4PmJJlHTv) | [Unbreakable](https://open.spotify.com/album/6tW7bJiQLqh7TTl2rdWLKf) | 3:00 |
 | 50 | [One Call Away](https://open.spotify.com/track/2Wtl8Lr6ZF2XSnGcakH4zG) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 3:04 |
 | 51 | [Man In The Mirror](https://open.spotify.com/track/6DHyCbFHRgl32oyZsuHQag) | [4CE](https://open.spotify.com/artist/5Ts5rxQnHRmay9elC76ISR) | [Man In The Mirror](https://open.spotify.com/album/59K0U4bvtOhKFp4UFQhWzj) | 2:34 |
-| 52 | [Soul](https://open.spotify.com/track/7k6wcvAHdnWwJOX0CZH9aO) | [Gurdev Jathoul](https://open.spotify.com/artist/5li17W9zHH7e6Mg6jsnfSV), [Ak sidhu](https://open.spotify.com/artist/63RdoE1qfoWh6dz8UIl098) | [Soul](https://open.spotify.com/album/0dfLchrwFyCCyLXjkz4ERj) | 3:35 |
+| 52 | [Soul](https://open.spotify.com/track/7k6wcvAHdnWwJOX0CZH9aO) | [Gurdev Jathoul](https://open.spotify.com/artist/5li17W9zHH7e6Mg6jsnfSV) | [Soul](https://open.spotify.com/album/0dfLchrwFyCCyLXjkz4ERj) | 3:35 |
 | 53 | [Pull Up](https://open.spotify.com/track/16ZZFeJLtZUnh2zrEceu29) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y), [Numbgod](https://open.spotify.com/artist/2pRlsbIdL2gTiSwdxzGnuY) | [Pull Up](https://open.spotify.com/album/3byHQ85OMkxb6U78XcMxYQ) | 2:06 |
 | 54 | [HM CONTESSA](https://open.spotify.com/track/6aefMJaRlZQvyZsf5Sz6VN) | [Ishrant Pandit](https://open.spotify.com/artist/4vyK3QxD8ZsVgPdcW83Vn3) | [HM CONTESSA](https://open.spotify.com/album/136cWgUrTdS1jDd8hBzP55) | 2:54 |
 | 55 | [Leave Home](https://open.spotify.com/track/1y5AOofUxkIGc9JckAOXYM) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Leave Home](https://open.spotify.com/album/2U0o2KPHZ4EhBfQmO80PBG) | 2:27 |

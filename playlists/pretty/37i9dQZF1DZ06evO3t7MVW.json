@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 96800,
+  "num_followers": 96824,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAAC88/gLjhC/wTUapBJpzTRc",
+  "snapshot_id": "ai3vAAAAAAA/tLl6Wb8iPIwtLpqQ2iVi",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+        "name": "Run Run River (Angels Above Me)",
+        "url": "https://open.spotify.com/album/78vBqtV0zN5JKWPTBVbGid"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "TJ O'Neill",
-          "url": "https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 443379,
-      "name": "Weight of Sound",
-      "url": "https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8"
+      "duration_ms": 156093,
+      "name": "Run Run River (Angels Above Me)",
+      "url": "https://open.spotify.com/track/0Xe2FjyQndr2LsRD820iR3"
     },
     {
       "added_at": null,
@@ -131,6 +135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "TJ O'Neill",
+          "url": "https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262"
+        }
+      ],
+      "duration_ms": 443379,
+      "name": "Weight of Sound",
+      "url": "https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Railroad Shelter (with Stick Figure)",
         "url": "https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D"
       },
@@ -151,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Feeling",
-        "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 229616,
-      "name": "What a Feeling",
-      "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -183,6 +191,22 @@
       "duration_ms": 238810,
       "name": "World on Fire (feat. Slightly Stoopid)",
       "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What a Feeling",
+        "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 229616,
+      "name": "What a Feeling",
+      "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
     },
     {
       "added_at": null,
@@ -227,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 225195,
+      "name": "Easy Runaway",
+      "url": "https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -243,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 225195,
-      "name": "Easy Runaway",
-      "url": "https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI"
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
     },
     {
       "added_at": null,
@@ -287,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
       "artists": [
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
+      "duration_ms": 294730,
+      "name": "Above the Storm",
+      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
     },
     {
       "added_at": null,
@@ -323,22 +363,6 @@
       "duration_ms": 305493,
       "name": "Choice Is Yours (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 294730,
-      "name": "Above the Storm",
-      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
     },
     {
       "added_at": null,
@@ -383,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 327986,
-      "name": "Fire on the Horizon",
-      "url": "https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -415,6 +423,22 @@
       "duration_ms": 238767,
       "name": "Summertime (feat. Citizen Cope)",
       "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 327986,
+      "name": "Fire on the Horizon",
+      "url": "https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot"
     },
     {
       "added_at": null,
@@ -475,22 +499,6 @@
       "duration_ms": 269090,
       "name": "Middle of the Ocean",
       "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angels Above Me",
-        "url": "https://open.spotify.com/album/2JbuOCT3JIm2EKTMkQkUxv"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Angels Above Me",
-      "url": "https://open.spotify.com/track/1hoSJlBH90kh06ySuMo6G4"
     },
     {
       "added_at": null,

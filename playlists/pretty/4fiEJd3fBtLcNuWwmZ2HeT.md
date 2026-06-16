@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 496 songs - 1 day 4 hr 32 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 497 songs - 1 day 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -504,5 +504,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 494 | [Leave You on the Back of the Earth](https://open.spotify.com/track/4mIRahi5l9LcCuZDSaMexo) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [Films, Sunny Spots, Graduations](https://open.spotify.com/album/6p8MnsedzWHh3vwOsxfNJx) | 4:15 |
 | 495 | [神曲](https://open.spotify.com/track/7L2x3xHwyKkgP5jjWbceSf) | [R Sound Design](https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW) | [Delights](https://open.spotify.com/album/6PtyA1ai2roo54MkMpSfCc) | 4:45 |
 | 496 | [グライド](https://open.spotify.com/track/1i84eCrJbu0EIP5aWToMMa) | [Lily Chou\-Chou](https://open.spotify.com/artist/2eIwiMzHBYVTZ2iTYiuacE) | [呼吸](https://open.spotify.com/album/4IVnHzCk8zgJ1ivesDoTc3) | 3:40 |
+| 497 | [どーしてこうなった！](https://open.spotify.com/track/5nRDm64S9VbVM8zfhQoeRz) | [monet](https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf) | [どーしてこうなった！](https://open.spotify.com/album/1UTyVeKL4TlOaDHQbHYSvf) | 3:36 |
 
-Snapshot ID: `AAAKPnZORV9y4w6RzWUqaCWjq7SfYgk/`
+Snapshot ID: `AAAKP+I9UCMZnBYas0ZOiUFxF75lllma`

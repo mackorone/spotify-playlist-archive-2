@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 639 likes - 249 songs - 13 hr 19 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 639 likes - 250 songs - 13 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,5 +257,6 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 247 | [CASH](https://open.spotify.com/track/57DFVtIFBayTIVQa81v2Xq) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [CASH](https://open.spotify.com/album/62dr1xx8kCvC6y1wif90ui) | 1:35 |
 | 248 | [Mohnspark GT Lègendes](https://open.spotify.com/track/3glzeqMjuKzXkHLquQgqqW) | [KNRR33](https://open.spotify.com/artist/6fJ05FXmbwu3A2FdzGP1iM) | [Mohnspark GT Lègendes](https://open.spotify.com/album/0ThCU2o759233P6acNaXZx) | 3:04 |
 | 249 | [LIFE OUTRO](https://open.spotify.com/track/6GysAib8wckSekIjT6OSUi) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [LIFE](https://open.spotify.com/album/21sAlmHIKubDSlJUtLiFOM) | 2:32 |
+| 250 | [DOULEUR ÉBÈNE](https://open.spotify.com/track/0rb5xz3USUEhASJpOZdiGH) | [2IGREC](https://open.spotify.com/artist/4QoDKHsb78Q4HWjDACnzDA), [Mousseh](https://open.spotify.com/artist/5MrvNbpLOprCDGvsboQXL3) | [RELIQVA](https://open.spotify.com/album/4bWUrv6YPbBDPvgpPtefTs) | 2:43 |
 
-Snapshot ID: `AAABIuFDGiaTumbFmpKMLjJYHfBj+pJN`
+Snapshot ID: `AAABI8E1GAohbKljppeQJsjXKB50zOBC`

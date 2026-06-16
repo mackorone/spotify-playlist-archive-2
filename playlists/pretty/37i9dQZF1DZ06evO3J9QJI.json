@@ -1,12 +1,12 @@
 {
   "description": "This is Irv Gotti. The essential tracks, all in one playlist.",
-  "num_followers": 165,
+  "num_followers": 164,
   "original_name": "This Is Irv Gotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAAD4ktSQH/PWH3hGKpW6Q5vV",
+  "snapshot_id": "ai3vAAAAAAANjIRlSN04/lFvRNk7UOYo",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Open Door (feat. Irv Gotti) - Single",
-        "url": "https://open.spotify.com/album/5PWH056YOtScBzErZitdHx"
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
       },
       "artists": [
         {
-          "name": "Chunk",
-          "url": "https://open.spotify.com/artist/4BJ2npDKREG84GsC8mKGHN"
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
         },
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 229643,
-      "name": "Open Door",
-      "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
+      "duration_ms": 270419,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
     },
     {
       "added_at": null,
@@ -207,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/6XDwaK2gJe5dsNtnEOviT7"
+        "name": "Open Door (feat. Irv Gotti) - Single",
+        "url": "https://open.spotify.com/album/5PWH056YOtScBzErZitdHx"
       },
       "artists": [
         {
-          "name": "Grafh",
-          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+          "name": "Chunk",
+          "url": "https://open.spotify.com/artist/4BJ2npDKREG84GsC8mKGHN"
         },
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 270419,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/1WyWTVpwgSITwJ1kVTtaQK"
+      "duration_ms": 229643,
+      "name": "Open Door",
+      "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
     },
     {
       "added_at": null,

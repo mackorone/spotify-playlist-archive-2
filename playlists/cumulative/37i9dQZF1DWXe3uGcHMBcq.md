@@ -4,7 +4,7 @@
 
 > Rock out to the \*perfect\* songs from all your favorite Disney Channel shows and movies!
 
-204 songs - 9 hr 39 min
+205 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [One Little Spark](https://open.spotify.com/track/7uvOC3WmxFWl48NRFgmzDB) | [Electric Bloom](https://open.spotify.com/artist/217c2c3FKAB33k8kBgGNnz), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Electric Bloom](https://open.spotify.com/album/5ucNoJ24aPEHBIYaet31SE) | 2:46 | 2025-06-27 |  |
 | [Ordinary Girl](https://open.spotify.com/track/2kIq7Oq6YNfdUuTrmPC4w1) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 2:57 | 2024-05-22 |  |
 | [Oxygen](https://open.spotify.com/track/1TlpGVfJYKvSCgGt8nAFBj) | [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC) | [Teen Beach Movie](https://open.spotify.com/album/0FJ1ktsf4S5LKR6sP0L4y2) | 3:01 | 2024-05-22 |  |
+| [Perfect Princess \- From "Descendants: Wicked Wonderland"](https://open.spotify.com/track/1zfX5uZ5PdBRuKjSWgKOvf) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Malia Baker](https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq), [Descendants – Cast](https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Perfect Princess \(From "Descendants: Wicked Wonderland"\)](https://open.spotify.com/album/0kJ4tUgUhvna6q8QT4w0Xp) | 3:43 | 2026-06-15 |  |
 | [Phineas and Ferb Theme Song \(2025\)](https://open.spotify.com/track/0vvPQamU9USGob5N4pP7Nm) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Phineas and Ferb: Season 5 \(Original Soundtrack\)](https://open.spotify.com/album/0ilQNbh2SZzRzVTwz85gM4) | 0:59 | 2025-06-06 |  |
 | [Play My Music](https://open.spotify.com/track/5MTQbjkMmE6WsDQ8JlyEVo) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Camp Rock](https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ) | 3:17 | 2024-05-22 |  |
 | [Pretty Girl Swag](https://open.spotify.com/track/1Wur9u6PvFCDhu6tFnhvuG) | [Jordan Powers](https://open.spotify.com/artist/12NihrzOJf6YDnkpXrurH7) | [Marvel's Moon Girl and Devil Dinosaur \(Original Soundtrack\)](https://open.spotify.com/album/31zZeDmG2Va5zvgfIyJuOy) | 2:59 | 2024-05-22 |  |

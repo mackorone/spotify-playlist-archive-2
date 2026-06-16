@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: LE SSERAFIM (\ub974\uc138\ub77c\ud54c), \uc544\uc77c\ub9bf(ILLIT), KATSEYE)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: i-dle)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -2040,10 +2040,28 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
+    },
+    {
+      "album": {
+        "name": "Crow",
+        "url": "https://open.spotify.com/album/3i8Z25Okr8JS7Y2uTwNpwu"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191755,
+      "name": "Crow",
+      "url": "https://open.spotify.com/track/1rB6vp7BlRCN7icEFiZPEe"
     },
     {
       "album": {
@@ -5132,7 +5150,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/1PdN2pC5LYxnapVB8h6C6r"
@@ -10802,7 +10820,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 130000,
       "name": "What's a girl to do",
       "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"

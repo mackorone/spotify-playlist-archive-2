@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 608519,
+  "num_followers": 608870,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -199,8 +199,8 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "The Brasil Project Vol. II",
-        "url": "https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7"
+        "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
+        "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
       },
       "artists": [
         {
@@ -208,13 +208,17 @@
           "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
         },
         {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        },
+        {
+          "name": "Oscar Castro-Neves",
+          "url": "https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9"
         }
       ],
-      "duration_ms": 216360,
-      "name": "Samba de Orfeu",
-      "url": "https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc"
+      "duration_ms": 200426,
+      "name": "Bossa Nova Cha Cha",
+      "url": "https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -287,8 +291,8 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
-        "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
+        "name": "The Brasil Project Vol. II",
+        "url": "https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7"
       },
       "artists": [
         {
@@ -296,17 +300,13 @@
           "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
         },
         {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
-        },
-        {
-          "name": "Oscar Castro-Neves",
-          "url": "https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9"
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
         }
       ],
-      "duration_ms": 200426,
-      "name": "Bossa Nova Cha Cha",
-      "url": "https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix"
+      "duration_ms": 216360,
+      "name": "Samba de Orfeu",
+      "url": "https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc"
     },
     {
       "added_at": "2026-05-15 08:18:34",

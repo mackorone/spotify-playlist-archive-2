@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 9m88
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,511 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,514 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,31 +27,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 17 | [減傷](https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [減傷](https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF) | 3:20 |
 | 18 | [一個人想著一個人](https://open.spotify.com/track/3n3zzFH7zzO0gJNaw4RKSm) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [終極一班2 \(電視原聲帶\)](https://open.spotify.com/album/0TB9rXuSN99QhTnI5lYwvM) | 4:03 |
 | 19 | [got.to.believe](https://open.spotify.com/track/5zvE5C2JislfFqefghan0H) | [Miss Ko 葛仲珊](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [soul.food 靈食](https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz) | 3:36 |
-| 20 | [前任的Netflix帳號](https://open.spotify.com/track/1zISQthQxdK6sXgmxXbTjh) | [康玉蘭](https://open.spotify.com/artist/1S7X2AuDpHUFVU1RqURNvV) | [請勿打擾模式](https://open.spotify.com/album/31DreE8BdE0z2Ar6tPWWLU) | 3:12 |
-| 21 | [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 |
-| 22 | [QQ](https://open.spotify.com/track/66Y5wGE5AtMwQ5fGPETVVS) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [QQ](https://open.spotify.com/album/4lMqoOb0oLgNtYnDpe66cw) | 3:02 |
-| 23 | [阿福羅火山](https://open.spotify.com/track/5aViecsXqCUW7zJwxDhiSy) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh) | [阿福羅火山](https://open.spotify.com/album/7LFfYKMc1UAPNmxjCzEB5G) | 2:23 |
-| 24 | [完全的愛](https://open.spotify.com/track/7C29Et5A3f4YA42ysrkFt3) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [完全的愛](https://open.spotify.com/album/6nmrgZfxyjIdMXAPkbbTA5) | 2:53 |
-| 25 | [Catch Me \(電影《陽光女子合唱團》延伸曲 姐改Je Gai extension\)](https://open.spotify.com/track/2GPH6riPn4RdRTKOJON4jK) | [孫淑媚](https://open.spotify.com/artist/6yURsPRbhzMKvHc0pcNDUf) | [Catch Me \(電影《陽光女子合唱團》延伸曲 姐改Je Gai extension\)](https://open.spotify.com/album/5mtj4myH6kQBJ0y45WPpZp) | 3:41 |
-| 26 | [致………你/妳](https://open.spotify.com/track/2mM86eFCXPoJXZ5l89N0dF) | [C.Holly](https://open.spotify.com/artist/3RRWcWaoWx1OiXnrWo7k7t) | [致………你/妳](https://open.spotify.com/album/6VrO9K0Zv0yLh4zRZHP09w) | 3:04 |
-| 27 | [一片和平](https://open.spotify.com/track/6H3wVkgiOmLeQAZuNikhzu) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [一片和平](https://open.spotify.com/album/661CX9My4EMLumynqW4ssV) | 4:18 |
-| 28 | [我的存在就是愛你](https://open.spotify.com/track/1emjanb16SqthPUn27rUCp) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我的存在就是愛你](https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN) | 3:22 |
-| 29 | [輕輕放下](https://open.spotify.com/track/5Qp7YKE6RF5WjzWHXVAmZg) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [輕輕放下](https://open.spotify.com/album/0agZcXs1YAD4gneNnmnCiI) | 4:24 |
-| 30 | [餘額不足](https://open.spotify.com/track/4rYfpwNnsm12z2JFOqHYsJ) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [餘額不足](https://open.spotify.com/album/1JBqJUXGnkpEX64CImDTd8) | 3:32 |
-| 31 | [我跟你說](https://open.spotify.com/track/4Q9tbWzG4IA1QbJV0cct0k) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [我跟你說](https://open.spotify.com/album/5J90mXaI3olCVMNFB5C243) | 3:05 |
-| 32 | [愛過的樣子](https://open.spotify.com/track/3YadL6e8glfofVd7n2k4dq) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [愛過的樣子](https://open.spotify.com/album/2xdV8H72FEkvs6ACNTHAbY) | 3:23 |
-| 33 | [再見的時候 \- 電影《陽光女子合唱團》主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影《陽光女子合唱團》主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
-| 34 | [25歲該知道的事](https://open.spotify.com/track/4bYRsAeQzOsOcDJm9nc9Xl) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [25歲該知道的事](https://open.spotify.com/album/51tGhnCHi3TB6QWroAuRfN) | 3:46 |
-| 35 | [沒人喜歡你 那又怎樣](https://open.spotify.com/track/4ITbpz325QVvYYRFOFGtrs) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [沒人喜歡你 那又怎樣](https://open.spotify.com/album/218AJjHQbYXy12rrA9cdWq) | 3:24 |
-| 36 | [I Still Love You](https://open.spotify.com/track/3UaCZ4fZmyTvYgdTPFLApz) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I Still Love You](https://open.spotify.com/album/2220Ntb1EOuzBiIqtxYyAv) | 2:57 |
-| 37 | [有我你就幸福](https://open.spotify.com/track/4O2FMLItCsuInv9CIpJLuL) | [Kew 蕎](https://open.spotify.com/artist/4zfI392alaVaMOh5zqyucJ) | [有我你就幸福](https://open.spotify.com/album/7sSeI5w80WrpjKz2u7pyNp) | 3:00 |
-| 38 | [幸福在歌唱 \- 合唱版](https://open.spotify.com/track/3yHrMbBJdWu3McGHJyOe5K) | [陽光女子合唱團](https://open.spotify.com/artist/3fy1fbMtJxAUBXYrSMmqP4) | [《陽光女子合唱團》電影原聲帶](https://open.spotify.com/album/2NTh9Tug6SBnSryFM05qn1) | 4:54 |
-| 39 | [好額 Hó\-gia̍h](https://open.spotify.com/track/3kL8vIgKZ90G39d1Astzbg) | [林吟蔚](https://open.spotify.com/artist/4KUQN45uOn1myoOg5dcLTF) | [好額 Hó\-gia̍h](https://open.spotify.com/album/13uWAJ7Y9JcY3tJzCrRvdB) | 2:40 |
-| 40 | [眼淚不聽話](https://open.spotify.com/track/1y8le3vnhE4AR3khdCc7Ng) | [陳佩賢Jesslyn](https://open.spotify.com/artist/3X0BiodYqHsxJEGQMdRWyg) | [眼淚不聽話](https://open.spotify.com/album/1benvQmRL8a4CVhAhGvI6Z) | 3:40 |
-| 41 | [愛到像笨蛋一樣痛](https://open.spotify.com/track/7fFbiH0z8sjxEZXWmirSHv) | [牙牙 林怡廷](https://open.spotify.com/artist/70v64Bh530iEObGGBfSELW) | [愛到像笨蛋一樣痛](https://open.spotify.com/album/0xYSDOhavr2fbs8YfCa3hm) | 2:41 |
-| 42 | [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 |
-| 43 | [一樣的月光](https://open.spotify.com/track/4wRYpv96z3nmsiC9f3BdWh) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO) | 4:00 |
-| 44 | [可不可以別讓風吹亂我的心](https://open.spotify.com/track/58i1Q8JLnYDRKVvMbXzdAY) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [9OF9 ARCANA](https://open.spotify.com/album/6iqbRneVOIIJGbwHfUC9rS) | 4:00 |
-| 45 | [沒有你以後](https://open.spotify.com/track/7uroux8G4nwOYMJFUkZ1Mw) | [Miusa妙莎](https://open.spotify.com/artist/1itLcngrdYzeL6JRpEviDL) | [沒有你以後](https://open.spotify.com/album/4w4rXBqEo9WrOCc7n6AAmP) | 4:18 |
+| 20 | [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 |
+| 21 | [QQ](https://open.spotify.com/track/66Y5wGE5AtMwQ5fGPETVVS) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [QQ](https://open.spotify.com/album/4lMqoOb0oLgNtYnDpe66cw) | 3:02 |
+| 22 | [阿福羅火山](https://open.spotify.com/track/5aViecsXqCUW7zJwxDhiSy) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh) | [阿福羅火山](https://open.spotify.com/album/7LFfYKMc1UAPNmxjCzEB5G) | 2:23 |
+| 23 | [完全的愛](https://open.spotify.com/track/7C29Et5A3f4YA42ysrkFt3) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [完全的愛](https://open.spotify.com/album/6nmrgZfxyjIdMXAPkbbTA5) | 2:53 |
+| 24 | [Catch Me \(電影《陽光女子合唱團》延伸曲 姐改Je Gai extension\)](https://open.spotify.com/track/2GPH6riPn4RdRTKOJON4jK) | [孫淑媚](https://open.spotify.com/artist/6yURsPRbhzMKvHc0pcNDUf) | [Catch Me \(電影《陽光女子合唱團》延伸曲 姐改Je Gai extension\)](https://open.spotify.com/album/5mtj4myH6kQBJ0y45WPpZp) | 3:41 |
+| 25 | [致………你/妳](https://open.spotify.com/track/2mM86eFCXPoJXZ5l89N0dF) | [C.Holly](https://open.spotify.com/artist/3RRWcWaoWx1OiXnrWo7k7t) | [致………你/妳](https://open.spotify.com/album/6VrO9K0Zv0yLh4zRZHP09w) | 3:04 |
+| 26 | [一片和平](https://open.spotify.com/track/6H3wVkgiOmLeQAZuNikhzu) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [一片和平](https://open.spotify.com/album/661CX9My4EMLumynqW4ssV) | 4:18 |
+| 27 | [我的存在就是愛你](https://open.spotify.com/track/1emjanb16SqthPUn27rUCp) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我的存在就是愛你](https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN) | 3:22 |
+| 28 | [輕輕放下](https://open.spotify.com/track/5Qp7YKE6RF5WjzWHXVAmZg) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [輕輕放下](https://open.spotify.com/album/0agZcXs1YAD4gneNnmnCiI) | 4:24 |
+| 29 | [餘額不足](https://open.spotify.com/track/4rYfpwNnsm12z2JFOqHYsJ) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [餘額不足](https://open.spotify.com/album/1JBqJUXGnkpEX64CImDTd8) | 3:32 |
+| 30 | [我跟你說](https://open.spotify.com/track/4Q9tbWzG4IA1QbJV0cct0k) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [我跟你說](https://open.spotify.com/album/5J90mXaI3olCVMNFB5C243) | 3:05 |
+| 31 | [愛過的樣子](https://open.spotify.com/track/3YadL6e8glfofVd7n2k4dq) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [愛過的樣子](https://open.spotify.com/album/2xdV8H72FEkvs6ACNTHAbY) | 3:23 |
+| 32 | [再見的時候 \- 電影《陽光女子合唱團》主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影《陽光女子合唱團》主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
+| 33 | [25歲該知道的事](https://open.spotify.com/track/4bYRsAeQzOsOcDJm9nc9Xl) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [25歲該知道的事](https://open.spotify.com/album/51tGhnCHi3TB6QWroAuRfN) | 3:46 |
+| 34 | [沒人喜歡你 那又怎樣](https://open.spotify.com/track/4ITbpz325QVvYYRFOFGtrs) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [沒人喜歡你 那又怎樣](https://open.spotify.com/album/218AJjHQbYXy12rrA9cdWq) | 3:24 |
+| 35 | [I Still Love You](https://open.spotify.com/track/3UaCZ4fZmyTvYgdTPFLApz) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I Still Love You](https://open.spotify.com/album/2220Ntb1EOuzBiIqtxYyAv) | 2:57 |
+| 36 | [有我你就幸福](https://open.spotify.com/track/4O2FMLItCsuInv9CIpJLuL) | [Kew 蕎](https://open.spotify.com/artist/4zfI392alaVaMOh5zqyucJ) | [有我你就幸福](https://open.spotify.com/album/7sSeI5w80WrpjKz2u7pyNp) | 3:00 |
+| 37 | [幸福在歌唱 \- 合唱版](https://open.spotify.com/track/3yHrMbBJdWu3McGHJyOe5K) | [陽光女子合唱團](https://open.spotify.com/artist/3fy1fbMtJxAUBXYrSMmqP4) | [《陽光女子合唱團》電影原聲帶](https://open.spotify.com/album/2NTh9Tug6SBnSryFM05qn1) | 4:54 |
+| 38 | [好額 Hó\-gia̍h](https://open.spotify.com/track/3kL8vIgKZ90G39d1Astzbg) | [林吟蔚](https://open.spotify.com/artist/4KUQN45uOn1myoOg5dcLTF) | [好額 Hó\-gia̍h](https://open.spotify.com/album/13uWAJ7Y9JcY3tJzCrRvdB) | 2:40 |
+| 39 | [眼淚不聽話](https://open.spotify.com/track/1y8le3vnhE4AR3khdCc7Ng) | [陳佩賢Jesslyn](https://open.spotify.com/artist/3X0BiodYqHsxJEGQMdRWyg) | [眼淚不聽話](https://open.spotify.com/album/1benvQmRL8a4CVhAhGvI6Z) | 3:40 |
+| 40 | [愛到像笨蛋一樣痛](https://open.spotify.com/track/7fFbiH0z8sjxEZXWmirSHv) | [牙牙 林怡廷](https://open.spotify.com/artist/70v64Bh530iEObGGBfSELW) | [愛到像笨蛋一樣痛](https://open.spotify.com/album/0xYSDOhavr2fbs8YfCa3hm) | 2:41 |
+| 41 | [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 |
+| 42 | [一樣的月光](https://open.spotify.com/track/4wRYpv96z3nmsiC9f3BdWh) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO) | 4:00 |
+| 43 | [可不可以別讓風吹亂我的心](https://open.spotify.com/track/58i1Q8JLnYDRKVvMbXzdAY) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [9OF9 ARCANA](https://open.spotify.com/album/6iqbRneVOIIJGbwHfUC9rS) | 4:00 |
+| 44 | [沒有你以後](https://open.spotify.com/track/7uroux8G4nwOYMJFUkZ1Mw) | [Miusa妙莎](https://open.spotify.com/artist/1itLcngrdYzeL6JRpEviDL) | [沒有你以後](https://open.spotify.com/album/4w4rXBqEo9WrOCc7n6AAmP) | 4:18 |
+| 45 | [開始懂了](https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [我要的幸福](https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m) | 4:31 |
 
-Snapshot ID: `AAAAAPmfjKYTpvCKDi2VWMkqmgDhtsvt`
+Snapshot ID: `AAAAABDzaoHwHGxVLEOwfM/+jBoDtOHb`

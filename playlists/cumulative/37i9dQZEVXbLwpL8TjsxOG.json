@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 221958,
       "name": "expectations",
       "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
@@ -8448,7 +8448,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
@@ -12862,7 +12862,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 200011,
       "name": "On a SunnyDay",
       "url": "https://open.spotify.com/track/6PKraUz7pKyBqyeI2B7A0y"
@@ -13541,6 +13541,24 @@
     },
     {
       "album": {
+        "name": "PIPPI TIME",
+        "url": "https://open.spotify.com/album/0xeY72uJOyFk7d8VC8TyEm"
+      },
+      "artists": [
+        {
+          "name": "Park pippi",
+          "url": "https://open.spotify.com/artist/1Kw3uflTxNOvFb52baQJIa"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83000,
+      "name": "PIPPI TIME",
+      "url": "https://open.spotify.com/track/1tFqZ4Q423bWtiXf1CjcRi"
+    },
+    {
+      "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
       },
@@ -13794,7 +13812,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 240115,
       "name": "purple",
       "url": "https://open.spotify.com/track/5Ndn1irZG8l6xpcLMGeNvc"
@@ -14508,7 +14526,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -16928,7 +16946,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 189941,
       "name": "Take That",
       "url": "https://open.spotify.com/track/2Q66ChjPr3wNvE1DvybiKf"
@@ -25190,7 +25208,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 231000,
       "name": "\u6708\u4eae\u4ee3\u8868\u6211",
       "url": "https://open.spotify.com/track/1cZfNeEFNZAfOkqYZQkJHr"
@@ -25980,7 +25998,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 227542,
       "name": "\u6d41\u6d6a\u661f\u7403",
       "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"

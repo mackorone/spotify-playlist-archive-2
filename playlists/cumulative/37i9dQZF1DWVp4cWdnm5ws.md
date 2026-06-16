@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: VVINK
 
-342 songs - 20 hr 10 min
+343 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [FURR \- prod\. Fern.](https://open.spotify.com/track/4ckPBJHbmsaeSYv02ShzfQ) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [FURR \(prod\. Fern.\)](https://open.spotify.com/album/6wD9bzIiFK531Q7DvtWBZ3) | 1:44 | 2025-12-03 | 2026-01-18 |
 | [FYP LUV](https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [FYP LUV](https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc) | 3:38 | 2025-12-03 | 2026-01-18 |
 | [Gabriel](https://open.spotify.com/track/4REI81emLt3HljJd5FmyfP) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Gabriel](https://open.spotify.com/album/3fUbpL3J76htVZ5jaXPdI4) | 2:48 | 2026-04-06 |  |
+| [Ganun Pa Rin](https://open.spotify.com/track/4KY8kJGQqVA9VzPzvNKTrH) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Ganun Pa Rin](https://open.spotify.com/album/78LyI9YGLRQmLbjxvrEriu) | 4:42 | 2026-06-15 |  |
 | [Gayuma](https://open.spotify.com/track/6afFPpTmuVBwZ8OpCSBSYe) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 4:12 | 2023-04-13 | 2024-04-03 |
 | [GENTO](https://open.spotify.com/track/6RYhIHur2unkQv28fcinNO) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:52 | 2025-09-08 | 2025-10-06 |
 | [Get That Peso \(Crank Dat\)](https://open.spotify.com/track/53CyvLDorWmatOzIlYJsHr) | [Matt White](https://open.spotify.com/artist/5wwh2J5HHs38gBfeOUgK93), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Get That Peso \(Crank Dat\)](https://open.spotify.com/album/1dvuTTGbwRqXvNpvqA1AUS) | 3:19 | 2025-07-18 | 2026-04-07 |

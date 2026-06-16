@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-157 songs - 9 hr 7 min
+158 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Monday](https://open.spotify.com/track/5ziIMaFf792wZZq6KEy9JL) | [Jonathan Vautour](https://open.spotify.com/artist/6Xj8ajA4mlXygB3zzzUhyJ) | [Monday](https://open.spotify.com/album/6SOqP4LGqlTb6wrmQf3b1r) | 4:35 | 2026-04-27 |  |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-11-04 | 2025-12-09 |
 | [My Friend](https://open.spotify.com/track/60tEe3FD5InMNCDJBSOAZi) | [postcard](https://open.spotify.com/artist/3SW3Kv43pKoTu9HwN4rhSj) | [Postcard](https://open.spotify.com/album/4XcJSh9lkIQkexyxQQLoqf) | 3:25 | 2025-10-29 | 2025-12-09 |
+| [Máquina do Tempo](https://open.spotify.com/track/2fsNfAmCoUBt07rzR2S2Wc) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [Máquina do Tempo](https://open.spotify.com/album/3AYQcmPWOwxGe7eGbLyadE) | 3:32 | 2026-06-15 |  |
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2025-11-03 | 2025-12-09 |
 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-03-31 |  |
 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 | 2025-12-06 | 2026-06-14 |

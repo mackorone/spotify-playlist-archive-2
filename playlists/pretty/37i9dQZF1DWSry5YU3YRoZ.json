@@ -319,22 +319,6 @@
     {
       "added_at": "2026-04-27 02:46:25",
       "album": {
-        "name": "Would You Sleep?",
-        "url": "https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Listen And Sleep",
-      "url": "https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8"
-    },
-    {
-      "added_at": "2026-04-27 02:46:25",
-      "album": {
         "name": "love song",
         "url": "https://open.spotify.com/album/5MbXbQBOrTmBlCNSIKqjEl"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 203658,
       "name": "love song",
       "url": "https://open.spotify.com/track/4YK6kyQr9E3KRdi08w3pQz"
+    },
+    {
+      "added_at": "2026-04-27 02:46:25",
+      "album": {
+        "name": "Would You Sleep?",
+        "url": "https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Listen And Sleep",
+      "url": "https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8"
     },
     {
       "added_at": "2026-04-27 02:46:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-04-27 02:46:25",
       "album": {
-        "name": "My Old Story",
-        "url": "https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL"
-      },
-      "artists": [
-        {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
-        }
-      ],
-      "duration_ms": 236080,
-      "name": "My Old Story",
-      "url": "https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y"
-    },
-    {
-      "added_at": "2026-04-27 02:46:25",
-      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/5q19924bYcyPB5dvkivG84"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 238575,
       "name": "Hug Me (I'm In Your Arms)",
       "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
+    },
+    {
+      "added_at": "2026-04-27 02:46:25",
+      "album": {
+        "name": "My Old Story",
+        "url": "https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "My Old Story",
+      "url": "https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y"
     },
     {
       "added_at": "2026-04-27 02:46:25",

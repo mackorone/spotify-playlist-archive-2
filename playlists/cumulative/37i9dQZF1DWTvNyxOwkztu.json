@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 176052,
       "name": "flux de vibrations",
       "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
@@ -6270,6 +6270,36 @@
       "duration_ms": 210024,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6O1nKsN1VUQDic17dTaZmw"
+    },
+    {
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/7GCcEAbqntH9Jsa6C0gqUL"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "miku\u015b",
+          "url": "https://open.spotify.com/artist/6Qb1GwLm2e7MCfRxttj0Q6"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120411,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/60i31wBtPaUaFbQg1dhYXN"
     },
     {
       "album": {

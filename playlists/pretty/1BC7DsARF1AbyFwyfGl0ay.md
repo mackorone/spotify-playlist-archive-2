@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 
 > “now i am become death, the destroyer of worlds.”
 
-[carolina <3](https://open.spotify.com/user/ninasantos11) - 115,275 likes - 102 songs - 6 hr 27 min
+[carolina <3](https://open.spotify.com/user/ninasantos11) - 115,298 likes - 102 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/1BC7DsARF1AbyFwyfGl0ay.md) - [plain]
 | 80 | [Leaving Safe Places](https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 4:06 |
 | 81 | [And We Walk After](https://open.spotify.com/track/1sbWKyQsUCtzBlClQWs2Rl) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [And We Walk After](https://open.spotify.com/album/48BeMC3GtIw8wuVDlXqqS7) | 2:48 |
 | 82 | [Armstrong Cabin](https://open.spotify.com/track/0UJEym12sdx3m5UlY2HYfp) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [First Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw) | 1:15 |
-| 83 | [Dumbledore's Farewell](https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter and the Half\-Blood Prince \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx) | 2:22 |
+| 83 | [Dumbledore's Farewell](https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter And The Half\-Blood Prince: Original Motion Picture Soundtrack](https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx) | 2:22 |
 | 84 | [gymnopédie no\. 1 \(reverb + rain\)](https://open.spotify.com/track/1Bz6g2o6NlwOq0iMsuCd6I) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Sjors Weijermars](https://open.spotify.com/artist/2ugUWqe7Z8jG9ldRhvYcxC) | [gymnopédie no\. 1 \(reverb + rain\)](https://open.spotify.com/album/1MfwTzy0vBpgw7eVuDb08n) | 3:42 |
 | 85 | [clair de lune pt\. 1 \- slowed + reverb](https://open.spotify.com/track/7tuw5wrePf5R0Ayp55M8Lh) | [your movie soundtrack](https://open.spotify.com/artist/3tHyDbXJjbWtjlTvvvQsEs) | [clair de lune \(slowed + reverb\)](https://open.spotify.com/album/6uVCrv0qQsXVFaJjYidr98) | 2:36 |
 | 86 | [New Home](https://open.spotify.com/track/707BRCe5feUySwv7141QeA) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home](https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj) | 2:06 |

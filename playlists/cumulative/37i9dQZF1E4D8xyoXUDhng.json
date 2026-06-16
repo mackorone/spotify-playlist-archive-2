@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "With Vanessa Bell Armstrong, Daryl Coley, Tramaine Hawkins and more",
+  "description": "With Marvin Winans, Rev. Milton Brunson, Daryl Coley and more",
   "name": "Callie Day Radio",
   "tracks": [
     {
@@ -984,7 +984,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3Qk5BqpDX9RAIBjgExG5Yc"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 99500,
       "name": "ANOINTING (FALL ON ME)",
       "url": "https://open.spotify.com/track/7pDm4NjOz8rUO6X2lhiw4s"
@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 438960,
       "name": "Come On In the Room",
       "url": "https://open.spotify.com/track/0LfPC4pCvTJSvhgmc5lzhc"
@@ -4370,7 +4370,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 292840,
       "name": "Come Ye Disconsolate",
       "url": "https://open.spotify.com/track/53hI2E4KnHEwrn4laNVeEw"
@@ -5102,7 +5102,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 241706,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5uAMNGSKlvNFQ7JN5Ct48T"
@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 345706,
       "name": "Encourage Yourself",
       "url": "https://open.spotify.com/track/6G7VwsjxNBPjCyPmzrUS2R"
@@ -5692,7 +5692,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 373426,
       "name": "Encourage Yourself - Live",
       "url": "https://open.spotify.com/track/7nnORJLqd4Os9Lq2X9fs9r"
@@ -6152,7 +6152,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 335795,
       "name": "Everything Will Be Alright",
       "url": "https://open.spotify.com/track/6lbPZ2r6Lnxz59rjq1L7ny"
@@ -6434,7 +6434,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 216800,
       "name": "Faith That Conquers",
       "url": "https://open.spotify.com/track/0mrJNYhpHYc7G3Q8t52R0k"
@@ -8098,7 +8098,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 301533,
       "name": "God Blocked It",
       "url": "https://open.spotify.com/track/2NFqytYqfUblGvXucjvG6F"
@@ -8432,7 +8432,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 361423,
       "name": "God Is",
       "url": "https://open.spotify.com/track/1LGMtFYMyga53OafvMxjGl"
@@ -8818,7 +8818,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 216546,
       "name": "God Specializes",
       "url": "https://open.spotify.com/track/5eSGQb4Ia7kLCMRE4uBHrv"
@@ -9949,6 +9949,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah, Salvation, and Glory",
+        "url": "https://open.spotify.com/album/0xWK6BxBZGPXHa7QafubrS"
+      },
+      "artists": [
+        {
+          "name": "Holy Soul Choir",
+          "url": "https://open.spotify.com/artist/4a0jm9Rz4ybHIfLJV2u7iU"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391349,
+      "name": "Hallelujah, Salvation, and Glory",
+      "url": "https://open.spotify.com/track/4vnDJK46RP6XXDXTHLgtFb"
+    },
+    {
+      "album": {
         "name": "My Purpose",
         "url": "https://open.spotify.com/album/1T9TSTYMQeJeH30CTiJ06m"
       },
@@ -10786,7 +10804,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 352160,
       "name": "He's An On Time God",
       "url": "https://open.spotify.com/track/0FeRIc9264zC1Uo9PdZVf3"
@@ -12524,7 +12542,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 333013,
       "name": "How I Got Over",
       "url": "https://open.spotify.com/track/7bahQMXf1KKRfZ5zY9lbl9"
@@ -12686,7 +12704,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 340280,
       "name": "I Almost Let Go",
       "url": "https://open.spotify.com/track/7mg2zRCXpQG4kAGBlZrT7W"
@@ -15402,7 +15420,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 241698,
       "name": "I'll Always Be Thankful (Live)",
       "url": "https://open.spotify.com/track/0WHBbnfUWNSjEX400PFjxe"
@@ -17080,7 +17098,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 497866,
       "name": "It Will Never Lose It's Power (The Blood)",
       "url": "https://open.spotify.com/track/77yIU5OnhH5pfb28yfr3dB"
@@ -25628,7 +25646,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 225146,
       "name": "Pass Me Not",
       "url": "https://open.spotify.com/track/6geKILHdInlwqJ9tpl0nGT"
@@ -25650,7 +25668,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 290600,
       "name": "Pass Me Not",
       "url": "https://open.spotify.com/track/1pGfsKTVU8e7vcCeL2cln4"
@@ -27180,7 +27198,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 302866,
       "name": "Rain On Us",
       "url": "https://open.spotify.com/track/1kKFZIMiyRKE6QlRjKRPXd"
@@ -30912,7 +30930,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 404666,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/518g0gs6NP9fHtUkgEfr5k"
@@ -30930,7 +30948,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 293120,
       "name": "Take It to the Lord in Prayer",
       "url": "https://open.spotify.com/track/3kg8P8fbGvuS4U1wo5RGA3"
@@ -31244,7 +31262,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 318800,
       "name": "Tell Him Yes v1.1",
       "url": "https://open.spotify.com/track/0UcdBfbJYyjfLxsRs0rOOS"
@@ -32098,7 +32116,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 328520,
       "name": "The Corinthian Song",
       "url": "https://open.spotify.com/track/131CaypTe4DEHe5SXpjxwN"
@@ -32414,7 +32432,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 288413,
       "name": "The Lord Is Blessing Me",
       "url": "https://open.spotify.com/track/3PWzBVskGNV5YRThi0Sxh8"
@@ -32868,7 +32886,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 303400,
       "name": "The Shepherd Song",
       "url": "https://open.spotify.com/track/6wtauQXvf4MfIuxH5wmTso"
@@ -33988,7 +34006,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 299600,
       "name": "Total Praise (with Vision) - Live",
       "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
@@ -34292,7 +34310,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 196158,
       "name": "Try Jesus [warmer together version live]",
       "url": "https://open.spotify.com/track/1feQlMWC19rQClh6Ztff20"
@@ -34892,7 +34910,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 420480,
       "name": "Victory Is Mine _ Old School Blvd (I Need Thee, Shine On Me)",
       "url": "https://open.spotify.com/track/46nI5Bcx2Lv2R8GKnDXaDD"
@@ -35744,7 +35762,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 277560,
       "name": "What A Time",
       "url": "https://open.spotify.com/track/53UzCaqeoMFyzbQQNhGCPC"
@@ -36016,7 +36034,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 372720,
       "name": "When I See Jesus",
       "url": "https://open.spotify.com/track/5hSBQ4Y2O744HIq2Lmiyk2"

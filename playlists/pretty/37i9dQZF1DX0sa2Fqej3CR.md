@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 축구 경기 응원가/테마곡과 함께 대한민국의 경기를 응원해보세요!! 🇰🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,952 likes - 79 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,969 likes - 79 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 78 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
 | 79 | [Time of Our Lives](https://open.spotify.com/track/1OPLF48hCfqeEjlFP3e8xX) | [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Time of Our Lives](https://open.spotify.com/album/6zCpB7vF0iCE2TGBpG1wv2) | 3:43 |
 
-Snapshot ID: `AAAAALsN6dur9Q6QrpFQjndVKwF/ddkX`
+Snapshot ID: `AAAAAKtbnouYwZUYHJPc/op6EUl3nRRP`

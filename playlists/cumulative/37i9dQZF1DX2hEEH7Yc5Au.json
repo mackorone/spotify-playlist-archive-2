@@ -6484,7 +6484,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 192211,
       "name": "\u524d\u4efb\u7684Netflix\u5e33\u865f",
       "url": "https://open.spotify.com/track/1zISQthQxdK6sXgmxXbTjh"
@@ -19498,6 +19498,24 @@
       "duration_ms": 258461,
       "name": "\u958b",
       "url": "https://open.spotify.com/track/5yxBjHKnVFVrxawBj1Laap"
+    },
+    {
+      "album": {
+        "name": "\u6211\u8981\u7684\u5e78\u798f",
+        "url": "https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271493,
+      "name": "\u958b\u59cb\u61c2\u4e86",
+      "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"
     },
     {
       "album": {

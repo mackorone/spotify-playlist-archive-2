@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 796248,
+  "num_followers": 796440,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Trance Classics, Vol. 01",
-        "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
-      },
-      "artists": [
-        {
-          "name": "Ayla",
-          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
-        },
-        {
-          "name": "Taucher",
-          "url": "https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Ayla - DJ Taucher Radio Edit",
-      "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
         "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
       "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Trance Classics, Vol. 01",
+        "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
+      },
+      "artists": [
+        {
+          "name": "Ayla",
+          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
+        },
+        {
+          "name": "Taucher",
+          "url": "https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Ayla - DJ Taucher Radio Edit",
+      "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "I Believe / Follow Me",
-        "url": "https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv"
-      },
-      "artists": [
-        {
-          "name": "Lange",
-          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
-        },
-        {
-          "name": "The Morrighan",
-          "url": "https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S"
-        }
-      ],
-      "duration_ms": 392560,
-      "name": "Follow Me - Lange's Club Mix",
-      "url": "https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Seven Cities",
         "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 211333,
       "name": "Seven Cities - Solarstone's Atlantis Mix",
       "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "I Believe / Follow Me",
+        "url": "https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv"
+      },
+      "artists": [
+        {
+          "name": "Lange",
+          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
+        },
+        {
+          "name": "The Morrighan",
+          "url": "https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S"
+        }
+      ],
+      "duration_ms": 392560,
+      "name": "Follow Me - Lange's Club Mix",
+      "url": "https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA"
     },
     {
       "added_at": "2024-07-23 09:55:55",

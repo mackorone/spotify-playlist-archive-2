@@ -1,6 +1,6 @@
 {
   "description": "e don cast",
-  "num_followers": 44939,
+  "num_followers": 44961,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-05-29 00:02:00",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/75yZELVuJuLN67uBEYxn6y"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC"
-    },
-    {
-      "added_at": "2026-05-29 00:02:00",
-      "album": {
         "name": "Freestyle EP",
         "url": "https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 112000,
       "name": "Boulevard",
       "url": "https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0"
+    },
+    {
+      "added_at": "2026-05-29 00:02:00",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/75yZELVuJuLN67uBEYxn6y"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC"
     },
     {
       "added_at": "2026-05-29 00:02:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-05-29 00:02:00",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 196202,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
-    },
-    {
-      "added_at": "2026-05-29 00:02:00",
-      "album": {
         "name": "Luv Again",
         "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2026-05-29 00:02:00",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 196202,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
     },
     {
       "added_at": "2026-05-29 00:02:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-29 00:02:00",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
-    },
-    {
-      "added_at": "2026-05-29 00:02:00",
-      "album": {
         "name": "Ogechi",
         "url": "https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 152133,
       "name": "Ogechi",
       "url": "https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun"
+    },
+    {
+      "added_at": "2026-05-29 00:02:00",
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
     },
     {
       "added_at": "2026-05-29 00:02:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-05-29 00:02:00",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "I'm Hurt (Bonus)",
-      "url": "https://open.spotify.com/track/0QkMVC4fqh3FH3eMUna38i"
-    },
-    {
-      "added_at": "2026-05-29 00:02:00",
-      "album": {
         "name": "Letter to My Ex",
         "url": "https://open.spotify.com/album/2bCNfulxnhjiJf5tpnCawO"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 173666,
       "name": "Letter to My Ex",
       "url": "https://open.spotify.com/track/2YFtJo8IvnSGyIv17PlIIx"
+    },
+    {
+      "added_at": "2026-05-29 00:02:00",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "I'm Hurt (Bonus)",
+      "url": "https://open.spotify.com/track/0QkMVC4fqh3FH3eMUna38i"
     },
     {
       "added_at": "2026-05-29 00:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: TyriqueOrDie
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,056 likes - 100 songs - 5 hr 10 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,055 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

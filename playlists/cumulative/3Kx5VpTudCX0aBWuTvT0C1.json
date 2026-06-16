@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/3AYQcmPWOwxGe7eGbLyadE"
+      },
+      "artists": [
+        {
+          "name": "Tonni Moraes",
+          "url": "https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/2fsNfAmCoUBt07rzR2S2Wc"
+    },
+    {
+      "album": {
         "name": "Nastasia",
         "url": "https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE"
       },

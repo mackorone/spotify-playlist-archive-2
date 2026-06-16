@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,843 likes - 145 songs - 9 hr 19 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,843 likes - 146 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,5 +153,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 143 | [Mi memoria](https://open.spotify.com/track/5Thy4BzMaNWgj0Z3RlGHfw) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 3:55 |
 | 144 | [Se Fue, Se Fue](https://open.spotify.com/track/0EBgZkRvCbFsHs92iwLU9U) | [The Killing Floors](https://open.spotify.com/artist/3OlsTjvSJp2bUAV3n8vQ9p) | [The Killing Floors](https://open.spotify.com/album/3byCWpzeu4CIXgXu99ghmr) | 2:16 |
 | 145 | [Three Good Motown Puns](https://open.spotify.com/track/52YlgRaJn2bzOeasVwQ1Sr) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Three Good Motown Puns](https://open.spotify.com/album/0rHNfIKgzKZPMRlg57Qfj5) | 3:16 |
+| 146 | [Future \#1 \- 2026 Remix](https://open.spotify.com/track/2koZXrV4sFHisAwTR36H6s) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Future \#1 \(2026 Remix\)](https://open.spotify.com/album/1QshWiDT9xENuvx0yyeVYa) | 3:21 |
 
-Snapshot ID: `AAALt4JBS7LEp/9SAPKUz7pvFCwZztTx`
+Snapshot ID: `AAALuLyAj92GZWXECN9YJoc6mlK5OLoq`

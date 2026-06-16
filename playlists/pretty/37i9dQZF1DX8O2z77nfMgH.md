@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Cultura Profética
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,401 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,261 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 34 | [Pajarito](https://open.spotify.com/track/0kDkwcLnerIQ6XvVJBijEF) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [Pajarito](https://open.spotify.com/album/4cV6t6kEsyfaOT2d25UtfN) | 2:56 |
 | 35 | [Nem Pensar](https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Jones](https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [O Último Romântico](https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT) | 2:43 |
 | 36 | [Unas Diablas](https://open.spotify.com/track/5mbCSmbnLu8KDx37WUIy3v) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [Halley](https://open.spotify.com/album/42oZh10oyfZgvM5NKdQvSq) | 2:51 |
-| 37 | [Obsessão](https://open.spotify.com/track/4TbA0mXnPBMhucvuC8gZyH) | [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Uma Pra Cada Saudade](https://open.spotify.com/album/26Wt9HAfiEkV8sonFQFDOL) | 2:21 |
+| 37 | [Obsessão](https://open.spotify.com/track/4TbA0mXnPBMhucvuC8gZyH) | [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Uma Pra Cada Saudade](https://open.spotify.com/album/26Wt9HAfiEkV8sonFQFDOL) | 2:21 |
 | 38 | [Así de Rico \(Va uno a ver y ve Remizzz\)](https://open.spotify.com/track/5Vv1JUpzsQYBQdRiRdi9EE) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [ASÍ DE RICO \(Va uno a ver y ve Remizzz\)](https://open.spotify.com/album/3ffqJRB3AqcyRw3GrgYXys) | 2:20 |
 | 39 | [QUE LA CHOQUE](https://open.spotify.com/track/3TYvIrg45hJlLimkXA8ULE) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Coyote 63](https://open.spotify.com/artist/3FFfUMK7ZibxUKyQpskQEk) | [QUE LA CHOQUE](https://open.spotify.com/album/1HahN3BveEGA7fjvTZnUKJ) | 2:07 |
 | 40 | [Jogadora Cara \- Ao Vivo](https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4) | [Filtr Music Brasil](https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Jogadora Cara \(Ao Vivo\)](https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0) | 2:34 |

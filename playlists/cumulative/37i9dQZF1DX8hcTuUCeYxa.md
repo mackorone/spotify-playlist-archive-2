@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Dottie Andersson
 
-2,976 songs - 7 day 3 hr 19 min
+2,977 songs - 7 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -958,6 +958,7 @@
 | [Gesegnet sind all die ohne Idole](https://open.spotify.com/track/1e5iiaf6LJBp3kJ6YMYIOx) | [Tristesse](https://open.spotify.com/artist/4Yqf56U0faf6GElLDbmodd) | [Gesegnet sind all die ohne Idole](https://open.spotify.com/album/4CzPp6EDHdSOVP6b3cxIAQ) | 2:12 | 2025-07-10 | 2025-07-25 |
 | [Gespenst](https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq), [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz) | [Strandbad Eldena](https://open.spotify.com/album/5Ht0J2Q4lZ0Pf5p0NUimwh) | 3:02 | 2025-12-11 | 2026-01-23 |
 | [Get Away](https://open.spotify.com/track/5wozBVcDxpyTODUktYmhmq) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3) | [Get Away](https://open.spotify.com/album/6R5y4IG0M1xiHJNBAwxO7n) | 3:05 | 2026-06-11 |  |
+| [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 | 2026-06-11 |  |
 | [Get Back Into Myself](https://open.spotify.com/track/6hkv8uTu4KXuS8DWtHlYjG) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [Start To End / Get Back Into Myself](https://open.spotify.com/album/2hy9EN9Lqp4ZVcQ0Gttcaa) | 3:33 | 2026-06-11 |  |
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-12 | 2026-04-10 |
 | [Get Happy](https://open.spotify.com/track/1ldykTue3ZAv6GxW8shJjN) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary \(Deluxe\)](https://open.spotify.com/album/7n5z9K5f4UMNfZ7Qajwvvj) | 3:22 | 2025-05-08 | 2025-05-23 |

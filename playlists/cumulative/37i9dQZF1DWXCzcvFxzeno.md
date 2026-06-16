@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-381 songs - 1 day 1 hr 44 min
+382 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Kindness Makes Me Horny](https://open.spotify.com/track/5w2PBowfXDbOpzLpLrB3kt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Pako Marckx](https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh), [INNERGATED](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Kindness Makes Me Horny](https://open.spotify.com/album/0WmVahBYsYEZftiokIV4EI) | 4:06 | 2025-06-20 |  |
 | [Kiss Girl](https://open.spotify.com/track/27rVhCihd0rscnZtoj7ZDO) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Kiss Girl](https://open.spotify.com/album/2KQ17ihgLn28kaKFhcN4az) | 3:08 | 2025-01-24 | 2025-03-30 |
 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-07-25 |  |
+| [LaLaLo](https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Kid EP](https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1) | 2:49 | 2026-06-11 |  |
 | [Late At Night](https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG) | 2:36 | 2025-06-20 |  |
 | [Leader Of The Pack](https://open.spotify.com/track/4p0KJzcSeiaihxl3lu6iJW) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack](https://open.spotify.com/album/7uUewrCrnDQ9NE77MGp62p) | 3:58 | 2024-12-13 | 2025-04-06 |
 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2024-09-11 |  |
@@ -299,7 +300,7 @@
 | [Ruler Of Worlds](https://open.spotify.com/track/45ylzxuwO1Lq9kwgj9lv6C) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [Ruler Of Worlds](https://open.spotify.com/album/2FwJ7nUbur319d38hbDwFI) | 4:00 | 2025-12-12 | 2026-03-11 |
 | [SAINT GRAAL](https://open.spotify.com/track/70aughWpPbdbzYSE7422O9) | [PERCEVAL](https://open.spotify.com/artist/3dJ5aHKA9m7zKAr0lX6rtb) | [SAINT GRAAL](https://open.spotify.com/album/0ajLAs1f6lQbymKSGBwhoH) | 3:24 | 2025-10-10 | 2025-11-12 |
 | [Salty](https://open.spotify.com/track/3GUgaRGv8OrD24yomjh5rT) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [In My 2024 Era](https://open.spotify.com/album/6CYaXWyysoGR28yGa1NFfI) | 5:39 | 2024-09-20 | 2024-10-28 |
-| [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 |  |
+| [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 | 2026-06-16 |
 | [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 | 2025-11-27 |  |
 | [SCHREI NACH LIEBE](https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw) | [Michael Klotz](https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh) | [SCHREI NACH LIEBE](https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu) | 2:29 | 2026-04-10 |  |
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 | 2024-11-27 |

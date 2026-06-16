@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 81266,
+  "num_followers": 81280,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Qu\u00e9date con el",
-        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
-      },
-      "artists": [
-        {
-          "name": "Sin Rivales de Punitaqui",
-          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
-        }
-      ],
-      "duration_ms": 328974,
-      "name": "Ahora por unas monedas",
-      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Para Nuestra Gente",
         "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 200100,
       "name": "Sin Coronas Ni Reinas",
       "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Qu\u00e9date con el",
+        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+      },
+      "artists": [
+        {
+          "name": "Sin Rivales de Punitaqui",
+          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+        }
+      ],
+      "duration_ms": 328974,
+      "name": "Ahora por unas monedas",
+      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "El Sol No Regresa",
         "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 174474,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Me Voy a Emborrachar",
-        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Rimac",
-          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Tarjetita de Invitaci\u00f3n",
         "url": "https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Siempre Villanos",
-        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
+        "name": "Me Voy a Emborrachar",
+        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
       },
       "artists": [
         {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+          "name": "Ram\u00f3n Rimac",
+          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
         }
       ],
-      "duration_ms": 220203,
-      "name": "Maldita Sea la Primera Vez",
-      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
+      "duration_ms": 160000,
+      "name": "El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Siempre Villanos",
+        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 220203,
+      "name": "Maldita Sea la Primera Vez",
+      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Somos Infieles",
         "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
       },
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Cumbias",
-        "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
+        "name": "Golero Emparamao",
+        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
       },
       "artists": [
         {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
-        },
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
         }
       ],
-      "duration_ms": 235994,
-      "name": "El Chorito de Violeta",
-      "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
+      "duration_ms": 268324,
+      "name": "Golero Emparamao",
+      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Golero Emparamao",
-        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
+        "name": "Cumbias",
+        "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
       "artists": [
         {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+        },
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
         }
       ],
-      "duration_ms": 268324,
-      "name": "Golero Emparamao",
-      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
+      "duration_ms": 235994,
+      "name": "El Chorito de Violeta",
+      "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "El Solovino",
-        "url": "https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV"
+        "name": "La Sustancia",
+        "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
       },
       "artists": [
         {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+          "name": "Los S\u00faper Sicarios",
+          "url": "https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4"
         }
       ],
-      "duration_ms": 183525,
-      "name": "El Solovino",
-      "url": "https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8"
+      "duration_ms": 206949,
+      "name": "La Sustancia",
+      "url": "https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Sustancia",
-        "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
+        "name": "El Solovino",
+        "url": "https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV"
       },
       "artists": [
         {
-          "name": "Los S\u00faper Sicarios",
-          "url": "https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
         }
       ],
-      "duration_ms": 206949,
-      "name": "La Sustancia",
-      "url": "https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk"
+      "duration_ms": 183525,
+      "name": "El Solovino",
+      "url": "https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Lo Que Nunca Fue Tuyo",
-        "url": "https://open.spotify.com/album/57wC5aFqYmDPm5gAitomc0"
+        "name": "La Sustancia",
+        "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
       },
       "artists": [
         {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
-        },
-        {
-          "name": "Lucero Salazar",
-          "url": "https://open.spotify.com/artist/6wwdjhCsvz48vxftWw6s76"
+          "name": "Los S\u00faper Sicarios",
+          "url": "https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4"
         }
       ],
-      "duration_ms": 185019,
-      "name": "Lo Que Nunca Fue Tuyo",
-      "url": "https://open.spotify.com/track/48bH3xnKLlQmHFZwOlZlrN"
+      "duration_ms": 173677,
+      "name": "Tio Borrachales",
+      "url": "https://open.spotify.com/track/51RQ8sG1m8gldM1oEM0OkE"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1723,18 +1719,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Sustancia",
-        "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
+        "name": "Lo Que Nunca Fue Tuyo",
+        "url": "https://open.spotify.com/album/57wC5aFqYmDPm5gAitomc0"
       },
       "artists": [
         {
-          "name": "Los S\u00faper Sicarios",
-          "url": "https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4"
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+        },
+        {
+          "name": "Lucero Salazar",
+          "url": "https://open.spotify.com/artist/6wwdjhCsvz48vxftWw6s76"
         }
       ],
-      "duration_ms": 173677,
-      "name": "Tio Borrachales",
-      "url": "https://open.spotify.com/track/51RQ8sG1m8gldM1oEM0OkE"
+      "duration_ms": 185019,
+      "name": "Lo Que Nunca Fue Tuyo",
+      "url": "https://open.spotify.com/track/48bH3xnKLlQmHFZwOlZlrN"
     }
   ],
   "unique_name": "Ranchera Chilena",

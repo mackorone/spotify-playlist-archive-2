@@ -9861,6 +9861,36 @@
     },
     {
       "album": {
+        "name": "Keep Me on Your Mind/See You Free",
+        "url": "https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        },
+        {
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197781,
+      "name": "Keep Me on Your Mind",
+      "url": "https://open.spotify.com/track/7DYIFyeJ7hHxns755Z8WgU"
+    },
+    {
+      "album": {
         "name": "Gryphon",
         "url": "https://open.spotify.com/album/1JPuxlcUBfWvw7guYHmzr8"
       },

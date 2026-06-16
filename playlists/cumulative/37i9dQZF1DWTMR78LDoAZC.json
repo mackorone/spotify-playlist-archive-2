@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: Perfume Genius",
+  "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: MUNA",
   "name": "Alternative Pride",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 244800,
       "name": "(You) On My Arm",
       "url": "https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq"
+    },
+    {
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1WJYPxpQw3hfuZvEdKRqUo"
     },
     {
       "album": {
@@ -392,7 +410,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 200434,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/07ZY5mM23P88rslsUkxpgt"
@@ -991,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/2x8RBnasrwFI2F9DS3uG3a"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214348,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1Xl7BcVmwEW6FpnnIAFGJm"
+    },
+    {
+      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
@@ -1225,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Eastside Girls",
+      "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
+    },
+    {
+      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -1452,7 +1506,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 157669,
       "name": "Freak Mode",
       "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
@@ -1590,7 +1644,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 135297,
       "name": "Girls Make Me Wanna Die",
       "url": "https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1"
@@ -1774,7 +1828,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 230984,
       "name": "Heavy Pour",
       "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
@@ -1868,6 +1922,24 @@
       "duration_ms": 215773,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/0Csdi7iivwev8WSaBsum0r"
+    },
+    {
+      "album": {
+        "name": "i got a gun",
+        "url": "https://open.spotify.com/album/7pxOcKEaGSFMrEPsyIcarp"
+      },
+      "artists": [
+        {
+          "name": "Chanpan",
+          "url": "https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157160,
+      "name": "i got a gun",
+      "url": "https://open.spotify.com/track/3KqW72V5DRjWTPMulx3lqi"
     },
     {
       "album": {
@@ -2239,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "it's just my opinion",
+        "url": "https://open.spotify.com/album/2rzEI7LluM2fWaE2an24eC"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193755,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/52E0w9olHISDiYZdPBS4TS"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ"
       },
@@ -2322,7 +2412,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 201133,
       "name": "like everyone else",
       "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
@@ -3128,6 +3218,24 @@
       "duration_ms": 213071,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3v87pWnjTC90f3yj9OKqYP"
+    },
+    {
+      "album": {
+        "name": "I Forgot / Out of my Head",
+        "url": "https://open.spotify.com/album/6ANjZWfiXY8sowZKEXOtaX"
+      },
+      "artists": [
+        {
+          "name": "Cara Delevingne",
+          "url": "https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Out of my Head",
+      "url": "https://open.spotify.com/track/5ExQZsB1FkAemKYykuvDUv"
     },
     {
       "album": {
@@ -3997,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196227,
+      "name": "Should've Known Better",
+      "url": "https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL"
+    },
+    {
+      "album": {
         "name": "Multi Adolescence",
         "url": "https://open.spotify.com/album/5Q7BRGEFzlIlEjiBzqWxNz"
       },
@@ -4128,7 +4254,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 194451,
       "name": "Smog",
       "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
@@ -4788,7 +4914,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 155762,
       "name": "umbrellar",
       "url": "https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J"

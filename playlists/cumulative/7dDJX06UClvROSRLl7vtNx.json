@@ -4212,6 +4212,24 @@
     {
       "album": {
         "name": "Closer",
+        "url": "https://open.spotify.com/album/1iUCjNvCHuavIulJbZKGfv"
+      },
+      "artists": [
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2H3qRWi8Rp9g7dYmDLX5Pw"
+    },
+    {
+      "album": {
+        "name": "Closer",
         "url": "https://open.spotify.com/album/7GHhLgyhKRDJmqc1Ab3Bxk"
       },
       "artists": [
@@ -6306,7 +6324,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 130360,
       "name": "Drifted Away",
       "url": "https://open.spotify.com/track/4eEfeI0DvBdLwOP5SDLCCH"
@@ -7068,7 +7086,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 123625,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/64O22PBIITfHsF5Lfq19yj"
@@ -9822,7 +9840,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 109913,
       "name": "hand in hand",
       "url": "https://open.spotify.com/track/1pSkJDSvonsHZjfd6kW9yX"
@@ -19654,7 +19672,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 137000,
       "name": "On You Tonight",
       "url": "https://open.spotify.com/track/74W5fZ6oXGfOkEsBnJGoF6"

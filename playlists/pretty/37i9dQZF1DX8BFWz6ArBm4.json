@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Petros Iakovidis",
-  "num_followers": 39128,
+  "num_followers": 39147,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2026-06-11 21:00:46",
       "album": {
-        "name": "Vrexei",
-        "url": "https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l"
+        "name": "Exairesi",
+        "url": "https://open.spotify.com/album/2N4nSML0Ufqtk9LeUDX6PB"
       },
       "artists": [
         {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
         }
       ],
-      "duration_ms": 173544,
-      "name": "Vrexei",
-      "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
+      "duration_ms": 275612,
+      "name": "Exairesi",
+      "url": "https://open.spotify.com/track/7rnrHmjDOjeJTxmxHLSHIc"
     },
     {
       "added_at": "2026-06-11 21:00:46",
@@ -375,18 +375,18 @@
     {
       "added_at": "2026-06-11 21:00:46",
       "album": {
-        "name": "Exairesi",
-        "url": "https://open.spotify.com/album/2N4nSML0Ufqtk9LeUDX6PB"
+        "name": "Vrexei",
+        "url": "https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l"
       },
       "artists": [
         {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
         }
       ],
-      "duration_ms": 275612,
-      "name": "Exairesi",
-      "url": "https://open.spotify.com/track/7rnrHmjDOjeJTxmxHLSHIc"
+      "duration_ms": 173544,
+      "name": "Vrexei",
+      "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
     },
     {
       "added_at": "2026-06-11 21:00:46",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-11 21:00:46",
       "album": {
-        "name": "To Diko Mou DNA",
-        "url": "https://open.spotify.com/album/45Og4woUGkRvl93FUpsTTP"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Gia Tin Epomeni",
-      "url": "https://open.spotify.com/track/3TIKWISOKMf12koBZjfAfE"
-    },
-    {
-      "added_at": "2026-06-11 21:00:46",
-      "album": {
         "name": "Siopi Sti Diapason",
         "url": "https://open.spotify.com/album/5hq3mhVls5TmQmreXUslx2"
       },
@@ -731,22 +715,6 @@
     {
       "added_at": "2026-06-11 21:00:46",
       "album": {
-        "name": "Pare Repo",
-        "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
-      },
-      "artists": [
-        {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Pare Repo",
-      "url": "https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq"
-    },
-    {
-      "added_at": "2026-06-11 21:00:46",
-      "album": {
         "name": "Ta Parapona mou",
         "url": "https://open.spotify.com/album/3HtI7dLnszDt9CuKvB7MfM"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 175147,
       "name": "Ta Parapona Mou",
       "url": "https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL"
+    },
+    {
+      "added_at": "2026-06-11 21:00:46",
+      "album": {
+        "name": "Pare Repo",
+        "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Pare Repo",
+      "url": "https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq"
     },
     {
       "added_at": "2026-06-11 21:00:46",
@@ -811,22 +795,6 @@
     {
       "added_at": "2026-06-11 21:00:46",
       "album": {
-        "name": "Kai Eis Anotera",
-        "url": "https://open.spotify.com/album/4gionUX9mlENe6K3e4KOjd"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Kai Eis Anotera",
-      "url": "https://open.spotify.com/track/03Fk1HBXI8zwOqOSqA8n5D"
-    },
-    {
-      "added_at": "2026-06-11 21:00:46",
-      "album": {
         "name": "Perno Tin Efthini",
         "url": "https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH"
       },
@@ -859,6 +827,42 @@
       "duration_ms": 222397,
       "name": "Me 'Geia Sou",
       "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
+    },
+    {
+      "added_at": "2026-06-11 21:00:46",
+      "album": {
+        "name": "Mavra Matia",
+        "url": "https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Mavra Matia",
+      "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
+    },
+    {
+      "added_at": "2026-06-11 21:00:46",
+      "album": {
+        "name": "Kai Eis Anotera",
+        "url": "https://open.spotify.com/album/4gionUX9mlENe6K3e4KOjd"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Kai Eis Anotera",
+      "url": "https://open.spotify.com/track/03Fk1HBXI8zwOqOSqA8n5D"
     }
   ],
   "unique_name": "Laika tou Simera",

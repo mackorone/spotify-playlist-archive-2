@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 211411,
+  "num_followers": 211443,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Racist, Sexist Boy (Live at LA Public Library)",
-        "url": "https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 125695,
-      "name": "Racist, Sexist Boy - Live at LA Public Library",
-      "url": "https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Desperate, Scared, but Social",
         "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Fuzz Steilacoom",
-        "url": "https://open.spotify.com/album/3obbLp8QVZ6R0JhK252pfY"
+        "name": "Racist, Sexist Boy (Live at LA Public Library)",
+        "url": "https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C"
       },
       "artists": [
         {
-          "name": "Skating Polly",
-          "url": "https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
         }
       ],
-      "duration_ms": 220986,
-      "name": "Alabama Movies",
-      "url": "https://open.spotify.com/track/0lHJ9bP1Ph6FMFCF1l97Wa"
+      "duration_ms": 125695,
+      "name": "Racist, Sexist Boy - Live at LA Public Library",
+      "url": "https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1135,6 +1119,22 @@
       "duration_ms": 279787,
       "name": "Organs",
       "url": "https://open.spotify.com/track/369ZHVk9UlOxmRcjs6XeUr"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Fuzz Steilacoom",
+        "url": "https://open.spotify.com/album/3obbLp8QVZ6R0JhK252pfY"
+      },
+      "artists": [
+        {
+          "name": "Skating Polly",
+          "url": "https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9"
+        }
+      ],
+      "duration_ms": 220986,
+      "name": "Alabama Movies",
+      "url": "https://open.spotify.com/track/0lHJ9bP1Ph6FMFCF1l97Wa"
     },
     {
       "added_at": "2024-10-07 20:36:39",

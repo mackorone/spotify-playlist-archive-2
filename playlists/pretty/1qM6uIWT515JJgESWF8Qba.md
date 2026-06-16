@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 477 likes - 57 songs - 3 hr 40 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 478 likes - 58 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,5 +65,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 55 | [Somebody's Watching Me](https://open.spotify.com/track/3iVgzRqSQWwuDc1ArePq4i) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [Somebody's Watching Me](https://open.spotify.com/album/3DpTh1jikb6Fii2tigXlhF) | 3:13 |
 | 56 | [Sanctuary](https://open.spotify.com/track/6R7Vr1JGva7CgX9OXCXtCk) | [Arc Dakota](https://open.spotify.com/artist/2wtsQuGRTjQKcwvYljp2mX) | [Sanctuary](https://open.spotify.com/album/3KlQwBzzLbJc1eEEaByekh) | 3:48 |
 | 57 | [Ska Hitta Dig](https://open.spotify.com/track/3Mr9GgIBixXqp1CbbIC8XZ) | [Artikel 22](https://open.spotify.com/artist/2R9AIy5zKsWF3D838CMyGG) | [Ska Hitta Dig](https://open.spotify.com/album/3M3kg9EP5KdihRnjA5WwT2) | 3:30 |
+| 58 | [OD](https://open.spotify.com/track/2auWC9LUGBbQCqyXue9pOA) | [McMillin](https://open.spotify.com/artist/63WAZqhumZpHnlE3eNpTyc) | [Only From Afar](https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy) | 2:50 |
 
-Snapshot ID: `AAAB56oBXCC9HTdI1fl2HBhEqE+AQzvX`
+Snapshot ID: `AAAB6L6uRXAkqYDYfa7T1PHgbxxVT/Nl`

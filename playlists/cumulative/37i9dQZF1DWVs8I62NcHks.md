@@ -4,7 +4,7 @@
 
 > Enjoy your favorite Disney tunes, including "Zoo" from Zootopia 2!
 
-227 songs - 11 hr 43 min
+228 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All Is Found](https://open.spotify.com/track/1KkVYSqXosoiQmJmto0VAw) | [Evan Rachel Wood](https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v) | [Frozen 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2IYymqH84JShTdQmQLLQib) | 2:05 | 2021-11-19 | 2022-07-29 |
 | [All Is Found](https://open.spotify.com/track/61HVbcNeRACZpyvHrc3AnD) | [Evan Rachel Wood](https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 2:05 | 2022-02-25 | 2023-05-16 |
 | [Almost There](https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 2:24 | 2023-05-15 |  |
+| [Along The Way \- From "Moana"](https://open.spotify.com/track/5QLI9Dn0jOseDb2ptAibK1) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Catherine Laga'aia](https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Along The Way \(From "Moana"\)](https://open.spotify.com/album/2ZaaAHqCBhZKCQiPz3LBEY) | 4:17 | 2026-06-15 |  |
 | [Animal Friends / With a Smile and a Song](https://open.spotify.com/track/72cMnqPIvKZOIkvsMMnHjp) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 4:23 | 2023-05-15 |  |
 | [Arabian Nights \(2019\)](https://open.spotify.com/track/6ZxPYutGhjLTrcmvcshCa4) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:13 | 2023-05-15 |  |
 | [Baby Mine](https://open.spotify.com/track/1UU3IpxOVpjjHdoQjchpgX) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Dumbo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2MmoEweTJheiCoiwohS8Yj) | 2:57 | 2021-11-19 | 2023-05-16 |

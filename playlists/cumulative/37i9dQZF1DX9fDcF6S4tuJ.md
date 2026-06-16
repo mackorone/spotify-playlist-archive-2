@@ -4,7 +4,7 @@
 
 > Embrace your inner Princess with your favorite Disney Princess songs.
 
-79 songs - 3 hr 49 min
+80 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Almost There](https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Almost There](https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5) | 3:58 | 2024-08-09 |  |
 | [Almost There \- Disney Princess Remixed](https://open.spotify.com/track/3WNAQpfXKCIlEhp7hWNriv) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Ruth Righi](https://open.spotify.com/artist/7wXmoaPGvuUUGedB6D52ku), [Izabela Rose](https://open.spotify.com/artist/15nXNwsFpoLMltGMBY2gnK) | [Almost There \(Disney Princess Remixed\)](https://open.spotify.com/album/01MQB6XR5oJwRdAeWw3nug) | 2:49 | 2022-10-07 |  |
 | [Almost There \- From "The Princess and the Frog" / Soundtrack Version](https://open.spotify.com/track/3aJgAgTI9srxcTuyzVDtkm) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog: Tiana and Her Princess Friends](https://open.spotify.com/album/5mZgyfa7rkogNoxxqHpbOg) | 2:24 | 2022-10-07 |  |
+| [Along The Way \- From "Moana"](https://open.spotify.com/track/5QLI9Dn0jOseDb2ptAibK1) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Catherine Laga'aia](https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Along The Way \(From "Moana"\)](https://open.spotify.com/album/2ZaaAHqCBhZKCQiPz3LBEY) | 4:17 | 2026-06-15 |  |
 | [Be Our Guest](https://open.spotify.com/track/2F8LPJgSVTJxukoParTyBD) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Jerry Orbach](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO), [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 3:44 | 2025-08-08 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 2:46 | 2022-10-07 |  |
 | [Belle](https://open.spotify.com/track/1cPfKp9ThNZ1fez9itmUMN) | [Emma Watson](https://open.spotify.com/artist/4N3cNXg5phUzRzuJYYxQlV), [Luke Evans](https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ), [Ensemble \- Beauty and the Beast](https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 5:33 | 2022-10-07 |  |

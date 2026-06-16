@@ -4,7 +4,7 @@
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 9m88
 
-1,086 songs - 2 day 22 hr 57 min
+1,087 songs - 2 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [別再留下](https://open.spotify.com/track/6gf4b3P4vkIdPS6fIywImQ) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [BAD HABITS](https://open.spotify.com/album/4Ch2nOdim0blFYGm9H8ahM) | 4:18 | 2024-04-02 | 2025-01-08 |
 | [別說出](https://open.spotify.com/track/5hl59K5L9dH4ofLs554zrH) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [如果你愛我](https://open.spotify.com/album/4xfN5uchL7U9aV56ggo8WH) | 4:31 | 2022-03-07 | 2025-04-02 |
 | [到處亂走](https://open.spotify.com/track/2JS1ksikFomfCbwS0uVxvH) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [到處亂走](https://open.spotify.com/album/2c0REN0y3WlFtEd9A7y038) | 5:17 | 2023-10-03 | 2023-11-30 |
-| [前任的Netflix帳號](https://open.spotify.com/track/1zISQthQxdK6sXgmxXbTjh) | [康玉蘭](https://open.spotify.com/artist/1S7X2AuDpHUFVU1RqURNvV) | [請勿打擾模式](https://open.spotify.com/album/31DreE8BdE0z2Ar6tPWWLU) | 3:12 | 2026-06-02 |  |
+| [前任的Netflix帳號](https://open.spotify.com/track/1zISQthQxdK6sXgmxXbTjh) | [康玉蘭](https://open.spotify.com/artist/1S7X2AuDpHUFVU1RqURNvV) | [請勿打擾模式](https://open.spotify.com/album/31DreE8BdE0z2Ar6tPWWLU) | 3:12 | 2026-06-02 | 2026-06-16 |
 | [剛好 \(《台北女子圖鑑》戲劇插曲\)](https://open.spotify.com/track/3ieXD6cGP25CKLPexbAic9) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [沒有人寫歌給你過吧](https://open.spotify.com/album/2KFILcMINkSVFZKkrw8Yfp) | 4:19 | 2023-01-31 | 2023-03-02 |
 | [剪愛](https://open.spotify.com/track/3WGc9lBdNzIc8jOoL3ryY5) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [姊妹](https://open.spotify.com/album/1jmU2MogimLAfQyAL4QYNn) | 4:42 | 2022-02-01 | 2022-03-08 |
 | [勇氣](https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [勇氣](https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN) | 3:59 | 2023-07-04 | 2024-02-07 |
@@ -1048,6 +1048,7 @@
 | [門沒鎖](https://open.spotify.com/track/72wjxqnth08cVz0tt86lzF) | [呂薔Amuyi](https://open.spotify.com/artist/2HYZy1ndUbE1sJw9zfOaEB) | [翻唱專輯第一輯](https://open.spotify.com/album/24jlA1eYtQeximg1MoBDHI) | 3:52 | 2025-11-04 | 2026-01-15 |
 | [閉上眼睛會想起的人 \(電影《一杯熱奶茶的等待》主題曲\)](https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [閉上眼睛會想起的人](https://open.spotify.com/album/4m8zX2aF2ggXlAqLsSj8Vb) | 4:45 | 2022-01-04 | 2024-11-06 |
 | [開](https://open.spotify.com/track/5yxBjHKnVFVrxawBj1Laap) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [開](https://open.spotify.com/album/1tGOq8vkfXfBAUoGeYIjBT) | 4:18 | 2025-11-04 | 2026-01-15 |
+| [開始懂了](https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [我要的幸福](https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m) | 4:31 | 2026-06-15 |  |
 | [關於我失眠的某三個夜晚 Sleepless Wander](https://open.spotify.com/track/4XdP6l8wIbHLIybMAajhfM) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [關於我失眠的某三個夜晚 Sleepless Wander](https://open.spotify.com/album/2r00aiM0Bk2ih8Y4bqCUg6) | 3:38 | 2025-02-04 | 2025-03-05 |
 | [關於我愛你](https://open.spotify.com/track/69bdhBcI3aTFA8KhooWBI3) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [城市](https://open.spotify.com/album/2X2WYTQl5BVInM0StQChCy) | 4:54 | 2022-05-31 | 2022-12-01 |
 | [阿福羅火山](https://open.spotify.com/track/5aViecsXqCUW7zJwxDhiSy) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh) | [阿福羅火山](https://open.spotify.com/album/7LFfYKMc1UAPNmxjCzEB5G) | 2:23 | 2026-06-02 |  |

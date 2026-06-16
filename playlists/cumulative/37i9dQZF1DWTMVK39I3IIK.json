@@ -2847,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Heliumtanker",
+        "url": "https://open.spotify.com/album/5Aa18monSfhQj9wVnkI9Br"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Heliumtanker",
+      "url": "https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D"
+    },
+    {
+      "album": {
         "name": "Dr\u00f8mmer / Helt",
         "url": "https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5"
       },
@@ -4390,7 +4408,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 258797,
       "name": "Lige Meget Hvor Langt Du Er",
       "url": "https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23"
@@ -4408,7 +4426,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
@@ -6298,6 +6316,24 @@
       "duration_ms": 142333,
       "name": "STADION",
       "url": "https://open.spotify.com/track/4kudNL6XGu5Y79pcUNWILB"
+    },
+    {
+      "album": {
+        "name": "Starsound",
+        "url": "https://open.spotify.com/album/5LAbuBRSMKL4SvvCpRfvfd"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285530,
+      "name": "Starsound",
+      "url": "https://open.spotify.com/track/6upj4Ru7egNLAHExBhdgYp"
     },
     {
       "album": {

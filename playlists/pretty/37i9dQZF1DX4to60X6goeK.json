@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 75811,
+  "num_followers": 75819,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,18 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "NO SURRENDER (No Retreat)",
-        "url": "https://open.spotify.com/album/2YTbTLwXVyRDmR8zyo8a77"
+        "name": "On The Gas",
+        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
       },
       "artists": [
         {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+          "name": "MANIA",
+          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
         }
       ],
-      "duration_ms": 209828,
-      "name": "NO SURRENDER (No Retreat)",
-      "url": "https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC"
+      "duration_ms": 178285,
+      "name": "On The Gas",
+      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -255,18 +251,22 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "On The Gas",
-        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
+        "name": "NO SURRENDER (No Retreat)",
+        "url": "https://open.spotify.com/album/2YTbTLwXVyRDmR8zyo8a77"
       },
       "artists": [
         {
-          "name": "MANIA",
-          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
         }
       ],
-      "duration_ms": 178285,
-      "name": "On The Gas",
-      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
+      "duration_ms": 209828,
+      "name": "NO SURRENDER (No Retreat)",
+      "url": "https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -291,6 +291,26 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
+        "name": "Lose Your Shit",
+        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "duration_ms": 190094,
+      "name": "Lose Your Shit",
+      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
         "name": "Feel My Love",
         "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
       },
@@ -303,22 +323,6 @@
       "duration_ms": 224827,
       "name": "Feel My Love",
       "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
-        "name": "Do U Feel It Now?",
-        "url": "https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL"
-      },
-      "artists": [
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Do U Feel It Now?",
-      "url": "https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -351,38 +355,18 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "Lose Your Shit",
-        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
+        "name": "Do U Feel It Now?",
+        "url": "https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL"
       },
       "artists": [
         {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        },
-        {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
         }
       ],
-      "duration_ms": 190094,
-      "name": "Lose Your Shit",
-      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
-      },
-      "artists": [
-        {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
+      "duration_ms": 231724,
+      "name": "Do U Feel It Now?",
+      "url": "https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -399,6 +383,22 @@
       "duration_ms": 224914,
       "name": "BODY DROP (Won't Stop)",
       "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -431,30 +431,6 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "Round + Round",
-        "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
-      },
-      "artists": [
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "Round + Round",
-      "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
         "name": "Yapa Yapa (Shut It Pls) [Serum Remix]",
         "url": "https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 198857,
       "name": "Yapa Yapa (Shut It Pls) - Serum Remix",
       "url": "https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
+        "name": "Round + Round",
+        "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "Round + Round",
+      "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
+        "name": "Goose Chase",
+        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "duration_ms": 180344,
+      "name": "Goose Chase",
+      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
         "name": "Thriller / Good Ol' Days",
         "url": "https://open.spotify.com/album/5Xi9MKZ3kzCJmnvOeiQatj"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 190344,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/6cF0duAq36nMaKUWtQb6Uc"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
-        "name": "Goose Chase",
-        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        }
-      ],
-      "duration_ms": 180344,
-      "name": "Goose Chase",
-      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
         "name": "Game Face",
         "url": "https://open.spotify.com/album/3nEwNr3zL9a28WlXqpq8sW"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 173793,
       "name": "Game Face",
       "url": "https://open.spotify.com/track/6kgXd7RL5jxU0BRk4C96yc"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "Corner",
-        "url": "https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4"
-      },
-      "artists": [
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Corner",
-      "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
         "name": "Dopamine Hits",
         "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 189767,
       "name": "Dopamine Hits",
       "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
+        "name": "Corner",
+        "url": "https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4"
+      },
+      "artists": [
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Corner",
+      "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
     },
     {
       "added_at": "2026-05-29 11:05:52",

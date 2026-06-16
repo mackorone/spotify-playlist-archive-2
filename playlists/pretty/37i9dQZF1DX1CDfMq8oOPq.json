@@ -1,6 +1,6 @@
 {
   "description": "fazer uma grana, pegar um jet fds, anima?? // Kisha zO",
-  "num_followers": 101238,
+  "num_followers": 101250,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-06-12 03:01:44",
       "album": {
+        "name": "HATER",
+        "url": "https://open.spotify.com/album/6RRUXGqtEZ3fktTPDbICyx"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "HATER",
+      "url": "https://open.spotify.com/track/01FUn7iAIN8IRdMTPCP1aB"
+    },
+    {
+      "added_at": "2026-06-12 03:01:44",
+      "album": {
         "name": "Man Down",
         "url": "https://open.spotify.com/album/4PDBM8CE55AbLWoISVuU5m"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 178312,
       "name": "Destino em Pap\u00e9is",
       "url": "https://open.spotify.com/track/6901cgMx3F5s2J2HKFZf5T"
-    },
-    {
-      "added_at": "2026-06-12 03:01:44",
-      "album": {
-        "name": "HATER",
-        "url": "https://open.spotify.com/album/6RRUXGqtEZ3fktTPDbICyx"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 119999,
-      "name": "HATER",
-      "url": "https://open.spotify.com/track/01FUn7iAIN8IRdMTPCP1aB"
     },
     {
       "added_at": "2026-06-12 03:01:44",
@@ -1070,10 +1070,6 @@
         {
           "name": "Frost",
           "url": "https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD"
-        },
-        {
-          "name": "MIB",
-          "url": "https://open.spotify.com/artist/4xosFqu0sMEWvyR5Ye567q"
         }
       ],
       "duration_ms": 143735,

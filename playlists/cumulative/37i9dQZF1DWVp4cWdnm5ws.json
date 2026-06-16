@@ -1727,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Ganun Pa Rin",
+        "url": "https://open.spotify.com/album/78LyI9YGLRQmLbjxvrEriu"
+      },
+      "artists": [
+        {
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Ganun Pa Rin",
+      "url": "https://open.spotify.com/track/4KY8kJGQqVA9VzPzvNKTrH"
+    },
+    {
+      "album": {
         "name": "Pasulong",
         "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
       },

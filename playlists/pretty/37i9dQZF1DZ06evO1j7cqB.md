@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,553 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,551 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 30 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 |
 | 31 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 |
 | 32 | [Letting Go \(From "God of War Ragnarök" Soundtrack\)](https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 9:25 |
-| 33 | [Brotherhood](https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [God of War Sons of Sparta \(Original Soundtrack\)](https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4) | 3:19 |
-| 34 | [Lullaby of the Giants \(From "God of War" Soundtrack\)](https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 |
+| 33 | [Lullaby of the Giants \(From "God of War" Soundtrack\)](https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 |
+| 34 | [Brotherhood](https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [God of War Sons of Sparta \(Original Soundtrack\)](https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4) | 3:19 |
 | 35 | [Across the Sea and Sky \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/5VDT7x8lqbBLnCslmcLTxi) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FYsyYhHOFkqGUUqPR6e5e) | 3:59 |
 | 36 | [A Son's Path \(From "God of War Ragnarök" Soundtrack\)](https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:30 |
 | 37 | [Golden Leaves \(feat\. Benjamin Walker\)](https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Benjamin Walker](https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 49 | [Forgiveness Takes an Age](https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 2:40 |
 | 50 | [The Fiery Cross \(feat\. Griogair Labhruidh\)](https://open.spotify.com/track/0iejrWjPMGrGNzQrGaEzrY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Griogair](https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 9:06 |
 
-Snapshot ID: `aiydgAAAAADwbRMXR6zBFGibiw9khgvf`
+Snapshot ID: `ai3vAAAAAADElC6uGZlVkQ33AEZfFCJc`

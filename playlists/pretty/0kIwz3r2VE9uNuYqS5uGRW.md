@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 227 songs - 11 hr 53 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 228 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,5 +235,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 225 | [Pierdo el Control](https://open.spotify.com/track/3C0bku6a2HSE7D7SdR1h0r) | [NayroMusic](https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc) | [Cuerdas Nocturnas](https://open.spotify.com/album/1HZmIA87i8LsruJ1rSglCC) | 2:49 |
 | 226 | [The Fish That Never Went To Mauritius](https://open.spotify.com/track/7nWnAKibNLSktV18hn0vuZ) | [Jonny Hiley](https://open.spotify.com/artist/0Uhg2uDTQsgfuxzFlq4MKO) | [The Fish That Never Went To Mauritius](https://open.spotify.com/album/2jyvwXJ7yl4xEkgVtYI6lv) | 5:04 |
 | 227 | [Walking Away](https://open.spotify.com/track/4CEqsSBbZ0IQVGGvBMn4BN) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY), [Josh Yau](https://open.spotify.com/artist/4KDt1OdgiC9fZQb1ql0uIT) | [Walking Away](https://open.spotify.com/album/6IPHBP1F6s1lYqEkWWBZlW) | 2:45 |
+| 228 | [Permission](https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Permission](https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI) | 2:52 |
 
-Snapshot ID: `AAAV6XNqMUujpiOBHy6Z2psmHTdxIFJy`
+Snapshot ID: `AAAV6uF91uZ/epuKQNrQV9yw2E0EU0w7`

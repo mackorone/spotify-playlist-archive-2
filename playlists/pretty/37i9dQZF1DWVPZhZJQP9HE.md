@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,798 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,814 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 8 | [Yeno Indru \- From "Think Indie"](https://open.spotify.com/track/40xVepzK7qT60Jl3BHjRj7) | [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Yeno Indru \(From "Think Indie"\)](https://open.spotify.com/album/6AUBZzoyT95nF9qWJCxj0P) | 3:23 |
 | 9 | [Inayum Paadhaigal](https://open.spotify.com/track/5Q9EytmVjm1TFZ3hCfjdD3) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Vinaita Sivakumar](https://open.spotify.com/artist/0dtzGDwccz8vDDPv57ljRe) | [Inayum Paadhaigal](https://open.spotify.com/album/3Jtm5SG8WAMQjRmh4KIbsO) | 3:21 |
 | 10 | [POCHA \- From "Cheers Music"](https://open.spotify.com/track/6T4r1F01eg0jmcal7ulg4j) | [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di) | [POCHA \(From "Cheers Music"\)](https://open.spotify.com/album/2K4e3kPsAoW2BGhSyDyeEW) | 3:33 |
-| 11 | [VALAYAL GOLUSU](https://open.spotify.com/track/6zbhIEf4Vi0j6enoeM47KZ) | [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3) | [VALAYAL GOLUSU](https://open.spotify.com/album/0bA1037iLb0YxXi4Ql1EwI) | 4:12 |
+| 11 | [VALAYAL GOLUSU](https://open.spotify.com/track/6zbhIEf4Vi0j6enoeM47KZ) | [Junior Nithya](https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [VALAYAL GOLUSU](https://open.spotify.com/album/0bA1037iLb0YxXi4Ql1EwI) | 4:12 |
 | 12 | [Neeye Pirai \(From "Loopd"\)](https://open.spotify.com/track/79ofmDwd5EY9joMICaxCEc) | [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P), [Navin Kannan](https://open.spotify.com/artist/3wVQcIbAURstU5Yhxc5K8C) | [Neeye Pirai \(From "Loopd"\)](https://open.spotify.com/album/5waJpOUVftiYA3AysbLEpi) | 5:00 |
 | 13 | [Fancy Store \- From "Atti Culture"](https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Fancy Store \(From "Atti Culture"\)](https://open.spotify.com/album/61FdiV3mqRtVRAMyEQa94o) | 3:17 |
 | 14 | [Naa Enna Pannen](https://open.spotify.com/track/0X9jO7SPcxJV9t7cGcBKm2) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3) | [Naa Enna Pannen](https://open.spotify.com/album/2ojKXyUJIjXwsfpWDX93dO) | 3:04 |

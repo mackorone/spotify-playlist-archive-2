@@ -1,6 +1,6 @@
 {
   "description": "New music from Mentissa, Olivia Rodrigo, Bebe Rexha,  Guy2Bezbar x Tiakola, Tove Lo x Stromae and more...",
-  "num_followers": 51478,
+  "num_followers": 51476,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -374,6 +374,10 @@
         {
           "name": "Bobby Taylor",
           "url": "https://open.spotify.com/artist/6zMLleTVyslDg6NTVicqer"
+        },
+        {
+          "name": "Marone",
+          "url": "https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4"
         }
       ],
       "duration_ms": 158769,

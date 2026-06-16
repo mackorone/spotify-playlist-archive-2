@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Interpol
 
-10,909 songs - 25 day 21 hr 39 min
+10,910 songs - 25 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8311,6 +8311,7 @@
 | [Since April](https://open.spotify.com/track/11hTGnist3szhkE1yWAcWk) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Since April](https://open.spotify.com/album/5Qr0ATirEQjY31oFkyvhsw) | 2:35 | 2025-03-07 | 2025-03-15 |
 | [Sing 'n Shout](https://open.spotify.com/track/4AE5fBpsRYRiHAkohYwVQu) | [Headfirst](https://open.spotify.com/artist/3FV7EGmhcCWhgSB91GCROk) | [Traffic Junkie](https://open.spotify.com/album/23TiR9uG8eLJ7b61abwRIs) | 3:38 | 2023-04-07 | 2023-04-15 |
 | [Sing At The Top](https://open.spotify.com/track/5de8ELnYFwWdKctdRpXJkS) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Sing At The Top](https://open.spotify.com/album/2xpJ8NDteQqvkrvVMMSllL) | 3:09 | 2023-03-24 | 2023-04-01 |
+| [Sing me Back to Sleep](https://open.spotify.com/track/1GtzPJx8B5Gr48xnK3AbF8) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [To Hell and Back](https://open.spotify.com/album/7bu2pylhdOzN9fa6pd4mQw) | 3:47 | 2026-06-15 |  |
 | [Singapore](https://open.spotify.com/track/6KYHEjY1Q6PskPAjQlzw6z) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [SIDE B](https://open.spotify.com/album/0e7O2OWagUpoL2JXFkKGQj) | 2:52 | 2022-08-12 | 2022-08-20 |
 | [Sink Or Swim](https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11) | [Neighbourhood Void](https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu) | [Sink Or Swim](https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal) | 2:47 | 2023-03-31 | 2023-04-09 |
 | [Sink Ya Teeth](https://open.spotify.com/track/6xfeVHIcavY2ZwwASl00j4) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Sink Ya Teeth](https://open.spotify.com/album/3tbrfc220mSrlEKd5uad1i) | 3:27 | 2024-04-12 | 2024-04-19 |

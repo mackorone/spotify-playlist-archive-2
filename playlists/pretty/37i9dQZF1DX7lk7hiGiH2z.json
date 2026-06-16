@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 60707,
+  "num_followers": 60725,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
-    },
-    {
-      "added_at": "2026-05-25 16:49:17",
-      "album": {
         "name": "Das Gelbe vom Schwamm",
         "url": "https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT"
       },
@@ -591,6 +575,26 @@
       "duration_ms": 210333,
       "name": "In den Urlaub",
       "url": "https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc"
+    },
+    {
+      "added_at": "2026-05-25 16:49:17",
+      "album": {
+        "name": "Idas Sommerlied",
+        "url": "https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv"
+      },
+      "artists": [
+        {
+          "name": "Astrid Lindgren Deutsch",
+          "url": "https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz"
+        },
+        {
+          "name": "Michel aus L\u00f6nneberga",
+          "url": "https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V"
+        }
+      ],
+      "duration_ms": 119215,
+      "name": "Idas Sommerlied",
+      "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -639,22 +643,18 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
-        "name": "Idas Sommerlied",
-        "url": "https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv"
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
       },
       "artists": [
         {
-          "name": "Astrid Lindgren Deutsch",
-          "url": "https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz"
-        },
-        {
-          "name": "Michel aus L\u00f6nneberga",
-          "url": "https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 119215,
-      "name": "Idas Sommerlied",
-      "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
+      "duration_ms": 147374,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
-        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
-        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Sommerkinder",
-      "url": "https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01"
-    },
-    {
-      "added_at": "2026-05-25 16:49:17",
-      "album": {
         "name": "Schmetterlingskacke",
         "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 182213,
       "name": "Glitzer",
       "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
+    },
+    {
+      "added_at": "2026-05-25 16:49:17",
+      "album": {
+        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
+        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Sommerkinder",
+      "url": "https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
+        "name": "ordentlich durcheinander",
+        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Wir holen euch ab",
+      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
+    },
+    {
+      "added_at": "2026-05-25 16:49:17",
+      "album": {
         "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
         "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
@@ -771,18 +787,22 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
-        "name": "ordentlich durcheinander",
-        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
+        "name": "Das gr\u00fcne Album",
+        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
       },
       "artists": [
         {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Wir holen euch ab",
-      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
+      "duration_ms": 134265,
+      "name": "Sommerzeit",
+      "url": "https://open.spotify.com/track/1naDrs3vJoTuF5CokDfPGi"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -827,22 +847,18 @@
     {
       "added_at": "2026-05-25 16:49:17",
       "album": {
-        "name": "Das gr\u00fcne Album",
-        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
+        "name": "Das Sommertier",
+        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
       },
       "artists": [
         {
-          "name": "Nilsen",
-          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
         }
       ],
-      "duration_ms": 134265,
-      "name": "Sommerzeit",
-      "url": "https://open.spotify.com/track/1naDrs3vJoTuF5CokDfPGi"
+      "duration_ms": 147571,
+      "name": "Das Sommertier",
+      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
     },
     {
       "added_at": "2026-05-25 16:49:17",
@@ -875,22 +891,6 @@
       "duration_ms": 140186,
       "name": "Auf einem Baum ein Kuckuck sa\u00df",
       "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
-    },
-    {
-      "added_at": "2026-05-25 16:49:17",
-      "album": {
-        "name": "Das Sommertier",
-        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
-      },
-      "artists": [
-        {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
-        }
-      ],
-      "duration_ms": 147571,
-      "name": "Das Sommertier",
-      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
     },
     {
       "added_at": "2026-05-25 16:49:17",

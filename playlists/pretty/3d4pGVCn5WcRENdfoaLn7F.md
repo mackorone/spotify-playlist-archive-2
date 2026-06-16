@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 725 likes - 62 songs - 3 hr 37 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 729 likes - 66 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,9 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 60 | [Bruise](https://open.spotify.com/track/322NfWs2Q26OwW1f0MOTBZ) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4c4SBqmV6J0gbOm6mIM4Oz) | 3:42 |
 | 61 | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/track/7c3n6e35HWPu8jFZsGP2ZD) | [Los No Muertos](https://open.spotify.com/artist/10DyxVqQ1e1PaEsmZujjSE) | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/album/6g7hoVgjQPhWLuXDiQlK1T) | 4:52 |
 | 62 | [All I Want From You \(Distribution\)](https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [All I Want From You](https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr) | 2:29 |
+| 63 | [The Morning](https://open.spotify.com/track/6AvJQ7MB7BwSr7ZoTkHYf4) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [The Morning](https://open.spotify.com/album/5wxzMqAHFsxQ4K1h1bWJxW) | 3:05 |
+| 64 | [Just a Little](https://open.spotify.com/track/5gTqfu1tnwW4FRWVPWwAHB) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:34 |
+| 65 | [Spent My Whole Life Loving You](https://open.spotify.com/track/3NeYvY7holTVNCpaQt8BH1) | [Alexandra Klee](https://open.spotify.com/artist/3SbQ1Fwzf6okKXEXfCkTLP), [Andreas Wallner](https://open.spotify.com/artist/02u2I6IenqojYw6JMPnat6) | [Spent My Whole Life Loving You](https://open.spotify.com/album/52Ac8NvHzJ6pxVDMvM23yC) | 3:14 |
+| 66 | [Something New](https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Something New](https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p) | 4:40 |
 
-Snapshot ID: `AAADt4dkZ/jmoKcSObaliU9zhABJiTBy`
+Snapshot ID: `AAADu01pzgowMQBgxGYLUtEwwuKqRmEA`

@@ -1,12 +1,12 @@
 {
-  "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added regularly :) www.avondalerecords.com",
-  "num_followers": 1387,
-  "original_name": "Shuffle Roulette",
+  "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
+  "num_followers": 1390,
+  "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAQjLiXhAghzT6qWWOberO8ACk8Yf3X",
+  "snapshot_id": "AAAQl8Dfr/12y74hK6CVvV8ww4sDH1+E",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -143,6 +143,38 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-06-15 13:35:37",
+      "album": {
+        "name": "Go Fish",
+        "url": "https://open.spotify.com/album/5moPphgJ9xbmKs3AbVPJ5s"
+      },
+      "artists": [
+        {
+          "name": "Gooseberry",
+          "url": "https://open.spotify.com/artist/4kwLF73fZC8zaZI5rwbBQV"
+        }
+      ],
+      "duration_ms": 229353,
+      "name": "Go Fish",
+      "url": "https://open.spotify.com/track/3wusci1UD9vUMBi4HPGlLJ"
+    },
+    {
+      "added_at": "2026-06-15 13:26:23",
+      "album": {
+        "name": "SDSP",
+        "url": "https://open.spotify.com/album/7zf869CJmttxZ2Orleeep4"
+      },
+      "artists": [
+        {
+          "name": "Supa Dupa Supa Punk",
+          "url": "https://open.spotify.com/artist/5OfotB00RVZqUAHPBpJaEZ"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Ticket to Paradise",
+      "url": "https://open.spotify.com/track/5EOsMXYmJ12xCncnMQd9MA"
     },
     {
       "added_at": "2026-06-11 15:32:29",
@@ -675,38 +707,6 @@
       "duration_ms": 160911,
       "name": "Sneeze",
       "url": "https://open.spotify.com/track/294fGoa4R1HQXzHwHMl2LB"
-    },
-    {
-      "added_at": "2026-05-15 11:58:16",
-      "album": {
-        "name": "If you didn't want to talk, you could've just said so",
-        "url": "https://open.spotify.com/album/5WdbaXaxnhliVkMxNT2nIx"
-      },
-      "artists": [
-        {
-          "name": "The Sun Sets West",
-          "url": "https://open.spotify.com/artist/0xwRKbc6fbnlh0AdFfGGKq"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "If you didn't want to talk, you could've just said so",
-      "url": "https://open.spotify.com/track/6vzbaNWXcykEyUu0tcNw8E"
-    },
-    {
-      "added_at": "2026-05-15 05:28:11",
-      "album": {
-        "name": "C U L8R (alligator)",
-        "url": "https://open.spotify.com/album/45y52f5tWD9e3zjX1g5RUF"
-      },
-      "artists": [
-        {
-          "name": "Victories",
-          "url": "https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA"
-        }
-      ],
-      "duration_ms": 197968,
-      "name": "C U L8R (alligator)",
-      "url": "https://open.spotify.com/track/25UQb7E2Av5uo5x5fjQ6xA"
     },
     {
       "added_at": "2026-04-28 11:28:21",
@@ -3387,8 +3387,104 @@
       "duration_ms": 152418,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/1ldlVDxNRGQwL0RNqq2vx4"
+    },
+    {
+      "added_at": "2026-06-15 13:38:59",
+      "album": {
+        "name": "There's Not Enough Black In Your Images",
+        "url": "https://open.spotify.com/album/3ujWLhJoyqqPfAMiCqlbCm"
+      },
+      "artists": [
+        {
+          "name": "Paul Louis Villani",
+          "url": "https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "There's Not Enough Black In Your Images",
+      "url": "https://open.spotify.com/track/4aVNW8SDgXy3xzSLHrGDz3"
+    },
+    {
+      "added_at": "2026-06-15 13:40:25",
+      "album": {
+        "name": "Don't Trust Anyone Over 21",
+        "url": "https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5"
+      },
+      "artists": [
+        {
+          "name": "S/ash66",
+          "url": "https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68"
+        }
+      ],
+      "duration_ms": 106439,
+      "name": "The Show Was Better than Your Video",
+      "url": "https://open.spotify.com/track/6gfFcfipSGXsCTh4PCRvQT"
+    },
+    {
+      "added_at": "2026-06-15 13:40:45",
+      "album": {
+        "name": "Heretic",
+        "url": "https://open.spotify.com/album/1ROIsCaIxtRqY11d4LkB93"
+      },
+      "artists": [
+        {
+          "name": "SECULAR",
+          "url": "https://open.spotify.com/artist/4ByeCqfeGjf53fhWXBydM3"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/0fnBes5T9MhY0nMWS70FtO"
+    },
+    {
+      "added_at": "2026-06-15 13:42:44",
+      "album": {
+        "name": "What\u2019s on My Mind",
+        "url": "https://open.spotify.com/album/5bUdC21AxHNmpv47d9ZiZc"
+      },
+      "artists": [
+        {
+          "name": "giftig",
+          "url": "https://open.spotify.com/artist/0L4i0vV9NCYUdU8abvqQOz"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "What\u2019s on My Mind",
+      "url": "https://open.spotify.com/track/7L0r7hg23SipA1O5pmFAcN"
+    },
+    {
+      "added_at": "2026-06-15 13:44:34",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/57SCQd78MeGwNDP9N2CDqP"
+      },
+      "artists": [
+        {
+          "name": "High On Nothing",
+          "url": "https://open.spotify.com/artist/5SfPlLjrJxYopoqL2XtzjV"
+        }
+      ],
+      "duration_ms": 189913,
+      "name": "No Strings Attached",
+      "url": "https://open.spotify.com/track/1sJCh8R7sVfqQ0jzPNvcit"
+    },
+    {
+      "added_at": "2026-06-16 03:49:15",
+      "album": {
+        "name": "All Went Wrong",
+        "url": "https://open.spotify.com/album/0JqavCorMxMR3QITtX3DDb"
+      },
+      "artists": [
+        {
+          "name": "Rick Diamond",
+          "url": "https://open.spotify.com/artist/2FX1JoyEJdoKO0pW8S612Q"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "All Went Wrong",
+      "url": "https://open.spotify.com/track/6wdsPcnzIvAB48LAZLiaI4"
     }
   ],
-  "unique_name": "Shuffle Roulette",
+  "unique_name": "Spotify Radio",
   "url": "https://open.spotify.com/playlist/4fRhVeY19i0f9leSY3ixQS"
 }

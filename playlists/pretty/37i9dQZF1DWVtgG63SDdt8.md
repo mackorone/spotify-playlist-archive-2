@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,398 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,415 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 47 | [Come Thou Fount](https://open.spotify.com/track/0kUaU1ySh1LYWIulRnvWax) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Come Thou Fount](https://open.spotify.com/album/7xaJfrfN3RHAidB9iM7iCh) | 3:47 |
 | 48 | [House of the Lord](https://open.spotify.com/track/1m1vPT3EDV2HpCK8BOuAlN) | [Caroline Levinson](https://open.spotify.com/artist/2iE2yvcHhaUHH3NrEhY40E) | [House of the Lord](https://open.spotify.com/album/3R82qnDjiCUKpWrAKfTKx5) | 4:28 |
 | 49 | [Till the Generations Know You \- Live](https://open.spotify.com/track/4yXDgkdmYIRwppOG3ywlHn) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Sabrina Chai](https://open.spotify.com/artist/3TJzyNHQYk2kPVm3xAtwGH) | [Till the Generations Know You \(Live\)](https://open.spotify.com/album/1SteyTtpHgD5gq3WAi5cvk) | 7:00 |
-| 50 | [Zeal For Your House](https://open.spotify.com/track/1dTzB81lH7yA3vszQZn7lX) | [Southeast Worship](https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99) | [Zeal For Your House](https://open.spotify.com/album/3ia29J9S70fVd5tYR6Zzv9) | 3:14 |
+| 50 | [Zeal For Your House](https://open.spotify.com/track/1dTzB81lH7yA3vszQZn7lX) | [Southeast Worship](https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99), [Joel McElwee](https://open.spotify.com/artist/4duxwXS3186nnupekQciVz) | [Zeal For Your House](https://open.spotify.com/album/3ia29J9S70fVd5tYR6Zzv9) | 3:14 |
 | 51 | [We Worship You](https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [We Worship You](https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c) | 8:17 |
 | 52 | [Fear Of God \- Live](https://open.spotify.com/track/4QtxQDR3S5AyJ4iXMwateA) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/4kQttyy3r4QbpxPwL3ImZl) | 9:55 |
 | 53 | [Hallelujah](https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Hallelujah](https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n) | 8:21 |

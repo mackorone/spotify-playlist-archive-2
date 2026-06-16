@@ -96,7 +96,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 168547,
       "name": "100 POH\u00c1R",
       "url": "https://open.spotify.com/track/078Yo2UEdocHfl7lkZIvag"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 184193,
       "name": "Beef",
       "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
@@ -2299,6 +2299,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "DEF",
         "url": "https://open.spotify.com/album/0GExaBb0qVACqBO2Xy5cBU"
       },
@@ -2589,6 +2611,28 @@
     },
     {
       "album": {
+        "name": "DUMDUM",
+        "url": "https://open.spotify.com/album/74DQzDPzD0euWtsnBClgYH"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155094,
+      "name": "DUMDUM",
+      "url": "https://open.spotify.com/track/7ppCZOGHW33FT9d9NWh1kY"
+    },
+    {
+      "album": {
         "name": "DURVA NAP",
         "url": "https://open.spotify.com/album/6PFTl7TII68FgZrpEg5UDI"
       },
@@ -2796,7 +2840,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 169696,
       "name": "Elm Utca",
       "url": "https://open.spotify.com/track/5dZCMlsxcuS1YQ9DNtt0DL"
@@ -3476,7 +3520,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 155214,
       "name": "FREY TIMI",
       "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
@@ -5308,7 +5352,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 145796,
       "name": "J\u00faniusban",
       "url": "https://open.spotify.com/track/4unXoPTSuWaBG4pe6Z9btS"
@@ -5684,6 +5728,28 @@
       "duration_ms": 178666,
       "name": "kir\u00e1ly a t\u00e1rc\u00e1mban",
       "url": "https://open.spotify.com/track/6qAf9vKHyWrtan7Gooy3Dw"
+    },
+    {
+      "album": {
+        "name": "Kiskece",
+        "url": "https://open.spotify.com/album/6VioEsOGLZlfveutyY89Yc"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182578,
+      "name": "Kiskece",
+      "url": "https://open.spotify.com/track/0nbfu1zUY9CrSOIA5UNjOe"
     },
     {
       "album": {
@@ -7437,6 +7503,32 @@
     },
     {
       "album": {
+        "name": "NEM ENGEM",
+        "url": "https://open.spotify.com/album/37kgjtWHducf73RAJsWEsC"
+      },
+      "artists": [
+        {
+          "name": "Milo",
+          "url": "https://open.spotify.com/artist/7iRxHv7CraDSkKg0ekAOcE"
+        },
+        {
+          "name": "Nemazal\u00e1ny",
+          "url": "https://open.spotify.com/artist/474u1cnCRF41ym7ZNBddcc"
+        },
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205824,
+      "name": "NEM ENGEM",
+      "url": "https://open.spotify.com/track/5F0hgmRUAnPeacLwxKfBW5"
+    },
+    {
+      "album": {
         "name": "Nem gy\u00f3gyul a sz\u00edv",
         "url": "https://open.spotify.com/album/3GUhtrK0LITa9IYvWa99OK"
       },
@@ -7544,6 +7636,28 @@
       "duration_ms": 220493,
       "name": "Nem tudom merre megyek",
       "url": "https://open.spotify.com/track/2J9RxU4wcj4MDyTglO5XJd"
+    },
+    {
+      "album": {
+        "name": "NEM \u00c9RI MEG",
+        "url": "https://open.spotify.com/album/7tNvyky9aZqqqOIIMPfTSH"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171665,
+      "name": "NEM \u00c9RI MEG",
+      "url": "https://open.spotify.com/track/3q5jY2ojaqWSruLalNfS5b"
     },
     {
       "album": {
@@ -9209,6 +9323,24 @@
     },
     {
       "album": {
+        "name": "R\u00fazs",
+        "url": "https://open.spotify.com/album/4zDfCcaBvKawySNPyQAZdl"
+      },
+      "artists": [
+        {
+          "name": "R\u00fazsa Magdolna",
+          "url": "https://open.spotify.com/artist/6wY9OORuD6E5gTJ7yMinoW"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226389,
+      "name": "R\u00fazs",
+      "url": "https://open.spotify.com/track/1O98ciH9BkJMjUALnj1nYL"
+    },
+    {
+      "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
       },
@@ -9276,7 +9408,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 237500,
       "name": "SeanPaul",
       "url": "https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY"
@@ -10270,10 +10402,28 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 151421,
       "name": "SZ\u00c9TSZEDLEK",
       "url": "https://open.spotify.com/track/6glRr1LaVOoIhMjQ5ZDzXe"
+    },
+    {
+      "album": {
+        "name": "Sz\u00edvrabl\u00f3",
+        "url": "https://open.spotify.com/album/5zLEX4UqLgXHSw1raF3Jrt"
+      },
+      "artists": [
+        {
+          "name": "Follow The Flow",
+          "url": "https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171907,
+      "name": "Sz\u00edvrabl\u00f3",
+      "url": "https://open.spotify.com/track/4KUcihaiE16uiDpxC3ucWv"
     },
     {
       "album": {
@@ -11659,6 +11809,24 @@
     },
     {
       "album": {
+        "name": "V\u00e9ge van, kicsi",
+        "url": "https://open.spotify.com/album/6vJRt7VlDiUFfQKsOcZ1Aq"
+      },
+      "artists": [
+        {
+          "name": "Paulina",
+          "url": "https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164146,
+      "name": "V\u00e9ge van, kicsi",
+      "url": "https://open.spotify.com/track/3w4hvqUiJtbU02VPqD97Z4"
+    },
+    {
+      "album": {
         "name": "VINNER",
         "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
       },
@@ -11972,7 +12140,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 190000,
       "name": "\u00c9DEN",
       "url": "https://open.spotify.com/track/37rab2ZEkXwsPboXTZxHBf"

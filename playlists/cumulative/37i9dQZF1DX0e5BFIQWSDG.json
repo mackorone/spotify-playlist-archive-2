@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Anastasia",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ivan Greko",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 132000,
       "name": "AKATE",
       "url": "https://open.spotify.com/track/5wu3OoKbAM890BG0UwMySs"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 265263,
       "name": "ARAGORN",
       "url": "https://open.spotify.com/track/1EplyD8aYp2lujM3Vjs3Mz"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 161952,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/0B015hZa7aYSZCpPAa4iPy"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 137200,
       "name": "Bobby Shmurda",
       "url": "https://open.spotify.com/track/4FFAXCGTM7rzFrmFqsOh0d"
@@ -2200,6 +2200,28 @@
       "duration_ms": 202800,
       "name": "BRO X3",
       "url": "https://open.spotify.com/track/77VGUR3e39LMnXDbRTEmIB"
+    },
+    {
+      "album": {
+        "name": "BUSINESS",
+        "url": "https://open.spotify.com/album/4jFritgZBQ4qAxUaN193VX"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "BUSINESS",
+      "url": "https://open.spotify.com/track/3djudakcBistWKRfuKdWuL"
     },
     {
       "album": {
@@ -3282,7 +3304,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 122880,
       "name": "EGW",
       "url": "https://open.spotify.com/track/0ZbE3pJyd4bpZYo5kqVAqf"
@@ -4815,6 +4837,36 @@
     },
     {
       "album": {
+        "name": "Cruel Summer 3",
+        "url": "https://open.spotify.com/album/5PLaA1KlPRZx1DUm7PhN15"
+      },
+      "artists": [
+        {
+          "name": "DJ Stephan",
+          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Athena Manoukian",
+          "url": "https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "GREEK LOVE",
+      "url": "https://open.spotify.com/track/5FrtqrsOJd15eXWtKA88vD"
+    },
+    {
+      "album": {
         "name": "GRISELDA",
         "url": "https://open.spotify.com/album/1lZIZU7UJjGC2o3Bq3i1B3"
       },
@@ -4907,6 +4959,28 @@
     },
     {
       "album": {
+        "name": "TIGER LUV",
+        "url": "https://open.spotify.com/album/6srP9HJXcKA4lwfa8viVPJ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "GYALI",
+      "url": "https://open.spotify.com/track/4hgMfIIIXGLIG0176zUZjZ"
+    },
+    {
+      "album": {
         "name": "Gyrismos",
         "url": "https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp"
       },
@@ -4977,6 +5051,32 @@
     },
     {
       "album": {
+        "name": "HAHAHA 2",
+        "url": "https://open.spotify.com/album/0ArcAZ824nDh744VaKOB1r"
+      },
+      "artists": [
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176511,
+      "name": "HAHAHA 2",
+      "url": "https://open.spotify.com/track/5EAy0J6wLVOb0qR9eR9Rsa"
+    },
+    {
+      "album": {
         "name": "FOREVER RICH DELUXE",
         "url": "https://open.spotify.com/album/2rmS4kn1agG4geVVS3Tppo"
       },
@@ -5032,7 +5132,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -5766,7 +5866,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 153750,
       "name": "KATASTROFES",
       "url": "https://open.spotify.com/track/5wKeS174oywnGe2Gom5gTS"
@@ -5972,7 +6072,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 134571,
       "name": "KETOPA",
       "url": "https://open.spotify.com/track/07edNBcIKzkA9wHMLcFcYj"
@@ -6523,6 +6623,24 @@
     },
     {
       "album": {
+        "name": "TIGER LUV",
+        "url": "https://open.spotify.com/album/6srP9HJXcKA4lwfa8viVPJ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "LEUKO",
+      "url": "https://open.spotify.com/track/7Ko0FGZr3IGSEBrTFLEV92"
+    },
+    {
+      "album": {
         "name": "LIBERT\u00c0",
         "url": "https://open.spotify.com/album/1zXBqVCdmc664njja2YRPS"
       },
@@ -6722,7 +6840,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 184421,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/05FslWja07nCxznWhER5Yp"
@@ -7788,7 +7906,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 188235,
       "name": "NTALAVERIA",
       "url": "https://open.spotify.com/track/4tFevjTUCMo0OBkIQzzQOj"
@@ -8284,6 +8402,32 @@
       "duration_ms": 167251,
       "name": "PALI",
       "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
+    },
+    {
+      "album": {
+        "name": "PALOMA",
+        "url": "https://open.spotify.com/album/6N6d32REL5sGP4p01xflLr"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "PALOMA",
+      "url": "https://open.spotify.com/track/2mSredandhqq7qSD2LVhn6"
     },
     {
       "album": {
@@ -9825,6 +9969,28 @@
     },
     {
       "album": {
+        "name": "San Esena",
+        "url": "https://open.spotify.com/album/3rxXJx1O7QF2Z6eJdb5ZSc"
+      },
+      "artists": [
+        {
+          "name": "Emmanouela",
+          "url": "https://open.spotify.com/artist/5M5XZEGQ9VyenOFcuaQwE1"
+        },
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "San Esena",
+      "url": "https://open.spotify.com/track/2ND5ajIOU1PImVlsKtjlL7"
+    },
+    {
+      "album": {
         "name": "SANKARA",
         "url": "https://open.spotify.com/album/40pMN8dHtoda3RaBBTf2ma"
       },
@@ -10517,6 +10683,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "album": {
         "name": "NO CAP LABEL",
         "url": "https://open.spotify.com/album/4UpsTP9q6hofq3qRkfoW6V"
       },
@@ -11087,6 +11271,28 @@
     },
     {
       "album": {
+        "name": "Thimizeis Kati Apo Ellada",
+        "url": "https://open.spotify.com/album/0XE3PFWYxFVowo50Sm5S03"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194099,
+      "name": "Thimizeis Kati Apo Ellada",
+      "url": "https://open.spotify.com/track/6A9SlQ6TcZC0YeQurcjFXg"
+    },
+    {
+      "album": {
         "name": "THUMISOU",
         "url": "https://open.spotify.com/album/3KTkYzUv7p51TYxJfsw5gh"
       },
@@ -11176,6 +11382,24 @@
       "duration_ms": 176528,
       "name": "TI THELIS",
       "url": "https://open.spotify.com/track/5MO7LUQJEpuBwakEuOn2BP"
+    },
+    {
+      "album": {
+        "name": "Ti Thelo Ego Me Sena",
+        "url": "https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175747,
+      "name": "Ti Thelo Ego Me Sena",
+      "url": "https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF"
     },
     {
       "album": {

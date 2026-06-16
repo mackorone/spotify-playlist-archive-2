@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 56749,
+  "num_followers": 56754,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAACelXbnY0g30XfxnqjfJszu",
+  "snapshot_id": "ai3vAAAAAAAcGLhbetebDmoZbCwGtsom",
   "tracks": [
     {
       "added_at": null,
@@ -162,11 +162,15 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Lydia Kitto",
+          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
         }
       ],
-      "duration_ms": 215594,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/05n0mwlh1y3cwjGmHnfVjh"
+      "duration_ms": 215986,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/6jJTlYkddJONCQQVzWFzcQ"
     },
     {
       "added_at": null,
@@ -234,15 +238,11 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Lydia Kitto",
-          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/6jJTlYkddJONCQQVzWFzcQ"
+      "duration_ms": 215594,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/05n0mwlh1y3cwjGmHnfVjh"
     },
     {
       "added_at": null,

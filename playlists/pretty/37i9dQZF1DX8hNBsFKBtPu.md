@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 🌝 Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,147 likes - 171 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,145 likes - 171 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

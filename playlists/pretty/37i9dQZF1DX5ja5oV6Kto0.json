@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Sarah Phenom, Maleigh Zan, Brazy",
-  "num_followers": 111887,
+  "num_followers": 111894,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "Love Stray",
-        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 177968,
-      "name": "Deeper Than Love",
-      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
         "name": "FL STUDIO II",
         "url": "https://open.spotify.com/album/4sp6D3AC6VpUXNqoqZ7D7E"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 120868,
       "name": "FL STUDIO II",
       "url": "https://open.spotify.com/track/1A2MQMzE9on8FqI2vc984w"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
+        "name": "Love Stray",
+        "url": "https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 177968,
+      "name": "Deeper Than Love",
+      "url": "https://open.spotify.com/track/621gWcQWi29Ka1veHGYVEI"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -747,30 +747,18 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "By The Order Of The City",
-        "url": "https://open.spotify.com/album/1iihLsQquHsfLgBhPIOgI5"
+        "name": "Don't Go Far",
+        "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
       },
       "artists": [
         {
-          "name": "Siraheem",
-          "url": "https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
         }
       ],
-      "duration_ms": 222545,
-      "name": "BAD BITCH SYNDROME PART II",
-      "url": "https://open.spotify.com/track/207AeXyxFVvM96DrhALUx3"
+      "duration_ms": 198260,
+      "name": "Don't Go Far",
+      "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -807,42 +795,30 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "Pasta",
-        "url": "https://open.spotify.com/album/7FXNVVtmIMGcqCyhOq67Ro"
+        "name": "By The Order Of The City",
+        "url": "https://open.spotify.com/album/1iihLsQquHsfLgBhPIOgI5"
       },
       "artists": [
         {
-          "name": "Mamuzo",
-          "url": "https://open.spotify.com/artist/1igmgiNroMhNQQx9Rp4uoI"
+          "name": "Siraheem",
+          "url": "https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh"
         },
         {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         },
         {
-          "name": "Blaqdee",
-          "url": "https://open.spotify.com/artist/1ngLIjM1swqQ0EbSSZvusX"
-        }
-      ],
-      "duration_ms": 151052,
-      "name": "Pasta",
-      "url": "https://open.spotify.com/track/3viqMJokehxGl9bfvwRRaC"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
-        "name": "Don't Go Far",
-        "url": "https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn"
-      },
-      "artists": [
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
         {
-          "name": "Falana",
-          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Don't Go Far",
-      "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
+      "duration_ms": 222545,
+      "name": "BAD BITCH SYNDROME PART II",
+      "url": "https://open.spotify.com/track/207AeXyxFVvM96DrhALUx3"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -867,6 +843,30 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
+        "name": "Pasta",
+        "url": "https://open.spotify.com/album/7FXNVVtmIMGcqCyhOq67Ro"
+      },
+      "artists": [
+        {
+          "name": "Mamuzo",
+          "url": "https://open.spotify.com/artist/1igmgiNroMhNQQx9Rp4uoI"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "Blaqdee",
+          "url": "https://open.spotify.com/artist/1ngLIjM1swqQ0EbSSZvusX"
+        }
+      ],
+      "duration_ms": 151052,
+      "name": "Pasta",
+      "url": "https://open.spotify.com/track/3viqMJokehxGl9bfvwRRaC"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
         "name": "Sisi Eko",
         "url": "https://open.spotify.com/album/3wDRYY88P1rIqM2iTKDTEa"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 159416,
       "name": "Sisi Eko",
       "url": "https://open.spotify.com/track/0iPX2MzMxXjQxT3Bcu3W5J"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
-        "name": "Whine Am",
-        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Whine Am",
-      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "LUCKY UU",
-        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+        "name": "Whine Am",
+        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
       },
       "artists": [
         {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
         }
       ],
-      "duration_ms": 186818,
-      "name": "The Midnight Wanderer",
-      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+      "duration_ms": 176326,
+      "name": "Whine Am",
+      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -943,6 +927,22 @@
       "duration_ms": 140898,
       "name": "SHAKE'A",
       "url": "https://open.spotify.com/track/4n59HhKzaFoU3OBfTGyZe9"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
+        "name": "LUCKY UU",
+        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+      },
+      "artists": [
+        {
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "The Midnight Wanderer",
+      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -1003,6 +1003,62 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z"
+      },
+      "artists": [
+        {
+          "name": "Genio Bambino",
+          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
+        "name": "growing up",
+        "url": "https://open.spotify.com/album/7ysHLnYuy40kbl5j7jCZ4M"
+      },
+      "artists": [
+        {
+          "name": "seyyoh",
+          "url": "https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "growing up",
+      "url": "https://open.spotify.com/track/5UOAfVQgz65gboUYoebRXp"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
+        "name": "Duplicity",
+        "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 197956,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
         "name": "Follow Follow (feat. Deela & Paxslim)",
         "url": "https://open.spotify.com/album/3PjgNY7sOacUiwYQhEabxB"
       },
@@ -1031,22 +1087,18 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/6uHC38yfv6s3RI8Lv0Vm2Z"
+        "name": "Format",
+        "url": "https://open.spotify.com/album/3iHPaIY7AqsJar6H165Wa1"
       },
       "artists": [
         {
-          "name": "Genio Bambino",
-          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
         }
       ],
-      "duration_ms": 178775,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"
+      "duration_ms": 148800,
+      "name": "Format",
+      "url": "https://open.spotify.com/track/1QPucGEaFM7i3Z9Tm0voim"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -1071,42 +1123,6 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "Duplicity",
-        "url": "https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 197956,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/7koaF8UD8iMWB4zkIH6N80"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
-        "name": "Format",
-        "url": "https://open.spotify.com/album/3iHPaIY7AqsJar6H165Wa1"
-      },
-      "artists": [
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Format",
-      "url": "https://open.spotify.com/track/1QPucGEaFM7i3Z9Tm0voim"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
         "name": "SAME TIME",
         "url": "https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl"
       },
@@ -1119,6 +1135,26 @@
       "duration_ms": 116869,
       "name": "SAME TIME",
       "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
+        "name": "Don't Chase Me Away",
+        "url": "https://open.spotify.com/album/3DeMDwnfny4OTTfSdkStY0"
+      },
+      "artists": [
+        {
+          "name": "Cheruu",
+          "url": "https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB"
+        },
+        {
+          "name": "Chris Barr",
+          "url": "https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Don't Chase Me Away",
+      "url": "https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -1151,22 +1187,18 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "Only for the night",
-        "url": "https://open.spotify.com/album/1PwYQdRFwaE4pAmytucVZV"
+        "name": "Cavy In The City",
+        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
       },
       "artists": [
         {
-          "name": "jujuflow",
-          "url": "https://open.spotify.com/artist/1dH4QMtGxBxIp5oYIO2S5e"
-        },
-        {
-          "name": "SAINTMULA",
-          "url": "https://open.spotify.com/artist/1ZOtVeutHHK9Vq0IAPMgRJ"
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
         }
       ],
-      "duration_ms": 90671,
-      "name": "Only for the night",
-      "url": "https://open.spotify.com/track/5pGRGUVqwGM6JJfNjqjRbl"
+      "duration_ms": 151529,
+      "name": "General",
+      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -1191,34 +1223,22 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "Cavy In The City",
-        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+        "name": "Only for the night",
+        "url": "https://open.spotify.com/album/1PwYQdRFwaE4pAmytucVZV"
       },
       "artists": [
         {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 151529,
-      "name": "General",
-      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
-        "name": "growing up",
-        "url": "https://open.spotify.com/album/7ysHLnYuy40kbl5j7jCZ4M"
-      },
-      "artists": [
+          "name": "jujuflow",
+          "url": "https://open.spotify.com/artist/1dH4QMtGxBxIp5oYIO2S5e"
+        },
         {
-          "name": "seyyoh",
-          "url": "https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h"
+          "name": "SAINTMULA",
+          "url": "https://open.spotify.com/artist/1ZOtVeutHHK9Vq0IAPMgRJ"
         }
       ],
-      "duration_ms": 192000,
-      "name": "growing up",
-      "url": "https://open.spotify.com/track/5UOAfVQgz65gboUYoebRXp"
+      "duration_ms": 90671,
+      "name": "Only for the night",
+      "url": "https://open.spotify.com/track/5pGRGUVqwGM6JJfNjqjRbl"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -1247,6 +1267,22 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
+        "name": "Are You With Me!",
+        "url": "https://open.spotify.com/album/6efiIGTRyuGuHLliDvpX49"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        }
+      ],
+      "duration_ms": 85349,
+      "name": "green mile",
+      "url": "https://open.spotify.com/track/3tT9tgQ5VaobAVITOyOr8S"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
         "name": "Clear Mind",
         "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
       },
@@ -1259,26 +1295,6 @@
       "duration_ms": 160000,
       "name": "Clear Mind",
       "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
-        "name": "Don't Chase Me Away",
-        "url": "https://open.spotify.com/album/3DeMDwnfny4OTTfSdkStY0"
-      },
-      "artists": [
-        {
-          "name": "Cheruu",
-          "url": "https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB"
-        },
-        {
-          "name": "Chris Barr",
-          "url": "https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Don't Chase Me Away",
-      "url": "https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -1351,26 +1367,6 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/3AYdprmzxKsiZZdYpNeJar"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Raytheboffin",
-          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
-        }
-      ],
-      "duration_ms": 128450,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/3e9nDsU4bvLBcucvpuwDpB"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
         "name": "UPGRADE",
         "url": "https://open.spotify.com/album/71h63m5gl6FlM1dSba1sXv"
       },
@@ -1407,58 +1403,22 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "follow",
-        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/3AYdprmzxKsiZZdYpNeJar"
       },
       "artists": [
         {
-          "name": "Lod\u00f9",
-          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
-        }
-      ],
-      "duration_ms": 149708,
-      "name": "follow",
-      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
-        "name": "infrunayou",
-        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
-      },
-      "artists": [
-        {
-          "name": "Baves O",
-          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "infrunayou",
-      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
-    },
-    {
-      "added_at": "2026-06-12 00:01:42",
-      "album": {
-        "name": "Tropicana",
-        "url": "https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl"
-      },
-      "artists": [
-        {
-          "name": "Sinachi",
-          "url": "https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si"
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
         },
         {
-          "name": "Oshunda",
-          "url": "https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C"
-        },
-        {
-          "name": "9roovy",
-          "url": "https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy"
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
         }
       ],
-      "duration_ms": 147152,
-      "name": "Tropicana",
-      "url": "https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x"
+      "duration_ms": 128450,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/3e9nDsU4bvLBcucvpuwDpB"
     },
     {
       "added_at": "2026-06-12 00:01:42",
@@ -1491,18 +1451,58 @@
     {
       "added_at": "2026-06-12 00:01:42",
       "album": {
-        "name": "SLiDE",
-        "url": "https://open.spotify.com/album/5Vs1bARehxJBSjPYy1piOj"
+        "name": "infrunayou",
+        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
       },
       "artists": [
         {
-          "name": "95ANTNY",
-          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
         }
       ],
-      "duration_ms": 182545,
-      "name": "SLiDE",
-      "url": "https://open.spotify.com/track/3jfWO9owdGpkNFq0gtHszK"
+      "duration_ms": 144000,
+      "name": "infrunayou",
+      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
+        "name": "follow",
+        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
+      },
+      "artists": [
+        {
+          "name": "Lod\u00f9",
+          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
+        }
+      ],
+      "duration_ms": 149708,
+      "name": "follow",
+      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
+    },
+    {
+      "added_at": "2026-06-12 00:01:42",
+      "album": {
+        "name": "Tropicana",
+        "url": "https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl"
+      },
+      "artists": [
+        {
+          "name": "Sinachi",
+          "url": "https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si"
+        },
+        {
+          "name": "Oshunda",
+          "url": "https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C"
+        },
+        {
+          "name": "9roovy",
+          "url": "https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy"
+        }
+      ],
+      "duration_ms": 147152,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

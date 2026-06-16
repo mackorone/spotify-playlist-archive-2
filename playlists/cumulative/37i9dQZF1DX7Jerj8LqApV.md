@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-488 songs - 1 day 7 hr 3 min
+492 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Babalik Sa'yo](https://open.spotify.com/track/3r4CJwnU85C7vehWeytzNf) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q) | [Babalik Sa'yo](https://open.spotify.com/album/3tkcy78luHbbFQPWkImigl) | 2:59 | 2026-02-16 | 2026-02-25 |
 | [Bahaghari \(Halika na\)](https://open.spotify.com/track/1i0Kp24hzORn8FPXlS7TEt) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Bahaghari \(Halika na\)](https://open.spotify.com/album/1cz9BF4Rs8M9IvjT9dI6wB) | 3:55 | 2024-02-07 | 2024-02-21 |
 | [Bahala Na Sila](https://open.spotify.com/track/3Yj7S8OdTdmTk4SYFxRbKC) | [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Bahala Na Sila](https://open.spotify.com/album/5mZeVTKDwnXcNj0TZBHPGx) | 4:08 | 2025-11-24 | 2025-12-02 |
-| [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 | 2026-03-17 |  |
+| [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 | 2026-03-17 | 2026-06-16 |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-11-10 | 2024-09-26 |
 | [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 | 2024-11-29 | 2025-08-08 |
 | [Bawat Daan](https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ) | [Ebe Dancel](https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur) | [Bawat Daan](https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX) | 5:00 | 2025-03-20 | 2025-06-21 |
@@ -228,6 +228,7 @@
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2023-10-18 | 2025-11-08 |
 | [Lihim](https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Lihim](https://open.spotify.com/album/06q5LVHRUwo5LqINyPQm65) | 5:20 | 2024-02-28 | 2024-09-19 |
 | [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-17 | 2024-08-22 |
+| [Limot](https://open.spotify.com/track/7HOEqncRxY4CC7HUMp4kPa) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Limot](https://open.spotify.com/album/575QXywmTHxwPP93o04Uqi) | 4:01 | 2026-06-15 |  |
 | [Listen](https://open.spotify.com/track/11OGa5SPCHCyWtnopNKxvp) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Listen](https://open.spotify.com/album/0OLc8IeGDbmpb9TSb6Tv7i) | 3:33 | 2025-08-27 | 2025-09-12 |
 | [Love Over Me](https://open.spotify.com/track/1XhyAs2Fmtn5Rc20XZot2V) | [Dani Zam](https://open.spotify.com/artist/0bJM4Kl0INlyoFuQvAVjgq) | [Love Over Me](https://open.spotify.com/album/68AVAEhIX3V30JmcOQfiDd) | 3:40 | 2025-05-09 | 2025-05-22 |
 | [Love Story Kong Bitin](https://open.spotify.com/track/21sJOwbt6sijf6N59B0LVv) | [Atasha Muhlach](https://open.spotify.com/artist/4ES6et0LYZjJzQSEciWaEu) | [Love Story Kong Bitin](https://open.spotify.com/album/4a2FpSTNye8h9mcnJE0ogQ) | 3:43 | 2024-07-24 | 2024-08-22 |
@@ -242,6 +243,7 @@
 | [Magkasalungat](https://open.spotify.com/track/0sKerGQuXqWR505d25aIDT) | [David La Sol](https://open.spotify.com/artist/3ycDTcpGEHZpTDJeniyJ62) | [Magkasalungat](https://open.spotify.com/album/5fldRn3p12GzDIygnWoHLI) | 2:48 | 2024-04-03 | 2024-04-19 |
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2024-06-05 | 2025-02-13 |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2023-10-18 | 2026-05-29 |
+| [Mahiyain](https://open.spotify.com/track/2FCyRttdyhPkXclineRZjx) | [Sassa Gurl](https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d) | [Mahiyain](https://open.spotify.com/album/3v7orZPuXkdekfVWbCdMMu) | 2:41 | 2026-06-15 |  |
 | [Makaluma](https://open.spotify.com/track/4DbxowBVFjO0MYLVuggLxp) | [Wilbert Ross](https://open.spotify.com/artist/6bVVssXSh08il9SKx18XOA) | [Makaluma](https://open.spotify.com/album/33S8LzhLap877vvSsRoevj) | 3:46 | 2025-03-20 | 2025-04-17 |
 | [Makapiling Ka](https://open.spotify.com/track/3u7UxgPU03AwifvvRSqU8o) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Makapiling Ka](https://open.spotify.com/album/0wEl5PXsv68VCCwGXQJiKh) | 4:41 | 2026-02-03 | 2026-02-12 |
 | [Make It With You](https://open.spotify.com/track/6t4CmQGucLORsKZF4M6NNC) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/2EdiYNKRhGH5dbm93PpA4p) | 3:29 | 2023-10-18 | 2024-04-19 |
@@ -333,8 +335,8 @@
 | [Pangalawang Ulan](https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO) | [brando bal](https://open.spotify.com/artist/5PEsNoUzsAqT1INR1N4HY0) | [Pangalawang Ulan](https://open.spotify.com/album/2Zz2esghd8bhZZ4lMqn4zH) | 5:23 | 2024-05-08 | 2024-05-16 |
 | [Panindigan](https://open.spotify.com/track/12hfbDgrWNSkyUrRxdmNo5) | [LEMMY](https://open.spotify.com/artist/61CVEXyjQwkVEDCXsk045l) | [Lu](https://open.spotify.com/album/7thHAH9ci4JVDmQzeGjYgV) | 3:20 | 2025-02-19 | 2025-03-19 |
 | [Paniwalaan](https://open.spotify.com/track/3IAiANECnJXbojMlUvDaco) | [LEYO](https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg) | [Paniwalaan](https://open.spotify.com/album/4UPXrnoHel030dAdJaYp3o) | 3:19 | 2025-09-11 | 2025-10-04 |
-| [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2023-10-18 |  |
-| [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2026-03-18 |  |
+| [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2023-10-18 | 2026-06-16 |
+| [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2026-03-18 | 2026-06-16 |
 | [pano tayo \(?\)](https://open.spotify.com/track/1qMLxOAzVNEqA6ibD4BHXW) | [Zach x Zeph](https://open.spotify.com/artist/4CYeHT9n7RrHjp3SGS455I) | [pano tayo \(?\)](https://open.spotify.com/album/5M9rV3VTkXYt1ErBFpHMZ2) | 4:09 | 2025-12-08 | 2026-01-20 |
 | [Pansamantala](https://open.spotify.com/track/5OIfVsyqjgYvZty3rpkln0) | [Lags](https://open.spotify.com/artist/6HrM9bQKCjFM0o0nXw4rGt) | [Pansamantala](https://open.spotify.com/album/4x8U0rAG7QUFoxgWVPt6YL) | 4:23 | 2026-02-24 | 2026-03-10 |
 | [Pantasya](https://open.spotify.com/track/2LMb2eM0ofNfAmqjj2Z2Xy) | [Marion Talavera](https://open.spotify.com/artist/4sKYcezEK11EMLONEhInb0) | [Pantasya](https://open.spotify.com/album/2sBh8DlPH5AJoU6sHCUnSv) | 3:18 | 2025-02-19 | 2025-03-19 |
@@ -364,10 +366,12 @@
 | [Pulso](https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pulso](https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz) | 4:29 | 2024-04-17 | 2024-07-11 |
 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-10 | 2024-07-25 |
 | [Puso](https://open.spotify.com/track/23GZMUl9aJvSmb2QpBS55j) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Puso](https://open.spotify.com/album/1W3PCcGjOgI58R6r9sYZbx) | 5:02 | 2025-05-09 | 2025-05-22 |
+| [Puwang](https://open.spotify.com/track/7kZaGE8w0Zz4wiXGRt6TFg) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Puwang](https://open.spotify.com/album/2q0OwPDDpeorimjsfcV5ZI) | 3:10 | 2026-06-15 |  |
+| [Pwede Bang Tayo Nalang?](https://open.spotify.com/track/218UNO7YUViTZyz1Tt46b9) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Pwede Bang Tayo Nalang?](https://open.spotify.com/album/0yXfHQkG64LyiNIMOhCKCA) | 4:49 | 2026-06-15 |  |
 | [Pwede Ka Ba?](https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy) | [Frank Ely](https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0) | [Pwede Ka Ba?](https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf) | 4:58 | 2026-02-03 | 2026-02-12 |
 | [Pwede pa ba akong magmahal](https://open.spotify.com/track/7AZ98Ffoev3GiQH7WXhHbS) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Pwede pa ba akong magmahal](https://open.spotify.com/album/1ekVvCTjNwIs3TcFFAZl7H) | 3:42 | 2025-02-26 | 2025-03-01 |
 | [Quiapo](https://open.spotify.com/track/6WT7iCf57Y4qMwzWB6AZT0) | [Bita and the Botflies](https://open.spotify.com/artist/6wQbHETCxSB5DY6ujtAeZ3) | [Quiapo](https://open.spotify.com/album/53LMIOKGPNX0qNB87xbIdG) | 4:42 | 2025-11-17 | 2025-11-25 |
-| [Randomantic](https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Reid Alert](https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9) | 4:04 | 2024-08-12 |  |
+| [Randomantic](https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Reid Alert](https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9) | 4:04 | 2024-08-12 | 2026-06-16 |
 | [RARARA](https://open.spotify.com/track/29LpgyzY0QsvhsNO6XXQ6c) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [RARARA](https://open.spotify.com/album/6OqJxk4hjts59iSTpRPg35) | 3:46 | 2025-09-12 | 2025-10-04 |
 | [Reyna Ng Quezon City](https://open.spotify.com/track/6x5iYjQE42FToFSUmcOvdw) | [Juana](https://open.spotify.com/artist/51v81eaY4bPSzGTYjG9SlS) | [Misbehavior](https://open.spotify.com/album/2nWGeo91pWDhwzS3BKgDUS) | 2:43 | 2025-11-07 | 2025-11-18 |
 | [Richest Man Alive](https://open.spotify.com/track/2ryDLznKOALt5tBrJznBXv) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Richest Man Alive](https://open.spotify.com/album/68rmFBaOjglMNs6ETCllaq) | 2:29 | 2026-06-03 | 2026-06-13 |

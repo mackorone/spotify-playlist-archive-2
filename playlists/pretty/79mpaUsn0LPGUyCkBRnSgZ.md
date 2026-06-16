@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 729 songs - 1 day 22 hr 54 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 730 songs - 1 day 22 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -736,6 +736,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 726 | [Ghost of Love](https://open.spotify.com/track/4Zv3AQWJwO769KBlPkExym) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:35 |
 | 727 | [Icarus](https://open.spotify.com/track/66BoVWjtxH7RZRLLvQUnaq) | [Adeline](https://open.spotify.com/artist/2MUW8E2Dy6sWwo07cfWBzQ) | [Good TV](https://open.spotify.com/album/0DOKzE7LbAyYqTAyWq9qUF) | 4:03 |
 | 728 | [Blackberry Marmalade](https://open.spotify.com/track/2QOTLNlbpsTJq074uw3yLY) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cry Baby](https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs) | 3:52 |
-| 729 | [The Garden Prelude](https://open.spotify.com/track/6YvNYOrGKPWKlUPpkruhRY) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 0:48 |
+| 729 | [Keep Me on Your Mind](https://open.spotify.com/track/7DYIFyeJ7hHxns755Z8WgU) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:17 |
+| 730 | [The Garden Prelude](https://open.spotify.com/track/6YvNYOrGKPWKlUPpkruhRY) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 0:48 |
 
-Snapshot ID: `AAAJJCSZ4ZgYq+FuSLYlmzuuNK/9iM/T`
+Snapshot ID: `AAAJJrnw9gOjsA5nnHtSA3SlSBhZyXYA`

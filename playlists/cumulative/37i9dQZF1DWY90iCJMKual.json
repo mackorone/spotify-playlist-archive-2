@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "PH vibin' cover: Jason Dhakal",
+  "description": "PH vibin' cover: Illest Morena",
   "name": "Pinas Vibes ",
   "tracks": [
     {
@@ -798,6 +798,24 @@
       "duration_ms": 150588,
       "name": "Baby U R",
       "url": "https://open.spotify.com/track/4pIupUwcZDY0jVIi6P6dBj"
+    },
+    {
+      "album": {
+        "name": "baby wag",
+        "url": "https://open.spotify.com/album/3T3Jg0flkHf4AKNUpRqASx"
+      },
+      "artists": [
+        {
+          "name": "Bad Indie Eye",
+          "url": "https://open.spotify.com/artist/1RnlvFVGPfQd9UxuI6RUQy"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177062,
+      "name": "baby wag",
+      "url": "https://open.spotify.com/track/6qb70sJZKVKyl98JheYIki"
     },
     {
       "album": {
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 225057,
       "name": "DI KA TINATAGO",
       "url": "https://open.spotify.com/track/47x7PUKNetyiUpuBn1CmgO"
@@ -1980,6 +1998,24 @@
       "duration_ms": 231864,
       "name": "Di Na Babalik",
       "url": "https://open.spotify.com/track/0Gt84LW4Ec1ptxIQiIJY3N"
+    },
+    {
+      "album": {
+        "name": "DI NA PARA",
+        "url": "https://open.spotify.com/album/2NgWAeUQaLnQJqLxnwPX7w"
+      },
+      "artists": [
+        {
+          "name": "Jemay Santiago",
+          "url": "https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "DI NA PARA",
+      "url": "https://open.spotify.com/track/2n1544Otlduh3md9QKUrtm"
     },
     {
       "album": {
@@ -3747,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "i dont wanna wake you up",
+        "url": "https://open.spotify.com/album/1DoFdcWduJXCGeeM5nXHHU"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137708,
+      "name": "i dont wanna wake you up",
+      "url": "https://open.spotify.com/track/5oSrZx9sIiZfOpqRbWcDhT"
+    },
+    {
+      "album": {
         "name": "I KNOW",
         "url": "https://open.spotify.com/album/0ddEA0jRvZ6loXGKlf5tjW"
       },
@@ -3860,7 +3914,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 235161,
       "name": "IBALING",
       "url": "https://open.spotify.com/track/6vzk7Rdwo5LLgCtdUsxZJk"
@@ -6826,7 +6880,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 156071,
       "name": "PANAGINIP",
       "url": "https://open.spotify.com/track/5aKyHmvni2YWNDVokGAeX7"
@@ -7915,6 +7969,24 @@
     },
     {
       "album": {
+        "name": "Save Our Love",
+        "url": "https://open.spotify.com/album/2HuFrYNh6j9pVo7Nyiahjd"
+      },
+      "artists": [
+        {
+          "name": "S3AN",
+          "url": "https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160935,
+      "name": "Save Our Love",
+      "url": "https://open.spotify.com/track/46zkArRxszr5jpq3Q2ziQq"
+    },
+    {
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH"
       },
@@ -8534,7 +8606,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 190909,
       "name": "Still_In_My_Room",
       "url": "https://open.spotify.com/track/0TwqT9S8k5aow0krEaWemc"
@@ -8798,7 +8870,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 180553,
       "name": "Tala",
       "url": "https://open.spotify.com/track/1lbEW7rMG6XvgooWHPEAll"
@@ -9414,7 +9486,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 182287,
       "name": "Underneath It All",
       "url": "https://open.spotify.com/track/7IHznKwrp6qSglAjnFE8Rz"

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,298 songs - 4 day 23 hr 13 min
+2,299 songs - 4 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,7 +816,7 @@
 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 | 2021-12-16 | 2022-03-10 |
 | [Hazy Eyes](https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Hazy Eyes](https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc) | 3:10 | 2025-11-13 | 2026-03-20 |
 | [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 | 2024-01-26 |
-| [Headline](https://open.spotify.com/track/2DWBlKb2mIAkWh6mcO2vzM) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Headline](https://open.spotify.com/album/3Ni9i98siKghg0FR68BbtV) | 2:32 | 2026-05-21 |  |
+| [Headline](https://open.spotify.com/track/2DWBlKb2mIAkWh6mcO2vzM) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Headline](https://open.spotify.com/album/3Ni9i98siKghg0FR68BbtV) | 2:32 | 2026-05-21 | 2026-06-16 |
 | [Hear Me Out](https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy) | [San Sebastian](https://open.spotify.com/artist/3i5CinvLDgkzioyuI1oa1E) | [Hear Me Out](https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa) | 3:04 | 2024-06-13 | 2024-08-16 |
 | [Heart Full of Ghosts](https://open.spotify.com/track/79ckLAB8lpUqG508kAr1hV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Mementos](https://open.spotify.com/album/5pVtLU7A9EufwffUMIFoDT) | 3:09 | 2024-11-14 | 2024-11-22 |
 | [Heartbeat](https://open.spotify.com/track/7GK7HWp2xsLkVGU2apwFan) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Heartbeat](https://open.spotify.com/album/7hmdO5DOqskwVbiLPs2YGV) | 4:02 | 2024-06-13 | 2024-08-16 |
@@ -1846,6 +1846,7 @@
 | [Stilla](https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj) | [Dag Tolstoy](https://open.spotify.com/artist/3pqmSK0CTIQ5RGfGLm2d9y) | [Stilla](https://open.spotify.com/album/4O3mvAJiHJU0oBP35n3q8x) | 2:47 | 2022-06-16 | 2022-09-21 |
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-07 | 2024-06-14 |
 | [Stockholm](https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Stockholm](https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8) | 2:46 | 2024-08-22 | 2025-01-12 |
+| [Stockholm](https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Stockholm](https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj) | 3:21 | 2026-06-15 |  |
 | [Stockholm City](https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Stockholm City](https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L) | 2:40 | 2025-04-17 | 2025-09-05 |
 | [Stockholm i natt](https://open.spotify.com/track/57TT1KRWDS35o1M9kiw4Jf) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Stockholm i natt](https://open.spotify.com/album/1DRbmA5XjnBuTrN6sPcrDx) | 3:32 | 2021-12-16 | 2022-04-02 |
 | [Stockholm lämnar sår \- REMAZE Remix](https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [REMAZE](https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB) | [Stockholm lämnar sår \(REMAZE Remix\)](https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf) | 3:30 | 2023-11-23 | 2024-02-09 |

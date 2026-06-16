@@ -1,8 +1,44 @@
 {
   "date_first_scraped": "2024-11-14",
-  "description": "La playlist ufficiale del rap show di Netflix, la nuova stagione \u00e8 uscita.",
+  "description": "La playlist ufficiale del rap show di Netflix, la nuova stagione \u00e8 in arrivo.",
   "name": "Nuova Scena Official Playlist",
   "tracks": [
+    {
+      "album": {
+        "name": "Pixel",
+        "url": "https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138453,
+      "name": "091",
+      "url": "https://open.spotify.com/track/6trWiRLAVJrMIeIGabayto"
+    },
+    {
+      "album": {
+        "name": "Re Mida (Piano Solo)",
+        "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199852,
+      "name": "24H (Piano Solo)",
+      "url": "https://open.spotify.com/track/50ex66hfcDLKkBHV88ZO93"
+    },
     {
       "album": {
         "name": "V",
@@ -24,7 +60,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 215373,
       "name": "4:20 (feat. Gemitaiz & Madman)",
       "url": "https://open.spotify.com/track/0si5nZXflDcqOPradvvHCa"
@@ -75,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184803,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc"
+    },
+    {
+      "album": {
         "name": "Filtri",
         "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
       },
@@ -90,7 +144,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 175122,
       "name": "Amore Toxic (feat. Random)",
       "url": "https://open.spotify.com/track/5ngGfq9wGoZ0AhRgxDmEdq"
@@ -192,7 +246,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 175304,
       "name": "BABYDOLL (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/5QAp93p5PbN056L26szJKI"
@@ -268,7 +322,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 516786,
       "name": "Battle Royale",
       "url": "https://open.spotify.com/track/2Dy8UvEAQSzHUivMvPR7hx"
@@ -290,10 +344,28 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 146400,
       "name": "BENVENUTI IN CALABRIA (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/50WyKvHTwuxHvXCIla9Ekq"
+    },
+    {
+      "album": {
+        "name": "Big Panorama",
+        "url": "https://open.spotify.com/album/4Pcpa6u8EH2bAzboGbcIfK"
+      },
+      "artists": [
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156875,
+      "name": "Big Panorama",
+      "url": "https://open.spotify.com/track/3K7z0fSlSRxrdFPqavdaKC"
     },
     {
       "album": {
@@ -320,6 +392,24 @@
       "duration_ms": 153053,
       "name": "bop (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/1T4VPFAMqougBy1JqOLYln"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189642,
+      "name": "BUIO DAVANTI",
+      "url": "https://open.spotify.com/track/5MJc4IVIt17xEt6angtZcq"
     },
     {
       "album": {
@@ -360,10 +450,36 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 180000,
       "name": "CARIOCA (feat. Slings & Random)",
       "url": "https://open.spotify.com/track/6ZF9vZTKJ76EmoqSA38NkR"
+    },
+    {
+      "album": {
+        "name": "Re Mida (Piano Solo)",
+        "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Catrame (Piano Solo) [feat. Elodie & Tedua]",
+      "url": "https://open.spotify.com/track/4pDkYM6khFgQTqS8V0RNBB"
     },
     {
       "album": {
@@ -394,10 +510,28 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 142666,
       "name": "Cemento",
       "url": "https://open.spotify.com/track/6PLNbmHieqtpPOvsIyPlFf"
+    },
+    {
+      "album": {
+        "name": "LOCURA",
+        "url": "https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218848,
+      "name": "CERTE COSE",
+      "url": "https://open.spotify.com/track/6dXMNTe1ztrLn3Ej1ZR7Ha"
     },
     {
       "album": {
@@ -460,6 +594,24 @@
       "duration_ms": 225561,
       "name": "CLICK BOOM!",
       "url": "https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU"
+    },
+    {
+      "album": {
+        "name": "Solito posto, Soliti guai",
+        "url": "https://open.spotify.com/album/5W3Hncs2OSDnUvskhjPbg9"
+      },
+      "artists": [
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184273,
+      "name": "Come fossi andato via",
+      "url": "https://open.spotify.com/track/1ckjZJMTUud7aPQ4FsR7Ci"
     },
     {
       "album": {
@@ -588,6 +740,24 @@
       "duration_ms": 192560,
       "name": "Demo Nello Stereo",
       "url": "https://open.spotify.com/track/7zMWPYqky1LBAmchavCAZI"
+    },
+    {
+      "album": {
+        "name": "Re Mida (Piano Solo)",
+        "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168416,
+      "name": "Desperado (Piano Solo)",
+      "url": "https://open.spotify.com/track/5iwg1Nvm4IRbekBQOmmJjg"
     },
     {
       "album": {
@@ -836,7 +1006,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 205649,
       "name": "Grazie ma no grazie",
       "url": "https://open.spotify.com/track/4Ac0hRIX2ygtdag4E9mXh0"
@@ -862,6 +1032,24 @@
       "duration_ms": 200080,
       "name": "Guasto D'Amore",
       "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0xDVS2VYlF5I16H8kQ7FwY"
+      },
+      "artists": [
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169473,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7oEFfGNfbiHusPpnakn3xC"
     },
     {
       "album": {
@@ -935,6 +1123,78 @@
     },
     {
       "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281333,
+      "name": "In Linea",
+      "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
+    },
+    {
+      "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160021,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "L'ultimo a Cadere",
+      "url": "https://open.spotify.com/track/35A3dpuq0OoT0XLtEDCCJG"
+    },
+    {
+      "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
+    },
+    {
+      "album": {
         "name": "Gemelli (ascendente Milano)",
         "url": "https://open.spotify.com/album/5bIm3XT2nJAdPvTLsBlk8g"
       },
@@ -946,7 +1206,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 173877,
       "name": "La Prima Volta",
       "url": "https://open.spotify.com/track/3Tfl0pfnK589LKD0vJmgCZ"
@@ -982,10 +1242,28 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 164211,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
+    },
+    {
+      "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Lo Spirito Della Dopa",
+      "url": "https://open.spotify.com/track/0O7i5YWDGukEbmgKY6Ev9j"
     },
     {
       "album": {
@@ -1048,7 +1326,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 152000,
       "name": "L\u2019ego (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/5qkvEFyyBShsZWBUixMvam"
@@ -1110,7 +1388,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 134340,
       "name": "MICA IO (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/6OLVqqm88TFiX5TABQspL0"
@@ -1139,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Re Mida (Piano Solo)",
+        "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160374,
+      "name": "Morto Mai (Piano Solo)",
+      "url": "https://open.spotify.com/track/4hZAxSYVhaiFousCQM8LFc"
+    },
+    {
+      "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
       },
@@ -1154,7 +1450,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 185016,
       "name": "Nemico (feat. Ernia)",
       "url": "https://open.spotify.com/track/5FvsnJflCxiroIDIO31VIF"
@@ -1179,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Re Mida (Piano Solo)",
+        "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157286,
+      "name": "Netflix (Piano Solo)",
+      "url": "https://open.spotify.com/track/4ZYcJEZknmyeH7w7yceXxn"
+    },
+    {
+      "album": {
         "name": "NETWORK (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/41H0aPdgys8OVwQK1Bg3gF"
       },
@@ -1194,7 +1508,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 130666,
       "name": "NETWORK (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/28polmoNjO1dvYiUfFxN43"
@@ -1234,7 +1548,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 181661,
       "name": "Non Abbiamo Et\u00e0",
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
@@ -1256,7 +1570,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 223919,
       "name": "Non Se Ne Parla",
       "url": "https://open.spotify.com/track/7dA7qMQV4caWYXF9GSrVjk"
@@ -1300,7 +1614,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 158270,
       "name": "NUOVA VITA (From the Netflix Rap Show \u201cNuova Scena\u201d) - CamilWay",
       "url": "https://open.spotify.com/track/6z7ZAvaPkpkRuwjhWyn14G"
@@ -1326,6 +1640,24 @@
       "duration_ms": 168240,
       "name": "Oh Mamma Mia (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"
+    },
+    {
+      "album": {
+        "name": "Globo",
+        "url": "https://open.spotify.com/album/1a20TRiV239oyveyPVEBR7"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159662,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/5qCzZaX7YHwXud2U32TZJu"
     },
     {
       "album": {
@@ -1362,7 +1694,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 198520,
       "name": "Ottima Scusa",
       "url": "https://open.spotify.com/track/0XhdO6hPMLByA0nk8HAiGN"
@@ -1384,6 +1716,42 @@
       "duration_ms": 172862,
       "name": "OUV3RTURE",
       "url": "https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t"
+    },
+    {
+      "album": {
+        "name": "Re Mida (Piano Solo)",
+        "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "Ouver2re (Piano Solo)",
+      "url": "https://open.spotify.com/track/4uuov8P8Dbt3rJOGxIAWiW"
+    },
+    {
+      "album": {
+        "name": "Paganini",
+        "url": "https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "Paganini",
+      "url": "https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0"
     },
     {
       "album": {
@@ -1446,7 +1814,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 196551,
       "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc"
@@ -1472,7 +1840,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 159200,
       "name": "PEZZI DA 100 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k"
@@ -1490,7 +1858,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 174000,
       "name": "Phi",
       "url": "https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY"
@@ -1548,6 +1916,24 @@
       "duration_ms": 227573,
       "name": "Rap in vena",
       "url": "https://open.spotify.com/track/2i2zlcw92p4WHFkbY2qKjl"
+    },
+    {
+      "album": {
+        "name": "Re Mida (Piano Solo)",
+        "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161374,
+      "name": "Re Mida (Piano Solo)",
+      "url": "https://open.spotify.com/track/5OjQ6ltr3jepBI1t9efVIM"
     },
     {
       "album": {
@@ -1642,7 +2028,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 132578,
       "name": "SEDICENNE INCINTA (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/0cdHN2xOVKzyMnEC3S7Q28"
@@ -1664,7 +2050,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 138240,
       "name": "Sexting (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/3CrXZGiIvYNHnlijI0qz6H"
@@ -1734,7 +2120,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 211660,
       "name": "SOLITE PARE (feat. thasup & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj"
@@ -1756,7 +2142,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 171375,
       "name": "Stamm Fort (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
@@ -1796,7 +2182,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 176343,
       "name": "Straniero (feat. Tedua)",
       "url": "https://open.spotify.com/track/4nKyIs9RnHzRJSyM5x7BEU"
@@ -1818,10 +2204,28 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "album": {
+        "name": "Re Mida (Piano Solo)",
+        "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Superman (Piano Solo)",
+      "url": "https://open.spotify.com/track/3ccghHgxcnyYq04yWtfD3T"
     },
     {
       "album": {
@@ -1840,7 +2244,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 185759,
       "name": "Terr1 (feat. Geolier)",
       "url": "https://open.spotify.com/track/6ugkgVN1IE83oz4flojGiw"
@@ -1858,7 +2262,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 136118,
       "name": "Toradol",
       "url": "https://open.spotify.com/track/3Rmv3h4ovgt9xVgWOfMlLx"
@@ -1966,7 +2370,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 151835,
       "name": "TUTTO A POSTO (From the Netflix Rap Show \u201cNuova Scena\u201d) - Live",
       "url": "https://open.spotify.com/track/5YZEHwsOGXQZo7IrPhqJam"
@@ -1988,7 +2392,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 205125,
       "name": "Veleno 6",
       "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
@@ -2066,7 +2470,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 156471,
       "name": "WE GOT IT (From the Netflix Rap Show \u201cNuova Scena\u201d) - Live",
       "url": "https://open.spotify.com/track/011YjJ0LFDtAl7OahUAUfD"
@@ -2088,7 +2492,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 109500,
       "name": "Zig Zag (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/0dZIit1w1ke7tCto0J2gma"
@@ -2110,7 +2514,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 150461,
       "name": "Zin Zin (From the Netflix Rap Show \u201cNuova Scena\u201d)",
       "url": "https://open.spotify.com/track/3QpfAGCWS5owDwtTzTQzlj"

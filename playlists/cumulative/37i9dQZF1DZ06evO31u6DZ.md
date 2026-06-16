@@ -4,14 +4,14 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-146 songs - 8 hr 23 min
+147 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ali for Cody](https://open.spotify.com/track/3Kxe8sGeC2fOSccZ2y6yy3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 4:02 | 2026-02-22 | 2026-03-08 |
 | [All the Best Cowboys Have Daddy Issues](https://open.spotify.com/track/11oio61wuQD1WZafQwgexO) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5) | 4:05 | 2023-12-13 |  |
 | [All the Best Cowboys Have Daddy Issues](https://open.spotify.com/track/6N4aWCy7FKUMoTGQAGNP1V) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 4:05 | 2023-05-09 | 2023-06-04 |
-| [Bastard Son](https://open.spotify.com/track/0iH6Xnuwci2ZYl1GuQlt1I) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Bastard Son](https://open.spotify.com/album/3vuiZU1CvGECwf3jtuGq7a) | 3:58 | 2026-05-10 |  |
+| [Bastard Son](https://open.spotify.com/track/0iH6Xnuwci2ZYl1GuQlt1I) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Bastard Son](https://open.spotify.com/album/3vuiZU1CvGECwf3jtuGq7a) | 3:58 | 2026-05-10 | 2026-06-16 |
 | [Bastard Son \- Re\-Imagined](https://open.spotify.com/track/2VTe3W1ZefaQdndjT8S7D2) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From the Depths of Dreams](https://open.spotify.com/album/6CjpSH4cfBIAYdA74RM1rQ) | 4:00 | 2023-07-29 | 2023-08-14 |
 | [Between the Mountains and the Sea](https://open.spotify.com/track/5x95e85zuMCIFWezlxCnHs) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 4:53 | 2022-10-25 | 2023-12-14 |
 | [Between the Mountains and the Sea](https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 4:53 | 2023-12-13 |  |
@@ -81,6 +81,7 @@
 | [Institutionalized](https://open.spotify.com/track/7onCRN2Y3up2FNeGUnEoDd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You \(Deluxe Edition\)](https://open.spotify.com/album/6Blw6RRPD0RAjpYsa0CMFd) | 3:49 | 2022-10-25 | 2023-12-14 |
 | [Irish Eyes](https://open.spotify.com/track/3nR1b4NiDKObsirgxGaVqE) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:23 | 2026-05-13 | 2026-05-27 |
 | [Irony of Dying on Your Birthday](https://open.spotify.com/track/6lp6WbAKL6P94ucTRgwAgg) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1) | 2:59 | 2025-03-02 | 2025-08-29 |
+| [Is It Gonna Be the Year?](https://open.spotify.com/track/3YIrIlOQnrxzIaHeABoECU) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 4:01 | 2026-06-16 |  |
 | [Lady in a Blue Dress](https://open.spotify.com/track/2v63SstROhGSQ2z8EYOyAR) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 3:18 | 2022-10-25 | 2023-12-14 |
 | [Lady in a Blue Dress](https://open.spotify.com/track/7f2ZnUSNRRaj1pVMmG0Vtm) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1) | 3:18 | 2023-12-13 |  |
 | [Lady in a Blue Dress](https://open.spotify.com/track/4ISxrOmpbJHFnY9s5qjZNq) | [Sparrow Sleeps](https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Lullaby covers of Senses Fail and Saves the Day songs](https://open.spotify.com/album/0SBZvGXx9SD4pYEby5N7ai) | 5:13 | 2025-11-02 |  |

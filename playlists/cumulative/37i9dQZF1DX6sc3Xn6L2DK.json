@@ -3899,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "Year of the Horse",
+        "url": "https://open.spotify.com/album/57RVZ6TnVLVNK5FxOvw2Am"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256523,
+      "name": "Year of the Horse",
+      "url": "https://open.spotify.com/track/4WJV42FGtNRS2epH9lQS8Q"
+    },
+    {
+      "album": {
         "name": "You've Got Other Girls for That",
         "url": "https://open.spotify.com/album/0SwMHWz5Av4WNhffxJwPgQ"
       },

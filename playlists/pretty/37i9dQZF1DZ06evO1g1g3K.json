@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7300,
+  "num_followers": 7304,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAAA3J0WAEstDVZjMUge1gYeT",
+  "snapshot_id": "ai3vAAAAAAB/hp4Pnks75VbSOhz0bMIR",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 189625,
-      "name": "RIVER",
-      "url": "https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR"
+      "duration_ms": 247729,
+      "name": "EFFORT.",
+      "url": "https://open.spotify.com/track/2eK5ODmsvglPGZJlPoIm5Y"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 247729,
-      "name": "EFFORT.",
-      "url": "https://open.spotify.com/track/2eK5ODmsvglPGZJlPoIm5Y"
+      "duration_ms": 189625,
+      "name": "RIVER",
+      "url": "https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR"
     },
     {
       "added_at": null,
@@ -627,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
         }
       ],
-      "duration_ms": 239815,
-      "name": "H.I. (feat. Devin Tracy)",
-      "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+      "duration_ms": 239815,
+      "name": "H.I. (feat. Devin Tracy)",
+      "url": "https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
       "duration_ms": 213000,
       "name": "Relocate",
       "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Metta",
-          "url": "https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "Lil Bit (feat. METTA)",
-      "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 291053,
       "name": "Bump The Man - Live",
       "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Metta",
+          "url": "https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix"
+        }
+      ],
+      "duration_ms": 222173,
+      "name": "Lil Bit (feat. METTA)",
+      "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
     },
     {
       "added_at": null,

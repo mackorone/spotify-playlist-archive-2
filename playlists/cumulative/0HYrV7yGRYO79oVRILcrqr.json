@@ -3361,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Future #1 (2026 Remix)",
+        "url": "https://open.spotify.com/album/1QshWiDT9xENuvx0yyeVYa"
+      },
+      "artists": [
+        {
+          "name": "Space of a Day",
+          "url": "https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201841,
+      "name": "Future #1 - 2026 Remix",
+      "url": "https://open.spotify.com/track/2koZXrV4sFHisAwTR36H6s"
+    },
+    {
+      "album": {
         "name": "Blick nach vorn",
         "url": "https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0"
       },

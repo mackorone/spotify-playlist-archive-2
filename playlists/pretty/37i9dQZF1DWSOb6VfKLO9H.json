@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 109408,
+  "num_followers": 109414,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         }
       ],
-      "duration_ms": 225737,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/2Y63yg1Lgdp96IoiZIvjKz"
+      "duration_ms": 162894,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -127,18 +123,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Dream Girl",
-        "url": "https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p"
+        "name": "Goed Teken",
+        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
       },
       "artists": [
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
         }
       ],
-      "duration_ms": 162894,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP"
+      "duration_ms": 225737,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/2Y63yg1Lgdp96IoiZIvjKz"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -655,6 +655,34 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Hij Is Van Mij (feat. Bizzey)",
+        "url": "https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "duration_ms": 214387,
+      "name": "Hij Is Van Mij (feat. Bizzey)",
+      "url": "https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Lituatie",
         "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
       },
@@ -683,34 +711,6 @@
       "duration_ms": 164900,
       "name": "Dansen Op Labanta",
       "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hij Is Van Mij (feat. Bizzey)",
-        "url": "https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        },
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        }
-      ],
-      "duration_ms": 214387,
-      "name": "Hij Is Van Mij (feat. Bizzey)",
-      "url": "https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gimma",
         "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 148428,
       "name": "Waarom Zoeken Naar Liefde",
       "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Boot",
-        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
-      },
-      "artists": [
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Boot",
-      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Geisha EP",
-        "url": "https://open.spotify.com/album/5TxKh9tiVmbmM5fnqvpbBE"
-      },
-      "artists": [
-        {
-          "name": "I am Aisha",
-          "url": "https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf"
-        },
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
-        }
-      ],
-      "duration_ms": 178897,
-      "name": "Zulke Dingen Doe Je",
-      "url": "https://open.spotify.com/track/5YQOSocjiojsG8inUrXQj1"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 184400,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Geisha EP",
+        "url": "https://open.spotify.com/album/5TxKh9tiVmbmM5fnqvpbBE"
+      },
+      "artists": [
+        {
+          "name": "I am Aisha",
+          "url": "https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf"
+        },
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        }
+      ],
+      "duration_ms": 178897,
+      "name": "Zulke Dingen Doe Je",
+      "url": "https://open.spotify.com/track/5YQOSocjiojsG8inUrXQj1"
     },
     {
       "added_at": "2024-07-19 06:38:33",

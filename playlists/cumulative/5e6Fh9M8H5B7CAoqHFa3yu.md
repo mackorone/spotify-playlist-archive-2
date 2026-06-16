@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,315 songs - 5 day 16 hr 48 min
+2,317 songs - 5 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [Happy New Year](https://open.spotify.com/track/0WOL8krAstMsQYhGL9N2Bj) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:21 | 2025-12-19 |  |
 | [Hard to Resist](https://open.spotify.com/track/4kjUJWIIp1IESgLmW2w7M1) | [Diego Rion](https://open.spotify.com/artist/5sw7gnTAJs23QbxSO0fw35) | [Hard to Resist](https://open.spotify.com/album/34BBwdPh7eO1SjIlgtQXnN) | 3:43 | 2025-09-05 |  |
 | [HARDCORE](https://open.spotify.com/track/0C91LleSYCZtvs25GGkGbN) | [Cani Bastardi](https://open.spotify.com/artist/2OtqOFGl8fFvaNdVoOI2GE) | [HARDCORE](https://open.spotify.com/album/0wB9UawPJSiN4xWzHYm79h) | 2:45 | 2024-06-24 |  |
+| [Harness Your Hopes](https://open.spotify.com/track/2Otn5oxyBmqvOSWQCgqrNa) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 2:15 | 2026-06-15 |  |
 | [Hasta el Más Allá](https://open.spotify.com/track/3gSDO1m8SzYqFImINjHrFe) | [KOT3](https://open.spotify.com/artist/7DqmUSavZkieKNaHxVSaCM) | [Hasta el Más Allá](https://open.spotify.com/album/2wxFNeFCKuXgmFeWUcyhnZ) | 2:53 | 2026-05-19 |  |
 | [Have I Finally Gone Insane](https://open.spotify.com/track/35mqV0lFpYxBfneC07cTqi) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:04 | 2025-07-02 |  |
 | [Hawaii](https://open.spotify.com/track/1GF0C543lkF0gTuLrCrSSO) | [Alan](https://open.spotify.com/artist/4pCnnAarSOFMmTPeVlEEHC) | [Hawaii](https://open.spotify.com/album/2tmpTDmeKCoIUpvVNZXDLW) | 3:37 | 2024-06-19 |  |
@@ -1805,6 +1806,7 @@
 | [Sleepless](https://open.spotify.com/track/73rXOHpBcGCPbY6hKETvBD) | [Woendzi](https://open.spotify.com/artist/0w9WB3GylPavLzSl78Wl4r) | [Sleepless](https://open.spotify.com/album/0N1E9ekYWFOiE6HV747vF0) | 5:00 | 2025-07-13 |  |
 | [Slipping Away](https://open.spotify.com/track/4w6vZbPYs0nIzA84Vu041d) | [Adam Briscoe](https://open.spotify.com/artist/3CcEHcp22NtPVNDeR80z2y) | [Slipping Away](https://open.spotify.com/album/4RysAhFglAR4ZeZQGsCkPD) | 3:04 | 2025-12-14 |  |
 | [Slow Motion](https://open.spotify.com/track/3sMEKIvwYzIwx2jYjR8arx) | [Solar Twin](https://open.spotify.com/artist/50Ekd3KAzVMWwInjY87Gaj) | [Pink Noise](https://open.spotify.com/album/5J06ZzjwMI5FUOiWaaTgux) | 3:01 | 2025-07-02 |  |
+| [Slow whine](https://open.spotify.com/track/4gOppN4JCefB2cpDtMqxV1) | [80won](https://open.spotify.com/artist/2nFYBEeJwCKg9EKrAO9q1g) | [Slow whine](https://open.spotify.com/album/5UGgt0SHtTXycuL4kr4TSe) | 3:06 | 2026-06-15 |  |
 | [Snake Attack Dub](https://open.spotify.com/track/47zy5LaINRR7YvsDI7YOOY) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:10 | 2024-05-01 |  |
 | [Snow](https://open.spotify.com/track/3SrlN6K8GZubq1ochg096u) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Snow](https://open.spotify.com/album/4eparkfh4pb1mJN3KDMfyz) | 2:59 | 2024-03-17 |  |
 | [Snowlight Flow](https://open.spotify.com/track/47GPahCpswn679KovNsndp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 2:53 | 2025-12-19 |  |

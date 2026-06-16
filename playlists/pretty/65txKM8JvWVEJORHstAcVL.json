@@ -1,13 +1,53 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 30772,
-  "original_name": "LA LLISTA DE FLAIXBAC (7/06/2026)",
+  "num_followers": 30774,
+  "original_name": "LA LLISTA DE FLAIXBAC (14/06/2026)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AABCs5AJm5A08IOJPtWObGVRP1nqDehO",
+  "snapshot_id": "AABC1ks4pWiyV3JvNUCrqJ4ZQwFBx2OM",
   "tracks": [
+    {
+      "added_at": "2026-03-31 07:59:38",
+      "album": {
+        "name": "Dorayakis",
+        "url": "https://open.spotify.com/album/0ngTIQsDW6zPMOe31utsMA"
+      },
+      "artists": [
+        {
+          "name": "Flashy Ice Cream",
+          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
+        },
+        {
+          "name": "31 FAM",
+          "url": "https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Dorayakis",
+      "url": "https://open.spotify.com/track/531muL88wgzZPwqRD4eXmJ"
+    },
+    {
+      "added_at": "2026-03-31 07:59:05",
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
+    },
     {
       "added_at": "2026-03-23 11:33:15",
       "album": {
@@ -33,46 +73,6 @@
       "url": "https://open.spotify.com/track/6jGPtl4cmJc9ee2S5KtjWF"
     },
     {
-      "added_at": "2026-03-31 07:59:05",
-      "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
-    },
-    {
-      "added_at": "2026-03-31 07:59:38",
-      "album": {
-        "name": "Dorayakis",
-        "url": "https://open.spotify.com/album/0ngTIQsDW6zPMOe31utsMA"
-      },
-      "artists": [
-        {
-          "name": "Flashy Ice Cream",
-          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
-        },
-        {
-          "name": "31 FAM",
-          "url": "https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Dorayakis",
-      "url": "https://open.spotify.com/track/531muL88wgzZPwqRD4eXmJ"
-    },
-    {
       "added_at": "2026-05-26 14:01:45",
       "album": {
         "name": "Believe (Deluxe Edition)",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
+      "added_at": "2026-04-13 08:31:22",
+      "album": {
+        "name": "Energia!",
+        "url": "https://open.spotify.com/album/6jyQ44hp5mFxXAdFKiYwjM"
+      },
+      "artists": [
+        {
+          "name": "Doctor Prats",
+          "url": "https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW"
+        }
+      ],
+      "duration_ms": 187992,
+      "name": "Energia!",
+      "url": "https://open.spotify.com/track/0S2ghDlCY0B4AvYDmFobeK"
+    },
+    {
       "added_at": "2026-04-27 10:10:10",
       "album": {
         "name": "ARIRANG",
@@ -109,20 +125,20 @@
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
-      "added_at": "2026-04-13 08:31:22",
+      "added_at": "2026-05-19 10:53:32",
       "album": {
-        "name": "Energia!",
-        "url": "https://open.spotify.com/album/6jyQ44hp5mFxXAdFKiYwjM"
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
       },
       "artists": [
         {
-          "name": "Doctor Prats",
-          "url": "https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 187992,
-      "name": "Energia!",
-      "url": "https://open.spotify.com/track/0S2ghDlCY0B4AvYDmFobeK"
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "added_at": "2026-03-23 11:34:11",
@@ -161,6 +177,22 @@
       "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
+      "added_at": "2026-04-27 10:16:51",
+      "album": {
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/7bjdddU6NFSG6V8cD00ODu"
+      },
+      "artists": [
+        {
+          "name": "Max Navarro",
+          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Inigualable",
+      "url": "https://open.spotify.com/track/4HilSPgYbcZdtR6bJDGkF8"
+    },
+    {
       "added_at": "2026-01-26 10:11:13",
       "album": {
         "name": "Tutu Tur\u00fa",
@@ -197,38 +229,6 @@
       "url": "https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ"
     },
     {
-      "added_at": "2026-04-27 10:16:51",
-      "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/7bjdddU6NFSG6V8cD00ODu"
-      },
-      "artists": [
-        {
-          "name": "Max Navarro",
-          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Inigualable",
-      "url": "https://open.spotify.com/track/4HilSPgYbcZdtR6bJDGkF8"
-    },
-    {
-      "added_at": "2026-05-19 10:53:32",
-      "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
-    },
-    {
       "added_at": "2026-04-27 10:11:47",
       "album": {
         "name": "IMMORTALS",
@@ -243,70 +243,6 @@
       "duration_ms": 223066,
       "name": "Per una can\u00e7\u00f3",
       "url": "https://open.spotify.com/track/6QIXdksYvHGepNzugL8olK"
-    },
-    {
-      "added_at": "2026-02-02 10:04:31",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2026-02-09 10:14:15",
-      "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
-      "added_at": "2026-04-07 09:13:16",
-      "album": {
-        "name": "Perdre el cap",
-        "url": "https://open.spotify.com/album/3sGZHfIJQD4UkPiUHfd0ST"
-      },
-      "artists": [
-        {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Perdre el cap",
-      "url": "https://open.spotify.com/track/0y5LTiNgYzGXTzPVFTQSko"
-    },
-    {
-      "added_at": "2026-01-21 12:58:07",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2026-04-27 10:17:13",
@@ -325,56 +261,20 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2025-12-18 12:01:19",
+      "added_at": "2026-02-02 10:04:31",
       "album": {
-        "name": "Et prometo",
-        "url": "https://open.spotify.com/album/0P1ysZl1FLs1XuHHkJ6X4C"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Ivan Herzog",
-          "url": "https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 186490,
-      "name": "Et prometo",
-      "url": "https://open.spotify.com/track/23QWizOmPLSXiBIXtXBYEv"
-    },
-    {
-      "added_at": "2026-03-23 11:35:36",
-      "album": {
-        "name": "Ayer La Vi (BPA26)",
-        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Ayer La Vi (BPA26)",
-      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
-    },
-    {
-      "added_at": "2026-03-02 14:52:13",
-      "album": {
-        "name": "GR\u00c0CIES",
-        "url": "https://open.spotify.com/album/12pRJR1iID5vHVyP7eY4ve"
-      },
-      "artists": [
-        {
-          "name": "Buhos",
-          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
-        }
-      ],
-      "duration_ms": 208128,
-      "name": "GR\u00c0CIES",
-      "url": "https://open.spotify.com/track/0pEOVHVyre2UtuQFDza4JY"
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
       "added_at": "2026-06-01 11:30:33",
@@ -397,20 +297,20 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-05-05 15:02:51",
+      "added_at": "2026-02-09 10:14:15",
       "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Focu 'Ranni",
-      "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "added_at": "2026-05-19 10:59:03",
@@ -429,40 +329,72 @@
       "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
-      "added_at": "2025-12-18 11:58:28",
+      "added_at": "2026-01-21 12:58:07",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 195546,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-03-23 11:36:07",
+      "added_at": "2026-04-07 09:13:16",
       "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+        "name": "Perdre el cap",
+        "url": "https://open.spotify.com/album/3sGZHfIJQD4UkPiUHfd0ST"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
         }
       ],
-      "duration_ms": 213440,
-      "name": "American Girls",
-      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+      "duration_ms": 154340,
+      "name": "Perdre el cap",
+      "url": "https://open.spotify.com/track/0y5LTiNgYzGXTzPVFTQSko"
+    },
+    {
+      "added_at": "2026-03-23 11:35:36",
+      "album": {
+        "name": "Ayer La Vi (BPA26)",
+        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Ayer La Vi (BPA26)",
+      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
+    },
+    {
+      "added_at": "2025-12-18 12:01:19",
+      "album": {
+        "name": "Et prometo",
+        "url": "https://open.spotify.com/album/0P1ysZl1FLs1XuHHkJ6X4C"
+      },
+      "artists": [
+        {
+          "name": "Ivan Herzog",
+          "url": "https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y"
+        }
+      ],
+      "duration_ms": 186490,
+      "name": "Et prometo",
+      "url": "https://open.spotify.com/track/23QWizOmPLSXiBIXtXBYEv"
     },
     {
       "added_at": "2026-05-05 15:03:06",
@@ -485,22 +417,6 @@
       "url": "https://open.spotify.com/track/277bBvikhaNZo2sDjOGCVG"
     },
     {
-      "added_at": "2026-02-18 11:55:57",
-      "album": {
-        "name": "Welcome to My Party",
-        "url": "https://open.spotify.com/album/7KEVcNxrpxA7smtdLbnQ0X"
-      },
-      "artists": [
-        {
-          "name": "Joan Daus\u00e0",
-          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Welcome to My Party",
-      "url": "https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ"
-    },
-    {
       "added_at": "2026-05-26 14:04:39",
       "album": {
         "name": "LET ME BE",
@@ -517,20 +433,108 @@
       "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
     },
     {
-      "added_at": "2026-04-27 10:16:15",
+      "added_at": "2026-05-05 15:02:51",
       "album": {
-        "name": "Els passos prohibits",
-        "url": "https://open.spotify.com/album/1W04oFzsDyWU0WmIkZISgm"
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
       },
       "artists": [
         {
-          "name": "Banda Neon",
-          "url": "https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 141823,
-      "name": "Els passos prohibits",
-      "url": "https://open.spotify.com/track/010jwtvX8ITfPpGNnTz6PV"
+      "duration_ms": 170533,
+      "name": "Focu 'Ranni",
+      "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
+    },
+    {
+      "added_at": "2026-06-01 11:23:04",
+      "album": {
+        "name": "DIUMENGE SENSE DRAMA",
+        "url": "https://open.spotify.com/album/0RjEAK4xiTgdNeQZgpvL34"
+      },
+      "artists": [
+        {
+          "name": "Els Catarres",
+          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "DIUMENGE SENSE DRAMA",
+      "url": "https://open.spotify.com/track/2kYWt6YP1M6gFCgpErIkIu"
+    },
+    {
+      "added_at": "2025-12-18 11:58:28",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    },
+    {
+      "added_at": "2026-03-02 14:52:13",
+      "album": {
+        "name": "GR\u00c0CIES",
+        "url": "https://open.spotify.com/album/12pRJR1iID5vHVyP7eY4ve"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        }
+      ],
+      "duration_ms": 208128,
+      "name": "GR\u00c0CIES",
+      "url": "https://open.spotify.com/track/0pEOVHVyre2UtuQFDza4JY"
+    },
+    {
+      "added_at": "2026-05-19 11:02:01",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-05-19 11:01:19",
+      "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
       "added_at": "2025-12-18 12:03:41",
@@ -553,36 +557,36 @@
       "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
-      "added_at": "2026-06-01 11:23:04",
+      "added_at": "2026-03-23 11:36:07",
       "album": {
-        "name": "DIUMENGE SENSE DRAMA",
-        "url": "https://open.spotify.com/album/0RjEAK4xiTgdNeQZgpvL34"
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
       "artists": [
         {
-          "name": "Els Catarres",
-          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 165600,
-      "name": "DIUMENGE SENSE DRAMA",
-      "url": "https://open.spotify.com/track/2kYWt6YP1M6gFCgpErIkIu"
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
     },
     {
-      "added_at": "2026-05-19 11:02:01",
+      "added_at": "2026-04-27 10:16:15",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "Els passos prohibits",
+        "url": "https://open.spotify.com/album/1W04oFzsDyWU0WmIkZISgm"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Banda Neon",
+          "url": "https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU"
         }
       ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      "duration_ms": 141823,
+      "name": "Els passos prohibits",
+      "url": "https://open.spotify.com/track/010jwtvX8ITfPpGNnTz6PV"
     },
     {
       "added_at": "2026-03-31 07:59:17",
@@ -601,24 +605,56 @@
       "url": "https://open.spotify.com/track/42IZ43xd4Utj3dz5sAAJwP"
     },
     {
-      "added_at": "2026-05-19 11:01:19",
+      "added_at": "2026-06-08 11:48:27",
       "album": {
-        "name": "RUNWAY",
-        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 171010,
-      "name": "RUNWAY",
-      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "added_at": "2026-05-26 14:05:40",
+      "album": {
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 202542,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
+    },
+    {
+      "added_at": "2026-06-08 11:48:14",
+      "album": {
+        "name": "Des de lluny",
+        "url": "https://open.spotify.com/album/04jgOSgxG5FI35fgHjkCav"
+      },
+      "artists": [
+        {
+          "name": "Ivan Herzog",
+          "url": "https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y"
+        }
+      ],
+      "duration_ms": 174336,
+      "name": "Des de lluny",
+      "url": "https://open.spotify.com/track/2JFTbiGHVX4KuWrx0ovGn0"
     },
     {
       "added_at": "2025-09-15 10:51:24",
@@ -653,84 +689,36 @@
       "url": "https://open.spotify.com/track/5Cp75TUMrHF6c8xbhdligS"
     },
     {
-      "added_at": "2026-01-07 09:45:06",
+      "added_at": "2026-02-18 11:55:57",
       "album": {
-        "name": "Estrelles",
-        "url": "https://open.spotify.com/album/6P4qPYM66BANshGX2oShtv"
+        "name": "Welcome to My Party",
+        "url": "https://open.spotify.com/album/7KEVcNxrpxA7smtdLbnQ0X"
       },
       "artists": [
         {
-          "name": "Max Navarro",
-          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
+          "name": "Joan Daus\u00e0",
+          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
         }
       ],
-      "duration_ms": 199208,
-      "name": "Estrelles",
-      "url": "https://open.spotify.com/track/5LIpGWJvwV07LiR3HakLGb"
+      "duration_ms": 199853,
+      "name": "Welcome to My Party",
+      "url": "https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ"
     },
     {
-      "added_at": "2025-11-11 09:05:42",
+      "added_at": "2026-06-08 11:48:40",
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+        "name": "Segurament t'estimo",
+        "url": "https://open.spotify.com/album/3jrApK4R30iY51EFJBZ21v"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Els Amics De Les Arts",
+          "url": "https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2"
         }
       ],
-      "duration_ms": 183529,
-      "name": "SUPERESTRELLA",
-      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
-    },
-    {
-      "added_at": "2026-05-26 14:05:40",
-      "album": {
-        "name": "EPA",
-        "url": "https://open.spotify.com/album/42bmZVf8s1S0wMhY7HrBGZ"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 202542,
-      "name": "EPA",
-      "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
-    },
-    {
-      "added_at": "2025-12-18 12:06:21",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-06-08 11:48:14",
-      "album": {
-        "name": "Des de lluny",
-        "url": "https://open.spotify.com/album/04jgOSgxG5FI35fgHjkCav"
-      },
-      "artists": [
-        {
-          "name": "Ivan Herzog",
-          "url": "https://open.spotify.com/artist/0NqdDX0AKx9frqodgeXq5y"
-        }
-      ],
-      "duration_ms": 174336,
-      "name": "Des de lluny",
-      "url": "https://open.spotify.com/track/2JFTbiGHVX4KuWrx0ovGn0"
+      "duration_ms": 175311,
+      "name": "Segurament t'estimo",
+      "url": "https://open.spotify.com/track/7x4x0456YjudZ4wlqZrRLd"
     },
     {
       "added_at": "2026-06-01 11:24:22",
@@ -749,58 +737,74 @@
       "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
     },
     {
-      "added_at": "2026-06-08 11:48:27",
+      "added_at": "2025-11-11 09:05:42",
       "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-06-15 08:39:36",
+      "album": {
+        "name": "NO HI HA PLA B",
+        "url": "https://open.spotify.com/album/4vPkiF2AkdmAN1IrZDY5eC"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Leire Martinez",
+          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
         }
       ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+      "duration_ms": 144857,
+      "name": "NO HI HA PLA B",
+      "url": "https://open.spotify.com/track/2Fbx71bXpVKKgn0Dycz9NE"
     },
     {
-      "added_at": "2025-12-18 12:07:00",
+      "added_at": "2026-01-07 09:45:06",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+        "name": "Estrelles",
+        "url": "https://open.spotify.com/album/6P4qPYM66BANshGX2oShtv"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Max Navarro",
+          "url": "https://open.spotify.com/artist/0Wx00HbcRpQLmDcKO226cq"
         }
       ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+      "duration_ms": 199208,
+      "name": "Estrelles",
+      "url": "https://open.spotify.com/track/5LIpGWJvwV07LiR3HakLGb"
     },
     {
-      "added_at": "2026-06-08 11:48:40",
+      "added_at": "2026-06-15 08:41:34",
       "album": {
-        "name": "Segurament t'estimo",
-        "url": "https://open.spotify.com/album/3jrApK4R30iY51EFJBZ21v"
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
       },
       "artists": [
         {
-          "name": "Els Amics De Les Arts",
-          "url": "https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 175311,
-      "name": "Segurament t'estimo",
-      "url": "https://open.spotify.com/track/7x4x0456YjudZ4wlqZrRLd"
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (7/06/2026)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (14/06/2026)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

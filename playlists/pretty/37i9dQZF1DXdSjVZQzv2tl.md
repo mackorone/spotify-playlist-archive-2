@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,113,640 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,113,437 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 37 | [Transa Pendente](https://open.spotify.com/track/1f3IKtD2BBmy1mrVPtGYbF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão](https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl) | 2:26 |
 | 38 | [Se Eu Te Perdoar \- Ao Vivo](https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Se Eu Te Perdoar \(Ao Vivo\)](https://open.spotify.com/album/6sC92xi1q2e4PwFQWtF5p5) | 2:44 |
 | 39 | [Deixa Eu \- Ao Vivo](https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX) | 2:38 |
-| 40 | [Mil Adjetivos \(Perfeita Pra Mim\) \- Ao Vivo](https://open.spotify.com/track/5vk6IKLrBccCifWuqUORyQ) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Mil Adjetivos \(Perfeita Pra Mim\)](https://open.spotify.com/album/6xP8c8bxoKfxlBpApmsdS1) | 2:58 |
+| 40 | [Mil Adjetivos \(Perfeita Pra Mim\) \- Ao Vivo](https://open.spotify.com/track/5vk6IKLrBccCifWuqUORyQ) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Mil Adjetivos \(Perfeita Pra Mim\) \[Ao Vivo\]](https://open.spotify.com/album/6xP8c8bxoKfxlBpApmsdS1) | 2:58 |
 | 41 | [90/10 \- Ao Vivo em São Paulo](https://open.spotify.com/track/4DqwiZjicetHqqxl9cUID5) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Melhor Que Imaginei \| EP01 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/3W1RDXIugXi6OKDTlaNAAw) | 3:06 |
 | 42 | [Te Perdi Pros Paredão \- Ao Vivo](https://open.spotify.com/track/6iok3n58Pi7tFIaecGKfo5) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Te Perdi Pros Paredão \(Ao Vivo\)](https://open.spotify.com/album/5naJEdqaxhNfXG22fbmkQo) | 2:23 |
 | 43 | [Férias em Salvador \- Ao Vivo](https://open.spotify.com/track/0VlRvd4TWCFU6qhgfLiAjk) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Férias em Salvador \(Ao Vivo\)](https://open.spotify.com/album/1Mq0OaLnK17x0cZPKRfvYZ) | 3:28 |

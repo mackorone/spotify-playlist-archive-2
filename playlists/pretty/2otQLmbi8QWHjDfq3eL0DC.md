@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 ### [HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  🎶](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> Future House Music 2026! 🚀 Deep beats &amp; fresh tracks from David Guetta, Fred again.., Chris Lake, Oliver Heldens, Tiesto, Riton and more\. Best of Deep House, Progressive, Tech House\. Updated Weekly to keep your party vibes high! Save this essential mix.
+> Dance Hits that define the future! Get ready for fresh House, Tech House &amp; Disco House grooves\. Featuring new tracks from David Guetta, Fred again.., Dom Dolla, and LF System\. High\-energy party anthems &amp; uplifting vibes\. Updated Weekly! Like &amp; Save for your ultimate 2026 House playlist!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,312,720 likes - 100 songs - 5 hr 6 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,312,670 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feel Again](https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [can we do it all again?](https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI) | 3:41 |
-| 2 | [terms and conditions \- Beave Remix](https://open.spotify.com/track/1E5NsA5N9Noohhmf2cGx5B) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Beave](https://open.spotify.com/artist/4LAkPgRk3KuPVOIe0fyinc) | [terms and conditions \(Beave Remix\)](https://open.spotify.com/album/1zOk7p3AvGqn5iaoylnsdo) | 2:29 |
+| 2 | [terms and conditions \- Beave Remix](https://open.spotify.com/track/1E5NsA5N9Noohhmf2cGx5B) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [terms and conditions \(Beave Remix\)](https://open.spotify.com/album/1zOk7p3AvGqn5iaoylnsdo) | 2:29 |
 | 3 | [Wanderlust \- NTO Remix](https://open.spotify.com/track/7xZ9nzn0GZPpZgKRsIP0Yu) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Wanderlust \(NTO Remix\)](https://open.spotify.com/album/6CQfWH6035BfYeksw1dmyf) | 3:46 |
 | 4 | [On My Mind](https://open.spotify.com/track/1NCoXwQSoq2ENcejU5HIn7) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [On My Mind](https://open.spotify.com/album/3VfPZ3T2WwBIdwwrX42HyR) | 2:10 |
 | 5 | [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 | 100 | [Weekend](https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Weekend](https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND) | 3:16 |
 
-Snapshot ID: `AAARnG1bD/T0VirYQT+0vkm+LcP3GoIt`
+Snapshot ID: `AAARnRaeLvuQ8t7U4VfxF3Kw4PepNtUQ`

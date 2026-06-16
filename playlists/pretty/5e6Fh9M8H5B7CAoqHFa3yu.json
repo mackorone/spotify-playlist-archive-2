@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 336,
+  "num_followers": 337,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKHq9rbEbHAVrIKsgyzn9NaBCfnd0g",
+  "snapshot_id": "AAAKIBHT1IwtFgsqDeyqZ9gRN1QBxxhx",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -40619,6 +40619,38 @@
       "duration_ms": 437500,
       "name": "Poor Man's Glory (2026 Vinyl Version)",
       "url": "https://open.spotify.com/track/6b9H59yXpk7rL0N7DpsJ6P"
+    },
+    {
+      "added_at": "2026-06-15 17:22:26",
+      "album": {
+        "name": "Album.1",
+        "url": "https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg"
+      },
+      "artists": [
+        {
+          "name": "The Funky Ducklings",
+          "url": "https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Harness Your Hopes",
+      "url": "https://open.spotify.com/track/2Otn5oxyBmqvOSWQCgqrNa"
+    },
+    {
+      "added_at": "2026-06-15 17:35:24",
+      "album": {
+        "name": "Slow whine",
+        "url": "https://open.spotify.com/album/5UGgt0SHtTXycuL4kr4TSe"
+      },
+      "artists": [
+        {
+          "name": "80won",
+          "url": "https://open.spotify.com/artist/2nFYBEeJwCKg9EKrAO9q1g"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "Slow whine",
+      "url": "https://open.spotify.com/track/4gOppN4JCefB2cpDtMqxV1"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

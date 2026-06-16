@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166700,
+  "num_followers": 166708,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
+        "name": "Inside The Rider",
+        "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Inside The Rider",
+      "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
         "name": "18%",
         "url": "https://open.spotify.com/album/2q5xlLcWDHtiXzi2x5mNU8"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 201379,
       "name": "18%",
       "url": "https://open.spotify.com/track/3vL4g50ydwSWZzipKfq6NG"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
-        "name": "Inside The Rider",
-        "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Inside The Rider",
-      "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -515,58 +515,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Subliminals",
-        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
-      },
-      "artists": [
-        {
-          "name": "Saint Ludo",
-          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
-        },
-        {
-          "name": "Kasst 8",
-          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
-        }
-      ],
-      "duration_ms": 154100,
-      "name": "Subliminals",
-      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
-        "name": "One Last Tear",
-        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 140232,
-      "name": "One Last Tear",
-      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "MHITR: The Album",
         "url": "https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO"
       },
@@ -587,6 +535,22 @@
       "duration_ms": 233146,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/12EIsy8ta9mGwPxcY5zpv8"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "One Last Tear",
+        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 140232,
+      "name": "One Last Tear",
+      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -627,6 +591,42 @@
       "duration_ms": 200500,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/323rqeIcQxJCc0gZjYegUN"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Subliminals",
+        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        }
+      ],
+      "duration_ms": 154100,
+      "name": "Subliminals",
+      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
-      },
-      "artists": [
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 176614,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Go Down Low",
         "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 143610,
       "name": "Rowdy (BLAOW!)",
       "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
+      },
+      "artists": [
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 176614,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
+      },
+      "artists": [
+        {
+          "name": "Upgrade (UK)",
+          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
       },
@@ -935,26 +955,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
-      },
-      "artists": [
-        {
-          "name": "Upgrade (UK)",
-          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/5Uea7eTkedUd4xxj4jS6tb"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Argument Done",
-        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Argument Done",
-      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Badman Talk",
         "url": "https://open.spotify.com/album/6JXpd9RqKGRUKbYYmgL1ND"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 170057,
       "name": "Badman Talk",
       "url": "https://open.spotify.com/track/26Culai82bJKYjljJcncdp"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Argument Done",
+        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Argument Done",
+      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4BRNTcgZo6tys2xcN8r66H"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Shapes",
-          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
-        },
-        {
-          "name": "Takura",
-          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/7yzWoFEY4JxXt9lbucfTCt"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/0vC8rSlyP1AJbPhxXB9y0a"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 181689,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4BRNTcgZo6tys2xcN8r66H"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7yzWoFEY4JxXt9lbucfTCt"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/4un4FAjfIhnCW1Xy83Qx9Y"
-      },
-      "artists": [
-        {
-          "name": "FLOONK",
-          "url": "https://open.spotify.com/artist/4ZzqskD9slkLlmzd5kiEnM"
-        }
-      ],
-      "duration_ms": 202970,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 203720,
       "name": "Step Back (Break Remix)",
       "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/4un4FAjfIhnCW1Xy83Qx9Y"
+      },
+      "artists": [
+        {
+          "name": "FLOONK",
+          "url": "https://open.spotify.com/artist/4ZzqskD9slkLlmzd5kiEnM"
+        }
+      ],
+      "duration_ms": 202970,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Full Power",
-        "url": "https://open.spotify.com/album/2B8BsCBkGXwypoKCHP4kzq"
-      },
-      "artists": [
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Emz",
-          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Full Power",
-      "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Skanka",
         "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 190689,
       "name": "Skanka",
       "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Full Power",
+        "url": "https://open.spotify.com/album/2B8BsCBkGXwypoKCHP4kzq"
+      },
+      "artists": [
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Full Power",
+      "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1447,26 +1447,6 @@
       "duration_ms": 200228,
       "name": "Feel Your Love",
       "url": "https://open.spotify.com/track/6MZe35h3pzai53S3vIgvwE"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
-        "name": "Disappear",
-        "url": "https://open.spotify.com/album/6Z6E12BZGBn1BYyF2PvT9E"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "WHAT EVA",
-          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
-        }
-      ],
-      "duration_ms": 193542,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1507,18 +1487,22 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Buff Voltage",
-        "url": "https://open.spotify.com/album/37FOFewVm8DNBQJ2UU5Amp"
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/6Z6E12BZGBn1BYyF2PvT9E"
       },
       "artists": [
         {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
         }
       ],
-      "duration_ms": 311000,
-      "name": "The Swarm",
-      "url": "https://open.spotify.com/track/25ASFMHYeoyl6yrt3xoCsc"
+      "duration_ms": 193542,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1559,6 +1543,26 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
+        "name": "Losing Control (VIP)",
+        "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Nersha",
+          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Losing Control - VIP",
+      "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
         "name": "Antisocial",
         "url": "https://open.spotify.com/album/2dgTHDk0BK6abCf6QUJvJB"
       },
@@ -1575,6 +1579,38 @@
       "duration_ms": 171508,
       "name": "Man Down VIP",
       "url": "https://open.spotify.com/track/1XGgN6rRknZQppgbEpBKoD"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Buff Voltage",
+        "url": "https://open.spotify.com/album/37FOFewVm8DNBQJ2UU5Amp"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "The Swarm",
+      "url": "https://open.spotify.com/track/25ASFMHYeoyl6yrt3xoCsc"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1623,18 +1659,22 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+        "name": "Shrine",
+        "url": "https://open.spotify.com/album/2BMToCcKq1d8NfujdRTKD5"
       },
       "artists": [
         {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        },
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+      "duration_ms": 171034,
+      "name": "Shrine",
+      "url": "https://open.spotify.com/track/4KrJzVt3twq5VFkMFhEr0e"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1663,28 +1703,8 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Shrine",
-        "url": "https://open.spotify.com/album/2BMToCcKq1d8NfujdRTKD5"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        },
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Shrine",
-      "url": "https://open.spotify.com/track/4KrJzVt3twq5VFkMFhEr0e"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
-        "name": "Losing Control (VIP)",
-        "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
       "artists": [
         {
@@ -1692,13 +1712,13 @@
           "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
         },
         {
-          "name": "Nersha",
-          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
         }
       ],
-      "duration_ms": 200228,
-      "name": "Losing Control - VIP",
-      "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1719,6 +1739,22 @@
       "duration_ms": 204137,
       "name": "Dub Special",
       "url": "https://open.spotify.com/track/73O1bdufMUauCs8UxFkvO0"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Voicenote Violence",
+        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 166714,
+      "name": "Voicenote Violence",
+      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1751,22 +1787,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Voicenote Violence",
-        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 166714,
-      "name": "Voicenote Violence",
-      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Machine Learning",
         "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
       },
@@ -1783,22 +1803,18 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+        "name": "Dread",
+        "url": "https://open.spotify.com/album/3pdKDGrfS0On44kYIOo3tm"
       },
       "artists": [
         {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+          "name": "Breakage",
+          "url": "https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5"
         }
       ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+      "duration_ms": 208206,
+      "name": "Dread",
+      "url": "https://open.spotify.com/track/0kkII5ZHyfreKz6smPyWJX"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1863,18 +1879,22 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Dread",
-        "url": "https://open.spotify.com/album/3pdKDGrfS0On44kYIOo3tm"
+        "name": "Northern Step",
+        "url": "https://open.spotify.com/album/7EdYM83jeKrr2h8lT6dGIA"
       },
       "artists": [
         {
-          "name": "Breakage",
-          "url": "https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5"
+          "name": "Worsleyy",
+          "url": "https://open.spotify.com/artist/0bONie91aAoPJqKFMXD8nX"
+        },
+        {
+          "name": "Chimpo",
+          "url": "https://open.spotify.com/artist/4s3NpqWAqcB5XKDuzVMqs2"
         }
       ],
-      "duration_ms": 208206,
-      "name": "Dread",
-      "url": "https://open.spotify.com/track/0kkII5ZHyfreKz6smPyWJX"
+      "duration_ms": 288000,
+      "name": "Northern Step",
+      "url": "https://open.spotify.com/track/5uN8qtXFOl8j91njYZmW5w"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1919,22 +1939,18 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Northern Step",
-        "url": "https://open.spotify.com/album/7EdYM83jeKrr2h8lT6dGIA"
+        "name": "Disrupt The Dancefloor",
+        "url": "https://open.spotify.com/album/7plZh3gSjoyuIDpkRMKw6g"
       },
       "artists": [
         {
-          "name": "Worsleyy",
-          "url": "https://open.spotify.com/artist/0bONie91aAoPJqKFMXD8nX"
-        },
-        {
-          "name": "Chimpo",
-          "url": "https://open.spotify.com/artist/4s3NpqWAqcB5XKDuzVMqs2"
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Northern Step",
-      "url": "https://open.spotify.com/track/5uN8qtXFOl8j91njYZmW5w"
+      "duration_ms": 191724,
+      "name": "Disrupt The Dancefloor",
+      "url": "https://open.spotify.com/track/5PwAaf8G32y02SNbS04CHJ"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1955,22 +1971,6 @@
       "duration_ms": 307546,
       "name": "Try",
       "url": "https://open.spotify.com/track/5EYDGAOOQb4OGoC59TNHoP"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
-        "name": "Disrupt The Dancefloor",
-        "url": "https://open.spotify.com/album/7plZh3gSjoyuIDpkRMKw6g"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "Disrupt The Dancefloor",
-      "url": "https://open.spotify.com/track/5PwAaf8G32y02SNbS04CHJ"
     },
     {
       "added_at": "2026-05-21 23:00:32",

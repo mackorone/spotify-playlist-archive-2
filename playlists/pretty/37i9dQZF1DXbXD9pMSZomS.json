@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 543044,
+  "num_followers": 543132,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-04-03 04:00:31",
       "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
+      },
+      "artists": [
+        {
+          "name": "Social Lovers",
+          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
+        }
+      ],
+      "duration_ms": 272760,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
+    },
+    {
+      "added_at": "2026-04-03 04:00:31",
+      "album": {
         "name": "RITUAL (palace)",
         "url": "https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 355488,
       "name": "RITUAL (palace)",
       "url": "https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8"
-    },
-    {
-      "added_at": "2026-04-03 04:00:31",
-      "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
-      },
-      "artists": [
-        {
-          "name": "Social Lovers",
-          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
-        }
-      ],
-      "duration_ms": 272760,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
     },
     {
       "added_at": "2026-04-03 04:00:31",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-04-03 04:00:31",
       "album": {
-        "name": "Be Free",
-        "url": "https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ"
-      },
-      "artists": [
-        {
-          "name": "J Boogie's Dubtronic Science",
-          "url": "https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv"
-        },
-        {
-          "name": "Carlos Araiza",
-          "url": "https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "Be Free",
-      "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
-    },
-    {
-      "added_at": "2026-04-03 04:00:31",
-      "album": {
         "name": "highway",
         "url": "https://open.spotify.com/album/5bo2d6aTtWE7Ntb07QmD4r"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 269473,
       "name": "highway",
       "url": "https://open.spotify.com/track/3zJww8yH1LdbR74yHO0qAN"
+    },
+    {
+      "added_at": "2026-04-03 04:00:31",
+      "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ"
+      },
+      "artists": [
+        {
+          "name": "J Boogie's Dubtronic Science",
+          "url": "https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv"
+        },
+        {
+          "name": "Carlos Araiza",
+          "url": "https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y"
+        }
+      ],
+      "duration_ms": 349560,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
     },
     {
       "added_at": "2026-04-03 04:00:31",
@@ -1011,18 +1011,26 @@
     {
       "added_at": "2026-04-03 04:00:31",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/5nfXfGq3r2FklAjuT34QIQ"
+        "name": "Pool House",
+        "url": "https://open.spotify.com/album/7E1hswPT23ea7OQRckSSxd"
       },
       "artists": [
         {
-          "name": "SI-FI",
-          "url": "https://open.spotify.com/artist/2IZuUOaBZX6lMmbRK1GLcv"
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        },
+        {
+          "name": "Pacific Coliseum",
+          "url": "https://open.spotify.com/artist/4sL9uMYCk8NDAhimqhVSlB"
         }
       ],
-      "duration_ms": 276480,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1TwttAopOacjIhnuePJm3s"
+      "duration_ms": 295753,
+      "name": "Pool House",
+      "url": "https://open.spotify.com/track/2ySiEAs8xbSw9arjRiteTB"
     }
   ],
   "unique_name": "Lo-Fi House",

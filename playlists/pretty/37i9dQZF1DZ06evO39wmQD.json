@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3335,
+  "num_followers": 3336,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAACW32PnPsEW+iJADmN5z3i3",
+  "snapshot_id": "ai3vAAAAAAA3r3k2wYoo6CB9Jlos9LVR",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Manny Jacinto",
+          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
+        }
+      ],
+      "duration_ms": 88284,
+      "name": "You Fit Me Perfectly",
+      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 148557,
       "name": "Rhino Proof",
       "url": "https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Manny Jacinto",
-          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
-        }
-      ],
-      "duration_ms": 88284,
-      "name": "You Fit Me Perfectly",
-      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
     },
     {
       "added_at": null,
@@ -667,30 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 131682,
-      "name": "Start the Day Again",
-      "url": "https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Word Of Your Body (Rise Cast Version)",
         "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 174226,
       "name": "The Word Of Your Body - Rise Cast Version",
       "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
+      },
+      "artists": [
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
+        }
+      ],
+      "duration_ms": 131682,
+      "name": "Start the Day Again",
+      "url": "https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f"
     },
     {
       "added_at": null,

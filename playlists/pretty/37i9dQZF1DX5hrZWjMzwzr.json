@@ -127,6 +127,30 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "FUGAZI",
+        "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 163278,
+      "name": "kyoto",
+      "url": "https://open.spotify.com/track/0opYvODIONdV6edM316xO8"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/5ecJS5eNY2SQZnzSOg4jwh"
       },
@@ -155,30 +179,6 @@
       "duration_ms": 192134,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2S6sxBlNqbxjsGMcSV8wqT"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "FUGAZI",
-        "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
-      },
-      "artists": [
-        {
-          "name": "Kuban",
-          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
-        },
-        {
-          "name": "Favst",
-          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
-        },
-        {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
-        }
-      ],
-      "duration_ms": 163278,
-      "name": "kyoto",
-      "url": "https://open.spotify.com/track/0opYvODIONdV6edM316xO8"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Suma wszystkich strach\u00f3w",
-        "url": "https://open.spotify.com/album/5r81BUaiPyh1dAiuMbtFsk"
-      },
-      "artists": [
-        {
-          "name": "Ma\u0142pa",
-          "url": "https://open.spotify.com/artist/4Oy0tTQfhCKKaBPkQJhZHK"
-        },
-        {
-          "name": "Steve Nash",
-          "url": "https://open.spotify.com/artist/0BEEuWgQsqyONbgdGnJKTD"
-        }
-      ],
-      "duration_ms": 186909,
-      "name": "Suma wszystkich strach\u00f3w",
-      "url": "https://open.spotify.com/track/1OWyZAz2gpCSlwOaug8tVh"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "EP.ITAFIUM",
         "url": "https://open.spotify.com/album/73pdvD9yvYQW3FZkUraYxA"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 196363,
       "name": "64 LAJNY",
       "url": "https://open.spotify.com/track/2tuvBavU8PevpLSQIgURrF"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Suma wszystkich strach\u00f3w",
+        "url": "https://open.spotify.com/album/5r81BUaiPyh1dAiuMbtFsk"
+      },
+      "artists": [
+        {
+          "name": "Ma\u0142pa",
+          "url": "https://open.spotify.com/artist/4Oy0tTQfhCKKaBPkQJhZHK"
+        },
+        {
+          "name": "Steve Nash",
+          "url": "https://open.spotify.com/artist/0BEEuWgQsqyONbgdGnJKTD"
+        }
+      ],
+      "duration_ms": 186909,
+      "name": "Suma wszystkich strach\u00f3w",
+      "url": "https://open.spotify.com/track/1OWyZAz2gpCSlwOaug8tVh"
     },
     {
       "added_at": "2026-04-09 22:12:46",

@@ -6066,7 +6066,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 149204,
       "name": "Da Da Da",
       "url": "https://open.spotify.com/track/1ogu8yIjNzdzs1Up7ZQXxG"
@@ -27218,6 +27218,28 @@
       "duration_ms": 144035,
       "name": "Wat U Want",
       "url": "https://open.spotify.com/track/06mJKi1dNqdCOSz89Z8wNv"
+    },
+    {
+      "album": {
+        "name": "Watch Where You Walk (Sidewalk Talk)",
+        "url": "https://open.spotify.com/album/4mIsFxcSTgfwWZtsygXJas"
+      },
+      "artists": [
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Sven Lochenhoer",
+          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Watch Where You Walk (Sidewalk Talk)",
+      "url": "https://open.spotify.com/track/1ycJm1sa3w203quK3tHx25"
     },
     {
       "album": {

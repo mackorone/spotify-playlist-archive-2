@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316892,
+  "num_followers": 316873,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Les Champs-Elys\u00e9es",
-        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Les Champs-Elys\u00e9es",
-      "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Les chemins de traverse (Remastered)",
         "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 165946,
       "name": "Je l'aime \u00e0 mourir - Remastered",
       "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "Les Champs-Elys\u00e9es",
+        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Les Champs-Elys\u00e9es",
+      "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Marc Lavoine",
-        "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Elle a les yeux revolver",
-      "url": "https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Samedi soir sur la terre (Remastered)",
         "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 278253,
       "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
       "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "Marc Lavoine",
+        "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Elle a les yeux revolver",
+      "url": "https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "La femme id\u00e9ale",
-        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
-      },
-      "artists": [
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Nous deux contre le reste du monde",
-      "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Fragile (Remastered)",
         "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 187866,
       "name": "L'encre de tes yeux - Remastered",
       "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "La femme id\u00e9ale",
+        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Nous deux contre le reste du monde",
+      "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -255,18 +255,18 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
+        "name": "Savoir Aimer",
+        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
       },
       "artists": [
         {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
         }
       ],
-      "duration_ms": 261106,
-      "name": "Je T\u2019aime",
-      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
+      "duration_ms": 281213,
+      "name": "Savoir aimer",
+      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -287,18 +287,18 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Savoir Aimer",
-        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm"
       },
       "artists": [
         {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
         }
       ],
-      "duration_ms": 281213,
-      "name": "Savoir aimer",
-      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
+      "duration_ms": 261106,
+      "name": "Je T\u2019aime",
+      "url": "https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Eternelle",
-        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "La Vie en rose",
-      "url": "https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Toujours moi",
         "url": "https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 245973,
       "name": "Parce que c'est toi",
       "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "La Vie en rose",
+      "url": "https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+        "name": "Chante Prevert",
+        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
         }
       ],
-      "duration_ms": 254093,
-      "name": "Pour que tu m'aimes encore",
-      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
+      "duration_ms": 201066,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Chante Prevert",
-        "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
+        "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
+        "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
       },
       "artists": [
         {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Les feuilles mortes",
-      "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
+      "duration_ms": 263066,
+      "name": "Femmes... Je vous aime",
+      "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
     }
   ],
   "unique_name": "French Kiss",

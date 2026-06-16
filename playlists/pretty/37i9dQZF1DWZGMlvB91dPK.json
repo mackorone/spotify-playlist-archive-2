@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3978,
+  "num_followers": 3980,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "Queen Of Cove",
+        "url": "https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX"
+      },
+      "artists": [
+        {
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
+        }
+      ],
+      "duration_ms": 261781,
+      "name": "Queen Of Cove",
+      "url": "https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "Deep Side of Happiness",
         "url": "https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 221690,
       "name": "Un chant d'amour",
       "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Queen Of Cove",
-        "url": "https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX"
-      },
-      "artists": [
-        {
-          "name": "Benni",
-          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
-        }
-      ],
-      "duration_ms": 261781,
-      "name": "Queen Of Cove",
-      "url": "https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "ECHO ECHO",
+        "url": "https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0"
+      },
+      "artists": [
+        {
+          "name": "Gen",
+          "url": "https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "La patte",
+      "url": "https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "Hugh Greene & the Lucies Made Me",
         "url": "https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 187756,
       "name": "je dirai rien",
       "url": "https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "ECHO ECHO",
-        "url": "https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0"
-      },
-      "artists": [
-        {
-          "name": "Gen",
-          "url": "https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "La patte",
-      "url": "https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Roots (Extended)",
-        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
       },
       "artists": [
         {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
         }
       ],
-      "duration_ms": 176899,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
+      "duration_ms": 165378,
+      "name": "La rivi\u00e8re",
+      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
+        "name": "Roots (Extended)",
+        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
       },
       "artists": [
         {
-          "name": "Elena Copsi",
-          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
         }
       ],
-      "duration_ms": 165378,
-      "name": "La rivi\u00e8re",
-      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
+      "duration_ms": 176899,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Wire",
-        "url": "https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC"
+        "name": "Where We Dive",
+        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
       },
       "artists": [
         {
-          "name": "NASTYJOE",
-          "url": "https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV"
+          "name": "MEDICIS",
+          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
         }
       ],
-      "duration_ms": 190987,
-      "name": "Strange Place",
-      "url": "https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E"
+      "duration_ms": 240150,
+      "name": "Timecrash",
+      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Where We Dive",
-        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
+        "name": "Wire",
+        "url": "https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC"
       },
       "artists": [
         {
-          "name": "MEDICIS",
-          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
+          "name": "NASTYJOE",
+          "url": "https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV"
         }
       ],
-      "duration_ms": 240150,
-      "name": "Timecrash",
-      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
+      "duration_ms": 190987,
+      "name": "Strange Place",
+      "url": "https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E"
     },
     {
       "added_at": "2025-11-20 17:00:08",

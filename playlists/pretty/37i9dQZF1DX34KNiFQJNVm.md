@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano, BTS, Ricky Martin com Luan Santana, Olivia Rodrigo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,305,526 likes - 93 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,389 likes - 93 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 71 | [BAILE DE BAND](https://open.spotify.com/track/6S8gPX7vwPU2yoCCWE0ATe) | [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [MC Vitin LC](https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI), [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8) | [BAILE DE BAND](https://open.spotify.com/album/45iaGhh3s6dsZlzpUtO56d) | 4:01 |
 | 72 | [UM CORAÇÃO](https://open.spotify.com/track/6r42UuAbQBjgeV8goH0vTR) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [UM CORAÇÃO](https://open.spotify.com/album/7KBgtmjaOsqG713ktl7bsU) | 1:46 |
 | 73 | [I LOVE AS BANDIDA](https://open.spotify.com/track/0ZjFf1EBsHBTT76vfFdcyA) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Dj L Martins](https://open.spotify.com/artist/4MQAbRFF5xtTAIYG8jzfZm) | [I LOVE AS BANDIDA](https://open.spotify.com/album/0wx7zIwAZQ96RXSVfQyvMR) | 3:12 |
-| 74 | [Obsessão](https://open.spotify.com/track/4TbA0mXnPBMhucvuC8gZyH) | [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Uma Pra Cada Saudade](https://open.spotify.com/album/26Wt9HAfiEkV8sonFQFDOL) | 2:21 |
+| 74 | [Obsessão](https://open.spotify.com/track/4TbA0mXnPBMhucvuC8gZyH) | [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Uma Pra Cada Saudade](https://open.spotify.com/album/26Wt9HAfiEkV8sonFQFDOL) | 2:21 |
 | 75 | [Bom Te Ver](https://open.spotify.com/track/6LNTUtqRaSLe9EGJpyxMua) | [Matheusinho](https://open.spotify.com/artist/5fFaxiwdqZlsazN9qMyQMB) | [Bom Te Ver](https://open.spotify.com/album/3LrLyKJJ0lefBpCALnFl19) | 2:46 |
 | 76 | [El Niño](https://open.spotify.com/track/7Mg58xNYB3yOpyouHvlllW) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [El Niño](https://open.spotify.com/album/6q1F2vHv0r7z38IafdnUzu) | 3:07 |
 | 77 | [+NOVO](https://open.spotify.com/track/0LcdTHNQ5wjGNxTlrPXO3V) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [Ronni](https://open.spotify.com/artist/4NpGJnEgJfK0ZHIcVWkNlj) | [+NOVO](https://open.spotify.com/album/58PwqPXW8aXygdZq0EyBTn) | 2:40 |

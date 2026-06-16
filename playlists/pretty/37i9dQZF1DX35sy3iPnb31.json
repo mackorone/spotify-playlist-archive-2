@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Drake",
-  "num_followers": 1906,
+  "num_followers": 1905,
   "original_name": "Editors' Picks: Best Canadian Songs of May",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "HOTLINE",
-        "url": "https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 166260,
-      "name": "HOTLINE",
-      "url": "https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
         "name": "speed",
         "url": "https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 205106,
       "name": "mailman",
       "url": "https://open.spotify.com/track/7idTksaN3JHW4hIxucaUv9"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
+        "name": "HOTLINE",
+        "url": "https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 166260,
+      "name": "HOTLINE",
+      "url": "https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Multiplied",
-        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
+        "name": "Kiss the Sun",
+        "url": "https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg"
       },
       "artists": [
         {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
         }
       ],
-      "duration_ms": 182463,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
+      "duration_ms": 149479,
+      "name": "for keeps",
+      "url": "https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -291,18 +291,18 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Kiss the Sun",
-        "url": "https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg"
+        "name": "Free Wheeling",
+        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
       },
       "artists": [
         {
-          "name": "Asal",
-          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
         }
       ],
-      "duration_ms": 149479,
-      "name": "for keeps",
-      "url": "https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk"
+      "duration_ms": 229592,
+      "name": "Free Wheeling",
+      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -323,18 +323,18 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Free Wheeling",
-        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
+        "name": "Multiplied",
+        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
       },
       "artists": [
         {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
         }
       ],
-      "duration_ms": 229592,
-      "name": "Free Wheeling",
-      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
+      "duration_ms": 182463,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -351,22 +351,6 @@
       "duration_ms": 164275,
       "name": "In Da Jungle",
       "url": "https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
-        "name": "Out of Water",
-        "url": "https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Out of Water",
-      "url": "https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -399,6 +383,22 @@
       "duration_ms": 250453,
       "name": "BORN WINNER",
       "url": "https://open.spotify.com/track/4ACkAjg9smuLvjskptzLgE"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
+        "name": "Out of Water",
+        "url": "https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Out of Water",
+      "url": "https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
+        "name": "Where Do You Want To Be?",
+        "url": "https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Where Do You Want To Be?",
+      "url": "https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
         "name": "What You Say (ft umru)",
         "url": "https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Where Do You Want To Be?",
-        "url": "https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6"
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj"
       },
       "artists": [
         {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+          "name": "Burgundy",
+          "url": "https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX"
         }
       ],
-      "duration_ms": 293293,
-      "name": "Where Do You Want To Be?",
-      "url": "https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf"
+      "duration_ms": 148637,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -703,18 +719,18 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Marathon",
-        "url": "https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj"
+        "name": "So Smart",
+        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
       },
       "artists": [
         {
-          "name": "Burgundy",
-          "url": "https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX"
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
         }
       ],
-      "duration_ms": 148637,
-      "name": "Marathon",
-      "url": "https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6"
+      "duration_ms": 169431,
+      "name": "So Smart",
+      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -735,22 +751,6 @@
       "duration_ms": 251226,
       "name": "\u00e9tude05 . R O A M E R . AMII.0-RW005",
       "url": "https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
-        "name": "So Smart",
-        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
-      },
-      "artists": [
-        {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
-        }
-      ],
-      "duration_ms": 169431,
-      "name": "So Smart",
-      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
     },
     {
       "added_at": "2026-06-01 09:19:24",

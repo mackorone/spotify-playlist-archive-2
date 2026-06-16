@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-191 songs - 21 hr 54 min
+192 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Afros, Afghans and Angels \- Helgö Treasure Chest](https://open.spotify.com/track/2bHXdca9yg6TfWikQGAAJS) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 6:11 | 2022-05-29 | 2023-02-11 |
 | [Afterlife Aftershave](https://open.spotify.com/track/1dDNKj2teFS6D3lSTqKrcz) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Heavens](https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB) | 9:07 | 2022-10-12 | 2026-06-14 |
 | [Afterlife Aftershave \- Edit](https://open.spotify.com/track/3ySjD4n8uzCOeToDXyvZdp) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Heavens](https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB) | 2:58 | 2022-11-26 | 2025-07-09 |
-| [Aftermath](https://open.spotify.com/track/0oixK8PZxKG67QJ1dNxJnW) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Bicycles & Tricycles](https://open.spotify.com/album/2L05MlMdQmCWFLmaa5tlAg) | 4:40 | 2026-06-15 |  |
+| [Aftermath](https://open.spotify.com/track/0oixK8PZxKG67QJ1dNxJnW) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Bicycles & Tricycles](https://open.spotify.com/album/2L05MlMdQmCWFLmaa5tlAg) | 4:40 | 2026-06-15 | 2026-06-16 |
 | [Aftermath](https://open.spotify.com/track/08xocJS1oGDriGCRGbNYvg) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 4:41 | 2025-02-18 | 2025-02-21 |
 | [Aftermath](https://open.spotify.com/track/1MEg8EFDiwoqGmfVHhwxCi) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 4:41 | 2024-11-13 | 2024-11-16 |
 | [Alpine Evening](https://open.spotify.com/track/3oyl7c3ZpYHFXoHiXRN9HM) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Alpine](https://open.spotify.com/album/2aRIXuVdStO3RgqEco9JeF) | 7:04 | 2022-05-29 | 2023-04-17 |
@@ -105,6 +105,7 @@
 | [Majestic](https://open.spotify.com/track/2DbkEPpdeNhGQJaYfiSDWp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 11:06 | 2022-05-29 | 2026-04-03 |
 | [Man in the Moon](https://open.spotify.com/track/2IdEhAIOQS0T6d79DBaTr6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:04 | 2022-05-30 | 2022-10-13 |
 | [Masterblaster \- Edit](https://open.spotify.com/track/7hTEedqHW0ft1lA7xzSXcK) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Masterblaster \(Edit\)](https://open.spotify.com/album/1j5zc0Hw8MVIOLFWjoXm9t) | 3:51 | 2025-06-08 | 2026-05-08 |
+| [Mermaids](https://open.spotify.com/track/3bg0FXYuT49u1oA9URTKoZ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/64MYpg76vvfx5UmcJWFend) | 1:48 | 2026-06-16 |  |
 | [Mermaids](https://open.spotify.com/track/4JsiRi34NYuzrxIUtDSCJu) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 1:48 | 2023-06-30 | 2026-06-15 |
 | [Mermaids](https://open.spotify.com/track/5AlFvNIcCgMQz0iux2zyVk) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Mermaids](https://open.spotify.com/album/6ukjrEXIdCzo1V6lYg0Y5Y) | 1:48 | 2023-05-13 | 2023-07-01 |
 | [Metallic Side \(feat\. David Gilmour\) \- Stereo Version](https://open.spotify.com/track/1ogszJGyiYSlrVGpHtoNMm) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres \(feat\. David Gilmour\)](https://open.spotify.com/album/6cefhJmt3jwGwcLIcsyEVq) | 28:41 | 2022-06-24 | 2022-11-14 |

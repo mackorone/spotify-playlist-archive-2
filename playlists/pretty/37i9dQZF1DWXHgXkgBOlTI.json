@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: CASIOPEA",
-  "num_followers": 32972,
+  "num_followers": 32978,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "Ovall",
-        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
       },
       "artists": [
         {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
         }
       ],
-      "duration_ms": 205480,
-      "name": "Slow Motion Town",
-      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -195,18 +195,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+        "name": "Ovall",
+        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
       },
       "artists": [
         {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+      "duration_ms": 205480,
+      "name": "Slow Motion Town",
+      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -319,22 +319,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "MELODICA",
-        "url": "https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3"
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
       "artists": [
         {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        },
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
         }
       ],
-      "duration_ms": 400106,
-      "name": "Lamp (feat. Nujabes)",
-      "url": "https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU"
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -355,18 +351,22 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+        "name": "MELODICA",
+        "url": "https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3"
       },
       "artists": [
         {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        },
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+      "duration_ms": 400106,
+      "name": "Lamp (feat. Nujabes)",
+      "url": "https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
-      },
-      "artists": [
-        {
-          "name": "SANOVA",
-          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Liberty",
-      "url": "https://open.spotify.com/track/1craVn3h83RslIC0BZBiIS"
-    },
-    {
-      "added_at": "2026-04-28 15:00:59",
-      "album": {
         "name": "Floating in the midnight sun",
         "url": "https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 260861,
       "name": "Ephemeral summer",
       "url": "https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0"
+    },
+    {
+      "added_at": "2026-04-28 15:00:59",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
+      },
+      "artists": [
+        {
+          "name": "SANOVA",
+          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/1craVn3h83RslIC0BZBiIS"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "marten",
+      "url": "https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe"
+    },
+    {
+      "added_at": "2026-04-28 15:00:59",
+      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz"
+        "name": "REAL KICKS",
+        "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
       },
       "artists": [
         {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+          "name": "Calmera",
+          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
         }
       ],
-      "duration_ms": 267720,
-      "name": "marten",
-      "url": "https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe"
+      "duration_ms": 186906,
+      "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
+      "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -703,18 +719,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "REAL KICKS",
-        "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
+        "name": "Ordinary Landscape",
+        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
       },
       "artists": [
         {
-          "name": "Calmera",
-          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 186906,
-      "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
-      "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"
+      "duration_ms": 256133,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -747,22 +763,6 @@
       "duration_ms": 207000,
       "name": "\u30cf\u30eb\u30ab\u30bc",
       "url": "https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz"
-    },
-    {
-      "added_at": "2026-04-28 15:00:59",
-      "album": {
-        "name": "Ordinary Landscape",
-        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "PYRAMID4",
-        "url": "https://open.spotify.com/album/5219vHKf8elS7hRI11Ig9X"
+        "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
+        "url": "https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f"
       },
       "artists": [
         {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+          "name": "Megapteras",
+          "url": "https://open.spotify.com/artist/1QvXTydThOanpD5ERmVM0r"
         }
       ],
-      "duration_ms": 305372,
-      "name": "Love Lights",
-      "url": "https://open.spotify.com/track/1Uh6c02Wxkq30F6aXPPWul"
+      "duration_ms": 236266,
+      "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
+      "url": "https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

@@ -650,10 +650,28 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 273283,
       "name": "Not Moved",
       "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
+    },
+    {
+      "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/04gvFEpR8FICwnjxuf7B4Z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280403,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/13j5QYsM8B4s8K5l1vTIKI"
     },
     {
       "album": {

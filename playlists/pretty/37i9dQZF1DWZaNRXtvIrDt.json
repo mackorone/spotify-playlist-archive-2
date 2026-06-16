@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: Surusinghe",
-  "num_followers": 129626,
+  "num_followers": 129623,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "A Hundred Days Off",
         "url": "https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 548560,
       "name": "Two Months Off",
       "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Now U Do",
-        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Now U Do - Edit",
-      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
+        "name": "Heaven Scent",
+        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        },
+        {
+          "name": "Chloe Sevigny",
+          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+        }
+      ],
+      "duration_ms": 283424,
+      "name": "Heaven Scent",
+      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
         "name": "HARDSTYLE 2",
         "url": "https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 286285,
       "name": "HARDSTYLE 2",
       "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Heaven Scent",
-        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
-      },
-      "artists": [
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        },
-        {
-          "name": "Chloe Sevigny",
-          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
-        }
-      ],
-      "duration_ms": 283424,
-      "name": "Heaven Scent",
-      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
     },
     {
-      "added_at": "2026-05-21 14:00:31",
-      "album": {
-        "name": "Spiralen",
-        "url": "https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 437809,
-      "name": "Spiralen",
-      "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
-    },
-    {
       "added_at": "2026-06-11 14:00:37",
       "album": {
         "name": "Patang",
@@ -721,6 +705,38 @@
       "url": "https://open.spotify.com/track/6Ie7HJ977fl1svbQIqiqFY"
     },
     {
+      "added_at": "2026-05-21 14:00:31",
+      "album": {
+        "name": "Spiralen",
+        "url": "https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 437809,
+      "name": "Spiralen",
+      "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Where You Need To Be",
+        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 253478,
+      "name": "Where You Need To Be",
+      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
+    },
+    {
       "added_at": "2026-05-06 00:22:41",
       "album": {
         "name": "The Heads That Know",
@@ -739,22 +755,6 @@
       "duration_ms": 423244,
       "name": "The Heads That Know (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
-        "name": "Where You Need To Be",
-        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 253478,
-      "name": "Where You Need To Be",
-      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
     },
     {
       "added_at": "2026-05-06 00:22:41",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "Lazy Haze",
-        "url": "https://open.spotify.com/album/7ogyBA2ovnKRNOdSJnZ1Kt"
-      },
-      "artists": [
-        {
-          "name": "Yere",
-          "url": "https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7"
-        },
-        {
-          "name": "Bicycle Ride",
-          "url": "https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE"
-        }
-      ],
-      "duration_ms": 126998,
-      "name": "Lazy Haze",
-      "url": "https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "I Want You To Know",
         "url": "https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 238571,
       "name": "Mad",
       "url": "https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "Lazy Haze",
+        "url": "https://open.spotify.com/album/7ogyBA2ovnKRNOdSJnZ1Kt"
+      },
+      "artists": [
+        {
+          "name": "Yere",
+          "url": "https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7"
+        },
+        {
+          "name": "Bicycle Ride",
+          "url": "https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE"
+        }
+      ],
+      "duration_ms": 126998,
+      "name": "Lazy Haze",
+      "url": "https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP"
     },
     {
       "added_at": "2026-05-06 00:22:41",

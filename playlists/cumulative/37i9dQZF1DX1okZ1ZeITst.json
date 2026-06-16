@@ -297,6 +297,36 @@
     },
     {
       "album": {
+        "name": "Along The Way (From \"Moana\")",
+        "url": "https://open.spotify.com/album/2ZaaAHqCBhZKCQiPz3LBEY"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Catherine Laga'aia",
+          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
+        },
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "Along The Way - From \"Moana\"",
+      "url": "https://open.spotify.com/track/5QLI9Dn0jOseDb2ptAibK1"
+    },
+    {
+      "album": {
         "name": "Beauty and the Beast",
         "url": "https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5"
       },

@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696776,
+  "num_followers": 696749,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,30 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
+        "name": "Ya No M\u00e1s",
+        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+        }
+      ],
+      "duration_ms": 158447,
+      "name": "Ya No M\u00e1s",
+      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
+    },
+    {
+      "added_at": "2026-05-29 20:57:45",
+      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -523,30 +547,6 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
-    },
-    {
-      "added_at": "2026-05-29 20:57:45",
-      "album": {
-        "name": "Ya No M\u00e1s",
-        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Santiago Saez",
-          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
-        }
-      ],
-      "duration_ms": 158447,
-      "name": "Ya No M\u00e1s",
-      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
     },
     {
       "added_at": "2026-05-29 20:57:45",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "added_at": "2026-05-29 20:57:45",
+      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -967,38 +983,6 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
-        "name": "El Polaco - Agradeciendo a Dios",
-        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
-    },
-    {
-      "added_at": "2026-05-29 20:57:45",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 125828,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
-    },
-    {
-      "added_at": "2026-05-29 20:57:45",
-      "album": {
         "name": "Universo Paralelo",
         "url": "https://open.spotify.com/album/2QJA6xKUpxD0PoLg0SEFLj"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 217072,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/2oA9whiinAF0PBKmz2X3Lx"
+    },
+    {
+      "added_at": "2026-05-29 20:57:45",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 125828,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
     },
     {
       "added_at": "2026-05-29 20:57:45",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
+        "name": "Te Vas - Guaracha",
+        "url": "https://open.spotify.com/album/4kupmdYVj25p0q3PZWVTCV"
+      },
+      "artists": [
+        {
+          "name": "DJ Cuba",
+          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
+        },
+        {
+          "name": "Pity DJ",
+          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Te Vas - Guaracha",
+      "url": "https://open.spotify.com/track/7amwHhFhSdeDbeNtSllcsP"
+    },
+    {
+      "added_at": "2026-05-29 20:57:45",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 154624,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
-    },
-    {
-      "added_at": "2026-05-29 20:57:45",
-      "album": {
-        "name": "Te Vas - Guaracha",
-        "url": "https://open.spotify.com/album/4kupmdYVj25p0q3PZWVTCV"
-      },
-      "artists": [
-        {
-          "name": "DJ Cuba",
-          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
-        },
-        {
-          "name": "Pity DJ",
-          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Te Vas - Guaracha",
-      "url": "https://open.spotify.com/track/7amwHhFhSdeDbeNtSllcsP"
     },
     {
       "added_at": "2026-05-29 20:57:45",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
-        "name": "Mix El Polaco - Fer Palacio",
-        "url": "https://open.spotify.com/album/3HGJm8M1Qk1svADoSqS4rV"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio Records",
-          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
-        },
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 366812,
-      "name": "Mix El Polaco - Fer Palacio",
-      "url": "https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e"
-    },
-    {
-      "added_at": "2026-05-29 20:57:45",
-      "album": {
         "name": "Obsesion (Guaracha)",
         "url": "https://open.spotify.com/album/26qDBQFOm6EJJbIetZIIHb"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 107460,
       "name": "Obsesion (Guaracha)",
       "url": "https://open.spotify.com/track/2QTKoIZKP8Y8pmisdmFx89"
+    },
+    {
+      "added_at": "2026-05-29 20:57:45",
+      "album": {
+        "name": "Mix El Polaco - Fer Palacio",
+        "url": "https://open.spotify.com/album/3HGJm8M1Qk1svADoSqS4rV"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio Records",
+          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
+        },
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 366812,
+      "name": "Mix El Polaco - Fer Palacio",
+      "url": "https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e"
     },
     {
       "added_at": "2026-05-29 20:57:45",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
-        "name": "Oscu x Nobeat - N\u00famero 1 (Remix)",
-        "url": "https://open.spotify.com/album/6FBpITDofEb2Hy0Noyk1c9"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio Records",
-          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
-        }
-      ],
-      "duration_ms": 145019,
-      "name": "Oscu x Nobeat - N\u00famero 1 (Remix)",
-      "url": "https://open.spotify.com/track/3WX1ey5IbYetNlYb9pFrfp"
-    },
-    {
-      "added_at": "2026-05-29 20:57:45",
-      "album": {
         "name": "Donde Est\u00e1n las Gatas / Ven Bailalo / Ella Me Levant\u00f3 / Tocarte Toa / Rompe / Si No Le Contesto (Session #9)",
         "url": "https://open.spotify.com/album/0ngWXQa5OZeQmUvkNPsLek"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 63687,
       "name": "Donde Est\u00e1n las Gatas / Ven Bailalo / Ella Me Levant\u00f3 / Tocarte Toa / Rompe / Si No Le Contesto - Session #9",
       "url": "https://open.spotify.com/track/2tomu9yL0c4LbnwGXtZLmf"
+    },
+    {
+      "added_at": "2026-05-29 20:57:45",
+      "album": {
+        "name": "Oscu x Nobeat - N\u00famero 1 (Remix)",
+        "url": "https://open.spotify.com/album/6FBpITDofEb2Hy0Noyk1c9"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio Records",
+          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
+        }
+      ],
+      "duration_ms": 145019,
+      "name": "Oscu x Nobeat - N\u00famero 1 (Remix)",
+      "url": "https://open.spotify.com/track/3WX1ey5IbYetNlYb9pFrfp"
     },
     {
       "added_at": "2026-05-29 20:57:45",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
+        "name": "Ritmo, Vol. 1",
+        "url": "https://open.spotify.com/album/061ey5iAc8evXtWdY3CSwk"
+      },
+      "artists": [
+        {
+          "name": "Rkt",
+          "url": "https://open.spotify.com/artist/79IqrR42sN3ALgtibYWsaL"
+        }
+      ],
+      "duration_ms": 219211,
+      "name": "En el Party",
+      "url": "https://open.spotify.com/track/0yljGoheC8WIvdFx8W7eH9"
+    },
+    {
+      "added_at": "2026-05-29 20:57:45",
+      "album": {
         "name": "Quiero Verte Bailar (DJ Alex Remix)",
         "url": "https://open.spotify.com/album/4oSOrj6okXZ4M4hOyLQbcf"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 171764,
       "name": "Quiero Verte Bailar - DJ Alex Remix",
       "url": "https://open.spotify.com/track/0li8QfMCtq5hg6qB67E4U1"
-    },
-    {
-      "added_at": "2026-05-29 20:57:45",
-      "album": {
-        "name": "Ritmo, Vol. 1",
-        "url": "https://open.spotify.com/album/061ey5iAc8evXtWdY3CSwk"
-      },
-      "artists": [
-        {
-          "name": "Rkt",
-          "url": "https://open.spotify.com/artist/79IqrR42sN3ALgtibYWsaL"
-        }
-      ],
-      "duration_ms": 219211,
-      "name": "En el Party",
-      "url": "https://open.spotify.com/track/0yljGoheC8WIvdFx8W7eH9"
     },
     {
       "added_at": "2026-05-29 20:57:45",
@@ -2063,22 +2063,22 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
-        "name": "La Curiosidad",
-        "url": "https://open.spotify.com/album/0EKLCjwX92EQwBBrRrPnfg"
+        "name": "DJ ALEX, THE LA PLANTA - PA' QUE BAILE | E8",
+        "url": "https://open.spotify.com/album/3wh602i26zmVempfRiWV9s"
       },
       "artists": [
         {
-          "name": "Tu Papa",
-          "url": "https://open.spotify.com/artist/7ha2O24d2RixnRx9whTRuW"
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
         },
         {
-          "name": "Marito Davila",
-          "url": "https://open.spotify.com/artist/1YCxEcWL2M3zamrQzFOsCJ"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 165340,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7"
+      "duration_ms": 147446,
+      "name": "DJ ALEX, THE LA PLANTA - PA' QUE BAILE | E8",
+      "url": "https://open.spotify.com/track/7LmjI4JFIq88OFF6kbBZJh"
     },
     {
       "added_at": "2026-05-29 20:57:45",
@@ -2103,22 +2103,22 @@
     {
       "added_at": "2026-05-29 20:57:45",
       "album": {
-        "name": "DJ ALEX, THE LA PLANTA - PA' QUE BAILE | E8",
-        "url": "https://open.spotify.com/album/3wh602i26zmVempfRiWV9s"
+        "name": "La Curiosidad",
+        "url": "https://open.spotify.com/album/0EKLCjwX92EQwBBrRrPnfg"
       },
       "artists": [
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+          "name": "Tu Papa",
+          "url": "https://open.spotify.com/artist/7ha2O24d2RixnRx9whTRuW"
         },
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Marito Davila",
+          "url": "https://open.spotify.com/artist/1YCxEcWL2M3zamrQzFOsCJ"
         }
       ],
-      "duration_ms": 147446,
-      "name": "DJ ALEX, THE LA PLANTA - PA' QUE BAILE | E8",
-      "url": "https://open.spotify.com/track/7LmjI4JFIq88OFF6kbBZJh"
+      "duration_ms": 165340,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7"
     }
   ],
   "unique_name": "Joda",

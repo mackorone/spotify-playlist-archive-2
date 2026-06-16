@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Ana Mena con Lola Indigo, DELLAFUENTE, Olivia Rodrigo y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,904 likes - 71 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,923 likes - 71 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

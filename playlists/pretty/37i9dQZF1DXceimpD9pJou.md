@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Oasis Ministry
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,841 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,867 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 17 | [Agradecido Estoy](https://open.spotify.com/track/685UVMXJp4Ne1Veo8S88wN) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Intimidad Worship](https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL) | [Agradecido Estoy](https://open.spotify.com/album/5eM1qkrHgqfp9LEDFzx64P) | 5:20 |
 | 18 | [Yo Confío En Ti](https://open.spotify.com/track/6Dmy9tkyrAYORGHOcLwgaT) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Yo Confío En Ti](https://open.spotify.com/album/7H6wn6Ti52mpGLT6MlE10l) | 3:39 |
 | 19 | [Haz Lo Que Tu Quieras \(Sesiones Noviembre\)](https://open.spotify.com/track/5rr6L7v7hgNMTybeR1uVrl) | [Conquistando Fronteras](https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3) | [Haz Lo Que Tu Quieras \(Sesiones Noviembre\)](https://open.spotify.com/album/7FO53gFB2eGxDzzxA3Zv50) | 10:00 |
-| 20 | [Máximo Amor](https://open.spotify.com/track/6mfIArhzWOiP3i8TBsbjfm) | [Samuel Arroyave](https://open.spotify.com/artist/525KpcmXJz3NFfm6tXS7Cp) | [Máximo Amor](https://open.spotify.com/album/4MYtc6kQCl6CYpIXsopXJp) | 4:45 |
+| 20 | [Máximo Amor \(Mi Corona es Jesús\)](https://open.spotify.com/track/6mfIArhzWOiP3i8TBsbjfm) | [Samuel Arroyave](https://open.spotify.com/artist/525KpcmXJz3NFfm6tXS7Cp) | [Máximo Amor \(Mi Corona es Jesús\)](https://open.spotify.com/album/4MYtc6kQCl6CYpIXsopXJp) | 4:45 |
 | 21 | [Firmes, Sobrios, Despiertos \- En Vivo](https://open.spotify.com/track/4v0XHapPi0Ypq6CzElItH5) | [MiSion Música](https://open.spotify.com/artist/51ahRWn64eMFzkocEoQ0qy), [Melissa Gonzalez](https://open.spotify.com/artist/2r5Qs3tYSgLiYpHWhNaLLp), [Agus Colicheo](https://open.spotify.com/artist/40h1k6xnaNpCggKhnbeLcx), [Ezequiel Quinteros](https://open.spotify.com/artist/5T27fuMIJaPtgbUWeL7nOR) | [Generación Emergente \(En Vivo\)](https://open.spotify.com/album/4Bf9nP0ItaC0B5QKpvy0Cl) | 8:00 |
 | 22 | [El Fuego de Tus Ojos](https://open.spotify.com/track/5qyHT7I8o5tI1TH0eIBXRM) | [Semillas De Vida](https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2), [Oscar Deaza](https://open.spotify.com/artist/3vj1nevJHEmAyuVzRsAMmr) | [El Fuego de Tus Ojos](https://open.spotify.com/album/5aVE1rMcsmXgMSI1JNReKX) | 8:01 |
 | 23 | [Lámpara](https://open.spotify.com/track/6vzpu9C4ItkyH7oOQkHS6S) | [Bella Grimaldos](https://open.spotify.com/artist/1U806d4n1mJ9jF8WNpdaFv) | [Lámpara](https://open.spotify.com/album/4B6UD8QhwlHXK4nJf9f8ha) | 3:41 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 34 | [Tu Bandera](https://open.spotify.com/track/06PgASzFpT1pZRHJB8UOBD) | [Inspiracion Cristiana](https://open.spotify.com/artist/3uV9bRr6eupLx9tSzNLfEQ) | [Covers](https://open.spotify.com/album/6zT5F2Xj0JjAyNZo7SczvP) | 3:27 |
 | 35 | [Si estás conmigo](https://open.spotify.com/track/7Gl0niNOnK48dKHPuyKF3E) | [Eiem](https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i) | [Si estás conmigo](https://open.spotify.com/album/1MzdVpQqHT0auOvwyLPxAQ) | 2:30 |
 | 36 | [Dios nos amó](https://open.spotify.com/track/46nG55qxILEKoEigxYOMis) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Dios nos amó](https://open.spotify.com/album/4LVemL7KUplqZu3QEIJaKK) | 2:31 |
-| 37 | [incondicional](https://open.spotify.com/track/0iYBmXGGD5q4mrGLibq67R) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [incondicional](https://open.spotify.com/album/6VM5IcJJdnBnECkUZMGnpE) | 2:41 |
+| 37 | [Incondicional](https://open.spotify.com/track/0iYBmXGGD5q4mrGLibq67R) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [incondicional](https://open.spotify.com/album/6VM5IcJJdnBnECkUZMGnpE) | 2:41 |
 | 38 | [armonía](https://open.spotify.com/track/3Mk23FEQJjFbCVBTF1Y9uT) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Melodía](https://open.spotify.com/album/4l7CRZ3uMGVgUk2wgdyo5J) | 3:27 |
 | 39 | [Una Vida Contigo](https://open.spotify.com/track/0Ls3FcapjzMiSo54DWDbVR) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Emanuel Deliser](https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97) | [Una Vida Contigo](https://open.spotify.com/album/4L6pZx72tqO2FdKTrli1UN) | 3:02 |
 | 40 | [Tan Bueno](https://open.spotify.com/track/7AUW3JjrrXiJIwxpG5FJ3h) | [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W) | [Tan Bueno](https://open.spotify.com/album/3R440cLpzKtieDNzYwCQ7U) | 2:22 |

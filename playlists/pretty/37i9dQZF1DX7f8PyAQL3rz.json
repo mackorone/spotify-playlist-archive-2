@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1444807,
+  "num_followers": 1444679,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,34 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
+        "name": "FUNK DE CANALHA",
+        "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "pros menor da nova",
+      "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
         "name": "Esse Cupido N\u00e3o Me Ajuda",
         "url": "https://open.spotify.com/album/7kMvEhtZxd5CdhVqQBYtG2"
       },
@@ -147,34 +175,6 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
-        "name": "FUNK DE CANALHA",
-        "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "pros menor da nova",
-      "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
         "name": "Eu Venci o Mundo",
         "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
       },
@@ -191,38 +191,6 @@
       "duration_ms": 150861,
       "name": "Artista Gen\u00e9rico",
       "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/5SSoOUbZZlcKhYNIeaAXtN"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Pantera",
-      "url": "https://open.spotify.com/track/6xgf2Nigvj0JuyNFFDAG7t"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -255,6 +223,38 @@
       "duration_ms": 262158,
       "name": "Pacman de Panicat",
       "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/5SSoOUbZZlcKhYNIeaAXtN"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/6xgf2Nigvj0JuyNFFDAG7t"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -656,8 +656,20 @@
           "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
           "name": "DJ Glenner",
           "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mc Alysson",
+          "url": "https://open.spotify.com/artist/5vIP7W8vlKSsYvekbaQEgz"
+        },
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
         },
         {
           "name": "Pedro Lotto",
@@ -699,30 +711,6 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
-        "name": "A Vida \u00e9 Um Freestyle",
-        "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 200409,
-      "name": "Falsos Profetas",
-      "url": "https://open.spotify.com/track/5PMhAIXjGZaj6SBqOIXmsJ"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
         "name": "A Favela N\u00e3o Venceu",
         "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
       },
@@ -747,6 +735,30 @@
       "duration_ms": 269268,
       "name": "Neguin Desaforado",
       "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
+        "name": "A Vida \u00e9 Um Freestyle",
+        "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 200409,
+      "name": "Falsos Profetas",
+      "url": "https://open.spotify.com/track/5PMhAIXjGZaj6SBqOIXmsJ"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -843,30 +855,6 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
-        "name": "F\u00f3rmula Perfeita",
-        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
-      },
-      "artists": [
-        {
-          "name": "Tapsounds",
-          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "F\u00f3rmula Perfeita",
-      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
         "name": "Confiss\u00f5es",
         "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
       },
@@ -887,6 +875,30 @@
       "duration_ms": 156461,
       "name": "Confiss\u00f5es",
       "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
+        "name": "F\u00f3rmula Perfeita",
+        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
+      },
+      "artists": [
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "F\u00f3rmula Perfeita",
+      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -1211,6 +1223,30 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
+        "name": "NOVA: 2L's",
+        "url": "https://open.spotify.com/album/3NpuBxpNF0TBps3RmEBaZp"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "DJ CARLOZS",
+          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
+        }
+      ],
+      "duration_ms": 136650,
+      "name": "NOVA: 2L's",
+      "url": "https://open.spotify.com/track/1upJCA58emV5XezZ7yS1pU"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
         "name": "Advinha o CEP",
         "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
       },
@@ -1235,30 +1271,6 @@
       "duration_ms": 131368,
       "name": "Advinha o CEP",
       "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
-        "name": "NOVA: 2L's",
-        "url": "https://open.spotify.com/album/3NpuBxpNF0TBps3RmEBaZp"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Bia Soull",
-          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
-        },
-        {
-          "name": "DJ CARLOZS",
-          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
-        }
-      ],
-      "duration_ms": 136650,
-      "name": "NOVA: 2L's",
-      "url": "https://open.spotify.com/track/1upJCA58emV5XezZ7yS1pU"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -1339,30 +1351,6 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
-        "name": "Um Pouco Pensativo",
-        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        },
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
-        }
-      ],
-      "duration_ms": 139033,
-      "name": "Um Pouco Pensativo",
-      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
         "name": "CAN'T TOUCH THIS (REMIX)",
         "url": "https://open.spotify.com/album/7GxEdpLHtlnIleMqwgv5P2"
       },
@@ -1391,6 +1379,74 @@
       "duration_ms": 209142,
       "name": "CAN'T TOUCH THIS (REMIX)",
       "url": "https://open.spotify.com/track/7kxAU1jYYMnK13TUYLYSkV"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
+        "name": "Um Pouco Pensativo",
+        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
+        }
+      ],
+      "duration_ms": 139033,
+      "name": "Um Pouco Pensativo",
+      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Meio Feel",
+          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Perigos&Macetes",
+      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
+        "name": "Sol Na Lata",
+        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ PEPI",
+          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sol Na Lata",
+      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -1451,26 +1507,6 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Meio Feel",
-          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Perigos&Macetes",
-      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
         "name": "DIXAVANDO",
         "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
       },
@@ -1495,30 +1531,6 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
-        "name": "Sol Na Lata",
-        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Dj TC",
-          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
-        },
-        {
-          "name": "DJ PEPI",
-          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sol Na Lata",
-      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     },
     {
       "added_at": "2026-06-12 03:01:43",
@@ -1575,6 +1587,26 @@
     {
       "added_at": "2026-06-12 03:01:43",
       "album": {
+        "name": "Linha de frente",
+        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Linha de frente",
+      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
+    },
+    {
+      "added_at": "2026-06-12 03:01:43",
+      "album": {
         "name": "Vida de Chefe",
         "url": "https://open.spotify.com/album/5Ae8CNqLVI1zHI5B8ZkKpw"
       },
@@ -1595,26 +1627,6 @@
       "duration_ms": 208000,
       "name": "Vida de Chefe",
       "url": "https://open.spotify.com/track/3Dam5n8I0yCplTnCu9VmQP"
-    },
-    {
-      "added_at": "2026-06-12 03:01:43",
-      "album": {
-        "name": "Linha de frente",
-        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Linha de frente",
-      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
     }
   ],
   "unique_name": "creme",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,701 likes - 160 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,781 likes - 160 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 29 | [Dark & blue](https://open.spotify.com/track/1ExCXsHQca6ZTrHDxLuYIL) | [Zamaro](https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX) | [Dark & blue](https://open.spotify.com/album/5ZdUEDpMTbRYGYeJGuZyfc) | 3:09 |
 | 30 | [Memories](https://open.spotify.com/track/4POiTVzw0pvsLJeZ5xhFPy) | [Sage Prod](https://open.spotify.com/artist/7lzGrOnmAQKw2TufmSnSwI) | [Memories](https://open.spotify.com/album/1unh9ihUdgeG9C1i6qBZ55) | 1:05 |
 | 31 | [savestate](https://open.spotify.com/track/3pIpe4JRGmemKCKEXRnmwP) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [savestate](https://open.spotify.com/album/6kOhJ4wFet30ItorRmTQNJ) | 2:07 |
-| 32 | [wind gust](https://open.spotify.com/track/2ANDqwLTlYcZVDFKFvawHd) | [sønfy](https://open.spotify.com/artist/6zeSY8J3qBv7QIXAzHkVOg), [SXULXEMPINESS](https://open.spotify.com/artist/2UIr5L1P9ijtegNcqZkIxZ) | [wind gust](https://open.spotify.com/album/10lpQrRk1lraEjMlN6riee) | 1:53 |
+| 32 | [wind gust](https://open.spotify.com/track/2ANDqwLTlYcZVDFKFvawHd) | [sønfy](https://open.spotify.com/artist/6zeSY8J3qBv7QIXAzHkVOg), [SXULXEMPINESS](https://open.spotify.com/artist/4OcGwU5zrKkWFjm5nlbbnW) | [wind gust](https://open.spotify.com/album/10lpQrRk1lraEjMlN6riee) | 1:53 |
 | 33 | [Digressions](https://open.spotify.com/track/5kTpr7QtW1n5dk68GLTGqL) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Digressions](https://open.spotify.com/album/5dzNjLlC4M35rakoVQr6SU) | 2:28 |
 | 34 | [distant feeling](https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ) | [dreamzz](https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF) | [distant feeling](https://open.spotify.com/album/00oB7CIX2hBwvVily875kB) | 1:39 |
 | 35 | [a normal day](https://open.spotify.com/track/6c4SnSOZMY35he7Q47Y2rT) | [seeparticles](https://open.spotify.com/artist/1lheefsYyfWIxsQ57sgPQE), [oversyncing](https://open.spotify.com/artist/7spI8g04DQFgq7CFYS5sUf) | [a normal day](https://open.spotify.com/album/36C0KW2K3mPxayu15rB3wu) | 1:24 |

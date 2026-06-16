@@ -872,7 +872,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 207558,
       "name": "baka bukas",
       "url": "https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X"
@@ -4125,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "Limot",
+        "url": "https://open.spotify.com/album/575QXywmTHxwPP93o04Uqi"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241846,
+      "name": "Limot",
+      "url": "https://open.spotify.com/track/7HOEqncRxY4CC7HUMp4kPa"
+    },
+    {
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/0OLc8IeGDbmpb9TSb6Tv7i"
       },
@@ -4390,6 +4408,24 @@
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
+    },
+    {
+      "album": {
+        "name": "Mahiyain",
+        "url": "https://open.spotify.com/album/3v7orZPuXkdekfVWbCdMMu"
+      },
+      "artists": [
+        {
+          "name": "Sassa Gurl",
+          "url": "https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161100,
+      "name": "Mahiyain",
+      "url": "https://open.spotify.com/track/2FCyRttdyhPkXclineRZjx"
     },
     {
       "album": {
@@ -6098,7 +6134,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 254400,
       "name": "Pano",
       "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
@@ -6116,7 +6152,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 200878,
       "name": "Pano Na",
       "url": "https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY"
@@ -6661,6 +6697,42 @@
     },
     {
       "album": {
+        "name": "Puwang",
+        "url": "https://open.spotify.com/album/2q0OwPDDpeorimjsfcV5ZI"
+      },
+      "artists": [
+        {
+          "name": "Pastel Sky",
+          "url": "https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190526,
+      "name": "Puwang",
+      "url": "https://open.spotify.com/track/7kZaGE8w0Zz4wiXGRt6TFg"
+    },
+    {
+      "album": {
+        "name": "Pwede Bang Tayo Nalang?",
+        "url": "https://open.spotify.com/album/0yXfHQkG64LyiNIMOhCKCA"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289435,
+      "name": "Pwede Bang Tayo Nalang?",
+      "url": "https://open.spotify.com/track/218UNO7YUViTZyz1Tt46b9"
+    },
+    {
+      "album": {
         "name": "Pwede Ka Ba?",
         "url": "https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf"
       },
@@ -6726,7 +6798,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 244520,
       "name": "Randomantic",
       "url": "https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT"

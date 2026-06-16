@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75702,
+  "num_followers": 75708,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -47,18 +47,30 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Kaprysy",
-        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
+        "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
+        "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+        },
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        },
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
-      "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
+      "duration_ms": 209655,
+      "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
+      "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -131,30 +143,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
-        "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
+        "name": "Kaprysy",
+        "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
       },
       "artists": [
         {
-          "name": "M\u0119skie Granie Orkiestra",
-          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
-        },
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        },
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 209655,
-      "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
-      "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
+      "duration_ms": 197000,
+      "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
+      "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -360,8 +360,8 @@
           "url": "https://open.spotify.com/artist/6e14dV47cVGbpJqh1SNyFX"
         },
         {
-          "name": "Mieczyslaw Szczesniak",
-          "url": "https://open.spotify.com/artist/3q1uXKpOCb0xFZgEF2DYRV"
+          "name": "Mietek Szczesniak",
+          "url": "https://open.spotify.com/artist/5ogcdxmZR3FYlqpyla5l8f"
         }
       ],
       "duration_ms": 257665,
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Nasz Film (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
-      },
-      "artists": [
-        {
-          "name": "Antek Smykiewicz",
-          "url": "https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863"
-        }
-      ],
-      "duration_ms": 202127,
-      "name": "Pomimo Burz",
-      "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Osobista kolekcja 2",
         "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 280737,
       "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
       "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Nasz Film (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
+      },
+      "artists": [
+        {
+          "name": "Antek Smykiewicz",
+          "url": "https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863"
+        }
+      ],
+      "duration_ms": 202127,
+      "name": "Pomimo Burz",
+      "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Bumerang",
-        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
-      },
-      "artists": [
-        {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
-        }
-      ],
-      "duration_ms": 246771,
-      "name": "Zosta\u0144",
-      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Monkey Business",
         "url": "https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 180394,
       "name": "Byle jak",
       "url": "https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Bumerang",
+        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
+      },
+      "artists": [
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "duration_ms": 246771,
+      "name": "Zosta\u0144",
+      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "M\u00f3j dom",
-        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
-      },
-      "artists": [
-        {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
-        }
-      ],
-      "duration_ms": 251540,
-      "name": "Dobry moment",
-      "url": "https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Ksiega Urodzaju",
         "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 239600,
       "name": "Silacz",
       "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "M\u00f3j dom",
+        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
+      },
+      "artists": [
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Dobrze, \u017ce Ci\u0119 mam",
+      "url": "https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
+      },
+      "artists": [
+        {
+          "name": "Piotr Zio\u0142a",
+          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Prawda o nas",
         "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 195789,
       "name": "Prawda o nas",
       "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "M\u00f3j dom",
-        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
-      },
-      "artists": [
-        {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Dobrze, \u017ce Ci\u0119 mam",
-      "url": "https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

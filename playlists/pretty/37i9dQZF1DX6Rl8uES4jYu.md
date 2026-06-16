@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,950 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,926 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gotta Be Us \(Be The People\)](https://open.spotify.com/track/0ukXWUAtiaxkJzqIAWBFou) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns), [The V.C.U Black Awakening Choir](https://open.spotify.com/artist/0bWK7IfDl7NBYGOiiY7or5) | [Gotta Be Us \(Be The People\)](https://open.spotify.com/album/6DB9aJSH9YGNlQLWBRYalw) | 2:50 |
+| 1 | [Gotta Be Us \(Be The People\)](https://open.spotify.com/track/0ukXWUAtiaxkJzqIAWBFou) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns), [The V.C.U Black Awakening Choir](https://open.spotify.com/artist/0bWK7IfDl7NBYGOiiY7or5) | [Gotta Be Us \(Be The People\)](https://open.spotify.com/album/6DB9aJSH9YGNlQLWBRYalw) | 2:50 |
 | 2 | [Back In My Bed](https://open.spotify.com/track/6pRfdwtWZaAkPm5swHaz5A) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Back In My Bed](https://open.spotify.com/album/6eebyp11cjmRjQJZ3UO0K3) | 2:37 |
 | 3 | [Rain Check \(feat\. Quinn XCII\)](https://open.spotify.com/track/4cvLkmpPOopL1RCpdHIho1) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Rain Check \(feat\. Quinn XCII\)](https://open.spotify.com/album/2C7DC3mMFQelrT6GeMCs80) | 2:48 |
 | 4 | [No Pressure](https://open.spotify.com/track/6DDhqr1EvvlijbuRpXKlFv) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Retrospect](https://open.spotify.com/album/3vGrwRFReSB2XMcb6fA24L) | 3:18 |

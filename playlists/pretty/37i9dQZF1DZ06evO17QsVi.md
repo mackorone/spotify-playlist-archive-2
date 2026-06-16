@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,234,328 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,371 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 36 | [It Ain't Easy](https://open.spotify.com/track/6pFfeJceBPGdzTOGgUcLWZ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:53 |
 | 37 | [My Block \- Nitty Remix](https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 5:22 |
 | 38 | [Starin' Through My Rear View](https://open.spotify.com/track/0hSpXZZzZakniKCgAFQjLi) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Gang Related \(The Soundtrack\)](https://open.spotify.com/album/5iqST54O6TuS2703794jwj) | 5:13 |
-| 39 | [Ballad Of A Dead Soulja](https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:15 |
-| 40 | [Hellrazor](https://open.spotify.com/track/1zM8jy4HqgLD12XgHatfch) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [R U Still Down? \[Remember Me\]](https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl) | 4:15 |
+| 39 | [Hellrazor](https://open.spotify.com/track/1zM8jy4HqgLD12XgHatfch) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [R U Still Down? \[Remember Me\]](https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl) | 4:15 |
+| 40 | [Ballad Of A Dead Soulja](https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:15 |
 | 41 | [Still Ballin' \- Nitty Remix](https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:49 |
 | 42 | [Never Had A Friend Like Me](https://open.spotify.com/track/0CQGTqRcp8OS8wAO1BqWHU) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Gridlock'd \(The Soundtrack\)](https://open.spotify.com/album/5g7rRreBzEQmUP8wQTZTvl) | 4:26 |
 | 43 | [Smile](https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Johnny P](https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj) | [The Untouchable](https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Soldier Like Me](https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:50 |
 | 50 | [Living in Pain \(feat\. 2Pac, Mary J\. Blige & Nas\)](https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:01 |
 
-Snapshot ID: `aiydgAAAAACvwJFTGR/5VSpPOsenHcd7`
+Snapshot ID: `ai3vAAAAAAAakr5p/sJ6al2w4kcB7tFm`

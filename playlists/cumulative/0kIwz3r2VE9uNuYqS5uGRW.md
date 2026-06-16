@@ -4,7 +4,7 @@
 
 > 
 
-220 songs - 11 hr 30 min
+221 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Or Nah \- Spanish Version](https://open.spotify.com/track/3szuFgl7zsoSKNtJAWpMPB) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Or Nah \(Spanish Version\)](https://open.spotify.com/album/67MJVFPDbsF5MkaqICtx2U) | 2:05 | 2026-03-13 |  |
 | [Out Of Your Mind](https://open.spotify.com/track/5GrkmVVLabYjq1iap5aqF2) | [VANNAH LEE](https://open.spotify.com/artist/0o2AeqlJETyETAvfZcVgvG) | [Out Of Your Mind](https://open.spotify.com/album/2pzwxx7gyFsQG9ZZprCgpP) | 3:07 | 2025-09-15 |  |
 | [peak cinema](https://open.spotify.com/track/3Lt7BxHEYOLcfWURRf7SdR) | [Nakeltbg](https://open.spotify.com/artist/2Vg7QmOQ4alrHtr5vu677Q) | [COALESCENCE \(7\)](https://open.spotify.com/album/5oFCxq9UhLjkbmlcKbem7U) | 2:46 | 2025-09-02 |  |
+| [Permission](https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Permission](https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI) | 2:52 | 2026-06-15 |  |
 | [PERREO MALDITO BB](https://open.spotify.com/track/52JXO6Hq0RyQYfTtsLFd5F) | [J.Cantero](https://open.spotify.com/artist/4UPnYaUpsfkxIf8WbUhYgb) | [ALL BEATS 2](https://open.spotify.com/album/6POoVSAMhdL1BT0Z2m0MmR) | 3:37 | 2025-08-11 |  |
 | [personal](https://open.spotify.com/track/3euE3Hrf5sGffTMoWaQw80) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N), [taidyn](https://open.spotify.com/artist/28xsr9dcYuN8Kmy1zdN4xx) | [personal](https://open.spotify.com/album/38zNure1dJiTE4rhKE2Fxf) | 2:58 | 2026-04-07 |  |
 | [Pierdo el Control](https://open.spotify.com/track/3C0bku6a2HSE7D7SdR1h0r) | [NayroMusic](https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc) | [Cuerdas Nocturnas](https://open.spotify.com/album/1HZmIA87i8LsruJ1rSglCC) | 2:49 | 2026-06-13 |  |

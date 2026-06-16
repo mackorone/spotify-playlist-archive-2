@@ -4,7 +4,7 @@
 
 > la nuova scena pop italiana 🇮🇹 cover: Birthh
 
-1,400 songs - 2 day 18 hr 52 min
+1,400 songs - 2 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -933,7 +933,7 @@
 | [Paraíso \(feat\. PRACI\)](https://open.spotify.com/track/3oFDugsZh7LccP3xzhOvYe) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [CATALINA](https://open.spotify.com/album/7fqG8FHvN56MVDBZy08u1F) | 2:34 | 2026-05-14 |  |
 | [Pari o Dispari](https://open.spotify.com/track/5XpWQOMGtzj182L7qbePrD) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Pari o Dispari](https://open.spotify.com/album/10Kjjz2O6Nzj5ciQ9KylKN) | 2:54 | 2025-05-08 | 2025-06-27 |
 | [Parlami D’Amore](https://open.spotify.com/track/0w5UfYUtSObxDkmdb1wBZA) | [KIMONO](https://open.spotify.com/artist/5uIBCnjr8sCPeOOhQFY3Xm), [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [Parlami D’Amore](https://open.spotify.com/album/5GR3BGXxLJGznDcYSbMquo) | 2:54 | 2025-12-11 | 2026-02-13 |
-| [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:40 | 2026-05-07 |  |
+| [PARLAR D’AMORE \(feat\. Bresh\)](https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:43 | 2026-05-07 |  |
 | [PARTE DI ME](https://open.spotify.com/track/4xTZ1gUtrhW8CEau53MMoL) | [GUSA](https://open.spotify.com/artist/14Vlzht8zPQPQNHDCnNshZ) | [PARTE DI ME](https://open.spotify.com/album/7i78QqkMNNfT2t58UkD8HH) | 2:47 | 2026-01-22 | 2026-02-20 |
 | [PARTENOPE](https://open.spotify.com/track/2cLhmX9IiiarAdCGOP7pzA) | [TALYRA](https://open.spotify.com/artist/2jw1LJcvAbLNku8JE765p2) | [PARTENOPE](https://open.spotify.com/album/46HNlqA3hRB7b8rSBR14v9) | 2:26 | 2025-08-07 | 2025-09-26 |
 | [PASS VIP](https://open.spotify.com/track/2gVNpH2fsgHmjMWgPqObLe) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [PASS VIP](https://open.spotify.com/album/2KMsvUh5kbm5mLEhTAomsE) | 2:36 | 2025-11-06 | 2025-12-12 |

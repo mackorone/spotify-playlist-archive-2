@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Druhh  e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,923 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,921 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 55 | [Mundo](https://open.spotify.com/track/2zHprdPPRHC4jMVP2wZ6g7) | [SegD](https://open.spotify.com/artist/2GazWHhobZ7x5XuD2rqBRN), [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [BOOTLEG](https://open.spotify.com/artist/3myhT6BTwjItO0COH0r8JF) | [Mundo](https://open.spotify.com/album/3G5GXhun0l0d1MFCstWiAW) | 2:35 |
 | 56 | [FICTÍCIA](https://open.spotify.com/track/14y5Kssru7BC6cIDfu7iys) | [Lil⁷ Holmes](https://open.spotify.com/artist/1tGkl9sCN1F47RPtZYhPO0), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [KT](https://open.spotify.com/artist/2JvPwmp2vRfZ6zZi2CI5yf), [Crisex](https://open.spotify.com/artist/0o8aKcYavak25BoMrheRzC) | [FICTÍCIA](https://open.spotify.com/album/6a9s0KIIqkmzZ5lITlAhwO) | 2:31 |
 | 57 | [Depois Desse Show](https://open.spotify.com/track/0H1CU3L4ATZ5yfQOdwVPw0) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt) | [Depois Desse Show](https://open.spotify.com/album/0TUgdpPbD2eWUpzM5MHUQ5) | 2:13 |
-| 58 | [CAPACIDADE](https://open.spotify.com/track/7xLjxewtVAAuhCxEtdYHED) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6) | [CAPACIDADE](https://open.spotify.com/album/1SXVb10fqlXBWRgpm5FhPv) | 2:20 |
+| 58 | [CAPACIDADE](https://open.spotify.com/track/7xLjxewtVAAuhCxEtdYHED) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Zion](https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy) | [CAPACIDADE](https://open.spotify.com/album/1SXVb10fqlXBWRgpm5FhPv) | 2:20 |
 | 59 | [luv](https://open.spotify.com/track/3oiEqOPtZfGZGH1BDZJOEN) | [costabilekidd](https://open.spotify.com/artist/4aF4nfq8Pm1Hf6lR5yXqis), [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [purp](https://open.spotify.com/artist/1sYDvEyPno3G1M4Cnqa8cJ) | [luv](https://open.spotify.com/album/2USaTBCZwi2pW31Ug0Ksbo) | 2:28 |
 | 60 | [Baludão 3](https://open.spotify.com/track/091KXyqyN2yjAQ1euD5lIk) | [Mc Tikão](https://open.spotify.com/artist/4nUFa8jPQkxf3CTj5XzAly), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Dkria](https://open.spotify.com/artist/2ePVbElTLzV4pYWxwuTciH), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [Baludão 3](https://open.spotify.com/album/70DYcRwEMBExeAVs2NG19r) | 4:15 |
 | 61 | [Sereia](https://open.spotify.com/track/2OdMlYn3ZpETHEPOPfe0Gf) | [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [Lana](https://open.spotify.com/artist/485accR5l0fIMrCw1agvpO), [Dan Lellis](https://open.spotify.com/artist/7Jp5Nw7cNZTkwFgJX06Cqk), [Pacificadores](https://open.spotify.com/artist/2uwIwpXUSnFLDvw6tfiX43) | [Sereia](https://open.spotify.com/album/11qUTi2YC3euArPdwxZ98q) | 4:25 |

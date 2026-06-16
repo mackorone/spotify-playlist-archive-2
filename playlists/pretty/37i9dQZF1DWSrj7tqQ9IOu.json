@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402225,
+  "num_followers": 402220,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mai 2026",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "Voicetrack Generation",
-        "url": "https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm"
-      },
-      "artists": [
-        {
-          "name": "Anetha",
-          "url": "https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa"
-        },
-        {
-          "name": "ring noord",
-          "url": "https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A"
-        }
-      ],
-      "duration_ms": 253953,
-      "name": "Voicetrack Generation",
-      "url": "https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "Anomalie",
         "url": "https://open.spotify.com/album/6YgQgvhLzxNDNZMu8Z8rC7"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 221561,
       "name": "Anomalie",
       "url": "https://open.spotify.com/track/7BjtnFWiaBWdbr5nKF6ogB"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "Voicetrack Generation",
+        "url": "https://open.spotify.com/album/1KR4NBbIq5TzITwiomAykm"
+      },
+      "artists": [
+        {
+          "name": "Anetha",
+          "url": "https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa"
+        },
+        {
+          "name": "ring noord",
+          "url": "https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A"
+        }
+      ],
+      "duration_ms": 253953,
+      "name": "Voicetrack Generation",
+      "url": "https://open.spotify.com/track/41gmO7kWreWhpNxlHWHODa"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "Com\u00e8te",
-        "url": "https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp"
-      },
-      "artists": [
-        {
-          "name": "2L",
-          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Com\u00e8te",
-      "url": "https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/1h4JGEOMUYsGrJa9OsB2aG"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 229090,
       "name": "With You",
       "url": "https://open.spotify.com/track/1gqGxha8dJi77aR5x18Mzg"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "Com\u00e8te",
+        "url": "https://open.spotify.com/album/0vLx3DkZgkthJ3cSjazKqp"
+      },
+      "artists": [
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Com\u00e8te",
+      "url": "https://open.spotify.com/track/6qHOXV3i98NzBq3akdRgWS"
     },
     {
       "added_at": "2026-05-31 22:00:06",

@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 83448,
+  "num_followers": 83464,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Onvoorspelbaar",
-        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
-      },
-      "artists": [
-        {
-          "name": "De Kast",
-          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Hart Van Mijn Gevoel",
-      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Verse Vis En Lingerie",
         "url": "https://open.spotify.com/album/0DvNs9Ozl7viPlteEZ3D0Q"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 227066,
       "name": "Dans Je De Hele Nacht Met Mij",
       "url": "https://open.spotify.com/track/0kd4Br1X9dw2lZxeHQl7Wj"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Onvoorspelbaar",
+        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
+      },
+      "artists": [
+        {
+          "name": "De Kast",
+          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Hart Van Mijn Gevoel",
+      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Niets te verliezen",
-        "url": "https://open.spotify.com/album/432zDZZ4qvY2MJxIYruxg8"
-      },
-      "artists": [
-        {
-          "name": "De Kast",
-          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "In Nije Dei (Live)",
-      "url": "https://open.spotify.com/track/6ckD6hc0JylXs6xHuwKx3b"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Kon ik maar even bij je zijn",
         "url": "https://open.spotify.com/album/1dxE4FTB0e9gtDEqjByt0J"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 281493,
       "name": "Kon Ik Maar Even Bij Je Zijn",
       "url": "https://open.spotify.com/track/0vWOq4z0mDYs0GSs7imUEd"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Niets te verliezen",
+        "url": "https://open.spotify.com/album/432zDZZ4qvY2MJxIYruxg8"
+      },
+      "artists": [
+        {
+          "name": "De Kast",
+          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "In Nije Dei (Live)",
+      "url": "https://open.spotify.com/track/6ckD6hc0JylXs6xHuwKx3b"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Ruth Jacott",
-        "url": "https://open.spotify.com/album/1vnvBTPGwL1lJGZqHJvJTr"
-      },
-      "artists": [
-        {
-          "name": "Ruth Jacott",
-          "url": "https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u"
-        },
-        {
-          "name": "Paul de Leeuw",
-          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Blijf Bij Mij",
-      "url": "https://open.spotify.com/track/0FK2Df3QM8sXfNGghddAaC"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Met Hart En Ziel",
         "url": "https://open.spotify.com/album/352HAAGl4O9F9SxFGikPlE"
       },
@@ -519,6 +499,26 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Ruth Jacott",
+        "url": "https://open.spotify.com/album/1vnvBTPGwL1lJGZqHJvJTr"
+      },
+      "artists": [
+        {
+          "name": "Ruth Jacott",
+          "url": "https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u"
+        },
+        {
+          "name": "Paul de Leeuw",
+          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Blijf Bij Mij",
+      "url": "https://open.spotify.com/track/0FK2Df3QM8sXfNGghddAaC"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "15 Jaar Hits",
         "url": "https://open.spotify.com/album/0aHzVXees4v4iEK5LIbX5H"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Meer Dan Ooit",
-        "url": "https://open.spotify.com/album/1CdfRQ9JgqHO19ERy3HkSr"
-      },
-      "artists": [
-        {
-          "name": "Edsilia Rombley",
-          "url": "https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "Hemel & Aarde",
-      "url": "https://open.spotify.com/track/16kFUvzMPTUEcE4rQjT2n5"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Acda en de Munnik",
         "url": "https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 179000,
       "name": "Mooi Liedje",
       "url": "https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Meer Dan Ooit",
+        "url": "https://open.spotify.com/album/1CdfRQ9JgqHO19ERy3HkSr"
+      },
+      "artists": [
+        {
+          "name": "Edsilia Rombley",
+          "url": "https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "Hemel & Aarde",
+      "url": "https://open.spotify.com/track/16kFUvzMPTUEcE4rQjT2n5"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Manen Kweken",
-        "url": "https://open.spotify.com/album/7vs2r7qK6Tuf55tzqBmDHK"
+        "name": "Linda Roos & Jessica",
+        "url": "https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz"
       },
       "artists": [
         {
-          "name": "Marcel De Groot",
-          "url": "https://open.spotify.com/artist/1ODOlb645fdLv99x5uzYkk"
+          "name": "Linda Roos & Jessica",
+          "url": "https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Mag Ik Naar Je Kijken?",
-      "url": "https://open.spotify.com/track/6nqMWzjqiJCn8VdkwNsuet"
+      "duration_ms": 238000,
+      "name": "Ademnood",
+      "url": "https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Niks Is Zoas 't Lek",
-        "url": "https://open.spotify.com/album/6NMjDUpZ4HlJpW4A6OZjWL"
+        "name": "Manen Kweken",
+        "url": "https://open.spotify.com/album/7vs2r7qK6Tuf55tzqBmDHK"
       },
       "artists": [
         {
-          "name": "Skik",
-          "url": "https://open.spotify.com/artist/1ezIAAhRJCCU5C6gRWX4xc"
+          "name": "Marcel De Groot",
+          "url": "https://open.spotify.com/artist/1ODOlb645fdLv99x5uzYkk"
         }
       ],
-      "duration_ms": 290840,
-      "name": "Op Fietse",
-      "url": "https://open.spotify.com/track/0C8H9i00fPS3fJkjQ2eTOF"
+      "duration_ms": 261200,
+      "name": "Mag Ik Naar Je Kijken?",
+      "url": "https://open.spotify.com/track/6nqMWzjqiJCn8VdkwNsuet"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -947,34 +947,34 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Linda Roos & Jessica",
-        "url": "https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz"
+        "name": "Lief",
+        "url": "https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP"
       },
       "artists": [
         {
-          "name": "Linda Roos & Jessica",
-          "url": "https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc"
+          "name": "Paul de Leeuw",
+          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Ademnood",
-      "url": "https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE"
+      "duration_ms": 284093,
+      "name": "'k Heb Je Lief",
+      "url": "https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3"
     },
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Badmuts Verplicht",
-        "url": "https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem"
+        "name": "Niks Is Zoas 't Lek",
+        "url": "https://open.spotify.com/album/6NMjDUpZ4HlJpW4A6OZjWL"
       },
       "artists": [
         {
-          "name": "The Amazing Stroopwafels",
-          "url": "https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4"
+          "name": "Skik",
+          "url": "https://open.spotify.com/artist/1ezIAAhRJCCU5C6gRWX4xc"
         }
       ],
-      "duration_ms": 205520,
-      "name": "Oude Maasweg",
-      "url": "https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6"
+      "duration_ms": 290840,
+      "name": "Op Fietse",
+      "url": "https://open.spotify.com/track/0C8H9i00fPS3fJkjQ2eTOF"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Lief",
-        "url": "https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP"
+        "name": "Badmuts Verplicht",
+        "url": "https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem"
       },
       "artists": [
         {
-          "name": "Paul de Leeuw",
-          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
+          "name": "The Amazing Stroopwafels",
+          "url": "https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4"
         }
       ],
-      "duration_ms": 284093,
-      "name": "'k Heb Je Lief",
-      "url": "https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3"
+      "duration_ms": 205520,
+      "name": "Oude Maasweg",
+      "url": "https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Het Beste Uit De Q Music Top 500 Van Het Foute Uur",
-        "url": "https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt"
+        "name": "ParaCDmol",
+        "url": "https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW"
       },
       "artists": [
         {
-          "name": "Henk Westbroek",
-          "url": "https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2"
+          "name": "Paul de Leeuw",
+          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
         }
       ],
-      "duration_ms": 268723,
-      "name": "Zelfs Je Naam Is Mooi",
-      "url": "https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX"
+      "duration_ms": 235466,
+      "name": "Ik Wil Niet Dat Je Liegt",
+      "url": "https://open.spotify.com/track/76ikfBK8uCzlSmhlYKQMLm"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "ParaCDmol",
-        "url": "https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW"
+        "name": "Het Beste Uit De Q Music Top 500 Van Het Foute Uur",
+        "url": "https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt"
       },
       "artists": [
         {
-          "name": "Paul de Leeuw",
-          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
+          "name": "Henk Westbroek",
+          "url": "https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2"
         }
       ],
-      "duration_ms": 235466,
-      "name": "Ik Wil Niet Dat Je Liegt",
-      "url": "https://open.spotify.com/track/76ikfBK8uCzlSmhlYKQMLm"
+      "duration_ms": 268723,
+      "name": "Zelfs Je Naam Is Mooi",
+      "url": "https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Mooi Weer Een CD",
+        "url": "https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6"
+      },
+      "artists": [
+        {
+          "name": "Paul de Leeuw",
+          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
+        },
+        {
+          "name": "Simone Kleinsma",
+          "url": "https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "Zonder Jou",
+      "url": "https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Hazes 100",
         "url": "https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K"
       },
@@ -1147,22 +1167,6 @@
       "duration_ms": 219293,
       "name": "Zomer",
       "url": "https://open.spotify.com/track/7n6IVz6fc1yGRi1DSmkRom"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Liefdesliedjes",
-        "url": "https://open.spotify.com/album/7CdAzPf0nk3FfsXGuZWiI7"
-      },
-      "artists": [
-        {
-          "name": "De Jazzpolitie",
-          "url": "https://open.spotify.com/artist/1nOTwY0FfKdXCBQiuQILbG"
-        }
-      ],
-      "duration_ms": 284266,
-      "name": "Liefdesliedjes",
-      "url": "https://open.spotify.com/track/0wD43UCEku61GIZB89O0vP"
     }
   ],
   "unique_name": "90's Nederlandstalig",

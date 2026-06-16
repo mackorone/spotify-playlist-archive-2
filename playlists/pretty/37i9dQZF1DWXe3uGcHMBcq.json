@@ -1,12 +1,12 @@
 {
   "description": "Rock out to the *perfect* songs from all your favorite Disney Channel shows and movies!",
-  "num_followers": 122451,
+  "num_followers": 122453,
   "original_name": "Disney Channel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANVsdEP2jakwi2UNKlQJcurwsPwH",
+  "snapshot_id": "AAAAACO65kuyJmV8HmZYt2fu1laRRLdY",
   "tracks": [
     {
       "added_at": "2026-06-12 13:00:05",
@@ -1331,6 +1331,34 @@
       "duration_ms": 230537,
       "name": "Calling All the Monsters - 2021 Version",
       "url": "https://open.spotify.com/track/3IeIP2Uo618tgzYbWhcn5a"
+    },
+    {
+      "added_at": "2026-06-15 19:01:20",
+      "album": {
+        "name": "Perfect Princess (From \"Descendants: Wicked Wonderland\")",
+        "url": "https://open.spotify.com/album/0kJ4tUgUhvna6q8QT4w0Xp"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Malia Baker",
+          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 223198,
+      "name": "Perfect Princess - From \"Descendants: Wicked Wonderland\"",
+      "url": "https://open.spotify.com/track/1zfX5uZ5PdBRuKjSWgKOvf"
     },
     {
       "added_at": "2026-06-12 13:00:05",

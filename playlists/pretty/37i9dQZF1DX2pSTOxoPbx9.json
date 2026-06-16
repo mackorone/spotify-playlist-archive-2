@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Hunger of the Pine",
         "url": "https://open.spotify.com/album/3DtuLo5Z9bQRaPv2qIBxXW"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 298670,
       "name": "Hunger of the Pine",
       "url": "https://open.spotify.com/track/57gf8TTzlk1BE5R4C7gfz6"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Everything We Do Is Wrong",
-        "url": "https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "Everything We Do Is Wrong",
-      "url": "https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "i was cruel - demo take",
         "url": "https://open.spotify.com/album/0WETCSVADsJc1Dh8XhD60k"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 184500,
       "name": "i was cruel - demo take",
       "url": "https://open.spotify.com/track/5ZHjO3pSex3R92vw4KNlfP"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Everything We Do Is Wrong",
+        "url": "https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Everything We Do Is Wrong",
+      "url": "https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
+        "name": "Fever To The Form",
+        "url": "https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 252080,
+      "name": "House Of Saint Give Me",
+      "url": "https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Fever To The Form",
-        "url": "https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 252080,
-      "name": "House Of Saint Give Me",
-      "url": "https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Until",
         "url": "https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB"
-      },
-      "artists": [
-        {
-          "name": "Sleep Thieves",
-          "url": "https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY"
-        }
-      ],
-      "duration_ms": 123160,
-      "name": "Out of the Darkness",
-      "url": "https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Tomorrow Is My Turn",
         "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 272720,
       "name": "O Love Is Teasin'",
       "url": "https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB"
+      },
+      "artists": [
+        {
+          "name": "Sleep Thieves",
+          "url": "https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY"
+        }
+      ],
+      "duration_ms": 123160,
+      "name": "Out of the Darkness",
+      "url": "https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED"
     },
     {
       "added_at": "2026-04-02 20:42:56",

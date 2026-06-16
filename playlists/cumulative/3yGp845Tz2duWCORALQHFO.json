@@ -31449,6 +31449,24 @@
     },
     {
       "album": {
+        "name": "Fear No Evil",
+        "url": "https://open.spotify.com/album/0yiLbDQaDMfpXzVy8u7YnL"
+      },
+      "artists": [
+        {
+          "name": "WLDFLOW3R",
+          "url": "https://open.spotify.com/artist/5lH9NA8z83Bg4GVt15FVRb"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288402,
+      "name": "Fear No Evil",
+      "url": "https://open.spotify.com/track/5t7G5WVzsCycz9NACihu2b"
+    },
+    {
+      "album": {
         "name": "Fee Fi Fo Fum (feat. KAM-BU)",
         "url": "https://open.spotify.com/album/74gn9OK41NsDSvj0CKeLFl"
       },

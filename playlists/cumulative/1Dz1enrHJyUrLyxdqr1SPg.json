@@ -1175,6 +1175,28 @@
     },
     {
       "album": {
+        "name": "Classic Guitar For Kids, Vol. 2 (Radio Edit)",
+        "url": "https://open.spotify.com/album/6j9R5kQRUSD76rZlqnimry"
+      },
+      "artists": [
+        {
+          "name": "JONGRA",
+          "url": "https://open.spotify.com/artist/0751WlaYMHElFPfbzmlCZK"
+        },
+        {
+          "name": "Jonas Granly",
+          "url": "https://open.spotify.com/artist/6LTCXrlxBVvPrQrwPzz9FU"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67149,
+      "name": "Lazy Walk",
+      "url": "https://open.spotify.com/track/7vUe8kn8KYiFrQi3z8EN7W"
+    },
+    {
+      "album": {
         "name": "Le Ombre Della Notte",
         "url": "https://open.spotify.com/album/432h1Nl6GfSmkgBHktsEID"
       },

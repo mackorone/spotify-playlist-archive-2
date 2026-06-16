@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added regularly :) www.avondalerecords.com",
-  "name": "Shuffle Roulette",
+  "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
+  "name": "Spotify Radio",
   "tracks": [
     {
       "album": {
@@ -964,6 +964,24 @@
       "duration_ms": 97952,
       "name": "All The Right Wrongs",
       "url": "https://open.spotify.com/track/0i5InGRQt9vzhLmXNLiDvf"
+    },
+    {
+      "album": {
+        "name": "All Went Wrong",
+        "url": "https://open.spotify.com/album/0JqavCorMxMR3QITtX3DDb"
+      },
+      "artists": [
+        {
+          "name": "Rick Diamond",
+          "url": "https://open.spotify.com/artist/2FX1JoyEJdoKO0pW8S612Q"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "All Went Wrong",
+      "url": "https://open.spotify.com/track/6wdsPcnzIvAB48LAZLiaI4"
     },
     {
       "album": {
@@ -3918,7 +3936,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 197968,
       "name": "C U L8R (alligator)",
       "url": "https://open.spotify.com/track/25UQb7E2Av5uo5x5fjQ6xA"
@@ -10219,6 +10237,24 @@
     },
     {
       "album": {
+        "name": "Go Fish",
+        "url": "https://open.spotify.com/album/5moPphgJ9xbmKs3AbVPJ5s"
+      },
+      "artists": [
+        {
+          "name": "Gooseberry",
+          "url": "https://open.spotify.com/artist/4kwLF73fZC8zaZI5rwbBQV"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229353,
+      "name": "Go Fish",
+      "url": "https://open.spotify.com/track/3wusci1UD9vUMBi4HPGlLJ"
+    },
+    {
+      "album": {
         "name": "Jupiter Jazz And The Suicide Cult",
         "url": "https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh"
       },
@@ -11376,6 +11412,24 @@
       "duration_ms": 168231,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/1AhqASK4Hs7kQ6naWHaVNW"
+    },
+    {
+      "album": {
+        "name": "Heretic",
+        "url": "https://open.spotify.com/album/1ROIsCaIxtRqY11d4LkB93"
+      },
+      "artists": [
+        {
+          "name": "SECULAR",
+          "url": "https://open.spotify.com/artist/4ByeCqfeGjf53fhWXBydM3"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/0fnBes5T9MhY0nMWS70FtO"
     },
     {
       "album": {
@@ -12598,7 +12652,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 227586,
       "name": "If you didn't want to talk, you could've just said so",
       "url": "https://open.spotify.com/track/6vzbaNWXcykEyUu0tcNw8E"
@@ -17488,6 +17542,24 @@
       "duration_ms": 144277,
       "name": "NO Saints )",
       "url": "https://open.spotify.com/track/1hnaB8g1BImSqvtFxmZp2V"
+    },
+    {
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/57SCQd78MeGwNDP9N2CDqP"
+      },
+      "artists": [
+        {
+          "name": "High On Nothing",
+          "url": "https://open.spotify.com/artist/5SfPlLjrJxYopoqL2XtzjV"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189913,
+      "name": "No Strings Attached",
+      "url": "https://open.spotify.com/track/1sJCh8R7sVfqQ0jzPNvcit"
     },
     {
       "album": {
@@ -26141,6 +26213,24 @@
     },
     {
       "album": {
+        "name": "Don't Trust Anyone Over 21",
+        "url": "https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5"
+      },
+      "artists": [
+        {
+          "name": "S/ash66",
+          "url": "https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106439,
+      "name": "The Show Was Better than Your Video",
+      "url": "https://open.spotify.com/track/6gfFcfipSGXsCTh4PCRvQT"
+    },
+    {
+      "album": {
         "name": "The Shrike",
         "url": "https://open.spotify.com/album/7vyYjjq7DTnCsQAD5tjsl5"
       },
@@ -26682,6 +26772,24 @@
       "duration_ms": 197486,
       "name": "Through The Fallen Ashes",
       "url": "https://open.spotify.com/track/6Qnc9YhlHkd9NhIFIcQ1js"
+    },
+    {
+      "album": {
+        "name": "SDSP",
+        "url": "https://open.spotify.com/album/7zf869CJmttxZ2Orleeep4"
+      },
+      "artists": [
+        {
+          "name": "Supa Dupa Supa Punk",
+          "url": "https://open.spotify.com/artist/5OfotB00RVZqUAHPBpJaEZ"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Ticket to Paradise",
+      "url": "https://open.spotify.com/track/5EOsMXYmJ12xCncnMQd9MA"
     },
     {
       "album": {
@@ -28870,6 +28978,24 @@
       "duration_ms": 178666,
       "name": "whatever happened to our love?",
       "url": "https://open.spotify.com/track/3Z7mI36blYHoiJympK3zxK"
+    },
+    {
+      "album": {
+        "name": "What\u2019s on My Mind",
+        "url": "https://open.spotify.com/album/5bUdC21AxHNmpv47d9ZiZc"
+      },
+      "artists": [
+        {
+          "name": "giftig",
+          "url": "https://open.spotify.com/artist/0L4i0vV9NCYUdU8abvqQOz"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "What\u2019s on My Mind",
+      "url": "https://open.spotify.com/track/7L0r7hg23SipA1O5pmFAcN"
     },
     {
       "album": {

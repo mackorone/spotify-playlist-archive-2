@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: N.S\. DANCEMBLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,211 likes - 104 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,210 likes - 104 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

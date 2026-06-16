@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 10167,
+  "num_followers": 10170,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAADocMMt6T9qfiVKx5EZGw2J",
+  "snapshot_id": "ai3vAAAAAADNIgJP6DYPt6A+Dg4HKMhQ",
   "tracks": [
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 236277,
-      "name": "Artesano de la Construccion",
-      "url": "https://open.spotify.com/track/1kQVH6InNjUsoicAN9aqtH"
+      "duration_ms": 201456,
+      "name": "Barrio Pobre",
+      "url": "https://open.spotify.com/track/6GnSgS6gUwDLgTjYTHPTKC"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 201456,
-      "name": "Barrio Pobre",
-      "url": "https://open.spotify.com/track/6GnSgS6gUwDLgTjYTHPTKC"
+      "duration_ms": 236277,
+      "name": "Artesano de la Construccion",
+      "url": "https://open.spotify.com/track/1kQVH6InNjUsoicAN9aqtH"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
-        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
+        "name": "Me Haces Volar",
+        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 264480,
-      "name": "Dinero - En Vivo",
-      "url": "https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ"
+      "duration_ms": 237933,
+      "name": "Cuando el Amor Acaba",
+      "url": "https://open.spotify.com/track/51EJd3jBO8g5Iz5FYWcEIu"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Haces Volar",
-        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 237933,
-      "name": "Cuando el Amor Acaba",
-      "url": "https://open.spotify.com/track/51EJd3jBO8g5Iz5FYWcEIu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 243760,
       "name": "4to y 5to Paso",
       "url": "https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
+        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 264480,
+      "name": "Dinero - En Vivo",
+      "url": "https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Haces Volar",
-        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
+        "name": "Te Vas a Acordar de Mi",
+        "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Teor\u00eda de Caos",
-      "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"
+      "duration_ms": 281360,
+      "name": "La Niebla",
+      "url": "https://open.spotify.com/track/7eK5IAzMYqfsVB4BMK5S4Y"
     }
   ],
   "unique_name": "This Is Tex Tex",

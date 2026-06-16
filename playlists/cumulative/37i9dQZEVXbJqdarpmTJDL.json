@@ -1923,6 +1923,28 @@
     },
     {
       "album": {
+        "name": "Adam & Eve",
+        "url": "https://open.spotify.com/album/7q3iSTFAexLWOZCQcXaflO"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Adam & Eve",
+      "url": "https://open.spotify.com/track/7LayhRPJMFiJv2oiOHxlmH"
+    },
+    {
+      "album": {
         "name": "Adeies Verantes",
         "url": "https://open.spotify.com/album/6pUyHBROOwX0JjMLO5KhYz"
       },
@@ -4330,7 +4352,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 197560,
       "name": "Anadromika",
       "url": "https://open.spotify.com/track/4SP5sNmfpJP5oV2LrqzE6A"
@@ -9874,7 +9896,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 134117,
       "name": "BUSINESS",
       "url": "https://open.spotify.com/track/3djudakcBistWKRfuKdWuL"
@@ -14392,7 +14414,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 200412,
       "name": "DIO KARDIES",
       "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
@@ -20528,7 +20550,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 188108,
       "name": "FUCK LOVE",
       "url": "https://open.spotify.com/track/4ArBFP1logojblsR2c3r4d"
@@ -40882,7 +40904,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 130000,
       "name": "Oloi",
       "url": "https://open.spotify.com/track/3vf4jc8eUcmsFxmsygVz6v"
@@ -44028,7 +44050,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 130002,
       "name": "PERSON",
       "url": "https://open.spotify.com/track/5j8ECWgJWddBteyxIVI8ae"
@@ -49984,7 +50006,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 171111,
       "name": "SHOOTING STARS",
       "url": "https://open.spotify.com/track/33yR3eao1AJzxhN75Ozd5A"

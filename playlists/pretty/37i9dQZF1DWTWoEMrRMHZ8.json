@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355577,
+  "num_followers": 355574,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,26 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
+        "name": "1\u00b0 Ato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Orquestra Sesiminas",
+          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
+        }
+      ],
+      "duration_ms": 228314,
+      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
+      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
         "name": "NOVA BOSSA: aquele abra\u00e7o aos ratos vivos",
         "url": "https://open.spotify.com/album/1Rgcijony0Ve3tp7VlrI2h"
       },
@@ -343,26 +363,6 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
-        "name": "1\u00b0 Ato (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Orquestra Sesiminas",
-          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
-        }
-      ],
-      "duration_ms": 228314,
-      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
-      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
         "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
         "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
       },
@@ -391,6 +391,30 @@
       "duration_ms": 199000,
       "name": "Tanto Voc\u00ea",
       "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
+        "name": "MPBossa 2",
+        "url": "https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Luciano Magno",
+          "url": "https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN"
+        },
+        {
+          "name": "Andr\u00e9 Rio",
+          "url": "https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A"
+        }
+      ],
+      "duration_ms": 200835,
+      "name": "Bossa Sempre Nova",
+      "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -431,30 +455,6 @@
       "duration_ms": 212853,
       "name": "Sembal",
       "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
-        "name": "MPBossa 2",
-        "url": "https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Luciano Magno",
-          "url": "https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN"
-        },
-        {
-          "name": "Andr\u00e9 Rio",
-          "url": "https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A"
-        }
-      ],
-      "duration_ms": 200835,
-      "name": "Bossa Sempre Nova",
-      "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
+        "name": "LA MIA STORIA TRA LE DITA / All Versions",
+        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 315733,
+      "name": "QUEM DE N\u00d3S DOIS (solo version)",
+      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
         "name": "Coisas de Viver",
         "url": "https://open.spotify.com/album/7h9n5SheG6PtHIOFjfPkYg"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
-        "name": "LA MIA STORIA TRA LE DITA / All Versions",
-        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 315733,
-      "name": "QUEM DE N\u00d3S DOIS (solo version)",
-      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
         "name": "Outra Ladeira",
         "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 228312,
       "name": "Outra Ladeira",
       "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
-        "name": "Depois do Breu",
-        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
-      },
-      "artists": [
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
-        }
-      ],
-      "duration_ms": 250851,
-      "name": "Depois do Breu",
-      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -699,6 +683,38 @@
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
+        "name": "Depois do Breu",
+        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
+      },
+      "artists": [
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
+        }
+      ],
+      "duration_ms": 250851,
+      "name": "Depois do Breu",
+      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
+        "name": "ROSA NO C\u00c9U",
+        "url": "https://open.spotify.com/album/4os24JPEmv9ZSjZHaElGAc"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        }
+      ],
+      "duration_ms": 207291,
+      "name": "sinais",
+      "url": "https://open.spotify.com/track/6AwT3gyouzIk988tFFnhG5"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -735,22 +751,6 @@
       "duration_ms": 125306,
       "name": "Denga - Ao Vivo",
       "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
-        "name": "ROSA NO C\u00c9U",
-        "url": "https://open.spotify.com/album/4os24JPEmv9ZSjZHaElGAc"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        }
-      ],
-      "duration_ms": 207291,
-      "name": "sinais",
-      "url": "https://open.spotify.com/track/6AwT3gyouzIk988tFFnhG5"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
+        "name": "Afim De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 300567,
+      "name": "Afim De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
         "name": "D'Ouro Brilhante",
         "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
-        "name": "Afim De Ver\u00e3o",
-        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 300567,
-      "name": "Afim De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
         "name": "Homem com H",
         "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 121015,
       "name": "O Mundo \u00e9 um Moinho",
       "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
-        "name": "CATATAU",
-        "url": "https://open.spotify.com/album/4REOHQ0cGxJ3FVVcE3R0S1"
-      },
-      "artists": [
-        {
-          "name": "\u00cdtallo",
-          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
-        },
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
-        }
-      ],
-      "duration_ms": 138804,
-      "name": "janeiro",
-      "url": "https://open.spotify.com/track/0yeURxDXfCeHCkecSj8b4H"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -891,6 +871,26 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
+        "name": "CATATAU",
+        "url": "https://open.spotify.com/album/4REOHQ0cGxJ3FVVcE3R0S1"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtallo",
+          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
+        },
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
+        }
+      ],
+      "duration_ms": 138804,
+      "name": "janeiro",
+      "url": "https://open.spotify.com/track/0yeURxDXfCeHCkecSj8b4H"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
         "name": "Mariana Nolasco Sessions 3",
         "url": "https://open.spotify.com/album/6RcwBjOAtnTDHN8DJM0ZNQ"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        }
-      ],
-      "duration_ms": 190873,
-      "name": "Agudo Grave",
-      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
         "name": "Espelhos",
         "url": "https://open.spotify.com/album/7p91aQf6m8ol80pRgbDdhM"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 191040,
       "name": "Espelhos",
       "url": "https://open.spotify.com/track/4fkN3GR7A7SSUoVg1ZL0Zu"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "duration_ms": 190873,
+      "name": "Agudo Grave",
+      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
-        "name": "25 Anos de M\u00fasica",
-        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Me Ajuda",
-      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
         "name": "Entre Amores e Danos",
         "url": "https://open.spotify.com/album/4ruqOYj0aotFUurQDz00qz"
       },
@@ -1011,22 +991,6 @@
       "duration_ms": 221684,
       "name": "Entre Amores e Danos",
       "url": "https://open.spotify.com/track/7dI4arfkb8h4yQKLVlkrBH"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
-        "name": "Lugar Comum",
-        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
-      },
-      "artists": [
-        {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        }
-      ],
-      "duration_ms": 278212,
-      "name": "Lugar Comum",
-      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -1055,6 +1019,42 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
+        "name": "Lugar Comum",
+        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
+      },
+      "artists": [
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        }
+      ],
+      "duration_ms": 278212,
+      "name": "Lugar Comum",
+      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
+        "name": "25 Anos de M\u00fasica",
+        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Me Ajuda",
+      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
         "name": "Desculpe o Au\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
       },
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
         "name": "L\u00e1",
         "url": "https://open.spotify.com/album/6ufHvSXLcsENitKj7GQ5fv"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 264686,
       "name": "L\u00e1",
       "url": "https://open.spotify.com/track/1NmbJR2cryUyat0SAWvQGZ"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
+        "name": "O Lado B da Bossa",
+        "url": "https://open.spotify.com/album/3kfyrMCj2u0kKDUEPFAIVW"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+        }
+      ],
+      "duration_ms": 148762,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/2ild5fklegAwRY8nxfb4ot"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
         "name": "Mandinga",
         "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 156000,
       "name": "Mandinga",
       "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
-        "name": "O Lado B da Bossa",
-        "url": "https://open.spotify.com/album/3kfyrMCj2u0kKDUEPFAIVW"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
-        }
-      ],
-      "duration_ms": 148762,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/2ild5fklegAwRY8nxfb4ot"
     },
     {
       "added_at": "2026-06-12 03:00:58",
@@ -1515,30 +1515,6 @@
     {
       "added_at": "2026-06-12 03:00:58",
       "album": {
-        "name": "A Beleza De Ser",
-        "url": "https://open.spotify.com/album/35MiCztNYMVMlVYlifBCzc"
-      },
-      "artists": [
-        {
-          "name": "Muca",
-          "url": "https://open.spotify.com/artist/0B530ZeLXBaPt7AN3wHNcM"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Ilessi",
-          "url": "https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "A Beleza De Ser",
-      "url": "https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P"
-    },
-    {
-      "added_at": "2026-06-12 03:00:58",
-      "album": {
         "name": "Garotos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/7zY74hy1FpTWzsHo6zCVEw"
       },
@@ -1559,6 +1535,30 @@
       "duration_ms": 236061,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+    },
+    {
+      "added_at": "2026-06-12 03:00:58",
+      "album": {
+        "name": "A Beleza De Ser",
+        "url": "https://open.spotify.com/album/35MiCztNYMVMlVYlifBCzc"
+      },
+      "artists": [
+        {
+          "name": "Muca",
+          "url": "https://open.spotify.com/artist/0B530ZeLXBaPt7AN3wHNcM"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Ilessi",
+          "url": "https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "A Beleza De Ser",
+      "url": "https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P"
     },
     {
       "added_at": "2026-06-12 03:00:58",

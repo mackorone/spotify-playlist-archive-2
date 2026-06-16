@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-5,278 songs - 12 day 0 hr 46 min
+5,279 songs - 12 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1472,6 +1472,7 @@
 | [Favela](https://open.spotify.com/track/15il8Mg8sAiy7eqISGoJK6) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Favela](https://open.spotify.com/album/0AMYBABg2SQ8hWDys7rIJq) | 3:15 | 2026-04-04 | 2026-04-10 |
 | [Favorite Sound](https://open.spotify.com/track/7nIxvJArwCsOOaWK71sdKJ) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42) | [Favorite Sound](https://open.spotify.com/album/1sSO17kFAuw999SFbo9ISz) | 2:43 | 2024-08-02 | 2024-08-09 |
 | [Favourite Song](https://open.spotify.com/track/5jt7ngF0zlquhwOMqvUv8I) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Favourite Song](https://open.spotify.com/album/7zY6hCEcLzK3WDmYTBVNhX) | 3:30 | 2024-08-31 | 2024-09-06 |
+| [Fear No Evil](https://open.spotify.com/track/5t7G5WVzsCycz9NACihu2b) | [WLDFLOW3R](https://open.spotify.com/artist/5lH9NA8z83Bg4GVt15FVRb) | [Fear No Evil](https://open.spotify.com/album/0yiLbDQaDMfpXzVy8u7YnL) | 4:48 | 2026-06-15 |  |
 | [Fee Fi Fo Fum \(feat\. KAM\-BU\)](https://open.spotify.com/track/20NWjwDzsxz7CXIyyQFMCx) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Fee Fi Fo Fum \(feat\. KAM\-BU\)](https://open.spotify.com/album/74gn9OK41NsDSvj0CKeLFl) | 3:11 | 2025-12-05 | 2025-12-13 |
 | [Feed the Streets](https://open.spotify.com/track/36FtOrFvDau6Anv4Enx8pS) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4) | [Feed the Streets](https://open.spotify.com/album/5ffFglnEmu0DotZzf72jtr) | 2:42 | 2024-08-23 | 2024-08-31 |
 | [Feel](https://open.spotify.com/track/0m0hHS488BMFjt8bnVH4A9) | [Lorjs](https://open.spotify.com/artist/1NIbD4t6iRnOVbkSnFP58M) | [Feel](https://open.spotify.com/album/07mHgeifqUazRovrAODr7S) | 3:06 | 2025-10-10 | 2025-10-28 |

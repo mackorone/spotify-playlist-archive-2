@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75343,
+  "num_followers": 75350,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aiydgAAAAAAACh7ZVT1fpEZEWrN1is9v",
+  "snapshot_id": "ai3vAAAAAADXPeAePZBCruUKg6rTKtUG",
   "tracks": [
     {
       "added_at": null,
@@ -986,11 +986,15 @@
         {
           "name": "Amanda Shires",
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 231493,
-      "name": "Radio Silence - Live at The Gorge 2023",
-      "url": "https://open.spotify.com/track/6aU4jzI7eGWbIfMAGP2R7u"
+      "duration_ms": 226512,
+      "name": "Delta Dawn - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/2x4Pb3De0dPZLkVzTHo3xO"
     },
     {
       "added_at": null,
@@ -1066,15 +1070,11 @@
         {
           "name": "Amanda Shires",
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        },
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 226512,
-      "name": "Delta Dawn - Live at The Gorge 2023",
-      "url": "https://open.spotify.com/track/2x4Pb3De0dPZLkVzTHo3xO"
+      "duration_ms": 231493,
+      "name": "Radio Silence - Live at The Gorge 2023",
+      "url": "https://open.spotify.com/track/6aU4jzI7eGWbIfMAGP2R7u"
     },
     {
       "added_at": null,

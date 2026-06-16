@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: 🕊 Nipsey Hussle & Bino  Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,494 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,498 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 37 | [Rangin Bells](https://open.spotify.com/track/1vebhVZ7oM6d353DBYboHS) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Rangin Bells](https://open.spotify.com/album/0LqxMfxc3xcrjHJQ8rq04p) | 2:00 |
 | 38 | [Come Up Off \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5Aiu5BeufZqV7d4cSpVHBX) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Destined For Greatness](https://open.spotify.com/album/6qaLQcxVwjY0S7daZ3Qm1B) | 1:52 |
 | 39 | [Heart Cold](https://open.spotify.com/track/74hdjAMdKaBTaWS1UDLcaY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Heart Cold](https://open.spotify.com/album/7EdFXBY4byYWOKDz39D8Dg) | 3:24 |
-| 40 | [Lil Mama](https://open.spotify.com/track/0G869PQwqx7tcIB6ftQDg6) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Lil Mama](https://open.spotify.com/album/15XdftqQ6gFZDhlmWIqh90) | 2:03 |
+| 40 | [Lil Mama](https://open.spotify.com/track/0G869PQwqx7tcIB6ftQDg6) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Lil Mama](https://open.spotify.com/album/15XdftqQ6gFZDhlmWIqh90) | 2:02 |
 | 41 | [Auramaxxing](https://open.spotify.com/track/30YEqR6zRhtupC4WzaOC5N) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [Auramaxxing](https://open.spotify.com/album/2Z1ASDD6yXhKwCLTcLdKMp) | 2:28 |
 | 42 | [HOLLYWOOD](https://open.spotify.com/track/3hkPqNU4lUd8A3smxWMLEY) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HOLLYWOOD](https://open.spotify.com/album/16zR7LP3U1in4YsFnmA4ZC) | 3:00 |
 | 43 | [You're A Lick](https://open.spotify.com/track/0l2rBOkQzMsf7YGtZU2vmE) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [You're A Lick](https://open.spotify.com/album/6e1ofvZdLduayygviNaBhc) | 1:58 |

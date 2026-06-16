@@ -48677,7 +48677,7 @@
     },
     {
       "album": {
-        "name": "Bella di Papa",
+        "name": "Bella di Pap\u00e0",
         "url": "https://open.spotify.com/album/4QYnzjPYiYBT25sglPQQiG"
       },
       "artists": [
@@ -48694,7 +48694,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 288493,
-      "name": "Bella di Papa",
+      "name": "Bella di Pap\u00e0",
       "url": "https://open.spotify.com/track/17Ai12gbFBS8pR201Fhcdr"
     },
     {
@@ -105565,7 +105565,7 @@
     },
     {
       "album": {
-        "name": "Brahms: Ein deutsches Requiem",
+        "name": "Brahms: Ein deutsches Requiem, Op. 45",
         "url": "https://open.spotify.com/album/69buoH6OTOTjzm4kobZW5l"
       },
       "artists": [
@@ -220594,7 +220594,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 207320,
       "name": "Op. 1 Final - Nine Organ Pieces, No. 1",
       "url": "https://open.spotify.com/track/76w6EvkblOHMku7x9LMQwP"

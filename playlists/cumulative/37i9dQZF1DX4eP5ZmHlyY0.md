@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BOYNEXTDOOR
 
-1,017 songs - 2 day 7 hr 14 min
+1,019 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [BA BA BYE](https://open.spotify.com/track/142pVQPToEYbjWwxpJMpM0) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [BA BA BYE](https://open.spotify.com/album/0pROa7KeXHCdolbjAi3wLp) | 3:15 | 2025-03-24 | 2025-05-26 |
 | [baby blue](https://open.spotify.com/track/2iUv18ruokAyhWk9w0CTYy) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [baby blue](https://open.spotify.com/album/2GRdKh2u9tleGC5gGWV8lx) | 3:16 | 2025-11-13 | 2026-01-30 |
 | [Baby don't cry](https://open.spotify.com/track/4mF2kmGmate4BDgNdDDBOU) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Baby don't cry](https://open.spotify.com/album/1z4tn0beVw7pRjRRkKtFs0) | 3:28 | 2024-09-24 | 2024-10-16 |
-| [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 | 2026-03-20 |  |
+| [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 | 2026-03-20 | 2026-06-16 |
 | [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 | 2025-10-28 | 2026-04-14 |
 | [back to life](https://open.spotify.com/track/3FYPY4tR6tn5MfAATDGuhj) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [back to life](https://open.spotify.com/album/6kpAsfDuWnlCUwZ26XfoE5) | 4:15 | 2026-06-12 |  |
 | [Backbeat](https://open.spotify.com/track/0ZXwytnweKjGxWNmKlR7PW) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'／IMP.](https://open.spotify.com/album/7EBmNtFQglJOhcdZmB9rHT) | 3:20 | 2024-03-12 | 2024-04-24 |
@@ -214,6 +214,7 @@
 | [Disco Baby](https://open.spotify.com/track/4Lvm9SuwemRTnzWcJ8YflI) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Disco Baby](https://open.spotify.com/album/07deGkma8dlmxOvB9wvhY0) | 3:46 | 2025-10-26 | 2025-11-08 |
 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 | 2025-11-21 | 2026-05-19 |
 | [Do What I Want](https://open.spotify.com/track/2Pe2lfTj1oN6qykfZhNDnV) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Do What I Want](https://open.spotify.com/album/2wkVbUKPfsV8RpozFuQaF0) | 2:40 | 2025-08-19 | 2025-09-01 |
+| [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 | 2026-06-15 |  |
 | [Doctor! Doctor!](https://open.spotify.com/track/0XmY5tyjdXB7yYELGUfYpn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE PARADISE](https://open.spotify.com/album/0Mo8K6mKxS0lCENDG8pCb0) | 2:32 | 2025-03-06 | 2025-06-25 |
 | [Doki it](https://open.spotify.com/track/0a1vGFcLDPS3auJ3OqixFT) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [Doki it / Don't Worry!!](https://open.spotify.com/album/43JZRnK8QFfxAwasYJ85rW) | 3:39 | 2025-03-06 | 2025-04-18 |
 | [Dokka de](https://open.spotify.com/track/70wGlktEYdD17rhe19gVSf) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [CLASSIC WAVE](https://open.spotify.com/album/2jrFATDLscw7bsUFjPn67t) | 2:46 | 2026-06-09 |  |
@@ -428,7 +429,7 @@
 | [Keep on Moving](https://open.spotify.com/track/4nS2rDbFUcvcrNoTEQFJJM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\) / Keep on Moving \-Special Edition\-](https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6) | 3:06 | 2024-08-22 | 2024-09-25 |
 | [Keep on Moving \(Korean Version\)](https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Version\)](https://open.spotify.com/album/4q1Pmz0UWvz6LoiNF6q63r) | 3:06 | 2024-09-24 | 2024-10-16 |
 | [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 | 2026-04-09 |  |
-| [KILL SHOT](https://open.spotify.com/track/0E2uBfka0bJQjzco0OGjgT) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [KILL SHOT](https://open.spotify.com/album/1ZNVbLc6DaYeY5F3QJVUGx) | 3:12 | 2026-04-20 |  |
+| [KILL SHOT](https://open.spotify.com/track/0E2uBfka0bJQjzco0OGjgT) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [KILL SHOT](https://open.spotify.com/album/1ZNVbLc6DaYeY5F3QJVUGx) | 3:12 | 2026-04-20 | 2026-06-16 |
 | [Killa](https://open.spotify.com/track/4KwBjOcDve0jQrvD9eQljz) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Inception](https://open.spotify.com/album/5qb6vswL32wO47scCrZ7EL) | 3:24 | 2024-06-12 | 2024-07-10 |
 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-13 | 2025-11-19 |
 | [King Kila Game](https://open.spotify.com/track/2fuUnp8GTH9IBhm5xgtnlO) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [King Kila Game](https://open.spotify.com/album/3j1oA9TCyN5KSSvK1KLQBy) | 2:45 | 2025-04-07 | 2025-04-15 |
@@ -712,6 +713,7 @@
 | [Slogan](https://open.spotify.com/track/1xEm0K1U5Md7Zkne7gcy1z) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 4:02 | 2024-08-27 | 2024-10-02 |
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-11-30 | 2024-03-27 |
 | [Snakebite](https://open.spotify.com/track/0PwsFK4H8amy5HsRu3ZyOx) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Snakebite](https://open.spotify.com/album/5RQ9TITRANy2tw5FobGABd) | 3:34 | 2025-08-10 | 2025-08-20 |
+| [SNAPBACK](https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [SNAPBACK](https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ) | 2:33 | 2026-06-15 |  |
 | [Snowin'](https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’](https://open.spotify.com/album/7AHmQEtHOwdKGFvcHC9PPM) | 3:25 | 2023-12-07 | 2024-05-01 |
 | [Snowy Summer](https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [Snowy Summer](https://open.spotify.com/album/7eM9aYuP3VOnxRAPz9aGuN) | 2:57 | 2025-07-08 | 2025-11-08 |
 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 | 2025-09-02 | 2025-11-06 |

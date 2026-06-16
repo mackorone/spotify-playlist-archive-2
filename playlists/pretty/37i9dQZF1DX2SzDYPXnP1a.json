@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 116842,
+  "num_followers": 116889,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,18 @@
     {
       "added_at": "2026-04-24 04:03:44",
       "album": {
-        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
-        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
+        "name": "Welcome to the Show",
+        "url": "https://open.spotify.com/album/72pR0B18ynMrGZmLf0L2YF"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Rocky Mountain Low - feat. Koe Wetzel",
-      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
+      "duration_ms": 160520,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP"
     },
     {
       "added_at": "2026-04-24 04:03:44",
@@ -551,18 +547,22 @@
     {
       "added_at": "2026-04-24 04:03:44",
       "album": {
-        "name": "Welcome to the Show",
-        "url": "https://open.spotify.com/album/72pR0B18ynMrGZmLf0L2YF"
+        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
+        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 160520,
-      "name": "Welcome to the Show",
-      "url": "https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP"
+      "duration_ms": 168333,
+      "name": "Rocky Mountain Low - feat. Koe Wetzel",
+      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
     },
     {
       "added_at": "2026-04-24 04:03:44",

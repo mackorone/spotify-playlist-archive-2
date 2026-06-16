@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 146989,
+  "num_followers": 146983,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "dear me,",
-        "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
+        "name": "Marigold Tapes",
+        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
         }
       ],
-      "duration_ms": 165967,
-      "name": "dear me,",
-      "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
+      "duration_ms": 209685,
+      "name": "flight",
+      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "Marigold Tapes",
-        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
+        "name": "dear me,",
+        "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
       },
       "artists": [
         {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
         }
       ],
-      "duration_ms": 209685,
-      "name": "flight",
-      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
+      "duration_ms": 165967,
+      "name": "dear me,",
+      "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "want YOU",
-        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
-      },
-      "artists": [
-        {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        }
-      ],
-      "duration_ms": 154803,
-      "name": "want YOU",
-      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "What if we met at another place ?",
         "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 179999,
       "name": "What if we met at another place ?",
       "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "want YOU",
+        "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        }
+      ],
+      "duration_ms": 154803,
+      "name": "want YOU",
+      "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "How could I say",
-        "url": "https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 160146,
-      "name": "How could I say",
-      "url": "https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "Take You Down",
         "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 172013,
       "name": "Lights",
       "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "How could I say",
+        "url": "https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 160146,
+      "name": "How could I say",
+      "url": "https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -579,30 +579,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "PEOPLE",
         "url": "https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 273453,
       "name": "Flower (Feat. Jay Park, Woo, GIRIBOY)",
       "url": "https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
+        "name": "Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'",
+        "url": "https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "The Night\u2019s Window",
+      "url": "https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
         "name": "THINKING Part.2",
         "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 218813,
       "name": "Being left (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
-        "name": "Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'",
-        "url": "https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "The Night\u2019s Window",
-      "url": "https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Mliy",
-      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "My Blue has always been Shattered by the Night",
         "url": "https://open.spotify.com/album/2N2teRvKYYxgY0vh5c4aef"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 212346,
       "name": "Parched Blue",
       "url": "https://open.spotify.com/track/5TNLQVuprXpb48RdTTdXE0"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Mliy",
+      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "long to be the garden",
         "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 192466,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2026-04-01 10:59:09",

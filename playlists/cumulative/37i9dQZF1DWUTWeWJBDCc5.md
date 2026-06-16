@@ -2,9 +2,9 @@
 
 ### [Editor's Picks Korea: 에디터의 취향](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: BTS\)
+> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Gracie Abrams\)
 
-218 songs - 11 hr 55 min
+221 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [bluescreen](https://open.spotify.com/track/3ZXW65JwQ2hwQab4dOSP9b) | [JI SUYEON](https://open.spotify.com/artist/70iA690AZviTkQKgfjlSK6) | [bluescreen](https://open.spotify.com/album/6syQENwrbxw2L266pROpdn) | 3:25 | 2026-04-29 | 2026-06-13 |
 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-12-04 | 2026-02-05 |
 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 | 2026-03-23 | 2026-04-30 |
+| [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-06-15 |  |
 | [BOUNCE BACK \(Feat\. Jay Park\) \(Prod\. by Lil Moshpit\)](https://open.spotify.com/track/7LAehmIkKXv2ag7WoKQjcl) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 3:48 | 2026-03-23 | 2026-04-30 |
 | [Breathe](https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Breathe](https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C) | 2:56 | 2026-03-24 | 2026-04-30 |
 | [Bricks n’ Mortar Shop \(SKRR GANG\)](https://open.spotify.com/track/0NVAUSpnzRO4exqx5iT0AQ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:14 | 2026-04-21 | 2026-06-13 |
@@ -99,6 +100,7 @@
 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-06-03 |  |
 | [Hated, Loved, and Bloomed](https://open.spotify.com/track/77fszLbS3f8XglVxoA0Ycv) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Hated, Loved, and Bloomed](https://open.spotify.com/album/1giktQpkvsU8YQ7toTGVw0) | 4:10 | 2025-12-04 | 2026-02-05 |
 | [HEARTLESS DARLIN' !](https://open.spotify.com/track/1ZBt9NGhY81MeymOub5Y3A) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [HEARTLESS DARLIN' !](https://open.spotify.com/album/1GqrJXcxdKSSZ7GcJkLhmr) | 2:53 | 2026-04-29 | 2026-06-13 |
+| [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-06-15 |  |
 | [Hold onto My Back](https://open.spotify.com/track/0s5xyZNa3emVvY4AqiISQX) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:06 | 2026-06-12 |  |
 | [Home](https://open.spotify.com/track/73ZXHRLk5zJEjyStIOex2F) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Home](https://open.spotify.com/album/2h3Si1lhGsmDycd5uLRtpO) | 3:55 | 2026-04-29 | 2026-06-13 |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-03-24 | 2026-04-30 |
@@ -136,6 +138,7 @@
 | [LOV3 \(Feat\. Bryan Chase, Okasian\)](https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [K\-FLIP+](https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6) | 3:56 | 2025-12-04 | 2026-02-05 |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 | 2026-05-06 |  |
 | [Make Me Wonder](https://open.spotify.com/track/1uHZMrbvOHTmMBDrnu4UBg) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Make Me Wonder](https://open.spotify.com/album/0AoL7HrfWRz6fDeYn15V19) | 3:52 | 2026-02-04 | 2026-03-04 |
+| [Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:45 | 2026-06-15 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-12-04 | 2026-02-05 |
 | [me & u](https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [TYPHOON](https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv) | 3:00 | 2026-06-08 |  |
 | [mee6](https://open.spotify.com/track/6g2jDSdrpoCr81GDx1rBUk) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [mee6](https://open.spotify.com/album/1KX9x1Ga69ZYGdfnmd9HQi) | 2:19 | 2025-12-04 | 2026-02-05 |
@@ -186,7 +189,7 @@
 | [SPAGHETTI](https://open.spotify.com/track/4ly7INe0YNvJNZYXnp85PH) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:51 | 2025-12-04 | 2026-02-05 |
 | [Spin the wheel \(feat\. Dr.Lee\)](https://open.spotify.com/track/6esZKBJj07DD3qUeO0mkq7) | [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [Dr.Lee](https://open.spotify.com/artist/5S9wxilR9XcbrfGNDpBL4Q) | [EARL](https://open.spotify.com/album/4MBhCiUivbI1uYle0vP1Ss) | 2:40 | 2025-12-04 | 2026-02-05 |
 | [Stay](https://open.spotify.com/track/1gjF56rGrCdHJY5iUI4yNk) | [krnb](https://open.spotify.com/artist/5kW21xTx9kCwijRQ3nCYYS) | [Spring Blossom](https://open.spotify.com/album/6qSBrNgY0Yepd5SiBsFCXc) | 2:53 | 2026-02-04 | 2026-03-04 |
-| [Stay For A While](https://open.spotify.com/track/74plucE6Jkknrb2eSXopYv) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Stay For A While](https://open.spotify.com/album/2P5EZVCYJx09yLmDrq4xlv) | 2:49 | 2026-06-03 |  |
+| [Stay For A While](https://open.spotify.com/track/74plucE6Jkknrb2eSXopYv) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Stay For A While](https://open.spotify.com/album/2P5EZVCYJx09yLmDrq4xlv) | 2:49 | 2026-06-03 | 2026-06-16 |
 | [STIGMATA](https://open.spotify.com/track/4qVWdknjmRgKPLTym3ENhh) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [POP IS CRYIN'](https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB) | 2:44 | 2026-06-03 |  |
 | [Still Here](https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [EXchange4, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ) | 3:32 | 2025-12-04 | 2026-02-05 |
 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 | 2026-02-04 | 2026-03-04 |

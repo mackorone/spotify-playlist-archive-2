@@ -4,7 +4,7 @@
 
 > Boots on the ground, head in the stars
 
-211 songs - 13 hr 30 min
+212 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 | 2021-12-15 |  |
 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 | 2021-12-15 | 2026-03-07 |
 | [Wrecking Ball](https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 4:49 | 2021-12-15 |  |
+| [Year of the Horse](https://open.spotify.com/track/4WJV42FGtNRS2epH9lQS8Q) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Year of the Horse](https://open.spotify.com/album/57RVZ6TnVLVNK5FxOvw2Am) | 4:16 | 2026-06-15 |  |
 | [You've Got Other Girls for That](https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [You've Got Other Girls for That](https://open.spotify.com/album/0SwMHWz5Av4WNhffxJwPgQ) | 4:03 | 2021-12-15 | 2026-02-28 |
 | [Your Angel Steps Out Of Heaven](https://open.spotify.com/track/1tXGkY3JTbDSjRT28o8E0x) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [Sleepless Nights](https://open.spotify.com/album/3hDXV8pPMWKzRziBsuPJWA) | 3:09 | 2021-12-15 |  |
 

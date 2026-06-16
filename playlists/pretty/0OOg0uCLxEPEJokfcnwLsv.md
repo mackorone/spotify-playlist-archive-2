@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,074 likes - 86 songs - 5 hr 17 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,091 likes - 94 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,13 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 84 | [Hey Woman](https://open.spotify.com/track/6wdZHEXuu5JWMyydPlMeqt) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Fixed Up \(Remastered\)](https://open.spotify.com/album/2Wwy5fnDfPGoXhkKmBcVFM) | 2:57 |
 | 85 | [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 |
 | 86 | [Meet You There](https://open.spotify.com/track/15tiZK3Wk9yB5mIKqPSZLY) | [Eve Indigo](https://open.spotify.com/artist/7EY2PX3OuDZUpNiaPkufKC) | [Meet You There](https://open.spotify.com/album/6YY5GY3agv7G7LwMtLUDrM) | 5:29 |
+| 87 | [The Best of Me](https://open.spotify.com/track/3n7ZVxio1kVh19S8F8nqxZ) | [Carve A Path](https://open.spotify.com/artist/0u2Z1IEHUa7W6Elk5raydq) | [The Best of Me](https://open.spotify.com/album/1Q8TLja8NDsJb5uKZb6GkD) | 2:34 |
+| 88 | [OD](https://open.spotify.com/track/2auWC9LUGBbQCqyXue9pOA) | [McMillin](https://open.spotify.com/artist/63WAZqhumZpHnlE3eNpTyc) | [Only From Afar](https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy) | 2:50 |
+| 89 | [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 |
+| 90 | [Seven Lonely People](https://open.spotify.com/track/3ocMF7DBq8yujdIdACsdEc) | [There Will Be Robots](https://open.spotify.com/artist/4Q0upjqxErqYJsGxHB7TPf) | [Seven Lonely People](https://open.spotify.com/album/7KQLW76v12XsJYVE9LHf6W) | 4:44 |
+| 91 | [Something New](https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Something New](https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p) | 4:40 |
+| 92 | [Give Me A Shout](https://open.spotify.com/track/3zIZ8fu1beiuWwybBLB3Pc) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Ixora](https://open.spotify.com/album/31b85ZfTbz5OsrILSlerVR) | 3:12 |
+| 93 | [Hold Me Close](https://open.spotify.com/track/4Y21eeDE3adB2k1e9vzwQa) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Tin Zelkova](https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3) | 3:56 |
+| 94 | [Soul Shaker](https://open.spotify.com/track/455EZjFPWXNndPkm7IXAm3) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Tin Zelkova](https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3) | 3:35 |
 
-Snapshot ID: `AAAGe7AmkxODtWQD9x0UFQB+yBSOuFL0`
+Snapshot ID: `AAAGg1B2YkEKRAZltvRFut6KYKYKdCuV`

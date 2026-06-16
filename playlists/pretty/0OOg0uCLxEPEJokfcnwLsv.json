@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1074,
+  "num_followers": 1091,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGe7AmkxODtWQD9x0UFQB+yBSOuFL0",
+  "snapshot_id": "AAAGg1B2YkEKRAZltvRFut6KYKYKdCuV",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1391,6 +1391,134 @@
       "duration_ms": 329429,
       "name": "Meet You There",
       "url": "https://open.spotify.com/track/15tiZK3Wk9yB5mIKqPSZLY"
+    },
+    {
+      "added_at": "2026-06-15 20:52:37",
+      "album": {
+        "name": "The Best of Me",
+        "url": "https://open.spotify.com/album/1Q8TLja8NDsJb5uKZb6GkD"
+      },
+      "artists": [
+        {
+          "name": "Carve A Path",
+          "url": "https://open.spotify.com/artist/0u2Z1IEHUa7W6Elk5raydq"
+        }
+      ],
+      "duration_ms": 154190,
+      "name": "The Best of Me",
+      "url": "https://open.spotify.com/track/3n7ZVxio1kVh19S8F8nqxZ"
+    },
+    {
+      "added_at": "2026-06-15 21:00:53",
+      "album": {
+        "name": "Only From Afar",
+        "url": "https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy"
+      },
+      "artists": [
+        {
+          "name": "McMillin",
+          "url": "https://open.spotify.com/artist/63WAZqhumZpHnlE3eNpTyc"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "OD",
+      "url": "https://open.spotify.com/track/2auWC9LUGBbQCqyXue9pOA"
+    },
+    {
+      "added_at": "2026-06-15 21:10:04",
+      "album": {
+        "name": "She's Hiding Her Smile",
+        "url": "https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0"
+      },
+      "artists": [
+        {
+          "name": "Solo el Malo",
+          "url": "https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8"
+        }
+      ],
+      "duration_ms": 224062,
+      "name": "She's Hiding Her Smile",
+      "url": "https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh"
+    },
+    {
+      "added_at": "2026-06-15 21:28:46",
+      "album": {
+        "name": "Seven Lonely People",
+        "url": "https://open.spotify.com/album/7KQLW76v12XsJYVE9LHf6W"
+      },
+      "artists": [
+        {
+          "name": "There Will Be Robots",
+          "url": "https://open.spotify.com/artist/4Q0upjqxErqYJsGxHB7TPf"
+        }
+      ],
+      "duration_ms": 284830,
+      "name": "Seven Lonely People",
+      "url": "https://open.spotify.com/track/3ocMF7DBq8yujdIdACsdEc"
+    },
+    {
+      "added_at": "2026-06-15 21:39:04",
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p"
+      },
+      "artists": [
+        {
+          "name": "Monday's Monsoon",
+          "url": "https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg"
+        }
+      ],
+      "duration_ms": 280606,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk"
+    },
+    {
+      "added_at": "2026-06-15 21:39:57",
+      "album": {
+        "name": "Ixora",
+        "url": "https://open.spotify.com/album/31b85ZfTbz5OsrILSlerVR"
+      },
+      "artists": [
+        {
+          "name": "SINEAD",
+          "url": "https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Give Me A Shout",
+      "url": "https://open.spotify.com/track/3zIZ8fu1beiuWwybBLB3Pc"
+    },
+    {
+      "added_at": "2026-06-15 21:48:07",
+      "album": {
+        "name": "Tin Zelkova",
+        "url": "https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/4Y21eeDE3adB2k1e9vzwQa"
+    },
+    {
+      "added_at": "2026-06-15 21:48:18",
+      "album": {
+        "name": "Tin Zelkova",
+        "url": "https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Soul Shaker",
+      "url": "https://open.spotify.com/track/455EZjFPWXNndPkm7IXAm3"
     }
   ],
   "unique_name": "Unsigned Rock",

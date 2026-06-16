@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,520 songs - 10 day 1 hr 44 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,521 songs - 10 day 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4528,5 +4528,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4518 | [D I F E R E N T E S](https://open.spotify.com/track/51rHJwOXwJPwlfs3NXVTL4) | [MAHAR3A](https://open.spotify.com/artist/63WQkHSjgo0T7Sf0E2LDsO) | [D I F E R E N T E S](https://open.spotify.com/album/5JSdDwuZRY1UI3NBpQt0oD) | 3:16 |
 | 4519 | [Roter Opel Corsa](https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx) | [Kurz Nach Zwei](https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6) | [Roter Opel Corsa](https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP) | 3:02 |
 | 4520 | [Grand Social](https://open.spotify.com/track/5VXh6UbjkesZvwpUrGYs2c) | [Von Loop](https://open.spotify.com/artist/7xj9QGmzc8LLQU8sCsFYcN) | [Grand Social](https://open.spotify.com/album/0sITVX4ltEr8W19hfLmKes) | 2:59 |
+| 4521 | [Critical Mass](https://open.spotify.com/track/4spaTikylB1WV0ckpALzH7) | [Shiny Baubles](https://open.spotify.com/artist/2GfcjLOZP7VNM2uI6ZPOVj) | [Critical Mass](https://open.spotify.com/album/1A6frMXAG6GRbl9SJMbR6S) | 2:43 |
 
-Snapshot ID: `AAAI4UD4nJ+WyaTfRY/FdMG7xIEJujs6`
+Snapshot ID: `AAAI4ux9px8Nwq7usvSuD+kiphQNB95H`

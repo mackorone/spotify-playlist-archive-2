@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik fra Rasmus Seebach & SØN, Tessa, Noah Carter og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,014 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,007 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 98 | [Trees](https://open.spotify.com/track/3Dnnh4q5ZPZRQf0AG3yW0i) | [Karpi](https://open.spotify.com/artist/7tbICrOvlI09O13XtaiJWl) | [Trees](https://open.spotify.com/album/65MhMCxtLMrMd2r2hQBT9h) | 3:19 |
 | 99 | [Molt](https://open.spotify.com/track/0ODuu8nh2wPy1PphPk9vHa) | [Adelin](https://open.spotify.com/artist/7wqIsPaUX8SiUcs4TePqeF) | [Yes It Hurts](https://open.spotify.com/album/2JOupqJ7XaAstLumHV8khS) | 1:57 |
 
-Snapshot ID: `AAAAAO6mDv6Lfn5el6lYqgdmXJ8u9LjZ`
+Snapshot ID: `AAAAAMDZkDnhnVte+hF/qbGjElvwbyjV`

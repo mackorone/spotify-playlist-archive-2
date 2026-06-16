@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,891 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,893 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 24 | [Tu Gozo](https://open.spotify.com/track/5RJPlCkGknJW8E7GXTvUax) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Tu Gozo](https://open.spotify.com/album/6uEcWET6bOZB3ulU57hA1R) | 2:27 |
 | 25 | [Quiero Conocer A Jesús](https://open.spotify.com/track/3as9Rl3GJ1pP03e4Wxn8c5) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [Quiero Conocer A Jesús](https://open.spotify.com/album/0AexjlzRjmXT5ix9GNKHOK) | 5:35 |
 | 26 | [Cristo Vive en Mi](https://open.spotify.com/track/6nTdPun60vE4jthdBgxcIf) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Cristo Vive en Mi](https://open.spotify.com/album/1Z7Xv9XmVtB9ceLrQgjwmA) | 3:47 |
-| 27 | [El Nombre de los Animales](https://open.spotify.com/track/5cNIKowOY2ziEXhDY30oKT) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [El Nombre de los Animales](https://open.spotify.com/album/397XoelPqOEKZNooMCp1X5) | 3:13 |
-| 28 | [Tus Cuerdas De Amor](https://open.spotify.com/track/7yMlFK4sLlG4ywbHV9vk5L) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Tus Cuerdas De Amor](https://open.spotify.com/album/79nTtbZUKxTAPEENJFbUG9) | 3:56 |
+| 27 | [Tus Cuerdas De Amor](https://open.spotify.com/track/7yMlFK4sLlG4ywbHV9vk5L) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Tus Cuerdas De Amor](https://open.spotify.com/album/79nTtbZUKxTAPEENJFbUG9) | 3:56 |
+| 28 | [El Nombre de los Animales](https://open.spotify.com/track/5cNIKowOY2ziEXhDY30oKT) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [El Nombre de los Animales](https://open.spotify.com/album/397XoelPqOEKZNooMCp1X5) | 3:13 |
 | 29 | [Tu Mi Luz / My Lighthouse](https://open.spotify.com/track/5zhfBTPQuGsh6KG8empl2m) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Tu Mi Luz / My Lighthouse](https://open.spotify.com/album/0btwtH1HbnwnqiCvBeM5p5) | 3:40 |
 | 30 | [Esta Es Mi Canción](https://open.spotify.com/track/1bEan8FYcB8lRqygZP3DDC) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [Pequeños Heroes](https://open.spotify.com/album/3DinijBFSo5AdvS3V6AsEl) | 3:39 |
 | 31 | [Jehová Es Mi Pastor](https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Rey de Reyes Kids](https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b) | 2:28 |

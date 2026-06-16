@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Afsana Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,630 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,635 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 6 | [5 Gede](https://open.spotify.com/track/2pL59oav27Ltb5ypre95qR) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH), [Vicky Bhullar](https://open.spotify.com/artist/4VSSJraWp49T2eflzcCfjl) | [5 Gede](https://open.spotify.com/album/0x9tO5CkHU0tqAKVkACYjK) | 2:33 |
 | 7 | [Jee Nai Lagda](https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Jee Nai Lagda](https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF) | 2:43 |
 | 8 | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/track/6i6xcGCMktQaGgbDPMc6vQ) | [Ruby Khan](https://open.spotify.com/artist/3dIZHHPQuk8sdhTBzcoBzO), [Manna Singh](https://open.spotify.com/artist/0CX5hMhHINo4YbvFEZmp5L) | [Sun Wanjli Di Mithri Tan We](https://open.spotify.com/album/7oKv1S0qPDs4lw0aNlAnGH) | 2:39 |
-| 9 | [Vyaah](https://open.spotify.com/track/3V84R6k8bGkidWWTr0iKll) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Sameer Uddin](https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX) | [Vyaah](https://open.spotify.com/album/1RD5GB59qtPfZg87v9YHRC) | 2:57 |
-| 10 | [Rishte](https://open.spotify.com/track/2Og7HnP69yJUsCuRIi5wVW) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Rishte](https://open.spotify.com/album/4N037qErbXKbbWVOFrvASw) | 4:03 |
-| 11 | [Saah](https://open.spotify.com/track/5mLCTsVpRLB6zxClm3HIRp) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH), [Sarthak SRTK](https://open.spotify.com/artist/3v1PA29WF70C23dB5o8GrP) | [Saah](https://open.spotify.com/album/5Cd4niGcPpuxaBdzwiiSve) | 3:36 |
-| 12 | [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 |
-| 13 | [Nigaah](https://open.spotify.com/track/5cRP4buqKTGgfP23aI62UO) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Diljan](https://open.spotify.com/artist/5wq7uAiLmjk5RdRpxw1aQF) | [Nigaah](https://open.spotify.com/album/7Cvz3Q2NvxOlrhRq0YndUu) | 2:46 |
+| 9 | [Rishte](https://open.spotify.com/track/2Og7HnP69yJUsCuRIi5wVW) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Rishte](https://open.spotify.com/album/4N037qErbXKbbWVOFrvASw) | 4:03 |
+| 10 | [Saah](https://open.spotify.com/track/5mLCTsVpRLB6zxClm3HIRp) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH), [Sarthak SRTK](https://open.spotify.com/artist/3v1PA29WF70C23dB5o8GrP) | [Saah](https://open.spotify.com/album/5Cd4niGcPpuxaBdzwiiSve) | 3:36 |
+| 11 | [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 |
+| 12 | [Nigaah](https://open.spotify.com/track/5cRP4buqKTGgfP23aI62UO) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Diljan](https://open.spotify.com/artist/5wq7uAiLmjk5RdRpxw1aQF) | [Nigaah](https://open.spotify.com/album/7Cvz3Q2NvxOlrhRq0YndUu) | 2:46 |
+| 13 | [Jindua](https://open.spotify.com/track/5Efx3o1NB0vfFDBusFYjqh) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Neeshitaa Kumar](https://open.spotify.com/artist/7nPSQjeftA9KU8Z6BWniQc), [Rabica Wadhawan](https://open.spotify.com/artist/7JvI3rxourVbaMmZT382fk) | [Jindua](https://open.spotify.com/album/4g2sRBNskak775SL1Qidoo) | 2:56 |
 | 14 | [Mera Mahi](https://open.spotify.com/track/445SKNj7J0NZC5tp2in8Cc) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Mera Mahi](https://open.spotify.com/album/4Lavw2Qao6SX3DqcPJRGXs) | 2:59 |
 | 15 | [Nedhe Nedhe](https://open.spotify.com/track/3CigcJ58kDmQKv82Q8ZwTd) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Nedhe Nedhe](https://open.spotify.com/album/2so0TJElnClfOwnCIua8VM) | 2:56 |
 | 16 | [Pols](https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Pols](https://open.spotify.com/album/0dKep1k5qQFGZnW7ZYEXmD) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 |
 | 50 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 |
 
-Snapshot ID: `AAAAAFGOusb75OSUccTdqKYsXG9ZCW7k`
+Snapshot ID: `AAAAABq8vW0LSMC22EQqv+16V8Ch0fu/`

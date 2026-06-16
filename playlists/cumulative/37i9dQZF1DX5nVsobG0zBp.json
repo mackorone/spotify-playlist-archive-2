@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "AMOR\u2019FATI",
+        "url": "https://open.spotify.com/album/1TgTyWiZ5uW5LmeWoEuttP"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203812,
+      "name": "2020 (feat. Slow J)",
+      "url": "https://open.spotify.com/track/0HcDtzzwuEiJzRUCXYYzFz"
+    },
+    {
+      "album": {
         "name": "2020 (feat. Slow J)",
         "url": "https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ"
       },
@@ -180,6 +202,32 @@
     {
       "album": {
         "name": "3,14",
+        "url": "https://open.spotify.com/album/2RMDHTnDu4VnOTvfozXdpT"
+      },
+      "artists": [
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324763,
+      "name": "3,14",
+      "url": "https://open.spotify.com/track/0lysF5lPDtOl1AwSmgQC3S"
+    },
+    {
+      "album": {
+        "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
       "artists": [
@@ -198,7 +246,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 324763,
       "name": "3,14",
       "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
@@ -216,7 +264,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 257146,
       "name": "300",
       "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
@@ -234,7 +282,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 257146,
       "name": "300",
       "url": "https://open.spotify.com/track/7s0bCwjqJRMjH7yNf6Gyf7"
@@ -392,7 +440,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto",
       "url": "https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4"
@@ -692,7 +740,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 258590,
       "name": "Bairro",
       "url": "https://open.spotify.com/track/0eluGNN9BHwRew83LH8lUt"
@@ -900,10 +948,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 204281,
       "name": "Borboletas",
       "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
+    },
+    {
+      "album": {
+        "name": "Borboletas",
+        "url": "https://open.spotify.com/album/4iCiCPoMmL8NtL2B4JcylO"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204281,
+      "name": "Borboletas",
+      "url": "https://open.spotify.com/track/2dQrtC98YvZ1PXGJPiRqMl"
     },
     {
       "album": {
@@ -1020,7 +1086,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 135117,
       "name": "CABARET",
       "url": "https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r"
@@ -1178,6 +1244,28 @@
       "duration_ms": 266279,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6"
+    },
+    {
+      "album": {
+        "name": "Ouro Sobre Azul",
+        "url": "https://open.spotify.com/album/5CR0quJrbW0xgFUyxV4gTs"
+      },
+      "artists": [
+        {
+          "name": "Regula",
+          "url": "https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266280,
+      "name": "Chauffeur",
+      "url": "https://open.spotify.com/track/7BdaoC3wRaRoknfVpXQcvz"
     },
     {
       "album": {
@@ -1413,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Anatomia de GROG",
+        "url": "https://open.spotify.com/album/1L863TuePL9btizWOViJcG"
+      },
+      "artists": [
+        {
+          "name": "GROGNation",
+          "url": "https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282982,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/32WwWigjxpwkPklaO9vZFq"
+    },
+    {
+      "album": {
         "name": "Dado",
         "url": "https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn"
       },
@@ -1428,7 +1534,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 207720,
       "name": "Dado",
       "url": "https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ"
@@ -1446,7 +1552,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 224653,
       "name": "DAKAR",
       "url": "https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1"
@@ -1490,6 +1596,24 @@
     {
       "album": {
         "name": "Desconfinamento",
+        "url": "https://open.spotify.com/album/1ktxHZvu6tTukquKyS9b67"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186139,
+      "name": "Desconfinamento",
+      "url": "https://open.spotify.com/track/0LCj1YbN5vYa8apCmp4IJl"
+    },
+    {
+      "album": {
+        "name": "Desconfinamento",
         "url": "https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI"
       },
       "artists": [
@@ -1500,7 +1624,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 186139,
       "name": "Desconfinamento",
       "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
@@ -1518,7 +1642,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 293748,
       "name": "Devia Ir",
       "url": "https://open.spotify.com/track/1ftBvRj542ol7LT1A0EtL7"
@@ -1536,7 +1660,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 293748,
       "name": "Devia Ir",
       "url": "https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X"
@@ -1634,7 +1758,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 241813,
       "name": "El Chapo",
       "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
@@ -1733,6 +1857,32 @@
     },
     {
       "album": {
+        "name": "ALK",
+        "url": "https://open.spotify.com/album/64URbWbUj9Yn2AZPan90WM"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "Rafaell Dior",
+          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/3GafZ1VaHJpCmKWm38AhfX"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217715,
+      "name": "ES7\u00c1DIO (feat. Rafaell Dior, T-Rex)",
+      "url": "https://open.spotify.com/track/5qOxKca1xlzGXszFsszVyb"
+    },
+    {
+      "album": {
         "name": "Essa Saia",
         "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
@@ -1810,7 +1960,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 265011,
       "name": "Estrela Maior",
       "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
@@ -2088,6 +2238,24 @@
     {
       "album": {
         "name": "Galileu",
+        "url": "https://open.spotify.com/album/06pKxCcvekQ3HeNQsGzu5Z"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182362,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/3c3stkYpED33paSqBVjffO"
+    },
+    {
+      "album": {
+        "name": "Galileu",
         "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
       },
       "artists": [
@@ -2160,7 +2328,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 220800,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
@@ -2420,7 +2588,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 223100,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/7ngJWF9fTaOG3vmEhSvK6g"
@@ -2634,7 +2802,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 240594,
       "name": "La Bella Mafia",
       "url": "https://open.spotify.com/track/3dJgseQq10k108mfw6m7k9"
@@ -2652,7 +2820,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 206315,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
@@ -2826,7 +2994,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 208068,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
@@ -2844,7 +3012,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 192417,
       "name": "Lua",
       "url": "https://open.spotify.com/track/5KYxsXz9RnMHED7ggDLfbv"
@@ -2880,7 +3048,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
@@ -3012,7 +3180,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
@@ -3136,7 +3304,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 219130,
       "name": "Ma\u00e7\u00e3",
       "url": "https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO"
@@ -3176,10 +3344,28 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 160015,
       "name": "Menino da Mam\u00e3",
       "url": "https://open.spotify.com/track/12giMqnkKs2qruB6IVqshu"
+    },
+    {
+      "album": {
+        "name": "Menino da Mam\u00e3",
+        "url": "https://open.spotify.com/album/4LS0OcPeBK2gJLneQv15l8"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160015,
+      "name": "Menino da Mam\u00e3",
+      "url": "https://open.spotify.com/track/2xq85gu6lkuEa70LKm6NmX"
     },
     {
       "album": {
@@ -3259,6 +3445,42 @@
     },
     {
       "album": {
+        "name": "Sangue Ruim",
+        "url": "https://open.spotify.com/album/6IXG0GPMPJvEbuzUBYwout"
+      },
+      "artists": [
+        {
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168133,
+      "name": "Mi\u00fada",
+      "url": "https://open.spotify.com/track/4UeZGwfettYjAykeJVVg56"
+    },
+    {
+      "album": {
+        "name": "Reflexo",
+        "url": "https://open.spotify.com/album/72xvmSok2ElCdaFrXiOt9b"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Mo Boy",
+      "url": "https://open.spotify.com/track/14eHoQNk1yzNVMRWfGrsFg"
+    },
+    {
+      "album": {
         "name": "Reflexo",
         "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
       },
@@ -3270,7 +3492,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 232000,
       "name": "Mo Boy",
       "url": "https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9"
@@ -3419,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "Cool Kid",
+        "url": "https://open.spotify.com/album/1GjfvUU9ZTz3x4Wkf5V55N"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207658,
+      "name": "Morte Do Artista",
+      "url": "https://open.spotify.com/track/4Oy7UDUGaRybZ5EByovhhA"
+    },
+    {
+      "album": {
         "name": "Mo\u00e7a",
         "url": "https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz"
       },
@@ -3466,7 +3706,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 180491,
       "name": "Mo\u00e7a",
       "url": "https://open.spotify.com/track/5ADtkD7oOzAQFWcfYQvQsl"
@@ -3484,7 +3724,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 218258,
       "name": "Nada a Esconder",
       "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
@@ -3640,7 +3880,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 157664,
       "name": "NUVENS",
       "url": "https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G"
@@ -3662,7 +3902,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 193700,
       "name": "N\u00e3o d\u00e1 pa parar",
       "url": "https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG"
@@ -3808,6 +4048,28 @@
       "duration_ms": 198095,
       "name": "Oskey",
       "url": "https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod"
+    },
+    {
+      "album": {
+        "name": "Oskey",
+        "url": "https://open.spotify.com/album/2nyYShNfoJA7XiOjCxL2Zi"
+      },
+      "artists": [
+        {
+          "name": "Danni Gato",
+          "url": "https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy"
+        },
+        {
+          "name": "Milo & Fabio",
+          "url": "https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Oskey",
+      "url": "https://open.spotify.com/track/3278CPJUrgviQPaIg4XMW0"
     },
     {
       "album": {
@@ -3990,7 +4252,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 214654,
       "name": "Perseus",
       "url": "https://open.spotify.com/track/2QXQFSyhpnisPQnNd76Fh7"
@@ -4150,7 +4412,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
@@ -4358,10 +4620,32 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 177272,
       "name": "ROSAS",
       "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+    },
+    {
+      "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/4kjME0GNANHDdPmq01LhEj"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/7z230czvpJomvwY3HPbsES"
     },
     {
       "album": {
@@ -4630,7 +4914,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 234893,
       "name": "STAY FLY",
       "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
@@ -4746,7 +5030,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 222642,
       "name": "S\u00f3 Queria Sorrir",
       "url": "https://open.spotify.com/track/0BeKKheFsOOPXBzo2bM8Ds"
@@ -4764,7 +5048,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 222642,
       "name": "S\u00f3 Queria Sorrir",
       "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
@@ -4868,7 +5152,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 250169,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4nLqe3vWwbC4oGX2SphgXL"
@@ -4926,7 +5210,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 175204,
       "name": "Teu Eternamente",
       "url": "https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK"
@@ -5026,6 +5310,28 @@
     {
       "album": {
         "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4nMBCuC80YpWTjyEVlJ5V8"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191679,
+      "name": "Tou Bem",
+      "url": "https://open.spotify.com/track/0hc2NfCTKQqBxQqerJQaWl"
+    },
+    {
+      "album": {
+        "name": "#FFFFFF",
         "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
       "artists": [
@@ -5040,7 +5346,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 191679,
       "name": "Tou Bem (feat. Lhast)",
       "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
@@ -5116,7 +5422,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 226005,
       "name": "Trovador",
       "url": "https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j"
@@ -5142,6 +5448,24 @@
       "duration_ms": 251308,
       "name": "Tu N\u00e3o Sabes",
       "url": "https://open.spotify.com/track/3SCLg9qcpLlwP0D6GV8uIp"
+    },
+    {
+      "album": {
+        "name": "T\u00f3xico",
+        "url": "https://open.spotify.com/album/3N2Kr2KxfkiaQ8O0dLCxTn"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274965,
+      "name": "T\u00f3xico",
+      "url": "https://open.spotify.com/track/5prTMNr3KRLn5H6m17vjgv"
     },
     {
       "album": {
@@ -5208,6 +5532,24 @@
     {
       "album": {
         "name": "M.a.D.H.P.",
+        "url": "https://open.spotify.com/album/5aOif3hg6HpbLtAcJ1N34Z"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/3d9BJTGYtkSGEdYao481Nh"
+    },
+    {
+      "album": {
+        "name": "M.a.D.H.P.",
         "url": "https://open.spotify.com/album/3gjC8dqA5LfTFOGOug5rUA"
       },
       "artists": [
@@ -5236,7 +5578,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 260800,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
@@ -5352,7 +5694,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 241565,
       "name": "VOLTA",
       "url": "https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3"

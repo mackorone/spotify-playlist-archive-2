@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 166874,
       "name": "Cambodia",
       "url": "https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4"
@@ -7041,6 +7041,24 @@
     },
     {
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/52r9CUPMQVzJTl6MyKlrf0"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/4JqNT3CzwdtEvvMe2zOkxr"
+    },
+    {
+      "album": {
         "name": "Freestyler",
         "url": "https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow"
       },
@@ -7610,7 +7628,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 217500,
       "name": "GO STUPID",
       "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
@@ -10156,7 +10174,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 211144,
       "name": "Justify",
       "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
@@ -11062,6 +11080,24 @@
       "duration_ms": 180292,
       "name": "Libert\u00e9 - Sefa & Outsiders Remix",
       "url": "https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI"
+    },
+    {
+      "album": {
+        "name": "Life Beyond (Official REBiRTH Festival 2026 Euphoric OST)",
+        "url": "https://open.spotify.com/album/1Vqmo2asu6xtQARtSbAb5W"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193889,
+      "name": "Life Beyond - Official REBiRTH Festival 2026 Euphoric OST",
+      "url": "https://open.spotify.com/track/7fT2ofZja11JZtq9GUQtAu"
     },
     {
       "album": {
@@ -17102,6 +17138,28 @@
       "duration_ms": 208823,
       "name": "Something New",
       "url": "https://open.spotify.com/track/2ClJdYDfI8kjMadp5qTziB"
+    },
+    {
+      "album": {
+        "name": "SORRY MAMA",
+        "url": "https://open.spotify.com/album/3xog9gL4XqVuAEOwLY043O"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Lekkerfaces",
+          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "SORRY MAMA",
+      "url": "https://open.spotify.com/track/0SHR6X8IJXaxsRYaUt7nhg"
     },
     {
       "album": {

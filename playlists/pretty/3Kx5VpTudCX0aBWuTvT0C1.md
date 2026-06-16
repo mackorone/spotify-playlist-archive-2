@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,744 likes - 52 songs - 3 hr 12 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,761 likes - 53 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 50 | [Fool For Your Loving](https://open.spotify.com/track/2P2syb5wOQfqhzczK3UZtC) | [Gary.D.Pearson](https://open.spotify.com/artist/5pNe5hQpRgMBOG1mLSXxlX) | [Fool For Your Loving](https://open.spotify.com/album/3nf6hEV110QjHkYK4ZvOon) | 4:31 |
 | 51 | [save your words](https://open.spotify.com/track/1wQ2R6aecRThAisPlhXkLx) | [michelle gwod](https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL) | [save your words](https://open.spotify.com/album/76rsI0ClezjwUCu4kQQIrx) | 2:30 |
 | 52 | [Stop Bugging Me](https://open.spotify.com/track/6vB5GtdaVnKxI9oKLSJp1I) | [A&A Music](https://open.spotify.com/artist/44JpteVluI2YY0TpZw3E2a) | [Stop Bugging Me](https://open.spotify.com/album/1cvkR5d7O9u6exG68IQjwi) | 2:54 |
+| 53 | [Máquina do Tempo](https://open.spotify.com/track/2fsNfAmCoUBt07rzR2S2Wc) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [Máquina do Tempo](https://open.spotify.com/album/3AYQcmPWOwxGe7eGbLyadE) | 3:32 |
 
-Snapshot ID: `AAACphYavix26e405S5can26xpuDM2fn`
+Snapshot ID: `AAACp6E0T+u25L6I3AfhVkrUKC34J4HR`

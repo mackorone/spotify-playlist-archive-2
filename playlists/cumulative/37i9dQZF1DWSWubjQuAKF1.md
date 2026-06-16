@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Natalia Marczuk
 
-875 songs - 1 day 18 hr 44 min
+876 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Caramel Love](https://open.spotify.com/track/7mfbHPYJNdBilOyRqsl8Fe) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Caramel Love](https://open.spotify.com/album/0h8xuOdOfOnFiS2Xfmo03N) | 2:21 | 2025-01-09 | 2025-02-07 |
 | [Chamy](https://open.spotify.com/track/3YyCRTXnD7MkTKeqCkrM0M) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Chamy](https://open.spotify.com/album/2SHWbu3gF4G9vaUTDOMSDx) | 2:21 | 2025-08-07 | 2025-12-06 |
 | [Charms in bracelet](https://open.spotify.com/track/7sbA6c0JF409RF9EC7W1ww) | [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Pola](https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa) | [5 minutes](https://open.spotify.com/album/67Smw9hSPpRvQwApRA0g20) | 3:40 | 2025-09-30 | 2025-10-11 |
-| [chce Twoje zarazki](https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [chce Twoje zarazki](https://open.spotify.com/album/6lG2MHCF8CPxnSy8o6EBW1) | 2:48 | 2026-04-30 |  |
+| [chce Twoje zarazki](https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [chce Twoje zarazki](https://open.spotify.com/album/6lG2MHCF8CPxnSy8o6EBW1) | 2:48 | 2026-04-30 | 2026-06-16 |
 | [Chciałabym Być Zwykła...](https://open.spotify.com/track/3QdQMGLj6Fmci5XbN3gMpu) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2), [MtZ](https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu) | [Chciałabym Być Zwykła...](https://open.spotify.com/album/28N73ugZB91YH3HEuVMHJd) | 2:34 | 2026-04-30 | 2026-05-22 |
 | [Chciałabym Ci powiedzieć](https://open.spotify.com/track/4NlptlNKseLr56hRa1Qfvt) | [Julia Wasielewska](https://open.spotify.com/artist/0BbWyb6ZMdisHe03Fy3v7I) | [Chciałabym Ci powiedzieć](https://open.spotify.com/album/11JIXjzepAvkXK20kKVOFg) | 2:36 | 2026-03-12 | 2026-05-30 |
 | [Chciałbym być kotem](https://open.spotify.com/track/235BIVbYtJp4090aHD60VR) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Chciałbym być kotem](https://open.spotify.com/album/0j3LDKTuqYsg3TbBnylyEB) | 3:09 | 2026-04-09 |  |
@@ -760,6 +760,7 @@
 | [twój głos](https://open.spotify.com/track/3mfxm9Y3tC4dwdFuyCSxEv) | [Lynx.](https://open.spotify.com/artist/6MY35otuE9BTVqMm3jAKiy) | [twój głos](https://open.spotify.com/album/6JXR8mRQwAy5OQ2WbNumEK) | 3:10 | 2026-02-27 | 2026-03-06 |
 | [Ty to Ja](https://open.spotify.com/track/44XvWHUZcYWvzMWhqhYLl6) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Ty to Ja](https://open.spotify.com/album/5DqH7F3PynlPtXYx6sqX7K) | 3:33 | 2025-02-27 | 2025-05-09 |
 | [Tylko gest](https://open.spotify.com/track/2cHOEJcqGGNv3GVDxgF579) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Tylko gest](https://open.spotify.com/album/2V3hRzPgs0MW2TaHaInnny) | 3:08 | 2025-07-10 | 2025-08-20 |
+| [Tylko My](https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Tylko My](https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl) | 2:10 | 2026-06-11 |  |
 | [Tylko na moment](https://open.spotify.com/track/1EjWpkR2JATl6hgQyOPwsO) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tylko na moment](https://open.spotify.com/album/74Uk3H4hRvzyyo6aTEK6mv) | 1:58 | 2024-06-28 | 2024-08-23 |
 | [TYLKO Z TOBĄ](https://open.spotify.com/track/1xeUFDeg7xZB4r2MAtdbZ8) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg) | [moje smęty](https://open.spotify.com/album/3R2Sx2CO4dKv2Y23ovoBBC) | 2:34 | 2025-11-28 | 2026-03-13 |
 | [Tęsknię](https://open.spotify.com/track/6ZIExaf8SeE2WYDazQtrdZ) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Tęsknię](https://open.spotify.com/album/4bMP6PMo8Vm4LCJIzW7Si9) | 2:56 | 2025-12-05 | 2025-12-12 |

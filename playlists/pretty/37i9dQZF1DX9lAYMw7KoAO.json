@@ -1,12 +1,12 @@
 {
   "description": "The Hottest Christian and Gospel music from across the African continent.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a> ",
-  "num_followers": 322782,
+  "num_followers": 322908,
   "original_name": "African Gospel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQxa9idnPZJ+KOQnX/Rkh0595PO",
+  "snapshot_id": "AAAAAA0eVhYtdcV/HT4UY/f6M1YilDCF",
   "tracks": [
     {
       "added_at": "2025-12-03 12:16:06",
@@ -99,6 +99,22 @@
       "duration_ms": 264308,
       "name": "Oluwatosin",
       "url": "https://open.spotify.com/track/484AckgGJtpi0hVPnIjy8k"
+    },
+    {
+      "added_at": "2026-06-15 10:48:23",
+      "album": {
+        "name": "Aanu Ni",
+        "url": "https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET"
+      },
+      "artists": [
+        {
+          "name": "BisiManuel",
+          "url": "https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO"
+        }
+      ],
+      "duration_ms": 222977,
+      "name": "Aanu Ni",
+      "url": "https://open.spotify.com/track/6Xlk1BRpm8popHswG85vsw"
     },
     {
       "added_at": "2025-12-03 12:16:06",
@@ -927,26 +943,6 @@
       "duration_ms": 670000,
       "name": "Nina Siri",
       "url": "https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE"
-    },
-    {
-      "added_at": "2025-12-24 18:51:27",
-      "album": {
-        "name": "Give Me Oil",
-        "url": "https://open.spotify.com/album/1LqSNdCV9nA8ZCj2pD3FId"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Sandra Boakye-Duah",
-          "url": "https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI"
-        }
-      ],
-      "duration_ms": 693002,
-      "name": "Give Me Oil",
-      "url": "https://open.spotify.com/track/599ZQudXBR9hvAJ3gEOF9B"
     },
     {
       "added_at": "2025-12-03 12:16:06",

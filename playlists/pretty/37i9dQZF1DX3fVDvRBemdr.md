@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Jeffrey Heesen
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,115 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,108 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Loco](https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Loco](https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc) | 2:33 |
-| 2 | [Als Je De Keuze Had](https://open.spotify.com/track/1FZM8dP0aTz018IYwdGH46) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI) | [Als Je De Keuze Had](https://open.spotify.com/album/2Tex2k6PHIJQssAYP30zLP) | 2:41 |
-| 3 | [Je Weet Niet Wat Je Mist](https://open.spotify.com/track/1TUABuqFdbTfcboSfXS9TU) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Je Weet Niet Wat Je Mist](https://open.spotify.com/album/6ibwU9gWM7PpCvrnJRozhp) | 3:03 |
-| 4 | [Zandloopster](https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zandloopster](https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw) | 2:22 |
-| 5 | [Geweest Is Geweest](https://open.spotify.com/track/5tuFIPgPtR8zyOkp1wX84f) | [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Geweest Is Geweest](https://open.spotify.com/album/5zYkAkqlag5B299gitBMgy) | 2:54 |
-| 6 | [Hartslag Van Je Heupen](https://open.spotify.com/track/1CPlwOTruxPNdsQrqmhCKo) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB) | [Hartslag Van Je Heupen](https://open.spotify.com/album/4JJTmyDkynVtJcV96InaM9) | 2:59 |
-| 7 | [Zwoele Zomernachten](https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zwoele Zomernachten](https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT) | 3:15 |
-| 8 | [Er Hangt Iets In De Lucht \(Amore\)](https://open.spotify.com/track/07bJRyAngiJbVGLmkyv447) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Er Hangt Iets In De Lucht \(Amore\)](https://open.spotify.com/album/6buRqDbSFtPWbIQE6U9yLZ) | 2:21 |
-| 9 | [Baco In Monaco](https://open.spotify.com/track/2YNwOaY3pAi4flU4RXau62) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Baco In Monaco](https://open.spotify.com/album/4bT6o2cRNYG6MxkQCkwP51) | 2:12 |
-| 10 | [Nergens Anders](https://open.spotify.com/track/4DjNoN2DWSdkCOGppJzkw6) | [Bob Offenberg](https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO) | [Nergens Anders](https://open.spotify.com/album/0uRnA7qbvfQCz12VAtQodA) | 2:43 |
-| 11 | [Klokkenluider](https://open.spotify.com/track/3QnZnBoMApl2GKCZWYtwmD) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Klokkenluider](https://open.spotify.com/album/7ngWdoTqXpc9EzXhsNwsPO) | 2:41 |
-| 12 | [Voor Jou Betekent Liefde Niets](https://open.spotify.com/track/0nm88HUSs2TQghRSMVjmYQ) | [Menno Aben](https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL) | [Voor Jou Betekent Liefde Niets](https://open.spotify.com/album/0KfBDmaAEwbijrjHrV9pCr) | 3:11 |
+| 2 | [Geweest Is Geweest](https://open.spotify.com/track/5tuFIPgPtR8zyOkp1wX84f) | [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Geweest Is Geweest](https://open.spotify.com/album/5zYkAkqlag5B299gitBMgy) | 2:54 |
+| 3 | [Hartslag Van Je Heupen](https://open.spotify.com/track/1CPlwOTruxPNdsQrqmhCKo) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB) | [Hartslag Van Je Heupen](https://open.spotify.com/album/4JJTmyDkynVtJcV96InaM9) | 2:59 |
+| 4 | [Als Je De Keuze Had](https://open.spotify.com/track/1FZM8dP0aTz018IYwdGH46) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI) | [Als Je De Keuze Had](https://open.spotify.com/album/2Tex2k6PHIJQssAYP30zLP) | 2:41 |
+| 5 | [Zandloopster](https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zandloopster](https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw) | 2:22 |
+| 6 | [Je Weet Niet Wat Je Mist](https://open.spotify.com/track/1TUABuqFdbTfcboSfXS9TU) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Je Weet Niet Wat Je Mist](https://open.spotify.com/album/6ibwU9gWM7PpCvrnJRozhp) | 3:03 |
+| 7 | [Nergens Anders](https://open.spotify.com/track/4DjNoN2DWSdkCOGppJzkw6) | [Bob Offenberg](https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO) | [Nergens Anders](https://open.spotify.com/album/0uRnA7qbvfQCz12VAtQodA) | 2:43 |
+| 8 | [Voor Jou Betekent Liefde Niets](https://open.spotify.com/track/0nm88HUSs2TQghRSMVjmYQ) | [Menno Aben](https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL) | [Voor Jou Betekent Liefde Niets](https://open.spotify.com/album/0KfBDmaAEwbijrjHrV9pCr) | 3:11 |
+| 9 | [Er Hangt Iets In De Lucht \(Amore\)](https://open.spotify.com/track/07bJRyAngiJbVGLmkyv447) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Er Hangt Iets In De Lucht \(Amore\)](https://open.spotify.com/album/6buRqDbSFtPWbIQE6U9yLZ) | 2:21 |
+| 10 | [Zwoele Zomernachten](https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zwoele Zomernachten](https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT) | 3:15 |
+| 11 | [Baco In Monaco](https://open.spotify.com/track/2YNwOaY3pAi4flU4RXau62) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr) | [Baco In Monaco](https://open.spotify.com/album/4bT6o2cRNYG6MxkQCkwP51) | 2:12 |
+| 12 | [Klokkenluider](https://open.spotify.com/track/3QnZnBoMApl2GKCZWYtwmD) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Klokkenluider](https://open.spotify.com/album/7ngWdoTqXpc9EzXhsNwsPO) | 2:41 |
 | 13 | [Ciao, Doei, Adios](https://open.spotify.com/track/761xNUBIXQ0tCe9YuDPf8j) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Ciao, Doei, Adios](https://open.spotify.com/album/7KeBYlkgXDPb3jF0HXDRgK) | 2:45 |
 | 14 | [Lekkâh Bakkûh Op Scheveningen](https://open.spotify.com/track/5hxJrnTdXWNmVuzUc78bIM) | [Chicco](https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb) | [Lekkâh Bakkûh Op Scheveningen](https://open.spotify.com/album/7cx8yvUXzIvWLctBG1bpqR) | 2:44 |
 | 15 | [Rijk](https://open.spotify.com/track/1bqjF7uW3vrOh4NMNAPoUT) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl), [Emma La Croix](https://open.spotify.com/artist/78Lk31Zy11zeyc09ZrC9mP) | [Rijk](https://open.spotify.com/album/1hXCaI82l8yrQVAXL45YyR) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Ik Geniet En Ik Leef](https://open.spotify.com/track/6mY2IGGSG8vILXNZhb8Q5S) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Ik Geniet En Ik Leef](https://open.spotify.com/album/4xusIsn7afigsmlLyPoDoo) | 2:33 |
 | 100 | [Veel Leuker Met Jou](https://open.spotify.com/track/73nmRgRJboLydYZkLh9emE) | [Susanna Veldmeijer](https://open.spotify.com/artist/2MgUlFmA4sje2WpKCPLavJ), [Frank Verkooyen](https://open.spotify.com/artist/4ufIflZBqkBtxKDjEJ624G) | [Veel Leuker Met Jou](https://open.spotify.com/album/0f6oKEY6gwR9MCL7MUeV9q) | 2:53 |
 
-Snapshot ID: `AAAAACgSDi7giAA5PTAJLWnmvZMviqJv`
+Snapshot ID: `AAAAAAQ7H01IXEjhBGBiTVBQkKgw41ke`

@@ -2,7 +2,7 @@
 
 ### [HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  🎶](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> Future House Music 2026! 🚀 Deep beats &amp; fresh tracks from David Guetta, Fred again.., Chris Lake, Oliver Heldens, Tiesto, Riton and more\. Best of Deep House, Progressive, Tech House\. Updated Weekly to keep your party vibes high! Save this essential mix.
+> Dance Hits that define the future! Get ready for fresh House, Tech House &amp; Disco House grooves\. Featuring new tracks from David Guetta, Fred again.., Dom Dolla, and LF System\. High\-energy party anthems &amp; uplifting vibes\. Updated Weekly! Like &amp; Save for your ultimate 2026 House playlist!
 
 529 songs - 1 day 2 hr 29 min
 
@@ -449,7 +449,7 @@
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-11-03 | 2023-12-12 |
 | [Ten \(Get Back Up\)](https://open.spotify.com/track/1vZOzHuHtlEN80bvwEa4sL) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/6gGeqkcCMpx2oMKbnGQMv3) | 2:40 | 2024-06-10 | 2025-02-15 |
 | [terms and conditions](https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [terms and conditions](https://open.spotify.com/album/6i1OPAnr4QVZGwOI7jYGj8) | 2:31 | 2026-04-24 | 2026-06-13 |
-| [terms and conditions \- Beave Remix](https://open.spotify.com/track/1E5NsA5N9Noohhmf2cGx5B) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Beave](https://open.spotify.com/artist/4LAkPgRk3KuPVOIe0fyinc) | [terms and conditions \(Beave Remix\)](https://open.spotify.com/album/1zOk7p3AvGqn5iaoylnsdo) | 2:29 | 2026-06-12 |  |
+| [terms and conditions \- Beave Remix](https://open.spotify.com/track/1E5NsA5N9Noohhmf2cGx5B) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [terms and conditions \(Beave Remix\)](https://open.spotify.com/album/1zOk7p3AvGqn5iaoylnsdo) | 2:29 | 2026-06-12 |  |
 | [Texting At Midnight](https://open.spotify.com/track/1dXU7GzSDtcDLprQwcAQyM) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [Hayley Zalassi](https://open.spotify.com/artist/6CkWYOPGB6vgMNjXAYRfav) | [Texting At Midnight](https://open.spotify.com/album/33fxi6X9krlv8FM6Cfgjm2) | 3:39 | 2025-06-13 | 2025-10-04 |
 | [That Far](https://open.spotify.com/track/0n9Ja7NNSuNOx8NylBe3ng) | [Faux Real](https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO) | [That Far](https://open.spotify.com/album/1UXVs3IHWEvSkpBRHrUnyP) | 3:23 | 2026-05-22 |  |
 | [That's Her \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3mAttc0Ojiw3xELRfVN6Ea) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [That's Her \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/2YTsUD2n4AWeXGK51A4fYb) | 2:27 | 2026-03-06 |  |

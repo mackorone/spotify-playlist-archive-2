@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEgOOVax+bclH4B0NEDabMNkU+2H",
+  "snapshot_id": "AAAAAFNVFuCLl3U8riqW4Q0VVbCNCiHj",
   "tracks": [
     {
-      "added_at": "2026-05-18 07:29:24",
+      "added_at": "2026-06-15 06:53:31",
       "album": {
         "name": "Ano Ba Talaga? With Kuya Kim",
         "url": "https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK"
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK"
         }
       ],
-      "duration_ms": 3192960,
-      "name": "Ep. 49: Paolo of BEN and BEN kasing lalim ng kanta niya!",
-      "url": "https://open.spotify.com/episode/3JML7e7E5lTuaeIBNvrtSO"
+      "duration_ms": 3420885,
+      "name": "Ep. 54: ANG LOVE STORY NI GARY V!",
+      "url": "https://open.spotify.com/episode/7tct3VRYBS8TglFAWreoUn"
     },
     {
-      "added_at": "2026-05-18 07:29:24",
+      "added_at": "2026-06-15 06:53:31",
       "album": {
         "name": "K's Drama",
         "url": "https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI"
@@ -36,12 +36,12 @@
           "url": "https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI"
         }
       ],
-      "duration_ms": 1825291,
-      "name": "K's Drama S5E2: Chona\u2019s Delight: A Baguio Food Legacy",
-      "url": "https://open.spotify.com/episode/7rCicqSuuZciV2DhMPzMT4"
+      "duration_ms": 1492583,
+      "name": "K's Drama S4E17: Hosting The Biggest Night in Music! ft My Leg Brace",
+      "url": "https://open.spotify.com/episode/0iBZimuoh8sBeUpeFL58Nx"
     },
     {
-      "added_at": "2026-05-18 07:29:24",
+      "added_at": "2026-06-15 06:53:31",
       "album": {
         "name": "DAGOK TIME!",
         "url": "https://open.spotify.com/album/0lAfs5tpnJwfAcX5M0cYXo"
@@ -52,89 +52,9 @@
           "url": "https://open.spotify.com/show/0lAfs5tpnJwfAcX5M0cYXo"
         }
       ],
-      "duration_ms": 2753931,
-      "name": "DAGOK TIME - Family is Love with IGITERS",
-      "url": "https://open.spotify.com/episode/6WfyZKNV0LNpW1L5f0334V"
-    },
-    {
-      "added_at": "2026-05-18 07:29:24",
-      "album": {
-        "name": "Your Honor",
-        "url": "https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy"
-      },
-      "artists": [
-        {
-          "name": "Your Honor",
-          "url": "https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy"
-        }
-      ],
-      "duration_ms": 2986325,
-      "name": "EP 66 - In Aid of Baklang Kanal: Paano ang Atake? ",
-      "url": "https://open.spotify.com/episode/2dtNBID3GGmKxwAHyNOpPJ"
-    },
-    {
-      "added_at": "2026-05-18 07:29:24",
-      "album": {
-        "name": "yani\u2019s room",
-        "url": "https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD"
-      },
-      "artists": [
-        {
-          "name": "yani\u2019s room",
-          "url": "https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD"
-        }
-      ],
-      "duration_ms": 3166272,
-      "name": "reading your love problems (para may problema rin ako)",
-      "url": "https://open.spotify.com/episode/7IxurT7LpeQDxLrhMqh3Gw"
-    },
-    {
-      "added_at": "2026-05-18 07:29:24",
-      "album": {
-        "name": "Ano Ba Talaga? With Kuya Kim",
-        "url": "https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK"
-      },
-      "artists": [
-        {
-          "name": "Ano Ba Talaga? With Kuya Kim",
-          "url": "https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK"
-        }
-      ],
-      "duration_ms": 2747456,
-      "name": "Ep. 50: Meet Mauro Lumba, fastest Hyrox athlete sa bansa! (Pinaka guwapo din)",
-      "url": "https://open.spotify.com/episode/1ohLn4bJPNng5gMKgX1CjK"
-    },
-    {
-      "added_at": "2026-05-18 07:29:24",
-      "album": {
-        "name": "K's Drama",
-        "url": "https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI"
-      },
-      "artists": [
-        {
-          "name": "K's Drama",
-          "url": "https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI"
-        }
-      ],
-      "duration_ms": 880291,
-      "name": "K's Drama S5E3: Becoming Mrs. Bucket!",
-      "url": "https://open.spotify.com/episode/1KlOrzqluQAIsfmkvNEqyn"
-    },
-    {
-      "added_at": "2026-05-18 07:29:24",
-      "album": {
-        "name": "DAGOK TIME!",
-        "url": "https://open.spotify.com/album/0lAfs5tpnJwfAcX5M0cYXo"
-      },
-      "artists": [
-        {
-          "name": "DAGOK TIME!",
-          "url": "https://open.spotify.com/show/0lAfs5tpnJwfAcX5M0cYXo"
-        }
-      ],
-      "duration_ms": 2080181,
-      "name": "DAGOK TIME - ISTURII EPISODE 63",
-      "url": "https://open.spotify.com/episode/7LVe7dRNno3IO7hAuaTbTT"
+      "duration_ms": 3642513,
+      "name": "DAGOK TIME - Namujane with QD and SASSA GURL",
+      "url": "https://open.spotify.com/episode/6RmgXFMfXabPF6l2tabG9D"
     },
     {
       "added_at": "2026-05-18 07:29:24",
@@ -153,7 +73,7 @@
       "url": "https://open.spotify.com/episode/0TN3P38MsvaTaKNNwzLURh"
     },
     {
-      "added_at": "2026-05-18 07:29:24",
+      "added_at": "2026-06-15 06:53:31",
       "album": {
         "name": "yani\u2019s room",
         "url": "https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD"
@@ -164,9 +84,89 @@
           "url": "https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD"
         }
       ],
-      "duration_ms": 3336312,
-      "name": "she's just a girl! (ft. fyang smith of Almost Us)",
-      "url": "https://open.spotify.com/episode/79mHcT0uYQzuVpji1Te2zn"
+      "duration_ms": 3108827,
+      "name": "PODCAST NG MGA TANGA (ft. janine berdin)",
+      "url": "https://open.spotify.com/episode/4gqzHCIEaMjoaX43LLbdVX"
+    },
+    {
+      "added_at": "2026-06-15 06:53:31",
+      "album": {
+        "name": "Ano Ba Talaga? With Kuya Kim",
+        "url": "https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK"
+      },
+      "artists": [
+        {
+          "name": "Ano Ba Talaga? With Kuya Kim",
+          "url": "https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK"
+        }
+      ],
+      "duration_ms": 2652757,
+      "name": "Ep. 27: Depressed ka ba? Ayaw mo nang mabuhay? May lunas ba dito? Pag usapan natin ang mental health with Doc Joanna Herrera.",
+      "url": "https://open.spotify.com/episode/3e1iAY3hHmUyB5YPIhqerW"
+    },
+    {
+      "added_at": "2026-06-15 06:53:31",
+      "album": {
+        "name": "K's Drama",
+        "url": "https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI"
+      },
+      "artists": [
+        {
+          "name": "K's Drama",
+          "url": "https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI"
+        }
+      ],
+      "duration_ms": 1692791,
+      "name": "K's Drama S4E6: Quezon Is Here! Come With Me To The Premiere Night",
+      "url": "https://open.spotify.com/episode/5HYpbggxXtQsRBX2V9q0mM"
+    },
+    {
+      "added_at": "2026-05-18 07:29:24",
+      "album": {
+        "name": "DAGOK TIME!",
+        "url": "https://open.spotify.com/album/0lAfs5tpnJwfAcX5M0cYXo"
+      },
+      "artists": [
+        {
+          "name": "DAGOK TIME!",
+          "url": "https://open.spotify.com/show/0lAfs5tpnJwfAcX5M0cYXo"
+        }
+      ],
+      "duration_ms": 2753931,
+      "name": "DAGOK TIME - Family is Love with IGITERS",
+      "url": "https://open.spotify.com/episode/6WfyZKNV0LNpW1L5f0334V"
+    },
+    {
+      "added_at": "2026-06-15 06:53:31",
+      "album": {
+        "name": "Your Honor",
+        "url": "https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy"
+      },
+      "artists": [
+        {
+          "name": "Your Honor",
+          "url": "https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy"
+        }
+      ],
+      "duration_ms": 3107050,
+      "name": "EP 46: In Aid of Sex Appeal: Basta Dancer, Sexy Lover (with guest Sexbomb Jopay and Aira)",
+      "url": "https://open.spotify.com/episode/5qFstTnKpkPMilGGqTiaNN"
+    },
+    {
+      "added_at": "2026-06-15 06:53:31",
+      "album": {
+        "name": "yani\u2019s room",
+        "url": "https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD"
+      },
+      "artists": [
+        {
+          "name": "yani\u2019s room",
+          "url": "https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD"
+        }
+      ],
+      "duration_ms": 4160064,
+      "name": "Bakla Bakla, Ano Na Gawa Mo? (with AC Soriano)",
+      "url": "https://open.spotify.com/episode/7o4avXZZTYnzi4CGxOoOb7"
     }
   ],
   "unique_name": "RADAR Creators Philippines",

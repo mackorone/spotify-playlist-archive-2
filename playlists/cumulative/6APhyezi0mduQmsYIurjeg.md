@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-563 songs - 1 day 10 hr 5 min
+568 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Piedi Scalzi](https://open.spotify.com/track/5PtQOSSAZBjK0p9pror640) | [Matteo Palermo](https://open.spotify.com/artist/3FK4kcRko04QpQJrvoIBhC) | [A Piedi Scalzi](https://open.spotify.com/album/6PQQSgFRjkRxHZyJLAnHGw) | 3:16 | 2025-02-19 |  |
 | [Aberrado \- 2022 Remastered Version](https://open.spotify.com/track/3Ct7sOiT1pHBurbyf8Tfra) | [Petter Marchan Xtasix](https://open.spotify.com/artist/6RTz0qC5h5uYfAO3UgNXTr) | [Descarga \(2022 Remastered Version\)](https://open.spotify.com/album/66rwbbo6ZHOaJFo8wRTRpe) | 2:16 | 2024-12-24 |  |
 | [Abigail](https://open.spotify.com/track/3G633UVEJbnzl9NlQaQKIz) | [Privacy Please](https://open.spotify.com/artist/0xd5HcK4SKQNj9rUgCVKY2) | [Abigail](https://open.spotify.com/album/3vVlCpV9hGXfeOo1Erp9jn) | 4:20 | 2024-12-09 |  |
+| [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 | 2026-06-15 |  |
 | [Acto 2: Pesadillas del letargo profundo](https://open.spotify.com/track/4LViyri2fMEARSx0xuhKNi) | [El viaje de la vieja](https://open.spotify.com/artist/28CwZaIjKtZ3GSdjt0PDxe) | [LADO A: Horizonte de sucesos](https://open.spotify.com/album/7ntUvN7BCJMPWGHjNA7NET) | 6:30 | 2024-06-15 |  |
 | [Ada](https://open.spotify.com/track/7ADfAfJQ3wMrFUqTi2BlWp) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Silvia Criscenzo](https://open.spotify.com/artist/2SQ9c93eTJgZdHDN8Kmej3) | [Ada \(featuring Silvia Criscenzo\)](https://open.spotify.com/album/48s2lj6AckGnp8EJa2GKzb) | 4:18 | 2024-10-03 |  |
 | [aisle two](https://open.spotify.com/track/6x6BsNnNA4TBufdxMKzVGf) | [Lorenzo Meli](https://open.spotify.com/artist/0Fa2S0OGEqwt7dls6AQgdk) | [AM I WASTING MY TIME?](https://open.spotify.com/album/2l71e7iDnvHRYCoPluoJwH) | 3:59 | 2024-10-03 |  |
@@ -114,6 +115,7 @@
 | [Dime Hoy](https://open.spotify.com/track/2I1oOKlNdP1MAv0r1JjqIb) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [Dime Hoy](https://open.spotify.com/album/4wft2Rb0Eu1M3xV1Z08vXw) | 3:32 | 2025-01-07 |  |
 | [Disconnected](https://open.spotify.com/track/53JjeA37blKWxwAsRVXr3T) | [Private Party](https://open.spotify.com/artist/1Nelw0xdSyeJOqMhjL4IkL) | [Disconnected](https://open.spotify.com/album/2QjJO6n9t53MKpG4OIr5ir) | 3:21 | 2023-08-02 |  |
 | [Does It Matter](https://open.spotify.com/track/3Jgg1055ivLnYI9b00x9KN) | [Aviram Tzur](https://open.spotify.com/artist/5I0RAYOxK9klXyMtMG75Rn) | [Does It Matter](https://open.spotify.com/album/040kVolU7wEbL3OdWShKLW) | 3:53 | 2023-03-25 |  |
+| [DON'T DO THAT](https://open.spotify.com/track/630YNEl6c2QU3rflfCxnGz) | [YASSiN & Sean Terrio](https://open.spotify.com/artist/6MQaXix1Y8JL3q2zYZkd1v) | [DON'T DO THAT](https://open.spotify.com/album/5safWD1mR13AS3OP8WbWmZ) | 3:45 | 2026-06-15 |  |
 | [Don't go to strangers](https://open.spotify.com/track/2VJTAJ8KjA7z1hNbkMAu9L) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [A Dozen Years Ago, Dozen Songs\. J.J\. Cale Tribute](https://open.spotify.com/album/1TLHKnWvLSPZMAcXGxcyX9) | 3:03 | 2025-10-27 |  |
 | [Don't Let Go \- Jameson Remix](https://open.spotify.com/track/3yhHxzZUKIfv2rEKQZ3RV4) | [Left on Read](https://open.spotify.com/artist/2sTYQuj6Z7HAif2Bm2BkCb), [Jameson](https://open.spotify.com/artist/3HFEPOD054IjtQnTHFeUXY) | [Don't Let Go \(Jameson Remix\)](https://open.spotify.com/album/3A5e2uYJoNEh4MLZiOx04m) | 3:26 | 2025-01-07 |  |
 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:37 | 2023-01-10 |  |
@@ -126,6 +128,7 @@
 | [Dr Ramón](https://open.spotify.com/track/7LVI3HdcNqjtDEW1pqe0IB) | [Mono Loco](https://open.spotify.com/artist/4CZR9EpFMQuqqDMP8ql8fC) | [Rock de la Selva, Vol\. 1](https://open.spotify.com/album/6Iu1V1aqcsxLJyb916YrTz) | 3:44 | 2025-02-03 |  |
 | [Dresden](https://open.spotify.com/track/0uJOSrX8dOjaADcZ0gWVLk) | [Marla Hansen](https://open.spotify.com/artist/1nmATH0mBHYZlXaVgTo4gO) | [Dresden](https://open.spotify.com/album/1OJRcZfjnYV9kbqnpHMR4O) | 3:56 | 2024-02-29 |  |
 | [Dualidad](https://open.spotify.com/track/3lgnjEO9wHERit5DG7tQ5q) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Dualidad](https://open.spotify.com/album/0iUcbbGi0VpaKndooLhr0r) | 3:34 | 2023-03-08 |  |
+| [Duele](https://open.spotify.com/track/5POi6OOXViiSfO93jfktEa) | [Javix Durakoz](https://open.spotify.com/artist/1jGZsCyA4sKJ3ZEHhiVepa) | [Duele](https://open.spotify.com/album/6Nwmv6UXFTiAZUfkGGph1P) | 4:28 | 2026-06-15 |  |
 | [Duelo](https://open.spotify.com/track/6QbCjuW1FTqvbxgF7xlHc3) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Duelo](https://open.spotify.com/album/14gzvNFcKZKwnB1NNU4SWG) | 2:57 | 2025-03-15 |  |
 | [Dystopia](https://open.spotify.com/track/6GcaZNnr3v5DWdOudgUGBQ) | [GranMahsBoy](https://open.spotify.com/artist/6FjkoeH0X3Uyy6VYe9MuML) | [Dystopia](https://open.spotify.com/album/3lSIbqstw6nbWj30IqaCmG) | 2:28 | 2023-01-10 |  |
 | [El Baile \- Psicotrònic Scapes Scoring](https://open.spotify.com/track/1vPQCHDNCiQcAWwdekppaR) | [PSICOTRÒNIC SCAPES](https://open.spotify.com/artist/0p9WQDivK82UhBPfMD9YXl), [Prats](https://open.spotify.com/artist/21B1rpOrKMaApKwFwQs4lc) | [El Baile \(Psicotrònic Scapes Scoring\)](https://open.spotify.com/album/2Y4dWHPKYYot9Kr1uF1V9z) | 3:53 | 2025-01-08 |  |
@@ -199,6 +202,7 @@
 | [Heavy](https://open.spotify.com/track/7KEYVYIQs0fGpasrwD49KC) | [The Curve](https://open.spotify.com/artist/7scLDhUJV92qAunNa3jIr2) | [Revelation](https://open.spotify.com/album/3DOaAEbe41J9VqMhIJeOUh) | 4:36 | 2023-05-30 |  |
 | [Heroes \- Cover](https://open.spotify.com/track/0BY9nprwMSqfClfDxowHSo) | [Man Maze](https://open.spotify.com/artist/7kWch5Y73BCAXUGn25rusq) | [Heroes](https://open.spotify.com/album/7yDkljUEbrcegJeRQwGGNJ) | 3:42 | 2024-12-09 |  |
 | [Hey Man](https://open.spotify.com/track/3DytEPUq0s7HzcGJjqOStu) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Hey Man](https://open.spotify.com/album/3zyGmKSkXfCtB6AWzTqQUh) | 2:37 | 2023-02-27 |  |
+| [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 | 2026-06-15 |  |
 | [Higher Power](https://open.spotify.com/track/05dzsNg8s1UwJ8iAGpss0Q) | [Gareth Lewis](https://open.spotify.com/artist/6X2fnj7ff14OvFLgvXCBXq) | [Higher Power](https://open.spotify.com/album/1oWoYqzlW2dlXY2j1JEzaX) | 3:28 | 2023-10-19 |  |
 | [Higher Than God](https://open.spotify.com/track/0rCa6bGBWuNzT54yrChDyg) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [Higher Than God](https://open.spotify.com/album/3B6w7NPpTIoewMtGxQzXBP) | 4:42 | 2024-11-25 |  |
 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 | 2023-01-10 |  |
@@ -215,6 +219,7 @@
 | [Hope](https://open.spotify.com/track/1GeeMhsnDt7E15N24m6rAp) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 6:37 | 2023-03-13 |  |
 | [Hopeless, bitter and sweet](https://open.spotify.com/track/5y0mRfq0VyRFIEto0Wfzr7) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Hopeless, bitter and sweet](https://open.spotify.com/album/13vkPE1ZgTiR87Fkq25m3u) | 3:25 | 2023-03-13 |  |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2024-12-24 |  |
+| [Human Touch](https://open.spotify.com/track/6a8WOjBWaNkbnuCWjPHOOE) | [huch79](https://open.spotify.com/artist/6fMQ33yPUv5a6CHDEGKhd8) | [Human Touch](https://open.spotify.com/album/1GvLfzrvVI3ueu5ZEM8DjL) | 5:17 | 2026-06-15 |  |
 | [Hypocrites](https://open.spotify.com/track/4jhWooSJrbFSXQt1ueGRxT) | [Mike Adlam](https://open.spotify.com/artist/1D7rDPWHz9Lh0Cx8gW4a6J) | [Hypocrites](https://open.spotify.com/album/0oxOHDrpPzRv7xuvxk3G43) | 1:28 | 2024-12-24 |  |
 | [I Can See It Now](https://open.spotify.com/track/32NwV06dqk79tVmUblYoNr) | [Neil Wells](https://open.spotify.com/artist/1II894supggID2amUinnsf) | [I Can See It Now](https://open.spotify.com/album/7FSUmXFYmLnrTGuOmhChws) | 3:52 | 2024-05-28 |  |
 | [I Could Never Deny It](https://open.spotify.com/track/7zGEk7fM2dXiY8dhK9sJ1t) | [The Healthy People](https://open.spotify.com/artist/4jH4GMHJgGxRYB9yL2zTEm) | [The Healthy People](https://open.spotify.com/album/3Bi3ZUIqf53ZwYi34phhQj) | 2:24 | 2025-01-23 |  |

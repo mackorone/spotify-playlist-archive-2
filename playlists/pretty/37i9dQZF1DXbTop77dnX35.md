@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Shoday, 6uff, Bloody Civilian and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,643 likes - 57 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,710 likes - 57 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

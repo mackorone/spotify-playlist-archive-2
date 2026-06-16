@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: BLOK3",
-  "num_followers": 581700,
+  "num_followers": 581745,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -427,46 +427,6 @@
     {
       "added_at": "2026-06-04 21:00:26",
       "album": {
-        "name": "K\u00fc\u00e7\u00fck Bir Yol (Red Bull Track Takeover)",
-        "url": "https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY"
-      },
-      "artists": [
-        {
-          "name": "Hadise",
-          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
-        },
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 200512,
-      "name": "K\u00fc\u00e7\u00fck Bir Yol - Red Bull Track Takeover",
-      "url": "https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i"
-    },
-    {
-      "added_at": "2026-06-04 21:00:26",
-      "album": {
-        "name": "RDM",
-        "url": "https://open.spotify.com/album/5wrTc1B12K6DCxGk7EYHkn"
-      },
-      "artists": [
-        {
-          "name": "KAVAK",
-          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
-        },
-        {
-          "name": "EGE!",
-          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
-        }
-      ],
-      "duration_ms": 121714,
-      "name": "RDM",
-      "url": "https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr"
-    },
-    {
-      "added_at": "2026-06-04 21:00:26",
-      "album": {
         "name": "PARDON MUTLULUKLAR",
         "url": "https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP"
       },
@@ -483,18 +443,22 @@
     {
       "added_at": "2026-06-04 21:00:26",
       "album": {
-        "name": "Yeralt\u0131",
-        "url": "https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD"
+        "name": "K\u00fc\u00e7\u00fck Bir Yol (Red Bull Track Takeover)",
+        "url": "https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY"
       },
       "artists": [
         {
-          "name": "Eypio",
-          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
         }
       ],
-      "duration_ms": 169090,
-      "name": "Yeralt\u0131",
-      "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
+      "duration_ms": 200512,
+      "name": "K\u00fc\u00e7\u00fck Bir Yol - Red Bull Track Takeover",
+      "url": "https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i"
     },
     {
       "added_at": "2026-06-04 21:00:26",
@@ -523,6 +487,26 @@
     {
       "added_at": "2026-06-04 21:00:26",
       "album": {
+        "name": "RDM",
+        "url": "https://open.spotify.com/album/5wrTc1B12K6DCxGk7EYHkn"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        }
+      ],
+      "duration_ms": 121714,
+      "name": "RDM",
+      "url": "https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr"
+    },
+    {
+      "added_at": "2026-06-04 21:00:26",
+      "album": {
         "name": "Yeni \u00c7\u0131kt\u0131",
         "url": "https://open.spotify.com/album/1dXa3OLrAab1cYhKfBa5mZ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 203778,
       "name": "Misafir",
       "url": "https://open.spotify.com/track/71rwEX50AtpDKdGTRguRLs"
+    },
+    {
+      "added_at": "2026-06-04 21:00:26",
+      "album": {
+        "name": "Yeralt\u0131",
+        "url": "https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Yeralt\u0131",
+      "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
     },
     {
       "added_at": "2026-06-04 21:00:26",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Ewa Farna",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Calin & NobodyListen",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 295880,
       "name": "AENE",
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
@@ -610,6 +610,24 @@
       "duration_ms": 165428,
       "name": "Cassiopea",
       "url": "https://open.spotify.com/track/1XWaH5Lz5FXgf6JbfclwNB"
+    },
+    {
+      "album": {
+        "name": "Matty Supreme",
+        "url": "https://open.spotify.com/album/4Vi40ZhEh7oTEpBuJJoFNE"
+      },
+      "artists": [
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131644,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/0RYDIaHbbRmA5jHzwbRO5l"
     },
     {
       "album": {
@@ -1541,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "GONE",
+        "url": "https://open.spotify.com/album/0K14bD87lucOTA8rA8TVJY"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173941,
+      "name": "GONE",
+      "url": "https://open.spotify.com/track/1ArYB5RPz4HSUkIcfAfYV0"
+    },
+    {
+      "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
@@ -2076,6 +2116,28 @@
       "duration_ms": 175448,
       "name": "Klenot",
       "url": "https://open.spotify.com/track/07w0b0rg01V4K4V81bv17X"
+    },
+    {
+      "album": {
+        "name": "Krej\u010d\u00ed",
+        "url": "https://open.spotify.com/album/1nHqyt1xWzf5m7gMf4H0Ek"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Krej\u010d\u00ed",
+      "url": "https://open.spotify.com/track/0asvJbktxKogEMdrOkf3hk"
     },
     {
       "album": {
@@ -2789,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Ne\u0159\u00edkej, co m\u00e1 se st\u00e1t",
+        "url": "https://open.spotify.com/album/0cjkYTix2P7fb44S9E6Lnl"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Ne\u0159\u00edkej, co m\u00e1 se st\u00e1t",
+      "url": "https://open.spotify.com/track/2taQUA73P8EHhWsuv4QyJw"
+    },
+    {
+      "album": {
         "name": "ROOKIE OF THE YEAR",
         "url": "https://open.spotify.com/album/3OI0wOoWksmZ5PJDsN5Q5S"
       },
@@ -3480,7 +3560,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 207360,
       "name": "SI JE*LA",
       "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
@@ -3578,7 +3658,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 190477,
       "name": "SNAD SE TAM NEBUDE ST\u0158\u00cdLET",
       "url": "https://open.spotify.com/track/73hzR72ya2MX8cyCX7qMSY"
@@ -3736,6 +3816,24 @@
       "duration_ms": 236800,
       "name": "studen\u00e9 srdce",
       "url": "https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
       "album": {
@@ -3948,6 +4046,24 @@
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
     },
     {
       "album": {
@@ -4454,7 +4570,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 102226,
       "name": "WAGWAN",
       "url": "https://open.spotify.com/track/3uuVaRYdplEzu9akDjXPSX"
@@ -4630,7 +4746,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-16",
       "duration_ms": 180000,
       "name": "ZA KATREM",
       "url": "https://open.spotify.com/track/7m2qiAZor7LHaDXk2DeuyI"

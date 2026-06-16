@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-522 songs - 1 day 6 hr 29 min
+523 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [たぶん](https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:16 | 2023-01-03 |  |
 | [だいあるのーと](https://open.spotify.com/track/3c4iCaXVuJaASqIvPLm7ts) | [七草くりむ](https://open.spotify.com/artist/0sGCkyb5YJyxNdfkW7t4mw) | [だいあるのーと](https://open.spotify.com/album/3WCajPUTbYJCW1el4yQCi1) | 2:00 | 2024-08-06 |  |
 | [どろどろ](https://open.spotify.com/track/19t29QL6AooboodhvpetrU) | [Toiki.](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu) | [天使も悪魔もいないから 2](https://open.spotify.com/album/69zt6hXI7NtmUQrGJbBqad) | 1:35 | 2024-11-11 |  |
+| [どーしてこうなった！](https://open.spotify.com/track/5nRDm64S9VbVM8zfhQoeRz) | [monet](https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf) | [どーしてこうなった！](https://open.spotify.com/album/1UTyVeKL4TlOaDHQbHYSvf) | 3:36 | 2026-06-15 |  |
 | [なしのつぶて](https://open.spotify.com/track/1O2hcDSkikd89nlbW5hmdV) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [なしのつぶて](https://open.spotify.com/album/3ey0iJJMcD5q8tDA5r54MQ) | 2:46 | 2023-09-14 |  |
 | [ばかじゃないのに](https://open.spotify.com/track/1fMqXaqP3EhRWQdzxAaZqi) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2024-01-31 |  |
 | [ふこうぶつ](https://open.spotify.com/track/7abGCbVHOoTyIgVOG2Ggue) | [WAKUSEI ABNORMAL](https://open.spotify.com/artist/1MeQhADFeadgcic2GpcND1) | [私は怒りでできている](https://open.spotify.com/album/2gAfA53QQF1h82B5xo11da) | 2:43 | 2025-10-08 |  |

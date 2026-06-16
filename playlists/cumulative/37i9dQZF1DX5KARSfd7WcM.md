@@ -4,7 +4,7 @@
 
 > Fall hard, love harder\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-169 songs - 9 hr 23 min
+174 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,10 +69,13 @@
 | [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 | 2022-05-02 | 2024-04-19 |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2022-05-02 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2024-10-03 |  |
+| [Guess](https://open.spotify.com/track/66PT7opwow0PfydqjesZ3U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:22 | 2026-06-15 |  |
 | [Happy New Year](https://open.spotify.com/track/0BnepvoveEw7fJIpuwdLT4) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Two Ribbons](https://open.spotify.com/album/4pFPIHBK3YjY7mcFt0seqi) | 4:39 | 2023-08-02 |  |
 | [Happy, Healthy, Well\-Adjusted](https://open.spotify.com/track/2nWPLymNnBDDawkIpYcl4S) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Happy, Healthy, Well\-Adjusted](https://open.spotify.com/album/3dKD51wVNy7vJG3ITh5luX) | 2:17 | 2024-10-03 |  |
 | [heart](https://open.spotify.com/track/6l9AVZVrvHw5u4nL3HL9N0) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [come out\. you're hiding \(deluxe\)](https://open.spotify.com/album/3GIL4DPTpx8qXKmCVavrjD) | 3:42 | 2022-05-02 |  |
 | [Heartbreaker](https://open.spotify.com/track/6pzi6qWJ5sOKXm2Fqd5JGJ) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:04 | 2024-10-03 |  |
+| [Hi](https://open.spotify.com/track/2XKwOfTbvLYN959bEGkjJ7) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Hi](https://open.spotify.com/album/6tAm4UhaFqBm9PKEOzseVx) | 3:25 | 2026-06-15 |  |
+| [hope ur ok](https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:29 | 2026-06-15 |  |
 | [Hot & Heavy](https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:10 | 2023-08-02 |  |
 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 | 2022-05-02 |  |
 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 | 2022-05-02 | 2024-04-19 |
@@ -143,6 +146,7 @@
 | [Smokey Eyes](https://open.spotify.com/track/0VeJZDfCOxBFSmocsNIBei) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [A Constant State of Ohio](https://open.spotify.com/album/3a3XFNgXZLHSuUXORJgvmV) | 3:15 | 2022-05-02 | 2024-04-19 |
 | [Smokey Eyes](https://open.spotify.com/track/6nStFBb5DgiShZMXdyxgeo) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [A Constant State of Ohio](https://open.spotify.com/album/6vEyxIuSDfiR0qIfK7F167) | 3:15 | 2022-05-02 |  |
 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 | 2024-10-03 |  |
+| [Something's Coming](https://open.spotify.com/track/1ulK2UQuSEnzb2c6ZuzSTy) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Broadway Album](https://open.spotify.com/album/7KBxxaIFKYYcbS4CIwvTno) | 2:55 | 2026-06-15 |  |
 | [Superinlove \(Roll Credits\)](https://open.spotify.com/track/6Boku1BWobUkaFxN6rcLY4) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Superinlove \(Roll Credits\)](https://open.spotify.com/album/5648gAINTiQctCCE6Tuhvr) | 1:48 | 2024-10-03 |  |
 | [T + E](https://open.spotify.com/track/2GVKVUUkLl2iwBOpnjnhED) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5uQK8mAEhFxwsmV2tHIQiE) | 2:29 | 2023-08-02 |  |
 | [Telephone](https://open.spotify.com/track/4VgdhAy0DBSF5hbbKzTEdS) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:33 | 2022-05-02 |  |
@@ -169,6 +173,7 @@
 | [Want Me](https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Want Me](https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND) | 4:18 | 2022-05-02 |  |
 | [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-08-02 |  |
 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 | 2023-08-02 |  |
+| [What](https://open.spotify.com/track/50II3XGo3C4uy0ZYhpDCfK) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 2:58 | 2026-06-15 |  |
 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 | 2022-05-02 |  |
 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2022-05-02 |  |
 | [Wide Eyes and Halos](https://open.spotify.com/track/4IHInfDkicSY0FJZgDx7MH) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Wide Eyes and Halos](https://open.spotify.com/album/3KLxBznTJV4ipPpSse7yeK) | 2:49 | 2024-10-03 |  |
