@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 258364,
+  "num_followers": 258397,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABlTmanbpXmCAcOrhZidDXO",
+  "snapshot_id": "ai9AgAAAAABOvyZinhMcSC9w28qOpmxM",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Si Nunca Va a Amanecer",
-      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Ojos No Pod\u00edan Ver",
         "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 163000,
       "name": "Mis Ojos No Pod\u00edan Ver",
       "url": "https://open.spotify.com/track/3Vu0DaVs8y02I9mqm4NJso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Si Nunca Va a Amanecer",
+      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indecisa",
-        "url": "https://open.spotify.com/album/4WmmIG2ztaEwn6th4z7xR8"
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
       "artists": [
         {
@@ -232,21 +232,17 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
         },
         {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
         }
       ],
-      "duration_ms": 212045,
-      "name": "Indecisa",
-      "url": "https://open.spotify.com/track/6kvIndExSuKqaPuZmA9z4K"
+      "duration_ms": 209292,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/2N5GGKdxHZeQOxNDlZPfbP"
     },
     {
       "added_at": null,
@@ -271,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+        "name": "Indecisa",
+        "url": "https://open.spotify.com/album/4WmmIG2ztaEwn6th4z7xR8"
       },
       "artists": [
         {
@@ -280,17 +276,21 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         },
         {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
         }
       ],
-      "duration_ms": 209292,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/2N5GGKdxHZeQOxNDlZPfbP"
+      "duration_ms": 212045,
+      "name": "Indecisa",
+      "url": "https://open.spotify.com/track/6kvIndExSuKqaPuZmA9z4K"
     },
     {
       "added_at": null,
@@ -1011,6 +1011,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 280487,
+      "name": "Vamos a Dar el Roll",
+      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 256799,
       "name": "Naranja a Morado",
       "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 280487,
-      "name": "Vamos a Dar el Roll",
-      "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
     },
     {
       "added_at": null,

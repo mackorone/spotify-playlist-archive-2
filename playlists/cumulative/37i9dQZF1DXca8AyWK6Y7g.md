@@ -4,7 +4,7 @@
 
 > Wait, have you heard of the Beaches?
 
-2,805 songs - 5 day 21 hr 12 min
+2,807 songs - 5 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [ExBox](https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/4fS2Qd6JEg1q6LCWPOEh9G) | 2:09 | 2022-10-07 | 2023-01-28 |
 | [except for U](https://open.spotify.com/track/74hoVvEPlkwtz1ExXEFri9) | [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [except for U](https://open.spotify.com/album/1ooKhdokR9I8qk4aAwZDNy) | 3:33 | 2023-02-03 | 2024-01-27 |
 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-17 | 2024-01-05 |
+| [expectations](https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:41 | 2026-06-16 |  |
 | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/track/4QnJgCPkDgqSyOdjlI83ys) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr) | 3:07 | 2019-06-27 | 2020-04-18 |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2022-10-29 |
 | [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 | 2025-05-23 | 2025-08-18 |
@@ -1276,6 +1277,7 @@
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-10 | 2024-03-02 |
 | [if you don't love me](https://open.spotify.com/track/2YfFvs79Ho9JpW4zKkUglB) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [if you don't love me](https://open.spotify.com/album/0T4jDRsLvx2ZSsquuuvyUS) | 2:57 | 2025-11-28 | 2026-02-14 |
 | [If You Loved Me \- Georgia Remix](https://open.spotify.com/track/4uTibKI0GUBWKd6rMonJbO) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [If You Loved Me \(Georgia Remix\)](https://open.spotify.com/album/0ARpwhI1jnpbrf3wJCqPj4) | 4:57 | 2019-07-27 | 2020-03-19 |
+| [If You Wanna Be Adored](https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [If You Wanna Be Adored](https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz) | 2:25 | 2026-06-16 |  |
 | [If You're Hearing This](https://open.spotify.com/track/1aJ1xeEQ1ivKGnTeuYolJk) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [If You're Hearing This](https://open.spotify.com/album/2yOjy8vG8Tp7bVByZSLNcJ) | 2:53 | 2019-05-26\* | 2019-06-15 |
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2019-06-15 |
 | [IKYK](https://open.spotify.com/track/1Dex4T6UbptuDqqdmMT7xw) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [for your validation](https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd) | 2:46 | 2025-01-17 | 2025-05-17 |

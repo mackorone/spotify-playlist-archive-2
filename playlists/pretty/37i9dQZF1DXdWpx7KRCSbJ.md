@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,124 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,103 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 31 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
 | 32 | [Aí Eu Bebo \- Ao Vivo](https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aí Eu Bebo \(ao Vivo\)](https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj) | 2:53 |
 | 33 | [12 Horas](https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [12 Horas](https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW) | 4:00 |
-| 34 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
-| 35 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
+| 34 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
+| 35 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
 | 36 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Danflin](https://open.spotify.com/artist/5FAaE0nqQcRWZUOIObttHr) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
 | 37 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
 | 38 | [Coladinha em Mim \- Ao Vivo](https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Coladinha em Mim \(Ao Vivo\)](https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA) | 2:50 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 59 | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX) | 3:22 |
 | 60 | [Solta a batida](https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Solta a batida](https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4) | 2:49 |
 | 61 | [O Impossível](https://open.spotify.com/track/3RVylAtukXgF7xSXFn2OwA) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [O Impossível](https://open.spotify.com/album/0VrpBbLjRWbR2abs4Y7vOx) | 2:57 |
-| 62 | [Pot\-Pourri: Outdoor / Curtindo a Vida \- Ao Vivo](https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Tardezinha 2 \(Ao Vivo\)](https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA) | 4:03 |
-| 63 | [Século 21](https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Século 21](https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7) | 2:47 |
+| 62 | [Século 21](https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Século 21](https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7) | 2:47 |
+| 63 | [Pot\-Pourri: Outdoor / Curtindo a Vida \- Ao Vivo](https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Tardezinha 2 \(Ao Vivo\)](https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA) | 4:03 |
 | 64 | [Pirata e tesouro \- Ao vivo](https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pirata e tesouro \(Ao vivo\)](https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm) | 3:39 |
 | 65 | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X) | 2:41 |
 | 66 | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL) | 2:22 |

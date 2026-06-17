@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Ayra Starr",
-  "num_followers": 644591,
+  "num_followers": 644648,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -907,8 +907,8 @@
     {
       "added_at": "2026-06-12 00:01:36",
       "album": {
-        "name": "Fi Kan We Kan",
-        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
       },
       "artists": [
         {
@@ -916,13 +916,13 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 159339,
-      "name": "Fi Kan We Kan",
-      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+      "duration_ms": 137100,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
     },
     {
       "added_at": "2026-06-12 00:01:36",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-06-12 00:01:36",
       "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
-    },
-    {
-      "added_at": "2026-06-12 00:01:36",
-      "album": {
         "name": "alone (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP"
       },
@@ -1003,8 +983,28 @@
     {
       "added_at": "2026-06-12 00:01:36",
       "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
+    },
+    {
+      "added_at": "2026-06-12 00:01:36",
+      "album": {
+        "name": "Fi Kan We Kan",
+        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
       },
       "artists": [
         {
@@ -1012,13 +1012,13 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         },
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 137100,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
+      "duration_ms": 159339,
+      "name": "Fi Kan We Kan",
+      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
     },
     {
       "added_at": "2026-06-12 00:01:36",

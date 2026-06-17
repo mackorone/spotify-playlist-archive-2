@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 205333,
       "name": "Arimugam Illaiya",
       "url": "https://open.spotify.com/track/3nnLXWYl3md7aNLQA9bZ13"
@@ -12572,6 +12572,32 @@
       "duration_ms": 212673,
       "name": "Polambal",
       "url": "https://open.spotify.com/track/4b50BdPjp56Ir3QNiXTn07"
+    },
+    {
+      "album": {
+        "name": "Pon Vizhi",
+        "url": "https://open.spotify.com/album/5WMhBrANqs8xbaqw6m7uY4"
+      },
+      "artists": [
+        {
+          "name": "Pogan",
+          "url": "https://open.spotify.com/artist/3H1gfzjgnwqUgVfsv1AJO1"
+        },
+        {
+          "name": "Rakhooo",
+          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
+        },
+        {
+          "name": "Koshal",
+          "url": "https://open.spotify.com/artist/1wvjJEVaHh1HELljGmSOtX"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237841,
+      "name": "Pon Vizhi",
+      "url": "https://open.spotify.com/track/2Fg13KXXr1tTQukjeKagqa"
     },
     {
       "album": {

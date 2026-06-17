@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,447 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,552 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 15 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
 | 16 | [Resistance](https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:46 |
 | 17 | [Map of the Problematique](https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:18 |
-| 18 | [Feeling Good](https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:18 |
-| 19 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
+| 18 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
+| 19 | [Feeling Good](https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:18 |
 | 20 | [Supremacy](https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:55 |
 | 21 | [Sunburn](https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:53 |
 | 22 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 36 | [Survival](https://open.spotify.com/track/2IFqUmfW8oQoKn6ToxKsMs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:17 |
 | 37 | [Mercy](https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 3:51 |
 | 38 | [Can't Take My Eyes off You](https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Dead Star / In Your World](https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G) | 3:31 |
-| 39 | [Thought Contagion](https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:26 |
-| 40 | [Exo\-Politics](https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:53 |
-| 41 | [MK Ultra](https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 4:06 |
+| 39 | [Exo\-Politics](https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:53 |
+| 40 | [MK Ultra](https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 4:06 |
+| 41 | [Thought Contagion](https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:26 |
 | 42 | [The Handler](https://open.spotify.com/track/6xq3Bd7MvZVa7pda9tC4MW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:33 |
 | 43 | [Verona](https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 4:57 |
 | 44 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 49 | [Unnatural Selection](https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 6:54 |
 | 50 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
 
-Snapshot ID: `ai3vAAAAAABE4o0D77Hd59x1aRFydV+v`
+Snapshot ID: `ai9AgAAAAACNtx97EyTwvQ648laUWMWa`

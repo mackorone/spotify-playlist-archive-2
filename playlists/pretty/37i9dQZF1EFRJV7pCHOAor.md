@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 753 likes - 210 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 752 likes - 210 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 30 | [WALKING AWAY](https://open.spotify.com/track/0LutvoC2HqCfnaRSjrhtzo) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 4:04 |
 | 31 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
 | 32 | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42) | 3:01 |
-| 33 | [Too Late](https://open.spotify.com/track/4Mteyd60tfstDuzfkGqXx1) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:44 |
-| 34 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
-| 35 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 |
+| 33 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 |
+| 34 | [Too Late](https://open.spotify.com/track/4Mteyd60tfstDuzfkGqXx1) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:44 |
+| 35 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 36 | [What Do I Do](https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:47 |
 | 37 | [ALL I CAN TAKE](https://open.spotify.com/track/72PVbRKkUimweUPV0nKAPs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 4:07 |
 | 38 | [DEVOTION](https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:54 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 90 | [Come For Me \(Unlocked\) \(feat\. Khalid & Lucky Daye\)](https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:29 |
 | 91 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
 | 92 | [Full time papi](https://open.spotify.com/track/5tXoi9LUv2Eniq6h0OHoVN) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:47 |
-| 93 | [NEED IT](https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:39 |
-| 94 | [PETTING ZOO](https://open.spotify.com/track/6dOoNq2InmdP57QnF6HdBU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:16 |
+| 93 | [PETTING ZOO](https://open.spotify.com/track/6dOoNq2InmdP57QnF6HdBU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:16 |
+| 94 | [NEED IT](https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:39 |
 | 95 | [ALL THE WAY](https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:21 |
 | 96 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
 | 97 | [DON'T WANNA](https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:45 |
@@ -204,9 +204,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 194 | [Compromise](https://open.spotify.com/track/6mRGj9VfMKhZ5dz2COmIyy) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 3:16 |
 | 195 | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/track/5uPoubTLkvcCMy7VfqZZPi) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/album/08yGUFP2pDEh8gqeUqPY4W) | 2:39 |
 | 196 | [Sunflower](https://open.spotify.com/track/7DiWZv7tJAap0oWz8yMQpT) | [ONY9RMX](https://open.spotify.com/artist/087ZBrJyDhTGPwPsOFXXqj) | [Ultimate Bass Boosted: Slap House Remixes, Vol\. 2](https://open.spotify.com/album/77IPG1tOh4LYFhXqVxmukP) | 2:40 |
-| 197 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
-| 198 | [Break You Off](https://open.spotify.com/track/5nvA0Ik12GYl9MABxACVAh) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 3:23 |
-| 199 | [True Colors](https://open.spotify.com/track/2QmLWxA1wy1Si2uojYby1q) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [True Colors](https://open.spotify.com/album/2bxIY0usnXnh7MCdEhMCL5) | 3:39 |
+| 197 | [True Colors](https://open.spotify.com/track/2QmLWxA1wy1Si2uojYby1q) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [True Colors](https://open.spotify.com/album/2bxIY0usnXnh7MCdEhMCL5) | 3:39 |
+| 198 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
+| 199 | [Break You Off](https://open.spotify.com/track/5nvA0Ik12GYl9MABxACVAh) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 3:23 |
 | 200 | [Change Up](https://open.spotify.com/track/61jLXGxuebyVnYYtCeGiOz) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 2:50 |
 | 201 | [When the Sun Explodes](https://open.spotify.com/track/45oLAhCJCsFobTwwii4tE7) | [Very Nice Person](https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P) | [For the Birds: The Birdsong Project, Vol\. II](https://open.spotify.com/album/7veKa3oMfQmPObHDsb2IPJ) | 2:30 |
 | 202 | [The Mountain \- intro](https://open.spotify.com/track/29vqEyGLMingG3hPFMXEuC) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 2:36 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 209 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 210 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcUUrAAAAAC8hyQ1LEUeDbwuZFXdNrnt`
+Snapshot ID: `AcUaEAAAAACsNdhtvtI1+52V/Hsc9Rhc`

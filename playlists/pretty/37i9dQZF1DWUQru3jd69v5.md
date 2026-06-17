@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Clamö in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,813 likes - 68 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,811 likes - 68 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 8 | [SAUDADE](https://open.spotify.com/track/0iZiYlVmMy4JqokUYBShIi) | [Kaio](https://open.spotify.com/artist/2BzZXUAluD524rcOBbVnG1) | [QUE VIDA](https://open.spotify.com/album/2D7Q9GWyjMhMVq4IUiCVPb) | 2:27 |
 | 9 | [MIAMI \(feat\. Artie 5ive\)](https://open.spotify.com/track/48rkA9TzMZrvkqhzt45XPL) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [RICCHI DI NIENTE](https://open.spotify.com/album/1p5wHXiXIzwSTUliawRxmg) | 2:04 |
 | 10 | [Fenicottero Rosa](https://open.spotify.com/track/04Qd8ESfSgKob7Txyy9URe) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Fenicottero Rosa](https://open.spotify.com/album/0U9bke0LcFrC3HybNmGZzm) | 2:16 |
-| 11 | [Mala](https://open.spotify.com/track/4EC2I6gYzn5LPzmIKVRWqL) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [Ren](https://open.spotify.com/artist/601XjMANjq5Akm1z3WmPOD), [Tiara](https://open.spotify.com/artist/1Hnx9JIl75ci9EqEzuabz5) | [Mala](https://open.spotify.com/album/3KANxevGXuGIA7urc3O7YD) | 2:51 |
+| 11 | [Mala](https://open.spotify.com/track/4EC2I6gYzn5LPzmIKVRWqL) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [ren](https://open.spotify.com/artist/4BdOlxV6Jk099aefQlDLwI), [Tiara](https://open.spotify.com/artist/1Hnx9JIl75ci9EqEzuabz5) | [Mala](https://open.spotify.com/album/3KANxevGXuGIA7urc3O7YD) | 2:51 |
 | 12 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Ay Mazza](https://open.spotify.com/artist/00HqND5HJtFy37gOP03f4A) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
 | 13 | [Nike e Gucci II \(feat\. Promessa\)](https://open.spotify.com/track/0TBfNWCVIhcW33CeahKjYF) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [Lounge Music](https://open.spotify.com/album/5aVWqLmy2pzgI0OYfwefKs) | 2:44 |
 | 14 | [SOTTO CONTROLLO](https://open.spotify.com/track/7AQGgL83rFxwsLjoEmVmvn) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe) | [SOTTO CONTROLLO](https://open.spotify.com/album/4GBpV9VY1uM4sVBxZh8y3v) | 2:30 |

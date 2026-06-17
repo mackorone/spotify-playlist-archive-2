@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,095 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,047 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 30 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
 | 31 | [The Pavement](https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [The Pavement](https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ) | 3:04 |
 | 32 | [Maker](https://open.spotify.com/track/5flqc98DS2qFME6fnxItE6) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Maker](https://open.spotify.com/album/6d8BOCX8WyXSMHkhp8Cb6P) | 2:22 |
-| 33 | [wildwoman](https://open.spotify.com/track/3nmHojsXc76NvGmpGsNGmi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [wildwoman](https://open.spotify.com/album/7d35YxSTVYHMTOuUlXRWJe) | 3:41 |
+| 33 | [wildwoman](https://open.spotify.com/track/3nmHojsXc76NvGmpGsNGmi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [wildwoman](https://open.spotify.com/album/7d35YxSTVYHMTOuUlXRWJe) | 3:39 |
 | 34 | [Barbie Murder House](https://open.spotify.com/track/0Qg3E8j2mCqrwz3CcZr4e8) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Barbie Murder House](https://open.spotify.com/album/656L6jq3qD7tWJ1OequlCz) | 2:50 |
 | 35 | [Happy 2 Be](https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:54 |
 | 36 | [Mexico](https://open.spotify.com/track/2PEZwFuD8I1qwSf4HNp0lU) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Mexico](https://open.spotify.com/album/6kjts8tftKKSRpJmDaVdiW) | 3:23 |

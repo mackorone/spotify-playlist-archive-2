@@ -1,6 +1,6 @@
 {
   "description": "Los temas que nunca paras de escuchar. En portada: Maluma baby",
-  "num_followers": 300968,
+  "num_followers": 300987,
   "original_name": "\u00c9xitos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,42 @@
     {
       "added_at": "2026-01-07 14:39:04",
       "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra Vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2026-01-07 14:39:04",
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190564,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf"
+    },
+    {
+      "added_at": "2026-01-07 14:39:04",
+      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -371,42 +407,6 @@
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
-    },
-    {
-      "added_at": "2026-01-07 14:39:04",
-      "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190564,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf"
-    },
-    {
-      "added_at": "2026-01-07 14:39:04",
-      "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra Vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2026-01-07 14:39:04",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-01-07 14:39:04",
       "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
-    },
-    {
-      "added_at": "2026-01-07 14:39:04",
-      "album": {
         "name": "King Of Kings",
         "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 229026,
       "name": "Ojitos Chiquitos",
       "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
+    },
+    {
+      "added_at": "2026-01-07 14:39:04",
+      "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
     },
     {
       "added_at": "2026-01-07 14:39:04",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-01-07 14:39:04",
       "album": {
-        "name": "Pa' Otro La 'O",
-        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        },
-        {
-          "name": "Jandy Feliz",
-          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
-        }
-      ],
-      "duration_ms": 271031,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
-    },
-    {
-      "added_at": "2026-01-07 14:39:04",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 237973,
       "name": "Hooka",
       "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
+    },
+    {
+      "added_at": "2026-01-07 14:39:04",
+      "album": {
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+        }
+      ],
+      "duration_ms": 271031,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
     },
     {
       "added_at": "2026-01-07 14:39:04",

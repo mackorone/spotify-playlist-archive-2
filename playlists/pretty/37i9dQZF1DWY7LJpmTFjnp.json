@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Fito P\u00e1ez en portada. ",
-  "num_followers": 972041,
+  "num_followers": 971940,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-06-12 06:00:52",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl"
-    },
-    {
-      "added_at": "2026-06-12 06:00:52",
-      "album": {
         "name": "Apocalypshit",
         "url": "https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 228293,
       "name": "Rastaman- Dita",
       "url": "https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP"
+    },
+    {
+      "added_at": "2026-06-12 06:00:52",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl"
     },
     {
       "added_at": "2026-06-12 06:00:52",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-06-12 06:00:52",
       "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Hit Me",
+      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
+    },
+    {
+      "added_at": "2026-06-12 06:00:52",
+      "album": {
         "name": "A Casa",
         "url": "https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
-    },
-    {
-      "added_at": "2026-06-12 06:00:52",
-      "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Hit Me",
-      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
     },
     {
       "added_at": "2026-06-12 06:00:52",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-06-12 06:00:52",
       "album": {
-        "name": "De un siglo anterior",
-        "url": "https://open.spotify.com/album/0nhWmmOEqhnEMWB36f3YvY"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 224072,
-      "name": "Peor que como estamos - Es dif\u00edcil ya que estemos",
-      "url": "https://open.spotify.com/track/3Jq6AmXJdb96POu4X1XTv6"
-    },
-    {
-      "added_at": "2026-06-12 06:00:52",
-      "album": {
         "name": "Mi vida sin tu vida",
         "url": "https://open.spotify.com/album/6wiPssuqdqZ5oaNxqmkZQa"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 202328,
       "name": "Mi vida sin tu vida",
       "url": "https://open.spotify.com/track/3juCArYNEUHsMNRDlRZL2s"
+    },
+    {
+      "added_at": "2026-06-12 06:00:52",
+      "album": {
+        "name": "De un siglo anterior",
+        "url": "https://open.spotify.com/album/0nhWmmOEqhnEMWB36f3YvY"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 224072,
+      "name": "Peor que como estamos - Es dif\u00edcil ya que estemos",
+      "url": "https://open.spotify.com/track/3Jq6AmXJdb96POu4X1XTv6"
     },
     {
       "added_at": "2026-06-12 06:00:52",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-06-12 06:00:52",
       "album": {
+        "name": "Y Ca\u00edste",
+        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 292846,
+      "name": "Y Ca\u00edste",
+      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
+    },
+    {
+      "added_at": "2026-06-12 06:00:52",
+      "album": {
         "name": "De vuelta a casa",
         "url": "https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2026-06-12 06:00:52",
       "album": {
-        "name": "Y Ca\u00edste",
-        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 292846,
-      "name": "Y Ca\u00edste",
-      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
-    },
-    {
-      "added_at": "2026-06-12 06:00:52",
-      "album": {
         "name": "Noches De Sal\u00f3n",
         "url": "https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 232250,
       "name": "Somos Ajenos - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O"
+    },
+    {
+      "added_at": "2026-06-12 06:00:52",
+      "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 220795,
+      "name": "La Izquierda de la Noche",
+      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
     },
     {
       "added_at": "2026-06-12 06:00:52",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2026-06-12 06:00:52",
       "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 220795,
-      "name": "La Izquierda de la Noche",
-      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
-    },
-    {
-      "added_at": "2026-06-12 06:00:52",
-      "album": {
         "name": "Perro de Pavlov",
         "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 197271,
       "name": "Perro de Pavlov",
       "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
-    },
-    {
-      "added_at": "2026-06-12 06:00:52",
-      "album": {
-        "name": "D.D. Y Ponle Play",
-        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "Cada Vez Que Me Voy",
-      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
     },
     {
       "added_at": "2026-06-12 06:00:52",
@@ -1511,6 +1495,22 @@
       "duration_ms": 271000,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
+    },
+    {
+      "added_at": "2026-06-12 06:00:52",
+      "album": {
+        "name": "D.D. Y Ponle Play",
+        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "Cada Vez Que Me Voy",
+      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
     },
     {
       "added_at": "2026-06-12 06:00:52",

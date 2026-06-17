@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474218,
+  "num_followers": 1474241,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Ana Rita Joana Iracema Carolina",
-        "url": "https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        }
-      ],
-      "duration_ms": 305666,
-      "name": "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)",
-      "url": "https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Lulu Ac\u00fastico",
         "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 218266,
       "name": "Apenas Mais uma de Amor",
       "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Ana Rita Joana Iracema Carolina",
+        "url": "https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)",
+      "url": "https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Racional (Vol 1)",
-        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 305693,
-      "name": "Bom-Senso",
-      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Belchior Ac\u00fastico",
         "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Lenine In Cit\u00e9 (Deluxe)",
-        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
+        "name": "Racional (Vol 1)",
+        "url": "https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj"
       },
       "artists": [
         {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 231572,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
+      "duration_ms": 305693,
+      "name": "Bom-Senso",
+      "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Se Eu Quiser Falar Com Deus",
-        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
+        "name": "Lenine In Cit\u00e9 (Deluxe)",
+        "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
         }
       ],
-      "duration_ms": 275882,
-      "name": "Se Eu Quiser Falar Com Deus",
-      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
+      "duration_ms": 231572,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1271,6 +1255,22 @@
       "duration_ms": 235106,
       "name": "Brasil Pandeiro",
       "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Se Eu Quiser Falar Com Deus",
+        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 275882,
+      "name": "Se Eu Quiser Falar Com Deus",
+      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Andar Com F\u00e9",
-        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 194175,
-      "name": "Andar Com F\u00e9",
-      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 397493,
       "name": "Preta Pretinha",
       "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Andar Com F\u00e9",
+        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 194175,
+      "name": "Andar Com F\u00e9",
+      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "For\u00e7a Bruta (1970)",
         "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 252506,
       "name": "Oba, L\u00e1 Vem Ela",
       "url": "https://open.spotify.com/track/1zLfdcVHsyB4Nw6IVfAPtV"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2026-05-22 11:20:59",

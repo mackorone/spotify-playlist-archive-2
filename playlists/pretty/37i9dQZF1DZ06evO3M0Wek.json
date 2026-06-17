@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 116320,
+  "num_followers": 116345,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABpxQmUVzreRXoXLuaGo/u8",
+  "snapshot_id": "ai9AgAAAAADXTzEeA6IZxkt72oY4qf+I",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Sick Individual",
+      "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 209133,
       "name": "White Dress",
       "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Sick Individual",
-      "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
     },
     {
       "added_at": null,

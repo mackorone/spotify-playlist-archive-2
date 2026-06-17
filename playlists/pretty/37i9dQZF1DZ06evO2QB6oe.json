@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70749,
+  "num_followers": 70752,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADWRrPv5mKBnyv8bA2s+A7S",
+  "snapshot_id": "ai9AgAAAAADJYInFl9KyPkHc7D0QH3Xe",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabe Bien",
+        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 160723,
+      "name": "Sabe Bien",
+      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta El Alma",
         "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabe Bien",
-        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 160723,
-      "name": "Sabe Bien",
-      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
       },
@@ -659,26 +659,6 @@
       "duration_ms": 236893,
       "name": "Estoy Enamorado",
       "url": "https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estoy Enamorado (En Vivo)",
-        "url": "https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw"
-      },
-      "artists": [
-        {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 183592,
-      "name": "Estoy Enamorado - En Vivo",
-      "url": "https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM"
     },
     {
       "added_at": null,
@@ -719,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Se Jodi\u00f3",
-        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
+        "name": "Estoy Enamorado (En Vivo)",
+        "url": "https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw"
       },
       "artists": [
+        {
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 159655,
-      "name": "Esto Se Jodi\u00f3",
-      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
+      "duration_ms": 183592,
+      "name": "Estoy Enamorado - En Vivo",
+      "url": "https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM"
     },
     {
       "added_at": null,
@@ -755,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
+        "name": "Esto Se Jodi\u00f3",
+        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
       },
       "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 170099,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
+      "duration_ms": 159655,
+      "name": "Esto Se Jodi\u00f3",
+      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 170099,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 178285,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
     },
     {
       "added_at": null,

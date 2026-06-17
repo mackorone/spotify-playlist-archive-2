@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,554 likes - 590 songs - 1 day 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,559 likes - 590 songs - 1 day 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,9 +128,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 118 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
 | 119 | [Now That I Found You](https://open.spotify.com/track/1M5sHKA3KvHHhSttsYhWMP) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
 | 120 | [Set the Night to Music](https://open.spotify.com/track/3tf0iRfyJd4eYqs1Dn1w79) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:47 |
-| 121 | [When Your Eyes Say It](https://open.spotify.com/track/30hSG0Is8yOGkFQtF20Lxu) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 4:29 |
-| 122 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
-| 123 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
+| 121 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
+| 122 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
+| 123 | [When Your Eyes Say It](https://open.spotify.com/track/30hSG0Is8yOGkFQtF20Lxu) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 4:29 |
 | 124 | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/track/27dYgu9SoZY5t3EzC2hSue) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/album/5OYTmotVhUzSxheuRa6CrV) | 3:53 |
 | 125 | [A Estrela Que Mais Brilhar](https://open.spotify.com/track/20d64OB5wgNTkb19x8PyWj) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:22 |
 | 126 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 167 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
 | 168 | [Nothing Broken But My Heart](https://open.spotify.com/track/03xpqxQ2tCUuDAKNLThmGO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 5:55 |
 | 169 | [Wrap U Around Me](https://open.spotify.com/track/7yaSV1A46vEcTM27dpd8EC) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:22 |
-| 170 | [Your Letter](https://open.spotify.com/track/1NSCBsrYgjkmNiNSgiMLzK) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 5:20 |
-| 171 | [Why Goodbye](https://open.spotify.com/track/5QHCpzyo4arFLPPpM2UnwP) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Through The Fire](https://open.spotify.com/album/7trZWGxj0elTVSBisiuCqy) | 4:23 |
+| 170 | [Why Goodbye](https://open.spotify.com/track/5QHCpzyo4arFLPPpM2UnwP) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Through The Fire](https://open.spotify.com/album/7trZWGxj0elTVSBisiuCqy) | 4:23 |
+| 171 | [Your Letter](https://open.spotify.com/track/1NSCBsrYgjkmNiNSgiMLzK) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 5:20 |
 | 172 | [New Love](https://open.spotify.com/track/4qVCAQpmMHrorwQI6L7FAI) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
 | 173 | [Every Time You Walk Away](https://open.spotify.com/track/0tUYkDafsrHR12unxfFQ5D) | [D.A\. Wallach](https://open.spotify.com/artist/0NrYD7GlHbFixu0iknQ2xn) | [Time Machine](https://open.spotify.com/album/2Dobv4jeXllRUhEb8Ite5e) | 3:13 |
 | 174 | [Tears in the Rain](https://open.spotify.com/track/21SxSkte44lujQBTfRuSwq) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [Legends](https://open.spotify.com/album/4Yn2tIGnNwUcfahxGvw1Vb) | 4:35 |
@@ -253,8 +253,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 243 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
 | 244 | [Not Enough Hours In The Night](https://open.spotify.com/track/79xgC6Q1Itp5JDkW6fsZvs) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:27 |
 | 245 | [Live For Loving You](https://open.spotify.com/track/4ssavZbXxHM2O2skLe77i5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:37 |
-| 246 | [Painfully Beautiful](https://open.spotify.com/track/6LzT0Yxtju2JilZ2ByIV0a) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:45 |
-| 247 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
+| 246 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
+| 247 | [Painfully Beautiful](https://open.spotify.com/track/6LzT0Yxtju2JilZ2ByIV0a) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:45 |
 | 248 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 |
 | 249 | [Taken](https://open.spotify.com/track/758x5c6DtwpX1RuoRhr39i) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 2:48 |
 | 250 | [The Truth Is In There](https://open.spotify.com/track/2AMjbQRrfoFw7J9GsyYeEz) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Truth Is In There](https://open.spotify.com/album/6kyvW9sfxdepzgmyfgr7F2) | 2:23 |
@@ -320,8 +320,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 310 | [When Lovers Become Strangers](https://open.spotify.com/track/1CL3jh4Effnc19ZhQ5x8HL) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 4:46 |
 | 311 | [Listen With Your Heart](https://open.spotify.com/track/1BsIcp6FTuM8jSt4NYe5TW) | [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [For You](https://open.spotify.com/album/1uNMbDXBQrmYnsVpJYQV2H) | 4:01 |
 | 312 | [Can't Fight the Moonlight](https://open.spotify.com/track/1oXQL2AMxAW90Td53z6Zp5) | [CHVRT H!TS](https://open.spotify.com/artist/3Q9m56PRztC7MN9fx3u8yP) | [THE BEST HITS OF THE 00S, VOL\. I](https://open.spotify.com/album/4BjdneVDpIFBwynll2z39B) | 3:39 |
-| 313 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 |
-| 314 | [Couldn't We](https://open.spotify.com/track/5M9lp03sT5cuw48hMIjFf5) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:32 |
+| 313 | [Couldn't We](https://open.spotify.com/track/5M9lp03sT5cuw48hMIjFf5) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:32 |
+| 314 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 |
 | 315 | [The Plumbing Song](https://open.spotify.com/track/4feL1rU1EcDRDQHetpFYlr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Off The Deep End](https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL) | 4:06 |
 | 316 | [Never Dance Again](https://open.spotify.com/track/1VyIDVy3CCOEEswyYL0TkQ) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Never Dance Again](https://open.spotify.com/album/2XkZcDIBftWVKPWlKA50rH) | 4:05 |
 | 317 | [Quem é Você \(Love Will Lead You Back\)](https://open.spotify.com/track/6Tct6Qc9dX5aaworN2PagM) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra!](https://open.spotify.com/album/5fdk0rqJUipKX8EVprxIGQ) | 4:29 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 589 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 590 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcUUhAAAAADRGjB2trEv4g0OZ+7lL4e4`
+Snapshot ID: `AcUaGgAAAAAJqf152qiI6M9pfuv3RYXO`

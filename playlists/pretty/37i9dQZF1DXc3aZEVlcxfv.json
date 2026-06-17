@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21549,
+  "num_followers": 21556,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -773,6 +773,22 @@
       "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
     },
     {
+      "added_at": "2025-12-19 00:01:10",
+      "album": {
+        "name": "\u00d3 D\u00e1ra",
+        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 507645,
+      "name": "\u00d3 D\u00e1ra",
+      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
+    },
+    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Oh My Soul",
@@ -795,22 +811,6 @@
       "duration_ms": 172714,
       "name": "Oh My Soul",
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
-    },
-    {
-      "added_at": "2025-12-19 00:01:10",
-      "album": {
-        "name": "\u00d3 D\u00e1ra",
-        "url": "https://open.spotify.com/album/5sxgXCn36fH43SxVlLVM5S"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 507645,
-      "name": "\u00d3 D\u00e1ra",
-      "url": "https://open.spotify.com/track/7FzPrWUZ5WCBPYICSTZmmr"
     },
     {
       "added_at": "2026-05-08 00:01:38",
@@ -953,26 +953,6 @@
       "url": "https://open.spotify.com/track/07cr2u369CWTuGefo4dygx"
     },
     {
-      "added_at": "2025-02-28 00:01:33",
-      "album": {
-        "name": "Covenant Keeping God",
-        "url": "https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp"
-      },
-      "artists": [
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        }
-      ],
-      "duration_ms": 836670,
-      "name": "Covenant Keeping God",
-      "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
-    },
-    {
       "added_at": "2026-05-29 00:01:36",
       "album": {
         "name": "I See The Lord (Live)",
@@ -991,6 +971,26 @@
       "duration_ms": 610039,
       "name": "I See The Lord - Live",
       "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
+    },
+    {
+      "added_at": "2025-02-28 00:01:33",
+      "album": {
+        "name": "Covenant Keeping God",
+        "url": "https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp"
+      },
+      "artists": [
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 836670,
+      "name": "Covenant Keeping God",
+      "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1257,6 +1257,26 @@
       "url": "https://open.spotify.com/track/4px2IwQ5OVSdTTeo4hzHYV"
     },
     {
+      "added_at": "2026-06-12 08:46:43",
+      "album": {
+        "name": "We Worship You",
+        "url": "https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        },
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "duration_ms": 497779,
+      "name": "We Worship You",
+      "url": "https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r"
+    },
+    {
       "added_at": "2026-05-22 00:01:37",
       "album": {
         "name": "BASKET OF PRAISE 3.0",
@@ -1271,26 +1291,6 @@
       "duration_ms": 1615365,
       "name": "BASKET OF PRAISE 3.0",
       "url": "https://open.spotify.com/track/6qpKHL8qjscYrzfYoSJoG9"
-    },
-    {
-      "added_at": "2026-05-01 00:02:08",
-      "album": {
-        "name": "Odogwu (feat. Prospa Ochimana)",
-        "url": "https://open.spotify.com/album/4OCdHRLhco7ZRdMpoUGeww"
-      },
-      "artists": [
-        {
-          "name": "Chidinma",
-          "url": "https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4"
-        },
-        {
-          "name": "Prospa Ochimana",
-          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
-        }
-      ],
-      "duration_ms": 262242,
-      "name": "Odogwu (feat. Prospa Ochimana)",
-      "url": "https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1311,6 +1311,26 @@
       "duration_ms": 154325,
       "name": "Amen Amen, Blessing and Glory",
       "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
+    },
+    {
+      "added_at": "2026-05-01 00:02:08",
+      "album": {
+        "name": "Odogwu (feat. Prospa Ochimana)",
+        "url": "https://open.spotify.com/album/4OCdHRLhco7ZRdMpoUGeww"
+      },
+      "artists": [
+        {
+          "name": "Chidinma",
+          "url": "https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4"
+        },
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        }
+      ],
+      "duration_ms": 262242,
+      "name": "Odogwu (feat. Prospa Ochimana)",
+      "url": "https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE"
     },
     {
       "added_at": "2026-02-13 00:01:34",
@@ -1347,26 +1367,6 @@
       "duration_ms": 211831,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT"
-    },
-    {
-      "added_at": "2026-06-12 08:46:43",
-      "album": {
-        "name": "We Worship You",
-        "url": "https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c"
-      },
-      "artists": [
-        {
-          "name": "Mera Owili",
-          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
-        },
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
-        }
-      ],
-      "duration_ms": 497779,
-      "name": "We Worship You",
-      "url": "https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r"
     },
     {
       "added_at": "2026-04-03 00:01:46",
@@ -1449,6 +1449,26 @@
       "url": "https://open.spotify.com/track/1DmDFKRHIdH1g9mLO18dkq"
     },
     {
+      "added_at": "2026-06-12 08:46:43",
+      "album": {
+        "name": "God Is for Me",
+        "url": "https://open.spotify.com/album/12Kg3tJe6AivYb0aDPzQX9"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Peter Holmsgaard",
+          "url": "https://open.spotify.com/artist/0PXy1P5id9yUekjRK4LzRN"
+        }
+      ],
+      "duration_ms": 359096,
+      "name": "God Is for Me",
+      "url": "https://open.spotify.com/track/0ARQW1x7VJE3OyqckAOtD9"
+    },
+    {
       "added_at": "2026-05-22 00:01:37",
       "album": {
         "name": "OINS MOI ENCORE",
@@ -1481,22 +1501,6 @@
       "url": "https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR"
     },
     {
-      "added_at": "2026-04-10 00:01:38",
-      "album": {
-        "name": "Yielded",
-        "url": "https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D"
-      },
-      "artists": [
-        {
-          "name": "Peterson Okopi",
-          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
-        }
-      ],
-      "duration_ms": 446730,
-      "name": "Enough for Me",
-      "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
-    },
-    {
       "added_at": "2026-05-29 00:01:36",
       "album": {
         "name": "E Ba Mi Gbe Ga",
@@ -1511,6 +1515,22 @@
       "duration_ms": 350190,
       "name": "E Ba Mi Gbe Ga",
       "url": "https://open.spotify.com/track/0fGcgCXGeZGflUzBgwkneW"
+    },
+    {
+      "added_at": "2026-04-10 00:01:38",
+      "album": {
+        "name": "Yielded",
+        "url": "https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "duration_ms": 446730,
+      "name": "Enough for Me",
+      "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
     },
     {
       "added_at": "2026-05-08 00:01:38",
@@ -1551,22 +1571,6 @@
       "duration_ms": 266657,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/3jhKmcPfx0TAexrvNCCiMG"
-    },
-    {
-      "added_at": "2025-11-28 00:01:15",
-      "album": {
-        "name": "The Lover",
-        "url": "https://open.spotify.com/album/3HCRvYPY5SQhWZZBaD8Xkd"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 175645,
-      "name": "The Lover",
-      "url": "https://open.spotify.com/track/6v4W9CW3BzHU6a38FaIq7v"
     }
   ],
   "unique_name": "Blessed",

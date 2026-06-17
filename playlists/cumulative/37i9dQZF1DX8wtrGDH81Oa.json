@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 258967,
       "name": "4 You",
       "url": "https://open.spotify.com/track/60ItlmDoAviIi0beTYlRNQ"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 170076,
       "name": "5K Club",
       "url": "https://open.spotify.com/track/6a8AkINWevwd9bwrkgAbbz"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 172393,
       "name": "86",
       "url": "https://open.spotify.com/track/6YmzXwCoRUxLIJRWaaLYkK"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 129272,
       "name": "Aqua Noema",
       "url": "https://open.spotify.com/track/30ckt4GconNOmSJSWn7i6J"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 172222,
       "name": "aro",
       "url": "https://open.spotify.com/track/3SeDFsJJCOwMljBDx33ClY"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 219661,
       "name": "Brother",
       "url": "https://open.spotify.com/track/5gew3bZFkMWciJhuhZIBpw"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 138733,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/5qTcAB03j0iQ9EdetKkWq7"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 136842,
       "name": "do you want it",
       "url": "https://open.spotify.com/track/3gpMvDlYKSB6Wy2jzuAhY4"
@@ -2220,6 +2220,24 @@
       "duration_ms": 175243,
       "name": "Drops of Love in an Ocean of Hate",
       "url": "https://open.spotify.com/track/5Q4tISg9nqORTnOxVhdhar"
+    },
+    {
+      "album": {
+        "name": "Early Afternoon",
+        "url": "https://open.spotify.com/album/08QVp1UPr9PTOEE57FvLBI"
+      },
+      "artists": [
+        {
+          "name": "Sun Mirage",
+          "url": "https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Early Afternoon",
+      "url": "https://open.spotify.com/track/356APnfMoxwOLqcfJDbJXL"
     },
     {
       "album": {
@@ -2638,6 +2656,24 @@
       "duration_ms": 139636,
       "name": "finish",
       "url": "https://open.spotify.com/track/2h7ojCtpgGqApxc1tjQA3B"
+    },
+    {
+      "album": {
+        "name": "Finishing Line",
+        "url": "https://open.spotify.com/album/3Sf1nVJY6cI9VHwVVMkPUp"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Finishing Line",
+      "url": "https://open.spotify.com/track/0t3USCQKJsJ86Oz3Yp2eZw"
     },
     {
       "album": {
@@ -3120,7 +3156,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 131935,
       "name": "Glass Top",
       "url": "https://open.spotify.com/track/3O9O1zNx7tg0kiE6gSJD1D"
@@ -3624,7 +3660,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 157800,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/1EdwWmhxpktSBKIV6J4wUJ"
@@ -3808,6 +3844,24 @@
       "duration_ms": 124620,
       "name": "In D\u00e9cadence",
       "url": "https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET"
+    },
+    {
+      "album": {
+        "name": "In Flow",
+        "url": "https://open.spotify.com/album/4s7Sl3rCU2J3VlhzbmPf4F"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169970,
+      "name": "In Flow",
+      "url": "https://open.spotify.com/track/48Zk5GtAjm2TYyAzJt7Y5R"
     },
     {
       "album": {
@@ -4114,7 +4168,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 161590,
       "name": "Key Of Life",
       "url": "https://open.spotify.com/track/0SlUaz4oU2MvsQIHe3UaOk"
@@ -4330,7 +4384,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 227428,
       "name": "Lonely Sky",
       "url": "https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2"
@@ -4384,7 +4438,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 148205,
       "name": "Loungin",
       "url": "https://open.spotify.com/track/11p1vF4dW8XPmISlVAjI5F"
@@ -5248,7 +5302,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 202531,
       "name": "Ocean Breeze",
       "url": "https://open.spotify.com/track/6rpx7mSA0rAtv6CJKoDE6B"
@@ -5410,7 +5464,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 180818,
       "name": "One Day Stand",
       "url": "https://open.spotify.com/track/5nxeaDc5IfbEPhy5eZcvpN"
@@ -5698,7 +5752,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 154687,
       "name": "Perfect Days",
       "url": "https://open.spotify.com/track/6MVDli0oEUcNToqCnqng9x"
@@ -6832,7 +6886,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 150260,
       "name": "Sicher",
       "url": "https://open.spotify.com/track/6yP515yW3OKDw52WBdmIya"
@@ -7444,7 +7498,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 154000,
       "name": "Such Joy",
       "url": "https://open.spotify.com/track/3HCuDJOSOvBV3uejHUjovF"
@@ -7750,7 +7804,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 133090,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/12SCWwjXYHVbxnWHJm0g2r"
@@ -8056,7 +8110,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 179464,
       "name": "Timid Space",
       "url": "https://open.spotify.com/track/3LXB0Akbt9dfbwlQYcBdX4"
@@ -8236,7 +8290,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 144083,
       "name": "TwentyTwo Hrs",
       "url": "https://open.spotify.com/track/3g2FtnguiCCwCio5uSIuDE"

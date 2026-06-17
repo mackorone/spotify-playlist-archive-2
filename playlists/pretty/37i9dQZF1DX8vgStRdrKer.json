@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  Mercy Chinwo",
-  "num_followers": 19633,
+  "num_followers": 19645,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -665,6 +665,26 @@
       "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
     },
     {
+      "added_at": "2026-06-12 00:01:21",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 501003,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
+    },
+    {
       "added_at": "2025-08-01 00:01:36",
       "album": {
         "name": "Onye Mmeri Bu Jesus",
@@ -773,26 +793,6 @@
       "url": "https://open.spotify.com/track/1Y60J6EsKRcJ19t46Hnomg"
     },
     {
-      "added_at": "2025-10-24 00:01:24",
-      "album": {
-        "name": "Living Waters",
-        "url": "https://open.spotify.com/album/1oIpFIzGcakV6rnvVTWDjP"
-      },
-      "artists": [
-        {
-          "name": "Toprock Gospel",
-          "url": "https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp"
-        },
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "Living Waters",
-      "url": "https://open.spotify.com/track/6IFworJItnOJgbcI9vGnwV"
-    },
-    {
       "added_at": "2025-08-08 00:01:24",
       "album": {
         "name": "Greater",
@@ -811,6 +811,26 @@
       "duration_ms": 362857,
       "name": "Greater",
       "url": "https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI"
+    },
+    {
+      "added_at": "2025-10-24 00:01:24",
+      "album": {
+        "name": "Living Waters",
+        "url": "https://open.spotify.com/album/1oIpFIzGcakV6rnvVTWDjP"
+      },
+      "artists": [
+        {
+          "name": "Toprock Gospel",
+          "url": "https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp"
+        },
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "duration_ms": 214250,
+      "name": "Living Waters",
+      "url": "https://open.spotify.com/track/6IFworJItnOJgbcI9vGnwV"
     },
     {
       "added_at": "2026-01-30 00:01:25",
@@ -879,26 +899,6 @@
       "duration_ms": 187091,
       "name": "Home",
       "url": "https://open.spotify.com/track/3rKKtRTL4MaQRkEb74GLP0"
-    },
-    {
-      "added_at": "2026-06-12 00:01:21",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 501003,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
     },
     {
       "added_at": "2025-10-10 00:01:09",
@@ -1113,6 +1113,22 @@
       "url": "https://open.spotify.com/track/0DlKSCYyP3nPYgI9HnJ6Al"
     },
     {
+      "added_at": "2026-06-12 00:01:21",
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/5GkyAi0MXss5cgtxmCTrqI"
+      },
+      "artists": [
+        {
+          "name": "Ayiba",
+          "url": "https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/4OgUgupBlYskKutfX6UsTw"
+    },
+    {
       "added_at": "2025-05-30 00:01:31",
       "album": {
         "name": "Sound The Alarm (Anazao)",
@@ -1181,22 +1197,6 @@
       "url": "https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI"
     },
     {
-      "added_at": "2026-06-12 00:01:21",
-      "album": {
-        "name": "It's You",
-        "url": "https://open.spotify.com/album/5GkyAi0MXss5cgtxmCTrqI"
-      },
-      "artists": [
-        {
-          "name": "Ayiba",
-          "url": "https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/4OgUgupBlYskKutfX6UsTw"
-    },
-    {
       "added_at": "2025-09-12 00:01:26",
       "album": {
         "name": "Imole Aye",
@@ -1239,6 +1239,26 @@
       "duration_ms": 269690,
       "name": "Follow",
       "url": "https://open.spotify.com/track/7b5e5nKJgah812BhsxeJHg"
+    },
+    {
+      "added_at": "2026-06-12 00:01:21",
+      "album": {
+        "name": "We Worship You",
+        "url": "https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        },
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "duration_ms": 497779,
+      "name": "We Worship You",
+      "url": "https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r"
     },
     {
       "added_at": "2025-10-24 00:01:24",
@@ -1429,24 +1449,20 @@
       "url": "https://open.spotify.com/track/4DosoX2PHIxHN3xVsfJ9kW"
     },
     {
-      "added_at": "2026-06-12 00:01:21",
+      "added_at": "2025-11-21 00:01:21",
       "album": {
-        "name": "We Worship You",
-        "url": "https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c"
+        "name": "OYA SHOUT HALLELUJAH (Live)",
+        "url": "https://open.spotify.com/album/0hVeFzgA5ZNZBni3jlFIe4"
       },
       "artists": [
         {
-          "name": "Mera Owili",
-          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
-        },
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+          "name": "Gbenga Akinfenwa",
+          "url": "https://open.spotify.com/artist/7qDKEhuN11MijgScgAXx1W"
         }
       ],
-      "duration_ms": 497779,
-      "name": "We Worship You",
-      "url": "https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r"
+      "duration_ms": 361125,
+      "name": "OYA SHOUT HALLELUJAH (Live)",
+      "url": "https://open.spotify.com/track/0SQ4LYcb2EzWwGdICS8I3u"
     },
     {
       "added_at": "2025-10-31 00:01:30",
@@ -1489,20 +1505,20 @@
       "url": "https://open.spotify.com/track/5GNInxl3MHbeC7Of0jTIqO"
     },
     {
-      "added_at": "2025-11-21 00:01:21",
+      "added_at": "2026-06-12 00:01:21",
       "album": {
-        "name": "OYA SHOUT HALLELUJAH (Live)",
-        "url": "https://open.spotify.com/album/0hVeFzgA5ZNZBni3jlFIe4"
+        "name": "I Will Wait",
+        "url": "https://open.spotify.com/album/4DPUyVkh2fltVsJIWf6p3N"
       },
       "artists": [
         {
-          "name": "Gbenga Akinfenwa",
-          "url": "https://open.spotify.com/artist/7qDKEhuN11MijgScgAXx1W"
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
         }
       ],
-      "duration_ms": 361125,
-      "name": "OYA SHOUT HALLELUJAH (Live)",
-      "url": "https://open.spotify.com/track/0SQ4LYcb2EzWwGdICS8I3u"
+      "duration_ms": 301008,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/0tMRJTLAoxozAPwZOXCLuF"
     },
     {
       "added_at": "2026-05-29 00:01:37",
@@ -1673,6 +1689,26 @@
       "url": "https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx"
     },
     {
+      "added_at": "2026-06-12 00:01:21",
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/1UxcBoXWPzLXgsXvVdAkYu"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        },
+        {
+          "name": "B-Praiz",
+          "url": "https://open.spotify.com/artist/2wIs0RWFJWFUCfwOm2mrPf"
+        }
+      ],
+      "duration_ms": 414437,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/7wD9rUT1Bxlt73DoZBlKb6"
+    },
+    {
       "added_at": "2026-05-15 00:01:25",
       "album": {
         "name": "HEALING STREAMS",
@@ -1713,22 +1749,6 @@
       "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
     },
     {
-      "added_at": "2026-02-27 00:01:21",
-      "album": {
-        "name": "Available",
-        "url": "https://open.spotify.com/album/5t2SLnK7fLlEqVnRvm081u"
-      },
-      "artists": [
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        }
-      ],
-      "duration_ms": 188288,
-      "name": "Available",
-      "url": "https://open.spotify.com/track/7IB7VmuWJV0IsMy9pQfcdm"
-    },
-    {
       "added_at": "2025-06-20 00:01:13",
       "album": {
         "name": "So Good Medley",
@@ -1745,20 +1765,20 @@
       "url": "https://open.spotify.com/track/7gI7LeTrGBOJLJi3MeZoOa"
     },
     {
-      "added_at": "2025-09-19 00:01:02",
+      "added_at": "2026-02-27 00:01:21",
       "album": {
-        "name": "Byatelededda",
-        "url": "https://open.spotify.com/album/6S9EQDx8bu8Uzpn8DwArQO"
+        "name": "Available",
+        "url": "https://open.spotify.com/album/5t2SLnK7fLlEqVnRvm081u"
       },
       "artists": [
         {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
         }
       ],
-      "duration_ms": 299803,
-      "name": "Byatelededda",
-      "url": "https://open.spotify.com/track/0l0lHE6Dtmi72ZcFRQauXp"
+      "duration_ms": 188288,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/7IB7VmuWJV0IsMy9pQfcdm"
     },
     {
       "added_at": "2025-11-28 00:10:04",
@@ -1777,6 +1797,22 @@
       "url": "https://open.spotify.com/track/6v4W9CW3BzHU6a38FaIq7v"
     },
     {
+      "added_at": "2025-09-19 00:01:02",
+      "album": {
+        "name": "Byatelededda",
+        "url": "https://open.spotify.com/album/6S9EQDx8bu8Uzpn8DwArQO"
+      },
+      "artists": [
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 299803,
+      "name": "Byatelededda",
+      "url": "https://open.spotify.com/track/0l0lHE6Dtmi72ZcFRQauXp"
+    },
+    {
       "added_at": "2026-01-23 00:01:17",
       "album": {
         "name": "El Gibbor",
@@ -1791,6 +1827,26 @@
       "duration_ms": 401000,
       "name": "El Gibbor",
       "url": "https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ"
+    },
+    {
+      "added_at": "2026-06-12 00:01:21",
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/6MjdnMrYZ7cJDTD9MljL3X"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Tariee",
+          "url": "https://open.spotify.com/artist/5SoIX1tmK5I0xpS06fHKEW"
+        }
+      ],
+      "duration_ms": 138005,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/6Zs5Ub2gLL3FDl2bAtAVh9"
     },
     {
       "added_at": "2025-11-28 00:10:04",
@@ -1823,54 +1879,6 @@
       "duration_ms": 252923,
       "name": "Come See a Man",
       "url": "https://open.spotify.com/track/02rmA1PgtjLvj28lEbkcK5"
-    },
-    {
-      "added_at": "2026-06-12 00:01:21",
-      "album": {
-        "name": "I Will Wait",
-        "url": "https://open.spotify.com/album/4DPUyVkh2fltVsJIWf6p3N"
-      },
-      "artists": [
-        {
-          "name": "Olamiji Rasheed",
-          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
-        }
-      ],
-      "duration_ms": 301008,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/0tMRJTLAoxozAPwZOXCLuF"
-    },
-    {
-      "added_at": "2025-10-24 00:01:24",
-      "album": {
-        "name": "Obuka (Mighty)",
-        "url": "https://open.spotify.com/album/0EDY4ohvUrbcxf4rp3Nhms"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 278059,
-      "name": "Obuka (Mighty)",
-      "url": "https://open.spotify.com/track/3IsW3qsjkkVyzr2SjPYYUw"
-    },
-    {
-      "added_at": "2026-05-22 00:01:32",
-      "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/3bjEtHDoI6HvCZHhv9exRL"
-      },
-      "artists": [
-        {
-          "name": "Chinma Umeh",
-          "url": "https://open.spotify.com/artist/4jQNPCc1U8hzqLT5QJmw6e"
-        }
-      ],
-      "duration_ms": 401649,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/4Ozmd5V6F6VGrP6YQHkRtJ"
     }
   ],
   "unique_name": "Redeemed",

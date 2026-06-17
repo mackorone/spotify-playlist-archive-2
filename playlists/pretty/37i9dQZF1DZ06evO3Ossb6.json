@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 858013,
+  "num_followers": 858080,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABTYLw/I3csBWwo3UClUTLi",
+  "snapshot_id": "ai9AgAAAAACaiJ3FaXqPwLRVUe73smM/",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 266426,
-      "name": "Yo Nac\u00ed para Amarte",
-      "url": "https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Seas Muy Feliz",
         "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205400,
       "name": "La Mitad Que Me Faltaba",
       "url": "https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 266426,
+      "name": "Yo Nac\u00ed para Amarte",
+      "url": "https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni\u00f1a Amada Mia",
+        "url": "https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Ni\u00f1a Amada M\u00eda",
+      "url": "https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Rey",
         "url": "https://open.spotify.com/album/5aBOOr0nJ4adxwlM97Btiv"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 149333,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/16yhVOnRqwCfMBzD52pkeF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni\u00f1a Amada Mia",
-        "url": "https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Ni\u00f1a Amada M\u00eda",
-      "url": "https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k"
     },
     {
       "added_at": null,

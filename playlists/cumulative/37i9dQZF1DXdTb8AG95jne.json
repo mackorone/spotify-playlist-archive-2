@@ -4901,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "Don't Be",
+        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Don't Be",
+      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
+    },
+    {
+      "album": {
         "name": "Lief",
         "url": "https://open.spotify.com/album/39bo9FjkRsfe8kT63dAFez"
       },
@@ -16862,6 +16880,32 @@
       "duration_ms": 189533,
       "name": "RAL 9002 (Feat. Heize)",
       "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
+    },
+    {
+      "album": {
+        "name": "Put It On",
+        "url": "https://open.spotify.com/album/3Aqv041w7bJiLyxVGUFvGK"
+      },
+      "artists": [
+        {
+          "name": "Stun Ave",
+          "url": "https://open.spotify.com/artist/1IEbitnybGxyhtBkmJVmhj"
+        },
+        {
+          "name": "SUNNA",
+          "url": "https://open.spotify.com/artist/0QF1QHASPYv41VzIgDofow"
+        },
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/7ezsVVLoKNDOch4vv5nzHv"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185542,
+      "name": "rare",
+      "url": "https://open.spotify.com/track/2oOspwY8IQv5BkxGS4chqX"
     },
     {
       "album": {

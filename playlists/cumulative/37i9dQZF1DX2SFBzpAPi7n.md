@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong\(용용\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,190 songs - 3 day 0 hr 12 min
+1,191 songs - 3 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Ideal Type](https://open.spotify.com/track/4sfX9xKPZ8HAListUbnuGQ) | [Catch The Young](https://open.spotify.com/artist/422jw2by1jl14vn1FP9EGA) | [Ideal Type](https://open.spotify.com/album/1JuyNFdnp0B1AbxBxAtKnl) | 3:42 | 2025-06-30 | 2025-07-04 |
 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 | 2025-03-17 |  |
 | [If I were rich](https://open.spotify.com/track/6jHc4ETMA0MVnwwaFkt2zp) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK), [Ravi](https://open.spotify.com/artist/33Cti7pK8o3exjycH47Xk5) | [If I were rich](https://open.spotify.com/album/36uTV3j8uvWe4aRbdDBDQH) | 3:19 | 2022-04-12 | 2022-07-26 |
+| [Imagination](https://open.spotify.com/track/2U9cVyAs6E5wwY7YduXOB9) | [Sanbo](https://open.spotify.com/artist/2rKxDvJDT1Pv93k4ohx8Cp) | [Imagination](https://open.spotify.com/album/5fJ2UXhkmcbc37492C1uDZ) | 3:42 | 2026-06-16 |  |
 | [IN MY DREAM](https://open.spotify.com/track/4znEIFtqs9PeeHAQj9S7H6) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [IN MY DREAM \(Original Soundtrack from the Webtoon 'Reincarnator'\)](https://open.spotify.com/album/2KyreiehXIneH6JSLp3Aeb) | 3:16 | 2024-09-19 | 2024-11-30 |
 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 | 2022-10-02 | 2022-10-19 |
 | [In Our Lives](https://open.spotify.com/track/2C4d6wVmrpgE24JdJ5bbPs) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [IRON FAMILY, Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/1OxMrHYdDJUbK13N6exeMc) | 3:38 | 2024-11-12 | 2025-01-08 |
@@ -862,7 +863,7 @@
 | [SEOUL GIRL ♪ \(feat\. Lee Sung woo\)](https://open.spotify.com/track/5Nl1GOCTsOvGUKYW0DiA8Y) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Lee Sung Woo](https://open.spotify.com/artist/3nqqXiolhMec9F0aC9Bh5J) | [SEOUL GIRL ♪](https://open.spotify.com/album/63Xonf4RTjx10J1t6KhjCh) | 3:07 | 2024-04-30 | 2024-05-10 |
 | [Serenade Blue](https://open.spotify.com/track/0wfmq23ZBILF7kFDahpuTy) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Serenade Blue](https://open.spotify.com/album/2ZfGqm9pflkoHNlZolUgaw) | 4:35 | 2025-08-08 | 2025-09-04 |
 | [Sewer](https://open.spotify.com/track/5GRNf3MJ6uXAIwCapVMAJW) | [Seoyul](https://open.spotify.com/artist/38JkWE7udt33BlClPEOU6Z) | [Sewer](https://open.spotify.com/album/7tcEK9skePgz09OySRCAUL) | 4:02 | 2024-11-06 | 2024-11-30 |
-| [SHADOW](https://open.spotify.com/track/6SrrblihuGeDKOa91OnOFu) | [LEE JAEWOOK](https://open.spotify.com/artist/6x6yUAhXzIgufongB7oL26) | [SHADOW](https://open.spotify.com/album/6muSWdDksJvCmn7S5P4H7t) | 3:28 | 2026-06-12 |  |
+| [SHADOW](https://open.spotify.com/track/6SrrblihuGeDKOa91OnOFu) | [LEE JAEWOOK](https://open.spotify.com/artist/6x6yUAhXzIgufongB7oL26) | [SHADOW](https://open.spotify.com/album/6muSWdDksJvCmn7S5P4H7t) | 3:28 | 2026-06-12 | 2026-06-17 |
 | [Shame On You](https://open.spotify.com/track/48bL0ze0DotIcUS2rQuEyS) | [DOCHI](https://open.spotify.com/artist/71fBNalGQfpvEttt414EIV) | [Shame On You](https://open.spotify.com/album/2SGMfisblO95lG7rMywqz0) | 3:09 | 2022-08-12 | 2022-08-19 |
 | [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2022-04-22 | 2023-12-05 |
 | [She's In The Rain](https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a) | 3:57 | 2022-04-12 | 2022-07-29 |

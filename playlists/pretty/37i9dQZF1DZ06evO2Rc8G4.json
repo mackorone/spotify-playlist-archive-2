@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 174115,
+  "num_followers": 174154,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAwY0bE21gSuDQPnRD0PH//",
+  "snapshot_id": "ai9AgAAAAACE/EN4wFxD3FZxsunL+nc4",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm of Love",
-        "url": "https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 233362,
-      "name": "Better the Devil You Know",
-      "url": "https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 216453,
       "name": "Tension",
       "url": "https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythm of Love",
+        "url": "https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 233362,
+      "name": "Better the Devil You Know",
+      "url": "https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timebomb",
         "url": "https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 176240,
       "name": "Timebomb",
       "url": "https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 237866,
       "name": "Hold On To Now",
       "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
     },
     {
       "added_at": null,

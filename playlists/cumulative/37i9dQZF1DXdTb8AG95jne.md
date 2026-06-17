@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 구름\(Cloud koh\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,358 songs - 3 day 10 hr 15 min
+1,360 songs - 3 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/track/0GveX1FMRVjfXQtPJAvQJJ) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? 방에 모기가 있어](https://open.spotify.com/album/6i8NTK3zdu3TJxo1TR8uzG) | 3:16 | 2022-05-11 | 2022-05-24 |
 | [dolphin](https://open.spotify.com/track/4GM3fJA0hhvLK654hg5fXO) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [dolphin](https://open.spotify.com/album/14hlDO2H1pMIUVovoMpaQ8) | 3:04 | 2022-03-31 | 2022-04-19 |
 | [Domino](https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Domino](https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e) | 3:07 | 2023-02-14 | 2023-03-01 |
+| [Don't Be](https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Don't Be](https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6) | 3:16 | 2026-06-16 |  |
 | [Don't be Disappointed](https://open.spotify.com/track/5NFUz1lKuetUhaRBPYuC6b) | [from all to human](https://open.spotify.com/artist/70ZE1v0UgSiInAfo8Xqjhj) | [Lief](https://open.spotify.com/album/39bo9FjkRsfe8kT63dAFez) | 3:07 | 2022-01-27 | 2022-06-07 |
 | [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 | 2021-12-12 | 2023-10-01 |
 | [Don't Cry](https://open.spotify.com/track/00J5g1QoLIInU4XER7JLMu) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [bo1](https://open.spotify.com/album/7ievUM2bjICgHvTPVSu9e0) | 2:52 | 2025-09-25 | 2025-11-18 |
@@ -910,6 +911,7 @@
 | [Rain In The Night](https://open.spotify.com/track/3ISTUp8tjTZxDQyhwMQbP5) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 4:01 | 2021-12-21 | 2022-06-24 |
 | [Rainbow \(รุ้ง\)](https://open.spotify.com/track/3TBGPc9fUBo3AjBzgiXNGY) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [Rainbow \(รุ้ง\)](https://open.spotify.com/album/14QVqgxZbPr8Hd9zjzuJ7W) | 2:18 | 2025-07-01 | 2025-08-07 |
 | [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 | 2021-12-12 | 2024-07-13 |
+| [rare](https://open.spotify.com/track/2oOspwY8IQv5BkxGS4chqX) | [Stun Ave](https://open.spotify.com/artist/1IEbitnybGxyhtBkmJVmhj), [SUNNA](https://open.spotify.com/artist/0QF1QHASPYv41VzIgDofow), [Grant](https://open.spotify.com/artist/7ezsVVLoKNDOch4vv5nzHv) | [Put It On](https://open.spotify.com/album/3Aqv041w7bJiLyxVGUFvGK) | 3:05 | 2026-06-16 |  |
 | [Rather Go Blind](https://open.spotify.com/track/7rBO40xtZaRkpxXKnEQa26) | [ZAYSTIN](https://open.spotify.com/artist/7BQgVJEUzCUX8Q2KZDgrH8) | [Rather Go Blind](https://open.spotify.com/album/6XAmqfdbVy1lpNqMppNg7m) | 3:58 | 2022-03-31 | 2022-04-08 |
 | [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 | 2025-04-11 | 2025-07-23 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2021-12-21 | 2024-07-27 |

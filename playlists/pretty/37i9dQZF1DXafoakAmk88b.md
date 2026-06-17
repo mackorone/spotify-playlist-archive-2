@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,971 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,961 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,16 +27,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 17 | [Promise?](https://open.spotify.com/track/0V3XS6661Y8Ybx26JoWuOZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 3:12 |
 | 18 | [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 |
 | 19 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 |
-| 20 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |
-| 21 | [Keep It To Yourself](https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Keep It To Yourself](https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw) | 4:17 |
+| 20 | [Keep It To Yourself](https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Keep It To Yourself](https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw) | 4:17 |
+| 21 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |
 | 22 | [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 |
 | 23 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 24 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 |
 | 25 | [Babylon](https://open.spotify.com/track/4KnEBw94WkGhtdcZ5tTXwC) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Quit to Play Chess](https://open.spotify.com/album/255ea4BNBkMKULxcVZICeO) | 3:06 |
 | 26 | [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 |
 | 27 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
-| 28 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 |
-| 29 | [With Only Your Mouth](https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [With Only Your Mouth](https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB) | 3:03 |
+| 28 | [With Only Your Mouth](https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [With Only Your Mouth](https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB) | 3:03 |
+| 29 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 |
 | 30 | [hunting days](https://open.spotify.com/track/6zsCOSqaG0QiWoTqJkRpEG) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [hunting days](https://open.spotify.com/album/28EWTxtGcRWPPbSfacYr7H) | 3:32 |
 | 31 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
 | 32 | [act viii: i hate to be alone](https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:47 |

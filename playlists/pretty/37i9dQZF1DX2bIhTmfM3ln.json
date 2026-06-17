@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 60379,
+  "num_followers": 60400,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "Very Soon",
         "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 137100,
       "name": "Very Soon",
       "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -779,6 +779,26 @@
       "duration_ms": 149126,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -875,42 +895,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Till The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Till The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Luvaluvah",
-      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "Call Me (feat. Tu Musica)",
         "url": "https://open.spotify.com/album/7KGGOyDqwiIvmKIMwDQolX"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 150000,
       "name": "Call Me (feat. Tu Musica)",
       "url": "https://open.spotify.com/track/0AaelNpgby0eOH8Z6QvBbd"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Luvaluvah",
+      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "High Spirit",
-        "url": "https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj"
-      },
-      "artists": [
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 169678,
-      "name": "Shayo",
-      "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "Hug",
         "url": "https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 171250,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "High Spirit",
+        "url": "https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 169678,
+      "name": "Shayo",
+      "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Mariana",
-        "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "US III",
         "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Mariana",
+        "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Available",
-        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 159444,
-      "name": "Available",
-      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "ITEM VII",
         "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 130515,
       "name": "Greatest Lover",
       "url": "https://open.spotify.com/track/38S8k9EHmKUXUI6R2KZzDV"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Available",
+        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 159444,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Sorry I'm Busy",
-        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 142709,
-      "name": "Sorry I'm Busy",
-      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "Be A Lover",
         "url": "https://open.spotify.com/album/4V0X4r6sBK4R5RIQdJnSB0"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 165986,
       "name": "Be A Lover",
       "url": "https://open.spotify.com/track/4ulgOCX4KPIPaEOpOS6QFd"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Sorry I'm Busy",
+        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 142709,
+      "name": "Sorry I'm Busy",
+      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
     },
     {
       "added_at": "2026-06-12 00:01:50",

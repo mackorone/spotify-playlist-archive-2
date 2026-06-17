@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,580 likes - 75 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,583 likes - 75 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 72 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 |
 | 73 | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY) | 1:22 |
 | 74 | [Perseverance Theme](https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Amogh Balaji](https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz) | [Vidaamuyarchi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nbDSTLKDO9SvjQ2cOQglE) | 2:54 |
-| 75 | [Jailer Drill Theme \- Instrumental](https://open.spotify.com/track/1CCl0ogC6LbX7slaVo7DGG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 0:43 |
+| 75 | [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 |
 
 Snapshot ID: `AAAAANt5wK5fts0iV5W+elMVDLfF8shf`

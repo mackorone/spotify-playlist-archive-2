@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1887314,
+  "num_followers": 1887136,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-04-03 04:02:09",
       "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Mi Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z"
-    },
-    {
-      "added_at": "2026-04-03 04:02:09",
-      "album": {
         "name": "Dos Mundos - Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 188893,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
+    },
+    {
+      "added_at": "2026-04-03 04:02:09",
+      "album": {
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "Mi Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z"
     },
     {
       "added_at": "2026-04-03 04:02:09",

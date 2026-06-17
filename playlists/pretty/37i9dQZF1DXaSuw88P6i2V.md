@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSuw88P6i2V.md) - [plain]
 
 > Joyful, inclusive audiobooks where every kid can find a story that feels like theirs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

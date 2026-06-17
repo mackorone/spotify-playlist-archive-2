@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 cover: Brucherò nei pascoli
 
-1,987 songs - 4 day 14 hr 55 min
+1,988 songs - 4 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,7 +669,7 @@
 | [Genau](https://open.spotify.com/track/0xJUZkcnOJZiFq59qKcsdd) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Genau](https://open.spotify.com/album/0Lc88TOsQd3dfhEBpBUq6q) | 3:45 | 2024-02-01 | 2024-03-15 |
 | [Generational Fear](https://open.spotify.com/track/1QAJio62MlvSfEVdaB2iuI) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Generational Fear](https://open.spotify.com/album/1xionFbU0eHmsh9gwFQut0) | 4:39 | 2024-10-24 | 2025-01-10 |
 | [Gent](https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP), [Tana Combinaguai](https://open.spotify.com/artist/7u6nsTUogydvsNlVUcF2HY) | [Gent](https://open.spotify.com/album/485ZUajT3OBSsa0ndRBJvA) | 4:01 | 2022-06-09 | 2022-07-01 |
-| [Gente che si ostina a vivere](https://open.spotify.com/track/2w4v4e7bQipYvHGkE90Cvx) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Canzoni ombra](https://open.spotify.com/album/5Ze1h6PEiQIPxjhvE4Si8r) | 2:43 | 2026-05-28 |  |
+| [Gente che si ostina a vivere](https://open.spotify.com/track/2w4v4e7bQipYvHGkE90Cvx) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Canzoni Ombra](https://open.spotify.com/album/5Ze1h6PEiQIPxjhvE4Si8r) | 2:43 | 2026-05-28 |  |
 | [George Best](https://open.spotify.com/track/3XI1m1MCeoynfhgmOADU0j) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [George Best](https://open.spotify.com/album/5PSoNVgiidkFp7JtiHXAa8) | 3:59 | 2024-10-10 | 2025-01-17 |
 | [Gerico](https://open.spotify.com/track/0JWVq6gAkeB52OWAoiixNr) | [Pop Véronique](https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd) | [Gerico](https://open.spotify.com/album/0bgV6IYQKU1vmSfgEXgRjl) | 3:26 | 2024-02-22 | 2024-03-15 |
 | [Gestalt](https://open.spotify.com/track/2Ed4VCrIQWPGknRBPwoKfT) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Gestalt](https://open.spotify.com/album/2QfepOeldPxk4QOhZ5ha5N) | 3:25 | 2025-01-23 | 2025-04-18 |
@@ -802,6 +802,7 @@
 | [Il mercato](https://open.spotify.com/track/5LCcdcBnGtlZpmOWUTEUqR) | [Réclame](https://open.spotify.com/artist/2olteAWcog6K5LBMX77dpf) | [Il mercato](https://open.spotify.com/album/4vQNhOWkLD58tFuRJ6YiSF) | 2:56 | 2025-07-17 | 2025-10-04 |
 | [IL MIO FUTURO](https://open.spotify.com/track/12Kp5O3H5AdKa6LFXXY3FC) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [IL MIO FUTURO](https://open.spotify.com/album/0tzqRqCyBdJCpU680TpNdP) | 3:05 | 2023-01-26 | 2023-02-03 |
 | [Il mio risveglio](https://open.spotify.com/track/3PgPdRH5lf65fRNeUXptju) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/1lwUJdcej4UlbTFVyyShUF) | 2:41 | 2024-12-12 | 2025-04-18 |
+| [Il molo degli Inglesi](https://open.spotify.com/track/7jImJTbZYgHMilqt9BPN3D) | [Pallida Cavtat](https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa) | [Il molo degli Inglesi](https://open.spotify.com/album/3pT7K1qxaLddN7khup2QAl) | 4:16 | 2026-06-16 |  |
 | [il mondo va veloce](https://open.spotify.com/track/3LKlwc0UPC2t627WKrpciU) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [il mondo va veloce](https://open.spotify.com/album/5BNaMQRSia5tod8TxQS4mZ) | 3:31 | 2022-05-12 | 2022-06-24 |
 | [Il nastro di Möbius](https://open.spotify.com/track/2F5QIJHE3NyopZgiGLDUP1) | [Votto](https://open.spotify.com/artist/1NPd03l2532gBF9AIVly3k) | [Il nastro di Möbius](https://open.spotify.com/album/28OaeyhBANsm7Ynvn67bti) | 2:53 | 2024-02-15 | 2024-03-01 |
 | [Il nome del capitano](https://open.spotify.com/track/2zLzetUzpCSXPTBiMP1Exf) | [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR) | [Il nome del capitano](https://open.spotify.com/album/7fYGI2wlQcCJ2x7yUAApT5) | 3:39 | 2024-03-21 | 2024-09-27 |
@@ -1677,7 +1678,7 @@
 | [Storia](https://open.spotify.com/track/0iqB0jQVH03FWjvoKcQkJg) | [RAGAZZAcd](https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp), [Alessandro Baronciani](https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u), [Rachele Bastreghi](https://open.spotify.com/artist/3HYc75gfN9DrNB75ld2u57) | [Storia](https://open.spotify.com/album/6cb8vQtt1AVfGwRYobPcrL) | 3:07 | 2022-09-08 | 2022-10-21 |
 | [Storia di un bacio](https://open.spotify.com/track/06KPJCrNZmp1QwG0kJhyUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Dormi](https://open.spotify.com/album/0o43FP6kzT5GH7opmU9dCo) | 2:52 | 2022-09-29 | 2023-03-10 |
 | [Storie Di Lacrime](https://open.spotify.com/track/2hiQgORiBC1Zr05h7QGWRf) | [Il Triangolo](https://open.spotify.com/artist/4Cco3ONl5H31a2rE7oGfQZ) | [Storie Di Lacrime](https://open.spotify.com/album/4cxscTorNCluaPbWuXL0GG) | 3:24 | 2023-11-02 | 2024-01-19 |
-| [Strade private](https://open.spotify.com/track/3psL4wz9V78qroVKG3mx1e) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Il territorio delle meduse](https://open.spotify.com/album/381TlY9sa8qU9eoKlrUi8d) | 3:52 | 2026-04-09 |  |
+| [Strade private](https://open.spotify.com/track/3psL4wz9V78qroVKG3mx1e) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Il territorio delle meduse](https://open.spotify.com/album/381TlY9sa8qU9eoKlrUi8d) | 3:52 | 2026-04-09 | 2026-06-17 |
 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 | 2023-07-13 | 2023-11-10 |
 | [Straight Ahead](https://open.spotify.com/track/0pMYq4DeOPM9JTTH1y92TR) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Straight Ahead](https://open.spotify.com/album/1csJbBiftDkkH6oGXKbTxx) | 2:46 | 2025-06-05 | 2025-07-18 |
 | [STRANA PUZZA](https://open.spotify.com/track/6vjMt1zbeLDJWULnRlVagD) | [Mendoza](https://open.spotify.com/artist/39Ymw3rkE5Q6ilJBvDiVrd) | [Mendoza](https://open.spotify.com/album/06gLriJFCE05iO1fS7ri8L) | 1:31 | 2023-04-27 | 2023-05-19 |

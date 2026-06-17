@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 Espinoza Paz  y la Fiera de Ojinaga en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,345 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,355 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

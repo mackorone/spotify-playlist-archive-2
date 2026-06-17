@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,406 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,415 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 29 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 |
 | 30 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
 | 31 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 |
-| 32 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
-| 33 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
+| 32 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
+| 33 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
 | 34 | [Sohni Mahiwal](https://open.spotify.com/track/6sqD6HhnJacKXQQfziyTWB) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf), [Jassar 47](https://open.spotify.com/artist/203piuZhrCkjJDvGAi6f3d), [Parwaaz Gill](https://open.spotify.com/artist/5jmBUt1mJQmrCriEgOJSFM), [Karanvir Klair](https://open.spotify.com/artist/7eCmvzU59pXo2zmjAlcRFz) | [Sohni Mahiwal](https://open.spotify.com/album/2HpGttLBxp1R7Hvy0mmGZz) | 4:45 |
 | 35 | [Kut Kut Bajra](https://open.spotify.com/track/6ThkyuzMcUjfcw5YiTSLQt) | [Radhika Chopra](https://open.spotify.com/artist/6jL2jHx6iow2cecHrKmPQD) | [The Great Big Punjabi Wedding](https://open.spotify.com/album/2fJWqWcdO7pL0yQF9rIrg1) | 5:29 |
 | 36 | [Ambarsare Di](https://open.spotify.com/track/0cuHoVfzNqehCcphBZCp0w) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Wedding Songs Of Punjab Volume 2](https://open.spotify.com/album/7Dvz3aKaHGcrfRu761tfd2) | 4:19 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 47 | [Mathe Te Chamkan Vaal \- Live](https://open.spotify.com/track/3SkUaDTh5M4BDdQOLzLiol) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal / Gidde Vich \(Live\) \- Single](https://open.spotify.com/album/4FMCAGhni2EPuBGxw6Dq9O) | 3:38 |
 | 48 | [Punjabi Wedding Boliyan](https://open.spotify.com/track/7napdOdfCC2xlqoOUlRz7j) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Mehndi \(Punjabi Wedding Songs\)](https://open.spotify.com/album/3uqDkiSkf0KaM4ViZevq1S) | 4:21 |
 | 49 | [Munda Sakhiyo Ni](https://open.spotify.com/track/09Gy3xqh13lw2UoiGQTI9s) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Munda Sakhiyo Ni](https://open.spotify.com/album/4NbRfMn3VX7Xj4nZq9RPgU) | 3:17 |
-| 50 | [Lok Boliyan](https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4) | [Pal Singh Samaon](https://open.spotify.com/artist/2Pgn0xL8DGJifVaYpNS5hu), [Harinder Hundal](https://open.spotify.com/artist/2uOb2bGHA6O4ERId5WWAGm) | [Lok Boliyan](https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR) | 9:26 |
+| 50 | [Majhe Diye Mombattiye](https://open.spotify.com/track/2gP09WRLU9PajUoOgCDYWU) | [Balkar Sidhu](https://open.spotify.com/artist/6uBqTShUAXu6jwhxxvhuhZ) | [Best of Balkar Sidhu](https://open.spotify.com/album/72HqqELNR5MK8wGgPxjOfQ) | 7:31 |
 
 Snapshot ID: `AAAAANArfZbZ3DkiNSxDEdPw5lmmDTbb`

@@ -1,6 +1,6 @@
 {
   "description": "Your essential Ramadan Series songs! Cover: Ramy Sabry",
-  "num_followers": 55503,
+  "num_followers": 55522,
   "original_name": "Titrat Ramadan",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-03-06 17:51:55",
       "album": {
-        "name": "Etdaret",
-        "url": "https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE"
-      },
-      "artists": [
-        {
-          "name": "Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Etdaret",
-      "url": "https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5"
-    },
-    {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
         "name": "Al Kaysar",
         "url": "https://open.spotify.com/album/2nLOFHz8g2kP99PX5HyKPQ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 280917,
       "name": "Al Kaysar",
       "url": "https://open.spotify.com/track/0NTIqYkabZBj6jlSSaGshQ"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "Etdaret",
+        "url": "https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE"
+      },
+      "artists": [
+        {
+          "name": "Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Etdaret",
+      "url": "https://open.spotify.com/track/1ZIMGfxWPLxHSuSE4n4ac5"
     },
     {
       "added_at": "2026-03-06 17:51:55",

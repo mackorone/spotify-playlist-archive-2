@@ -1,6 +1,6 @@
 {
   "description": "Listen to all the tracks you've been missing. Cover: Lady Gaga",
-  "num_followers": 6052386,
+  "num_followers": 6052079,
   "original_name": "Hit Rewind",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 298940,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 226597,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 269658,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -539,18 +539,22 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 243600,
-      "name": "S&M",
-      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+      "duration_ms": 236133,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -571,22 +575,18 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Love Me Harder",
-      "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
+      "duration_ms": 243600,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 242253,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 269556,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 197266,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 269556,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 202534,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "Skyfall",
         "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 286081,
       "name": "Skyfall",
       "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
-      },
-      "artists": [
-        {
-          "name": "Iyaz",
-          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 188453,
       "name": "Love You Like A Love Song",
       "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
+      },
+      "artists": [
+        {
+          "name": "Iyaz",
+          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Heathens",
-        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 200573,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 214840,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -1583,6 +1567,42 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "What Dreams Are Made Of",
+        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
+      },
+      "artists": [
+        {
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 227475,
+      "name": "Locked Away (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -1607,22 +1627,18 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "What Dreams Are Made Of",
-        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
       "artists": [
         {
-          "name": "R. City",
-          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 227475,
-      "name": "Locked Away (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
+      "duration_ms": 208733,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1659,22 +1675,6 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
     },
     {
       "added_at": "2023-11-07 15:22:31",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-11-07 15:22:31",
       "album": {
-        "name": "Made In The A.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 230341,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk"
-    },
-    {
-      "added_at": "2023-11-07 15:22:31",
-      "album": {
         "name": "Nothing Was The Same (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 227880,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983"
+    },
+    {
+      "added_at": "2023-11-07 15:22:31",
+      "album": {
+        "name": "Made In The A.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 230341,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk"
     }
   ],
   "unique_name": "Hit Rewind",

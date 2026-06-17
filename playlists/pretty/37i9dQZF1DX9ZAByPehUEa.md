@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,940 likes - 200 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,985 likes - 200 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [get down on it](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [get down on it](https://open.spotify.com/album/4BzuesRLAFoF9k0sHW3a3d) | 3:27 |
 | 2 | [Upside Down](https://open.spotify.com/track/5jiewQHXrkbpsLY1x8dmnc) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Upside Down \(Never Dull's Disco Edit\)](https://open.spotify.com/album/3I4jCbvxpHhRDbXgBE5xtT) | 2:47 |
 | 3 | [Going Up](https://open.spotify.com/track/2Pdwxd1x0iI4vklxUeqKlL) | [Monty Kiddo](https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy) | [Going Up](https://open.spotify.com/album/7gQ7KRpSF7Aj0wacN8r1aI) | 4:10 |
-| 4 | [Groovejet \(If This Ain’t Love\) \- not without friends Remix](https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [not without friends](https://open.spotify.com/artist/2KAgMiCIqPHTA04WRNrhWg), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Groovejet \(If This Ain’t Love\) \[not without friends Remix\]](https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF) | 3:00 |
+| 4 | [Groovejet \(If This Ain’t Love\) \- not without friends Remix](https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [not without friends](https://open.spotify.com/artist/2KAgMiCIqPHTA04WRNrhWg), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Groovejet \(If This Ain’t Love\) \[not without friends Remix\]](https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF) | 3:00 |
 | 5 | [Disco Cherry](https://open.spotify.com/track/0C0kbvI8BJEWejMb3b2d4t) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Disco Cherry](https://open.spotify.com/album/1JjnXqHpL8JDSzqgAw94ce) | 3:20 |
 | 6 | [Lot More Love](https://open.spotify.com/track/7obqbQ3RMw1FLZWnEnz9Ib) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [Born Funky](https://open.spotify.com/album/4fgmkEC1PEIe7tADrMHWeE) | 3:11 |
 | 7 | [Better](https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Better](https://open.spotify.com/album/06YNty6N97umwjZFABQnvn) | 3:50 |

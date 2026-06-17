@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: RAF Camora",
-  "num_followers": 911904,
+  "num_followers": 911869,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
+        "name": "HYAT",
+        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "duration_ms": 165372,
+      "name": "GHETTOGIRL",
+      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
         "name": "DRINNE",
         "url": "https://open.spotify.com/album/3qMw3v7ShGsbIuszgZKExI"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 168000,
       "name": "DRINNE",
       "url": "https://open.spotify.com/track/1QZ1Rm9H5ytBhukQbZpaXx"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "HYAT",
-        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
-      },
-      "artists": [
-        {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
-        }
-      ],
-      "duration_ms": 165372,
-      "name": "GHETTOGIRL",
-      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -899,22 +899,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
+        "name": "FUXWAVE",
+        "url": "https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh"
       },
       "artists": [
         {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
         },
         {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+          "name": "KARDO",
+          "url": "https://open.spotify.com/artist/3NZPZUWDcJngcu8MuBpT69"
         }
       ],
-      "duration_ms": 161146,
-      "name": "Show",
-      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
+      "duration_ms": 141866,
+      "name": "FUXWAVE",
+      "url": "https://open.spotify.com/track/07sc3ly0DOs1ssCajr9kbp"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -935,22 +935,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "FUXWAVE",
-        "url": "https://open.spotify.com/album/1tGwD7tn5s8bcNbArXQumh"
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
       },
       "artists": [
         {
-          "name": "Eno",
-          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
         },
         {
-          "name": "KARDO",
-          "url": "https://open.spotify.com/artist/3NZPZUWDcJngcu8MuBpT69"
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
         }
       ],
-      "duration_ms": 141866,
-      "name": "FUXWAVE",
-      "url": "https://open.spotify.com/track/07sc3ly0DOs1ssCajr9kbp"
+      "duration_ms": 161146,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Familie",
-        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 173277,
-      "name": "Familie",
-      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "GTS",
         "url": "https://open.spotify.com/album/41BMJrVVmLUwZ3uAtUv27D"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 119973,
       "name": "GTS",
       "url": "https://open.spotify.com/track/3VKn4mxdxaQNm5Hc5h20BW"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Familie",
+        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 173277,
+      "name": "Familie",
+      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
+        "name": "GETRENNTE SOMMERNACHT",
+        "url": "https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "duration_ms": 161642,
+      "name": "GETRENNTE SOMMERNACHT",
+      "url": "https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
         "name": "Pretty Privilege",
         "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
       },
@@ -1639,18 +1655,18 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "GETRENNTE SOMMERNACHT",
-        "url": "https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl"
+        "name": "Heavyweight",
+        "url": "https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp"
       },
       "artists": [
         {
-          "name": "OMAR",
-          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+          "name": "Saliou",
+          "url": "https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY"
         }
       ],
-      "duration_ms": 161642,
-      "name": "GETRENNTE SOMMERNACHT",
-      "url": "https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh"
+      "duration_ms": 95049,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1671,22 +1687,6 @@
       "duration_ms": 160298,
       "name": "I wanna love you",
       "url": "https://open.spotify.com/track/6vGi6UBvgUz8nbNLSPdSSX"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "Heavyweight",
-        "url": "https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp"
-      },
-      "artists": [
-        {
-          "name": "Saliou",
-          "url": "https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY"
-        }
-      ],
-      "duration_ms": 95049,
-      "name": "Heavyweight",
-      "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
     },
     {
       "added_at": "2026-06-11 22:00:49",

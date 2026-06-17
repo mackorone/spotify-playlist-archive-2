@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 50191,
+  "num_followers": 50189,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAIiU4KBssdm8oSJj9qrpf/",
+  "snapshot_id": "ai9AgAAAAADV1P0ic0iPjs1XakaNrSvp",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u86f9",
+        "url": "https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 234471,
+      "name": "\u86f9",
+      "url": "https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noisy Love Songs - MAISONdes \u00d7 URUSEIYATSURA Complete Collection -",
         "url": "https://open.spotify.com/album/25FyQq2VGgXuqw8nWEIRxx"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 163853,
       "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
       "url": "https://open.spotify.com/track/58tyTrZH1pt8esOLGynycj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u86f9",
-        "url": "https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 234471,
-      "name": "\u86f9",
-      "url": "https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "\u5e0c\u671b\u8ad6",
-      "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6cab\u96ea",
         "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 184266,
       "name": "\u6cab\u96ea",
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Sleepless Night",
+      "url": "https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Sleepless Night",
-      "url": "https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u4e00\u5bf8\u306e\u8d64",
         "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 231673,
       "name": "\u4e00\u5bf8\u306e\u8d64",
       "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "\u5e0c\u671b\u8ad6",
+      "url": "https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII"
     },
     {
       "added_at": null,

@@ -16391,6 +16391,28 @@
     },
     {
       "album": {
+        "name": "Higher Rush / All I Am EP",
+        "url": "https://open.spotify.com/album/3HqGF6XAhKUQjPI46TRoEW"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189160,
+      "name": "Higher Rush",
+      "url": "https://open.spotify.com/track/15PYBs1bXd7gjKTmrxIeMr"
+    },
+    {
+      "album": {
         "name": "Higher Rush",
         "url": "https://open.spotify.com/album/12x8870SXWjxNyTtExjNYZ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nipsey Hussle & Bino Rideaux, G Herbo, Ye and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,835 likes - 55 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,861 likes - 55 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 14 | [No Doubt \(I'm In Love\)](https://open.spotify.com/track/1d9A2iW7ST0Gh7JOlnbJU6) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [No Doubt \(I'm In Love\)](https://open.spotify.com/album/5LVcYFVAeG1y9PgEqtL1C6) | 2:47 |
 | 15 | [Thong Song](https://open.spotify.com/track/6taWBSPREYFNuR3mXwaCNX) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Thong Song](https://open.spotify.com/album/00r9pS37E6N9Xl1HNgG1mC) | 2:43 |
 | 16 | [Yesterday](https://open.spotify.com/track/3coWMNYxTTZutHpYObRZY7) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Yesterday](https://open.spotify.com/album/497YEamPoL3TEDonB6JMFM) | 2:18 |
-| 17 | [God Gotta Afro](https://open.spotify.com/track/1pwH03MgZ8TRTbtrY1hm3O) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Karabo yaMorena Choir](https://open.spotify.com/artist/1cuKOTF769wkqsMyqcgexU) | [God Gotta Afro](https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk) | 2:48 |
+| 17 | [God Gotta Afro](https://open.spotify.com/track/1pwH03MgZ8TRTbtrY1hm3O) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [KARABO YA MORENA](https://open.spotify.com/artist/27tTpZuZ6SMPTYgB0JKvYx) | [God Gotta Afro](https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk) | 2:48 |
 | 18 | [Heart Cold](https://open.spotify.com/track/74hdjAMdKaBTaWS1UDLcaY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Heart Cold](https://open.spotify.com/album/7EdFXBY4byYWOKDz39D8Dg) | 3:24 |
 | 19 | [pajama](https://open.spotify.com/track/6xnULuUZcITJawzgff1GIw) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [pajama](https://open.spotify.com/album/6TX7DvIUr0LOz7uKaBQyx7) | 2:05 |
 | 20 | [FROM CHICAGO](https://open.spotify.com/track/7oLFozp3sSx12zqrvp0KHB) | [Iconic Savvy](https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC), [MG JAYSKEE](https://open.spotify.com/artist/5eNSAUXvwGiC9bzkKPvyxq) | [FROM CHICAGO](https://open.spotify.com/album/4XhPk7tqB79YqrG3KpReJY) | 2:23 |

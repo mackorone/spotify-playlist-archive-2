@@ -1,12 +1,12 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Gilly ",
-  "num_followers": 2001,
+  "num_followers": 2002,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALi/tU7R6xaO/tt+6W0uyUZImkvf",
+  "snapshot_id": "AAAAAKyHKdb5pZLGkG2xOWSv4Ohw8tLB",
   "tracks": [
     {
       "added_at": "2026-06-08 07:57:47",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3rrJbQoDyp0oiH3MsD9eki"
-      },
-      "artists": [
-        {
-          "name": "Gus Walker",
-          "url": "https://open.spotify.com/artist/1gSwhX1NwBba7xxXkKRvrU"
-        }
-      ],
-      "duration_ms": 211339,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/5jYAixv8fA6tj5fspUIEjB"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "okaydokay_",
         "url": "https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 160517,
       "name": "okaydokay_",
       "url": "https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/3rrJbQoDyp0oiH3MsD9eki"
+      },
+      "artists": [
+        {
+          "name": "Gus Walker",
+          "url": "https://open.spotify.com/artist/1gSwhX1NwBba7xxXkKRvrU"
+        }
+      ],
+      "duration_ms": 211339,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/5jYAixv8fA6tj5fspUIEjB"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "SKIN",
-        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
-      },
-      "artists": [
-        {
-          "name": "Anna Joan",
-          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
-        }
-      ],
-      "duration_ms": 149070,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "ik wil verliefd zijn op mijn tijd",
         "url": "https://open.spotify.com/album/0LNJLilA2tOIGkNO9OIMQk"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 180000,
       "name": "ik wil verliefd zijn op mijn tijd",
       "url": "https://open.spotify.com/track/1reHtx3YGzOdOYwuOCJi5x"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
+      },
+      "artists": [
+        {
+          "name": "Anna Joan",
+          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
+        }
+      ],
+      "duration_ms": 149070,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "lOvE",
-        "url": "https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ"
-      },
-      "artists": [
-        {
-          "name": "Lola Louii",
-          "url": "https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "lOvE",
-      "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Into pieces",
         "url": "https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 203190,
       "name": "Into pieces",
       "url": "https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "lOvE",
+        "url": "https://open.spotify.com/album/1YrsyBIkiErHFs8Qzrq5bZ"
+      },
+      "artists": [
+        {
+          "name": "Lola Louii",
+          "url": "https://open.spotify.com/artist/6QPGfku2I1aZz09R0fd6K1"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "lOvE",
+      "url": "https://open.spotify.com/track/6o8pjbJWcCXKs9w4a5H5vl"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Holes",
-        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Holes",
-      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Wele Wele",
         "url": "https://open.spotify.com/album/330AsVNPy0sX1QlX77bEe9"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 153000,
       "name": "Wele Wele",
       "url": "https://open.spotify.com/track/4t4P6Gq8EUHlFpC5PpgJnq"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
+        "name": "Hin Orer",
+        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
+      },
+      "artists": [
+        {
+          "name": "Ara",
+          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
+        }
+      ],
+      "duration_ms": 213167,
+      "name": "Hin Orer",
+      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
         "name": "TWISTED",
         "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 194925,
       "name": "\u0130kimiz Bir Fidan\u0131z",
       "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
-        "name": "Hin Orer",
-        "url": "https://open.spotify.com/album/69nnv7jiuaTrvqNFKb2VuO"
-      },
-      "artists": [
-        {
-          "name": "Ara",
-          "url": "https://open.spotify.com/artist/7eMq20o4L2IGNOa4AVugMr"
-        }
-      ],
-      "duration_ms": 213167,
-      "name": "Hin Orer",
-      "url": "https://open.spotify.com/track/51ikyUu1Rc7UE73iEGxS8m"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Comfort on its Knees",
-        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
-      },
-      "artists": [
-        {
-          "name": "In Good Spirit",
-          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
-        }
-      ],
-      "duration_ms": 288952,
-      "name": "Brother Please",
-      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "see-through",
         "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 236750,
       "name": "see-through",
       "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Comfort on its Knees",
+        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
+      },
+      "artists": [
+        {
+          "name": "In Good Spirit",
+          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
+        }
+      ],
+      "duration_ms": 288952,
+      "name": "Brother Please",
+      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "WAS DIT ALLES?",
-        "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
-      },
-      "artists": [
-        {
-          "name": "GIB",
-          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
-        }
-      ],
-      "duration_ms": 132681,
-      "name": "WAS DIT ALLES?",
-      "url": "https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Kleine Liefde",
         "url": "https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 131338,
       "name": "Kleine Liefde",
       "url": "https://open.spotify.com/track/3run92YHEJHsOa8EIttJru"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "WAS DIT ALLES?",
+        "url": "https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn"
+      },
+      "artists": [
+        {
+          "name": "GIB",
+          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
+        }
+      ],
+      "duration_ms": 132681,
+      "name": "WAS DIT ALLES?",
+      "url": "https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "ep1",
-        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
-      },
-      "artists": [
-        {
-          "name": "tenderblom",
-          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "fornow",
-      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Elusive",
         "url": "https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 187787,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "ep1",
+        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+      },
+      "artists": [
+        {
+          "name": "tenderblom",
+          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "fornow",
+      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Still In The Race",
-        "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
-      },
-      "artists": [
-        {
-          "name": "RubinCarter",
-          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
-        }
-      ],
-      "duration_ms": 163620,
-      "name": "April",
-      "url": "https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Fashion Week",
         "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 199013,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Still In The Race",
+        "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
+      },
+      "artists": [
+        {
+          "name": "RubinCarter",
+          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
+        }
+      ],
+      "duration_ms": 163620,
+      "name": "April",
+      "url": "https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Heart on the line",
-        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
-      },
-      "artists": [
-        {
-          "name": "LAHAYE",
-          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
-        }
-      ],
-      "duration_ms": 215485,
-      "name": "Heart on the line",
-      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "Warm Light",
         "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 189000,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Heart on the line",
+        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
+      },
+      "artists": [
+        {
+          "name": "LAHAYE",
+          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
+        }
+      ],
+      "duration_ms": 215485,
+      "name": "Heart on the line",
+      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
     },
     {
       "added_at": "2026-06-08 07:57:47",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-06-08 07:57:47",
       "album": {
-        "name": "Machine (Radio Edit)",
-        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
-      },
-      "artists": [
-        {
-          "name": "The Robots Are Coming",
-          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
-        }
-      ],
-      "duration_ms": 213152,
-      "name": "Machine (Radio Edit)",
-      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
-    },
-    {
-      "added_at": "2026-06-08 07:57:47",
-      "album": {
         "name": "RE: Hoe vind je zelf dat het gaat",
         "url": "https://open.spotify.com/album/70Y58TfAmKkrmmCtQE7OCc"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 265960,
       "name": "Cavalry\u2019s coming - Cavalerie Remix",
       "url": "https://open.spotify.com/track/408HYIUmRaYQ2v3kSKGDmW"
+    },
+    {
+      "added_at": "2026-06-08 07:57:47",
+      "album": {
+        "name": "Machine (Radio Edit)",
+        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
+      },
+      "artists": [
+        {
+          "name": "The Robots Are Coming",
+          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
+        }
+      ],
+      "duration_ms": 213152,
+      "name": "Machine (Radio Edit)",
+      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
     },
     {
       "added_at": "2026-06-08 07:57:47",

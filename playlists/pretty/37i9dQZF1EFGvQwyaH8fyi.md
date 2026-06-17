@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,305 likes - 142 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,304 likes - 142 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,13 +116,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 106 | [LIGHT AGAIN!](https://open.spotify.com/track/3dIuilnw3QX0KkQNpERaDD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 2:57 |
 | 107 | [I Can’t Have You Around Me Anymore](https://open.spotify.com/track/3VtRreDlbPtko3AwdIED47) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:44 |
 | 108 | [You’d Like That Wouldn’t You](https://open.spotify.com/track/3Lx7dxpYXIUjk0gXVOzpLZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:48 |
-| 109 | [CALL ME INSTEAD \(feat\. Youngboy Never Broke Again & Robert Glasper\)](https://open.spotify.com/track/1f8ZX7ciW16xG5A98dzRy6) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 3:17 |
-| 110 | [MAYBE I'M WRONG](https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:22 |
+| 109 | [MAYBE I'M WRONG](https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:22 |
+| 110 | [CALL ME INSTEAD \(feat\. Youngboy Never Broke Again & Robert Glasper\)](https://open.spotify.com/track/1f8ZX7ciW16xG5A98dzRy6) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 3:17 |
 | 111 | [Slowly](https://open.spotify.com/track/6aKjPT3NM94A1PFzjbOg5Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:21 |
 | 112 | [Stay For A While](https://open.spotify.com/track/7yyBURzvNtZLr1Mp6kKdUA) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Industry Plant](https://open.spotify.com/album/7pRdNCE5jywv19bIs1dk9b) | 2:45 |
 | 113 | [Lucky \- from Now You See Me: Now You Don’t](https://open.spotify.com/track/0LdfRfBLZZJrATRUpAQOUe) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Lucky \(from Now You See Me: Now You Don’t\)](https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE) | 2:28 |
-| 114 | [Outta Pocket](https://open.spotify.com/track/3DwtzjXAKk8zS3tbdJHOsK) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:26 |
-| 115 | [Don't Go](https://open.spotify.com/track/6T4nmPgRs3yT7rXb4ONcIR) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 2:29 |
+| 114 | [Don't Go](https://open.spotify.com/track/6T4nmPgRs3yT7rXb4ONcIR) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 2:29 |
+| 115 | [Outta Pocket](https://open.spotify.com/track/3DwtzjXAKk8zS3tbdJHOsK) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:26 |
 | 116 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7sgc6ahX3IQwSzFzdQnA5p) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Look At Me Now](https://open.spotify.com/album/3dW1ehIUEORxqwC3NtNVV2) | 2:45 |
 | 117 | [Breath Away](https://open.spotify.com/track/6wpEKnAD0c7y4H2iAUrj4K) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:51 |
 | 118 | [Mad](https://open.spotify.com/track/3M01ewRy7GgG7JkSjy9EqN) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER) | 2:25 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 141 | [I Don’t Wanna Go To Bed](https://open.spotify.com/track/1SMUr8hWIoEy35yMAfMx4P) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:25 |
 | 142 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 |
 
-Snapshot ID: `AcUUegAAAADN54Mb/wZeCVdFvq7sL/Tw`
+Snapshot ID: `AcUaGgAAAACuNl39jT7wQRqMmRaz2XcA`

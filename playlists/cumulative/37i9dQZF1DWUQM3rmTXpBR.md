@@ -4,11 +4,12 @@
 
 > Alternative Arabic songs\. Cover: Faraj Suleiman
 
-253 songs - 15 hr 25 min
+254 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3abali](https://open.spotify.com/track/7be2niudzNWRnBdhTMKzWz) | [Police Voleur](https://open.spotify.com/artist/4ZIaNtLAJXK0Bee9QHJ9MR) | [3abali](https://open.spotify.com/album/0JUu2lcXnRmvJwAy7V32V1) | 2:37 | 2022-02-18 | 2023-04-24 |
+| [3ayb Wlo](https://open.spotify.com/track/5fkL85ZqUZipFRkcKYlVlR) | [Joe Ashkar](https://open.spotify.com/artist/4lQhb7Hptj08WWqSf2za9O) | [3ayb Wlo](https://open.spotify.com/album/72FxbgtdABg9cq3LbQrnTq) | 1:54 | 2026-06-16 |  |
 | [7 PM](https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/2dFBkn85KWOQ2JwcPuJtt2) | 2:36 | 2023-05-10 | 2025-01-29 |
 | [7 PM](https://open.spotify.com/track/4OfifSqm1D9waYSR9dNMbu) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/4qqCIN75XNap1XsJEuMdEH) | 2:36 | 2023-09-19 | 2023-11-25 |
 | [7 PM](https://open.spotify.com/track/5lyUDM4Bsb0xMelClStJk7) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/6X1pSxDd8HhPgB1li6YHXB) | 2:36 | 2023-09-19 | 2024-04-19 |
@@ -52,7 +53,7 @@
 | [Darje Darje](https://open.spotify.com/track/5G9XsnblainR7Z2Nl2kkOv) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Darje Darje](https://open.spotify.com/album/5oifBz7xSqJW28vwBZyDGD) | 2:24 | 2024-03-11 | 2025-10-07 |
 | [Daye3 Albi](https://open.spotify.com/track/5oGI0mFfViPH2i8sP8XnnS) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Daye3 Albi](https://open.spotify.com/album/0KYywGAwgeVKlWqAoohIw2) | 2:10 | 2022-07-23 | 2025-10-07 |
 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 | 2021-12-23 | 2023-04-24 |
-| [El 3asal](https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3asal](https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS) | 3:00 | 2025-10-06 |  |
+| [El 3asal](https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3asal](https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS) | 3:00 | 2025-10-06 | 2026-06-17 |
 | [El Ayyam](https://open.spotify.com/track/1CI4ip4q7xg6jdfkFZN1eZ) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [El Ayyam](https://open.spotify.com/album/6aSBnFvx0Y7WF3oC1dWOJM) | 3:57 | 2025-10-07 |  |
 | [El Wuhoosh](https://open.spotify.com/track/3Kfq9shpeUGbB8gMnalAGg) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Wuhoosh](https://open.spotify.com/album/4BhtJo1x8FOBIULIT0IddN) | 3:31 | 2023-04-23 | 2023-08-24 |
 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 | 2022-08-22 | 2025-10-09 |

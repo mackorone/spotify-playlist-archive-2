@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Latto",
-  "num_followers": 270788,
+  "num_followers": 270776,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-05-29 04:01:26",
       "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
+    },
+    {
+      "added_at": "2026-05-29 04:01:26",
+      "album": {
         "name": "Watch Me Now! (with NLE Choppa)",
         "url": "https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 135000,
       "name": "Watch Me Now! (with NLE Choppa)",
       "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"
-    },
-    {
-      "added_at": "2026-05-29 04:01:26",
-      "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
     },
     {
       "added_at": "2026-05-29 04:01:26",

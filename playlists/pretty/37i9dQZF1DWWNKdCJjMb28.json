@@ -555,6 +555,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "I'm Leaving",
+        "url": "https://open.spotify.com/album/2RcdiXMKkoOsUrzOZUwUsZ"
+      },
+      "artists": [
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/2mWfFx6HEDYVgFxaisWqP3"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Still Trappin'",
         "url": "https://open.spotify.com/album/4A6p3TtgOuORhxb0WR1Zu6"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 172185,
       "name": "Still Trappin'",
       "url": "https://open.spotify.com/track/0JW0lLXMDe7l9d3ULj8PJX"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "I'm Leaving",
-        "url": "https://open.spotify.com/album/2RcdiXMKkoOsUrzOZUwUsZ"
-      },
-      "artists": [
-        {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/2mWfFx6HEDYVgFxaisWqP3"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,415 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,434 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 91 | [The Purge](https://open.spotify.com/track/1gX0agSWd441NCMGbzdcEd) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Purge](https://open.spotify.com/album/7w7BLtGQL23NuO2y83xWVW) | 8:25 |
 | 92 | [Losing It](https://open.spotify.com/track/4ky05C3dLT1bmwAQZ76Qu4) | [Natural State](https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Losing It](https://open.spotify.com/album/39GDvPBRFkksacIUmQhMJz) | 3:29 |
 | 93 | [The Showdown](https://open.spotify.com/track/6C7U9HMQIOfD0UpmH4jVvR) | [Big Dismal](https://open.spotify.com/artist/7FvuRKQuUL3tmFujoJKMOq) | [The Showdown](https://open.spotify.com/album/28lkjIFWI1xH3EVIU7SxJL) | 2:49 |
-| 94 | [God Bless](https://open.spotify.com/track/38S06T0Mwxnd0sWT6RKQcm) | [O'Bros](https://open.spotify.com/artist/30vrenVnQWKWHe1rG3AwIy) | [God Bless](https://open.spotify.com/album/3k32rrSc898l9EWp7njl8Q) | 2:48 |
+| 94 | [God Bless](https://open.spotify.com/track/38S06T0Mwxnd0sWT6RKQcm) | [O'Bros](https://open.spotify.com/artist/30vrenVnQWKWHe1rG3AwIy) | [God Bless](https://open.spotify.com/album/3k32rrSc898l9EWp7njl8Q) | 2:49 |
 | 95 | [miracle](https://open.spotify.com/track/5mrRRmnUUuzSSIY0M0Nqew) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [miracle](https://open.spotify.com/album/2LTfNK1uz9qsis9hyxfuWa) | 2:45 |
 | 96 | [Holding On \(Praise God\)](https://open.spotify.com/track/6YLeNiSaMlAneSXWerpreU) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Holding On \(Praise God\)](https://open.spotify.com/album/7cf4mvGVW24x6Ugy6jZ83u) | 3:38 |
 | 97 | [I'm Going](https://open.spotify.com/track/1x7ymQpO53Ln9wiTDTTbmM) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [I'm Going](https://open.spotify.com/album/2hGXHWbl2zxJmfZpzBnc2X) | 3:59 |

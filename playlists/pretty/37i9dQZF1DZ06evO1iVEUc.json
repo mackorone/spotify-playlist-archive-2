@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25844,
+  "num_followers": 25846,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADt/cRax1IvRu62/hfdJMhF",
+  "snapshot_id": "ai9AgAAAAAB2iMWOhxnPUBltRkhiA6yS",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retroflection Remixed",
-        "url": "https://open.spotify.com/album/6W5TD4Bt2OcjDDFlFNx2wq"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
-          "name": "Reel People",
-          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
-        },
-        {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
         }
       ],
-      "duration_ms": 327796,
-      "name": "Don't Stop The Music - Art Of Tones Modern Disco Mix",
-      "url": "https://open.spotify.com/track/5Palg39d9eAEgi43NHKSKz"
+      "duration_ms": 237569,
+      "name": "2 Bad Habits",
+      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
     },
     {
       "added_at": null,
@@ -407,18 +399,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Retroflection Remixed",
+        "url": "https://open.spotify.com/album/6W5TD4Bt2OcjDDFlFNx2wq"
       },
       "artists": [
         {
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
         }
       ],
-      "duration_ms": 237569,
-      "name": "2 Bad Habits",
-      "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
+      "duration_ms": 327796,
+      "name": "Don't Stop The Music - Art Of Tones Modern Disco Mix",
+      "url": "https://open.spotify.com/track/5Palg39d9eAEgi43NHKSKz"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 195211,
-      "name": "Dollar Bill",
-      "url": "https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 195211,
+      "name": "Dollar Bill",
+      "url": "https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Covered in Soul",
         "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
@@ -743,6 +743,38 @@
       "duration_ms": 176426,
       "name": "Red, Red Wine",
       "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Come Home (Live With Me)",
+      "url": "https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unexpected",
+        "url": "https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "I Ain\u2019t Hearin\u2019 U",
+      "url": "https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R"
     },
     {
       "added_at": null,
@@ -767,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Come Home (Live With Me)",
-      "url": "https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the id",
         "url": "https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 295266,
       "name": "My Nutmeg Phantasy (featuring Angie Stone & Mos Def) (feat. Angie Stone & Mos Def)",
       "url": "https://open.spotify.com/track/5YlIN4hkyrCUrNlYw09KA0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unexpected",
-        "url": "https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 206786,
-      "name": "I Ain\u2019t Hearin\u2019 U",
-      "url": "https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 271493,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -899,22 +883,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing (If You Want It)",
-        "url": "https://open.spotify.com/album/5cc7w5H22O8rQ3KIOWs1Io"
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
       "artists": [
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 288653,
-      "name": "Stylin'",
-      "url": "https://open.spotify.com/track/7MQKwtihNSk435BmiQokl1"
+      "duration_ms": 271493,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Vault Mixes - I Wasn't Kidding",
+        "url": "https://open.spotify.com/album/6528GcRgH2UDvBs8d18HpL"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "I Wasn't Kidding (Original Radio Edit)",
+      "url": "https://open.spotify.com/track/2mE4Rm30mmvZlDWu3EVcKl"
     }
   ],
   "unique_name": "This Is Angie Stone",

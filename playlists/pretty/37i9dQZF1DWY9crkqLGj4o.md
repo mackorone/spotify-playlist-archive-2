@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,795 likes - 75 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,826 likes - 75 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 12 | [Deus Cuida de Mim](https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 4:05 |
 | 13 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
 | 14 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 |
-| 15 | [Uma Coisa \- Ao Vivo](https://open.spotify.com/track/5IY9xOZ28mVZAvjDkXmegz) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5apwTXXwp74piToPxH30dE) | 6:00 |
+| 15 | [Os Sonhos de Deus \(feat\. Lukão Carvalho & Eli Soares\) \- Ao Vivo](https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:08 |
 | 16 | [Mesmo Sem Entender \- Ao Vivo](https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 4:37 |
-| 17 | [Os Sonhos de Deus \(feat\. Lukão Carvalho & Eli Soares\) \- Ao Vivo](https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:08 |
+| 17 | [Uma Coisa \- Ao Vivo](https://open.spotify.com/track/5IY9xOZ28mVZAvjDkXmegz) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5apwTXXwp74piToPxH30dE) | 6:00 |
 | 18 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
 | 19 | [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 |
 | 20 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |

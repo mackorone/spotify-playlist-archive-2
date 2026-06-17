@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 814,
+  "num_followers": 815,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADPozmv8v2aJXR5qTk1gx8B",
+  "snapshot_id": "ai9AgAAAAACn1qV+1Q4h4gN9FFAyVAuu",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX"
         }
       ],
-      "duration_ms": 104546,
-      "name": "You Always Let Me Down",
-      "url": "https://open.spotify.com/track/0Ody3WBpj9lmh3rDFHUaqu"
+      "duration_ms": 87440,
+      "name": "Ava's Idea",
+      "url": "https://open.spotify.com/track/1eyAJikmJQaEqbwt0vr5WC"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX"
         }
       ],
-      "duration_ms": 87440,
-      "name": "Ava's Idea",
-      "url": "https://open.spotify.com/track/1eyAJikmJQaEqbwt0vr5WC"
+      "duration_ms": 104546,
+      "name": "You Always Let Me Down",
+      "url": "https://open.spotify.com/track/0Ody3WBpj9lmh3rDFHUaqu"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
       "duration_ms": 178000,
       "name": "Alice",
       "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 130728,
-      "name": "Best Alone",
-      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
     },
     {
       "added_at": null,

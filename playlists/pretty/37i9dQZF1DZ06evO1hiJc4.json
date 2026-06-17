@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 157174,
+  "num_followers": 157180,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACvaWUl0ctF+vPFoePSDbel",
+  "snapshot_id": "ai9AgAAAAABtcrd4Je+QxaB76zpVeyWy",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 202536,
-      "name": "Forever (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
+      "duration_ms": 174567,
+      "name": "When I R.I.P. (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 174567,
-      "name": "When I R.I.P. (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf"
+      "duration_ms": 202536,
+      "name": "Forever (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
     },
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO"
+        "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
       },
       "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 197542,
-      "name": "Silverlines - prod. Labrinth",
-      "url": "https://open.spotify.com/track/33hke6Ml8eB8HHjE9bl3Nm"
+      "duration_ms": 131720,
+      "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO"
       },
       "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 131720,
-      "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/33hke6Ml8eB8HHjE9bl3Nm"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 74050,
+      "name": "God Spoke",
+      "url": "https://open.spotify.com/track/00VLRiYreh1z8BcK7gAYbY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 195746,
       "name": "Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 74050,
-      "name": "God Spoke",
-      "url": "https://open.spotify.com/track/00VLRiYreh1z8BcK7gAYbY"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COSMIC OPERA ACT I",
+        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 174672,
+      "name": "Orchestra",
+      "url": "https://open.spotify.com/track/3DHIw47UndWh5vcjGN0eJM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 186120,
       "name": "Angel in Your Eyes (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/6k71NlTnn41Vk7RJX7CSbY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COSMIC OPERA ACT I",
-        "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 174672,
-      "name": "Orchestra",
-      "url": "https://open.spotify.com/track/3DHIw47UndWh5vcjGN0eJM"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 53353,
-      "name": "What Would You Want Me To Be",
-      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Is the Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 199168,
       "name": "Titans",
       "url": "https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 53353,
+      "name": "What Would You Want Me To Be",
+      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
     }
   ],
   "unique_name": "This Is Labrinth",

@@ -1,6 +1,6 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 201003,
+  "num_followers": 201018,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-15 09:04:08",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
-    },
-    {
-      "added_at": "2026-05-15 09:04:08",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2026-05-15 09:04:08",
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "added_at": "2026-05-15 09:04:08",
+      "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 270705,
       "name": "\u6674\u308b",
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
-    },
-    {
-      "added_at": "2026-05-15 09:04:08",
-      "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Cold Night",
-      "url": "https://open.spotify.com/track/79wd94vXLJngCwTAVtzYvr"
     },
     {
       "added_at": "2026-05-15 09:04:08",
@@ -1515,98 +1499,18 @@
     {
       "added_at": "2026-05-15 09:04:08",
       "album": {
-        "name": "No.\u2161 (Deluxe)",
-        "url": "https://open.spotify.com/album/0MiHN6d1n7USZ28Db6jyJo"
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
       },
       "artists": [
         {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
         }
       ],
-      "duration_ms": 192603,
-      "name": "LAVALAVA",
-      "url": "https://open.spotify.com/track/7vgZhgyZBkGJvuh37tJnJo"
-    },
-    {
-      "added_at": "2026-05-15 09:04:08",
-      "album": {
-        "name": "Mela!",
-        "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Mela!",
-      "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
-    },
-    {
-      "added_at": "2026-05-15 09:04:08",
-      "album": {
-        "name": "\u58f1",
-        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
-      "url": "https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA"
-    },
-    {
-      "added_at": "2026-05-15 09:04:08",
-      "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c",
-        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 184898,
-      "name": "\u6b8b\u97ff\u6563\u6b4c",
-      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
-    },
-    {
-      "added_at": "2026-05-15 09:04:08",
-      "album": {
-        "name": "\u9006\u8f38\u5165 \u301c\u822a\u7a7a\u5c40\u301c",
-        "url": "https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "\u8584\u3089\u6c37\u5fc3\u4e2d",
-      "url": "https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT"
-    },
-    {
-      "added_at": "2026-05-15 09:04:08",
-      "album": {
-        "name": "BOY & GIRLS",
-        "url": "https://open.spotify.com/album/1DiYOvRSotct1CN2A4fwlT"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 316080,
-      "name": "\u96ea\u6708\u82b1",
-      "url": "https://open.spotify.com/track/21UVLrJ0yuJ6CGeElXMG0C"
+      "duration_ms": 193493,
+      "name": "Cold Night",
+      "url": "https://open.spotify.com/track/79wd94vXLJngCwTAVtzYvr"
     },
     {
       "added_at": "2026-05-15 09:04:08",
@@ -1627,6 +1531,86 @@
     {
       "added_at": "2026-05-15 09:04:08",
       "album": {
+        "name": "No.\u2161 (Deluxe)",
+        "url": "https://open.spotify.com/album/0MiHN6d1n7USZ28Db6jyJo"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 192603,
+      "name": "LAVALAVA",
+      "url": "https://open.spotify.com/track/7vgZhgyZBkGJvuh37tJnJo"
+    },
+    {
+      "added_at": "2026-05-15 09:04:08",
+      "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 184898,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+    },
+    {
+      "added_at": "2026-05-15 09:04:08",
+      "album": {
+        "name": "\u58f1",
+        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA"
+    },
+    {
+      "added_at": "2026-05-15 09:04:08",
+      "album": {
+        "name": "\u9006\u8f38\u5165 \u301c\u822a\u7a7a\u5c40\u301c",
+        "url": "https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "\u8584\u3089\u6c37\u5fc3\u4e2d",
+      "url": "https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT"
+    },
+    {
+      "added_at": "2026-05-15 09:04:08",
+      "album": {
+        "name": "Mela!",
+        "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Mela!",
+      "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
+    },
+    {
+      "added_at": "2026-05-15 09:04:08",
+      "album": {
         "name": "Assort",
         "url": "https://open.spotify.com/album/12cXi1i1cgTVe27Rb122kZ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 232453,
       "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
       "url": "https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr"
+    },
+    {
+      "added_at": "2026-05-15 09:04:08",
+      "album": {
+        "name": "BOY & GIRLS",
+        "url": "https://open.spotify.com/album/1DiYOvRSotct1CN2A4fwlT"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 316080,
+      "name": "\u96ea\u6708\u82b1",
+      "url": "https://open.spotify.com/track/21UVLrJ0yuJ6CGeElXMG0C"
     }
   ],
   "unique_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",

@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-535 songs - 1 day 9 hr 54 min
+536 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [シンデレラガール](https://open.spotify.com/track/3nqKzoptpnyofFLEkTtd1v) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Mr.5 \(Special Edition\)](https://open.spotify.com/album/7KxItgYkHxDBuXphenIdcm) | 4:12 | 2024-05-22 | 2026-06-05 |
 | [シーソーゲーム\~勇敢な恋の歌\~](https://open.spotify.com/track/5EjvlyjMwqmabXgFDD8D2x) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [BOLERO](https://open.spotify.com/album/3RyLgAEYVJD4khGcK7VygR) | 4:29 | 2024-04-16 | 2024-11-20 |
 | [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 | 2023-11-23 | 2024-01-17 |
-| [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2023-02-09 |  |
+| [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2023-02-09 | 2026-06-17 |
 | [スーパー愛したい \- fantastic ver.](https://open.spotify.com/track/314Q8YaLGYZg6bZCx9dbje) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ファンタジーな祝日を!!!](https://open.spotify.com/album/2DgoQE2Qb3e990SJER3TIG) | 4:00 | 2024-02-13 | 2024-03-20 |
 | [タイムマシンにのって](https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [タイムマシンにのって](https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7) | 3:56 | 2023-09-26 | 2024-02-14 |
 | [タペストリー](https://open.spotify.com/track/0lqAOs9poxlM8FE5j40URh) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:58 | 2025-04-22 | 2025-05-21 |
@@ -417,6 +417,7 @@
 | [大阪ランデヴ](https://open.spotify.com/track/2Hw8l3di4DKBXKrrnxrTHH) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [大阪ランデヴ](https://open.spotify.com/album/1tFkaDrHfXRj6EkInWiwK6) | 4:21 | 2023-11-16 | 2023-11-24 |
 | [奇跡](https://open.spotify.com/track/4lkNWGYvsLbT17HJF0Cub0) | [Hello Hello](https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og) | [奇跡](https://open.spotify.com/album/6vUlref0cDtOFRvJQ3kkgs) | 2:46 | 2024-10-15 | 2025-01-31 |
 | [好きだ](https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [好きだ](https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0) | 3:37 | 2023-02-16 | 2023-11-04 |
+| [姿](https://open.spotify.com/track/5okAqlWhkOADHjd61PKslW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:27 | 2026-06-09 |  |
 | [常緑](https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [you](https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw) | 2:51 | 2023-11-01 | 2024-11-24 |
 | [常緑 \- 2023 self cover](https://open.spotify.com/track/6iuaa6XeL8dZICIR9GaGEg) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [常緑 / Honey, You! \(2023 self cover\)](https://open.spotify.com/album/5SHOISVEDAlYzmMQKebUf6) | 3:00 | 2023-10-24 | 2023-10-26 |
 | [常緑 \- 2023 self cover](https://open.spotify.com/track/5CehBhbM3Ka7tVgJJd4qPh) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [character](https://open.spotify.com/album/6NEViwfJmZULHN69wXcdUX) | 3:01 | 2023-10-24 | 2023-11-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36687,
+  "num_followers": 36702,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAeTVnOdlC/18njH6NJ/+ZP",
+  "snapshot_id": "ai9AgAAAAABVzvUTCBCbDY8MeBeYDbaq",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Let Us Hear Your Voice",
-      "url": "https://open.spotify.com/track/39dDu1iyYkjm5Dpag16Ywe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Until The Sun Explodes",
         "url": "https://open.spotify.com/album/08wHg3Ie9jj8nLZv5ue7bM"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 112506,
       "name": "247-369 (feat. Pennywise)",
       "url": "https://open.spotify.com/track/5wqnAJtY7ZT1jjwKwDjuNL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Let Us Hear Your Voice",
+      "url": "https://open.spotify.com/track/39dDu1iyYkjm5Dpag16Ywe"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Gonna Die",
         "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 157653,
       "name": "Live While You Can",
       "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "Broken - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 151600,
       "name": "Land of the Free?",
       "url": "https://open.spotify.com/track/2tfuiYUAllKUVusfEu9Lpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "Broken - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 176213,
-      "name": "Get A Life - 2005 Remaster",
-      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
+      "duration_ms": 155506,
+      "name": "You'll Never Make It - 2005 Remaster",
+      "url": "https://open.spotify.com/track/28yjAloJc2iqkyjfFOFn2v"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
+        "name": "About Time (2005 Remaster)",
+        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 117160,
-      "name": "Can't Believe It",
-      "url": "https://open.spotify.com/track/1BPFNUHoHNBGI09Ii5qj61"
+      "duration_ms": 175066,
+      "name": "Searching - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
     },
     {
       "added_at": null,
@@ -572,15 +572,15 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 155506,
-      "name": "You'll Never Make It - 2005 Remaster",
-      "url": "https://open.spotify.com/track/28yjAloJc2iqkyjfFOFn2v"
+      "duration_ms": 176213,
+      "name": "Get A Life - 2005 Remaster",
+      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
     },
     {
       "added_at": null,
       "album": {
-        "name": "About Time (2005 Remaster)",
-        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 175066,
-      "name": "Searching - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
+      "duration_ms": 117160,
+      "name": "Can't Believe It",
+      "url": "https://open.spotify.com/track/1BPFNUHoHNBGI09Ii5qj61"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 85946,
-      "name": "Rules - 2005 Remaster",
-      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
+      "duration_ms": 195280,
+      "name": "X Generation",
+      "url": "https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 195280,
-      "name": "X Generation",
-      "url": "https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1"
+      "duration_ms": 85946,
+      "name": "Rules - 2005 Remaster",
+      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
     },
     {
       "added_at": null,

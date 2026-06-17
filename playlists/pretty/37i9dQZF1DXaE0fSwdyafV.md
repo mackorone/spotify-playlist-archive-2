@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,290 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,287 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 62 | [Some things Cosmic](https://open.spotify.com/track/4TD6fj03dGwfDDrb6UWmy8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV) | 2:54 |
 | 63 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |
 | 64 | [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 |
-| 65 | [Midnight](https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn) | [Toby Sebastian](https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP), [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Midnight](https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd) | 4:45 |
-| 66 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 |
+| 65 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 |
+| 66 | [Midnight](https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn) | [Toby Sebastian](https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP), [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Midnight](https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd) | 4:45 |
 | 67 | [Witch](https://open.spotify.com/track/65hzDZbjAZpJZZf3diITpP) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [Ray Guns Are Not Just The Future](https://open.spotify.com/album/4ETVvsILHTLUHGYe3SSpgu) | 3:54 |
 | 68 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
 | 69 | [willow \- moonlit witch version](https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(moonlit witch version\)](https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0) | 3:28 |

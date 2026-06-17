@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: iri",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: LANA",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 227173,
       "name": "BLUE DREAM (feat. reina)",
       "url": "https://open.spotify.com/track/4N5SbzQgqi0m0xUbPlWHhd"
@@ -23628,6 +23628,24 @@
       "duration_ms": 200931,
       "name": "Morning like a breath",
       "url": "https://open.spotify.com/track/0c18p3EEnRPjWmfwyEefXf"
+    },
+    {
+      "album": {
+        "name": "mosi mosi?",
+        "url": "https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5"
+      },
+      "artists": [
+        {
+          "name": "\u697d\u97f3",
+          "url": "https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "mosi mosi?",
+      "url": "https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"
     },
     {
       "album": {
@@ -42874,7 +42892,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 275826,
       "name": "\u3046\u308b\u308f\u3057\u304d\u3072\u3068",
       "url": "https://open.spotify.com/track/1M3v8EIemHoCqEOautFldv"
@@ -60029,6 +60047,24 @@
     },
     {
       "album": {
+        "name": "\u5b87\u5b99\u8239\u30cf\u30fc\u30c8\u53f7",
+        "url": "https://open.spotify.com/album/2sKDkD5geCtKjHDbrKdcMJ"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218621,
+      "name": "\u5b87\u5b99\u8239\u30cf\u30fc\u30c8\u53f7",
+      "url": "https://open.spotify.com/track/5mysqbzC0rd2v0ntHjBnY0"
+    },
+    {
+      "album": {
         "name": "\u5b88\u3063\u3066\u3042\u3052\u305f\u3044",
         "url": "https://open.spotify.com/album/0xK2HhOyYPQy3utpqPIpbv"
       },
@@ -64876,7 +64912,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 152500,
       "name": "\u6c37",
       "url": "https://open.spotify.com/track/27uSNHKZoL5c1BsDPLJHHd"
@@ -67824,6 +67860,24 @@
       "duration_ms": 265728,
       "name": "\u7fbd\u3092\u5bbf\u3057\u3066",
       "url": "https://open.spotify.com/track/2rJQPhZ6N0XADGm2UGrN7l"
+    },
+    {
+      "album": {
+        "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
+        "url": "https://open.spotify.com/album/4bjpKHTLJ2FtOlzrdXDL1d"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242603,
+      "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
+      "url": "https://open.spotify.com/track/03pAYCtkK1l7D8rQ5rvc89"
     },
     {
       "album": {

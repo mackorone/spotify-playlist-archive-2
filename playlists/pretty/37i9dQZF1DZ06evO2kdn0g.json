@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 5683,
+  "num_followers": 5682,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAB2o1JPCQKm9QlWdB34YxAG",
+  "snapshot_id": "ai9AgAAAAAC7i3Kqt0jVP4RQf4VAeAaD",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 182906,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOIRE",
-        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "TRACK 02 (Dangerous Lover)",
-      "url": "https://open.spotify.com/track/6YoIklDN0qyJA1NuXwKrEw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 154960,
       "name": "Crisis Evasion",
       "url": "https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "TRACK 02 (Dangerous Lover)",
+      "url": "https://open.spotify.com/track/6YoIklDN0qyJA1NuXwKrEw"
     },
     {
       "added_at": null,

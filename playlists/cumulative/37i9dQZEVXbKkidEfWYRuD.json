@@ -8818,7 +8818,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -8840,7 +8840,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -12318,7 +12318,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-04",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -14158,6 +14158,28 @@
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
     },
     {
       "album": {
@@ -19752,7 +19774,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
@@ -19770,7 +19792,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
@@ -27716,7 +27738,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 200000,
       "name": "\u0413\u0435\u043d\u0433\u0441\u0442\u0430",
       "url": "https://open.spotify.com/track/3zHlmzzkUVgL8ao2KKojAt"
@@ -30546,7 +30568,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 149343,
       "name": "\u0417\u041f\u041f\u041f",
       "url": "https://open.spotify.com/track/4mOL5V2LZzDhAxmsHvjZzv"
@@ -31134,7 +31156,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 144235,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
@@ -36394,7 +36416,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 164921,
       "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
@@ -37288,7 +37310,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 119575,
       "name": "\u0440\u0430\u0441\u043f\u044f\u0442\u044c",
       "url": "https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8"
@@ -41878,7 +41900,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"

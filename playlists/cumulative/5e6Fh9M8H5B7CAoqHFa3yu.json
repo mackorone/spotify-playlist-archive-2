@@ -14077,6 +14077,24 @@
     },
     {
       "album": {
+        "name": "Garden Of Flowers",
+        "url": "https://open.spotify.com/album/5ye4ECA6eFPlGqaOXRJcRT"
+      },
+      "artists": [
+        {
+          "name": "Gottxi",
+          "url": "https://open.spotify.com/artist/3Zl1jPBV7BkOtPhsk908CO"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194653,
+      "name": "Garden Of Flowers",
+      "url": "https://open.spotify.com/track/04kofz7JttcQMzxFZyEuhb"
+    },
+    {
+      "album": {
         "name": "Gas Mask",
         "url": "https://open.spotify.com/album/0ADqdsyZgdIKGTdPFqw1ax"
       },

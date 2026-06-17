@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: The Army, The Navy
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,853 likes - 152 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,845 likes - 152 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

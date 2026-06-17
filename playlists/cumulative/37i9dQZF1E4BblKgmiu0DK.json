@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Crimson ValkyRies, Tssara, Die Mannequin and more",
+  "description": "With Crimson ValkyRies, Die Mannequin, Tssara and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 162000,
       "name": "3",
       "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 214889,
       "name": "Deal with Me",
       "url": "https://open.spotify.com/track/3080vWpFKHjG0ismpaQbOg"
@@ -2566,7 +2566,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 133199,
       "name": "Dublin Dockside Drifter",
       "url": "https://open.spotify.com/track/6188LTfmDoBxAsgwaMXo9H"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "Every Girl",
       "url": "https://open.spotify.com/track/4C4oQjntCiPjPltwKoSll7"
@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 156683,
       "name": "Funeral Of A Good Grrl",
       "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 173440,
       "name": "Have You No Pride",
       "url": "https://open.spotify.com/track/6hyawvI37HZdXkvDbAKLjv"
@@ -3852,7 +3852,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -4018,7 +4018,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -4624,7 +4624,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 205799,
       "name": "Inner War",
       "url": "https://open.spotify.com/track/02FQAkM1fv8LPwkja6vG0x"
@@ -5190,7 +5190,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -5518,7 +5518,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 217880,
       "name": "Lonely of a Woman",
       "url": "https://open.spotify.com/track/1L1Ifm6JvLrWZKt6J8ZUay"
@@ -6124,7 +6124,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -6348,6 +6348,24 @@
       "duration_ms": 157718,
       "name": "Neon Thrash",
       "url": "https://open.spotify.com/track/4HwI7j6Bo9Hqwy5wvdsnav"
+    },
+    {
+      "album": {
+        "name": "New Shirt",
+        "url": "https://open.spotify.com/album/6xnT94cQkLec9OxExpHB34"
+      },
+      "artists": [
+        {
+          "name": "Grace Calver",
+          "url": "https://open.spotify.com/artist/1sOSpXgCLXfiFfAgrEAXxy"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202499,
+      "name": "New Shirt",
+      "url": "https://open.spotify.com/track/7Kf3bAUkl2zZpQGqaSptGz"
     },
     {
       "album": {
@@ -6906,7 +6924,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 173171,
       "name": "OPPosites",
       "url": "https://open.spotify.com/track/138wnhAVUNf2jxm1lpd5xb"
@@ -6978,7 +6996,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 235500,
       "name": "Overstay",
       "url": "https://open.spotify.com/track/7rkUaIzyuus22wvR6hRITA"
@@ -8192,7 +8210,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -8538,7 +8556,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 137266,
       "name": "Teenage",
       "url": "https://open.spotify.com/track/0XnZ2Qozwyht5rLxuRkSuS"
@@ -8614,7 +8632,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 166136,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6bz4qMWZrodFwDkcLUu0i9"
@@ -8632,7 +8650,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 200333,
       "name": "The Other Tiffany",
       "url": "https://open.spotify.com/track/0QNkibueS48C3DR6o9PqOi"
@@ -9558,7 +9576,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 174999,
       "name": "When the Heart Says Goodbye",
       "url": "https://open.spotify.com/track/15lNP5Q4MhSHIwSGTZ7u5k"

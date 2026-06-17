@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACuW+UUfddBQbY4kK+mOKaS",
+  "snapshot_id": "ai9AgAAAAAD0yGQaZOU1S4IW/hUaW296",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "sadMONTH",
-          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 180932,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
+      "duration_ms": 173589,
+      "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
     },
     {
       "added_at": null,
@@ -783,26 +783,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
       },
       "artists": [
         {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         },
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "sadMONTH",
+          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
         }
       ],
-      "duration_ms": 173589,
-      "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
+      "duration_ms": 180932,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
       "duration_ms": 174682,
       "name": "No Fear No More (Remix)",
       "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "Top Down",
-      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
     },
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "Stuck (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 290035,
       "name": "Mecca (with JID & EARTHGANG)",
       "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "Stuck (feat. Arin Ray)",
-      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
     },
     {
       "added_at": null,
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/5w3joDvFdDskgw6TvLh7vN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "UP",
-      "url": "https://open.spotify.com/track/5w3joDvFdDskgw6TvLh7vN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "never worry - deluxe",
         "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
       },
@@ -1051,34 +1051,6 @@
       "duration_ms": 222624,
       "name": "Sometimes\u2026 (with Daya & Earthgang)",
       "url": "https://open.spotify.com/track/0lwucugEyuHhPxR3blKKJE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Big Titties (feat. Baauer and EarthGang)",
-      "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
     },
     {
       "added_at": null,
@@ -1139,6 +1111,34 @@
       "duration_ms": 240288,
       "name": "ALL EYES ON ME",
       "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Big Titties (feat. Baauer and EarthGang)",
+      "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
     },
     {
       "added_at": null,

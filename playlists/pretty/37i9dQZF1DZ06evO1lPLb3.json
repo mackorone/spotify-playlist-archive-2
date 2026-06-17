@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 60204,
+  "num_followers": 60225,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAB9bVpKvg84mp1KBVbMqFan",
+  "snapshot_id": "ai9AgAAAAADhERl2DiaygdvUoqokdj1D",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Feel So Free (Peggy Gou Energy Mix)",
         "url": "https://open.spotify.com/album/1ceKmL44svlYzu0218VoPt"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 267508,
       "name": "I Feel So Free - Peggy Gou Energy Mix",
       "url": "https://open.spotify.com/track/5zZQc0Dgvz81P4BRt2jGE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Needs x UN Women Present HeForShe",
+        "url": "https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 402838,
+      "name": "Shero",
+      "url": "https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jigoo (Radio Edit)",
         "url": "https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 243066,
       "name": "Jigoo - Radio Edit",
       "url": "https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Needs x UN Women Present HeForShe",
-        "url": "https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 402838,
-      "name": "Shero",
-      "url": "https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6"
     },
     {
       "added_at": null,

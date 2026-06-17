@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2118434,
+  "num_followers": 2118427,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 153320,
-      "name": "Right Side of My Neck",
-      "url": "https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "Love You For A Long Time",
         "url": "https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 223120,
       "name": "Love You For A Long Time",
       "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 153320,
+      "name": "Right Side of My Neck",
+      "url": "https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Venus in the Zinnia",
-        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        },
-        {
-          "name": "H. Hawkline",
-          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
-        }
-      ],
-      "duration_ms": 197372,
-      "name": "Venus in the Zinnia",
-      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "I Walked With You A Ways",
         "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 195763,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Venus in the Zinnia",
+        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        },
+        {
+          "name": "H. Hawkline",
+          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Venus in the Zinnia",
+      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 233039,
-      "name": "I Found Out",
-      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 198456,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 233039,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 208083,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "It Will Never Be The Same",
         "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 208083,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc"
     },
     {
       "added_at": "2026-06-05 20:39:28",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-06-05 20:39:28",
       "album": {
-        "name": "Does This Go Faster?",
-        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
-      },
-      "artists": [
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Does This Go Faster?",
-      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
-    },
-    {
-      "added_at": "2026-06-05 20:39:28",
-      "album": {
         "name": "Freewheelin' Woman",
         "url": "https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/1en09AnmYzVyIp4su1cnGK"
+    },
+    {
+      "added_at": "2026-06-05 20:39:28",
+      "album": {
+        "name": "Does This Go Faster?",
+        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Does This Go Faster?",
+      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
     },
     {
       "added_at": "2026-06-05 20:39:28",

@@ -4,7 +4,7 @@
 
 > Tedua sulla cover della playlist più grande in Italia 🔥
 
-349 songs - 18 hr 12 min
+350 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Buon Vento](https://open.spotify.com/track/5vdmfjy5CVrV0xYEcO2f4Q) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Buon Vento](https://open.spotify.com/album/06ge45XUS63W0ENu9QjjQN) | 2:55 | 2026-05-28 |  |
 | [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 | 2025-01-09 | 2025-01-25 |
 | [Cantilene](https://open.spotify.com/track/3yaRrdo3DDeKgDaubuBsId) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 3:59 | 2026-04-28 |  |
+| [Canto d’amore \(con Marco Mengoni\)](https://open.spotify.com/track/3JjyzXQ07ODREBhJknQgLS) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Canto d’amore \(con Marco Mengoni\)](https://open.spotify.com/album/164ST8Sbg81Pr7rJZ1iKBN) | 3:14 | 2026-06-16 |  |
 | [CANZONE D'AMORE](https://open.spotify.com/track/3WL6jUG9qR8rhOOVlD51JE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/58OUscdI2nOUKFpoPlp2eb) | 3:00 | 2026-05-29 | 2026-06-04 |
 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 | 2026-02-02 |  |
 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:42 | 2024-09-26 | 2025-02-11 |
@@ -277,7 +278,7 @@
 | [Respiro](https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Respiro](https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL) | 2:35 | 2024-06-28 | 2024-07-05 |
 | [Resta Ancora Un Po'](https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Resta Ancora Un Po'](https://open.spotify.com/album/5Yy72IJnQKirTKQ54lZBpO) | 2:27 | 2026-01-28 | 2026-02-20 |
 | [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 | 2026-03-05 | 2026-04-14 |
-| [Ricordi \(con Elisa\)](https://open.spotify.com/track/3ocAmS2NnUlIrtwYdg89lU) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ricordi \(con Elisa\)](https://open.spotify.com/album/5UN3WOoPVsl8nesjf0xowl) | 4:37 | 2026-04-07 |  |
+| [Ricordi \(con Elisa\)](https://open.spotify.com/track/3ocAmS2NnUlIrtwYdg89lU) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ricordi \(con Elisa\)](https://open.spotify.com/album/5UN3WOoPVsl8nesjf0xowl) | 4:37 | 2026-04-07 | 2026-06-17 |
 | [ROMANTICA](https://open.spotify.com/track/3jG1o72wNvvjQn2kDoNsIu) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ROMANTICA](https://open.spotify.com/album/10y0yFd5imPOaVmDIQ2lP1) | 3:13 | 2026-05-25 |  |
 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-09-12 | 2025-05-09 |
 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-08-01 | 2025-03-15 |

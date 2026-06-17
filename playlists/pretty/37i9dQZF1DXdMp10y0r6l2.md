@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. System Of  A Down en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,903 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,902 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

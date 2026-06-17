@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Dean Turnley
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,608 likes - 115 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,670 likes - 115 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 66 | [Million Things](https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm) | [Tommy Phillips](https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW) | [Million Things](https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi) | 2:40 |
 | 67 | [Fix It](https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX) | [Nat Kara](https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj) | [Fix It](https://open.spotify.com/album/7qXPopiabkvOGzyUKHowgq) | 3:00 |
 | 68 | [Prime](https://open.spotify.com/track/64lWjyp5R6DkHbD2JFE2PL) | [Easttown](https://open.spotify.com/artist/60BcxlrIyqHOIjd9dBvld3) | [Prime / Vibrations](https://open.spotify.com/album/4NOy19Kb3fVZYJsLcBcN39) | 3:18 |
-| 69 | [Do You Wanna](https://open.spotify.com/track/6jU1CPlzBQ3vGDmyriJw9S) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn) | [Goosey Moods](https://open.spotify.com/album/7ohv5ByJbZiV6RrpoL0IMM) | 3:54 |
+| 69 | [Do You Wanna](https://open.spotify.com/track/6jU1CPlzBQ3vGDmyriJw9S) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Goosey Moods](https://open.spotify.com/album/7ohv5ByJbZiV6RrpoL0IMM) | 3:54 |
 | 70 | [House Mentality \- Radio Edit](https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [House Mentality](https://open.spotify.com/album/0Q6T89Fkb4FJFCErQPWPyg) | 2:36 |
 | 71 | [Buzzin](https://open.spotify.com/track/2blaFgkbntstxZBGEmXITG) | [Ryan Grey](https://open.spotify.com/artist/68FF5yW2tWcn7HqeL4seaw) | [Buzzin](https://open.spotify.com/album/1VQps1pCNJ32Z8ouR7q8a4) | 3:01 |
 | 72 | [Down To The Bone](https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Down To The Bone](https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa) | 2:51 |

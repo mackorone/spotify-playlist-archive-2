@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1905,
+  "num_followers": 1908,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAMf2Ta8co1jsAvnHZvOM/0",
+  "snapshot_id": "ai9AgAAAAACogrEKLEWn3eMA2/pVjXf8",
   "tracks": [
     {
       "added_at": null,
@@ -471,38 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Errei Eu Fui Muleque",
-        "url": "https://open.spotify.com/album/1DYJPTo95QasswE7okwMQ2"
-      },
-      "artists": [
-        {
-          "name": "Dj Scar",
-          "url": "https://open.spotify.com/artist/4TU81hdJFiCuzvaPsajuUo"
-        },
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Mc Diguinho",
-          "url": "https://open.spotify.com/artist/47JFb3g3HWWr0xsyMvUKc8"
-        },
-        {
-          "name": "DAL\u00c3MA",
-          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
-        }
-      ],
-      "duration_ms": 180803,
-      "name": "Eu Errei Eu Fui Muleque",
-      "url": "https://open.spotify.com/track/4V7dIuq4tsh6afEP54yaSS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -531,6 +499,38 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Errei Eu Fui Muleque",
+        "url": "https://open.spotify.com/album/1DYJPTo95QasswE7okwMQ2"
+      },
+      "artists": [
+        {
+          "name": "Dj Scar",
+          "url": "https://open.spotify.com/artist/4TU81hdJFiCuzvaPsajuUo"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Mc Diguinho",
+          "url": "https://open.spotify.com/artist/47JFb3g3HWWr0xsyMvUKc8"
+        },
+        {
+          "name": "DAL\u00c3MA",
+          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
+        }
+      ],
+      "duration_ms": 180803,
+      "name": "Eu Errei Eu Fui Muleque",
+      "url": "https://open.spotify.com/track/4V7dIuq4tsh6afEP54yaSS"
     },
     {
       "added_at": null,
@@ -776,13 +776,13 @@
           "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
         },
         {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+          "name": "Dj Mack",
+          "url": "https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7"
         }
       ],
-      "duration_ms": 142153,
-      "name": "Ela Joga Muito na Minha Cara",
-      "url": "https://open.spotify.com/track/746taTiwMbJLRhxXR1zbXk"
+      "duration_ms": 132923,
+      "name": "Fiel \u00e0 Cachorrada",
+      "url": "https://open.spotify.com/track/6XbwsJyQ9E5vf3e0dAVd5d"
     },
     {
       "added_at": null,
@@ -831,6 +831,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Vida",
+        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 165216,
+      "name": "Minha Vida",
+      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Ela Joga Muito na Minha Cara",
+      "url": "https://open.spotify.com/track/746taTiwMbJLRhxXR1zbXk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segue O Baile",
+        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 107647,
+      "name": "Para N\u00e3o",
+      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ai que vontade",
         "url": "https://open.spotify.com/album/3z1CLq24Qp1YCfDwSNxmN4"
       },
@@ -863,98 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
-        },
-        {
-          "name": "Dj Mack",
-          "url": "https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "Fiel \u00e0 Cachorrada",
-      "url": "https://open.spotify.com/track/6XbwsJyQ9E5vf3e0dAVd5d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Segue O Baile",
-        "url": "https://open.spotify.com/album/5fcwF4ky03kxTIuNIAwU7g"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        }
-      ],
-      "duration_ms": 107647,
-      "name": "Para N\u00e3o",
-      "url": "https://open.spotify.com/track/5gkbs4N9cAh1CzUPSyutoH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica Tudo Bem",
-        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Vida",
-        "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 165216,
-      "name": "Minha Vida",
-      "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puta Que Pariu",
         "url": "https://open.spotify.com/album/515WImJFOyl2duvuIV1lo6"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 151951,
       "name": "Puta Que Pariu",
       "url": "https://open.spotify.com/track/4NDvt31QU8VSXjfEk7O64A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tudo Bem",
+        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 142027,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMOUR BEIJA FLOR",
         "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 107142,
       "name": "BOLA LOGO",
       "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 142027,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
     },
     {
       "added_at": null,
@@ -1175,30 +1175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu & Elas",
-        "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
-      },
-      "artists": [
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Dj Dudu Coupper",
-          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "Macetada Forte",
-      "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00e1 No Erro",
         "url": "https://open.spotify.com/album/0qrIqQH65haYKMIst9Jn3U"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 173000,
       "name": "T\u00e1 No Erro",
       "url": "https://open.spotify.com/track/4KNH8weAZJDNc0AvuS4Moz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu & Elas",
+        "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
+      },
+      "artists": [
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Dj Dudu Coupper",
+          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "Macetada Forte",
+      "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
     },
     {
       "added_at": null,

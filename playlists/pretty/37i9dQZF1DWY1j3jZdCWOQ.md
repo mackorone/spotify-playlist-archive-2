@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain minus the S =
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,463 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,504 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,10 +138,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 128 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 |
 | 129 | [in your head](https://open.spotify.com/track/4o6xvp0vmdHMeS4Z5qeRQw) | [cloudyfield](https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur) | [in your head](https://open.spotify.com/album/6FeKgvDfFFEqEbEksoTdIm) | 2:50 |
 | 130 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
-| 131 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 |
+| 131 | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 |
 | 132 | [The Failure Of My Life Run On Self Will](https://open.spotify.com/track/4hfsdPZS80qvGSjFf7EyAU) | [Car Underwater](https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF) | [The Failure Of My Life Run On Self Will](https://open.spotify.com/album/4EttuajtZtgdE3x75HLZjQ) | 3:39 |
-| 133 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
-| 134 | [Love Me The Same](https://open.spotify.com/track/720YpweGSLr04awACpdeP7) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Love Me The Same](https://open.spotify.com/album/4eDcUS6QyqR2Axrqnsj8GC) | 2:54 |
+| 133 | [Love Me The Same](https://open.spotify.com/track/720YpweGSLr04awACpdeP7) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Love Me The Same](https://open.spotify.com/album/4eDcUS6QyqR2Axrqnsj8GC) | 2:54 |
+| 134 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
 | 135 | [NEVER FUCKIN KNOW](https://open.spotify.com/track/4j0x1Io7KDUB81LrssaPRg) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [NEVER FUCKIN KNOW \(Stripped\)](https://open.spotify.com/album/6sVSzO967Mo8TdiXG9uBrB) | 2:44 |
 | 136 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 137 | [bills](https://open.spotify.com/track/14z7tDjODXm7fy3YJpLIeR) | [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [bills](https://open.spotify.com/album/0kh5VJhwXDcXKhw9i64iY7) | 2:25 |
@@ -150,12 +150,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 140 | [Check Yes, Juliet](https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y) | 3:38 |
 | 141 | [You Stupid Bitch](https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:15 |
 | 142 | [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 |
-| 143 | [Lotta True Crime](https://open.spotify.com/track/6Dqs6JddZc16yl27MDzIWY) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:22 |
-| 144 | [LOSER!!](https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [LOSER!!](https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD) | 3:48 |
-| 145 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 |
-| 146 | [Twin Size Mattress](https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4) | 4:24 |
-| 147 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 |
-| 148 | [I Threw Glass at My Friend's Eyes and Now I'm on Probation](https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 2:37 |
+| 143 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 |
+| 144 | [I Threw Glass at My Friend's Eyes and Now I'm on Probation](https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 2:37 |
+| 145 | [Lotta True Crime](https://open.spotify.com/track/6Dqs6JddZc16yl27MDzIWY) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:22 |
+| 146 | [LOSER!!](https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [LOSER!!](https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD) | 3:48 |
+| 147 | [Twin Size Mattress](https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4) | 4:24 |
+| 148 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 |
 | 149 | [Animal](https://open.spotify.com/track/1iBljl6IFBU6OkUMJVKMbn) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 2:40 |
 | 150 | [Hell](https://open.spotify.com/track/1DNrgnLWqHEC7CfTSRuvvW) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Hell](https://open.spotify.com/album/5f11kxQydj1NJONC9URJsU) | 2:06 |
 

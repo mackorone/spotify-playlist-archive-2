@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11398,
+  "num_followers": 11400,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACMI2wbYfz+qCVURfE0tJ5h",
+  "snapshot_id": "ai9AgAAAAABFPEgLApnPdVoqe/CCXFZC",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 184163,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
       },
@@ -179,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c"
       },
       "artists": [
         {
@@ -188,13 +168,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
         }
       ],
-      "duration_ms": 155200,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
+      "duration_ms": 184163,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal"
     },
     {
       "added_at": null,
@@ -219,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Look Down (feat. BANKS)",
         "url": "https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN"
       },
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Lyncs",
-          "url": "https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr"
-        }
-      ],
-      "duration_ms": 221791,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/4CMv5MeFVLxhz9fjM1yN96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 228480,
       "name": "Gravity (feat. JMR)",
       "url": "https://open.spotify.com/track/4a9en6x7eb1YnRPNruBG8H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Lyncs",
+          "url": "https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr"
+        }
+      ],
+      "duration_ms": 221791,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/4CMv5MeFVLxhz9fjM1yN96"
     },
     {
       "added_at": null,
@@ -455,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parachute Remixes",
-        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
+        "name": "eye2eye (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
       },
       "artists": [
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
         },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 249360,
-      "name": "Drivin Thru the Night - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+      "duration_ms": 253714,
+      "name": "eye2eye - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
     },
     {
       "added_at": null,
@@ -491,22 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "eye2eye (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
+        "name": "Parachute Remixes",
+        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
       },
       "artists": [
         {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 253714,
-      "name": "eye2eye - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
+      "duration_ms": 249360,
+      "name": "Drivin Thru the Night - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
     },
     {
       "added_at": null,
@@ -531,22 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I Fall Asleep (with Jai Wolf)",
-        "url": "https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u"
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
       },
       "artists": [
         {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
         }
       ],
-      "duration_ms": 193984,
-      "name": "When I Fall Asleep (with Jai Wolf)",
-      "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
+      "duration_ms": 210923,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C"
     },
     {
       "added_at": null,
@@ -587,22 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
+        "name": "When I Fall Asleep (with Jai Wolf)",
+        "url": "https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
         },
         {
-          "name": "REHMA",
-          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 210923,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C"
+      "duration_ms": 193984,
+      "name": "When I Fall Asleep (with Jai Wolf)",
+      "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 162171,
-      "name": "Hikikomori - Demo",
-      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
         "url": "https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 218581,
       "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
       "url": "https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 162171,
+      "name": "Hikikomori - Demo",
+      "url": "https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO"
     },
     {
       "added_at": null,

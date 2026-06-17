@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,719 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,724 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 44 | [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 |
 | 45 | [Vive La Vida \- Remix](https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Vive La Vida \(Remix\)](https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp) | 3:57 |
 | 46 | [1+1=1](https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [1+1=1](https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b) | 2:43 |
-| 47 | [A POCA LUZ](https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [A POCA LUZ](https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1) | 3:14 |
-| 48 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
+| 47 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
+| 48 | [A POCA LUZ](https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [A POCA LUZ](https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1) | 3:14 |
 | 49 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 |
 | 50 | [Botecito](https://open.spotify.com/track/5nhB1ijVzD2PKCkPAHP8Qy) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Botecito](https://open.spotify.com/album/7HHY5Rr3nTYhQrmXBt1uTH) | 2:36 |
 | 51 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 |

@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437709,
+  "num_followers": 437684,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "White Wine",
+        "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "White Wine",
+      "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Fabulosos Exitos",
         "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "White Wine",
-        "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "White Wine",
-      "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 185160,
       "name": "Mar Y Cielo",
       "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Jard\u00edn del Para\u00edso (feat. Bejuco)",
         "url": "https://open.spotify.com/album/66McP7Yf7kOAtfgomsNUzu"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 191147,
       "name": "Jard\u00edn del Para\u00edso (feat. Bejuco)",
       "url": "https://open.spotify.com/track/0yn2NERsd0Jb0Xf0t7xC7i"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Todos Tenemos un Amor",
-        "url": "https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0"
-      },
-      "artists": [
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 224317,
-      "name": "Todos Tenemos un Amor",
-      "url": "https://open.spotify.com/track/6vH11o55aRZCZqvF7SycPq"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "T\u00fa y Yo",
         "url": "https://open.spotify.com/album/5ZiEQlND2otG2zdBVzuQO9"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 209466,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/71vzHHi7B66IZWfJfjVN7W"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Todos Tenemos un Amor",
+        "url": "https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0"
+      },
+      "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 224317,
+      "name": "Todos Tenemos un Amor",
+      "url": "https://open.spotify.com/track/6vH11o55aRZCZqvF7SycPq"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Tiene Sabor",
-        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Valent\u00edn Puentes",
-          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
-        }
-      ],
-      "duration_ms": 240562,
-      "name": "Tiene Sabor",
-      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 232960,
       "name": "Vem Pra Mim",
       "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Tiene Sabor",
+        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Valent\u00edn Puentes",
+          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
+        }
+      ],
+      "duration_ms": 240562,
+      "name": "Tiene Sabor",
+      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Quemar La Casa",
+        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "duration_ms": 243356,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Pelo Negro",
         "url": "https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 370730,
       "name": "Pelo Negro",
       "url": "https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Quemar La Casa",
-        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
-        }
-      ],
-      "duration_ms": 243356,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1611,6 +1611,30 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 200118,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
         "name": "Omara Portuondo (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O"
       },
@@ -1643,30 +1667,6 @@
     {
       "added_at": "2026-02-19 18:04:12",
       "album": {
-        "name": "Grecia",
-        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 200118,
-      "name": "Grecia",
-      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
@@ -1695,6 +1695,26 @@
       "duration_ms": 233453,
       "name": "Sin Rumbo",
       "url": "https://open.spotify.com/track/4lPt2Wyz2u92f6BC8gb93O"
+    },
+    {
+      "added_at": "2026-02-19 18:04:12",
+      "album": {
+        "name": "Nova Bis - Paulinho da Viola",
+        "url": "https://open.spotify.com/album/2QipO0phbQmxu1yiR0TcEa"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do"
     },
     {
       "added_at": "2026-02-19 18:04:12",
@@ -1747,26 +1767,6 @@
       "duration_ms": 249250,
       "name": "Parar el Tiempo",
       "url": "https://open.spotify.com/track/5iBP84nYff7zzoYGSfOwgf"
-    },
-    {
-      "added_at": "2026-02-19 18:04:12",
-      "album": {
-        "name": "Nova Bis - Paulinho da Viola",
-        "url": "https://open.spotify.com/album/2QipO0phbQmxu1yiR0TcEa"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        },
-        {
-          "name": "Elton Medeiros",
-          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Perdoa",
-      "url": "https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do"
     },
     {
       "added_at": "2026-02-19 18:04:12",

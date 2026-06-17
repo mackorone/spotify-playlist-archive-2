@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Las Marías en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,033 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,049 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 60 | [Deja Que Salga la Luna \- En Vivo](https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Deja Que Salga la Luna \(En Vivo\)](https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY) | 3:17 |
 | 61 | [Mi Problema](https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Mi Problema](https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb) | 3:03 |
 | 62 | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Popurrí 30 aniversario \(Soy Feliz Como Una Lombriz, No Se Si Es Amor, Paraíso Terrenal, Ahora Que Estuviste Lejos, Sobreviviré\)](https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge) | 8:49 |
-| 63 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
-| 64 | [No Más Canciones De Amor](https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Más Canciones De Amor](https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ) | 2:31 |
+| 63 | [No Más Canciones De Amor](https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Más Canciones De Amor](https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ) | 2:31 |
+| 64 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
 | 65 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 |
 | 66 | [Yo Te Extrañaré](https://open.spotify.com/track/5eaoQpGpFBQrMUjWk3lruo) | [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Yo Te Extrañaré](https://open.spotify.com/album/39CrI0ILTQ6Ia0zHaBNpda) | 4:50 |
 | 67 | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cómo Le Hacen Los Dolidos](https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q) | 2:46 |

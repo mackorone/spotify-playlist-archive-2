@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Los 2 de la S en portada \ud83d\udcf8",
-  "num_followers": 1078638,
+  "num_followers": 1078587,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Vengache Pa\u2019 Aca",
-        "url": "https://open.spotify.com/album/4GOxdFhYCiDqefzmrJt4sF"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 163667,
-      "name": "Vengache Pa\u2019 Aca",
-      "url": "https://open.spotify.com/track/6FoFdGkO3BZ1HElmfj7PZl"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 240624,
       "name": "La Historia (En Vivo)",
       "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Vengache Pa\u2019 Aca",
+        "url": "https://open.spotify.com/album/4GOxdFhYCiDqefzmrJt4sF"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 163667,
+      "name": "Vengache Pa\u2019 Aca",
+      "url": "https://open.spotify.com/track/6FoFdGkO3BZ1HElmfj7PZl"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "La Balanza",
         "url": "https://open.spotify.com/album/27zodohsIeaDJaZ7lpSHab"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 176493,
       "name": "Me Interesas",
       "url": "https://open.spotify.com/track/5LsTMta9l87n8Z4zpBV2xL"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "Mor\u00ed",
         "url": "https://open.spotify.com/album/3DNTpm5JHxawakHXkfOWcq"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 230002,
       "name": "Mor\u00ed",
       "url": "https://open.spotify.com/track/49EGUsjMqCJkrAYaf8KmY6"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-05-29 06:00:29",

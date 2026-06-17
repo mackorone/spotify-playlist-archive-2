@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,303 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,304 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 21 | [Car Sick \(feat\. NAV & Metro Boomin\)](https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:39 |
 | 22 | [Tap \(feat\. Meek Mill\)](https://open.spotify.com/track/5rU6kDNXZLXIinFezpbWbO) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 2:28 |
 | 23 | [Minute](https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 4:25 |
-| 24 | [NO CALL NO SHOW \(feat\. NAV\)](https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [SAME DIFFERENCE](https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS) | 5:16 |
-| 25 | [YOU \(FT DON TOLIVER\)](https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 3:03 |
+| 24 | [YOU \(FT DON TOLIVER\)](https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 3:03 |
+| 25 | [NO CALL NO SHOW \(feat\. NAV\)](https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [SAME DIFFERENCE](https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS) | 5:16 |
 | 26 | [Friends & Family](https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:25 |
 | 27 | [Leaders \(feat\. NAV\)](https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 3:14 |
 | 28 | [Vicodin](https://open.spotify.com/track/19CWeHbg3Z9XJH4Uzdk6tf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 2:11 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 44 | [Make It Right Back](https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:36 |
 | 45 | [NOTHING 4 FREE \(feat\. NAV\)](https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:45 |
 | 46 | [Bali](https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 3:05 |
-| 47 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
-| 48 | [The Man \(2015\)](https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [The Man \(2015\)](https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n) | 4:19 |
+| 47 | [The Man \(2015\)](https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [The Man \(2015\)](https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n) | 4:19 |
+| 48 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
 | 49 | [No Debate \(feat\. Young Thug\)](https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:08 |
 | 50 | [Rexdale](https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Rexdale](https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4) | 2:05 |
 
-Snapshot ID: `ai3vAAAAAADbCtmrKO9roDy79X1tyGz3`
+Snapshot ID: `ai9AgAAAAADa3S6umBOcFOzXZY/y8RHc`

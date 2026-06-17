@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con Shakira en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,621,459 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,621,433 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 4 | [UNA NA MAS](https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [UNA NA MAS](https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ) | 3:16 |
 | 5 | [LA VILLA](https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LA VILLA](https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq) | 3:12 |
 | 6 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
-| 7 | [HAPPY 🪽](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY 🪽](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
+| 7 | [HAPPY ��](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY ��](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
 | 8 | [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 |
 | 9 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
 | 10 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |

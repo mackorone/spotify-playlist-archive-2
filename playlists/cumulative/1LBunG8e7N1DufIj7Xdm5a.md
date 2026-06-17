@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,454 songs - 9 day 22 hr 21 min
+4,457 songs - 9 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2678,6 +2678,7 @@
 | [Night Vibes Luxury](https://open.spotify.com/track/3RUsxsTFozJf1KfDGpeV3d) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 3:14 | 2026-01-31 |  |
 | [Nightlight Groove](https://open.spotify.com/track/01gjOCijZ0xsjvLILJWVbm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vibe Funky Disco](https://open.spotify.com/album/556G6A4l9E9cEJQOBGUmBW) | 3:24 | 2025-09-19 |  |
 | [Nightlight Groove \(another\)](https://open.spotify.com/track/3Yii2McoVIHRMZ97Srk6H4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vibe Funky Disco](https://open.spotify.com/album/556G6A4l9E9cEJQOBGUmBW) | 3:59 | 2025-09-19 |  |
+| [Nightshade Serenity](https://open.spotify.com/track/1B327qlw8AmnDGqUd1jiEj) | [Screams of Tranquility](https://open.spotify.com/artist/0gin8Rgot6p6gKUBVEzw6s) | [Nightshade Serenity](https://open.spotify.com/album/4j2RC6qX1cWLWeA2epb9zu) | 3:52 | 2026-06-16 |  |
 | [Nighttrippin](https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl) | [Nighttrippin](https://open.spotify.com/album/21g866EGYrGD8zbuP9cvF8) | 3:25 | 2026-05-15 |  |
 | [Nihurumie](https://open.spotify.com/track/3EWHWtZGEBptCjWbT3b3xd) | [Clizzoh Kheed](https://open.spotify.com/artist/03XiEfRCt8pG6GqCcz47jh), [Leken Est](https://open.spotify.com/artist/0UOitNDihCcbrzS6SWnbkA) | [Nihurumie](https://open.spotify.com/album/592mm4m7LW87wPmAFkbO50) | 3:09 | 2025-03-03 |  |
 | [Nikey](https://open.spotify.com/track/3HY4PJXfqVUuazDMdUfmGc) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Nikey](https://open.spotify.com/album/17REJyp3KXhgb4RQ1m1UCd) | 1:48 | 2025-05-08 |  |
@@ -2726,6 +2727,7 @@
 | [Normally](https://open.spotify.com/track/5d1JDW44B3yEpXdt7C2cMj) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 2:56 | 2025-06-05 |  |
 | [Normally](https://open.spotify.com/track/2ys7Q0c21HTaLABeNisbcK) | [OBONG ZYPHAER](https://open.spotify.com/artist/1ZktSUh4MjF8krIe7inNVy) | [Normally](https://open.spotify.com/album/77jiWHdGJkOEDhTO3btlgB) | 2:41 | 2025-07-04 |  |
 | [Northolt Bandit](https://open.spotify.com/track/3gZxf4CUHWn8QmbfDwNtN0) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Northolt Bandit](https://open.spotify.com/album/5ULII2WnPkgsAMs5A9khYA) | 3:19 | 2025-04-10 |  |
+| [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 | 2026-06-16 |  |
 | [nostalgia](https://open.spotify.com/track/5T2nMWyQbEuN7EhyDiT01N) | [bryblawg](https://open.spotify.com/artist/0d3u7gFWM08yvGYfU1jFqC) | [nostalgia](https://open.spotify.com/album/48U7OAPJIY8OdKT6S3qUG2) | 2:22 | 2025-05-19 |  |
 | [Not Broken](https://open.spotify.com/track/597eaMrnVGAGPUsZgABP0D) | [ELIXA LUXEN](https://open.spotify.com/artist/02gE7hsAW6Uvgl7HjtQXro) | [Not Broken](https://open.spotify.com/album/45Mz9xWbP6XVujDZndZoje) | 3:41 | 2026-02-22 |  |
 | [Not Yr Dog](https://open.spotify.com/track/5eMWZCOvV8g5jFt0q2vWr2) | [Shboy](https://open.spotify.com/artist/6QMcbLLh1xzlS5mXC9Uq7x) | [Not Yr Dog](https://open.spotify.com/album/4l58sVDx8Pnqt30aIkD0Sb) | 3:14 | 2025-10-13 |  |
@@ -3360,6 +3362,7 @@
 | [Shattered Voices \(another\)](https://open.spotify.com/track/4pYHHyFUavknNEkv9oNvZz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 2:55 | 2025-09-17 |  |
 | [She \- Radio Mix](https://open.spotify.com/track/7ssoU0Q2YLQpYfVSFodiU3) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [She](https://open.spotify.com/album/3K0S7jq6J4YZeOuB9at0J0) | 2:48 | 2026-04-18 |  |
 | [she say OMG](https://open.spotify.com/track/63MamNMm9iLqOkeY1OvYBg) | [800pts](https://open.spotify.com/artist/36b2HS4EqRatnoeOwu1IeN) | [she say OMG](https://open.spotify.com/album/7pGs7hy3bHVXHFkkE2KaJj) | 1:46 | 2025-05-16 |  |
+| [She speaks in numbers](https://open.spotify.com/track/0ueey7xc28u36TcRpfoMWg) | [VicDigital](https://open.spotify.com/artist/5HbzK4iHOYfQxxBlHLPaOO), [Pr0fess0r](https://open.spotify.com/artist/2WssrSCJ4rSLFIQUqmRsxp) | [She speaks in numbers](https://open.spotify.com/album/7yoOw4R6VsdhlY4d2z0Z5G) | 3:30 | 2026-06-16 |  |
 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-05-09 |  |
 | [She's mine \(An Absinthe metal dream\)](https://open.spotify.com/track/2msLYQewP2aE1b3c9vCfY3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 2:55 | 2025-09-17 |  |
 | [She's My Poison](https://open.spotify.com/track/6hOC8kbaSGJr214qQoykzA) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 2:21 | 2026-01-31 |  |
@@ -4050,7 +4053,7 @@
 | [Un' onda](https://open.spotify.com/track/3UmS2HUoeK4JGGUOMMFapJ) | [Sono](https://open.spotify.com/artist/4I9E7P0A63ze5UdhH43gpK) | [Un' onda](https://open.spotify.com/album/60HBMqhAwyWOs81RK7YafS) | 4:38 | 2025-05-27 |  |
 | [Una Canción de Lo Que Hablan Todas las Canciones Siempre \- Anacondo Dance Version](https://open.spotify.com/track/5wOQK4Du8KrwQn0NKpVZXB) | [enBlanco](https://open.spotify.com/artist/17gjfzO56AehoTInqXDxeP), [Anacondo](https://open.spotify.com/artist/6x9hfw0qWBeMIe3mJ9u16d) | [Una Canción de Lo Que Hablan Todas las Canciones Siempre \(Anacondo Dance Version\)](https://open.spotify.com/album/7A26kjscDVyLRkchQ8c9Ol) | 4:14 | 2026-02-02 |  |
 | [Una Canzone Senza Nome](https://open.spotify.com/track/7wUxJIQ940hZVE0aUL7MFC) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 2:17 | 2025-10-23 |  |
-| [una luce dentro me](https://open.spotify.com/track/3bACK6FuhWg4suuJWRNoH6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:52 | 2025-12-10 |  |
+| [Una Luce dentro Me](https://open.spotify.com/track/3bACK6FuhWg4suuJWRNoH6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:52 | 2025-12-10 |  |
 | [Una Panda Maledetta](https://open.spotify.com/track/3YSr6ntqay8mKYTx7csFbv) | [Half Artificial](https://open.spotify.com/artist/7aBDAeoamWn8l2FAE9wNLN) | [Italian Song 1](https://open.spotify.com/album/2hdtBcVr28dJZuSNtJRMNk) | 3:44 | 2025-08-08 |  |
 | [Una Star in Declino](https://open.spotify.com/track/3nH5Q66fQRipVFLSo1HK1M) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [CRINGE](https://open.spotify.com/album/5tmgSk2cwKZEne551QfWWE) | 2:09 | 2025-05-12 |  |
 | [Una vez mas](https://open.spotify.com/track/1AmAhtHgySKgHaiqVF2SmK) | [Matías Alexander](https://open.spotify.com/artist/5cO6QvYJ3x2cUUM2OUUlro) | [La Fábrica](https://open.spotify.com/album/471lcz1rqcUWoqmL01bcxv) | 2:55 | 2025-04-01 |  |
@@ -4181,7 +4184,7 @@
 | [Voi tempio del suo amore](https://open.spotify.com/track/6duHfI87CM4gpmtWsWojDP) | [Edoardo Tincani](https://open.spotify.com/artist/76cMAkIwyKyBUx8GbW3qXF) | [AEDO](https://open.spotify.com/album/4eVrnvJtuYhXH9dT9mC2nH) | 3:39 | 2025-06-29 |  |
 | [Void](https://open.spotify.com/track/63lJnunhG6aZznnGSwIwFY) | [Atopics](https://open.spotify.com/artist/4zrFaxH2qgffuRDxgna5wI) | [Void](https://open.spotify.com/album/0Bxhc1ozn3sFXfBVEztfni) | 3:33 | 2025-06-11 |  |
 | [Void](https://open.spotify.com/track/7sMgyUSWdvH9XMOh4R21lh) | [Sireno](https://open.spotify.com/artist/0XPMrfe6A6QuoovKqDQklh) | [Love is Rage](https://open.spotify.com/album/1cbpcAcUfHMbjA2eV60tAn) | 2:10 | 2025-05-28 |  |
-| [Void Universe](https://open.spotify.com/track/6G0oEwBz3LBTTlooZd0BMW) | [UAC Records](https://open.spotify.com/artist/5YMC2DzzURBLoxLrUKOyF6) | [Void Universe](https://open.spotify.com/album/5M58cr7ds1CDZKiNvSmFxq) | 1:56 | 2025-07-03 |  |
+| [Void Universe](https://open.spotify.com/track/6G0oEwBz3LBTTlooZd0BMW) | [Raxor Echo](https://open.spotify.com/artist/3jhsJILxW1srrCzxC2vt2U) | [Void Universe](https://open.spotify.com/album/5M58cr7ds1CDZKiNvSmFxq) | 1:56 | 2025-07-03 |  |
 | [Vola Con Me](https://open.spotify.com/track/1AmCkWduAoYpgbQ7UdFaoP) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Vola Con Me](https://open.spotify.com/album/5kKJkej7PeeDuVFTTIamFT) | 3:35 | 2025-05-10 |  |
 | [Volerò](https://open.spotify.com/track/6Dx4XY1g4Zez7HFaPznUiV) | [Luca Caperna](https://open.spotify.com/artist/3Qv0BzsqKNH5yUtu0EXM1X) | [Volerò](https://open.spotify.com/album/3iVLPyv5X1BfCXEbQh8TNo) | 3:38 | 2025-07-07 |  |
 | [Vortice di Stelle](https://open.spotify.com/track/0PnGnecTwUg4pAC1CPWEvP) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 1:59 | 2025-09-15 |  |

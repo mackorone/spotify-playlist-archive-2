@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl?si=mHDa1yRURWKIxNU4bmrDMQ"> Steph Kapela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,691 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,698 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

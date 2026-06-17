@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,275 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,273 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 15 | [Chameleon](https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5), [千 \(CV.立花慎之介\)](https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh), [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Chameleon](https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4) | 3:30 |
 | 16 | [Polished](https://open.spotify.com/track/4G3AX1HYUypLWwTMTaWLYZ) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [Polished](https://open.spotify.com/album/0AsMiHzhdfZ5oGQ7cCNNGA) | 4:29 |
 | 17 | [Tenuto](https://open.spotify.com/track/5GITkeU06Cn3mrFCz2eQ55) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Tenuto](https://open.spotify.com/album/5zI76VBCBUciGGE2gErCYo) | 2:50 |
-| 18 | [Heart to Heart](https://open.spotify.com/track/3Ro76WHTJlOKxPlM5J0Acq) | [狗丸トウマ \(CV.木村 昴\)](https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM), [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25) | [Heart to Heart](https://open.spotify.com/album/0omNgjOGsdPCTw6o9RF0ck) | 3:53 |
+| 18 | [I believe in...](https://open.spotify.com/track/4gIWIFVf5sS0UBSqJlDnf1) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [I believe in...](https://open.spotify.com/album/1S9Q4uwWgeHVVU8eQqliLB) | 3:45 |
 | 19 | [UNFOLDiNG HARMONY](https://open.spotify.com/track/6jmpRE8C27breHqbZzI3El) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [UNFOLDiNG HARMONY](https://open.spotify.com/album/7N0cDT8FRIsiEmXjlSfAaH) | 3:44 |
-| 20 | [I believe in...](https://open.spotify.com/track/4gIWIFVf5sS0UBSqJlDnf1) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [I believe in...](https://open.spotify.com/album/1S9Q4uwWgeHVVU8eQqliLB) | 3:45 |
+| 20 | [Heart to Heart](https://open.spotify.com/track/3Ro76WHTJlOKxPlM5J0Acq) | [狗丸トウマ \(CV.木村 昴\)](https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM), [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25) | [Heart to Heart](https://open.spotify.com/album/0omNgjOGsdPCTw6o9RF0ck) | 3:53 |
 | 21 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
 | 22 | [ZONE OF OVERLAP](https://open.spotify.com/track/3G7t21C567I2ryejOVX2ue) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Bang!Bang!Bang!](https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg) | 4:01 |
 | 23 | [星屑マジック](https://open.spotify.com/track/71wKxVrk9r6LHmfHjPFagJ) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:33 |

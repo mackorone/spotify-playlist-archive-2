@@ -2,7 +2,7 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Damini Bhatla, Manisha Eerabathini, Pho
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Ravichander
 
 537 songs - 1 day 8 hr 8 min
 

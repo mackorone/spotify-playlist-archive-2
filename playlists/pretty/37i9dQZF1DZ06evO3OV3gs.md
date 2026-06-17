@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,928 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,985 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 49 | [I'll Remember \(Theme from the Motion Picture With Honors\)](https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:23 |
 | 50 | [Celebration](https://open.spotify.com/track/1MQTYbCmC1IvL94JtGB33E) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Remixes\)](https://open.spotify.com/album/08ultWv4w3KP7wJ6LQtU2t) | 3:35 |
 
-Snapshot ID: `ai3vAAAAAAD1H2JguV1ZHezEp46a2TuZ`
+Snapshot ID: `ai9AgAAAAAAhfs/zQZIRsgDZwNovBpQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,094 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,196 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 33 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
 | 34 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 |
 | 35 | [Kleptomaniac](https://open.spotify.com/track/52hhvUNX3OaAI4MP7suPBw) | [Aemia](https://open.spotify.com/artist/7moBZujRHUZsfdHu9eAkG1) | [Kleptomaniac](https://open.spotify.com/album/2svG7sxs570d5D5xChUVbN) | 3:13 |
-| 36 | [Scream](https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 4:48 |
-| 37 | [Overflow](https://open.spotify.com/track/7diOv6wm3ngF7Vt6ubK0Sf) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:31 |
+| 36 | [Overflow](https://open.spotify.com/track/7diOv6wm3ngF7Vt6ubK0Sf) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:31 |
+| 37 | [Scream](https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 4:48 |
 | 38 | [Weak And Powerless](https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 3:15 |
 | 39 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
 | 40 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 78 | [I Feel Everything](https://open.spotify.com/track/2VruwjihpGLyBmLuEqE7i2) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [I Feel Everything](https://open.spotify.com/album/2ocVKzxMyOPFzVRLl7b15B) | 2:55 |
 | 79 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:05 |
 | 80 | [The Hunger](https://open.spotify.com/track/2bLNXRbC7Q2s9s7tVDdjJv) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/7oaCMCOJ3qSnpALIuv38aL) | 4:39 |
-| 81 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 |
-| 82 | [Wet Dreams](https://open.spotify.com/track/7gU7RWO1r3yUPVagFTfbi6) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Wet Dreams](https://open.spotify.com/album/0CpfMb1CvPursI3CGbzAWN) | 2:37 |
+| 81 | [Wet Dreams](https://open.spotify.com/track/7gU7RWO1r3yUPVagFTfbi6) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Wet Dreams](https://open.spotify.com/album/0CpfMb1CvPursI3CGbzAWN) | 2:37 |
+| 82 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 |
 | 83 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
 | 84 | [Love me, slow](https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1) | [Love me, slow](https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K) | 3:53 |
 | 85 | [my mistake...](https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 5:16 |

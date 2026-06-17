@@ -2872,7 +2872,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 212218,
       "name": "Flavie s'en va",
       "url": "https://open.spotify.com/track/7McJTrpBlAvRKgwEl4teap"
@@ -7430,7 +7430,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 266047,
       "name": "Packing Away",
       "url": "https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m"
@@ -9729,6 +9729,24 @@
     },
     {
       "album": {
+        "name": "The Music That Makes Me Dance",
+        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307567,
+      "name": "The Music That Makes Me Dance",
+      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
+    },
+    {
+      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
       },
@@ -10868,6 +10886,28 @@
       "duration_ms": 225139,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE"
+    },
+    {
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        },
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238983,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
     },
     {
       "album": {

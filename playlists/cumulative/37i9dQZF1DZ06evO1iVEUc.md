@@ -4,7 +4,7 @@
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 20 min
+67 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [I Ain’t Hearin’ U](https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 3:26 | 2025-03-11 |  |
 | [I Wanna Thank Ya \(feat\. Snoop Dogg\) \- Radio Edit](https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [I Wanna Thank Ya](https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF) | 3:47 | 2025-03-11 | 2025-12-26 |
 | [I Wanna Thank Ya \(feat\. Snoop Dogg\) \- Radio Edit](https://open.spotify.com/track/1czczFfdsmQyH0qUnH8Clk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [I Wanna Thank Ya \(feat\. Snoop Dogg\) \[Radio Edit\]](https://open.spotify.com/album/2P5fZ0GeRsbMViExlAWJKO) | 3:49 | 2025-12-26 |  |
+| [I Wasn't Kidding \(Original Radio Edit\)](https://open.spotify.com/track/2mE4Rm30mmvZlDWu3EVcKl) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dance Vault Mixes \- I Wasn't Kidding](https://open.spotify.com/album/6528GcRgH2UDvBs8d18HpL) | 4:30 | 2026-06-17 |  |
 | [In the Air Tonight](https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 4:05 | 2025-03-11 |  |
 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 | 2025-03-11 |  |
 | [It's Too Late](https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 4:08 | 2025-03-11 |  |
@@ -62,7 +63,7 @@
 | [Sometimes](https://open.spotify.com/track/5t7WzdcErLIPufgA7HRJNp) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:20 | 2025-03-11 | 2025-12-30 |
 | [Stay For A While \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 4:01 | 2025-03-11 |  |
 | [Stoned Love \(Intro\)](https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 0:35 | 2025-03-11 | 2025-07-18 |
-| [Stylin'](https://open.spotify.com/track/7MQKwtihNSk435BmiQokl1) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Sing \(If You Want It\)](https://open.spotify.com/album/5cc7w5H22O8rQ3KIOWs1Io) | 4:48 | 2026-05-19 |  |
+| [Stylin'](https://open.spotify.com/track/7MQKwtihNSk435BmiQokl1) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Sing \(If You Want It\)](https://open.spotify.com/album/5cc7w5H22O8rQ3KIOWs1Io) | 4:48 | 2026-05-19 | 2026-06-17 |
 | [Take Everything In](https://open.spotify.com/track/0S9J927viE05YinAFLoUUi) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:50 | 2025-03-11 | 2025-11-21 |
 | [The Gym](https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:19 | 2025-03-11 | 2025-11-20 |
 | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro) | 3:27 | 2025-03-11 |  |

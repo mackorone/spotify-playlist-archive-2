@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36025,
+  "num_followers": 36024,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "X-SLIDE",
-        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
-      },
-      "artists": [
-        {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
-        },
-        {
-          "name": "808iuli",
-          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
-        }
-      ],
-      "duration_ms": 79452,
-      "name": "X-SLIDE",
-      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Step Back!",
         "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
       },
@@ -899,6 +879,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "X-SLIDE",
+        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        },
+        {
+          "name": "808iuli",
+          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
+        }
+      ],
+      "duration_ms": 79452,
+      "name": "X-SLIDE",
+      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "BRODYAGA FUNK",
         "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 134785,
       "name": "BRODYAGA FUNK",
       "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "ESTA NOCHE",
-        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        }
-      ],
-      "duration_ms": 68702,
-      "name": "ESTA NOCHE",
-      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -947,6 +931,22 @@
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "ESTA NOCHE",
+        "url": "https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        }
+      ],
+      "duration_ms": 68702,
+      "name": "ESTA NOCHE",
+      "url": "https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Duro",
-        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Duro",
-      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "AVANGARD",
         "url": "https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc"
       },
@@ -1287,6 +1287,42 @@
       "duration_ms": 156843,
       "name": "AVANGARD",
       "url": "https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "duration_ms": 140459,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1311,42 +1347,6 @@
       "duration_ms": 240000,
       "name": "Where You Are - GRiZ Remix",
       "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        },
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 140459,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 147777,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "In My Arms",
-        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "In My Arms",
-      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1875,7 +1875,7 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Free",
+        "name": "FREE",
         "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
       },
       "artists": [
@@ -1893,8 +1893,28 @@
         }
       ],
       "duration_ms": 236291,
-      "name": "Free",
+      "name": "FREE",
       "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "girl EDM (disc 1)",
+        "url": "https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "duration_ms": 127634,
+      "name": "Angel Music",
+      "url": "https://open.spotify.com/track/42oFAKZp13nkMiEkDVGu7Q"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1919,26 +1939,6 @@
       "duration_ms": 199183,
       "name": "PULL ME CLOSER",
       "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "girl EDM (disc 1)",
-        "url": "https://open.spotify.com/album/25y6RQ7kNtXfELXhT4QfjN"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "MGNA Crrrta",
-          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
-        }
-      ],
-      "duration_ms": 127634,
-      "name": "Angel Music",
-      "url": "https://open.spotify.com/track/42oFAKZp13nkMiEkDVGu7Q"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Dead Limit",
         "url": "https://open.spotify.com/album/2GrwgZ5612sxcPV9VboIL7"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 202857,
       "name": "Dead Limit",
       "url": "https://open.spotify.com/track/6PuAn6ieP9AfgAXV8n4RNN"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Eternal Pursuit",
-        "url": "https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/2S0U0ZFayIOw4L1BQancT3"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Eternal Pursuit",
+        "url": "https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/2S0U0ZFayIOw4L1BQancT3"
     },
     {
       "added_at": "2026-04-13 15:38:24",

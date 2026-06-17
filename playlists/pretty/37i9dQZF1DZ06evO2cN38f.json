@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1573,
+  "num_followers": 1574,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAATzHgZMkCJWX/Pch1q2nvC",
+  "snapshot_id": "ai9AgAAAAAD6JaLllRU8WmCJfv+YfruB",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+        "name": "What You Done",
+        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
       },
       "artists": [
         {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
         }
       ],
-      "duration_ms": 197216,
-      "name": "Private Eye",
-      "url": "https://open.spotify.com/track/3p9hpCzQhH2oz8KO9fZyhD"
+      "duration_ms": 174048,
+      "name": "What You Done",
+      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
     },
     {
       "added_at": null,
@@ -227,22 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You Done",
-        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
       "artists": [
         {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         },
         {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 174048,
-      "name": "What You Done",
-      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
+      "duration_ms": 197216,
+      "name": "Private Eye",
+      "url": "https://open.spotify.com/track/3p9hpCzQhH2oz8KO9fZyhD"
     },
     {
       "added_at": null,

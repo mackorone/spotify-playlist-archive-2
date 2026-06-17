@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAgZ2IbkhEXpve3uA0xhdECYlUEDJDP",
+  "snapshot_id": "AAAgaWPgiVJCiL38KQRAtDduFEp9cEnH",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -4819,6 +4819,46 @@
       "duration_ms": 264866,
       "name": "The Roc (Just Fire)",
       "url": "https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK"
+    },
+    {
+      "added_at": "2026-06-16 19:49:14",
+      "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/42feJVPnUA9XMr8zguqf4y"
+        },
+        {
+          "name": "Sarah Green",
+          "url": "https://open.spotify.com/artist/2PTjj9HWiVqAVknWeBzz3t"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "He Say She Say (feat. Gemini & Sarah Green)",
+      "url": "https://open.spotify.com/track/4ytRdqHgKAVxtVsjaC2ZZN"
+    },
+    {
+      "added_at": "2026-06-16 20:30:07",
+      "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 312933,
+      "name": "The Coolest",
+      "url": "https://open.spotify.com/track/1R6nmC4HUGOGSKU02Wqa0v"
     }
   ],
   "unique_name": "main ",

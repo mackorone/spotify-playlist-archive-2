@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,862,459 likes - 76 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,862,617 likes - 76 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 40 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
 | 41 | [WE ON GO II \(feat\. Denzel Curry\)](https://open.spotify.com/track/4M0jSlN1MOaVRbA3Shr0FV) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 3:15 |
 | 42 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
-| 43 | [MR HIM](https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [MR HIM](https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK) | 2:29 |
-| 44 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |
+| 43 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |
+| 44 | [MR HIM](https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [MR HIM](https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK) | 2:29 |
 | 45 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 |
 | 46 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 |
 | 47 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,002,020 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,001,660 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 68 | [St\. Augustine](https://open.spotify.com/track/6dG4m4wqyU4jeeb1JYWQj6) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [St\. Augustine](https://open.spotify.com/album/1wW1IczQXfuL58LT1pQfdA) | 3:30 |
 | 69 | [I Tried](https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [I Tried](https://open.spotify.com/album/0m6Rqk4Dgy7D8XEvTbrVuZ) | 4:26 |
 | 70 | [Man Overboard](https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW) | [Man Overboard](https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z) | 2:56 |
-| 71 | [Greenline](https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Catacombs](https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N) | 2:52 |
-| 72 | [Coming up Close](https://open.spotify.com/track/2qE6zpGRhpSYPjVla2bhnw) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Lexington EP](https://open.spotify.com/album/4XaCFbFKLxaya4w25CCexy) | 4:22 |
+| 71 | [Coming up Close](https://open.spotify.com/track/2qE6zpGRhpSYPjVla2bhnw) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Lexington EP](https://open.spotify.com/album/4XaCFbFKLxaya4w25CCexy) | 4:22 |
+| 72 | [Greenline](https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA) | [Honeysuckle](https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f) | [Catacombs](https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N) | 2:52 |
 | 73 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 |
 | 74 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |
 | 75 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |

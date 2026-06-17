@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 413773,
+  "num_followers": 413869,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 247050,
+      "name": "Godlight",
+      "url": "https://open.spotify.com/track/3cgf3PmzUZKLCRulrKrzZG"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 206722,
       "name": "Paris, Texas (feat. SYML)",
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 247050,
-      "name": "Godlight",
-      "url": "https://open.spotify.com/track/3cgf3PmzUZKLCRulrKrzZG"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 291791,
       "name": "I Come With Mud",
       "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Slow Hands (Acoustic)",
-        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 160592,
-      "name": "Slow Hands - Acoustic",
-      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "I Know What I Want",
         "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 230260,
       "name": "5 More Minutes",
       "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Slow Hands (Acoustic)",
+        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 160592,
+      "name": "Slow Hands - Acoustic",
+      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "Waiting (Demo)",
+        "url": "https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 101475,
+      "name": "Waiting - Demo",
+      "url": "https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "S.O.S.: Save Our Soul",
         "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 167120,
       "name": "simple times",
       "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "Waiting (Demo)",
-        "url": "https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 101475,
-      "name": "Waiting - Demo",
-      "url": "https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "No California (Acoustic)",
-        "url": "https://open.spotify.com/album/5zqraPEFDXktwswb2oAMWr"
-      },
-      "artists": [
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "No California (Acoustic)",
-      "url": "https://open.spotify.com/track/6edgeq26tWvvXnw8gw86jU"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "No California (Acoustic)",
+        "url": "https://open.spotify.com/album/5zqraPEFDXktwswb2oAMWr"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "No California (Acoustic)",
+      "url": "https://open.spotify.com/track/6edgeq26tWvvXnw8gw86jU"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Early Morning Coffee Cups",
-        "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
+        "name": "Hello Ramona",
+        "url": "https://open.spotify.com/album/54hcOJOTswayrQFhDwhbUY"
       },
       "artists": [
         {
-          "name": "Jaimi Faulkner",
-          "url": "https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf"
+          "name": "Chase McBride",
+          "url": "https://open.spotify.com/artist/6RlaScSXjYLYi4RAq4FgCX"
         }
       ],
-      "duration_ms": 199853,
-      "name": "Early Morning Coffee Cups",
-      "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
+      "duration_ms": 226349,
+      "name": "Hello Ramona",
+      "url": "https://open.spotify.com/track/4N4HzoD9Dp7b8eGqDfBreY"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Hello Ramona",
-        "url": "https://open.spotify.com/album/54hcOJOTswayrQFhDwhbUY"
+        "name": "Early Morning Coffee Cups",
+        "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
       },
       "artists": [
         {
-          "name": "Chase McBride",
-          "url": "https://open.spotify.com/artist/6RlaScSXjYLYi4RAq4FgCX"
+          "name": "Jaimi Faulkner",
+          "url": "https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf"
         }
       ],
-      "duration_ms": 226349,
-      "name": "Hello Ramona",
-      "url": "https://open.spotify.com/track/4N4HzoD9Dp7b8eGqDfBreY"
+      "duration_ms": 199853,
+      "name": "Early Morning Coffee Cups",
+      "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "Give Me The Reason",
-      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 234186,
+      "name": "Give Me The Reason",
+      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 168798,
-      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 174146,
       "name": "Safeword",
       "url": "https://open.spotify.com/track/3FIcE9t4VtHLVNwaMSRALs"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2067,26 +2067,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Don't Fade",
         "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 220637,
       "name": "Bluebird - Acoustic",
       "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Golden Chain",
-        "url": "https://open.spotify.com/album/14PUEVnypcneI7OHA9yGly"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 169480,
-      "name": "Golden Chain",
-      "url": "https://open.spotify.com/track/0yOsYFyMpjwPtmWLGxYGQz"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "German Cars",
         "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 215903,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Golden Chain",
+        "url": "https://open.spotify.com/album/14PUEVnypcneI7OHA9yGly"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "Golden Chain",
+      "url": "https://open.spotify.com/track/0yOsYFyMpjwPtmWLGxYGQz"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Friendly Fire",
-      "url": "https://open.spotify.com/track/1u71gNzUwTjgfYmArCUD0m"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "LEMONS",
         "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 239213,
       "name": "Walking Home to You",
       "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/1u71gNzUwTjgfYmArCUD0m"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Abilene",
         "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 256000,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2659,22 +2659,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Goodbye Mr Blue",
-        "url": "https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr Blue",
-      "url": "https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -2691,22 +2675,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 226957,
-      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "American Recordings",
         "url": "https://open.spotify.com/album/4uc19QGmrmKLoGxTjS94IE"
       },
@@ -2719,6 +2687,38 @@
       "duration_ms": 123301,
       "name": "Chicago Flood",
       "url": "https://open.spotify.com/track/0rMXSI71nsDlBDkKbCUd4d"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Goodbye Mr Blue",
+        "url": "https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr Blue",
+      "url": "https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 226957,
+      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Mud Blood Bone",
-        "url": "https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 195314,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/1fSj1wldqrtSdZvTrvBZkq"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Starfire",
         "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 190057,
       "name": "Cheap Date",
       "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Mud Blood Bone",
+        "url": "https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 195314,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1fSj1wldqrtSdZvTrvBZkq"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3019,22 +3019,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "rest in peace",
-        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 191910,
-      "name": "rest in peace",
-      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Falling in Love",
         "url": "https://open.spotify.com/album/5UcEl0EyV0MfNJsJAQLKru"
       },
@@ -3047,6 +3031,22 @@
       "duration_ms": 204549,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/2VQ86zc6pRjhvZFCs3QGKP"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "rest in peace",
+        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 191910,
+      "name": "rest in peace",
+      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3299,22 +3299,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Incomprehensible",
-        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Incomprehensible",
-      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "a lighter shade of blue",
         "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
       },
@@ -3327,6 +3311,22 @@
       "duration_ms": 213766,
       "name": "blue",
       "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 174177,
+      "name": "Happy Anniversary, Stranger",
+      "url": "https://open.spotify.com/track/2PfEJ9Iqa0HU5Nw5iwXTmq"
     }
   ],
   "unique_name": "Morning Coffee",

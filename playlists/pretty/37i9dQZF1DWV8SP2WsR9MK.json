@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 129203,
+  "num_followers": 129246,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Arclight",
-        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 199015,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
+      "duration_ms": 217400,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+        "name": "Arclight",
+        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
       },
       "artists": [
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 217400,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT"
+      "duration_ms": 199015,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 394333,
-      "name": "Angel Face",
-      "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
+      "duration_ms": 290000,
+      "name": "All Across The City",
+      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 290000,
-      "name": "All Across The City",
-      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
+      "duration_ms": 394333,
+      "name": "Angel Face",
+      "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Homes",
-        "url": "https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr"
-      },
-      "artists": [
-        {
-          "name": "Gilad Hekselman",
-          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
-        }
-      ],
-      "duration_ms": 431973,
-      "name": "Samba Em Prel\u00f9dio",
-      "url": "https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Hand-Crafted Swing",
         "url": "https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 370866,
       "name": "The Nearness Of You - Instrumental",
       "url": "https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Homes",
+        "url": "https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr"
+      },
+      "artists": [
+        {
+          "name": "Gilad Hekselman",
+          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
+        }
+      ],
+      "duration_ms": 431973,
+      "name": "Samba Em Prel\u00f9dio",
+      "url": "https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX"
     },
     {
       "added_at": "2025-09-10 12:20:14",

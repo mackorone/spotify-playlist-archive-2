@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 933003,
+  "num_followers": 933134,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAao5ZmTkv0tDZU3KsPbAuA",
+  "snapshot_id": "ai9AgAAAAAC1RoOi9eEQEKuGscI/9wrj",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can I Get an Outlaw",
-        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Can I Get an Outlaw",
-      "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fathers & Sons",
         "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 210721,
       "name": "In Case I Ain't Around",
       "url": "https://open.spotify.com/track/52lejmjP4o5bcZSAWKtXR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can I Get an Outlaw",
+        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Can I Get an Outlaw",
+      "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
     }
   ],
   "unique_name": "This Is Luke Combs",

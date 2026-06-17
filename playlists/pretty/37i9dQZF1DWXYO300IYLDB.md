@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,863 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,857 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 38 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
 | 39 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
 | 40 | [Who Knows](https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Who Knows](https://open.spotify.com/album/1yFSk5BGw4B2fDnwJ7hulw) | 2:51 |
-| 41 | [Say My Name \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj) | 4:27 |
-| 42 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
+| 41 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
+| 42 | [Say My Name \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj) | 4:27 |
 | 43 | [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 |
 | 44 | [Save Tonight](https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Save Tonight](https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI) | 4:30 |
 | 45 | [Soft Spot \- Acoustic](https://open.spotify.com/track/7FB6Nx7TK8y1Ke8dY6ROpQ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Soft Spot \(Alternate Versions\)](https://open.spotify.com/album/54QpKvhFEDWb9U0NhSeZVe) | 3:28 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 52 | [Bloom](https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY) | 2:53 |
 | 53 | [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 |
 | 54 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 |
-| 55 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 |
-| 56 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
-| 57 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
-| 58 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
+| 55 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
+| 56 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
+| 57 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
+| 58 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 |
 | 59 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
 | 60 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 |
 | 61 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu) | 2:57 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 88 | [Waterfall](https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm) | 3:17 |
 | 89 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
 | 90 | [灯り](https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [灯り](https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7) | 4:46 |
-| 91 | [このオンガクと共に](https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [このオンガクと共に](https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6) | 2:45 |
+| 91 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
 | 92 | [Heaven \(Butterflies\)](https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Heaven \(Butterflies\)](https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4) | 4:57 |
-| 93 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
+| 93 | [このオンガクと共に](https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [このオンガクと共に](https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6) | 2:45 |
 | 94 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 95 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
 | 96 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 |

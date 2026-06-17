@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 204430,
+  "num_followers": 204497,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADZWD+H2OODXberHAzTm4Mo",
+  "snapshot_id": "ai9AgAAAAADWTt0nOoLw6yiOOEQ0K/cc",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "200 FOR LUNCH",
-      "url": "https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 142226,
       "name": "livin wild",
       "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "200 FOR LUNCH",
+      "url": "https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM"
     },
     {
       "added_at": null,

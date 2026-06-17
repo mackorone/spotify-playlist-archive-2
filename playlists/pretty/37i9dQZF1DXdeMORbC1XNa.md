@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: NSG
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,010 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,015 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 37 | [Black Girl Magic](https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:17 |
 | 38 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 39 | [Isn't It Beautiful](https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Isn't It Beautiful](https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK) | 2:36 |
-| 40 | [Worthwhile](https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Worthwhile](https://open.spotify.com/album/1OcnDnSl6uryQgYcjJWHS0) | 2:53 |
-| 41 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 |
+| 40 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 |
+| 41 | [Worthwhile](https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Worthwhile](https://open.spotify.com/album/1OcnDnSl6uryQgYcjJWHS0) | 2:53 |
 | 42 | [See What We've Done](https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42) | 3:05 |
 | 43 | [Goddess \(with Shenseea\)](https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Goddess](https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT) | 3:26 |
 | 44 | [NEW TINGZ](https://open.spotify.com/track/4Pl2d8rQHO8hnFZR3RO244) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT \(Deluxe\): PGLA Edition](https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF) | 2:39 |

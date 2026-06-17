@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 479532,
+  "num_followers": 479592,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Peace flow",
-        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
+        "name": "Brume Matinale",
+        "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
       },
       "artists": [
         {
-          "name": "Jon Albreit",
-          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+          "name": "Valter Soll",
+          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
         }
       ],
-      "duration_ms": 137692,
-      "name": "Peace flow",
-      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
+      "duration_ms": 166910,
+      "name": "Brume Matinale",
+      "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -355,18 +355,18 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Brume Matinale",
-        "url": "https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA"
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
       },
       "artists": [
         {
-          "name": "Valter Soll",
-          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
         }
       ],
-      "duration_ms": 166910,
-      "name": "Brume Matinale",
-      "url": "https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF"
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Testimony (EP)",
-        "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Melton",
-          "url": "https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "D\u00e9sir",
         "url": "https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 163479,
       "name": "D\u00e9sir",
       "url": "https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Testimony (EP)",
+        "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Melton",
+          "url": "https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "The Tree",
-      "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 143624,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "The Tree",
+      "url": "https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Air from Air",
-        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
-      },
-      "artists": [
-        {
-          "name": "Yasuo Zen",
-          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
-        }
-      ],
-      "duration_ms": 199428,
-      "name": "Air from Air",
-      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Wake with me",
         "url": "https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
+        "name": "Air from Air",
+        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "duration_ms": 199428,
+      "name": "Air from Air",
+      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
         "name": "A Rose",
         "url": "https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 147810,
       "name": "A Rose",
       "url": "https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
-      },
-      "artists": [
-        {
-          "name": "Logan Jameison",
-          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1151,6 +1135,22 @@
       "duration_ms": 182500,
       "name": "Strosande",
       "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Logan Jameison",
+          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Kalmte",
-        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
-      },
-      "artists": [
-        {
-          "name": "Barry Hudson-Taylor",
-          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
-        }
-      ],
-      "duration_ms": 141736,
-      "name": "Languor",
-      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 155704,
       "name": "Distance",
       "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
+      },
+      "artists": [
+        {
+          "name": "Barry Hudson-Taylor",
+          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+        }
+      ],
+      "duration_ms": 141736,
+      "name": "Languor",
+      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Light of wintertime",
-        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 131295,
-      "name": "Light of wintertime",
-      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Glance Out A Casement Window",
         "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
+        "name": "Light of wintertime",
+        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 131295,
+      "name": "Light of wintertime",
+      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
         "name": "Laredo",
         "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
-      },
-      "artists": [
-        {
-          "name": "Jacques Blanc",
-          "url": "https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ"
-        }
-      ],
-      "duration_ms": 157860,
-      "name": "Bona Fide",
-      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 169617,
       "name": "A Time of Wonder",
       "url": "https://open.spotify.com/track/2SiUDrcdc9iewegA0TmH6s"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
+      },
+      "artists": [
+        {
+          "name": "Jacques Blanc",
+          "url": "https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ"
+        }
+      ],
+      "duration_ms": 157860,
+      "name": "Bona Fide",
+      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
     },
     {
       "added_at": "2026-05-08 09:59:25",

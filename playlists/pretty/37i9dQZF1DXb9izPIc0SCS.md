@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9izPIc0SCS.md) - [plain]
 
 > True indie rock hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,067 likes - 105 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,122 likes - 105 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

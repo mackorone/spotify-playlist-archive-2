@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,370 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,380 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 39 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
 | 40 | [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 |
 | 41 | [Trompo de Juguete](https://open.spotify.com/track/26YLEP0iOR8C8Ub38m7je1) | [Nacho Sanabria](https://open.spotify.com/artist/78JOr5y1zeRRDqcIJWmw4G) | [14 Grandes Exitos de Nacho Sanabria](https://open.spotify.com/album/7MkZgWtVL5mhtSASyFB51T) | 4:25 |
-| 42 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 |
-| 43 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
+| 42 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
+| 43 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 |
 | 44 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
 | 45 | [Alguien Me Dijo](https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Historia: Discografía Completa](https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg) | 3:34 |
 | 46 | [Cruel Condena](https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX) | [Franklin Cabrejos](https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN) | [Grandes del Bolero](https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw) | 2:49 |

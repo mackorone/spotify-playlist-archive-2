@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 
 > This is The Slits\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,248 likes - 34 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,246 likes - 34 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 | 3 | [Man Next Door](https://open.spotify.com/track/5KIdc61y8co2zgfiweoUm5) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Sherwood At The Controls: Volume 1 1979 \- 1984](https://open.spotify.com/album/7l6Rrf26u7qp9iU3iMIN4s) | 3:30 |
 | 4 | [Earthbeat \(7" Version\)](https://open.spotify.com/track/0xh2mM35Bnp4lm3GL5DLrk) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 3:50 |
 | 5 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
-| 6 | [FM](https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:33 |
+| 6 | [Spend, Spend, Spend](https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:15 |
 | 7 | [Slits Tradition](https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Revenge of the Killer Slits](https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6) | 3:20 |
 | 8 | [Difficult Fun](https://open.spotify.com/track/1US67bAlfUBKg1zwTgoY41) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:05 |
 | 9 | [Instant Hit](https://open.spotify.com/track/18sfTFdvZqJAtdqmVDCLNp) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 2:43 |
-| 10 | [Spend, Spend, Spend](https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:15 |
+| 10 | [FM](https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:33 |
 | 11 | [Kill Them Wtih love](https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Revenge of the Killer Slits](https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6) | 4:07 |
 | 12 | [Walkabout](https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:42 |
 | 13 | [Shoplifting](https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 1:35 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 | 33 | [A Boring Life](https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 3:00 |
 | 34 | [In The Beginning](https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 6:05 |
 
-Snapshot ID: `ai3vAAAAAAAGxF4yP74JDSz2BmyVo3/x`
+Snapshot ID: `ai9AgAAAAAD156HY/559nA6pa8TBzEq2`

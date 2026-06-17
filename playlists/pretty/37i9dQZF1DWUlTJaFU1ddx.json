@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 32718,
+  "num_followers": 32722,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "Lazemni Break",
+        "url": "https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT"
+      },
+      "artists": [
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 142848,
+      "name": "Lazemni Break",
+      "url": "https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "Balak",
         "url": "https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 184800,
       "name": "Balak",
       "url": "https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "Lazemni Break",
-        "url": "https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT"
-      },
-      "artists": [
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 142848,
-      "name": "Lazemni Break",
-      "url": "https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Ma Tarakna",
-        "url": "https://open.spotify.com/album/7bOBrNOz7Ey6GLfKyBj1a1"
-      },
-      "artists": [
-        {
-          "name": "Saif safadi",
-          "url": "https://open.spotify.com/artist/5YOpMW6wgD0l50bK1DBq74"
-        }
-      ],
-      "duration_ms": 198367,
-      "name": "Ma Tarakna",
-      "url": "https://open.spotify.com/track/59UWCOSGrNNrkFUn7rCZtS"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Al Forga",
         "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 177388,
       "name": "Al Forga",
       "url": "https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Ma Tarakna",
+        "url": "https://open.spotify.com/album/7bOBrNOz7Ey6GLfKyBj1a1"
+      },
+      "artists": [
+        {
+          "name": "Saif safadi",
+          "url": "https://open.spotify.com/artist/5YOpMW6wgD0l50bK1DBq74"
+        }
+      ],
+      "duration_ms": 198367,
+      "name": "Ma Tarakna",
+      "url": "https://open.spotify.com/track/59UWCOSGrNNrkFUn7rCZtS"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Dabke System",
-        "url": "https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G"
-      },
-      "artists": [
-        {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
-        }
-      ],
-      "duration_ms": 342784,
-      "name": "Dabke System",
-      "url": "https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Manama",
         "url": "https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 222439,
       "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
       "url": "https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Dabke System",
+        "url": "https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 342784,
+      "name": "Dabke System",
+      "url": "https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -783,8 +783,8 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Hala O Ghala",
-        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
+        "name": "Ma Bdi Heb",
+        "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 211282,
-      "name": "Hala O Ghala",
-      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
+      "duration_ms": 254394,
+      "name": "Ma Bdi Heb",
+      "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -863,8 +863,8 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Ma Bdi Heb",
-        "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
+        "name": "Hala O Ghala",
+        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 254394,
-      "name": "Ma Bdi Heb",
-      "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
+      "duration_ms": 211282,
+      "name": "Hala O Ghala",
+      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
     },
     {
       "added_at": "2024-12-21 19:38:19",

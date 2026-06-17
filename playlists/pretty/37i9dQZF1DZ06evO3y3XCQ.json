@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 5454,
+  "num_followers": 5456,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACu+f+7uR9cOJskNrjjBnvU",
+  "snapshot_id": "ai9AgAAAAABLSXOVmTk7NgcIEUb/LGpR",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Waves",
-        "url": "https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd"
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
       "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        },
-        {
-          "name": "Geoff Rickly",
-          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
-        },
         {
           "name": "Thursday",
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 283746,
-      "name": "The Lottery",
-      "url": "https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz"
+      "duration_ms": 201240,
+      "name": "Fast to the End",
+      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
     },
     {
       "added_at": null,
@@ -195,18 +187,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Devoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+        "name": "Violent Waves",
+        "url": "https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd"
       },
       "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        },
+        {
+          "name": "Geoff Rickly",
+          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
+        },
         {
           "name": "Thursday",
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Fast to the End",
-      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
+      "duration_ms": 283746,
+      "name": "The Lottery",
+      "url": "https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz"
     },
     {
       "added_at": null,

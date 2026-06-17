@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-194 songs - 10 hr 24 min
+195 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Sally/Hungry Eyes](https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ) | [June Vide](https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1) | [Sally/Hungry Eyes](https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ) | 3:27 | 2024-06-27 | 2024-08-25 |
 | [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 | 2024-10-10 |  |
 | [Sarkofag](https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Sarkofag](https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm) | 3:17 | 2024-06-27 |  |
-| [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-09 |  |
+| [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-09 | 2026-06-17 |
 | [Second Chances](https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Under Different Skies](https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL) | 3:31 | 2025-06-12 | 2025-07-17 |
 | [Show Me Something](https://open.spotify.com/track/2iRwKG094cE0wbj3PA94Xz) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Show Me Something](https://open.spotify.com/album/09iQb3DZanbhp8afJVzwN5) | 3:35 | 2025-08-21 | 2025-12-28 |
 | [Slott av luft](https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Slott av luft](https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n) | 2:41 | 2025-06-26 | 2025-11-01 |
@@ -171,6 +171,7 @@
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2024-06-27 |  |
 | [Stars](https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 3:05 | 2026-03-02 |  |
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-27 | 2024-07-20 |
+| [Stockholm](https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Stockholm](https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj) | 3:21 | 2026-06-11 |  |
 | [Stockholm](https://open.spotify.com/track/6ehSWpWjyuwbTx4yS1nUf7) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Nyanser av liv](https://open.spotify.com/album/5uyC93S9gBbzFQTcFdvnNz) | 1:58 | 2024-06-27 | 2024-10-25 |
 | [Stockholm är för stort](https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Stockholm är för stort](https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk) | 3:05 | 2026-03-02 |  |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,695 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,755 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 17 | [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 |
 | 18 | [Ella Salió a Bailar](https://open.spotify.com/track/4v0onUOF5JnWFEqQ3qlCSV) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:48 |
 | 19 | [Gente del General](https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 2:45 |
-| 20 | [Soy De Agiabampo](https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ) | [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Soy De Agiabampo](https://open.spotify.com/album/5kht3kei1benxfOUNZWycV) | 3:34 |
-| 21 | [Si Tu Jalas Yo Jalo](https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [La Vida Que Nos Toco](https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp) | 2:54 |
+| 20 | [Si Tu Jalas Yo Jalo](https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [La Vida Que Nos Toco](https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp) | 2:54 |
+| 21 | [Soy De Agiabampo](https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ) | [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Soy De Agiabampo](https://open.spotify.com/album/5kht3kei1benxfOUNZWycV) | 3:34 |
 | 22 | [Canto Pa' Desahogarme](https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:59 |
 | 23 | [El de la Gorra 27](https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:20 |
 | 24 | [Contra Mis Principios](https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Sin Perder El Estilo](https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF) | 3:46 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 35 | [El Chino \(En Vivo\)](https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm) | 2:47 |
 | 36 | [SANGRE AZTECA](https://open.spotify.com/track/7iOhOjm1FeFBqGtxCQdb9H) | [Airam Paez](https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [La Catrina De México](https://open.spotify.com/artist/7eoWBgCT692evDNaG8hMc4) | [Sangre Azteca](https://open.spotify.com/album/6DUgAPrpMqSn4ETY6vI5pb) | 3:47 |
 | 37 | [Tres Veladoras](https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 3:28 |
-| 38 | [24/7 Dolido](https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:55 |
-| 39 | [La Fuga del Jefe](https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 2:32 |
+| 38 | [La Fuga del Jefe](https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 2:32 |
+| 39 | [24/7 Dolido](https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:55 |
 | 40 | [Cómo Los Vaqueros](https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:18 |
 | 41 | [No Fue Suficiente](https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Aroma a Alcohol](https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm) | 3:01 |
 | 42 | [Estrenando Amante](https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Estrenando Amante](https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 |
 | 50 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 |
 
-Snapshot ID: `ai3vAAAAAACEzhg65NlhUSHEAyieVUyZ`
+Snapshot ID: `ai9AgAAAAABrzNH6WM9hUKnL3zQhomz6`

@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 78972,
+  "num_followers": 79060,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABRocp9b9mLuqO8ML8ejI6f",
+  "snapshot_id": "ai9AgAAAAACB1bAJC5YigLUaPOwOQwg2",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 162711,
+      "name": "Dupe",
+      "url": "https://open.spotify.com/track/4iCUs97QSPyYaFmzDa25Tb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 162711,
-      "name": "Dupe",
-      "url": "https://open.spotify.com/track/4iCUs97QSPyYaFmzDa25Tb"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 171385,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/5obTyAhp9xms15FjibgrBy"
+      "duration_ms": 100173,
+      "name": "Dull",
+      "url": "https://open.spotify.com/track/46gfN72BxmLvACx6Pve4XU"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 100173,
-      "name": "Dull",
-      "url": "https://open.spotify.com/track/46gfN72BxmLvACx6Pve4XU"
+      "duration_ms": 171385,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/5obTyAhp9xms15FjibgrBy"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 204279,
+      "name": "Uhh Yeahh",
+      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 156212,
       "name": "NO COMPETITION (feat. Asake)",
       "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 204279,
-      "name": "Uhh Yeahh",
-      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,363 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,505 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 24 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |
 | 25 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 26 | [Where I'm From](https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Belladonna \(ofc\) ](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ) | [Where I'm From](https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK) | 3:22 |
-| 27 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 |
-| 28 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 |
-| 29 | [Bombacid](https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Bombacid](https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN) | 3:24 |
+| 27 | [Bombacid](https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Bombacid](https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN) | 3:24 |
+| 28 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 |
+| 29 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 |
 | 30 | [our frequency](https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [our frequency](https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm) | 4:24 |
 | 31 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
 | 32 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |

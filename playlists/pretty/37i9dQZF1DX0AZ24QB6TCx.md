@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,943 likes - 70 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,951 likes - 70 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 19 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 |
 | 20 | [Extraordinary \- Radio Edit](https://open.spotify.com/track/2yAGQ2mDaMg4hfckXmkI8L) | [She Knows](https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer) | [Extraordinary](https://open.spotify.com/album/67Wo8I6Z0lG6Pb18DMlZkc) | 3:49 |
 | 21 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
-| 22 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
-| 23 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |
+| 22 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 |
+| 23 | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Cloudline \(Parra for Cuva Reimagination\)](https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi) | 4:56 |
 | 24 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 25 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 |
 | 26 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 42 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
 | 43 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 44 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
-| 45 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
-| 46 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
+| 45 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
+| 46 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
 | 47 | [Holy \- Frank Wiedemann Remix](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
 | 48 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 |
 | 49 | [Some Type of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/3JESF4y5o29QYebTheGju0) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU) | 3:24 |

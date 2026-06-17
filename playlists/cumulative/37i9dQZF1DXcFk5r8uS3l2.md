@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Sons of Legion
 
-494 songs - 1 day 6 hr 54 min
+495 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Savior](https://open.spotify.com/track/5gICNh1EHmDlpyWERFitXG) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Savior](https://open.spotify.com/album/7FH2YwQt08tTA8vnxkAwfy) | 3:43 | 2021-12-17 | 2022-07-29 |
 | [Saviour \- Unplugged](https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [House On Fire \(Deluxe Edition\)](https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj) | 3:21 | 2025-06-27 |  |
 | [Scoundrel](https://open.spotify.com/track/4j0WcNktMTebmrWzxiOOnQ) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/6fY05JCUUXTtFmDsYZ2ulw) | 3:49 | 2022-03-11 | 2022-07-29 |
-| [Seasons Change](https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu) | [Chadwick Johnson](https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV) | [Seasons Change](https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok) | 3:27 | 2024-10-04 |  |
+| [Seasons Change](https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu) | [Chadwick Johnson](https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV) | [Seasons Change](https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok) | 3:27 | 2024-10-04 | 2026-06-17 |
 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 | 2021-12-17 | 2023-02-25 |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 | 2022-01-28 | 2024-01-20 |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail part I](https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh) | 4:57 | 2021-12-17 | 2022-07-29 |
@@ -414,6 +414,7 @@
 | [Taking Me Higher](https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP) | 4:03 | 2023-03-31 | 2026-02-14 |
 | [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 | 2023-03-31 | 2024-04-19 |
 | [Teacher's Desk](https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Coast of Light](https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb) | 3:37 | 2026-03-27 | 2026-06-12 |
+| [That Sorta Thing](https://open.spotify.com/track/4h8BpG0sPKepkIg7cTUV5K) | [Mike Stocksdale](https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a) | [Connectors](https://open.spotify.com/album/0rNBrSecTs04QML7F4P84K) | 3:37 | 2026-06-05 |  |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-08-26 | 2023-03-11 |
 | [The Battle of Atlanta](https://open.spotify.com/track/6vwDgv1N8Iyv8YyMDpuUqx) | [Lee Bains + The Glory Fires](https://open.spotify.com/artist/1oTNCl6SRphYGb9NQ0toVE) | [The Battle of Atlanta](https://open.spotify.com/album/3UmdOo3j5KVnz4KBCtzu9K) | 5:16 | 2022-08-05 | 2022-08-13 |
 | [The Breeze](https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Breeze](https://open.spotify.com/album/20qckV3u4PYG6MHZSWJwhH) | 2:36 | 2022-09-02 | 2023-08-26 |

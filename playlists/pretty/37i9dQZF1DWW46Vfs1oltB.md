@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: NOWIAMYOUNG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,269 likes - 129 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,221 likes - 129 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
 | 2 | [HEAVEN](https://open.spotify.com/track/6mfSO0YMhvKFMNiEYIpO8J) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [HEAVEN](https://open.spotify.com/album/6RIjP9Egz5LLMMMDZ6e5ju) | 3:29 |
-| 3 | [STIGMATA](https://open.spotify.com/track/4qVWdknjmRgKPLTym3ENhh) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [POP IS CRYIN'](https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB) | 2:44 |
-| 4 | [LLLM \(feat\. Gaeko, ZICO\) \[prod\. Tray B\]](https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng) | [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [LLLM](https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm) | 3:45 |
-| 5 | [Noir city](https://open.spotify.com/track/4Vh09FFZ8WN1fIBZSSY56G) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [AMBITION 6/10](https://open.spotify.com/album/1czCsDYwmFQo5zfQav67MX) | 2:55 |
+| 3 | [Noir city](https://open.spotify.com/track/4Vh09FFZ8WN1fIBZSSY56G) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [AMBITION 6/10](https://open.spotify.com/album/1czCsDYwmFQo5zfQav67MX) | 2:55 |
+| 4 | [STIGMATA](https://open.spotify.com/track/4qVWdknjmRgKPLTym3ENhh) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [POP IS CRYIN'](https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB) | 2:44 |
+| 5 | [LLLM \(feat\. Gaeko, ZICO\) \[prod\. Tray B\]](https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng) | [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [LLLM](https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm) | 3:45 |
 | 6 | [Syagal \(Feat\. HAON\)](https://open.spotify.com/track/2D0pwJ3EgKwzB2HG7VJPDo) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Syagal](https://open.spotify.com/album/3QHkQAMj6XjHelwO3bGhI6) | 2:16 |
 | 7 | [Yarrr](https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Yarrr](https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ) | 2:46 |
 | 8 | [SMOKE \(feat\. LEY\)](https://open.spotify.com/track/2vLfXGQYqEVi9MaLoWv9KN) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [LEY](https://open.spotify.com/artist/5eHVUKdCnl66gpjClBrYO0) | [TONE](https://open.spotify.com/album/17tg66v5DCcXdSPiGFZr2U) | 2:55 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 128 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 |
 | 129 | [KrOWN\_J\-Tong](https://open.spotify.com/track/332lPwSuZvsMXVIxONyOPM) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [KrOWN Audio Liner](https://open.spotify.com/album/5IY9Xcarb6SgQt5nYPGiTF) | 0:02 |
 
-Snapshot ID: `AAAAAN6jdnN78ycqrNegd0wIOsxozthx`
+Snapshot ID: `AAAAAOfLGwetpi1w5+z/CtSN/Gw8SbmJ`

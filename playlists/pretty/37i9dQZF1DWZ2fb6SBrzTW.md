@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,392 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,409 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 35 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 |
 | 36 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 |
 | 37 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 |
-| 38 | [Back Outside](https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 |
-| 39 | [Double](https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Double](https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e) | 2:48 |
+| 38 | [Double](https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Double](https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e) | 2:48 |
+| 39 | [Back Outside](https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 |
 | 40 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 |
 | 41 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 |
 | 42 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 |
-| 43 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
-| 44 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 |
+| 43 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 |
+| 44 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
 | 45 | [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 |
 | 46 | [Sooner](https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sooner](https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q) | 2:49 |
 | 47 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |

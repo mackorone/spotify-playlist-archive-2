@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: BabyChiefDoIt
 
-1,601 songs - 3 day 0 hr 51 min
+1,604 songs - 3 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,8 @@
 | [High Tolerance](https://open.spotify.com/track/19PdOaQgCjuZy0kSL3aIr0) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [High Tolerance](https://open.spotify.com/album/0y2zbatXy9YPZnMDD9vRxN) | 2:25 | 2025-11-21 | 2025-12-06 |
 | [HIMSKI](https://open.spotify.com/track/2GZVpHT2acsRzMnrHFnL71) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [HIMSKI](https://open.spotify.com/album/4a9GRSayEVRnjUjqnnS95F) | 2:07 | 2024-09-13 | 2024-10-05 |
 | [HIPSTER ENCORE](https://open.spotify.com/track/2qa3alSm2Giio802ntz1tO) | [Thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi) | [HIPSTER ENCORE](https://open.spotify.com/album/3oTt1OqMF8N52EmSrlBJPj) | 2:31 | 2026-04-24 |  |
-| [HIT DIFFERENT](https://open.spotify.com/track/6XOO8uryATcyJftjX6OOFF) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [LAST HOPE](https://open.spotify.com/album/6UaQ7ED5SEPQRmQ6RhDIkw) | 3:38 | 2025-10-10 |  |
+| [HIT DIFFERENT](https://open.spotify.com/track/0OETntyQhJiYkWf5uWsDCZ) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [LAST HOPE](https://open.spotify.com/album/2fTiXv5a593B5EHKMtFKS4) | 3:37 | 2026-06-12 |  |
+| [HIT DIFFERENT](https://open.spotify.com/track/6XOO8uryATcyJftjX6OOFF) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [LAST HOPE](https://open.spotify.com/album/6UaQ7ED5SEPQRmQ6RhDIkw) | 3:38 | 2025-10-10 | 2026-06-17 |
 | [hmm…BD](https://open.spotify.com/track/0BJxFuVQIxaeAezRErWGHr) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [hmm…BD](https://open.spotify.com/album/04sMVbbQ24aeuHtIaplR8z) | 2:59 | 2024-07-05 | 2025-05-31 |
 | [Hoe Friends](https://open.spotify.com/track/65BwIfCNyTEHbLOnIVC4rk) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Hoe Friends](https://open.spotify.com/album/33iuBKRVOIb8ITqyyJvTKx) | 2:18 | 2022-12-09 | 2023-02-04 |
 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 | 2026-05-22 |  |
@@ -1237,7 +1238,8 @@
 | [Six Flags](https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Six Flags](https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk) | 2:03 | 2021-10-22 | 2022-02-12 |
 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-06-09 | 2024-01-13 |
 | [Skinny Suge II](https://open.spotify.com/track/5BBWTubm5NDw1tIQoGkfJo) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:11 | 2025-07-25 | 2026-05-30 |
-| [Skiplagged](https://open.spotify.com/track/11OGFPnluFsAYpL8qbjWWC) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Drake N Josh 3](https://open.spotify.com/album/13PDiWbQShUyMsDvvyK2Ap) | 1:56 | 2025-11-07 |  |
+| [Skiplagged](https://open.spotify.com/track/11OGFPnluFsAYpL8qbjWWC) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Drake N Josh 3](https://open.spotify.com/album/13PDiWbQShUyMsDvvyK2Ap) | 1:56 | 2025-11-07 | 2026-06-17 |
+| [Skiplagged](https://open.spotify.com/track/61cVvDUxIzSopcfAvjqTbg) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Drake N Josh 3](https://open.spotify.com/album/75RAOAiaK8FbUTsCeqtXbd) | 1:56 | 2026-06-12 |  |
 | [Skipper](https://open.spotify.com/track/2IEAEeX4LtxiYPdqt0C08y) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Where The Shooters Be 2](https://open.spotify.com/album/3Dh9beBJOjHIeIvwJBGgcf) | 1:42 | 2023-02-17 | 2023-06-03 |
 | [Skittle Head](https://open.spotify.com/track/5MgTt3qjGUhQYS1OPWhnas) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [STILL F.L.I.N.T\. \(Feeling Like I'm Not Through\)](https://open.spotify.com/album/01oWvWv3EpWPyZxrydvdUD) | 3:06 | 2025-09-19 | 2026-02-21 |
 | [Sko](https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Sko](https://open.spotify.com/album/0FigtA2FRPWenIdAu5ElwS) | 2:30 | 2022-12-16 | 2023-04-09 |
@@ -1525,7 +1527,8 @@
 | [Weighed It](https://open.spotify.com/track/47WReKBHKORDjsbglomYRj) | [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [Lights, Camera, Action](https://open.spotify.com/album/2jGAugOutckWYBOpNhVNAq) | 2:14 | 2025-06-06 | 2025-07-05 |
 | [Weight On My Shoulders](https://open.spotify.com/track/2dufQVp9S9MuVbHoDTG78y) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Weight On My Shoulders](https://open.spotify.com/album/2BWPGVKmzvbIM4fuwHM7jw) | 2:55 | 2026-06-12 |  |
 | [Went Hollywood For A Year](https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Went Hollywood For A Year](https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K) | 2:07 | 2024-06-28 | 2024-07-13 |
-| [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 | 2025-05-09 |  |
+| [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 | 2025-05-09 | 2026-06-17 |
+| [Went Legit \(Bonus\)](https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 2:20 | 2026-06-12 |  |
 | [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 | 2025-06-27 | 2025-08-10 |
 | [West to East \(feat\. 42 Dugg\)](https://open.spotify.com/track/7wbEwA6nnbdZA2QESPFdea) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [West to East \(feat\. 42 Dugg\)](https://open.spotify.com/album/3mbPS36EkFbEXWhIXCGqWa) | 2:17 | 2026-03-20 | 2026-05-16 |
 | [What A Life](https://open.spotify.com/track/5bjTLWk5cBOACEVPl3oqkU) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [What A Life](https://open.spotify.com/album/32OzT7FCnSUIqGZLTxJCzF) | 2:58 | 2021-10-22 | 2022-02-12 |

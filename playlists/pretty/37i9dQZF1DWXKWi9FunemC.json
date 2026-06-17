@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 399250,
+  "num_followers": 399308,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Den of Thieves",
-        "url": "https://open.spotify.com/album/5blEPQ4nWKz7h9rG53d3Sg"
-      },
-      "artists": [
-        {
-          "name": "Munn",
-          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
-        },
-        {
-          "name": "Dylan Stiles",
-          "url": "https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Den of Thieves",
-      "url": "https://open.spotify.com/track/60wo8E1JY2t33TVmm4xf7Q"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "The Sacrifice",
         "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
       },
@@ -647,18 +627,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Humbled Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/1aoY7Mo3qjETHzoMcrEvkl"
+        "name": "Den of Thieves",
+        "url": "https://open.spotify.com/album/5blEPQ4nWKz7h9rG53d3Sg"
       },
       "artists": [
         {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        },
+        {
+          "name": "Dylan Stiles",
+          "url": "https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij"
         }
       ],
-      "duration_ms": 268400,
-      "name": "Humbled Heart - Acoustic",
-      "url": "https://open.spotify.com/track/6jhF7v0Un40091J17aLKeL"
+      "duration_ms": 185893,
+      "name": "Den of Thieves",
+      "url": "https://open.spotify.com/track/60wo8E1JY2t33TVmm4xf7Q"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -675,6 +659,22 @@
       "duration_ms": 184148,
       "name": "My Love",
       "url": "https://open.spotify.com/track/6SfviYC7rfzKysyHLptSKl"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Humbled Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/1aoY7Mo3qjETHzoMcrEvkl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Humbled Heart - Acoustic",
+      "url": "https://open.spotify.com/track/6jhF7v0Un40091J17aLKeL"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1023,22 +1023,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "All That I Am",
-        "url": "https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN"
+        "name": "Happily Hidden",
+        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
       },
       "artists": [
         {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
         },
         {
-          "name": "Hannah Boesen",
-          "url": "https://open.spotify.com/artist/3jcuHlyRJaIgJEaAE4MPv9"
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 241800,
-      "name": "All That I Am",
-      "url": "https://open.spotify.com/track/1cmSJaNKWE4lJ1Eqiaiyyh"
+      "duration_ms": 233129,
+      "name": "Happily Hidden (with John Mark McMillan)",
+      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Happily Hidden",
-        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
         },
         {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+          "name": "Hannah Boesen",
+          "url": "https://open.spotify.com/artist/3jcuHlyRJaIgJEaAE4MPv9"
         }
       ],
-      "duration_ms": 233129,
-      "name": "Happily Hidden (with John Mark McMillan)",
-      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
+      "duration_ms": 241800,
+      "name": "All That I Am",
+      "url": "https://open.spotify.com/track/1cmSJaNKWE4lJ1Eqiaiyyh"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/7usvayUkl3dLssBcnI5TwM"
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/0CWgKwjftxN11Fay8KOjmB"
       },
       "artists": [
         {
-          "name": "Lee Vasi",
-          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
         }
       ],
-      "duration_ms": 174613,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/6m31OC4uyWmHKFpT2vyCaA"
+      "duration_ms": 199666,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5RnGsbzXKi1zAoI35mQqAz"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1291,22 +1275,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        }
-      ],
-      "duration_ms": 181119,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Take It All Back (Acoustic)",
         "url": "https://open.spotify.com/album/2FW6TWA6ccm3KS3ssxAE5O"
       },
@@ -1327,6 +1295,38 @@
       "duration_ms": 237417,
       "name": "Take It All Back - Acoustic",
       "url": "https://open.spotify.com/track/1QCe8uDq9pJWls24qMuNzx"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/7usvayUkl3dLssBcnI5TwM"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "duration_ms": 174613,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6m31OC4uyWmHKFpT2vyCaA"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        }
+      ],
+      "duration_ms": 181119,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1367,6 +1367,38 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "breakups with best friends",
+        "url": "https://open.spotify.com/album/2v7fckBFQ46D4UeuwQsKMu"
+      },
+      "artists": [
+        {
+          "name": "Zoe Levert",
+          "url": "https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "breakups with best friends",
+      "url": "https://open.spotify.com/track/7lFGWkqlouBpadg5ylbh7u"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
+      },
+      "artists": [
+        {
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "Waiting For You (feat. Reggie Dartey)",
         "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
       },
@@ -1387,22 +1419,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "breakups with best friends",
-        "url": "https://open.spotify.com/album/2v7fckBFQ46D4UeuwQsKMu"
-      },
-      "artists": [
-        {
-          "name": "Zoe Levert",
-          "url": "https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "breakups with best friends",
-      "url": "https://open.spotify.com/track/7lFGWkqlouBpadg5ylbh7u"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "You Hold It All",
         "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 213880,
       "name": "Skin And Bone",
       "url": "https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "Stay Close",
-        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
-      },
-      "artists": [
-        {
-          "name": "Austin Sebek",
-          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Stay Close",
-      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "uptown",
+        "url": "https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "uptown",
+      "url": "https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "Beautiful Things (From the Angel Original Series Miracle)",
         "url": "https://open.spotify.com/album/3EaCnsYAOPeRGrd6bfful3"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 202554,
       "name": "Beautiful Things (From the Angel Original Series Miracle)",
       "url": "https://open.spotify.com/track/5pdVUXCTlMP4kfwcNICBai"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
-        "name": "uptown",
-        "url": "https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "uptown",
-      "url": "https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "It Is Well",
-        "url": "https://open.spotify.com/album/1NJbyEjXlMh6tS3sUDvU5W"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        },
-        {
-          "name": "Kings Kaleidoscope Hymns",
-          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/237DdGVbH6tq0L3HGnFjbx"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Holy Ground",
         "url": "https://open.spotify.com/album/61KllsNNfR7b6N4XyKDeBS"
       },
@@ -1855,6 +1835,26 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/1NJbyEjXlMh6tS3sUDvU5W"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        },
+        {
+          "name": "Kings Kaleidoscope Hymns",
+          "url": "https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/237DdGVbH6tq0L3HGnFjbx"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
         "name": "In Hindsight (Acoustic EP)",
         "url": "https://open.spotify.com/album/3lDLI1NeyJOyhVWenJTc9I"
       },
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "The Invitation",
-        "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        },
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 212543,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 216400,
       "name": "Precious Gold",
       "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "The Invitation",
+        "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 212543,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Childlike",
-        "url": "https://open.spotify.com/album/3B5TCTmp4qMynkhVWJVZCa"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        },
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 137851,
-      "name": "RIPE",
-      "url": "https://open.spotify.com/track/6C6aqax6d3fYf2qZC7R4Zr"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "If It's Not You",
         "url": "https://open.spotify.com/album/7MjOODZWlFvTUqkPAWeHE7"
       },
@@ -2115,18 +2095,22 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "fair weather!",
-        "url": "https://open.spotify.com/album/7iTYcdADt1MfsskWi1WACq"
+        "name": "Childlike",
+        "url": "https://open.spotify.com/album/3B5TCTmp4qMynkhVWJVZCa"
       },
       "artists": [
         {
-          "name": "Praise Lubangu",
-          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
         }
       ],
-      "duration_ms": 184247,
-      "name": "fair weather!",
-      "url": "https://open.spotify.com/track/3ZIsd95wl3EGSYGt9lGpp2"
+      "duration_ms": 137851,
+      "name": "RIPE",
+      "url": "https://open.spotify.com/track/6C6aqax6d3fYf2qZC7R4Zr"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2151,18 +2135,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Never Not Been Okay",
-        "url": "https://open.spotify.com/album/6LlfA0AJjzMb7SNgoA7MWK"
+        "name": "fair weather!",
+        "url": "https://open.spotify.com/album/7iTYcdADt1MfsskWi1WACq"
       },
       "artists": [
         {
-          "name": "Skye Peterson",
-          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
         }
       ],
-      "duration_ms": 214500,
-      "name": "Never Not Been Okay",
-      "url": "https://open.spotify.com/track/5OEvyJGxHbeAVHJGAtw3SG"
+      "duration_ms": 184247,
+      "name": "fair weather!",
+      "url": "https://open.spotify.com/track/3ZIsd95wl3EGSYGt9lGpp2"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2191,18 +2175,18 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7q5Ok4Iz4Z4UfNPrlh3xQL"
+        "name": "Never Not Been Okay",
+        "url": "https://open.spotify.com/album/6LlfA0AJjzMb7SNgoA7MWK"
       },
       "artists": [
         {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
         }
       ],
-      "duration_ms": 138354,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6Iw6zKLGUzZajXl8NFuZQf"
+      "duration_ms": 214500,
+      "name": "Never Not Been Okay",
+      "url": "https://open.spotify.com/track/5OEvyJGxHbeAVHJGAtw3SG"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2219,6 +2203,22 @@
       "duration_ms": 180843,
       "name": "STEADY",
       "url": "https://open.spotify.com/track/6pBnwzuBSzIN9AaOaop5aa"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7q5Ok4Iz4Z4UfNPrlh3xQL"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        }
+      ],
+      "duration_ms": 138354,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6Iw6zKLGUzZajXl8NFuZQf"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Again And Again",
-        "url": "https://open.spotify.com/album/3z3zLIrhtHohjQeuQrWWWJ"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Again And Again",
-      "url": "https://open.spotify.com/track/0adl1qoadkOyKMrDE2uvgo"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "oceans",
         "url": "https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 292250,
       "name": "oceans",
       "url": "https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Again And Again",
+        "url": "https://open.spotify.com/album/3z3zLIrhtHohjQeuQrWWWJ"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/0adl1qoadkOyKMrDE2uvgo"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "Years and Years",
-        "url": "https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm"
-      },
-      "artists": [
-        {
-          "name": "Northwest Stories",
-          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Years and Years",
-      "url": "https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "the unknown",
         "url": "https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 178593,
       "name": "always will be - acoustic",
       "url": "https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "Years and Years",
+        "url": "https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm"
+      },
+      "artists": [
+        {
+          "name": "Northwest Stories",
+          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Years and Years",
+      "url": "https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO"
     },
     {
       "added_at": "2026-04-17 06:57:58",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2026-04-17 06:57:58",
       "album": {
-        "name": "BE LIKE YOU",
-        "url": "https://open.spotify.com/album/3GSoVFUdlFJhCSwtRCili8"
-      },
-      "artists": [
-        {
-          "name": "aftrthght",
-          "url": "https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY"
-        }
-      ],
-      "duration_ms": 155016,
-      "name": "BE LIKE YOU",
-      "url": "https://open.spotify.com/track/5yBd7UAaQXHyDjfrPcjHoq"
-    },
-    {
-      "added_at": "2026-04-17 06:57:58",
-      "album": {
         "name": "Slow Burn (Take Your Time)",
         "url": "https://open.spotify.com/album/6fIdUctKitYtODWnVbg2Dg"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 183205,
       "name": "Slow Burn (Take Your Time)",
       "url": "https://open.spotify.com/track/1g67bntsFM2MrXyz9u5Ken"
+    },
+    {
+      "added_at": "2026-04-17 06:57:58",
+      "album": {
+        "name": "BE LIKE YOU",
+        "url": "https://open.spotify.com/album/3GSoVFUdlFJhCSwtRCili8"
+      },
+      "artists": [
+        {
+          "name": "aftrthght",
+          "url": "https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY"
+        }
+      ],
+      "duration_ms": 155016,
+      "name": "BE LIKE YOU",
+      "url": "https://open.spotify.com/track/5yBd7UAaQXHyDjfrPcjHoq"
     },
     {
       "added_at": "2026-04-17 06:57:58",

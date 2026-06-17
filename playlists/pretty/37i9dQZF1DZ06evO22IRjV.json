@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31096,
+  "num_followers": 31099,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAkXbejmWqlL5+8tS4VZQ9f",
+  "snapshot_id": "ai9AgAAAAADzcx2Fg0ezSeD23/orXViE",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLACK & WHITE",
+        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Hey!!!",
+      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DICE (Complete Edition)",
         "url": "https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLACK & WHITE",
-        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Hey!!!",
-      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "26 a Go Go !!!",
         "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 249360,
       "name": "\u611b\u611b\u611b\u306b\u6483\u305f\u308c\u3066\u30d0\u30a4\u30d0\u30a4\u30d0\u30a4 -Album Mix-",
       "url": "https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Hero's Come Back!!",
+      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Coast",
-        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u70c8\u706b",
         "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
         "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
@@ -816,9 +832,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Hero's Come Back!!",
-      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
+      "duration_ms": 207706,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
     },
     {
       "added_at": null,
@@ -835,26 +851,6 @@
       "duration_ms": 238906,
       "name": "\u30e2\u30e1\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOVE & JUSTICE/\u8d85\u4eba",
-        "url": "https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX"
-      },
-      "artists": [
-        {
-          "name": "Yasuharu Takanashi",
-          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
-        },
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "LOVE & JUSTICE",
-      "url": "https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv"
     }
   ],
   "unique_name": "This Is FLOW",

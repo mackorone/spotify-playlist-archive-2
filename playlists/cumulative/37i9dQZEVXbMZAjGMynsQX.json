@@ -786,7 +786,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 140307,
       "name": "666",
       "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/0lMafSfME2iJEE972bsQaK"
@@ -6081,7 +6081,7 @@
     },
     {
       "album": {
-        "name": "Contigo Na M\u00e1s - Remix (feat. Jay Wheeler, Hades66, Bryant Myers)",
+        "name": "Contigo Na M\u00e1s - Remix (feat. Ozuna, Hades66)",
         "url": "https://open.spotify.com/album/6vwUSUBR0Hly5NATwN0RnT"
       },
       "artists": [
@@ -6090,35 +6090,31 @@
           "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
           "name": "Dei V",
           "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
           "name": "ROA",
           "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
         },
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
           "name": "Hades66",
           "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         },
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 466486,
-      "name": "Contigo Na M\u00e1s - Remix (feat. Jay Wheeler, Hades66, Bryant Myers)",
+      "name": "Contigo Na M\u00e1s - Remix (feat. Ozuna, Hades66)",
       "url": "https://open.spotify.com/track/4UjjHtqpIwH69uOlLc0VIY"
     },
     {
@@ -8894,7 +8890,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/34vXRJ2bCSFiZKQzVUYVOb"
@@ -11874,7 +11870,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 190843,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/5pWjftak57bAYP6yjQPBhq"
@@ -16562,7 +16558,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-21",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -21032,7 +21028,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 158036,
       "name": "no tiene sentido",
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
@@ -24710,7 +24706,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 162211,
       "name": "Que Te Quieran Bonito",
       "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
@@ -25104,7 +25100,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/6IV5Y1eWaQZ1jV5apkUMS4"
@@ -25384,7 +25380,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 185933,
       "name": "Regalo De Dios",
       "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
@@ -29588,7 +29584,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -32106,7 +32102,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 199253,
       "name": "VAMOaCOCHI",
       "url": "https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz"

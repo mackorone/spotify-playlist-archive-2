@@ -1,6 +1,6 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 123114,
+  "num_followers": 123144,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Easy Dreamin'",
-        "url": "https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Ludlow",
-      "url": "https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Something About Her Smile",
         "url": "https://open.spotify.com/album/2NzsBCHEWjKiUQbUjDfpNl"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 238107,
       "name": "Tip Your Hat",
       "url": "https://open.spotify.com/track/3sg1RZE32Qwy8j1T1POnBx"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Easy Dreamin'",
+        "url": "https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Ludlow",
+      "url": "https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "All The Sunsets",
-        "url": "https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE"
-      },
-      "artists": [
-        {
-          "name": "Midnight Trio",
-          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
-        }
-      ],
-      "duration_ms": 220650,
-      "name": "All The Sunsets",
-      "url": "https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "You Go To My Head",
         "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 299029,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "All The Sunsets",
+        "url": "https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "duration_ms": 220650,
+      "name": "All The Sunsets",
+      "url": "https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "There Will Be Better Days",
-        "url": "https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli"
-      },
-      "artists": [
-        {
-          "name": "Midnight Trio",
-          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
-        }
-      ],
-      "duration_ms": 299349,
-      "name": "There Will Be Better Days",
-      "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Tales of the Urban Night",
         "url": "https://open.spotify.com/album/0Lq4ADg6oshOAymc9qbvkU"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 235679,
       "name": "Tales of the Urban Night",
       "url": "https://open.spotify.com/track/42SXZOzFwDj2d0Lj6dIZW2"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "There Will Be Better Days",
+        "url": "https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "duration_ms": 299349,
+      "name": "There Will Be Better Days",
+      "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
-      },
-      "artists": [
-        {
-          "name": "Cara Myers Trio",
-          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 230050,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/2OC9d9vetlQ7abD7uDxqbZ"
-      },
-      "artists": [
-        {
-          "name": "Gillian Spencer Trio",
-          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
-        }
-      ],
-      "duration_ms": 176263,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Gentle Rain",
         "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 192874,
       "name": "Gentle Rain",
       "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/2OC9d9vetlQ7abD7uDxqbZ"
+      },
+      "artists": [
+        {
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+        }
+      ],
+      "duration_ms": 176263,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Embraced by Night",
-        "url": "https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG"
-      },
-      "artists": [
-        {
-          "name": "Sparrow & Bird",
-          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
-        }
-      ],
-      "duration_ms": 183544,
-      "name": "Embraced by Night",
-      "url": "https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Sunset Stroll",
         "url": "https://open.spotify.com/album/2MQMIyZob2GNC9h3GY8iTf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 164682,
       "name": "Sunset Stroll",
       "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Embraced by Night",
+        "url": "https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Bird",
+          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+        }
+      ],
+      "duration_ms": 183544,
+      "name": "Embraced by Night",
+      "url": "https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Vine Street",
-        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
-      },
-      "artists": [
-        {
-          "name": "Soft Brush Touches",
-          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
-        }
-      ],
-      "duration_ms": 146020,
-      "name": "Vine Street",
-      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Love In Your Arms",
         "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 255143,
       "name": "You're A Rainbow",
       "url": "https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Vine Street",
+        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "duration_ms": 146020,
+      "name": "Vine Street",
+      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1131,38 +1131,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Fools Rush In",
-        "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
-      },
-      "artists": [
-        {
-          "name": "The Southern Belle",
-          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
-        }
-      ],
-      "duration_ms": 273123,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "Every Time (You Say You Love Me)",
-        "url": "https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX"
-      },
-      "artists": [
-        {
-          "name": "The Grace Smith Gang",
-          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
-        }
-      ],
-      "duration_ms": 180482,
-      "name": "Every Time (You Say You Love Me)",
-      "url": "https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Things To Look Forward To",
         "url": "https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo"
       },
@@ -1179,18 +1147,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Autumn Once Again",
-        "url": "https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk"
+        "name": "Every Time (You Say You Love Me)",
+        "url": "https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX"
       },
       "artists": [
         {
-          "name": "CMC 3",
-          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
         }
       ],
-      "duration_ms": 284438,
-      "name": "Autumn Once Again",
-      "url": "https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW"
+      "duration_ms": 180482,
+      "name": "Every Time (You Say You Love Me)",
+      "url": "https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1223,6 +1191,38 @@
       "duration_ms": 229756,
       "name": "The yellow note",
       "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Fools Rush In",
+        "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
+      },
+      "artists": [
+        {
+          "name": "The Southern Belle",
+          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+        }
+      ],
+      "duration_ms": 273123,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Autumn Once Again",
+        "url": "https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "duration_ms": 284438,
+      "name": "Autumn Once Again",
+      "url": "https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Hometown Again",
-        "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
-        }
-      ],
-      "duration_ms": 275959,
-      "name": "Hometown Again",
-      "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Midnight Mood",
         "url": "https://open.spotify.com/album/00JwIcg9QId8yv41j8hsiF"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 178511,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/21DBgFgwnYGspw2b2gfqZE"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Hometown Again",
+        "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "duration_ms": 275959,
+      "name": "Hometown Again",
+      "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Sweet Smile",
-        "url": "https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH"
-      },
-      "artists": [
-        {
-          "name": "Velvet Groove",
-          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
-        }
-      ],
-      "duration_ms": 234605,
-      "name": "Sweet Smile",
-      "url": "https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Autumn serenade",
         "url": "https://open.spotify.com/album/6UR6T9B1wTbPLrRw7ynlI2"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 195874,
       "name": "Autumn serenade",
       "url": "https://open.spotify.com/track/4mNyif0WHZ8jBn9BdwX212"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Sweet Smile",
+        "url": "https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "duration_ms": 234605,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv"
     },
     {
       "added_at": "2026-06-09 09:45:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,272 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,279 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 23 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
 | 24 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
 | 25 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
-| 26 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
-| 27 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
+| 26 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
+| 27 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 28 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 |
 | 29 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
 | 30 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 58 | [Without You](https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Without You](https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8) | 3:55 |
 | 59 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 |
 | 60 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
-| 61 | [Dragon](https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3) | 3:01 |
-| 62 | [gbesoke](https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:15 |
+| 61 | [gbesoke](https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:15 |
+| 62 | [Dragon](https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3) | 3:01 |
 | 63 | [Sad Piano House](https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Sad Piano House](https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv) | 5:05 |
 | 64 | [Ondatonda](https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew), [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [ONDATONDA](https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG) | 3:31 |
 | 65 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |

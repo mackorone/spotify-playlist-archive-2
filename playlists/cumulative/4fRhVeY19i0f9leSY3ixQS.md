@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,669 songs - 3 day 21 hr 11 min
+1,672 songs - 3 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Don't Ask Why](https://open.spotify.com/track/5UDr0x745fkPgpILhvNjLC) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Don't Ask Why & Maum Meditation](https://open.spotify.com/album/6mosG3jbAhh0CGnynBON2T) | 4:36 | 2026-01-14 | 2026-02-03 |
 | [Don't Blame the Problem](https://open.spotify.com/track/3eIkXw2EAcxSM64wlHV136) | [Civics Class](https://open.spotify.com/artist/54tNnmfT5zpQE8CujJmA1x) | [Don't Blame the Problem](https://open.spotify.com/album/2cXLSDpyTNMaBmPtG0s2ZX) | 1:42 | 2026-03-14 | 2026-04-15 |
 | [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 | 2026-03-25 | 2026-04-17 |
+| [Don't Fight Back](https://open.spotify.com/track/2GpPuN4IMDp5aBd1oLRQHF) | [Alpine Loop](https://open.spotify.com/artist/10JP5czbb1gs4aL1KCABuD) | [Making A Scene](https://open.spotify.com/album/4KF7VbetAgvdkfLTLKdx6N) | 3:21 | 2026-06-16 |  |
 | [Don't Know What I Want \(But I Know Where to Get It\)](https://open.spotify.com/track/5AplYzLZ62L6VmG6SsQ0px) | [Ben Gel](https://open.spotify.com/artist/061zXo3f18S4rvBolMK6Pk) | [Don't Know What I Want \(But I Know Where to Get It\)](https://open.spotify.com/album/68dbPsaChkORlxchucdwbH) | 2:08 | 2026-04-24 | 2026-05-26 |
 | [Don't Look Now](https://open.spotify.com/track/3mJQMt1hpU3sWcR7ugfcFE) | [Camel Jetpack](https://open.spotify.com/artist/07o6CYLuTNCQ9a1wT9v8YD) | [Don't Look Now](https://open.spotify.com/album/3JXKPPMQ3QAJujlAg2fvDQ) | 2:48 | 2026-04-12 | 2026-05-08 |
 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 | 2025-11-28 | 2025-12-24 |
@@ -580,6 +581,7 @@
 | [Golden Glasses](https://open.spotify.com/track/4PH6B0EduFdpGGiQiDyvoB) | [Cheap Petrol](https://open.spotify.com/artist/12GUVzQKdS6WNQvbZRq100) | [Golden Glasses](https://open.spotify.com/album/4qxkpU3001dOaHswl1Na7K) | 5:30 | 2026-06-01 |  |
 | [Golden Youth](https://open.spotify.com/track/4TJJ7lPCk79jmNTI7rEK0m) | [MADDER MAX](https://open.spotify.com/artist/4hwtniLG0VgdsWus0lbbaz) | [SURVIVES](https://open.spotify.com/album/1ROk9u05RbVJLDWkmoqt0G) | 2:36 | 2026-01-12 | 2026-02-13 |
 | [Gone Too Soon](https://open.spotify.com/track/2glrpjHHKqK4sb96yMYwaw) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Gone Too Soon](https://open.spotify.com/album/4KdQsQvZxJfXaTX5wBJtDj) | 3:24 | 2026-01-05 | 2026-01-29 |
+| [Good For You](https://open.spotify.com/track/0M1yg0auUkU0tkLV6tbXK2) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Good For You](https://open.spotify.com/album/569kz7tsyGRKH5DbeZiujN) | 3:37 | 2026-06-16 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-12-17 | 2026-01-06 |
 | [Gorebage Truck](https://open.spotify.com/track/1iA9HI2I8hMSIMAvGREa9Z) | [Fuck Tomb](https://open.spotify.com/artist/70VzYMqJrUHmA7F8soZr9Y) | [Gorebage Truck](https://open.spotify.com/album/1Tpx3ZdMbASFVpuzmThuaS) | 2:37 | 2026-05-22 |  |
 | [Got What You Wanted](https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Got What You Wanted](https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b) | 2:42 | 2026-03-30 | 2026-05-22 |
@@ -982,6 +984,7 @@
 | [Not The Same](https://open.spotify.com/track/0CSbXOO9ORfFb8wnEOJ8lF) | [Destination Unknown](https://open.spotify.com/artist/5cECVFXset9kdxbP3K1Bmi) | [Not The Same](https://open.spotify.com/album/3bLUgzgWT2eqiVXqrDeKLt) | 3:42 | 2026-04-29 | 2026-05-31 |
 | [Not This Way](https://open.spotify.com/track/1JlzlKlitEWbW87ztixgsC) | [The Clerx](https://open.spotify.com/artist/46dINAJebjBfzBjp9YsuJq) | [Loud Against The World](https://open.spotify.com/album/3uzL7YzJjEsSZyvFCX3HWf) | 2:55 | 2026-04-24 | 2026-05-26 |
 | [Not Today](https://open.spotify.com/track/1ldlVDxNRGQwL0RNqq2vx4) | [Rebelmatic](https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR) | [Not Today](https://open.spotify.com/album/25ZQIHmnsP3DTxPhQ4lVsQ) | 2:32 | 2026-06-14 |  |
+| [Not Yours](https://open.spotify.com/track/6SbfNWFnUKkjsmn43bS33B) | [Scarlet Saboteur](https://open.spotify.com/artist/3VP7XAWza67jguPChArk3m) | [Not Yours](https://open.spotify.com/album/5XnhS2Twp3e1Oi6wbh8dvm) | 2:41 | 2026-06-16 |  |
 | [Nothing But Strangers](https://open.spotify.com/track/2Qplmt0uHxndVNM0m5xfjq) | [Sludder](https://open.spotify.com/artist/3gvJAv34H2rDst0emEFO8n) | [Nothing But Strangers](https://open.spotify.com/album/1Mb1abSud7y3ScV5Ojmzrh) | 3:33 | 2025-12-29 | 2026-01-30 |
 | [Nothing To Say](https://open.spotify.com/track/31koy7libiolbDXN0ZQozQ) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:44 | 2025-08-03 | 2026-01-15 |
 | [notwhatiexpected](https://open.spotify.com/track/2tGn18N8m9HsjUoGaFnMtk) | [SUNPRAYER](https://open.spotify.com/artist/2VjHiKZv3FNnnVCXL97e4s), [Dory\-Loup](https://open.spotify.com/artist/7hlVD6C022u1z25lu7abd2) | [depresso espresso](https://open.spotify.com/album/27g0aGZYUMPb6H7kLM2a7x) | 2:55 | 2025-11-16 | 2025-12-10 |

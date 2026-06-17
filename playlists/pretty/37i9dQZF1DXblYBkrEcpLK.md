@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: tuki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,712 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,708 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 36 | [あなただけ見つめてる \- MONA's Version](https://open.spotify.com/track/5M414Xx9foqUVHHgrtbxTF) | [Mona Gonzales](https://open.spotify.com/artist/4WfDxyfUCSNCJtorm2eOOT) | [あなただけ見つめてる \(MONA's Version\)](https://open.spotify.com/album/4QAZAdFKsOu5ISLwGFwSRB) | 3:35 |
 | 37 | [ユートピア](https://open.spotify.com/track/4tF4GlyY2HWvWSyspXoBuS) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [『劇場版 転生したらスライムだった件 蒼海の涙編』主題歌・挿入歌シングル「蒼海の揺らめき」](https://open.spotify.com/album/5cWekIJNPcnymMOV3HhWZP) | 3:31 |
 | 38 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 |
-| 39 | [ray \- 超かぐや姫！ Version](https://open.spotify.com/track/3V5bJpqNCHHi56pGZHNy1f) | [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 5:01 |
-| 40 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 |
+| 39 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:04 |
+| 40 | [ray \- 超かぐや姫！ Version](https://open.spotify.com/track/3V5bJpqNCHHi56pGZHNy1f) | [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 5:01 |
 | 41 | [The Story of Us](https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV) | 4:27 |
 | 42 | [はちゃめちゃわちゃライフ！](https://open.spotify.com/track/1hDXjz81MwpB1dEN2jzgrl) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [はちゃめちゃわちゃライフ！](https://open.spotify.com/album/0khCUdy2adQzsA7JAxoSNQ) | 3:52 |
 | 43 | [星降る海](https://open.spotify.com/track/4sEn07Jaha1koyaFzplJB0) | [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:13 |

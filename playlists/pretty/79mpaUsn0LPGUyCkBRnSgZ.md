@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 730 songs - 1 day 22 hr 58 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 732 songs - 1 day 23 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -738,5 +738,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 728 | [Blackberry Marmalade](https://open.spotify.com/track/2QOTLNlbpsTJq074uw3yLY) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cry Baby](https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs) | 3:52 |
 | 729 | [Keep Me on Your Mind](https://open.spotify.com/track/7DYIFyeJ7hHxns755Z8WgU) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:17 |
 | 730 | [The Garden Prelude](https://open.spotify.com/track/6YvNYOrGKPWKlUPpkruhRY) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 0:48 |
+| 731 | [My Pal the Tortoise](https://open.spotify.com/track/1anrtrcrzrfSa9zJmppIKo) | [Thinking Fellers Union Local 282](https://open.spotify.com/artist/6MxGhSYp621FZiZpVaPxtR) | [Strangers from the Universe](https://open.spotify.com/album/6FQuVWeNCWkCXuyYGiF5sV) | 2:47 |
+| 732 | [Going for the One \- 2008 Remaster](https://open.spotify.com/track/0iKQH7ZPkxWGBNL0XFvBAb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Going for the One](https://open.spotify.com/album/5D6az0bHFbVbBpWEqnXeCj) | 5:32 |
 
-Snapshot ID: `AAAJJrnw9gOjsA5nnHtSA3SlSBhZyXYA`
+Snapshot ID: `AAAJKL4ogjwZ77fttJSXBV05aXDZnpzu`

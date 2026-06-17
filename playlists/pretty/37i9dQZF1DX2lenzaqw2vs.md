@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Ruzzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,187 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,178 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 32 | [Piña](https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:24 |
 | 33 | [jules](https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:27 |
 | 34 | [Fugitivo](https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Fugitivo](https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn) | 2:40 |
-| 35 | [Madrugadas de nada](https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN) | [Isleña Antumalen](https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Madrugadas de nada](https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5) | 3:37 |
-| 36 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
-| 37 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
+| 35 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
+| 36 | [Madrugadas de nada](https://open.spotify.com/track/0HVfDPycENd4Y1i1ttkYMN) | [Isleña Antumalen](https://open.spotify.com/artist/6bY5kjK9c1MdVgC9CAtnM4), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Madrugadas de nada](https://open.spotify.com/album/2GxuCSR5rGJuQCnp6eHLY5) | 3:37 |
+| 37 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
 | 38 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
 | 39 | [Te Quería](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
 | 40 | [Ácido Sabor](https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ácido Sabor](https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh) | 3:30 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 58 | [Vuela Más Alto](https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Vuela Más Alto](https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY) | 2:39 |
 | 59 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 |
 | 60 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
-| 61 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
-| 62 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 |
+| 61 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 |
+| 62 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
 | 63 | [La Custodia](https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [La Custodia](https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb) | 3:47 |
 | 64 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
 | 65 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 74 | [Sentirme Amante](https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Drama Pop](https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR) | 3:26 |
 | 75 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
 | 76 | [Unx de nosotrxs \(feat\. Javiera Mena\)](https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Uno de nosotros \(feat\. Javiera Mena\)](https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3) | 4:09 |
-| 77 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
+| 77 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
 | 78 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
-| 79 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
+| 79 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
 | 80 | [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 |
 | 81 | [Fue](https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:51 |
 | 82 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |

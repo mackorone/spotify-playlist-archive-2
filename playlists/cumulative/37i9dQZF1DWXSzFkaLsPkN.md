@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3am Thoughts](https://open.spotify.com/track/347wKqohKOnydV7bsloEQf) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2) | 4:29 | 2025-11-07 | 2026-06-13 |
+| [3am Thoughts](https://open.spotify.com/track/347wKqohKOnydV7bsloEQf) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2) | 4:29 | 2025-11-07 |  |
 | [Aadhe Waade](https://open.spotify.com/track/2YvoiniJ209ypzXMlZxSp0) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/0C0KpcvMUCrukbLFAH1zby) | 2:34 | 2024-04-05 | 2024-06-19 |
 | [Aadhey Adhoorey](https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aadhey Adhoorey](https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM) | 2:53 | 2025-01-20 | 2025-06-26 |
 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 | 2026-02-06 |  |
@@ -356,6 +356,6 @@
 | [Zakir](https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Hindi Gaane](https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI) | 3:41 | 2023-12-15 | 2024-04-19 |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2023-05-02 | 2023-12-16 |
 | [Zindagi](https://open.spotify.com/track/6cCcbvYQFU71VirgpvGKG6) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Phoolon Sa Dil](https://open.spotify.com/album/0ByaNi5djNwN958OuGO2fw) | 3:15 | 2025-10-03 | 2025-10-11 |
-| [Zulfein](https://open.spotify.com/track/6bwIkFBUUMG7upgPoVlTHt) | [Mehul Mahesh](https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD), [Dj AYnik](https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk) | [Zulfein](https://open.spotify.com/album/0QLo84H5SAMrfwo6t1pkeS) | 3:18 | 2025-12-12 |  |
+| [Zulfein](https://open.spotify.com/track/6bwIkFBUUMG7upgPoVlTHt) | [Mehul Mahesh](https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD), [Dj AYnik](https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk) | [Zulfein](https://open.spotify.com/album/0QLo84H5SAMrfwo6t1pkeS) | 3:18 | 2025-12-12 | 2026-06-17 |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

@@ -8831,6 +8831,24 @@
     },
     {
       "album": {
+        "name": "Let You Never",
+        "url": "https://open.spotify.com/album/7eTiQS90crJ0M5X0dXME8X"
+      },
+      "artists": [
+        {
+          "name": "gabriawll",
+          "url": "https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156004,
+      "name": "Let You Never",
+      "url": "https://open.spotify.com/track/1xesDpSqRjtwozWA5tdBQp"
+    },
+    {
+      "album": {
         "name": "NCS x Geometry Dash: Volume 1",
         "url": "https://open.spotify.com/album/35EIo9W0kukj9d1OnGjX9S"
       },

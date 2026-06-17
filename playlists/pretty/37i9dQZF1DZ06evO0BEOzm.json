@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 310767,
+  "num_followers": 310795,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADfLbyFimSO33WDs7zhRmkJ",
+  "snapshot_id": "ai9AgAAAAADJSLocLk+fL0d3n9zz9dFr",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 176749,
+      "name": "Captain Hook",
+      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Butter (Megan Thee Stallion Remix)",
         "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 164457,
       "name": "Butter (Megan Thee Stallion Remix)",
       "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suga",
-        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 176749,
-      "name": "Captain Hook",
-      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
     },
     {
       "added_at": null,
@@ -915,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+        "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+        "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
       "artists": [
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 172221,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX"
+      "duration_ms": 186521,
+      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+      "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
     }
   ],
   "unique_name": "This Is Megan Thee Stallion",

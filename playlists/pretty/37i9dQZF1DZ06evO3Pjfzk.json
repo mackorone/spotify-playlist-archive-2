@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 113826,
+  "num_followers": 113851,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAB6gRg5jDSlk9gLHzoQupiL",
+  "snapshot_id": "ai9AgAAAAACz4H3dH8GcFbRz19nHtI49",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wildflowers and Wild Horses",
-        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers and Wild Horses (Single Version)",
-      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 277659,
       "name": "wait in the truck",
       "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wildflowers and Wild Horses",
+        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers and Wild Horses (Single Version)",
+      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REBEL",
-        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "Praying Woman",
-      "url": "https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 228323,
       "name": "Play Something Country (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REBEL",
+        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "Praying Woman",
+      "url": "https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10"
     },
     {
       "added_at": null,

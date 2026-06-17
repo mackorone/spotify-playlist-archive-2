@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADElC6uGZlVkQ33AEZfFCJc",
+  "snapshot_id": "ai9AgAAAAAAhNcQ1DHopee19d+fG4dsD",
   "tracks": [
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Percy Jackson and the Olympians: Season 2 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NMTLznBXQWex0NA9hpEk4"
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 138420,
-      "name": "Percy Jackson and the Olympians (Season 2 Theme)",
-      "url": "https://open.spotify.com/track/2KBYU1it0E77OQixoXqztq"
+      "duration_ms": 224760,
+      "name": "Echoes of an Old Life (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
     },
     {
       "added_at": null,
@@ -914,15 +914,11 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Griogair",
-          "url": "https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK"
         }
       ],
-      "duration_ms": 546506,
-      "name": "The Fiery Cross (feat. Griogair Labhruidh)",
-      "url": "https://open.spotify.com/track/0iejrWjPMGrGNzQrGaEzrY"
+      "duration_ms": 228600,
+      "name": "Murtagh's Oath",
+      "url": "https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV"
     }
   ],
   "unique_name": "This Is Bear McCreary",

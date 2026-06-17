@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > The country that made country cool\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,219,729 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,220,167 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 53 | [Don't Let Our Love Start Slippin' Away](https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:44 |
 | 54 | [Fast as You](https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 4:45 |
 | 55 | [Tell Me Why](https://open.spotify.com/track/3Vfj2JGXayXgc0c9J4gJ8m) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why](https://open.spotify.com/album/0118657h8IVC4b37XaOjBp) | 3:50 |
-| 56 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
+| 56 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 57 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
-| 58 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
+| 58 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
 | 59 | [Down On The Farm](https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 2:58 |
 | 60 | [If You See Him, If You See Her](https://open.spotify.com/track/4TxIFLRMUxNh4n9h4RLsaE) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [If You See Him](https://open.spotify.com/album/5CUap1jumnhCkIDCd6DtEc) | 3:55 |
 | 61 | [I Told You So](https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:39 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 82 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
 | 83 | [Sticks and Stones](https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Sticks and Stones](https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq) | 3:38 |
 | 84 | [Chasin' That Neon Rainbow](https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Here In The Real World](https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e) | 3:05 |
-| 85 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
-| 86 | [Party Crowd](https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:18 |
+| 85 | [Party Crowd](https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0) | [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Out With A Bang](https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9) | 3:18 |
+| 86 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
 | 87 | [Daddy's Money](https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Ricochet](https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8) | 3:03 |
 | 88 | [You Ain't Much Fun](https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Boomtown](https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS) | 2:27 |
 | 89 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 106 | [Brand New Man](https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 2:58 |
 | 107 | [The Shake](https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Be Good At It](https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM) | 3:33 |
 | 108 | [It's A Little Too Late \- 1996 Greatest Hits Version](https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:43 |
-| 109 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:52 |
-| 110 | [One Way Ticket \(Because I Can\)](https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 3:43 |
+| 109 | [One Way Ticket \(Because I Can\)](https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 3:43 |
+| 110 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:52 |
 | 111 | [No News](https://open.spotify.com/track/2KgsImShtnuBYfKVgfbAuy) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonestar](https://open.spotify.com/album/2IwKTl4PY4Nh1WA7R0Qbwq) | 2:53 |
 | 112 | [Better Class of Losers](https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [High Lonesome](https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02) | 2:40 |
 | 113 | [Dream Walkin'](https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 3:57 |

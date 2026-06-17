@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: D'Angelo",
-  "num_followers": 4815473,
+  "num_followers": 4815437,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2023-09-14 14:32:45",
       "album": {
         "name": "Cassie (U.S. Version)",
         "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
         }
       ],
-      "duration_ms": 220639,
-      "name": "Long Way 2 Go",
-      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
+      "duration_ms": 192213,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
     },
     {
       "added_at": "2025-10-15 03:50:15",
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/43AazWe8w3QxSFOeBOgM5F"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Cassie (U.S. Version)",
         "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
         }
       ],
-      "duration_ms": 192213,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+      "duration_ms": 220639,
+      "name": "Long Way 2 Go",
+      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Street Love",
         "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 209533,
       "name": "Get It Shawty",
       "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
+    },
+    {
       "added_at": "2022-08-21 20:37:58",
       "album": {
         "name": "FutureSex/LoveSounds Deluxe Edition",
@@ -1207,22 +1223,6 @@
       "duration_ms": 322093,
       "name": "Until The End Of Time (with Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
-      },
-      "artists": [
-        {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1605,6 +1605,22 @@
       "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
+    },
+    {
       "added_at": "2022-08-23 02:57:28",
       "album": {
         "name": "Truthfully Speaking",
@@ -1623,22 +1639,6 @@
       "duration_ms": 226440,
       "name": "Addictive",
       "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
-    },
-    {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
     },
     {
       "added_at": "2022-02-11 05:00:00",

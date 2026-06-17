@@ -1,13 +1,29 @@
 {
   "description": "Brenn! on the cover :)",
-  "num_followers": 146307,
+  "num_followers": 146325,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHEwCh3fb+wLBqbwMiY6I/UP6MY",
+  "snapshot_id": "AAAAAFnqIdpUAosPLt8HPnqwiiZ53S9n",
   "tracks": [
+    {
+      "added_at": "2026-06-16 20:46:54",
+      "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
+    },
     {
       "added_at": "2026-06-05 04:01:05",
       "album": {

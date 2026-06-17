@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,915 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,898 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 26 | [Jimmy](https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1) | [Moriarty](https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa) | [Gee Whiz But This Is a Lonesome Town](https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK) | 4:24 |
 | 27 | [Shrike](https://open.spotify.com/track/3ieUtb4ecQgEYxae8dzEUi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 4:58 |
 | 28 | [Crutch](https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Crutch](https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq) | 3:31 |
-| 29 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
+| 29 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 |
 | 30 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
 | 31 | [Anyone Who Loves Me](https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ) | 3:56 |
-| 32 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 |
+| 32 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
 | 33 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 |
 | 34 | [Road Trippin'](https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 3:24 |
 | 35 | [Ensemble](https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 3:02 |
@@ -64,23 +64,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 54 | [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 |
 | 55 | [With You Around](https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [With You Around](https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6) | 3:53 |
 | 56 | [Walls](https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Walls](https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY) | 3:12 |
-| 57 | [Sharpness](https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Making Time](https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq) | 3:27 |
-| 58 | [Monde Nouveau](https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Monde Nouveau](https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA) | 2:37 |
+| 57 | [Monde Nouveau](https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Monde Nouveau](https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA) | 2:37 |
+| 58 | [Sharpness](https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Making Time](https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq) | 3:27 |
 | 59 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 |
 | 60 | [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 |
 | 61 | [4 And 20](https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL) | 5:06 |
 | 62 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
 | 63 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 |
 | 64 | [Sunflower](https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p) | 4:23 |
-| 65 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
-| 66 | [Annabelle](https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp) | [Annabelle](https://open.spotify.com/album/7wBZj4cGHvb0qjLknaiDsL) | 3:37 |
+| 65 | [Annabelle](https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp) | [Annabelle](https://open.spotify.com/album/7wBZj4cGHvb0qjLknaiDsL) | 3:37 |
+| 66 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
 | 67 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
 | 68 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 |
 | 69 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
-| 70 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 |
-| 71 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 |
+| 70 | [You and Me](https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 3:12 |
+| 71 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 |
 | 72 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 |
-| 73 | [You and Me](https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 3:12 |
+| 73 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 |
 | 74 | [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 |
 | 75 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
 | 76 | [H24](https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [H24](https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz) | 3:36 |

@@ -1,6 +1,6 @@
 {
   "description": "Splash and sing-along.",
-  "num_followers": 7589759,
+  "num_followers": 7589595,
   "original_name": "Songs to Sing in the Shower",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -799,6 +779,26 @@
       "duration_ms": 204134,
       "name": "Timber",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 230760,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+      "duration_ms": 262533,
+      "name": "How to Save a Life",
+      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1323,22 +1339,6 @@
       "duration_ms": 238120,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "How to Save a Life",
-      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/4OSBTYWVwsQhGLF9NHvIbR"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 232693,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/4OSBTYWVwsQhGLF9NHvIbR"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Made In The A.M. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 192112,
-      "name": "Drag Me Down",
-      "url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Made In The A.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 192112,
+      "name": "Drag Me Down",
+      "url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Sunshine on Leith",
+        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+      },
+      "artists": [
+        {
+          "name": "The Proclaimers",
+          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 223053,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "Sunshine on Leith",
-        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
-      },
-      "artists": [
-        {
-          "name": "The Proclaimers",
-          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 114233,
       "name": "Lil Boo Thang",
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -2655,6 +2655,22 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU"
       },
@@ -2687,22 +2703,6 @@
       "duration_ms": 295515,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
     },
     {
       "added_at": "2025-12-27 05:55:14",
@@ -3263,22 +3263,6 @@
     {
       "added_at": "2025-12-27 05:55:14",
       "album": {
-        "name": "Everything Is 4",
-        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 207719,
-      "name": "Want to Want Me",
-      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
-    },
-    {
-      "added_at": "2025-12-27 05:55:14",
-      "album": {
         "name": "VIDA",
         "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
@@ -3299,6 +3283,22 @@
       "duration_ms": 230413,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/1vnnXMrBeEWiRg3YCMCjQq"
+    },
+    {
+      "added_at": "2025-12-27 05:55:14",
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 207719,
+      "name": "Want to Want Me",
+      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
     },
     {
       "added_at": "2025-12-27 05:55:14",

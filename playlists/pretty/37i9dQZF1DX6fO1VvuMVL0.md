@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,331 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,361 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 40 | [Walkin' Out Blues](https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 5:56 |
 | 41 | [Just In Time](https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 3:45 |
 | 42 | [Darn That Dream \- Live At The Tiffany Club, Los Angeles, CA., 1954](https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Live](https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k) | 12:07 |
-| 43 | [Where or When](https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Moonlight In Vermont](https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW) | 2:26 |
-| 44 | [That's the Way It Is](https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [The Jimmy Giuffre 3](https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK) | 3:51 |
+| 43 | [That's the Way It Is](https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [The Jimmy Giuffre 3](https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK) | 3:51 |
+| 44 | [Where or When](https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Moonlight In Vermont](https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW) | 2:26 |
 | 45 | [Waltz Me Blues](https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 2:58 |
 | 46 | [Thanks For The Memory](https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Jazz Guitar](https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM) | 5:19 |
 | 47 | [Willow Weep for Me](https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Fontessa](https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc) | 4:48 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 53 | [Ergo \- Remastered 2004](https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Ensemble \(Expanded Edition / Remastered\)](https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c) | 3:11 |
 | 54 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 |
 | 55 | [Show Me \- Instrumental](https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 3:41 |
-| 56 | [Angle Eyes](https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b) | [Dave Pell](https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN) | [A Pell Of A Time](https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY) | 5:39 |
+| 56 | [On A Riff](https://open.spotify.com/track/2YukMgAWfr4Ew8oONiNLdP) | [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa) | [Plays Andre Hodeir](https://open.spotify.com/album/0s69Ld833Q6OtOtkbRD45O) | 2:55 |
 | 57 | [The Queen's Fancy](https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 3:12 |
-| 58 | [On A Riff](https://open.spotify.com/track/2YukMgAWfr4Ew8oONiNLdP) | [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa) | [Plays Andre Hodeir](https://open.spotify.com/album/0s69Ld833Q6OtOtkbRD45O) | 2:55 |
+| 58 | [Angle Eyes](https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b) | [Dave Pell](https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN) | [A Pell Of A Time](https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY) | 5:39 |
 | 59 | [Fishin' Around](https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Subconscious\-Lee](https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe) | 3:44 |
 | 60 | [Life Is a Ball](https://open.spotify.com/track/2wdivsZL6AFl6qygmGZDEr) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [4 To Go !](https://open.spotify.com/album/4PSGQpJEso0r7WoPiFjbbl) | 5:31 |
 | 61 | [You Go to My Head](https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 4:25 |

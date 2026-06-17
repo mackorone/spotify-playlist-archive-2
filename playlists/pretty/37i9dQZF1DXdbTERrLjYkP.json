@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Lexi Jayde",
-  "num_followers": 219437,
+  "num_followers": 219450,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACiGMr7yW+UZ4qopHcUUnqzKDYCr",
+  "snapshot_id": "AAAAAH/toE8DvV9aZ19zaGR3YtdPAVDM",
   "tracks": [
     {
       "added_at": "2026-06-05 04:01:05",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/4E7hZdPtD5BEB1XdyS9dDl"
     },
     {
-      "added_at": "2026-06-12 04:56:00",
-      "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ"
-      },
-      "artists": [
-        {
-          "name": "Asha Banks",
-          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
-        }
-      ],
-      "duration_ms": 175747,
-      "name": "Come Down",
-      "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
-    },
-    {
       "added_at": "2026-06-05 04:01:05",
       "album": {
         "name": "Satisfied Girl",
@@ -55,6 +39,38 @@
       "duration_ms": 211184,
       "name": "Undiscovered",
       "url": "https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W"
+    },
+    {
+      "added_at": "2026-06-16 12:21:12",
+      "album": {
+        "name": "My Baby Loves Me for Free (demo)",
+        "url": "https://open.spotify.com/album/7pn4oUMpRiHNvVPc9b6cBd"
+      },
+      "artists": [
+        {
+          "name": "Tadhg Nolan",
+          "url": "https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B"
+        }
+      ],
+      "duration_ms": 121544,
+      "name": "My Baby Loves Me For Free - demo",
+      "url": "https://open.spotify.com/track/2QNhVsgY7qQ2yEu4lkhgAv"
+    },
+    {
+      "added_at": "2026-06-12 04:56:00",
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "duration_ms": 175747,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
     },
     {
       "added_at": "2026-06-12 04:56:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 196403,
       "name": "Second Guesser",
       "url": "https://open.spotify.com/track/3BWpdemSWVw7MqWBoTgP61"
-    },
-    {
-      "added_at": "2026-01-23 05:20:59",
-      "album": {
-        "name": "Gale",
-        "url": "https://open.spotify.com/album/3EhSBVM5HLJO37J0QRvLsS"
-      },
-      "artists": [
-        {
-          "name": "Emma Harner",
-          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Gale",
-      "url": "https://open.spotify.com/track/6nFUqMJ8bGX78npDfMm8Ho"
     },
     {
       "added_at": "2026-03-06 05:00:17",

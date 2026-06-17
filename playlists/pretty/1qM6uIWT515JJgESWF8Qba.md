@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 478 likes - 58 songs - 3 hr 43 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 481 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 56 | [Sanctuary](https://open.spotify.com/track/6R7Vr1JGva7CgX9OXCXtCk) | [Arc Dakota](https://open.spotify.com/artist/2wtsQuGRTjQKcwvYljp2mX) | [Sanctuary](https://open.spotify.com/album/3KlQwBzzLbJc1eEEaByekh) | 3:48 |
 | 57 | [Ska Hitta Dig](https://open.spotify.com/track/3Mr9GgIBixXqp1CbbIC8XZ) | [Artikel 22](https://open.spotify.com/artist/2R9AIy5zKsWF3D838CMyGG) | [Ska Hitta Dig](https://open.spotify.com/album/3M3kg9EP5KdihRnjA5WwT2) | 3:30 |
 | 58 | [OD](https://open.spotify.com/track/2auWC9LUGBbQCqyXue9pOA) | [McMillin](https://open.spotify.com/artist/63WAZqhumZpHnlE3eNpTyc) | [Only From Afar](https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy) | 2:50 |
+| 59 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 |
+| 60 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 |
 
-Snapshot ID: `AAAB6L6uRXAkqYDYfa7T1PHgbxxVT/Nl`
+Snapshot ID: `AAAB6p/w5a4FIA9pQagNwH2WUuJsJ3kO`

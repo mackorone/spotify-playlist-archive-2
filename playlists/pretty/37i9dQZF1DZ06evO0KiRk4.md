@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,515 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,557 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 25 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
 | 26 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
 | 27 | [One of the Greats](https://open.spotify.com/track/3qrht50EwYuMgjPkM2A3aJ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 6:32 |
-| 28 | [Howl](https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:33 |
-| 29 | [Stand By Me](https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Songs From Final Fantasy XV](https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO) | 4:05 |
+| 28 | [Stand By Me](https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Songs From Final Fantasy XV](https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO) | 4:05 |
+| 29 | [Howl](https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:33 |
 | 30 | [Kiss With A Fist](https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:04 |
 | 31 | [No Light, No Light](https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:34 |
 | 32 | [You Got The Love \(Mark Knight Remix\) / One](https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [EDM Party](https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 49 | [Heavy In Your Arms](https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Between Two Lungs](https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh) | 4:47 |
 | 50 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
 
-Snapshot ID: `ai3vAAAAAAC/XsdjNakS339BKrZZ8ZzG`
+Snapshot ID: `ai9AgAAAAADixKUONR/T3ozItCYwYfGh`

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 69806,
+  "num_followers": 69821,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAkk3kWvIh9OXIvH3xI+WZj+bfao",
+  "snapshot_id": "AAAAAH8Zjx8KcflFHNVZG9c4b4y1QjlV",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -55,6 +55,30 @@
       "duration_ms": 270150,
       "name": "Radha Radha (From \"Brindhavihari\")",
       "url": "https://open.spotify.com/track/1zyvE0Ik0EPVZPbG9jk7mt"
+    },
+    {
+      "added_at": "2026-06-16 07:34:03",
+      "album": {
+        "name": "Bum Chiki Bum (From \"Jolly\")",
+        "url": "https://open.spotify.com/album/1a0uFi5ED971YU0knwPb3L"
+      },
+      "artists": [
+        {
+          "name": "Nithinraj",
+          "url": "https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        },
+        {
+          "name": "Karibasava Tadakal",
+          "url": "https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "Bum Chiki Bum (From \"Jolly\")",
+      "url": "https://open.spotify.com/track/5oInTSO5vGd3JWakTspzOw"
     },
     {
       "added_at": "2026-05-22 07:29:22",
@@ -243,6 +267,30 @@
       "duration_ms": 189422,
       "name": "Gold Factory",
       "url": "https://open.spotify.com/track/6zu8sr9OIN4co4XuGvlX4K"
+    },
+    {
+      "added_at": "2026-06-16 07:34:03",
+      "album": {
+        "name": "Jeeva Jeeva (From \"Brindhavihari\")",
+        "url": "https://open.spotify.com/album/2tdYCMFmviNgIQ1xSaFemg"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 164191,
+      "name": "Jeeva Jeeva (From \"Brindhavihari\")",
+      "url": "https://open.spotify.com/track/1PopFACF2qvN9liBAM3OSk"
     },
     {
       "added_at": "2026-05-19 13:59:33",

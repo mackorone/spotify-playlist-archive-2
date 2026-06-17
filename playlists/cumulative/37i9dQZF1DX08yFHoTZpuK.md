@@ -4,7 +4,7 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-89 songs - 6 hr 20 min
+90 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 | 2025-10-24 |  |
 | [Echoes feat\. Aile The Shota](https://open.spotify.com/track/1iw02L4YO5K6wlcDM0rAcp) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Echoes feat\. Aile The Shota](https://open.spotify.com/album/3wh9fOOwGxXmjicOYbFKtn) | 5:22 | 2025-10-24 | 2026-03-09 |
 | [Electricity \(salute Remix\)](https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Electricity \(salute Remix\)](https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk) | 4:10 | 2025-10-24 |  |
-| [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 | 2025-10-24 |  |
+| [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 | 2025-10-24 | 2026-06-17 |
 | [Feeling](https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Feeling](https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx) | 3:20 | 2025-10-24 |  |
 | [Fleeting\_637](https://open.spotify.com/track/4f0X3Zpey98T9apmYnO9Tj) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Fleeting\_637](https://open.spotify.com/album/6zNmicdavPerAaLDcXrGx3) | 7:26 | 2025-10-24 | 2025-11-15 |
 | [Free](https://open.spotify.com/track/7DKyhfk7PQdjRFWUA0eQYA) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4) | [Twofold](https://open.spotify.com/album/4mJ1nmkF2RanEbD3r62fSN) | 3:29 | 2025-10-24 |  |
@@ -73,6 +73,7 @@
 | [Runaway](https://open.spotify.com/track/6zNBvp9OUE2fZuVxrpf8eq) | [kyo](https://open.spotify.com/artist/5XuszT4jnhlxZeWZbEPues), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [SAVEDATA](https://open.spotify.com/album/62zULLXBqyEjHwKY60cmWE) | 5:50 | 2025-10-24 | 2025-11-13 |
 | [RYDEEN](https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:26 | 2025-10-24 |  |
 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 | 2025-10-24 | 2026-04-21 |
+| [sign](https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [sign](https://open.spotify.com/album/4HrkFgGt6ijBscyOrFrcjE) | 4:19 | 2026-06-12 |  |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2025-10-24 |  |
 | [Sounds Good](https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sounds Good](https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo) | 3:32 | 2025-10-24 |  |
 | [Sunset Girls](https://open.spotify.com/track/4IH5Ner6ZZw7kY8u0OrG3z) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [Summer Cutz](https://open.spotify.com/album/4h3n3omyc1zrm5ZZJHJGie) | 3:42 | 2025-10-24 | 2026-01-24 |

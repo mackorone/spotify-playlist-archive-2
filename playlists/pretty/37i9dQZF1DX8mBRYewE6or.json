@@ -1,6 +1,6 @@
 {
   "description": "d\u00e1 play que a bagun\u00e7a organizada t\u00e1 liberada ",
-  "num_followers": 1027489,
+  "num_followers": 1027367,
   "original_name": "Sextou",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        }
-      ],
-      "duration_ms": 213435,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "duration_ms": 213435,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
         "name": "Wasted Love (feat. Lagique)",
         "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 139563,
       "name": "Wasted Love (feat. Lagique)",
       "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 164541,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
@@ -1795,6 +1815,22 @@
     {
       "added_at": "2025-03-28 04:58:40",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "added_at": "2025-03-28 04:58:40",
+      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -1819,22 +1855,6 @@
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
     },
     {
       "added_at": "2025-03-28 04:58:40",
@@ -1951,26 +1971,6 @@
       "duration_ms": 175435,
       "name": "You for Me",
       "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
-    },
-    {
-      "added_at": "2025-03-28 04:58:40",
-      "album": {
-        "name": "Here We Go Again",
-        "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 164541,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
     },
     {
       "added_at": "2025-03-28 04:58:40",

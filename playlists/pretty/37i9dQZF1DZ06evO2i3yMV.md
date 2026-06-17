@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,756 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,759 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 5 | [Phases \- bad tuner Remix](https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 3:25 |
 | 6 | [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 |
 | 7 | [Light It Up](https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [RINGOS DESERT](https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL) | 3:18 |
-| 8 | [Steal My Attention](https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 4:20 |
-| 9 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 |
+| 8 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 |
+| 9 | [Steal My Attention](https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 4:20 |
 | 10 | [Smoke & Mirrors](https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Cosmic Intoxication](https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o) | 3:38 |
 | 11 | [For You](https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [For You](https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp) | 3:33 |
 | 12 | [Rose's Thorn](https://open.spotify.com/track/3r3XSRtRcpoQ87vcpYbP5h) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 4:24 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 43 | [Sakamoto's Spring](https://open.spotify.com/track/38Rny0AdKS82PbV6lNHQAr) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh) | 3:16 |
 | 44 | [Soul to Seoul](https://open.spotify.com/track/2ky2TxpMH6PSoQmwGxeK2N) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/1jvY3JDZfN7n1mEJqkkApU) | 3:29 |
 | 45 | [Floating \- feat\. Candy Crush Saga](https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Floating \(feat\. Candy Crush Saga\)](https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t) | 2:53 |
-| 46 | [Eternal](https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 2:07 |
-| 47 | [Fried for the Night](https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:11 |
+| 46 | [Fried for the Night](https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:11 |
+| 47 | [Eternal](https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 2:07 |
 | 48 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 49 | [Surrender](https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [You're Invited](https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo) | 3:40 |
-| 50 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 |
+| 50 | [Renter's Anthem](https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:58 |
 
-Snapshot ID: `ai3vAAAAAAC0VTRs4XgqeHIzxnfaG0ks`
+Snapshot ID: `ai9AgAAAAADlxhaEdOiTBVZQROxuNbpL`

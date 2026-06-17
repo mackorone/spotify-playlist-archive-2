@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Laila ci fa venire voglia un po' di estate Mediterranea, un po' di volerci mettere i pattini ai piedi e farci il lungomare di Santa Monica 🛼🧜🏼‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,858 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,860 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

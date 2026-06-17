@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 22973,
+  "num_followers": 22977,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABCZtuDbDMxfmVZaScMJTeF",
+  "snapshot_id": "ai9AgAAAAACVoMxlRQr+zYugef64pTyh",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 152426,
-      "name": "Maryjane y Blancanieves",
-      "url": "https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP"
+      "duration_ms": 220570,
+      "name": "Videos y Fotos",
+      "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 220570,
-      "name": "Videos y Fotos",
-      "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
+      "duration_ms": 152426,
+      "name": "Maryjane y Blancanieves",
+      "url": "https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 177205,
-      "name": "La G\u00fcera",
-      "url": "https://open.spotify.com/track/6QedahwFMlsiWRILwtZJUG"
+      "duration_ms": 135441,
+      "name": "Diablitos",
+      "url": "https://open.spotify.com/track/2cyXIrnsHJUN0HoRaf4HyR"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 135441,
-      "name": "Diablitos",
-      "url": "https://open.spotify.com/track/2cyXIrnsHJUN0HoRaf4HyR"
+      "duration_ms": 177205,
+      "name": "La G\u00fcera",
+      "url": "https://open.spotify.com/track/6QedahwFMlsiWRILwtZJUG"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Mi Reyna",
+      "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Morro Loco",
         "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 191944,
       "name": "Morro Loco",
       "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Mi Reyna",
-      "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Substancias",
-        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Substancias",
-      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 157080,
       "name": "No Me Quiero Enamorar",
       "url": "https://open.spotify.com/track/21d97LgKFYPMXdXaieJhFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 170747,
-      "name": "Es Prohibido",
-      "url": "https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok"
+      "duration_ms": 152525,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/453sDOvAWU4QVvGegD46du"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 152525,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/453sDOvAWU4QVvGegD46du"
+      "duration_ms": 170747,
+      "name": "Es Prohibido",
+      "url": "https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok"
     }
   ],
   "unique_name": "This Is Esteban Gabriel",

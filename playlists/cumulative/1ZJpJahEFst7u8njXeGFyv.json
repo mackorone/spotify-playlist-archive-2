@@ -922,7 +922,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 405186,
       "name": "A Hymn for St Cecilia",
       "url": "https://open.spotify.com/track/5tkXZILJgoFEq2jLU5DxTB"
@@ -5182,7 +5182,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 226373,
       "name": "Dolomites, pale mountains: IV. Saslonch",
       "url": "https://open.spotify.com/track/24dLxoTOrFEf8k8vJR79xO"
@@ -5296,6 +5296,24 @@
       "duration_ms": 201013,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/37soSo5PSvolIfAKwFw5yq"
+    },
+    {
+      "album": {
+        "name": "Echoes of Colors",
+        "url": "https://open.spotify.com/album/0RsZUNP73u5mPVm3sABojG"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Echoes of Colors",
+      "url": "https://open.spotify.com/track/2iK2iWYwUGp19nevOXCzdk"
     },
     {
       "album": {
@@ -10176,7 +10194,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 164632,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/4s29AsWgcC9WBeicomKq1u"
@@ -11100,7 +11118,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 145859,
       "name": "Mozart Piano Concerto Variation (After Piano Concerto No. 27 in B-Flat Major, K. 595, II. Larghetto) [Arr. for Piano by Jan-Peter Kl\u00f6pfel)",
       "url": "https://open.spotify.com/track/1BBtTLko2lOBW6oCDvKMZu"
@@ -13121,6 +13139,32 @@
     },
     {
       "album": {
+        "name": "Path\u00e9tique Variation (After Piano Sonata No. 8, Op.13: II. Adagio cantabile)",
+        "url": "https://open.spotify.com/album/4KLnXjq0u5CwUNJNahbbWH"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149234,
+      "name": "Path\u00e9tique Variation (After Piano Sonata No. 8, Op.13: II. Adagio cantabile)",
+      "url": "https://open.spotify.com/track/092N8Wbq86yTgSnh9Xmt0Q"
+    },
+    {
+      "album": {
         "name": "Pavane Floue",
         "url": "https://open.spotify.com/album/4UQWJkNFyhumm5vouylxGu"
       },
@@ -14458,7 +14502,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 77160,
       "name": "Pr\u00e9lude, M. 65",
       "url": "https://open.spotify.com/track/0ryPaNXmcXz5NrTBRhlEKY"
@@ -15721,6 +15765,28 @@
     },
     {
       "album": {
+        "name": "Seal Lullaby",
+        "url": "https://open.spotify.com/album/07LsRX47nlG7MKz7DLNSWY"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257697,
+      "name": "Seal Lullaby",
+      "url": "https://open.spotify.com/track/27ON1ewRutcn4K1GDNRr3J"
+    },
+    {
+      "album": {
         "name": "Seek Ye First the Kingdom of God",
         "url": "https://open.spotify.com/album/0AbC6txfANKbO9l3uGh2vj"
       },
@@ -16086,7 +16152,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 114432,
       "name": "Six Pieces for Violin & Piano: III. Lento (Arr. for Violin & Harp by Esther Abrami)",
       "url": "https://open.spotify.com/track/20ZI8IYSuzzHNaln5lYOBw"
@@ -17544,7 +17610,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 381256,
       "name": "Tema con variazioni",
       "url": "https://open.spotify.com/track/4rZEVQIWDcZgrJmMpaa4Hv"
@@ -18728,7 +18794,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 213091,
       "name": "The Swallow",
       "url": "https://open.spotify.com/track/5oTafZbrg0gcJU9sd3bSfX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,807 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,823 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [Como No Quererte](https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:34 |
 | 50 | [De Ahí Pal Real \(En Vivo\)](https://open.spotify.com/track/0S871eJczQPGefjUryFPcD) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Bienvenidos a Durango \(En Vivo\)](https://open.spotify.com/album/3ESxQqYpPl6X1lppH2W6qS) | 2:43 |
 
-Snapshot ID: `ai3vAAAAAABkLLbhIObjQoI8hLwddpcl`
+Snapshot ID: `ai9AgAAAAAA601X5jFm/Ljbfjy0IdO8Y`

@@ -1,6 +1,6 @@
 {
   "description": "A relaxing atmosphere of Jazz piano sounds.",
-  "num_followers": 570335,
+  "num_followers": 570301,
   "original_name": "The Piano Bar",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49"
-      },
-      "artists": [
-        {
-          "name": "Emily Green Trio",
-          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
-        }
-      ],
-      "duration_ms": 213837,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "Bluesette",
         "url": "https://open.spotify.com/album/3WxNprVVDsnLaayEQI3PFX"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 205823,
       "name": "Bluesette",
       "url": "https://open.spotify.com/track/5sF4nEG1dZLBnODQWxGhUP"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49"
+      },
+      "artists": [
+        {
+          "name": "Emily Green Trio",
+          "url": "https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg"
+        }
+      ],
+      "duration_ms": 213837,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
-      },
-      "artists": [
-        {
-          "name": "Cara Myers Trio",
-          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 230050,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Du & Jag",
-        "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns & Dotter",
-          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
-        }
-      ],
-      "duration_ms": 182563,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "i've got a crush on you",
         "url": "https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 216759,
       "name": "i've got a crush on you",
       "url": "https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Du & Jag",
+        "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "duration_ms": 182563,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Just For Tonight",
-        "url": "https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH"
-      },
-      "artists": [
-        {
-          "name": "CMC 3",
-          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
-        }
-      ],
-      "duration_ms": 164446,
-      "name": "Just For Tonight",
-      "url": "https://open.spotify.com/track/1vwtIkZtFqmekoyuHH5jxO"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "My Side Of Town",
         "url": "https://open.spotify.com/album/0FbpuR6VWZJLaYxJbAKJqE"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Embraced by Night",
-        "url": "https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG"
+        "name": "Just For Tonight",
+        "url": "https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH"
       },
       "artists": [
         {
-          "name": "Sparrow & Bird",
-          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
         }
       ],
-      "duration_ms": 183544,
-      "name": "Embraced by Night",
-      "url": "https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v"
+      "duration_ms": 164446,
+      "name": "Just For Tonight",
+      "url": "https://open.spotify.com/track/1vwtIkZtFqmekoyuHH5jxO"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -855,6 +839,22 @@
       "duration_ms": 164682,
       "name": "Sunset Stroll",
       "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Embraced by Night",
+        "url": "https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Bird",
+          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+        }
+      ],
+      "duration_ms": 183544,
+      "name": "Embraced by Night",
+      "url": "https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "You're All I Can Think Of",
-        "url": "https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB"
-      },
-      "artists": [
-        {
-          "name": "Original Three",
-          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
-        }
-      ],
-      "duration_ms": 298111,
-      "name": "You're All I Can Think Of",
-      "url": "https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "Beauty Becomes You",
         "url": "https://open.spotify.com/album/4sBnW9DTjFjoZQQtVRedpm"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 187002,
       "name": "Like a Starfish in the Sea",
       "url": "https://open.spotify.com/track/3BoZ25lh3CE3wkrkVl49qT"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "You're All I Can Think Of",
+        "url": "https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB"
+      },
+      "artists": [
+        {
+          "name": "Original Three",
+          "url": "https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3"
+        }
+      ],
+      "duration_ms": 298111,
+      "name": "You're All I Can Think Of",
+      "url": "https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "A place I knew",
-        "url": "https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ"
-      },
-      "artists": [
-        {
-          "name": "The Sweetgreens",
-          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "A place I knew",
-      "url": "https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "Everytime We Say Goodbye",
         "url": "https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
+        "name": "A place I knew",
+        "url": "https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "A place I knew",
+      "url": "https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
         "name": "Earnestly",
         "url": "https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 252813,
       "name": "Earnestly",
       "url": "https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
-        "name": "Solitaire",
-        "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
-      },
-      "artists": [
-        {
-          "name": "Leeluck & Co",
-          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
-        }
-      ],
-      "duration_ms": 211053,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Did you dream too",
-        "url": "https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg"
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
       },
       "artists": [
         {
-          "name": "Noel Hayes",
-          "url": "https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S"
+          "name": "Leeluck & Co",
+          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
         }
       ],
-      "duration_ms": 220009,
-      "name": "Did you dream too",
-      "url": "https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq"
+      "duration_ms": 211053,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "I'll Never Smile Again",
-        "url": "https://open.spotify.com/album/11ex2SQdtNwOPbxvroSghz"
+        "name": "Did you dream too",
+        "url": "https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg"
       },
       "artists": [
         {
-          "name": "Cecil Andrews",
-          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+          "name": "Noel Hayes",
+          "url": "https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S"
         }
       ],
-      "duration_ms": 166975,
-      "name": "I'll Never Smile Again",
-      "url": "https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr"
+      "duration_ms": 220009,
+      "name": "Did you dream too",
+      "url": "https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1255,6 +1239,22 @@
       "duration_ms": 234370,
       "name": "Walking talking fields",
       "url": "https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "I'll Never Smile Again",
+        "url": "https://open.spotify.com/album/11ex2SQdtNwOPbxvroSghz"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "duration_ms": 166975,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Serene Resonance",
-        "url": "https://open.spotify.com/album/5mbcW7GzH4RB57BAQ83Xfb"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Jazz Band",
-          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
-        }
-      ],
-      "duration_ms": 247833,
-      "name": "Serene Resonance",
-      "url": "https://open.spotify.com/track/0BdpQlHLBCtTLje6OhuqXY"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "In the Mood for Romance",
         "url": "https://open.spotify.com/album/51WtIwzbjyyTsiGXwdiwUR"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 219069,
       "name": "In the Mood for Romance",
       "url": "https://open.spotify.com/track/3hGuzdYTPih41oH3L2m1fu"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Serene Resonance",
+        "url": "https://open.spotify.com/album/5mbcW7GzH4RB57BAQ83Xfb"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Jazz Band",
+          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
+        }
+      ],
+      "duration_ms": 247833,
+      "name": "Serene Resonance",
+      "url": "https://open.spotify.com/track/0BdpQlHLBCtTLje6OhuqXY"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Part of the moment",
-        "url": "https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19"
-      },
-      "artists": [
-        {
-          "name": "Bridgerton Vail",
-          "url": "https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC"
-        }
-      ],
-      "duration_ms": 170145,
-      "name": "Part of the moment",
-      "url": "https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/0EiGN4mIttPFWFCr5VWoWV"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 207375,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7ib0OYB581rQOdkhmyqD6T"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Part of the moment",
+        "url": "https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19"
+      },
+      "artists": [
+        {
+          "name": "Bridgerton Vail",
+          "url": "https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC"
+        }
+      ],
+      "duration_ms": 170145,
+      "name": "Part of the moment",
+      "url": "https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
+        "name": "I'm Old Fashioned",
+        "url": "https://open.spotify.com/album/2VAEK52l7TchRl2CKfFK4M"
+      },
+      "artists": [
+        {
+          "name": "Drew Milner",
+          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/5qaAnqAeGIGJeAl4mEl2CF"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
         "name": "Strangest Sea",
         "url": "https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 233591,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
-        "name": "I'm Old Fashioned",
-        "url": "https://open.spotify.com/album/2VAEK52l7TchRl2CKfFK4M"
-      },
-      "artists": [
-        {
-          "name": "Drew Milner",
-          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/5qaAnqAeGIGJeAl4mEl2CF"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Milano",
-        "url": "https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm"
-      },
-      "artists": [
-        {
-          "name": "Andy Luma Trio",
-          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
-        }
-      ],
-      "duration_ms": 238292,
-      "name": "Milano",
-      "url": "https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "Beloved Moment",
         "url": "https://open.spotify.com/album/4qpyfuf9zMuv3QWEjdYlze"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 206511,
       "name": "Beloved Moment",
       "url": "https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Milano",
+        "url": "https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "duration_ms": 238292,
+      "name": "Milano",
+      "url": "https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR"
     },
     {
       "added_at": "2026-05-25 11:22:48",

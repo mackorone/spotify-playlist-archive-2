@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135 likes - 284 songs - 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 136 likes - 284 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 100 | [MORAL SUPPORT](https://open.spotify.com/track/5HcrpwNKs0ExfR3hdUOqMW) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:56 |
 | 101 | [Personal](https://open.spotify.com/track/2nXa9R1HW85cFPDFxmnutP) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 4:19 |
 | 102 | [Is It Me](https://open.spotify.com/track/7iqP2bvYybkkDM8Ulr2RNs) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:16 |
-| 103 | [Joyride](https://open.spotify.com/track/4j6RgRpQ6HC4JsOUcjwVtN) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:55 |
-| 104 | [Lune](https://open.spotify.com/track/3gqnVUcHIMPmhCJ33ytGtP) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
+| 103 | [Lune](https://open.spotify.com/track/3gqnVUcHIMPmhCJ33ytGtP) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
+| 104 | [Joyride](https://open.spotify.com/track/4j6RgRpQ6HC4JsOUcjwVtN) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:55 |
 | 105 | [Freedom](https://open.spotify.com/track/0liZik8sBnhhlPrKt2Cdb7) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:35 |
 | 106 | [Ember](https://open.spotify.com/track/6KLZxWLnzXC8QLMF0iKTqm) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 2:40 |
 | 107 | [Beautiful Life](https://open.spotify.com/track/4kTdMaRfj7X032F1T6iv8o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:50 |
@@ -293,4 +293,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 283 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 | 284 | [Shame](https://open.spotify.com/track/7CtHfnRGEwcbN0aGr8WIJn) | [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [Shame](https://open.spotify.com/album/4q7m1vMzZ3vzjXUm13R6gf) | 4:23 |
 
-Snapshot ID: `AcUUogAAAAA01xqf1oWHTlDnX+vZSwoN`
+Snapshot ID: `AcUaBgAAAAAIkt1JVaki/e2i3YJBctwn`

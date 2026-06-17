@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,050 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,074 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [Nada De Ti](https://open.spotify.com/track/5TGWclsMaYPKXsbMlfm4jm) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ventanas Al Viento](https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE) | 2:47 |
 | 50 | [La Viviana](https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Aferrado Al Amor](https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV) | 3:28 |
 
-Snapshot ID: `ai3vAAAAAABdVgbduwJR8XteRXNWliQo`
+Snapshot ID: `ai9AgAAAAADeuBg6xD7/aj+NLn9GOH/f`

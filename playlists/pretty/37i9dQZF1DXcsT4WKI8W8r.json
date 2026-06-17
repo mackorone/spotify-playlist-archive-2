@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 362152,
+  "num_followers": 362205,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Beautiful Trauma",
-        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 269595,
-      "name": "What About Us",
-      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
-    },
-    {
       "added_at": "2025-03-18 09:51:32",
       "album": {
         "name": "We Hug Now",
@@ -323,6 +307,22 @@
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Beautiful Trauma",
+        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 269595,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Chinese Wall",
-        "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
-      },
-      "artists": [
-        {
-          "name": "Philip Bailey",
-          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
-        },
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 304506,
-      "name": "Easy Lover",
-      "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Songs For You, Truths For Me (International Exclusive Bundle)",
         "url": "https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 250453,
       "name": "Broken Strings",
       "url": "https://open.spotify.com/track/6jBUP2KCe821yqf1hiBqPR"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Chinese Wall",
+        "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
+      },
+      "artists": [
+        {
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
+        },
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 304506,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -1259,38 +1259,6 @@
       "duration_ms": 155506,
       "name": "Hallelujah, I Love Her So",
       "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
-    },
-    {
-      "added_at": "2025-03-18 09:51:32",
-      "album": {
-        "name": "Next Summer",
-        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Next Summer",
-      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1311,18 +1279,34 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Chain of Fools",
-      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
+      "added_at": "2025-03-18 09:51:32",
+      "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1339,6 +1323,22 @@
       "duration_ms": 125440,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Chain of Fools",
+      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 224743,
       "name": "You Said You'd Grow Old With Me",
       "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
       "added_at": "2024-04-05 00:00:00",

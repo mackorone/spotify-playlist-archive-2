@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 95053,
+  "num_followers": 95061,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Hard Working Man",
-        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Middle of Nowhere (feat. Chad Kroeger)",
         "url": "https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 240014,
       "name": "Middle of Nowhere (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Hard Working Man",
+        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "15 Minute Smog Check",
-        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
-      },
-      "artists": [
-        {
-          "name": "The Takes",
-          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
-        }
-      ],
-      "duration_ms": 234036,
-      "name": "15 Minute Smog Check",
-      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "In Stride",
         "url": "https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 227199,
       "name": "In Stride",
       "url": "https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "15 Minute Smog Check",
+        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "duration_ms": 234036,
+      "name": "15 Minute Smog Check",
+      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
     },
     {
       "added_at": "2026-04-10 16:28:54",

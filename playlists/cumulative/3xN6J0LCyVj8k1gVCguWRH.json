@@ -9996,7 +9996,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 298306,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
@@ -28970,7 +28970,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 141000,
       "name": "Duality",
       "url": "https://open.spotify.com/track/1fqs8b6zY88h3rKk3opzzm"
@@ -36125,6 +36125,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6M8WTXLAPK5STNSzoiKCkF"
+      },
+      "artists": [
+        {
+          "name": "Tee Droko",
+          "url": "https://open.spotify.com/artist/7eDO4oXLr4F9WwQBK2pPvV"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149906,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6aEMo6tcmF96eERhs1xL4B"
+    },
+    {
+      "album": {
         "name": "Mathien Forever",
         "url": "https://open.spotify.com/album/3iu7sg3tRfV9txlukkoeB6"
       },
@@ -40664,6 +40682,32 @@
       "duration_ms": 210562,
       "name": "Good Stuff",
       "url": "https://open.spotify.com/track/3zeA8ztyj9u42gpxmFBHSG"
+    },
+    {
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/2qLIzsqLPXiEQ0G4xEpPwv"
+      },
+      "artists": [
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "Carrie Baxter",
+          "url": "https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/3015Q5nVkHFXvGJEh3oMJS"
     },
     {
       "album": {
@@ -50576,6 +50620,24 @@
       "duration_ms": 187156,
       "name": "In Synthesis",
       "url": "https://open.spotify.com/track/5wg0wKIj8NeWkngPgPe1nD"
+    },
+    {
+      "album": {
+        "name": "In The End",
+        "url": "https://open.spotify.com/album/0MmcK2P77YPST0VrM90ukW"
+      },
+      "artists": [
+        {
+          "name": "Spun Mellow",
+          "url": "https://open.spotify.com/artist/5XjAtljOcJIzYoefDXRUxQ"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208584,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/1zn22ILoXpsZJrONPhDt7v"
     },
     {
       "album": {
@@ -101161,6 +101223,24 @@
     },
     {
       "album": {
+        "name": "The Westside",
+        "url": "https://open.spotify.com/album/6nrdHum12RXq4viuf7rdcI"
+      },
+      "artists": [
+        {
+          "name": "Maudlin Strangers",
+          "url": "https://open.spotify.com/artist/4KNxadN8IN1sYO7CWAOjoH"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149625,
+      "name": "The Westside",
+      "url": "https://open.spotify.com/track/5qxFhSqy2sDhZs2ACLUCWn"
+    },
+    {
+      "album": {
         "name": "The Will",
         "url": "https://open.spotify.com/album/6Ma8KwBEKIfA5qj5G0HxoQ"
       },
@@ -105960,6 +106040,24 @@
       "duration_ms": 194716,
       "name": "Un'altra vita 2.0",
       "url": "https://open.spotify.com/track/3C73vTb6bMOiBLcrEpTwoO"
+    },
+    {
+      "album": {
+        "name": "Una Noche En Abu Dhabi",
+        "url": "https://open.spotify.com/album/4Iq3pA9nAZuOhIE1nY03LN"
+      },
+      "artists": [
+        {
+          "name": "Eric Bad",
+          "url": "https://open.spotify.com/artist/6Cah6PQI6x3LQV6FL2ErwF"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161080,
+      "name": "Una Noche En Abu Dhabi",
+      "url": "https://open.spotify.com/track/56Zqa82BFRiMOdFXfootpJ"
     },
     {
       "album": {
@@ -111666,7 +111764,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 245036,
       "name": "When You Were It",
       "url": "https://open.spotify.com/track/0B9N65zXI3Je9aXmdhBw5P"

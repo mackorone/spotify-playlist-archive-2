@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 
 > <a href="spotify:artist:0g3NiCRhEv7M4SEDMrpItN">TEED</a>'s favorite tracks\. Updated regularly\. Curated by TEED\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744 likes - 100 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752 likes - 100 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 | 19 | [Always Open \(Falle's Roots\) \- Photay Remix](https://open.spotify.com/track/4UJPbvkST0U2SQv4KU5uu1) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Always Cosmic](https://open.spotify.com/album/6upoedkcamo2xXXcO1peQU) | 6:00 |
 | 20 | [Lovesubzero \- Ian Pooley Remix](https://open.spotify.com/track/3g1CKfD9BtfIvgEexyz04W) | [Gavin Friday](https://open.spotify.com/artist/0SPl1471EOdKn6IrGP3Jwx), [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Lovesubzero \(Ian Pooley Remix\)](https://open.spotify.com/album/65UW7r94Sy5zDudI3tqm3D) | 7:04 |
 | 21 | [Carter 21](https://open.spotify.com/track/0dGrnBRDGJDbrKrTL9IYgB) | [Stevie Cox](https://open.spotify.com/artist/4KRVi6GzU2BCnXZMDFyWlr), [ansboy](https://open.spotify.com/artist/4w5Z0GPtnaafYGXnb3M5qb) | [Twice Like Rice](https://open.spotify.com/album/12oRX78QCQv14ubVUdRrVF) | 6:53 |
-| 22 | [My Melody \- TEED Club Mix](https://open.spotify.com/track/2f6NEdZijB2Fuys4DrRCHh) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Always With A Remix](https://open.spotify.com/album/23PksvTJUKwBAFOZFnsz4m) | 5:01 |
+| 22 | [My Melody \(TEED Club Mix\)](https://open.spotify.com/track/2f6NEdZijB2Fuys4DrRCHh) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Always With A Remix](https://open.spotify.com/album/23PksvTJUKwBAFOZFnsz4m) | 5:01 |
 | 23 | [Leave Your Life \- Lonely Hearts Mix](https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL) | [Alex Kassian](https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY) | [Leave Your Life](https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS) | 6:09 |
 | 24 | [Phobia \- Hell's Edit](https://open.spotify.com/track/2ABEwI3aMdYdvfttLG1Dnv) | [Phobia](https://open.spotify.com/artist/7qPt8u8SPvrsb0xfrrEiuN), [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C) | [CD Eleven](https://open.spotify.com/album/6CPVv6nYc4mq97FNFdjuOQ) | 4:04 |
 | 25 | [Broken Jam](https://open.spotify.com/track/3QrdkFA0JKRUkIXoQdkD0P) | [X & Ivy](https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH) | [Broken Jam](https://open.spotify.com/album/7wL0FZ0MWnHH5eGSag1p2v) | 3:30 |

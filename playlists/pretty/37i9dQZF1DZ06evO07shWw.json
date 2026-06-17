@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9262,
+  "num_followers": 9261,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAApae/A8sCUpgJc8K9p1vge",
+  "snapshot_id": "ai9AgAAAAAC+iqOFyuq0b+v4eywxXZzr",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+      "duration_ms": 206737,
+      "name": "Seeing Someone Else",
+      "url": "https://open.spotify.com/track/2EuYoHOVQOR4Sperca5Uon"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 206737,
-      "name": "Seeing Someone Else",
-      "url": "https://open.spotify.com/track/2EuYoHOVQOR4Sperca5Uon"
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": null,
@@ -406,11 +406,15 @@
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         }
       ],
-      "duration_ms": 200557,
-      "name": "Treated Me Good",
-      "url": "https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C"
+      "duration_ms": 206760,
+      "name": "Runnin (with JP Saxe)",
+      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
     },
     {
       "added_at": null,
@@ -486,15 +490,11 @@
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         }
       ],
-      "duration_ms": 206760,
-      "name": "Runnin (with JP Saxe)",
-      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
+      "duration_ms": 200557,
+      "name": "Treated Me Good",
+      "url": "https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C"
     },
     {
       "added_at": null,

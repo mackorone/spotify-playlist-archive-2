@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16406,
+  "num_followers": 16421,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABP4/gz/VtMTjUyTWu5yDAK",
+  "snapshot_id": "ai9AgAAAAADbwiNf4J1sCeBsGKvnv4hH",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/5wN7FwXj5SujmvTPkWwdbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 230086,
+      "name": "Lifetime Lover",
+      "url": "https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
         "url": "https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e"
       },
@@ -147,38 +179,6 @@
       "duration_ms": 236434,
       "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
       "url": "https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 230086,
-      "name": "Lifetime Lover",
-      "url": "https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/5wN7FwXj5SujmvTPkWwdbn"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/06IOHmRGlqKmHWXd3cKOKl"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 210070,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6lwJuS0Jk7x0L5TEAjlNeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Raggamuffin",
-      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
     },
     {
       "added_at": null,

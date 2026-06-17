@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 417285,
+  "num_followers": 417281,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "I Can't Wait",
         "url": "https://open.spotify.com/album/2fuTVa0NlCsdFwzZe9VmWe"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 131803,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/29JA4nu6U5FLsMpbmvNjHx"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Inhale / Exhale",
-        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Nights Out",
-        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
-      },
-      "artists": [
-        {
-          "name": "Lamchopz",
-          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
-        }
-      ],
-      "duration_ms": 343414,
-      "name": "Nights Out",
-      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Sleepyhead 2025",
         "url": "https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 245713,
       "name": "Sleepyhead 2025",
       "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Nights Out",
+        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
+      },
+      "artists": [
+        {
+          "name": "Lamchopz",
+          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
+        }
+      ],
+      "duration_ms": 343414,
+      "name": "Nights Out",
+      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Old Friend (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 174398,
+      "name": "Old Friend (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "A Different Path",
         "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
       },
@@ -1335,30 +1355,6 @@
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "What a Wonderful World (Krister Remix)",
-        "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
-      },
-      "artists": [
-        {
-          "name": "No.oN",
-          "url": "https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK"
-        },
-        {
-          "name": "Nikko Mad",
-          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
-        },
-        {
-          "name": "Krister",
-          "url": "https://open.spotify.com/artist/3zrnHI8M8fvS6VmPF8behc"
-        }
-      ],
-      "duration_ms": 95023,
-      "name": "What a Wonderful World - Krister Remix",
-      "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
     }
   ],
   "unique_name": "Just Chill",

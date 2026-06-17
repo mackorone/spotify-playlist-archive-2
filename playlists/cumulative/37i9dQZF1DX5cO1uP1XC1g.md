@@ -4,7 +4,7 @@
 
 > The Hottest Arabic Music.<br/>Cover: Sherine
 
-464 songs - 1 day 3 hr 44 min
+466 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Baddi Hada Hebbou](https://open.spotify.com/track/5x6ABIAk3xrwFSAkZeppTP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 4:14 | 2023-02-02 | 2023-06-02 |
 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 | 2026-02-13 |  |
 | [Bagheeb Bmzagy](https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Bagheeb Bmzagy](https://open.spotify.com/album/4WL5gL4OulnpsFDXzba3ZT) | 3:20 | 2023-08-14 | 2024-03-03 |
+| [Bahareya](https://open.spotify.com/track/1LPcEP3HCUbOFvb6NEH1Ma) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Sammaouny](https://open.spotify.com/album/3kdDQxglL8c1lqOKD8JNwT) | 3:31 | 2026-06-16 |  |
 | [Bahr Shar](https://open.spotify.com/track/1AZjgKOrI1MVwoDKYlZIdF) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [Bahr Shar](https://open.spotify.com/album/60jBCD1LI5FDHxPQV3mef5) | 2:51 | 2021-12-12 | 2022-07-27 |
 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 | 2025-11-10 |  |
 | [Baree](https://open.spotify.com/track/54nQpzXkuEqeYcw5CrkIBI) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 2:33 | 2021-12-23 | 2022-10-12 |
@@ -177,7 +178,7 @@
 | [Hayaty Msh Tamam](https://open.spotify.com/track/5P1lXXSESjRau7dg9l6egg) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hayaty Msh Tamam](https://open.spotify.com/album/0zBxKqULhsSAiY3qWbeJMM) | 3:15 | 2021-12-12 | 2022-01-04 |
 | [Haydi Habibit Albi](https://open.spotify.com/track/5Avczi9dhLQDx8JHrlkJZp) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Haydi Habibit Albi](https://open.spotify.com/album/4WGeGLGs0o0Uc9fnrlREfZ) | 3:42 | 2022-02-15 | 2022-11-02 |
 | [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 | 2022-01-25 | 2022-12-27 |
-| [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 | 2025-09-07 |  |
+| [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 | 2025-09-07 | 2026-06-17 |
 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 | 2021-12-12 | 2022-09-19 |
 | [Hiya Hiya](https://open.spotify.com/track/0tNpveVnqAXngNFP1MWBXn) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/79IFajmgcokKaytvnRFomI) | 3:37 | 2022-11-14 | 2024-03-03 |
 | [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 | 2022-07-29 | 2022-11-16 |
@@ -266,6 +267,7 @@
 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 | 2025-09-27 |  |
 | [Nadi Canadi](https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Nadi Canadi](https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE) | 3:41 | 2021-12-12 | 2022-02-08 |
 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 | 2022-06-30 | 2023-02-01 |
+| [Nano](https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nano](https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk) | 3:36 | 2026-06-16 |  |
 | [Nebghik Ou Manbaynhach](https://open.spotify.com/track/7F96fzZwkdJTN9JlFa0895) | [DJ Adel](https://open.spotify.com/artist/6tqV6GRchcDLsgHJxwKQdu), [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1), [Maya](https://open.spotify.com/artist/6O72cUuzCnRB78cBCAHmBa) | [Nebghik Ou Manbaynhach](https://open.spotify.com/album/05DbEYXmplRR28kXZasjBF) | 4:40 | 2021-12-12 | 2022-02-08 |
 | [Negma Meadeya](https://open.spotify.com/track/42GbwrlUpjPbt5K5Bf0dJ1) | [Wama](https://open.spotify.com/artist/7yB2bLPVo9PoqeN9c1T6UN) | [Negma Meadeya](https://open.spotify.com/album/52CBXtNmcYutbQsNRn68Cq) | 3:22 | 2021-12-12 | 2022-11-05 |
 | [Niya](https://open.spotify.com/track/61yI81mtTxFzp4C017qFkS) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Niya](https://open.spotify.com/album/41Ezm9UZIgXHW7J9CocdjO) | 3:22 | 2021-12-12 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,648 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,642 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 15 | [All Alone on Christmas](https://open.spotify.com/track/0SqjReuKXCbq2a8HVmyKIq) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [The Christmas Project](https://open.spotify.com/album/1d0DD0EF2UvbWgXtUOmxJt) | 3:14 |
 | 16 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2qqZ5fOGuNvYVzgPFDLQ4l) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Worldmusic for Christmas](https://open.spotify.com/album/71j9nbHz1Ucdncs7Gtp7lh) | 4:01 |
 | 17 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:25 |
-| 18 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:35 |
-| 19 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 18 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 19 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:35 |
 | 20 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
 | 21 | [The Christmas Song](https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Christmas Song](https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n) | 2:55 |
 | 22 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 48 | [The Christmas Song \(Merry Christmas To You\) \- Remastered 1999](https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song](https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O) | 3:11 |
 | 49 | [Make It Home](https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make It Home](https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g) | 2:59 |
 | 50 | [The Magic Of Christmas](https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [The Magic Of Christmas](https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08) | 3:27 |
-| 51 | [Driving Home for Christmas](https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Driving Home For Christmas](https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo) | 3:03 |
-| 52 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
+| 51 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
+| 52 | [Driving Home for Christmas](https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Driving Home For Christmas](https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo) | 3:03 |
 | 53 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 |
 | 54 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
 | 55 | [My Favorite Things](https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [My Favorite Things](https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt) | 3:11 |

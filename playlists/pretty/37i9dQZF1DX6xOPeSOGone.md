@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,570,338 likes - 125 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,570,287 likes - 125 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 35 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
 | 36 | [Fanny \(Be Tender With My Love\)](https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 4:03 |
 | 37 | [Lost In Love](https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 3:53 |
-| 38 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
+| 38 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [At the Speed of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
 | 39 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
 | 40 | [Reelin' In The Years](https://open.spotify.com/track/1Vet0EkiVZ8pTixwJEaCVb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [A Decade Of Steely Dan](https://open.spotify.com/album/3HDO2EYXQXzFVK7fmXSpqs) | 4:37 |
 | 41 | [While You See A Chance](https://open.spotify.com/track/4tFumK7mnlcpNeHCNEQ4wc) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Arc Of A Diver](https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL) | 5:13 |

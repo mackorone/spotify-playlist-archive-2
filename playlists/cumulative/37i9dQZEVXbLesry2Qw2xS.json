@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 189176,
       "name": "100 roosi",
       "url": "https://open.spotify.com/track/56ygCy6bOYAOTSdi6nRjQa"
@@ -5202,7 +5202,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
@@ -9174,7 +9174,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 237480,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1O8d2pWtBclzuY3FctBPVa"
@@ -14018,7 +14018,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 194117,
       "name": "Eks sa ise otsusta",
       "url": "https://open.spotify.com/track/6H185nWC1FcihgEbRKsphB"
@@ -22114,7 +22114,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
@@ -23320,7 +23320,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 216000,
       "name": "Igavuse teisel pool",
       "url": "https://open.spotify.com/track/19UjxZfTUUPTBTvADICXKw"
@@ -24698,7 +24698,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -25338,6 +25338,24 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219426,
+      "name": "Just Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"
     },
     {
       "album": {
@@ -29032,7 +29050,7 @@
       ],
       "date_added": "2021-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -32699,6 +32717,24 @@
     },
     {
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284373,
+      "name": "Meet Me Halfway",
+      "url": "https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"
+    },
+    {
+      "album": {
         "name": "meet the grahams",
         "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
       },
@@ -34143,6 +34179,28 @@
     },
     {
       "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+    },
+    {
+      "album": {
         "name": "Miss You (Sped Up Version)",
         "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
       },
@@ -35460,7 +35518,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 195652,
       "name": "Mustrid",
       "url": "https://open.spotify.com/track/4tOHWbl6q8ZYnspnbsb8nf"
@@ -42209,6 +42267,24 @@
     },
     {
       "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Pump It",
+      "url": "https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L"
+    },
+    {
+      "album": {
         "name": "Punased Bikiinid",
         "url": "https://open.spotify.com/album/61pKrC7x7EApCIYR88gsgi"
       },
@@ -42538,7 +42614,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 250533,
       "name": "Pyro",
       "url": "https://open.spotify.com/track/18VWSOioe5ys5LF7XxSlUx"
@@ -43560,7 +43636,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 201733,
       "name": "Revelry",
       "url": "https://open.spotify.com/track/0bTlXQJzw4ddaLQPJ4rGS2"
@@ -43962,7 +44038,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -55794,7 +55870,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
@@ -56418,7 +56494,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 206622,
       "name": "viinaingel",
       "url": "https://open.spotify.com/track/3llyYmTWZDBGCZH76jF4ck"

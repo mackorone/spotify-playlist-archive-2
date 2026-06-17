@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 
 > Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Idgitaf, Hindia
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,712 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,750 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

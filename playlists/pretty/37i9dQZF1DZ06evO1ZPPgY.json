@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 235087,
+  "num_followers": 235109,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAD/9K38cK/iVu+RplvroszU",
+  "snapshot_id": "ai9AgAAAAACAmZcg0V+ubde146Vy4/8V",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Love Makin' Music",
-      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beware!",
         "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 261133,
       "name": "I Won't Settle For Less Than The Best (For You Baby)",
       "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Love Makin' Music",
+      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Gon'",
-        "url": "https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 520666,
-      "name": "Girl It's True, Yes I'll Always Love You",
-      "url": "https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 270653,
       "name": "Put Me In Your Mix - Single Version",
       "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Gon'",
+        "url": "https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 520666,
+      "name": "Girl It's True, Yes I'll Always Love You",
+      "url": "https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r"
     },
     {
       "added_at": null,

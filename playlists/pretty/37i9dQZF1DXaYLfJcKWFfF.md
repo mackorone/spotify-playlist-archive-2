@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,161 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,180 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 16 | [Weight Off My Shoulders \- Reimagined](https://open.spotify.com/track/4SZpCpmCzpMdR63Dfbps9k) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Heavy \(After Hours\)](https://open.spotify.com/album/2ovCmsTF5X7TF2WprseF2G) | 2:46 |
 | 17 | [something new](https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [something new](https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0) | 2:05 |
 | 18 | [Flow](https://open.spotify.com/track/2pOfNZj58exge3SGovS0FG) | [ADEOLUWA](https://open.spotify.com/artist/48J5kBDJXz0JCFGS2qKqQY) | [Flow](https://open.spotify.com/album/1sHCKCFVRl7GR0jApDQBKV) | 5:28 |
-| 19 | [Djanne](https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Djanne](https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx) | 2:42 |
+| 19 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
 | 20 | [Where the Wind Will Blow](https://open.spotify.com/track/2UHltNRCZgSeFLuJ2NtuM0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq) | [The Reign of the Heart](https://open.spotify.com/album/0embk14m8ul3vtgoXQrpmB) | 3:45 |
 | 21 | [Broken Heart](https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Broken Heart](https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y) | 2:48 |
-| 22 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
-| 23 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
+| 22 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
+| 23 | [Djanne](https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Djanne](https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx) | 2:42 |
 | 24 | [This Side of Love](https://open.spotify.com/track/3qGDRNfWzv0znuGVnCr9cI) | [Celeste Ojatula](https://open.spotify.com/artist/1FNzBwz8L9wGtZU1GkIAT4), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [This Side of Love](https://open.spotify.com/album/4Mj0BcwVlj9Ub9XqPhvTPO) | 2:18 |
 | 25 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 26 | [Word Vomit](https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Word Vomit](https://open.spotify.com/album/4f675l51sEciftAWInTtKB) | 2:46 |

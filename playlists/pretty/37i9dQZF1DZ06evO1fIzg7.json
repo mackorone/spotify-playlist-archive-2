@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20905,
+  "num_followers": 20906,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAC/wyVO/5J+tCC/TvdeFWUu",
+  "snapshot_id": "ai9AgAAAAACmIl5HTSgw96Xt7v0VjsJ1",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Me And My Imagination",
-      "url": "https://open.spotify.com/track/10RfzowOof7q87hZki17Xu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perimenopop",
         "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
       },
@@ -227,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
-        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
       },
       "artists": [
         {
@@ -236,25 +220,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 239386,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/57QfhJgEDYYJkFXPX8KZpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Music Gets The Best Of Me",
-      "url": "https://open.spotify.com/track/504KQuqyGkSg3xxN3FeSyy"
+      "duration_ms": 205120,
+      "name": "Me And My Imagination",
+      "url": "https://open.spotify.com/track/10RfzowOof7q87hZki17Xu"
     },
     {
       "added_at": null,
@@ -275,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Music Gets The Best Of Me",
+      "url": "https://open.spotify.com/track/504KQuqyGkSg3xxN3FeSyy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perimenopop",
         "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 243008,
       "name": "Relentless Love",
       "url": "https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Won't Change You",
+        "url": "https://open.spotify.com/album/3HXjCYksFK6YDBo0noT16X"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 239840,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/4feYF1CaZJE8BhHN64MgCe"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "If I Can't Dance",
-      "url": "https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perimenopop",
         "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 211719,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "If I Can't Dance",
+      "url": "https://open.spotify.com/track/1FBPdXaWvaAOsoZxAkzDEz"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "If You Go",
-      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Visions, Vol. 1",
         "url": "https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb"
       },
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
       },
       "artists": [
         {
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 234160,
-      "name": "The Deer & the Wolf",
-      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
+      "duration_ms": 205920,
+      "name": "If You Go",
+      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 183266,
       "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
       "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "The Deer & the Wolf",
+      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,818 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,901 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 18 | [Mi Clero](https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 3:41 |
 | 19 | [No Me Hablen de Penas](https://open.spotify.com/track/6bSeGQcsve915cgePuw2bZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No Me Hablen de Penas](https://open.spotify.com/album/7HoDdcb8bHonDW0v9yUtL5) | 1:55 |
 | 20 | [Que Se Yo](https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Que Se Yo](https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK) | 3:25 |
-| 21 | [Volver a Ser](https://open.spotify.com/track/3Fac6wn77bH534pIv3YAoU) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Volver a Ser](https://open.spotify.com/album/1YAjbNfxw6lhZ0X2I2I4AQ) | 5:51 |
-| 22 | [No Que No Eras Fan](https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:22 |
+| 21 | [No Que No Eras Fan](https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:22 |
+| 22 | [Volver a Ser](https://open.spotify.com/track/3Fac6wn77bH534pIv3YAoU) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Volver a Ser](https://open.spotify.com/album/1YAjbNfxw6lhZ0X2I2I4AQ) | 5:51 |
 | 23 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 | 24 | [No Sé Que Pasó](https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No Sé Que Pasó](https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH) | 3:36 |
 | 25 | [Cuchillo en la Yugular](https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 49 | [Ilegal](https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Ilegal](https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC) | 4:05 |
 | 50 | [TOP TOP \(feat\. MC Davo\)](https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [TOP TOP \(feat\. MC Davo\)](https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI) | 6:02 |
 
-Snapshot ID: `ai3vAAAAAADVhOYKd/J7lYT3lm48u+RG`
+Snapshot ID: `ai9AgAAAAAC/MC8fFnCv0NYxfz4l3j2l`

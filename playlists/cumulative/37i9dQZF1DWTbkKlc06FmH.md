@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,253 songs - 3 day 1 hr 50 min
+1,254 songs - 3 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-25 | 2023-09-15 |
 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 | 2025-07-23 | 2025-09-06 |
 | [Don't Stop the Beat](https://open.spotify.com/track/1syWFA2x8MpsOzG5jHupPa) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Don't Stop the Beat](https://open.spotify.com/album/6zbqyfVcKKb4piUQWlocx1) | 2:43 | 2025-02-12 | 2025-02-21 |
+| [Don't You Know](https://open.spotify.com/track/1mgiMU5E6hXziopHOjIZn4) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Don't You Know](https://open.spotify.com/album/6N990tXerv286f4znveHjL) | 2:26 | 2026-06-12 |  |
 | [Dong, Nan, Xi, Bei](https://open.spotify.com/track/3YdY8kv4ShsMrDfYKXE8v7) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Lonely Ghost](https://open.spotify.com/album/07TLVVuZNzC2N9jn9Ltv6x) | 4:09 | 2024-12-17 | 2025-01-08 |
 | [Double Fantasy \(with Future\) \- Radio Edit](https://open.spotify.com/track/0vuiKizDyUXdIge9npkEKn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 3:55 | 2023-04-20 | 2024-02-22 |
 | [DOUBT IT](https://open.spotify.com/track/7kud2YsUIgEO6L41B98Cih) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DOUBT IT](https://open.spotify.com/album/4bahK8kuVwjBkqFUgmLmVD) | 3:28 | 2024-09-25 | 2025-07-01 |
@@ -378,7 +379,7 @@
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-21 | 2023-04-19 |
 | [GO!!](https://open.spotify.com/track/69cgQ078J6h7IxBXwJ0a7t) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GO!!](https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf) | 3:22 | 2024-01-30 | 2024-05-09 |
 | [Golden Child](https://open.spotify.com/track/6a2uNYgQdLyUmi2HOH321M) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Golden Child](https://open.spotify.com/album/45jtyAD4KW3lmbDpE9NeRa) | 4:03 | 2023-11-30 | 2023-12-02 |
-| [golden hour \- Fujii Kaze Remix](https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [golden hour \(Fujii Kaze Remix\)](https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM) | 2:39 | 2023-04-20 |  |
+| [golden hour \- Fujii Kaze Remix](https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [golden hour \(Fujii Kaze Remix\)](https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM) | 2:39 | 2023-04-20 | 2026-06-17 |
 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 | 2023-07-27 | 2024-05-09 |
 | [Gone Baby, Don't Be Long](https://open.spotify.com/track/3mw4zCiy6cRqFieD7L4IDp) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [Gone Baby, Don't Be Long](https://open.spotify.com/album/0amr9WM6hmjOA09JwSV2si) | 7:53 | 2023-01-06 | 2023-03-01 |
 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-01-31 | 2026-04-13 |

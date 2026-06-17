@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,098 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,108 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [The Better Me](https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:15 |
 | 50 | [Luckiest Man Alive](https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 2:59 |
 
-Snapshot ID: `ai3vAAAAAAA695WqVyL6L+FUpGWWh1rP`
+Snapshot ID: `ai9AgAAAAAAWn/olgKkZfFZLUDNxl3Ms`

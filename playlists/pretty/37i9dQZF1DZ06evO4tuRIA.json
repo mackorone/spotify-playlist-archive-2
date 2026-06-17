@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 105118,
+  "num_followers": 105148,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADXyJr+eFiuUDwsf0uR4syt",
+  "snapshot_id": "ai9AgAAAAABjAsFwu+BZOCkYyatqLtDy",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 174739,
+      "name": "Pancho Conos",
+      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy de Michoacan",
         "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 162375,
       "name": "Soy de Michoacan",
       "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 174739,
-      "name": "Pancho Conos",
-      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 191688,
+      "name": "La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El 7 De Fontana",
         "url": "https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 147506,
       "name": "El 7 De Fontana",
       "url": "https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legado 7 En Vivo Desde OK Corral",
-        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BARBAS",
-        "url": "https://open.spotify.com/album/2ttACERvbFesn4xcMfsatr"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 134173,
-      "name": "BARBAS",
-      "url": "https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr"
+      "duration_ms": 235711,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+        "name": "BARBAS",
+        "url": "https://open.spotify.com/album/2ttACERvbFesn4xcMfsatr"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 235711,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
+      "duration_ms": 134173,
+      "name": "BARBAS",
+      "url": "https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr"
     },
     {
       "added_at": null,
@@ -823,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 7 De La Suerte",
-        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 217250,
-      "name": "El Chili Willy",
-      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
+      "duration_ms": 145375,
+      "name": "Seguimos Dando Lata",
+      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,
@@ -859,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+        "name": "El 7 De La Suerte",
+        "url": "https://open.spotify.com/album/5p6nXo6us9G1aTqaHLDJV1"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 145375,
-      "name": "Seguimos Dando Lata",
-      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
+      "duration_ms": 217250,
+      "name": "El Chili Willy",
+      "url": "https://open.spotify.com/track/4TBinkhZWTRdjio4DCHtCm"
     },
     {
       "added_at": null,

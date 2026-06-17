@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 96483,
+  "num_followers": 96524,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Siempre En Mi Mente",
-        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 180906,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/67mC1sqidIwycByzWmT96o"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Siempre En Mi Mente",
+        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
     },
     {
       "added_at": "2024-04-24 22:48:02",

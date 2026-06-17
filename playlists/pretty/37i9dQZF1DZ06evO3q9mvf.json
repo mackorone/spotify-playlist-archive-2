@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3248,
+  "num_followers": 3246,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAGxF4yP74JDSz2BmyVo3/x",
+  "snapshot_id": "ai9AgAAAAAD156HY/559nA6pa8TBzEq2",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 213906,
-      "name": "FM",
-      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
+      "duration_ms": 195693,
+      "name": "Spend, Spend, Spend",
+      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Spend, Spend, Spend",
-      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
+      "duration_ms": 213906,
+      "name": "FM",
+      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
     },
     {
       "added_at": null,

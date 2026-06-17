@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46016,
+  "num_followers": 46021,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAnJ9TENm9QcKK+lrImGRPT",
+  "snapshot_id": "ai9AgAAAAABzAXDFi4IwVMFmFyBIfb35",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Borracha De Amor",
+        "url": "https://open.spotify.com/album/1YMVH8pp65AHdVpxnahXIr"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 219941,
+      "name": "Borracha De Amor",
+      "url": "https://open.spotify.com/track/0rHQ2ijSFoBusXBYQA8HQR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Sur de la Noche",
         "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 163100,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Borracha De Amor",
-        "url": "https://open.spotify.com/album/1YMVH8pp65AHdVpxnahXIr"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 219941,
-      "name": "Borracha De Amor",
-      "url": "https://open.spotify.com/track/0rHQ2ijSFoBusXBYQA8HQR"
     },
     {
       "added_at": null,
@@ -835,46 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los de la A",
-        "url": "https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0"
-      },
-      "artists": [
-        {
-          "name": "Alzada",
-          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Los de la A",
-      "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/0RtwQCubLxroysOl3OwEQ6"
       },
@@ -915,6 +875,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los de la A",
+        "url": "https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Los de la A",
+      "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LQRA Session #3",
         "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 174285,
       "name": "LQRA Session #3",
       "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
     },
     {
       "added_at": null,
@@ -975,6 +955,26 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
     },
     {
       "added_at": null,

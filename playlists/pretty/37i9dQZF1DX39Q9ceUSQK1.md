@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: TAPE TOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,797 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,807 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Crocodile Tears](https://open.spotify.com/track/2lygHwRyo8pKkvjHg1alsC) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [Crocodile Tears](https://open.spotify.com/album/6ICFA94jPuKY8Ad6SDtT8h) | 2:43 |
 | 100 | [Leila / As I Do](https://open.spotify.com/track/0fq5Av7QlqXKejYzpZhU5I) | [Former Resident](https://open.spotify.com/artist/72ylk6aqGWT3FUhatwZNFS) | [Jets](https://open.spotify.com/album/3dwHqdrcr3h9BXsgGWpZWh) | 2:38 |
 
-Snapshot ID: `AAAAACg1GXrYabgYYFPvJkoaBlJneOTW`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

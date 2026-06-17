@@ -282,7 +282,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 185807,
       "name": "All U Need (with Jaymin)",
       "url": "https://open.spotify.com/track/3prJRFb6nICR3uC7mqhkjs"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 146258,
       "name": "BOTHER ME (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX"
@@ -840,6 +840,24 @@
       "duration_ms": 196000,
       "name": "Break",
       "url": "https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir"
+    },
+    {
+      "album": {
+        "name": "Breaking Point",
+        "url": "https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293571,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6"
     },
     {
       "album": {
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
@@ -1743,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Cool - R&B",
+        "url": "https://open.spotify.com/album/421reEXYaXldvMHmkWzrvH"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310466,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj"
+    },
+    {
+      "album": {
         "name": "Don't Love Me",
         "url": "https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G"
       },
@@ -1790,7 +1826,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "Don't Want A Love Song",
       "url": "https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8"
@@ -2442,7 +2478,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 224146,
       "name": "Girl",
       "url": "https://open.spotify.com/track/4XyAMTjMfqwZ2uJemqKRdH"
@@ -3124,7 +3160,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 294693,
       "name": "How You Gonna Act Like That",
       "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
@@ -4778,7 +4814,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 182586,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
@@ -4872,7 +4908,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 284666,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
@@ -6672,7 +6708,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 205116,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/53Nwlr3hxsGsu9eWU5EYjq"
@@ -7020,7 +7056,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 254493,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
@@ -7038,7 +7074,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 255466,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/4Xt4U0zCP2JiIBVNGS6Uj8"
@@ -7360,7 +7396,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 238224,
       "name": "Treat Me Like Somebody",
       "url": "https://open.spotify.com/track/2vviILENNzWi9CDYSlmHBX"
@@ -7396,7 +7432,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 206013,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
@@ -7490,7 +7526,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
@@ -7508,7 +7544,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 270200,
       "name": "Unbreak My Heart",
       "url": "https://open.spotify.com/track/5MbrIiPKJgsUeaAeSOkQGy"
@@ -7628,7 +7664,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
@@ -7690,7 +7726,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"

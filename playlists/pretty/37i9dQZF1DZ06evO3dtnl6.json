@@ -1,12 +1,12 @@
 {
   "description": "This is Gregory Alan Isakov. The essential tracks, all in one playlist.",
-  "num_followers": 80285,
+  "num_followers": 80307,
   "original_name": "This Is Gregory Alan Isakov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACclyV6sbKcM6k9zwFDdiIW",
+  "snapshot_id": "ai9AgAAAAACPqLU4KPhedWx3N4kfd92G",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/4a6XLiY6PQmsUufWTDgrXc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fade Into You",
         "url": "https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 269875,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/4a6XLiY6PQmsUufWTDgrXc"
     },
     {
       "added_at": null,

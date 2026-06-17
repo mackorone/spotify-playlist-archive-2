@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Ancient Aliens Overdrive",
+        "url": "https://open.spotify.com/album/5zOWJv16rusqClmRXkrs5T"
+      },
+      "artists": [
+        {
+          "name": "Wintermute",
+          "url": "https://open.spotify.com/artist/181hAEVFEfAO1KMHX4CKKc"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207986,
+      "name": "Alchemy (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/17GlnYrbMdKWpfuyaYh3CA"
+    },
+    {
+      "album": {
         "name": "Re:",
         "url": "https://open.spotify.com/album/1m99qbYDS4BHHqGMilUmei"
       },
@@ -1204,6 +1226,32 @@
       "duration_ms": 189789,
       "name": "Old Fashion (feat. \u590f\u8272\u82b1\u68a8)",
       "url": "https://open.spotify.com/track/0ZBh3WECxgP19HT9YRXm6y"
+    },
+    {
+      "album": {
+        "name": "Our Way",
+        "url": "https://open.spotify.com/album/1HeXwuGiUOffg5KDLRrpop"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30be\u30f3",
+          "url": "https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Our Way (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/7bKpTlry6izdgHIpedelpu"
     },
     {
       "album": {
@@ -4016,7 +4064,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 235227,
       "name": "\u30ad\u30df\u30c8\u30df\u30e9\u30a4\u30d8 (feat. MEIKO)",
       "url": "https://open.spotify.com/track/21NI5AKUdQHQgedKBLW1Bz"
@@ -4190,10 +4238,32 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 263918,
       "name": "\u30af\u30ed\u30b9\u30ed\u30fc\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2cFwQJ4AAjWyGx1n14nZNp"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30b3\u30ed\u30ab\u30a4\u30ed",
+        "url": "https://open.spotify.com/album/4HCVM30EFLGyhBh2qrnvwY"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3053\u3084\u304b\u5927\u8056\u5802",
+          "url": "https://open.spotify.com/artist/6yq2Hzrg9vEBuebVFVMozB"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192885,
+      "name": "\u30b3\u30b3\u30ed\u30ab\u30a4\u30ed (feat. KAITO)",
+      "url": "https://open.spotify.com/track/0gjColmykkfuVXRrh3PnzB"
     },
     {
       "album": {
@@ -6208,7 +6278,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 196842,
       "name": "\u30de\u30b9\u30ab\u30ec\u30fc\u30c9\u30fb\u30ed\u30c3\u30af",
       "url": "https://open.spotify.com/track/4XgeHp6YsS2TzMbb8Fh0SV"
@@ -7128,7 +7198,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 180271,
       "name": "\u500b\u3005\u3005\u3005\u3005\u3005\u4eba",
       "url": "https://open.spotify.com/track/1QPzvGlrRXbv3KVH2lgyJv"
@@ -8055,6 +8125,32 @@
     },
     {
       "album": {
+        "name": "\u5ddd\u5d0e\u98fc\u732b",
+        "url": "https://open.spotify.com/album/6LfGKctJBmF5nx0WqTkuth"
+      },
+      "artists": [
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "\u5ddd\u5d0e\u98fc\u732b (feat. MEIKO&\u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/2JGwBWBg9aN9L7tFQbygPF"
+    },
+    {
+      "album": {
         "name": "\u5de1\u308a\u3001\u74b0\u308a\u3001\u3081\u3050\u308a\u7d9a\u304f",
         "url": "https://open.spotify.com/album/56oYGCh20PWKya01eAiuIg"
       },
@@ -8938,7 +9034,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 160555,
       "name": "\u6b63\u5e38\u306b\u52d5\u3044\u3066\u3044\u307e\u3059\u304b (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5NqlrCEs1eP2eBK4Fx16mM"
@@ -10002,6 +10098,28 @@
       "duration_ms": 250000,
       "name": "\u8d64\u306b\u306a\u308c (feat. MEIKO)",
       "url": "https://open.spotify.com/track/5dH6MiM8xY2xNvhQiuUhhr"
+    },
+    {
+      "album": {
+        "name": "\u8d64\u8840\u7403",
+        "url": "https://open.spotify.com/album/28xomVyDuTlpr6ezk2aOyk"
+      },
+      "artists": [
+        {
+          "name": "TakoyakiKZY",
+          "url": "https://open.spotify.com/artist/6r4rZhVWa9yEgNw3HPk3oZ"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "\u8d64\u8840\u7403 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/49HVb4oEb48bCc0nizLUuE"
     },
     {
       "album": {

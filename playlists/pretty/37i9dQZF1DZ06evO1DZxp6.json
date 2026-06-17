@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 244109,
+  "num_followers": 244127,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAD2ZgDqTTNpDpiEthrj9i2y",
+  "snapshot_id": "ai9AgAAAAADagSLyQlidvFlKcH50J+R+",
   "tracks": [
     {
       "added_at": null,
@@ -247,30 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
-        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Nada Fue Un Error - Live In Spain / 2005",
-      "url": "https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Disco de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
       },
@@ -287,6 +263,30 @@
       "duration_ms": 225053,
       "name": "Perfecta - Versi\u00f3n con Julieta Venegas",
       "url": "https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
+        "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Nada Fue Un Error - Live In Spain / 2005",
+      "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Tu Calor",
+      "url": "https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 226373,
       "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
       "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Tu Calor",
-      "url": "https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te solt\u00e9 la rienda",
+        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Te solt\u00e9 la rienda",
+      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HOSHI",
         "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 227738,
       "name": "no queda nada ft. Julieta Venegas",
       "url": "https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te solt\u00e9 la rienda",
-        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Te solt\u00e9 la rienda",
-      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
     },
     {
       "added_at": null,

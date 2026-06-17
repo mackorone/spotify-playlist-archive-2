@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,949 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,987 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 26 | [Sounds Good](https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sounds Good](https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo) | 3:32 |
 | 27 | [Feeling](https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Feeling](https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx) | 3:20 |
 | 28 | [Quiet Town of Tokyo](https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 6:06 |
-| 29 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
-| 30 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
+| 29 | [Iramante \(feat\. towa ainutoronica\)](https://open.spotify.com/track/35Enz9josqTO3TAssK9i5k) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [towa ainutoronica](https://open.spotify.com/artist/7yFnJKqApbDa5j8YQbUkvK) | [Iramante \(feat\. towa ainutoronica\)](https://open.spotify.com/album/4zVuJhOxMVnkKNvItySD7Y) | 5:03 |
+| 30 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
 | 31 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
 | 32 | [who do u love?](https://open.spotify.com/track/6xyl77bg5JgjxgJvsIpkml) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [mee mee mee](https://open.spotify.com/artist/64ogzjxH3ZXoCbXmmySiUB), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [who do u love?](https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM) | 3:17 |
-| 33 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
+| 33 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
 | 34 | [Let's go](https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw) | 2:26 |
-| 35 | [Iramante \(feat\. towa ainutoronica\)](https://open.spotify.com/track/35Enz9josqTO3TAssK9i5k) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [towa ainutoronica](https://open.spotify.com/artist/7yFnJKqApbDa5j8YQbUkvK) | [Iramante \(feat\. towa ainutoronica\)](https://open.spotify.com/album/4zVuJhOxMVnkKNvItySD7Y) | 5:03 |
-| 36 | [TRASHURE](https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [TRASHURE](https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U) | 2:41 |
-| 37 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
+| 35 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
+| 36 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
+| 37 | [TRASHURE](https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [TRASHURE](https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U) | 2:41 |
 | 38 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 |
 | 39 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 40 | [Don't Cry \- feat\. Sagiri Sól](https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Don't Cry \(feat\. Sagiri Sól\)](https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA) | 4:26 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 45 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
 | 46 | [DOSHABURI \(feat\. JUMADIBA\) \- PAS TASTA Remix](https://open.spotify.com/track/60iwtXuUHtepUcIHXiSrfv) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR) | 2:58 |
 | 47 | [KURU KURU HARAJUKU](https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KURU KURU HARAJUKU](https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP) | 4:17 |
-| 48 | [OB PKWY](https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [OB PKWY](https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21) | 3:55 |
-| 49 | [Nulife](https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Nulife](https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3) | 3:56 |
-| 50 | [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 |
+| 48 | [sign](https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [sign](https://open.spotify.com/album/4HrkFgGt6ijBscyOrFrcjE) | 4:19 |
+| 49 | [OB PKWY](https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [OB PKWY](https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21) | 3:55 |
+| 50 | [Nulife](https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Nulife](https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3) | 3:56 |
 
 Snapshot ID: `AAAAAI6laSMVLwgajSMfiXR+98VhdTxa`

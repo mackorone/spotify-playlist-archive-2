@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABVuACywrdINTdG6BTDeWiS",
+  "snapshot_id": "ai9AgAAAAAD2lKFNxpYkKCBuNfxR/KUt",
   "tracks": [
     {
       "added_at": null,
@@ -471,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Over La Ciudad",
-        "url": "https://open.spotify.com/album/3HxHOSPPzMhJnnDr5BS3Cx"
+        "name": "El Ni\u00f1o Fame",
+        "url": "https://open.spotify.com/album/0g0PfLThD4vHLK8DIZZGKF"
       },
       "artists": [
+        {
+          "name": "Los Chavalos de California",
+          "url": "https://open.spotify.com/artist/1mkQparEZMfT9Zbgb5mLMk"
+        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 225532,
-      "name": "Taking Over La Ciudad",
-      "url": "https://open.spotify.com/track/5I3qTu8ug0qP5BzOey5An6"
+      "duration_ms": 161029,
+      "name": "El Ni\u00f1o Fame",
+      "url": "https://open.spotify.com/track/2EzRb90iPu15kFq0Ia1evR"
     },
     {
       "added_at": null,
@@ -507,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Taking Over La Ciudad",
+        "url": "https://open.spotify.com/album/3HxHOSPPzMhJnnDr5BS3Cx"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 225532,
+      "name": "Taking Over La Ciudad",
+      "url": "https://open.spotify.com/track/5I3qTu8ug0qP5BzOey5An6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cookie Plug (En Vivo)",
         "url": "https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 237000,
       "name": "The Cookie Plug (En Vivo)",
       "url": "https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ni\u00f1o Fame",
-        "url": "https://open.spotify.com/album/0g0PfLThD4vHLK8DIZZGKF"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos de California",
-          "url": "https://open.spotify.com/artist/1mkQparEZMfT9Zbgb5mLMk"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 161029,
-      "name": "El Ni\u00f1o Fame",
-      "url": "https://open.spotify.com/track/2EzRb90iPu15kFq0Ia1evR"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
       "duration_ms": 163245,
       "name": "Despu\u00e9s los Miro",
       "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uno Nueve",
-        "url": "https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Elexion",
-          "url": "https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 216830,
-      "name": "Uno Nueve",
-      "url": "https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula"
     },
     {
       "added_at": null,
@@ -631,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sieteh",
-        "url": "https://open.spotify.com/album/6PKSzk8tHnN7lMciM13HOM"
+        "name": "Uno Nueve",
+        "url": "https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg"
       },
       "artists": [
+        {
+          "name": "Grupo Elexion",
+          "url": "https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7"
+        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 271565,
-      "name": "El Sieteh",
-      "url": "https://open.spotify.com/track/0KuwvVmXF1z5Bm4nNYgj0j"
+      "duration_ms": 216830,
+      "name": "Uno Nueve",
+      "url": "https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula"
     },
     {
       "added_at": null,
@@ -691,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo a la Sorda",
-        "url": "https://open.spotify.com/album/3ByNTbZMgtQCZF4pzUVvwa"
+        "name": "El Sieteh",
+        "url": "https://open.spotify.com/album/6PKSzk8tHnN7lMciM13HOM"
       },
       "artists": [
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Clave 602",
-          "url": "https://open.spotify.com/artist/7lpQI8bhkynzTuFUPsLPUS"
         }
       ],
-      "duration_ms": 197141,
-      "name": "Todo a la Sorda",
-      "url": "https://open.spotify.com/track/0owjn0WHFxKKFcUjS4Cd2L"
+      "duration_ms": 271565,
+      "name": "El Sieteh",
+      "url": "https://open.spotify.com/track/0KuwvVmXF1z5Bm4nNYgj0j"
     },
     {
       "added_at": null,
@@ -727,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground 3",
-        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
+        "name": "Todo a la Sorda",
+        "url": "https://open.spotify.com/album/3ByNTbZMgtQCZF4pzUVvwa"
       },
       "artists": [
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Clave 602",
+          "url": "https://open.spotify.com/artist/7lpQI8bhkynzTuFUPsLPUS"
         }
       ],
-      "duration_ms": 145825,
-      "name": "Situaciones de la Calle",
-      "url": "https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx"
+      "duration_ms": 197141,
+      "name": "Todo a la Sorda",
+      "url": "https://open.spotify.com/track/0owjn0WHFxKKFcUjS4Cd2L"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mafia De Corridos",
-        "url": "https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp"
+        "name": "Corridos Underground 3",
+        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
       },
       "artists": [
         {
@@ -804,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 210841,
-      "name": "El Famoso Chino Antrax",
-      "url": "https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq"
+      "duration_ms": 145825,
+      "name": "Situaciones de la Calle",
+      "url": "https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
       "duration_ms": 228000,
       "name": "Aqu\u00ed No Se Espanten",
       "url": "https://open.spotify.com/track/68aNWmJxy1nlAhxclCg53F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mafia De Corridos",
+        "url": "https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 210841,
+      "name": "El Famoso Chino Antrax",
+      "url": "https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq"
     },
     {
       "added_at": null,

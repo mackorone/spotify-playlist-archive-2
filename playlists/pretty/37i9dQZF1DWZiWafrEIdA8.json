@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 14834,
+  "num_followers": 14843,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2026-05-14 08:42:25",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
-    },
-    {
-      "added_at": "2026-05-14 08:42:25",
-      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -223,22 +203,38 @@
     {
       "added_at": "2026-05-14 08:42:25",
       "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
       "artists": [
         {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Alone (Feat. LeeHi)",
-      "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
+      "duration_ms": 236500,
+      "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
+    },
+    {
+      "added_at": "2026-05-14 08:42:25",
+      "album": {
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 242999,
+      "name": "Let's Not Love Each Other",
+      "url": "https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC"
     },
     {
       "added_at": "2026-05-14 08:42:25",
@@ -259,18 +255,22 @@
     {
       "added_at": "2026-05-14 08:42:25",
       "album": {
-        "name": "Like A Film : 4 Songs",
-        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
       },
       "artists": [
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 242999,
-      "name": "Let's Not Love Each Other",
-      "url": "https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC"
+      "duration_ms": 179000,
+      "name": "Alone (Feat. LeeHi)",
+      "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
     },
     {
       "added_at": "2026-05-14 08:42:25",

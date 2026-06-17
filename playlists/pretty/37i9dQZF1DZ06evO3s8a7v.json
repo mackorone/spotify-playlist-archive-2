@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 44044,
+  "num_followers": 44048,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACSGNxxQUEp68KbxDNkv6th",
+  "snapshot_id": "ai9AgAAAAAC9z/9vjF4qP986d1qTv3dF",
   "tracks": [
     {
       "added_at": null,
@@ -311,30 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre La Tierra y El Cielo",
-        "url": "https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 253496,
-      "name": "Entre La Tierra y El Cielo",
-      "url": "https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIKINI",
         "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
       },
@@ -355,6 +331,30 @@
       "duration_ms": 182380,
       "name": "BIKINI",
       "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre La Tierra y El Cielo",
+        "url": "https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 253496,
+      "name": "Entre La Tierra y El Cielo",
+      "url": "https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff"
     },
     {
       "added_at": null,
@@ -419,30 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUENA MYA!",
-        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        },
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Te Quiero X Eso",
-      "url": "https://open.spotify.com/track/6NoQKWwnt1abnNqEnFtHmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lado Triste (Remix)",
         "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Te Quiero X Eso",
+      "url": "https://open.spotify.com/track/6NoQKWwnt1abnNqEnFtHmi"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MYA LIVE P1: Chanel de Coco",
-        "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 209725,
-      "name": "MYA LIVE P1: Chanel de Coco",
-      "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "250X",
         "url": "https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 137293,
       "name": "250X",
       "url": "https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MYA LIVE P1: Chanel de Coco",
+        "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 209725,
+      "name": "MYA LIVE P1: Chanel de Coco",
+      "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+        "name": "Loco por Ti",
+        "url": "https://open.spotify.com/album/09FTxhACpY7V8604fTYQRi"
       },
       "artists": [
         {
@@ -808,17 +808,17 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         },
         {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 191573,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c"
+      "duration_ms": 194674,
+      "name": "Loco por Ti",
+      "url": "https://open.spotify.com/track/01GkSQ5gDn2BHOfgfdUepy"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco por Ti",
-        "url": "https://open.spotify.com/album/09FTxhACpY7V8604fTYQRi"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
       "artists": [
         {
@@ -876,17 +876,17 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 194674,
-      "name": "Loco por Ti",
-      "url": "https://open.spotify.com/track/01GkSQ5gDn2BHOfgfdUepy"
+      "duration_ms": 191573,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c"
     },
     {
       "added_at": null,

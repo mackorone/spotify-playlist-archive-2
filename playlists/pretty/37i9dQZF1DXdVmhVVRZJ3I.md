@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,458 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,533 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 39 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
 | 40 | [It's My Life](https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm) | [WhyNot Music](https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [It's My Life](https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn) | 3:05 |
 | 41 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 |
-| 42 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
-| 43 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 |
+| 42 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 |
+| 43 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
 | 44 | [No Roots \(Radio Mix\)](https://open.spotify.com/track/4Zk8WXgdRz6iYVkrYt77nX) | [RADIØMATIK](https://open.spotify.com/artist/0yTp5veHJAyKhfYdvmyh7B), [Wolsh](https://open.spotify.com/artist/0dBHeI1RuLCkzOkTcIXwPm), [y'all](https://open.spotify.com/artist/2OyqFs2P2MTcdExpmZKzub) | [No Roots \(Radio Mix\)](https://open.spotify.com/album/0hL1wrX9moH4mtTTpBcGso) | 2:53 |
 | 45 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 |
 | 46 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 |

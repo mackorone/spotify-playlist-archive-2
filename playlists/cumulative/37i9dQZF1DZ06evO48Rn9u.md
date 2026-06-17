@@ -4,7 +4,7 @@
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 56 min
+106 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 | 2024-03-09 |  |
 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 | 2024-03-09 |  |
 | [hookup scene](https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:21 | 2024-05-10 | 2024-07-24 |
-| [Horses and Divorces \(feat\. Miranda Lambert\)](https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 2:43 | 2026-05-22 |  |
+| [Horses and Divorces \(feat\. Miranda Lambert\)](https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 2:43 | 2026-05-22 | 2026-06-17 |
 | [I Believe In Ghosts](https://open.spotify.com/track/7grbib2M3CyUJUf4dcm7uQ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:51 | 2026-05-03 |  |
 | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/track/616pKgs2dHcWAygreRapKM) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/album/6cSRavtBLkklc8TjWTi91S) | 2:52 | 2024-08-22 | 2024-12-25 |
 | [I Don’t Wanna Party Anymore \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4lYXGLDwvjIqqY45B4RvDT) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [My Favorite Drug](https://open.spotify.com/album/2bwXf8iGZAzb1NmFr2F6tK) | 2:52 | 2025-04-11 | 2025-04-22 |
@@ -110,6 +110,7 @@
 | [To June This Morning](https://open.spotify.com/track/5j7uJrdZv5JjxSPhDeqPSp) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Johnny Cash: Forever Words Expanded](https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp) | 2:04 | 2024-03-09 | 2024-07-24 |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-28 |  |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-09 | 2024-03-29 |
+| [Uncertain, TX \(feat\. Willie Nelson\)](https://open.spotify.com/track/5TiQigVz1QEdGp7blCbYLQ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:33 | 2026-06-17 |  |
 | [Velvet Elvis](https://open.spotify.com/track/65krgqLiZqW12PZAUQ9l2x) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 2:34 | 2024-05-11 | 2024-11-25 |
 | [waves \(feat\. Kacey Musgraves\) \- Remix](https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:06 | 2024-03-09 | 2026-04-22 |
 | [what doesn’t kill me](https://open.spotify.com/track/7zb8Mm1BjMbS6vM76ktyvQ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:17 | 2024-05-12 | 2024-05-15 |

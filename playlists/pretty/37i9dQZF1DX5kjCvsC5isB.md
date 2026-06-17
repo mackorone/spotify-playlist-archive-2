@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,701 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,706 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 18 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
 | 19 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 20 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
-| 21 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
-| 22 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 |
+| 21 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 |
+| 22 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 23 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
 | 24 | [So Happy](https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Happy](https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp) | 2:53 |
 | 25 | [Figure It Out](https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Figure It Out](https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5) | 2:49 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 47 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 |
 | 48 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
 | 49 | [Coma](https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Coma](https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx) | 3:28 |
-| 50 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 |
-| 51 | [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 |
-| 52 | [Over The Threshold](https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 4:09 |
+| 50 | [Over The Threshold](https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 4:09 |
+| 51 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 |
+| 52 | [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 |
 | 53 | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/track/0WxnOLr3M8kI7eRdVKuZm3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/album/2eplD0qk51Hs52ngmjwRl2) | 3:30 |
 | 54 | [CULT CLASSIC](https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Cult Classic](https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr) | 3:18 |
 | 55 | [Stray](https://open.spotify.com/track/2X7osutibLRVpphKnfHjz7) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Afraid of Tomorrows](https://open.spotify.com/album/2WjX0yaIGO8Yl9qnp4vm7G) | 3:36 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 71 | [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 |
 | 72 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
 | 73 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
-| 74 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
-| 75 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
+| 74 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
+| 75 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
 | 76 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 77 | [Downhill](https://open.spotify.com/track/4z1gtOYAOwCQjTgiDsEYQy) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Downhill](https://open.spotify.com/album/5WHOjQs1oIFghKGMqJpfN4) | 3:05 |
 | 78 | [Baggage](https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 3:03 |

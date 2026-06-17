@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Incredible tracks from trans, non-binary, and gender-fluid artists. Cover: Beverly Glenn-Copeland, Sam Smith",
+  "description": "Incredible tracks from trans, non-binary, and gender-fluid artists. Cover: Beverly Glenn-Copeland",
   "name": "Transcend",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 360995,
       "name": "Backseat Girl",
       "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Revengeseekerz",
+        "url": "https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230526,
+      "name": "Dancing with your eyes closed",
+      "url": "https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru"
+    },
+    {
+      "album": {
         "name": "Danke Schoen",
         "url": "https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71"
       },
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 359981,
       "name": "Day After A Night With U",
       "url": "https://open.spotify.com/track/3DcA0YYvdn4UE4kRsJT2XF"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 230160,
       "name": "Flirting with Her",
       "url": "https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo"
@@ -3020,6 +3038,24 @@
       "duration_ms": 218786,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/20iykucq4850X9MMIm7PBY"
+    },
+    {
+      "album": {
+        "name": "Light Of The Heavens",
+        "url": "https://open.spotify.com/album/08Pga6zM9YGDM5iQDAK2wu"
+      },
+      "artists": [
+        {
+          "name": "Beverly Glenn-Copeland",
+          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441892,
+      "name": "Light Of The Heavens",
+      "url": "https://open.spotify.com/track/42VTCKgALNn0JY0dbHK7N6"
     },
     {
       "album": {
@@ -5154,6 +5190,24 @@
       "duration_ms": 235938,
       "name": "The Future is Female",
       "url": "https://open.spotify.com/track/4QRqYAX5SP1DmXESnxanmr"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "The Peace",
+      "url": "https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM"
     },
     {
       "album": {

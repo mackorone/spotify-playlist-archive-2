@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 600508,
+  "num_followers": 600623,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268002,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
         "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
         "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 210026,
       "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
       "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268002,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -671,30 +671,18 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
-        "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
+        "name": "Make-believe",
+        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
       },
       "artists": [
         {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
-        },
-        {
-          "name": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
-          "url": "https://open.spotify.com/artist/0Ujx9OMRc595IoVDwlwiKF"
-        },
-        {
-          "name": "Didier Bouture",
-          "url": "https://open.spotify.com/artist/42Bd2IhLltsbqINlfZPpkL"
-        },
-        {
-          "name": "Ensemble Orchestral Harmonia Nova",
-          "url": "https://open.spotify.com/artist/564UyyHYTqGWAsAvDabSdt"
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
         }
       ],
-      "duration_ms": 85000,
-      "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
-      "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
+      "duration_ms": 186706,
+      "name": "Make-believe",
+      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -723,18 +711,30 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Make-believe",
-        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
+        "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
+        "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
       "artists": [
         {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
+          "url": "https://open.spotify.com/artist/0Ujx9OMRc595IoVDwlwiKF"
+        },
+        {
+          "name": "Didier Bouture",
+          "url": "https://open.spotify.com/artist/42Bd2IhLltsbqINlfZPpkL"
+        },
+        {
+          "name": "Ensemble Orchestral Harmonia Nova",
+          "url": "https://open.spotify.com/artist/564UyyHYTqGWAsAvDabSdt"
         }
       ],
-      "duration_ms": 186706,
-      "name": "Make-believe",
-      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
+      "duration_ms": 85000,
+      "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
+      "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+      },
+      "artists": [
+        {
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+        }
+      ],
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
         "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
         "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 153640,
       "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
       "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
-      },
-      "artists": [
-        {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
-        },
-        {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
-        }
-      ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2026-05-29 04:00:58",

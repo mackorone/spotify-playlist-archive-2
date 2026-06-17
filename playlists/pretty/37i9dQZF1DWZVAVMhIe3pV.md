@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,315 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,378 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 89 | [Blood In The Water](https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Blood In The Water](https://open.spotify.com/album/3I9e3fgZ3IaR2K7NLRxVy2) | 3:34 |
 | 90 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
 | 91 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
-| 92 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
-| 93 | [Moments Of Clarity](https://open.spotify.com/track/4T8GhH9Jz2ZAf8BnE7OXzi) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/135Y92eWcCGg8GeFi5IF3v) | 3:50 |
+| 92 | [Moments Of Clarity](https://open.spotify.com/track/4T8GhH9Jz2ZAf8BnE7OXzi) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/135Y92eWcCGg8GeFi5IF3v) | 3:50 |
+| 93 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
 | 94 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 |
 | 95 | [If I Could](https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:31 |
 | 96 | [Charm School](https://open.spotify.com/track/5J1RjqttTtHcMimE4C1RZn) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:30 |

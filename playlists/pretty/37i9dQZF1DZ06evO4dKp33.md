@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 
 > This is PinkPantheress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,847 likes - 44 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,932 likes - 44 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 | 43 | [Girl Like Me + Kaytranada](https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 4:53 |
 | 44 | [Romeo + Rachel Chinouriri](https://open.spotify.com/track/1RXvponMOTq9sp8sKKXp7H) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:46 |
 
-Snapshot ID: `ai3vAAAAAABioLF7GiUm79oZqUbfLrTc`
+Snapshot ID: `ai9AgAAAAACHC2RLT7H2ao8VlOEHFD8a`

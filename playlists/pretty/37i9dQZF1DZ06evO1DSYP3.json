@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADCJCfIsQ6DYgnTj8fYaZ85",
+  "snapshot_id": "ai9AgAAAAACBkoq+cSRZJIcXlyyjQRR6",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Luh U",
+      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before Anything - EP",
         "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Luh U",
-      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Cold: DELUXE EDITION",
         "url": "https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql"
       },
@@ -883,22 +883,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out The Box (feat. Bosko)",
-        "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
       "artists": [
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx"
         }
       ],
-      "duration_ms": 162804,
-      "name": "Out The Box (feat. Bosko)",
-      "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,
@@ -923,18 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+        "name": "Out The Box (feat. Bosko)",
+        "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
       },
       "artists": [
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx"
         }
       ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
+      "duration_ms": 162804,
+      "name": "Out The Box (feat. Bosko)",
+      "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
     },
     {
       "added_at": null,
@@ -963,26 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love Myself",
-        "url": "https://open.spotify.com/album/2vrRirUPB0aE3nvjBgHoR1"
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
       "artists": [
-        {
-          "name": "Lyrics Born",
-          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "Trackademicks",
-          "url": "https://open.spotify.com/artist/0qddlJTWKhAUTYYVdFEwyz"
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
         }
       ],
-      "duration_ms": 160384,
-      "name": "I Love Myself",
-      "url": "https://open.spotify.com/track/4yXpzW7H4VbXrOXVX3LCjK"
+      "duration_ms": 144459,
+      "name": "House",
+      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
     },
     {
       "added_at": null,
@@ -1007,22 +1003,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+        "name": "I Love Myself",
+        "url": "https://open.spotify.com/album/2vrRirUPB0aE3nvjBgHoR1"
       },
       "artists": [
+        {
+          "name": "Lyrics Born",
+          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
+        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+          "name": "Trackademicks",
+          "url": "https://open.spotify.com/artist/0qddlJTWKhAUTYYVdFEwyz"
         }
       ],
-      "duration_ms": 144459,
-      "name": "House",
-      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
+      "duration_ms": 160384,
+      "name": "I Love Myself",
+      "url": "https://open.spotify.com/track/4yXpzW7H4VbXrOXVX3LCjK"
     },
     {
       "added_at": null,
@@ -1043,6 +1043,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "22nd Ways",
+        "url": "https://open.spotify.com/album/5ad0FSt6oYREGIgw38CAyE"
+      },
+      "artists": [
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "ShooterGang Kony",
+          "url": "https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK"
+        }
+      ],
+      "duration_ms": 225802,
+      "name": "Demon (feat. P-Lo & ShooterGang Kony)",
+      "url": "https://open.spotify.com/track/6ZD4SzGfEVd0mOtttUE99M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEMONADE FREESTYLE (Remix)",
         "url": "https://open.spotify.com/album/2tnu3sjltkTWvLZ6R1meLT"
       },
@@ -1059,30 +1087,6 @@
       "duration_ms": 142654,
       "name": "LEMONADE FREESTYLE - Remix",
       "url": "https://open.spotify.com/track/0XyaOS7RzOSqvcdRmpa7em"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "She Wanna (feat. P-Lo)",
-        "url": "https://open.spotify.com/album/6oxlvZQ5wxkvavu8tCaNAd"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "!llmind",
-          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 205124,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/4nvKj0aLL3YS26zeahNaeJ"
     }
   ],
   "unique_name": "This Is P-Lo",

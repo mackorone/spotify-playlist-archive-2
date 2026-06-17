@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 
 > This is BNXN\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,886 likes - 47 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,910 likes - 47 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 33 | [Feeling](https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD) | 3:44 |
 | 34 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
 | 35 | [Romeo Must Die \(RMD\)](https://open.spotify.com/track/4EoYs4KY7oHQpJPTuxD7mU) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 |
-| 36 | [Never Stopped](https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 3:20 |
-| 37 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
+| 36 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
+| 37 | [Never Stopped](https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 3:20 |
 | 38 | [Modupe](https://open.spotify.com/track/36K05kVkROaAvURHCGJyYb) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:54 |
 | 39 | [Calculate Love](https://open.spotify.com/track/6SQNUYQB4FEMS3UfTDZ5kd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 3:01 |
 | 40 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 46 | [Hustle](https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [ATSG, Vol\. 1](https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn) | 3:09 |
 | 47 | [Bling \(feat\. Amaarae & Buju\)](https://open.spotify.com/track/7MQ2FWFVuim1L1O3wXjkdZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sex Over Love](https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv) | 3:50 |
 
-Snapshot ID: `ai3vAAAAAACJFaY0r8IwISfEQj6s70pe`
+Snapshot ID: `ai9AgAAAAAC7P6HWD4zPtfXCIicrcDae`

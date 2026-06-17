@@ -2071,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Stand Up & Be Counted",
+        "url": "https://open.spotify.com/album/1Yq6WXlcFcTgksdh0UP9Ig"
+      },
+      "artists": [
+        {
+          "name": "Elysium",
+          "url": "https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "Stand Up & Be Counted",
+      "url": "https://open.spotify.com/track/1PQ0PlBi5kLbr5KwWgSQTL"
+    },
+    {
+      "album": {
         "name": "Stop Bugging Me",
         "url": "https://open.spotify.com/album/1cvkR5d7O9u6exG68IQjwi"
       },

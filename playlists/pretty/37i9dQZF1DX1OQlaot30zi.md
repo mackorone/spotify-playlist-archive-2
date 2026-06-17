@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Astro, 22simba, Villabanks, Clamö e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,636 likes - 90 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,644 likes - 90 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 10 | [SCARAFAGGI \(feat\. Danno\)](https://open.spotify.com/track/4cgGC1Zyv1FwgikPYdxDe9) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [SCARAFAGGI \(feat\. Danno\)](https://open.spotify.com/album/6enXFlrDWOOlhMaZmg3qIJ) | 2:39 |
 | 11 | [Sì ce staje \(feat\. Jake La Furia\)](https://open.spotify.com/track/58AnqLggbDh11FOarEbKP8) | [Hal Quartièr](https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Mentre Napoli Dorme](https://open.spotify.com/album/1Ibb5WqsQcgfgHZwL3nWjZ) | 2:35 |
 | 12 | [PESOS \(feat\. Nabi\)](https://open.spotify.com/track/7miVovY2b78mJQdZgGnjyO) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PERICOLO SOCIALE](https://open.spotify.com/album/5wjfnyzsVrafa6HPeqDWQ3) | 2:46 |
-| 13 | [Mala](https://open.spotify.com/track/4EC2I6gYzn5LPzmIKVRWqL) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [Ren](https://open.spotify.com/artist/601XjMANjq5Akm1z3WmPOD), [Tiara](https://open.spotify.com/artist/1Hnx9JIl75ci9EqEzuabz5) | [Mala](https://open.spotify.com/album/3KANxevGXuGIA7urc3O7YD) | 2:51 |
+| 13 | [Mala](https://open.spotify.com/track/4EC2I6gYzn5LPzmIKVRWqL) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [ren](https://open.spotify.com/artist/4BdOlxV6Jk099aefQlDLwI), [Tiara](https://open.spotify.com/artist/1Hnx9JIl75ci9EqEzuabz5) | [Mala](https://open.spotify.com/album/3KANxevGXuGIA7urc3O7YD) | 2:51 |
 | 14 | [B.I.G\. \(Be Iconic & Global\) \(feat\. Guè\) \- Italian Remix](https://open.spotify.com/track/4ciOONUcHXzBmqwPL7LHOw) | [Zen Masuta](https://open.spotify.com/artist/6lwzRQVG0c0n3XhfYOKyLU), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [B.I.G\. \(Be Iconic & Global\) \(feat\. Guè\) \[Italian Remix\]](https://open.spotify.com/album/3k5Mun79tOW6mlCh8azSVn) | 3:03 |
 | 15 | [MXP MIA \(feat\. Sayf\)](https://open.spotify.com/track/2pSURRoZPhpgjFGpVdcj9q) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [WAR](https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B) | 2:37 |
 | 16 | [LOOKMAXER](https://open.spotify.com/track/3Do3kWWfWTwE0d5GVz5JsD) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [LOOKMAXER](https://open.spotify.com/album/3tO6Msoh34yFb9LX5dyA5R) | 2:49 |

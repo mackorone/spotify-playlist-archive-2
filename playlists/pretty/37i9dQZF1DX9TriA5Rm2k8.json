@@ -1,6 +1,6 @@
 {
   "description": "Just good energy",
-  "num_followers": 577707,
+  "num_followers": 577693,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-05-19 14:00:13",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2026-05-19 14:00:13",
-      "album": {
         "name": "Supernatural (Legacy Edition)",
         "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze"
+    },
+    {
+      "added_at": "2026-05-19 14:00:13",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2026-05-19 14:00:13",

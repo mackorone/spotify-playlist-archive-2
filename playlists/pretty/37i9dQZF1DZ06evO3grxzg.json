@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235284,
+  "num_followers": 235274,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAREKVekYYXKJ0gIh805JMg",
+  "snapshot_id": "ai9AgAAAAABhu5MTC6iPLBANInZJl5gW",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
       "duration_ms": 167741,
       "name": "Vuelve, Vuelve",
       "url": "https://open.spotify.com/track/5EjRxRZTIpJP1nOdowCFbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tqum",
-        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "tqum",
-      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
     },
     {
       "added_at": null,
@@ -283,30 +263,6 @@
       "duration_ms": 197550,
       "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
       "url": "https://open.spotify.com/track/5UzmjsUHQDr6hYuZbXfXoT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tqum (feat. Kim Petras) [Remix]",
-        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "tqum (feat. Kim Petras) - Remix",
-      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
     },
     {
       "added_at": null,
@@ -803,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+        "name": "Latino Hits 2024",
+        "url": "https://open.spotify.com/album/3DB9RMSI9mvwZ50yTMKdVT"
       },
       "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Chiquita Pero Picosa - Versi\u00f3n Pop",
-      "url": "https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF"
+      "duration_ms": 149589,
+      "name": "tqum",
+      "url": "https://open.spotify.com/track/3TQzwGfw73310RvuqBLEYb"
     },
     {
       "added_at": null,
@@ -835,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop para los peques",
-        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
       "artists": [
         {
@@ -844,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Mar\u00eda Belem",
-      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
+      "duration_ms": 208133,
+      "name": "Chiquita Pero Picosa - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF"
     },
     {
       "added_at": null,
@@ -867,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+        "name": "Pop para los peques",
+        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
       },
       "artists": [
         {
@@ -876,9 +836,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Late Mi Coraz\u00f3n - Version Pop",
-      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
+      "duration_ms": 190586,
+      "name": "Mar\u00eda Belem",
+      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
     },
     {
       "added_at": null,
@@ -895,6 +855,22 @@
       "duration_ms": 187906,
       "name": "El Cielo En Brazos De Pap\u00e1",
       "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Late Mi Coraz\u00f3n - Version Pop",
+      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
     },
     {
       "added_at": null,
@@ -935,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
+      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Romper La Pi\u00f1ata",
         "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
@@ -951,18 +943,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+        "name": "La M\u00fasica y las Mujeres",
+        "url": "https://open.spotify.com/album/74SChGBL5GpfKvYggjW7I5"
       },
       "artists": [
         {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 177786,
-      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
-      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
+      "duration_ms": 149589,
+      "name": "tqum - Remix",
+      "url": "https://open.spotify.com/track/3bZkRGbE7hvtfnlXpsxQLz"
     },
     {
       "added_at": null,

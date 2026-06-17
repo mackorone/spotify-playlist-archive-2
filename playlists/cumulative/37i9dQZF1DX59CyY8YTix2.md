@@ -2,9 +2,9 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 至福ぽんちょ
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ちゃくら
 
-2,047 songs - 5 day 6 hr 44 min
+2,049 songs - 5 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [cinema paradiso](https://open.spotify.com/track/5zlJEFexSDmVw6PEDwNJZf) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kimi wo omotte iru](https://open.spotify.com/album/0JeDfH9IBw1tWdXIekSq5d) | 4:22 | 2026-01-13 |  |
 | [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-25 |
 | [CLASSIC](https://open.spotify.com/track/2EE5bX7zFI6TCbIvvL8A4y) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [CLASSIC](https://open.spotify.com/album/6tsA7mKlSnFrI1LMUbd1pP) | 4:34 | 2025-01-28 | 2025-03-19 |
+| [CLUTCH!](https://open.spotify.com/track/5Z2PJNkWiQMvThOwVmEKBQ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [CLUTCH!](https://open.spotify.com/album/4bU30og2JBEC25bxIjy6WJ) | 3:28 | 2026-06-16 |  |
 | [coast](https://open.spotify.com/track/5ZZm4mN1L6LFc3dgLP1HP1) | [kikori](https://open.spotify.com/artist/0cXjUfMnBp4CtqzWyPTaEM) | [coast](https://open.spotify.com/album/6E5cf5CsV2jma4rlF18S2M) | 5:00 | 2022-06-02 | 2022-06-04 |
 | [color](https://open.spotify.com/track/5iESDik6mW9qYwAJyClFPb) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [color](https://open.spotify.com/album/5ZKatxoImDrUV4EpSxvJx4) | 3:59 | 2022-06-02 | 2022-07-11 |
 | [Color Me feat\. マヒトゥ・ザ・ピーポー](https://open.spotify.com/track/0RUH1oKxLmG1ZICLHqF8W8) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN), [マヒトゥ・ザ・ピーポー](https://open.spotify.com/artist/63fYqqdUZw9L2BuQKqVvOe) | [Color Me feat\. マヒトゥ・ザ・ピーポー](https://open.spotify.com/album/3xe0c6Ly4VWsc01NkAFc9O) | 4:36 | 2022-06-30 | 2022-07-19 |
@@ -173,7 +174,7 @@
 | [Comb Song](https://open.spotify.com/track/6F1OdnUbFzDBFXRWkZzFQt) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Being Polite \(In a Mean Way\)](https://open.spotify.com/album/5xMNi61LHTbEvHuk0DHZCI) | 2:32 | 2023-12-19 | 2023-12-27 |
 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 | 2025-01-14 | 2026-02-11 |
 | [CONNECTION](https://open.spotify.com/track/53fUHIIjpMweek9PVAng6O) | [シロクロミーアキャット](https://open.spotify.com/artist/1Df09q3nInMTxbmnre927z) | [CONNECTION](https://open.spotify.com/album/3nPEUW99Gj2sUEgTq1Z6yR) | 3:09 | 2022-07-07 | 2022-07-28 |
-| [CRASH OUT!!!](https://open.spotify.com/track/6aSYoAORIn0mhwy2pAh3LT) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [CRASH OUT!!!](https://open.spotify.com/album/3b7VZfo0jA5ubB2suwF2kU) | 3:39 | 2025-10-07 |  |
+| [CRASH OUT!!!](https://open.spotify.com/track/6aSYoAORIn0mhwy2pAh3LT) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [CRASH OUT!!!](https://open.spotify.com/album/3b7VZfo0jA5ubB2suwF2kU) | 3:39 | 2025-10-07 | 2026-06-17 |
 | [crawl](https://open.spotify.com/track/6OpQNagrrEbmvJA4tjtZfU) | [enomoto ryo](https://open.spotify.com/artist/1AH0orz2dejzHUzFLbZjPc) | [crawl](https://open.spotify.com/album/6IOM4KxMYofgem7LgXjAnW) | 3:44 | 2022-05-26 | 2022-06-01 |
 | [Crawl](https://open.spotify.com/track/0VJvLYjlPuebg8wGvrQsPB) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Crawl](https://open.spotify.com/album/2Ul6HklCKOh1lOk1YXLYRW) | 4:06 | 2024-11-05 | 2024-11-13 |
 | [CRAZZZY](https://open.spotify.com/track/2SzkK2z0uUQr6cR5IwRM6L) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [CRAZZZY](https://open.spotify.com/album/6epSwi19HQpi4fZERo4jni) | 3:05 | 2025-09-30 | 2026-03-25 |
@@ -1335,6 +1336,7 @@
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |
 | [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 | 2024-05-28 | 2025-02-24 |
 | [ドロップ](https://open.spotify.com/track/4r1fGtMQX6Lw1wkfGMN3wi) | [Signaless](https://open.spotify.com/artist/54IaTf2SiJDnOx6dp5j3W3) | [思想](https://open.spotify.com/album/24PZpgMOMim1v0Tpk6MLvU) | 3:59 | 2023-12-19 | 2023-12-27 |
+| [ドール](https://open.spotify.com/track/6w0aqok05y3cdCYQ6uJ8lX) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [GIRLS BAND NEVER DIE](https://open.spotify.com/album/3HZsA618AiDsSClnQYGVsu) | 2:39 | 2026-06-16 |  |
 | [ナイスなガール \- 2024 ver.](https://open.spotify.com/track/5xZZRi6CNGKs8Ze9dcEzFy) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:49 | 2024-03-07 | 2024-09-04 |
 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 | 2024-03-19 | 2025-11-05 |
 | [ナイター](https://open.spotify.com/track/1FgOb6Qz6AbI43y7AGEh7M) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [ナイター](https://open.spotify.com/album/4xs45xcNyDl8Vnhwh6sBcF) | 3:44 | 2023-04-11 | 2023-06-02 |
@@ -1627,7 +1629,7 @@
 | [夏が来るたび](https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 3:59 | 2023-08-22 | 2024-01-10 |
 | [夏のぬけがら](https://open.spotify.com/track/0gwS51bfasFmEuiOTLUeX5) | [Crispy Camera Club](https://open.spotify.com/artist/3qEb8wuWUimyFEe3a8kF90), [亀本寛貴](https://open.spotify.com/artist/2IkaeoZl5KL0u2urrEx690) | [夏のぬけがら](https://open.spotify.com/album/12ffqCp15DQbWjL8ziBwj1) | 4:16 | 2022-12-07 | 2022-12-14 |
 | [夏の光](https://open.spotify.com/track/6Y0N0AyVjxuGAEOXVqT7Ah) | [Sunday Student](https://open.spotify.com/artist/05HOn3p4dEG7ubmwkwsB8q) | [夏の光](https://open.spotify.com/album/5mkn0LOg61GAcBwhj6QBxJ) | 4:11 | 2022-06-21 | 2022-06-24 |
-| [夏をかける少女](https://open.spotify.com/track/15rMh7d9mdhYeWScr4Kl1N) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [夏をかける少女](https://open.spotify.com/album/2sRgFGvm4qJQFWSEQoYw6h) | 3:30 | 2026-06-09 |  |
+| [夏をかける少女](https://open.spotify.com/track/15rMh7d9mdhYeWScr4Kl1N) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [夏をかける少女](https://open.spotify.com/album/2sRgFGvm4qJQFWSEQoYw6h) | 3:30 | 2026-06-09 | 2026-06-17 |
 | [夏嵐](https://open.spotify.com/track/7cD5iMN0Oq385by3Xhg8Ca) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [夏嵐](https://open.spotify.com/album/5uRsMPKDnQfqIdnFPUs9Rx) | 3:16 | 2022-05-31 | 2022-07-07 |
 | [夏影、](https://open.spotify.com/track/6TNCjUqjCfNyhqZKqTFMeY) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [夏影、](https://open.spotify.com/album/2x3IupbEeHXoOmL8Y73T3c) | 4:09 | 2022-06-23 | 2022-06-28 |
 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 | 2023-06-27 | 2024-10-02 |

@@ -15871,6 +15871,24 @@
     },
     {
       "album": {
+        "name": "Grease Baby",
+        "url": "https://open.spotify.com/album/290EU7vFhTDJ9cckHP6gEh"
+      },
+      "artists": [
+        {
+          "name": "Clutter",
+          "url": "https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197687,
+      "name": "Grease Baby",
+      "url": "https://open.spotify.com/track/7CzAEvBvbEqZfFQlkDSQ6G"
+    },
+    {
+      "album": {
         "name": "Great Dane",
         "url": "https://open.spotify.com/album/22goxR80DmX7586U73OrNy"
       },
@@ -20668,6 +20686,24 @@
       "duration_ms": 167866,
       "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
       "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
+    },
+    {
+      "album": {
+        "name": "Triple Ones",
+        "url": "https://open.spotify.com/album/3If1yiQnyrz6toTQgJ7gEo"
+      },
+      "artists": [
+        {
+          "name": "Artificial Go",
+          "url": "https://open.spotify.com/artist/6XBGmjpy9vfSmarlFHppRU"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222280,
+      "name": "Jane Ate the Apple Seed",
+      "url": "https://open.spotify.com/track/6RijF0WY5gYZ8VnWUGVqes"
     },
     {
       "album": {
@@ -25854,7 +25890,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 137666,
       "name": "Never Better",
       "url": "https://open.spotify.com/track/7oYm171RmKxCSEwVAc4I3o"
@@ -34939,6 +34975,24 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1olpLgv7x6PoATBnNmNxjQ"
+      },
+      "artists": [
+        {
+          "name": "Do Nothing",
+          "url": "https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172052,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP"
+    },
+    {
+      "album": {
         "name": "Stars Above",
         "url": "https://open.spotify.com/album/34AN30D6wsgL91xTIsStpE"
       },
@@ -38400,7 +38454,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 152744,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/5PlLGnbZAI0DjeyuLAzLQT"
@@ -42528,7 +42582,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 224656,
       "name": "Your name, It's walking",
       "url": "https://open.spotify.com/track/3ssApJUHcFBrgeuG69vqh9"

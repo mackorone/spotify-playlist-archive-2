@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,718 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,722 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,18 +20,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 10 | [Rahat Wen](https://open.spotify.com/track/4ueBwVQmqlHQ92Whn1vlq8) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Rahat Wen](https://open.spotify.com/album/2zVGJy2Wgq8WrsamstI0qs) | 3:19 |
 | 11 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 |
 | 12 | [أوقات](https://open.spotify.com/track/1kNEA479Q065mAaNhaT8Rn) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [أوقات](https://open.spotify.com/album/0IgOIkkKUW98PalSz7W2SB) | 3:42 |
-| 13 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 |
-| 14 | [Lazemni Break](https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Lazemni Break](https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT) | 2:22 |
+| 13 | [Lazemni Break](https://open.spotify.com/track/3c5jOjIWCDHjy7XPFuWuaM) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Lazemni Break](https://open.spotify.com/album/2YKxZXEbtRbB5fcCUhZpPT) | 2:22 |
+| 14 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 |
 | 15 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 |
 | 16 | [Serti Halali](https://open.spotify.com/track/5aV0Vl1Fv9s9PmWklzzlvz) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Serti Halali](https://open.spotify.com/album/0IiY9pwCRMsRdldrMpW03A) | 3:57 |
 | 17 | [إنهض](https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL) | [Emsallam](https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1) | [إنهض](https://open.spotify.com/album/2UYF5glGACebnFJcxzMHEO) | 4:08 |
-| 18 | [Ma Tarakna](https://open.spotify.com/track/59UWCOSGrNNrkFUn7rCZtS) | [Saif safadi](https://open.spotify.com/artist/5YOpMW6wgD0l50bK1DBq74) | [Ma Tarakna](https://open.spotify.com/album/7bOBrNOz7Ey6GLfKyBj1a1) | 3:18 |
-| 19 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 |
+| 18 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 |
+| 19 | [Ma Tarakna](https://open.spotify.com/track/59UWCOSGrNNrkFUn7rCZtS) | [Saif safadi](https://open.spotify.com/artist/5YOpMW6wgD0l50bK1DBq74) | [Ma Tarakna](https://open.spotify.com/album/7bOBrNOz7Ey6GLfKyBj1a1) | 3:18 |
 | 20 | [Tmaneet Ashofak](https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va) | [Omar Alabdallat](https://open.spotify.com/artist/3zbimX3Z591csbDHH2Iuxc), [Salah Alakhfash](https://open.spotify.com/artist/7zBvvEkToHUjaOmdVHHJfQ) | [Tmaneet Ashofak](https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu) | 4:58 |
 | 21 | [Wahad Tnean](https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Wahad Tnean](https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt) | 3:07 |
-| 22 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
-| 23 | [Manama](https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Manama](https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe) | 3:40 |
-| 24 | [انتي القدر](https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T) | [MoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [انتي القدر](https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL) | 3:42 |
+| 22 | [Manama](https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Manama](https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe) | 3:40 |
+| 23 | [انتي القدر](https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T) | [MoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [انتي القدر](https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL) | 3:42 |
+| 24 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
 | 25 | [Mn Gheirik Enti](https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Mn Gheirik Enti](https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo) | 3:01 |
 | 26 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 |
 | 27 | [Pedazos de mi vida](https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6) | [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY) | [Nomad](https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM) | 3:28 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 44 | [Asheek](https://open.spotify.com/track/6G4H20LIYJELDI6fAbWKMo) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3](https://open.spotify.com/album/4noxSq67DwvvPBwYaQiYBH) | 4:51 |
 | 45 | [Howeh El Hob](https://open.spotify.com/track/7o0v7fQ8SJKQjjA1kzSabX) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Howeh El Hob](https://open.spotify.com/album/7CboCx8gUJ67FJ3iB4U9h7) | 4:03 |
 | 46 | [Ween El\-Kalam](https://open.spotify.com/track/6ggyvXMDwARoo76Clvlngg) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Ya Bay](https://open.spotify.com/album/1TJ9kHoxjWcyatFa8KMGaS) | 5:36 |
-| 47 | [Hala O Ghala](https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Hala O Ghala](https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n) | 3:31 |
+| 47 | [Ma Bdi Heb](https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ma Bdi Heb](https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z) | 4:14 |
 | 48 | [Hada Ma Byentasa](https://open.spotify.com/track/2YSeUVN3O3t8PeK1sGtRFQ) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Hada Ma Byentasa](https://open.spotify.com/album/2BR05zm7GhqfI9G0k6jmvp) | 4:38 |
 | 49 | [Naskha Mennek](https://open.spotify.com/track/1QvPkpRLq07ps7S9izzQtK) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Naskha Mennek](https://open.spotify.com/album/6vfo2SVprRnGs1hzo8cWiX) | 5:18 |
 | 50 | [Meshta'](https://open.spotify.com/track/6gRuJhqD6d4SCrLtptBWMu) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Meshta'](https://open.spotify.com/album/1yMFbwnRXaQvc16EFx0Q3O) | 4:17 |
 | 51 | [Zubalah](https://open.spotify.com/track/2KCBxLXOmiv2skjcuUpePN) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Khusouf Al\-Ard](https://open.spotify.com/album/6gnf8UdhDLssZAvG3PF5Dw) | 3:48 |
-| 52 | [Ma Bdi Heb](https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ma Bdi Heb](https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z) | 4:14 |
+| 52 | [Hala O Ghala](https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Hala O Ghala](https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n) | 3:31 |
 | 53 | [Mabsoot Bhali](https://open.spotify.com/track/39efRQpfCpC418qhWOwE41) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Mabsoot Bhali](https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl) | 3:19 |
 | 54 | [Nater](https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Nater](https://open.spotify.com/album/09UgMkfwxSfc2Ua3t1MhOf) | 3:24 |
 | 55 | [Konna Sghar](https://open.spotify.com/track/55ExdRqYPtqMOweJaWqwbX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/6wlJNQtXLY3ypYXVsayxnV) | 2:16 |

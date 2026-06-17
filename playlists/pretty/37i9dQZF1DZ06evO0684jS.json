@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 888619,
+  "num_followers": 888623,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADdYW0dJ21pdumbwh4+CPub",
+  "snapshot_id": "ai9AgAAAAAD7vn38+jtEvA7PbV/7YzAc",
   "tracks": [
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Ball For Me (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LM5 (Deluxe)",
         "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 229720,
       "name": "Woman Like Me (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Ball For Me (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kissing Strangers",
-        "url": "https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 189533,
       "name": "Bed (feat. Ariana Grande)",
       "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kissing Strangers",
+        "url": "https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Kissing Strangers",
+      "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
     },
     {
       "added_at": null,

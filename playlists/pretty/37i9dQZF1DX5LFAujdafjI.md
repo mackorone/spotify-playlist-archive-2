@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Portola is back! For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the <a href="https://portolamusicfestival.com/">Portola Festival</a> Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,343 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,384 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 16 | [if you wanna party, come over to my house](https://open.spotify.com/track/0snzpWpjUj6dxRFrsNQOZs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:51 |
 | 17 | [I Don't Want U](https://open.spotify.com/track/0riaqupdgVCf58PyhOoh26) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [I Don't Want U](https://open.spotify.com/album/1APiHnDcdonUwy6mtfUpeO) | 2:59 |
 | 18 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 |
-| 19 | [Superscar](https://open.spotify.com/track/41omgwj9Hoqy8B7ApXX6Zf) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Superscar](https://open.spotify.com/album/381XElKgcMnMRNP9yFrwJ4) | 3:14 |
+| 19 | [SUPERSCAR](https://open.spotify.com/track/3OXswcKSaO6mNiNyeEbnAS) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/7qxF6g93TWMTlswQVPtlvF) | 3:14 |
 | 20 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 21 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
 | 22 | [Midnight Sun](https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |

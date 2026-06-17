@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,468 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,589 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 | 20 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 |
 | 21 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
 | 22 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:46 |
-| 23 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |
-| 24 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 |
+| 23 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 |
+| 24 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |
 | 25 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 |
 | 26 | [El Amor de Mi Vida](https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor de Mi Vida](https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG) | 3:04 |
 | 27 | [¿Dónde Estarás?](https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 3:51 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yLfjPY8emY.md) - [plain]
 | 46 | [Escándalo](https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:48 |
 | 47 | [Tu Y Yo \- Cumbia Remix](https://open.spotify.com/track/5ZYR17P7sT73hcIMn9tmZ8) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 3:52 |
 | 48 | [Yo Me Llamo Cumbia](https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Bodega](https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX) | 4:29 |
-| 49 | [Amor Regresa](https://open.spotify.com/track/0FuqABgi0bD219B12xC7Hn) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:33 |
-| 50 | [Yo Soy Tu Maestro](https://open.spotify.com/track/760Gu5DFBFjADZq5HvCHrR) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Para Siempre \(20\) Exitos](https://open.spotify.com/album/6Vhn8eayljHTmBrptRb9IB) | 4:36 |
+| 49 | [Yo Soy Tu Maestro](https://open.spotify.com/track/760Gu5DFBFjADZq5HvCHrR) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Para Siempre \(20\) Exitos](https://open.spotify.com/album/6Vhn8eayljHTmBrptRb9IB) | 4:36 |
+| 50 | [Amor Regresa](https://open.spotify.com/track/0FuqABgi0bD219B12xC7Hn) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:33 |
 
 Snapshot ID: `AAAAAJ6WfOuGRDuE5/nyIBTPI5E1AvoG`

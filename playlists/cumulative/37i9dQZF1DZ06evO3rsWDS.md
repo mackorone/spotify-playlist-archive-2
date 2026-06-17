@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 26 min
+113 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Quisieran Tener Mi Lugar](https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:57 | 2023-03-10 | 2025-03-24 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [MAS Norteño](https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng) | [Si No Te Hubieras Ido](https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc) | 5:26 | 2023-03-10 |  |
 | [SOMOS](https://open.spotify.com/track/64hvYq2DRTMFCTc5EpuREh) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:41 | 2025-11-12 | 2026-05-23 |
+| [SOMOS](https://open.spotify.com/track/7mpATTzOBRAR5A7wxQ9yph) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Flores En Mi Alma](https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E) | 2:41 | 2026-06-17 |  |
 | [Souls](https://open.spotify.com/track/3Glq9PY4TH22PIB34a2tO7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 0:32 | 2026-05-03 |  |
 | [Soy De Esas](https://open.spotify.com/track/1PV4AuRZJZUumVu01SEJsd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [DIAMANTES VVS1](https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf) | 2:35 | 2024-11-03 | 2025-01-20 |
 | [Soy LUZ \(meditación guiada\)](https://open.spotify.com/track/1hc8Z3xBJ1kBxuXRwmugGR) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:28 | 2025-11-13 | 2025-12-09 |

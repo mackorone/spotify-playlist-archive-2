@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 32091,
+  "num_followers": 32101,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAA/AXbxT5gwRm9TW3by+8bU",
+  "snapshot_id": "ai9AgAAAAACDIWfMorLq2mLskHm7UqsQ",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00edas de Ayer",
+        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/7Ftpkn5Xkv3DFrvEVFRt9R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 217129,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00edas de Ayer",
-        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Alg\u00fan D\u00eda",
-      "url": "https://open.spotify.com/track/7Ftpkn5Xkv3DFrvEVFRt9R"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
-        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
+        "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
       },
       "artists": [
         {
@@ -688,13 +688,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Jennifer Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
+          "name": "Guardianes Del Amor De Arturo Rodriguez",
+          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
         }
       ],
-      "duration_ms": 218886,
-      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
-      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
+      "duration_ms": 216345,
+      "name": "Amor Se Escribe Con Llanto - En Vivo",
+      "url": "https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
-        "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
+        "name": "Abr\u00e1zame Y B\u00e9same (En Vivo)",
+        "url": "https://open.spotify.com/album/5P7Xa033hHs5AOZcF0EYAs"
       },
       "artists": [
         {
@@ -728,13 +728,13 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         },
         {
-          "name": "Guardianes Del Amor De Arturo Rodriguez",
-          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
+          "name": "Jennifer Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf"
         }
       ],
-      "duration_ms": 216345,
-      "name": "Amor Se Escribe Con Llanto - En Vivo",
-      "url": "https://open.spotify.com/track/2IFhLn3agOBN1pv5w1mOer"
+      "duration_ms": 218886,
+      "name": "Abr\u00e1zame Y B\u00e9same - En Vivo",
+      "url": "https://open.spotify.com/track/0P3Vp1LUe0Ryq5JkoF9ICf"
     },
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 135266,
-      "name": "Mujer Maravilla",
-      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
+      "duration_ms": 212893,
+      "name": "La Plancha",
+      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
     },
     {
       "added_at": null,
@@ -799,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "La Plancha",
-      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Camino",
         "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 217199,
       "name": "Vuelta En U (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 135266,
+      "name": "Mujer Maravilla",
+      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
     },
     {
       "added_at": null,

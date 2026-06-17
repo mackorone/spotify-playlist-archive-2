@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 224749,
+  "num_followers": 224775,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,38 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Martin Elias & Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
+        }
+      ],
+      "duration_ms": 315862,
+      "name": "10 Razones para Amarte",
+      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Quiero Que Seas Mi Estrella",
+      "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -483,38 +515,6 @@
       "duration_ms": 297746,
       "name": "Como duele el frio",
       "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 300786,
-      "name": "Me Ilusione",
-      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 300786,
+      "name": "Me Ilusione",
+      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "Grandes \u00c9xitos - Luis Mateus y David Rend\u00f3n",
         "url": "https://open.spotify.com/album/7nfMoMwDa68qYPOKjjM7tU"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 259015,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/5aRkqvho3gUvxrljEbpnTT"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Quiero Que Seas Mi Estrella",
-      "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "La Creciente",
-      "url": "https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 308040,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "La Creciente",
+      "url": "https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg"
     },
     {
       "added_at": "2025-06-06 05:39:08",

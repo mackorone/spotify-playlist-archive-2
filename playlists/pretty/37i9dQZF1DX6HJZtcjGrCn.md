@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Maria Leitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,485 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,519 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 32 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
 | 33 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 |
 | 34 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
-| 35 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
-| 36 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
+| 35 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
+| 36 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
 | 37 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
 | 38 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
 | 39 | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 76 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
 | 77 | [The Old Law](https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Old Law](https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na) | 4:41 |
 | 78 | [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [The Hardest Thing \(feat\. Tony Allen\) / Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4) | 3:28 |
-| 79 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
-| 80 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 |
+| 79 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 |
+| 80 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
 
 Snapshot ID: `AAAAANQ5nM7O6XGUY9BINiC1GI0dwpAT`

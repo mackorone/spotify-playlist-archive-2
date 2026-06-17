@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 2294,
+  "num_followers": 2296,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAClgBEMrA2Nr1fuxzcOK6j6",
+  "snapshot_id": "ai9AgAAAAAD6jLGib9bZDAUn+ZwG5nV7",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 169394,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/71QKcBjRSoGBMNPByY715u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRINCESS OF POWER (DELUXE)",
         "url": "https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 247846,
       "name": "EVERYBODY KNOWS I'M SAD - REMIX",
       "url": "https://open.spotify.com/track/15BYAhv1YFKwKaOIJz1r9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 169394,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/71QKcBjRSoGBMNPByY715u"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/29iIxkfKomRxXdkzVhQuAE"
+      "duration_ms": 200080,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/2tUwCO3XQ9DXdTeW9oQuce"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/2tUwCO3XQ9DXdTeW9oQuce"
+      "duration_ms": 146293,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 146293,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq"
+      "duration_ms": 202786,
+      "name": "Natural Disaster",
+      "url": "https://open.spotify.com/track/5CycJGxE7haKnBuNsssY4r"
     },
     {
       "added_at": null,

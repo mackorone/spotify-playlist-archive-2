@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 130062,
+  "num_followers": 130083,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABKsIINzIRWZVniqAYRI3CJ",
+  "snapshot_id": "ai9AgAAAAADWRjVGlaPQ/qa9n/ppff3W",
   "tracks": [
     {
       "added_at": null,
@@ -578,15 +578,11 @@
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 149987,
-      "name": "Hablamos Rap",
-      "url": "https://open.spotify.com/track/5WgDOzT3dxNLbPk02RNBPI"
+      "duration_ms": 211588,
+      "name": "De Rol",
+      "url": "https://open.spotify.com/track/0ifXq1bF8z1NZFcqYxqiih"
     },
     {
       "added_at": null,
@@ -658,11 +654,15 @@
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 211588,
-      "name": "De Rol",
-      "url": "https://open.spotify.com/track/0ifXq1bF8z1NZFcqYxqiih"
+      "duration_ms": 149987,
+      "name": "Hablamos Rap",
+      "url": "https://open.spotify.com/track/5WgDOzT3dxNLbPk02RNBPI"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MSD",
+        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "MSD",
+      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estrafalario",
         "url": "https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MSD",
-        "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "MSD",
-      "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA PARRANDHA",
-        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 238792,
-      "name": "LA PARRANDHA",
-      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Diablo, La Muerte y Yo",
         "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 214210,
       "name": "No te puedo olvidar",
       "url": "https://open.spotify.com/track/1CGKE1aNJ9gW2jRsfD0mZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA PARRANDHA",
+        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 238792,
+      "name": "LA PARRANDHA",
+      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "El After Porky",
-      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Diablo, La Muerte y Yo",
         "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 205196,
       "name": "El Diablo, La Muerte y Yo",
       "url": "https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "El After Porky",
+      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
     },
     {
       "added_at": null,

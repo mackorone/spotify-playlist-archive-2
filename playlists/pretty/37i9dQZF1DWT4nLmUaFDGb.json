@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 723831,
+  "num_followers": 724009,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "The Girl In The Other Room",
-        "url": "https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 267720,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Peter Cincotti",
         "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 251920,
       "name": "Sway",
       "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "The Girl In The Other Room",
+        "url": "https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "On The Moon",
-        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Some Kind Of Wonderful",
-      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 221832,
       "name": "I've Drawn Your Face",
       "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "On The Moon",
+        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Some Kind Of Wonderful",
+      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "These Are the Memories",
-        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
-      },
-      "artists": [
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        }
-      ],
-      "duration_ms": 273670,
-      "name": "These Are the Memories",
-      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 257533,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "These Are the Memories",
+        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 273670,
+      "name": "These Are the Memories",
+      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1031,90 +1031,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Suzanne (feat. Gregory Porter)",
-      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "My Wonderland",
-        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A Man and a Woman",
-      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Be Still My Heart",
-      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -1135,6 +1051,54 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "My Wonderland",
+        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "A Man and a Woman",
+      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
         "name": "Lips Can Lie",
         "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
       },
@@ -1147,6 +1111,42 @@
       "duration_ms": 229596,
       "name": "Lips Can Lie",
       "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Be Still My Heart",
+      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 326729,
       "name": "Save Your Love for Me",
       "url": "https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
         "name": "Burgundy",
         "url": "https://open.spotify.com/album/0kKAsVURzU5scFPBk5wU9p"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 260144,
       "name": "Burgundy",
       "url": "https://open.spotify.com/track/5sgaaqksfnewIky3AUrYFI"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Summer Wind",
-        "url": "https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf"
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/2YCGhSo9rks5UBzmI0stmy"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
         }
       ],
-      "duration_ms": 161271,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
+      "duration_ms": 304813,
+      "name": "Tell Him I Said Hello",
+      "url": "https://open.spotify.com/track/62xrkSU9yyiDXFoxjbAbSZ"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/2YCGhSo9rks5UBzmI0stmy"
+        "name": "Summer Wind",
+        "url": "https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf"
       },
       "artists": [
         {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 304813,
-      "name": "Tell Him I Said Hello",
-      "url": "https://open.spotify.com/track/62xrkSU9yyiDXFoxjbAbSZ"
+      "duration_ms": 161271,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
     },
     {
       "added_at": "2026-06-08 07:25:41",

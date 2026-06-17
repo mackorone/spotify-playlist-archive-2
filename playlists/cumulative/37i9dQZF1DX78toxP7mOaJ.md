@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: LEMONSUCKR
 
-2,351 songs - 5 day 10 hr 8 min
+2,354 songs - 5 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [Gradient](https://open.spotify.com/track/4uhtG8r6uEUX85lM8SSAD9) | [MERCURY](https://open.spotify.com/artist/7nZUfrzMjY1kuooTJcg5s2) | [Gradient](https://open.spotify.com/album/2mAiu74drTc15UeOo5xU1q) | 4:05 | 2024-09-11 | 2024-10-17 |
 | [Grasping At Straws](https://open.spotify.com/track/6SycyjxsiRV81zsQBE4hxb) | [Wicked Lights](https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k) | [Grasping At Straws](https://open.spotify.com/album/3dwbS6EmocUVUglc5D41L8) | 3:42 | 2024-11-06 | 2025-04-10 |
 | [Grazer](https://open.spotify.com/track/6x5YxvJ6jFKTSCNU8FfJ2U) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Grazer](https://open.spotify.com/album/4NcqO8MWjbvLaWcCAU7EeT) | 2:28 | 2026-03-25 | 2026-06-11 |
+| [Grease Baby](https://open.spotify.com/track/7CzAEvBvbEqZfFQlkDSQ6G) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Grease Baby](https://open.spotify.com/album/290EU7vFhTDJ9cckHP6gEh) | 3:17 | 2026-06-17 |  |
 | [Great Dane](https://open.spotify.com/track/6sdLxls3tk5al8uIara1mN) | [cruush](https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N) | [Great Dane](https://open.spotify.com/album/22goxR80DmX7586U73OrNy) | 3:05 | 2026-02-18 |  |
 | [Great Design](https://open.spotify.com/track/1KlLBsi9lWW9qsDNAKAkIc) | [Consumables](https://open.spotify.com/artist/0wDpftqWBBRvWZAZcuW8e7) | [Great Design](https://open.spotify.com/album/6CrE01JKeeSmzBWSoPQbDP) | 3:12 | 2025-02-05 | 2025-02-27 |
 | [Grinning William](https://open.spotify.com/track/6s55DkhxntRC9G4CXfSzgK) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Grinning William](https://open.spotify.com/album/50XtQHylcHvePeTUYOIlBA) | 2:43 | 2024-11-06 | 2024-11-21 |
@@ -1145,6 +1146,7 @@
 | [It's The Magic](https://open.spotify.com/track/4Y66dc6AG2eWQNUOzpKqtK) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [It's The Magic](https://open.spotify.com/album/1SuoXeP6CNGV78FIY2hO4v) | 4:26 | 2023-10-25 | 2024-01-25 |
 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-02-11 |  |
 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 | 2025-04-02 | 2026-03-26 |
+| [Jane Ate the Apple Seed](https://open.spotify.com/track/6RijF0WY5gYZ8VnWUGVqes) | [Artificial Go](https://open.spotify.com/artist/6XBGmjpy9vfSmarlFHppRU) | [Triple Ones](https://open.spotify.com/album/3If1yiQnyrz6toTQgJ7gEo) | 3:42 | 2026-06-17 |  |
 | [January](https://open.spotify.com/track/3b5B8EHBosIbH3pMtrevzN) | [Dylan Espeseth](https://open.spotify.com/artist/7wS3LzIpvpoPcpZKFpFAv0) | [January](https://open.spotify.com/album/7AuUsoQbLg4JQx2tpu4bqa) | 2:45 | 2023-01-25 | 2023-02-23 |
 | [Jealous Boy](https://open.spotify.com/track/6n0NZmREI4EC0W8Mdnq6P7) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Very Human Features](https://open.spotify.com/album/2YQIflzFSMojRZXfDexMtQ) | 2:39 | 2025-08-06 | 2025-12-04 |
 | [Jealous Type](https://open.spotify.com/track/4E7TTfyR1nQavGupnxeqcF) | [Mudi Sama](https://open.spotify.com/artist/4OFlR9OFN1PRLww3MSVF7W) | [Jealous Type](https://open.spotify.com/album/4O1DrDeQGMRjzhHdkdPRXE) | 3:22 | 2024-11-20 | 2025-03-13 |
@@ -1431,7 +1433,7 @@
 | [Neon Dream](https://open.spotify.com/track/2vuje60f3vX1bk8AEu7vJ7) | [Wait of the World](https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si) | [Neon Dream](https://open.spotify.com/album/3BwO2AJv4TOSL3iKQKirpb) | 3:19 | 2025-02-05 | 2025-05-08 |
 | [Neptune Girl](https://open.spotify.com/track/5OLQKfOEmxAa9qVNhQygra) | [Modern Woman](https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9) | [Neptune Girl](https://open.spotify.com/album/4P2TRk9nZgQIRxrQVx3dD8) | 2:56 | 2026-03-04 | 2026-03-19 |
 | [Nest](https://open.spotify.com/track/1rKGfMOG6HxI3TzzO2F79F) | [Spilly Cave](https://open.spotify.com/artist/67mzMEdm10hCcDU3E4RH3l) | [Nest](https://open.spotify.com/album/51WwDzkviWXOdIqztS7fTw) | 2:29 | 2024-04-24 | 2024-07-25 |
-| [Never Better](https://open.spotify.com/track/7oYm171RmKxCSEwVAc4I3o) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Never Better](https://open.spotify.com/album/4y4b3JMn304TCeyw5bF1Q3) | 2:17 | 2026-03-18 |  |
+| [Never Better](https://open.spotify.com/track/7oYm171RmKxCSEwVAc4I3o) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Never Better](https://open.spotify.com/album/4y4b3JMn304TCeyw5bF1Q3) | 2:17 | 2026-03-18 | 2026-06-17 |
 | [Never Gonna Change](https://open.spotify.com/track/3VHDLnaAtSuxamz3rXqO35) | [Sun Spots](https://open.spotify.com/artist/5dLUdWCHNf1zrQoAiXlB8w) | [Loosey](https://open.spotify.com/album/2nCJxgGHGeRUZz8HzhIvJd) | 3:00 | 2022-10-26 | 2022-12-01 |
 | [Never Said](https://open.spotify.com/track/3j8ZZlpKzdhDdcn2EWDhmB) | [Los Saints](https://open.spotify.com/artist/65kpk2PLBzVkgtG47hus0g) | [Never Said](https://open.spotify.com/album/1ObJHkOfVc1Q7qmwaa7TI5) | 2:33 | 2024-04-03 | 2024-07-11 |
 | [Never Saw It Coming](https://open.spotify.com/track/1mk2Yoz5X8dbjOKtGZdY96) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Never Saw It Coming](https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu) | 3:08 | 2023-06-14 | 2023-08-03 |
@@ -1931,6 +1933,7 @@
 | [Stain Helicopter](https://open.spotify.com/track/2bScUU6k5eetl7X52zSVRi) | [Lobby Boxer](https://open.spotify.com/artist/348z9Vi5TkG7tGmjs6HDNp) | [Stain Helicopter](https://open.spotify.com/album/29fh9w86vYCQgIAJXCXr6d) | 4:00 | 2023-10-04 | 2024-03-21 |
 | [Star](https://open.spotify.com/track/09r3Mi2FFYLm02f544hi8f) | [Jawdropped](https://open.spotify.com/artist/6AxlwzQp9748SDpdoSjqQa) | [Star](https://open.spotify.com/album/4UHwOyvtSSutaGDs31ZrnW) | 3:06 | 2024-11-06 | 2025-02-27 |
 | [staring at the moon](https://open.spotify.com/track/2xhPeq2JkRk92QCN1uwB5x) | [THE BAND LIGHT](https://open.spotify.com/artist/43ix3ePMC5sMmP0TQeIilZ) | [staring at the moon](https://open.spotify.com/album/4NYcreHJt9V4WBdst1EG2H) | 3:08 | 2022-05-18 | 2022-08-11 |
+| [Stars](https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Stars](https://open.spotify.com/album/1olpLgv7x6PoATBnNmNxjQ) | 2:52 | 2026-06-17 |  |
 | [Stars Above](https://open.spotify.com/track/4coOLKzvTTj7zQ9mzP3gxp) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [Stars Above](https://open.spotify.com/album/34AN30D6wsgL91xTIsStpE) | 3:56 | 2023-08-23 | 2023-11-30 |
 | [Starting Over](https://open.spotify.com/track/5nokVh0Ni0aHDKdR8uUsVq) | [LOBSTERBOMB](https://open.spotify.com/artist/2zBxQyNS9Ja2Y9YUbYiOOS) | [Starting Over](https://open.spotify.com/album/1fscdVnjzJCc0itQdovUti) | 3:17 | 2022-08-24 | 2022-09-29 |
 | [Stay Golden](https://open.spotify.com/track/2LdXeZ4g5veCIln1UvC1ke) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/2YulK3fwp2NUe46SbP53Fh) | 1:58 | 2024-07-03 | 2024-09-12 |
@@ -2122,7 +2125,7 @@
 | [Tide Of Doubt](https://open.spotify.com/track/5SuqiH65FrbM731Cf6dYyp) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [World To Me](https://open.spotify.com/album/0YYEa5959qL0Bcz5vd2pLv) | 3:45 | 2022-07-06 | 2022-09-09 |
 | [tied](https://open.spotify.com/track/1tg5xY6QMlEME9emTaJmEN) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [tied](https://open.spotify.com/album/2aaQHXlEsfVq3yb2gH5NHe) | 1:34 | 2025-11-26 | 2025-12-04 |
 | [Tied Up In](https://open.spotify.com/track/1cXxmns9mi4Ybwzteaavvo) | [Yon Loader](https://open.spotify.com/artist/2iPY6b2itPLGdaKGXd3JPg) | [Tied Up In](https://open.spotify.com/album/29xYh2WdbTJyIz7JsezXGZ) | 5:08 | 2024-07-31 | 2024-10-17 |
-| [Tightrope](https://open.spotify.com/track/5PlLGnbZAI0DjeyuLAzLQT) | [Bedelia](https://open.spotify.com/artist/2y1uY0iJhBmQ2pbJpj94Vz) | [Tightrope](https://open.spotify.com/album/4x1SYR1Iwdsxa1cNANgp04) | 2:32 | 2026-02-18 |  |
+| [Tightrope](https://open.spotify.com/track/5PlLGnbZAI0DjeyuLAzLQT) | [Bedelia](https://open.spotify.com/artist/2y1uY0iJhBmQ2pbJpj94Vz) | [Tightrope](https://open.spotify.com/album/4x1SYR1Iwdsxa1cNANgp04) | 2:32 | 2026-02-18 | 2026-06-17 |
 | [Time](https://open.spotify.com/track/5V4qVStqE0NMxuQJPuqI60) | [Cdubz](https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH) | [Time](https://open.spotify.com/album/7FBf6jRk4YidWpfabv9bsz) | 2:38 | 2025-04-30 | 2025-08-07 |
 | [Time](https://open.spotify.com/track/4Yw8Asmn9g1R2rQYp28iF0) | [Object of Affection](https://open.spotify.com/artist/1U4tj1OPey66HhgVXGdlSY) | [Field of Appearances](https://open.spotify.com/album/0VanY2kjOAoWoAki0lDZLA) | 2:22 | 2023-03-15 | 2023-05-11 |
 | [Time for Nothing](https://open.spotify.com/track/2UCKre2xWqXSa39KMWosar) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Fool Nelson](https://open.spotify.com/album/383x8IswBSSD3l0IRZ96eQ) | 4:30 | 2022-11-09 | 2022-12-01 |
@@ -2348,7 +2351,7 @@
 | [Young Men](https://open.spotify.com/track/5XlRbUkXfhTDJ4RW7WFENU) | [Mulga Bore Hard Rock](https://open.spotify.com/artist/20UoU6pOqBHVcSRITcRIzl) | [Young Men](https://open.spotify.com/album/6ZhS4XgaWopmgA9382az1r) | 1:59 | 2024-11-20 | 2025-01-30 |
 | [Your Ideal](https://open.spotify.com/track/5uICdkcrnQTegHnyYE38f3) | [Cinema Hearts](https://open.spotify.com/artist/1qRBD6pXdVNopjHNlOnxKY) | [Your Ideal](https://open.spotify.com/album/4HUfCjQgebemyhiBAEIDhU) | 2:46 | 2022-07-27 | 2022-10-06 |
 | [Your Love](https://open.spotify.com/track/1gpYZnAIAZgzUZgFlP58wF) | [Vixen77](https://open.spotify.com/artist/40cU1NP5nu6mgTX7XCs3K5) | [Easy Access](https://open.spotify.com/album/6VLuzFMLJth5Dyc7ogvpmE) | 1:49 | 2022-10-19 | 2022-12-01 |
-| [Your name, It's walking](https://open.spotify.com/track/3ssApJUHcFBrgeuG69vqh9) | [Truck Violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [Your name, It's walking](https://open.spotify.com/album/5NRMCI38bjhgYnlA8gfSJa) | 3:44 | 2026-06-10 |  |
+| [Your name, It's walking](https://open.spotify.com/track/3ssApJUHcFBrgeuG69vqh9) | [Truck Violence](https://open.spotify.com/artist/37hhPwqpgSJ3sVixiThL0l) | [Your name, It's walking](https://open.spotify.com/album/5NRMCI38bjhgYnlA8gfSJa) | 3:44 | 2026-06-10 | 2026-06-17 |
 | [Your One Way Street](https://open.spotify.com/track/2qH4GHe610Fy5e8PTN7BRJ) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Little Green House](https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj) | 2:17 | 2022-01-26 | 2023-01-12 |
 | [your silence is my favorite song](https://open.spotify.com/track/4tp5h23nGaiOOOK06bF5vT) | [Flooding](https://open.spotify.com/artist/3w1bWeCjgPD3RbIp60ZRtw) | [your silence is my favorite song](https://open.spotify.com/album/1LMrSU9bVBV41VSlgeJ49L) | 4:29 | 2025-05-07 | 2025-08-21 |
 | [Your Type](https://open.spotify.com/track/3Cz89CEQBdIvOeBjp7usoJ) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Your Type](https://open.spotify.com/album/0mRzdnUKH6AwFjAfxOdAww) | 3:23 | 2024-03-06 | 2024-05-09 |

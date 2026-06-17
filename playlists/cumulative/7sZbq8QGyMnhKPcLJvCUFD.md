@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-861 songs - 1 day 18 hr 41 min
+862 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Left With Nothing](https://open.spotify.com/track/4w4IaAo9OtgKHzo44pQn2x) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Left With Nothing](https://open.spotify.com/album/48OUE1YH9xxIhtmb1eyfEa) | 2:38 | 2024-02-23 | 2024-08-28 |
 | [Let Go](https://open.spotify.com/track/0hDaKYsiOvAnZPxAIGxrmq) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Let Go](https://open.spotify.com/album/53MP6iUg5uw3OFWwY32cGR) | 3:01 | 2025-05-20 |  |
 | [LET THEM HAVE IT](https://open.spotify.com/track/2ElkJB3Ce9shEo0qKTHsGF) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [LET THEM HAVE IT](https://open.spotify.com/album/5AH2mN0UBrSGrTqZz48r5P) | 2:19 | 2023-02-07 | 2023-08-10 |
+| [Let You Never](https://open.spotify.com/track/1xesDpSqRjtwozWA5tdBQp) | [gabriawll](https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH) | [Let You Never](https://open.spotify.com/album/7eTiQS90crJ0M5X0dXME8X) | 2:36 | 2026-06-16 |  |
 | [Let's Go](https://open.spotify.com/track/5Oz6cJjkuLpUJNdhxiW9Tl) | [Mo Falk](https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [NCS x Geometry Dash: Volume 1](https://open.spotify.com/album/35EIo9W0kukj9d1OnGjX9S) | 2:32 | 2025-02-25 |  |
 | [Let's Play](https://open.spotify.com/track/4XoTO4jKYPdvGyfj0cUqVP) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Let's Play](https://open.spotify.com/album/364GIgp0PFkrFr7FaqGP6K) | 2:32 | 2023-03-03 | 2024-07-19 |
 | [Lies](https://open.spotify.com/track/3tkfu51XGoO7bnv44QL9iX) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Lies](https://open.spotify.com/album/2Yia5sGQfwQFtpvl90YwDc) | 3:56 | 2024-01-05 | 2024-08-28 |

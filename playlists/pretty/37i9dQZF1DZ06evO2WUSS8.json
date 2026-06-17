@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 15209,
+  "num_followers": 15210,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACg+2OhIOQJx8KRh7lVdj9A",
+  "snapshot_id": "ai9AgAAAAABWq409Bt64VBqbM+4HYJ11",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before The Morning Light",
-        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 163010,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/6EnRqTMK7mGy9AB7ArusqU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C'est dr\u00f4le la vie",
         "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 161866,
       "name": "C'est dr\u00f4le la vie",
       "url": "https://open.spotify.com/track/2uMfVlGi30aHKy4ntQUzso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before The Morning Light",
+        "url": "https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 163010,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/6EnRqTMK7mGy9AB7ArusqU"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
       "duration_ms": 225013,
       "name": "Mala\u00efka (feat. Florent Pagny)",
       "url": "https://open.spotify.com/track/68ZfPws5MFI4UAVD22sPtu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Superwoman (feat. Dadju)",
-      "url": "https://open.spotify.com/track/1vMhKizV77zfuiWZt8zhBK"
     },
     {
       "added_at": null,
@@ -363,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Superwoman (feat. Dadju)",
+      "url": "https://open.spotify.com/track/1vMhKizV77zfuiWZt8zhBK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
       },
@@ -403,30 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Bando (feat. Pharrell Williams & Quavo)",
-      "url": "https://open.spotify.com/track/2QfnsYXUpkiCNG56W2aW7I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/2lsPTHNG4ot3c33R3qN06E"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 228196,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/59Zh2cPqIZSPjadFpUr5iF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Bando (feat. Pharrell Williams & Quavo)",
+      "url": "https://open.spotify.com/track/2QfnsYXUpkiCNG56W2aW7I"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "I\u2019m On Fire (feat. The Cavemen.)",
-      "url": "https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milambi",
         "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
       },
@@ -555,22 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Equal Strain On All Parts",
-        "url": "https://open.spotify.com/album/237Fbt0QgkCxkRDmBRvmiR"
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
       },
       "artists": [
         {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        },
-        {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
         }
       ],
-      "duration_ms": 236918,
-      "name": "Ti Punch Caf\u00e9",
-      "url": "https://open.spotify.com/track/0GHiqo3CxI9pZvFHEzdvU5"
+      "duration_ms": 158893,
+      "name": "I\u2019m On Fire (feat. The Cavemen.)",
+      "url": "https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa"
     },
     {
       "added_at": null,
@@ -595,6 +575,26 @@
       "duration_ms": 178032,
       "name": "Africallez",
       "url": "https://open.spotify.com/track/7v2Mu2TdsP81OShuP8LEzw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Equal Strain On All Parts",
+        "url": "https://open.spotify.com/album/237Fbt0QgkCxkRDmBRvmiR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 236918,
+      "name": "Ti Punch Caf\u00e9",
+      "url": "https://open.spotify.com/track/0GHiqo3CxI9pZvFHEzdvU5"
     },
     {
       "added_at": null,
@@ -1071,22 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Lon Lon",
-      "url": "https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs For Humanity",
         "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
       },
@@ -1119,42 +1103,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "An African",
-        "url": "https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2"
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
       },
       "artists": [
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 155800,
-      "name": "An African",
-      "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Color: Part One",
-        "url": "https://open.spotify.com/album/3fZ67qdEbXqdaGJP2uQhcg"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 224071,
-      "name": "The World Will Know",
-      "url": "https://open.spotify.com/track/2cTSxcvyIXDwyorRLGpHFE"
+      "duration_ms": 294533,
+      "name": "Lon Lon",
+      "url": "https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci"
     },
     {
       "added_at": null,
@@ -1175,6 +1135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "An African",
+        "url": "https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "An African",
+      "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fifa",
         "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 237666,
       "name": "Fifa",
       "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Color: Part One",
+        "url": "https://open.spotify.com/album/3fZ67qdEbXqdaGJP2uQhcg"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 224071,
+      "name": "The World Will Know",
+      "url": "https://open.spotify.com/track/2cTSxcvyIXDwyorRLGpHFE"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

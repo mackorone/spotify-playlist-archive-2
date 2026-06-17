@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,406 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,402 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 57 | [イタズラナイトマーチ](https://open.spotify.com/track/0byUF4CYDVJXJ9mkMiDUu3) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:15 |
 | 58 | [UNCHAIN](https://open.spotify.com/track/53obz95llonlbhOXJb5bmU) | [ななもり。](https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv) | [UNCHAIN](https://open.spotify.com/album/5JUUtIzzqEk0HwcVSr3W6c) | 3:43 |
 | 59 | [secret base ～君がくれたもの～](https://open.spotify.com/track/58UMTTWDo7HlSj1ZlDblH5) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L) | [secret base ～君がくれたもの～](https://open.spotify.com/album/0bZSpbQEfySKWjlublXiPt) | 5:04 |
-| 60 | [ヨアケイロ](https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:14 |
-| 61 | [Feeling Love](https://open.spotify.com/track/5sNhU7coIVdi4r2SOGEN9k) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Memories](https://open.spotify.com/album/6dpKQlT4N6WPxyZwAePT5V) | 3:47 |
+| 60 | [Feeling Love](https://open.spotify.com/track/5sNhU7coIVdi4r2SOGEN9k) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Memories](https://open.spotify.com/album/6dpKQlT4N6WPxyZwAePT5V) | 3:47 |
+| 61 | [ヨアケイロ](https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:14 |
 | 62 | [ないしょのプレゼントフォーユー！](https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 2:26 |
 | 63 | [新春らびゅっと！](https://open.spotify.com/track/20xDe22UsxCHWZLtbQzOop) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Here We Go!!](https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT) | 3:06 |
 | 64 | [すとろべりーごーらんどっ](https://open.spotify.com/track/67a9ZAckiUjPxDxuiM3OHn) | [莉犬](https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L), [るぅと](https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa) | [すとろべりーすたーと](https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA) | 4:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Juliet Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,355 likes - 169 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,385 likes - 169 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 168 | [Are You There?](https://open.spotify.com/track/0AFmVU5olgqY3Gwu9SYyZd) | [Meg McHugh](https://open.spotify.com/artist/3IrrhCEglQLNuayeXNP6MV) | [Are You There?](https://open.spotify.com/album/4TRNA27FXPoZR5944QR0eN) | 3:07 |
 | 169 | [Eye Contact](https://open.spotify.com/track/0VeepLHSEUiGYPAvXFTplb) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Eye Contact](https://open.spotify.com/album/48ptga287fpeZAxjcM1gE8) | 4:00 |
 
-Snapshot ID: `AAAAANqUv58AipZv+Lmng7XpHzrbF2sw`
+Snapshot ID: `AAAAAHSaoRrN06p/m75IvQ8DxNbHlW/p`

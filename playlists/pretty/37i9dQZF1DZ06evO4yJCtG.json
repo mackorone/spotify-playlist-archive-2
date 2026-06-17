@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 158868,
+  "num_followers": 158880,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACiqkM5llNh5hsvCJuVLNT4",
+  "snapshot_id": "ai9AgAAAAADnDUj4cNpffEdn+zZAKGbc",
   "tracks": [
     {
       "added_at": null,
@@ -148,7 +148,7 @@
       "added_at": null,
       "album": {
         "name": "Do You Still Love Me?",
-        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+        "url": "https://open.spotify.com/album/2yiyfnLwYMjmWd5YaSiLay"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 197464,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/5UmUi40KLrLK5K6Jf2B26m"
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/3u07aCTSie9xd3hYy0l4Gj"
     },
     {
       "added_at": null,
@@ -216,7 +216,7 @@
       "added_at": null,
       "album": {
         "name": "Do You Still Love Me?",
-        "url": "https://open.spotify.com/album/2yiyfnLwYMjmWd5YaSiLay"
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/3u07aCTSie9xd3hYy0l4Gj"
+      "duration_ms": 197464,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/5UmUi40KLrLK5K6Jf2B26m"
     },
     {
       "added_at": null,

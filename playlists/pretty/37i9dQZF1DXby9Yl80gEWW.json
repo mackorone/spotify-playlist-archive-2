@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 62447,
+  "num_followers": 62462,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -367,8 +367,8 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Follow Me Down",
-        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
+        "name": "Song Up In Her Head",
+        "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B"
+      "duration_ms": 171266,
+      "name": "Mansinneedof",
+      "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -447,8 +447,8 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Song Up In Her Head",
-        "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
+        "name": "Follow Me Down",
+        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Mansinneedof",
-      "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
+      "duration_ms": 195200,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Banjo Loop",
-        "url": "https://open.spotify.com/album/4POUNiNHPgdhRBjDJQHoNP"
-      },
-      "artists": [
-        {
-          "name": "John Butler",
-          "url": "https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR"
-        }
-      ],
-      "duration_ms": 292138,
-      "name": "Banjo Loop",
-      "url": "https://open.spotify.com/track/4NK99PnJwKAwF39fc49j1E"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "Knee Deep in Bluegrass",
         "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 182000,
       "name": "Knee Deep in Bluegrass",
       "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Banjo Loop",
+        "url": "https://open.spotify.com/album/4POUNiNHPgdhRBjDJQHoNP"
+      },
+      "artists": [
+        {
+          "name": "John Butler",
+          "url": "https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR"
+        }
+      ],
+      "duration_ms": 292138,
+      "name": "Banjo Loop",
+      "url": "https://open.spotify.com/track/4NK99PnJwKAwF39fc49j1E"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Tsali's Run",
-        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
-      },
-      "artists": [
-        {
-          "name": "Carley Arrowood",
-          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Tsali's Run",
-      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "30 Turkeys",
         "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 205586,
       "name": "Taxland (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Tsali's Run",
+        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+      },
+      "artists": [
+        {
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Tsali's Run",
+      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Blue Collared Dog and His Green Eyed Friend",
-        "url": "https://open.spotify.com/album/5dLr3Y7INsQqWAWFnpeMGP"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Blue Collared Dog and His Green Eyed Friend",
-      "url": "https://open.spotify.com/track/5FoINNLonQyhxkRBKj4zeO"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "The View From Here",
         "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Blue Collared Dog and His Green Eyed Friend",
+        "url": "https://open.spotify.com/album/5dLr3Y7INsQqWAWFnpeMGP"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Blue Collared Dog and His Green Eyed Friend",
+      "url": "https://open.spotify.com/track/5FoINNLonQyhxkRBKj4zeO"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "The Seven",
-        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
-      },
-      "artists": [
-        {
-          "name": "Fireside Collective",
-          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
-        }
-      ],
-      "duration_ms": 327586,
-      "name": "The Seven",
-      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "Three Star Hornpipe",
         "url": "https://open.spotify.com/album/0m8HMbaxJlRjAICHLL9Hkf"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
+        "name": "The Seven",
+        "url": "https://open.spotify.com/album/2aZ9rHIJrLCkAUVJ45i7OP"
+      },
+      "artists": [
+        {
+          "name": "Fireside Collective",
+          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
+        }
+      ],
+      "duration_ms": 327586,
+      "name": "The Seven",
+      "url": "https://open.spotify.com/track/1GiuDgDa11wut9Wpwrtcha"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
         "name": "Jolly Green",
         "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
       },
@@ -1507,30 +1507,6 @@
       "duration_ms": 142652,
       "name": "Jolly Green",
       "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
-        "name": "Crowe River",
-        "url": "https://open.spotify.com/album/7B1ir2STaCkGcMw15M7NMZ"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        },
-        {
-          "name": "John Showman",
-          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
-        },
-        {
-          "name": "Chris Coole",
-          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Crowe River",
-      "url": "https://open.spotify.com/track/6NBmpYvczviLnDzLlluZo0"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1563,6 +1539,30 @@
       "duration_ms": 176693,
       "name": "Wolf Moon - Remixed and Remastered",
       "url": "https://open.spotify.com/track/4fO0pFeZ8VQ0QoV8473zH1"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Crowe River",
+        "url": "https://open.spotify.com/album/7B1ir2STaCkGcMw15M7NMZ"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        },
+        {
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
+        },
+        {
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Crowe River",
+      "url": "https://open.spotify.com/track/6NBmpYvczviLnDzLlluZo0"
     },
     {
       "added_at": "2026-05-29 04:01:55",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-05-29 04:01:55",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
-    },
-    {
-      "added_at": "2026-05-29 04:01:55",
-      "album": {
         "name": "Bop Your Head",
         "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 166132,
       "name": "Bop Your Head",
       "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
+    },
+    {
+      "added_at": "2026-05-29 04:01:55",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2026-05-29 04:01:55",

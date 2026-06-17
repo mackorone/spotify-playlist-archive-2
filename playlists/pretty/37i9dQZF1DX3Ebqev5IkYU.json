@@ -1,6 +1,6 @@
 {
   "description": "\u27a1\ufe0f \u27a1\ufe0f \u27a1\ufe0f gute Laune.",
-  "num_followers": 1895926,
+  "num_followers": 1895781,
   "original_name": "Good Mood",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAKRkaxSrNo3SCrNekqLEDA1s0NbW",
   "tracks": [
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
         "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 205000,
       "name": "Following the Sun",
       "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "GIRLS",
-      "url": "https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Dancin (feat. Luvli) [southstar Remix]",
         "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 173333,
       "name": "Dancin (feat. Luvli) - southstar Remix",
       "url": "https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "tau mich auf",
-        "url": "https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq"
-      },
-      "artists": [
-        {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
-        }
-      ],
-      "duration_ms": 110912,
-      "name": "tau mich auf",
-      "url": "https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "tau mich auf",
+        "url": "https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "duration_ms": 110912,
+      "name": "tau mich auf",
+      "url": "https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Night at the Opera",
-        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 184788,
-      "name": "Night at the Opera",
-      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "done done done",
         "url": "https://open.spotify.com/album/6QGYexIgJpVXPpDlkqFrX7"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 116940,
       "name": "done done done",
       "url": "https://open.spotify.com/track/4pGMZRqLZtqrQe4ehY4lCQ"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 184788,
+      "name": "Night at the Opera",
+      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1535,6 +1535,30 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
+        "name": "KITSCHKRIEG ZWEI",
+        "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Gut Genug (mit Blumengarten & Shirin David)",
+      "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
       },
@@ -1551,22 +1575,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
       },
@@ -1579,6 +1587,22 @@
       "duration_ms": 165831,
       "name": "What If?",
       "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1611,22 +1635,6 @@
       "duration_ms": 194186,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/0Dho96aJIZ5LJZXyPllbWA"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     }
   ],
   "unique_name": "Good Mood",

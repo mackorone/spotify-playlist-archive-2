@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,255 likes - 150 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,574 likes - 150 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,12 +146,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 136 | [Loves Me Like a Rock](https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:40 |
 | 137 | [That Lady, Pts\. 1 & 2](https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 5:34 |
 | 138 | [Lady Marmalade](https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn) | [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Nightbirds](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) | 3:57 |
-| 139 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
-| 140 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
+| 139 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
+| 140 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 141 | [Rock Steady](https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:13 |
 | 142 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 |
-| 143 | [Everybody Dance](https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Good Times: The Very Best Of Chic & Sister Sledge](https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU) | 4:07 |
-| 144 | [Let's All Chant](https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw) | [The Michael Zager Band](https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd) | [Let's All Chant](https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez) | 3:04 |
+| 143 | [Let's All Chant](https://open.spotify.com/track/2xGMzDlPnmPHD8HUYOy4Lw) | [The Michael Zager Band](https://open.spotify.com/artist/1oX1l8zC13ovzEoGm2CAsd) | [Let's All Chant](https://open.spotify.com/album/2xpV9DXIMjXsVPs5Mz0Nez) | 3:04 |
+| 144 | [Everybody Dance](https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Good Times: The Very Best Of Chic & Sister Sledge](https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU) | 4:07 |
 | 145 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
 | 146 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
 | 147 | [Listen To What The Man Said \- 2014 Remaster](https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Venus And Mars \(Archive Collection\)](https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9) | 4:00 |

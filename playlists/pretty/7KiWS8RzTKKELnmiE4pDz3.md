@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 259 songs - 16 hr 32 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 261 songs - 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,5 +267,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 257 | [Allustrious](https://open.spotify.com/track/65EEbeVmNeBgHLsNO0E5rF) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Murda Muzik](https://open.spotify.com/album/25NNQGZBd9oLAO1xTeq5oQ) | 4:09 |
 | 258 | [The Roc \(Just Fire\)](https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 4:24 |
 | 259 | [The Roc \(Just Fire\)](https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 4:24 |
+| 260 | [He Say She Say \(feat\. Gemini & Sarah Green\)](https://open.spotify.com/track/4ytRdqHgKAVxtVsjaC2ZZN) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Gemini](https://open.spotify.com/artist/42feJVPnUA9XMr8zguqf4y), [Sarah Green](https://open.spotify.com/artist/2PTjj9HWiVqAVknWeBzz3t) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:12 |
+| 261 | [The Coolest](https://open.spotify.com/track/1R6nmC4HUGOGSKU02Wqa0v) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 5:12 |
 
-Snapshot ID: `AAAgZ2IbkhEXpve3uA0xhdECYlUEDJDP`
+Snapshot ID: `AAAgaWPgiVJCiL38KQRAtDduFEp9cEnH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,024 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,027 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 37 | [Bo Noo Ni \(feat\. Luigi Maclean\)](https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:48 |
 | 38 | [Okura Yen Mu](https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Mahunu Awurade](https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS) | 5:59 |
 | 39 | [Wobeye Kese \- Version 1](https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Wobeye Kese](https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT) | 4:58 |
-| 40 | [Awurade Kasa](https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 7:42 |
+| 40 | [Awanwan Do](https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 6:17 |
 | 41 | [Metease yi](https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [My Vision](https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK) | 5:31 |
 | 42 | [Akokyem Nyame](https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 3:24 |
 | 43 | [Ebenezer](https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:14 |
 | 44 | [Ayeyi Ndowm](https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [Sacrifice](https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm) | 6:18 |
-| 45 | [Awanwan Do](https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 6:17 |
+| 45 | [Awurade Kasa](https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 7:42 |
 | 46 | [Yesu Do](https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [Yesu Do](https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k) | 5:50 |
 | 47 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
 | 48 | [Ayeyi](https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:31 |

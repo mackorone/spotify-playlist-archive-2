@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,944 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,943 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 26 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
 | 27 | [Nadie Se Muere](https://open.spotify.com/track/4U8hIlxenPSa9Z2yL1ng7t) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [20 Exitos](https://open.spotify.com/album/1alYgeDVoeCIvmA7OtI8FA) | 3:51 |
 | 28 | [Morena Ven](https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K) | [The Max Band](https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk) | [Ultimate Merengue Party 2000](https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL) | 4:41 |
-| 29 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
+| 29 | [Ni Tu Ni Yo](https://open.spotify.com/track/0HXa7KKhJdwU5ypGHvwzBw) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:38 |
 | 30 | [Jenny](https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Y Más](https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke) | 4:08 |
 | 31 | [Que? Aha!](https://open.spotify.com/track/7zFnaskZB4uWrfZijnZDFK) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:48 |
 | 32 | [¿Pitaste?](https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:11 |
 | 33 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:58 |
-| 34 | [Ni Tu Ni Yo](https://open.spotify.com/track/0HXa7KKhJdwU5ypGHvwzBw) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:38 |
+| 34 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
 | 35 | [Alegria](https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 5:22 |
 | 36 | [La Radio](https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:05 |
 | 37 | [Merenguero Hasta la Tambora \- Radio Version](https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Mis Favoritas](https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO) | 3:04 |

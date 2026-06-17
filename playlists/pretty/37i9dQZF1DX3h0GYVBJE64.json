@@ -1,6 +1,6 @@
 {
   "description": "wat waren dat heerlijke zomers",
-  "num_followers": 81056,
+  "num_followers": 81057,
   "original_name": "Zomerhits 2010-2020 \u2600\ufe0f\u26f1\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,26 @@
     {
       "added_at": "2024-03-29 11:23:17",
       "album": {
+        "name": "What Dreams Are Made Of",
+        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
+      },
+      "artists": [
+        {
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 227475,
+      "name": "Locked Away (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
+    },
+    {
+      "added_at": "2024-03-29 11:23:17",
+      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -1003,26 +1023,6 @@
     {
       "added_at": "2024-03-29 11:23:17",
       "album": {
-        "name": "What Dreams Are Made Of",
-        "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
-      },
-      "artists": [
-        {
-          "name": "R. City",
-          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 227475,
-      "name": "Locked Away (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
-    },
-    {
-      "added_at": "2024-03-29 11:23:17",
-      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-03-29 11:23:17",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
-    },
-    {
-      "added_at": "2024-03-29 11:23:17",
-      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2024-03-29 11:23:17",
+      "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
     },
     {
       "added_at": "2024-03-29 11:23:17",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-29 11:23:17",
       "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/4255amV4enzl28KAn16rUO"
-    },
-    {
-      "added_at": "2024-03-29 11:23:17",
-      "album": {
         "name": "In the Name of Love",
         "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 198815,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
+    },
+    {
+      "added_at": "2024-03-29 11:23:17",
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/4255amV4enzl28KAn16rUO"
     },
     {
       "added_at": "2024-03-29 11:23:17",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-29 11:23:17",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
-    },
-    {
-      "added_at": "2024-03-29 11:23:17",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 198786,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
+    },
+    {
+      "added_at": "2024-03-29 11:23:17",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
     },
     {
       "added_at": "2024-03-29 11:23:17",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-03-29 11:23:17",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
-    },
-    {
-      "added_at": "2024-03-29 11:23:17",
-      "album": {
         "name": "Less Is More",
         "url": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 159480,
       "name": "Reality",
       "url": "https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d"
+    },
+    {
+      "added_at": "2024-03-29 11:23:17",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2024-03-29 11:23:17",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-03-29 11:23:17",
       "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+    },
+    {
+      "added_at": "2024-03-29 11:23:17",
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 212574,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
-    },
-    {
-      "added_at": "2024-03-29 11:23:17",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2024-03-29 11:23:17",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-03-29 11:23:17",
       "album": {
-        "name": "Red (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "I Knew You Were Trouble.",
-      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
-    },
-    {
-      "added_at": "2024-03-29 11:23:17",
-      "album": {
         "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
         "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 236001,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+    },
+    {
+      "added_at": "2024-03-29 11:23:17",
+      "album": {
+        "name": "Red (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "I Knew You Were Trouble.",
+      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
     },
     {
       "added_at": "2024-03-29 11:23:17",

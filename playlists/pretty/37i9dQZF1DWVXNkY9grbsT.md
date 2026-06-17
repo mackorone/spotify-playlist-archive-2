@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,300 likes - 150 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,383 likes - 150 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -44629,7 +44629,7 @@
     },
     {
       "album": {
-        "name": "HAPPY \ud83e\udebd",
+        "name": "HAPPY \ufffd\ufffd",
         "url": "https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk"
       },
       "artists": [
@@ -44642,7 +44642,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136007,
-      "name": "HAPPY \ud83e\udebd",
+      "name": "HAPPY \ufffd\ufffd",
       "url": "https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt"
     },
     {
@@ -110662,12 +110662,12 @@
       },
       "artists": [
         {
-          "name": "Dlomalo",
-          "url": "https://open.spotify.com/artist/2PUiO6Pd4s3mEGgXkOBR4c"
-        },
-        {
           "name": "MARCE",
           "url": "https://open.spotify.com/artist/5fBsGbmh5tJ3kU7FhVnYbh"
+        },
+        {
+          "name": "Dlomalo",
+          "url": "https://open.spotify.com/artist/2PUiO6Pd4s3mEGgXkOBR4c"
         },
         {
           "name": "Saint Cairo",

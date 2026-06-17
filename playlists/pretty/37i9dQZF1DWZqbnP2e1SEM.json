@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325384,
+  "num_followers": 325396,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 154139,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
         "name": "Won\u2019t Be Possible",
         "url": "https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 136615,
       "name": "Won\u2019t Be Possible",
       "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
-        "name": "Don't Wake Me Up",
-        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 154139,
-      "name": "Don't Wake Me Up",
-      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
+        "name": "All Of Me",
+        "url": "https://open.spotify.com/album/4BAfkyLALdxdeqdcsmQcJ1"
+      },
+      "artists": [
+        {
+          "name": "MONOH",
+          "url": "https://open.spotify.com/artist/0xfOTzXdixCID1LumtAMVf"
+        },
+        {
+          "name": "Jazmine Johnson",
+          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
+        }
+      ],
+      "duration_ms": 133842,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/2hsXsfcHY8bTeRIaIu7K8B"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
         "name": "Appetite",
         "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 152173,
       "name": "R 2 ME",
       "url": "https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
-        "name": "All Of Me",
-        "url": "https://open.spotify.com/album/4BAfkyLALdxdeqdcsmQcJ1"
-      },
-      "artists": [
-        {
-          "name": "MONOH",
-          "url": "https://open.spotify.com/artist/0xfOTzXdixCID1LumtAMVf"
-        },
-        {
-          "name": "Jazmine Johnson",
-          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
-        }
-      ],
-      "duration_ms": 133842,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/2hsXsfcHY8bTeRIaIu7K8B"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Tom Did It",
-          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
-        }
-      ],
-      "duration_ms": 256901,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
         "name": "Doin' It feat. MC DT",
         "url": "https://open.spotify.com/album/13cNeTgAVDTDGliUCzUSzc"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 177831,
       "name": "Doin' it featuring MC DT",
       "url": "https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "duration_ms": 256901,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
-        "name": "Too In Love With You",
-        "url": "https://open.spotify.com/album/6AxJcFqY38n9VMNr3G9rA7"
-      },
-      "artists": [
-        {
-          "name": "Ethan Walsh",
-          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
-        }
-      ],
-      "duration_ms": 149838,
-      "name": "Too In Love With You",
-      "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
         "name": "Closer To The Floor",
         "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 162644,
       "name": "Closer To The Floor",
       "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
+        "name": "Too In Love With You",
+        "url": "https://open.spotify.com/album/6AxJcFqY38n9VMNr3G9rA7"
+      },
+      "artists": [
+        {
+          "name": "Ethan Walsh",
+          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+        }
+      ],
+      "duration_ms": 149838,
+      "name": "Too In Love With You",
+      "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
-        "name": "My Loving",
-        "url": "https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "My Loving",
-      "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
         "name": "Zone (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 176274,
       "name": "Zone (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
+        "name": "My Loving",
+        "url": "https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "My Loving",
+      "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
     },
     {
       "added_at": "2026-06-11 23:00:13",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2026-06-11 23:00:13",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 197549,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
-    },
-    {
-      "added_at": "2026-06-11 23:00:13",
-      "album": {
         "name": "All I Know (with Khalid)",
         "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 176046,
       "name": "All I Know (with Khalid)",
       "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
+    },
+    {
+      "added_at": "2026-06-11 23:00:13",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 197549,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
     },
     {
       "added_at": "2026-06-11 23:00:13",

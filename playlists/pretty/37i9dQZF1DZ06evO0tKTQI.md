@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 
 > This is Bratty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,977 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,982 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,17 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 | 35 | [contigo](https://open.spotify.com/track/5K4D9G7S8d4VxJEHN3TFCA) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 5:02 |
 | 36 | [Agosto](https://open.spotify.com/track/1VH2uRGNHYNdgXnZ0dyX6k) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:39 |
 | 37 | [lo q yo por ti](https://open.spotify.com/track/2o3uQ63gwh63tBn9ox2bV3) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [lo q yo por ti](https://open.spotify.com/album/6zEyyStAYReX0eg8BFbGYj) | 2:53 |
-| 38 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 |
+| 38 | [Delusión](https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:33 |
 | 39 | [friend](https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:17 |
 | 40 | [Nada Que Decir](https://open.spotify.com/track/0a8Tk3RxN3UK4rw5iqBtWP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 2:43 |
-| 41 | [Delusión](https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:33 |
+| 41 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 |
 | 42 | [Aquí](https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 3:58 |
 | 43 | [¿Y Cómo?](https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo) | 3:32 |
-| 44 | [hazme saber](https://open.spotify.com/track/3NyPiKa8WNLJzXhP3b01e0) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:15 |
-| 45 | [Cruel](https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:38 |
+| 44 | [Cruel](https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:38 |
+| 45 | [hazme saber](https://open.spotify.com/track/3NyPiKa8WNLJzXhP3b01e0) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:15 |
 | 46 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
-| 47 | [Sobredósis De Tempra](https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Sobredósis De Tempra](https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN) | 2:58 |
-| 48 | [u.c.m.c.d.n.](https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 2:37 |
-| 49 | [Before Seeing Green](https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 2:35 |
+| 47 | [Interlude](https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 1:23 |
+| 48 | [Sobredósis De Tempra](https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Sobredósis De Tempra](https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN) | 2:58 |
+| 49 | [u.c.m.c.d.n.](https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 2:37 |
+| 50 | [Before Seeing Green](https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 2:35 |
 
-Snapshot ID: `ai3vAAAAAADBTrI+zDPukTANtyxV7jSj`
+Snapshot ID: `ai9AgAAAAABcRwjpE9okG6YJ9LHdtYzx`

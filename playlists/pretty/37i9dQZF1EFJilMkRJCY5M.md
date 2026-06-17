@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 106 | [die 4 u](https://open.spotify.com/track/0EpvQGvlRj414hJ1s93UP9) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/1jS2Iktf5SkTmQH04nWHkZ) | 2:53 |
 | 107 | [Easy on Me](https://open.spotify.com/track/1PZNwWmUCQVuH39sooxPQT) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/0jsFsXKWSichKhDTk9UvhY) | 2:56 |
 | 108 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 |
-| 109 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 |
-| 110 | [Vividly](https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Vividly \(feat\. Emily Falvey\)](https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX) | 3:39 |
+| 109 | [Vividly](https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Vividly \(feat\. Emily Falvey\)](https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX) | 3:39 |
+| 110 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 |
 | 111 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
 | 112 | [Where Do We Go \- The Voice Performance](https://open.spotify.com/track/5a7QUeuh2OXw0SI4go5shg) | [John Holiday](https://open.spotify.com/artist/1t7W0bPXdarbjiCuEeFv2y) | [The Season 19 Collection \(The Voice Performance\)](https://open.spotify.com/album/2V28iwMeICBbv2Qqsi9gd1) | 2:27 |
 | 113 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 131 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 132 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AcUUegAAAAASBM+SwBzSVvjpGEcHwa90`
+Snapshot ID: `AcUaEAAAAAC2x+IKeC3a6SjOKf/M1Yqr`

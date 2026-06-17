@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16192,
+  "num_followers": 16194,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABy8C6Cw4JnGS6Gi7xEl8P+",
+  "snapshot_id": "ai9AgAAAAAB6pY8fnyQ1Z5U8aoumaIn+",
   "tracks": [
     {
       "added_at": null,
@@ -143,30 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Majestic",
-        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Bamba (feat. Aitch & BIA)",
-      "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Official FIFA World Cup 2026\u2122 Album",
         "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 181241,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6pBkDdHNn7xujkpXYxqE2f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Bamba (feat. Aitch & BIA)",
+      "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FAST X (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 43200,
-      "name": "Furious",
-      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real World",
         "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 132537,
       "name": "It's You (feat. BIA)",
       "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 43200,
+      "name": "Furious",
+      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savage (feat. BIA)",
-        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
-      },
-      "artists": [
-        {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "Savage (feat. BIA)",
-      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIGHTS OUT",
         "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 198352,
       "name": "LIGHTS OUT",
       "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Savage (feat. BIA)",
+        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Savage (feat. BIA)",
+      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
     },
     {
       "added_at": null,
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "REALLY HER",
+        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 151431,
+      "name": "FALLBACK",
+      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buy What U Want",
         "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 227669,
       "name": "Buy What U Want",
       "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REALLY HER",
-        "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 151431,
-      "name": "FALLBACK",
-      "url": "https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM"
     },
     {
       "added_at": null,

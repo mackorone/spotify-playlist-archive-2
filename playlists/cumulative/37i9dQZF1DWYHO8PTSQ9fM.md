@@ -4,7 +4,7 @@
 
 > The hottest hits right now\. Cover: Stormy
 
-559 songs - 1 day 5 hr 37 min
+561 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [INSOMNIA HOTEL](https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [INSOMNIA HOTEL](https://open.spotify.com/album/3kT1lgMRNW7eAx2ObKdTRN) | 2:39 | 2026-01-24 | 2026-04-05 |
 | [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 | 2023-05-12 | 2023-06-09 |
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2022-05-12 | 2022-08-27 |
+| [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 | 2026-06-16 |  |
 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 | 2026-04-04 |  |
 | [Jamais yensak](https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Jamais yensak](https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w) | 2:48 | 2024-02-12 | 2024-07-19 |
 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 | 2025-03-27 | 2025-06-20 |
@@ -237,7 +238,7 @@
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2022-09-06 | 2022-10-14 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-09-09 | 2025-09-24 |
 | [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 | 2025-08-01 | 2026-06-02 |
-| [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 | 2026-04-04 |  |
+| [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 | 2026-04-04 | 2026-06-17 |
 | [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 | 2026-04-04 |  |
 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 | 2022-05-12 | 2022-05-20 |
 | [Khalini](https://open.spotify.com/track/3PoerjlVZ7f1s32kpNB0SZ) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/7aqKBhNnhezrsKD4pkIiOA) | 3:02 | 2022-07-26 | 2022-08-21 |
@@ -272,7 +273,7 @@
 | [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-09-01 | 2025-02-20 |
 | [Loca](https://open.spotify.com/track/2QVScxNp2qLnKflRftE2Kx) | [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [Loca](https://open.spotify.com/album/531r0snKCGKu4Eb6yNMsNS) | 2:28 | 2026-06-12 |  |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-01-26 | 2024-06-05 |
-| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2026-04-04 |  |
+| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2026-04-04 | 2026-06-17 |
 | [LOVE YOU](https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOVE YOU](https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq) | 2:27 | 2026-02-23 | 2026-04-05 |
 | [Lovini](https://open.spotify.com/track/40Sf3xGKMtwYM9y2RyScr8) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/0xExuBGAAYGqgBelfN7Gzn) | 3:09 | 2022-05-24 | 2022-06-24 |
 | [Lovini](https://open.spotify.com/track/7f783hK2ilf4bwfayaNvdB) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Lovini](https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES) | 3:09 | 2022-06-30 | 2023-12-26 |
@@ -481,6 +482,7 @@
 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-12-01 | 2024-02-20 |
 | [Taline](https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm) | 2:56 | 2022-05-12 | 2023-04-01 |
 | [Taline](https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX) | 2:56 | 2023-03-31 | 2023-04-29 |
+| [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-06-16 |  |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-09-01 | 2024-09-10 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-10-17 | 2023-12-26 |
 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-05-11 | 2024-02-02 |

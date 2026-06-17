@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: tripleS\) 지금 가장 핫한 댄스곡들을 만나보세요.
+> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: RIIZE\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-920 songs - 2 day 0 hr 35 min
+922 songs - 2 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 | 2022-01-03 | 2022-06-08 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 | 2024-05-10 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2022-01-03 | 2022-01-08 |
-| [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 | 2026-04-01 |  |
+| [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 | 2026-04-01 | 2026-06-17 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-27 | 2026-04-22 |
 | [Bird](https://open.spotify.com/track/3XVuZNR6DbQNPJ4mBXblf7) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [Bird](https://open.spotify.com/album/5YFm9vyuN5mbZmzzBhse9R) | 3:04 | 2022-03-31 | 2022-04-05 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-12-02 | 2023-02-07 |
@@ -241,6 +241,7 @@
 | [Do or Die \(ft\. DPR IAN\)](https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [KINEMA](https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8) | 3:34 | 2024-02-06 | 2024-05-10 |
 | [DO or NOT](https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:08 | 2022-01-14 | 2022-04-07 |
 | [Do What I Want](https://open.spotify.com/track/2Pe2lfTj1oN6qykfZhNDnV) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Do What I Want](https://open.spotify.com/album/2wkVbUKPfsV8RpozFuQaF0) | 2:40 | 2025-08-18 | 2025-10-15 |
+| [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 | 2026-06-16 |  |
 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 | 2022-01-03 | 2022-07-14 |
 | [Don't Call Me \- Fox Stevenson Remix](https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR), [Fox Stevenso](https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23), [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [iScreaM Vol.7 : Don't Call Me Remixes](https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik) | 3:23 | 2023-05-01 | 2023-05-10 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-12-21 | 2023-05-10 |
@@ -768,6 +769,7 @@
 | [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 | 2025-06-18 | 2025-12-23 |
 | [Suddenly](https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [I.O.I 3rd MINI ALBUM \[I.O.I : LOOP\]](https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp) | 3:15 | 2026-06-02 |  |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-07-04 | 2022-07-08 |
+| [SUGAR HONEY ICE TEA](https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [SUGAR HONEY ICE TEA](https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC) | 2:58 | 2026-06-16 |  |
 | [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-12-29 | 2022-06-26 |
 | [SUNNY](https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:20 | 2022-03-24 | 2022-04-16 |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-02-06 | 2024-09-07 |
@@ -840,7 +842,7 @@
 | [Tumors](https://open.spotify.com/track/1373Zpzu0yPNTQbqTZ2utr) | [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [Tumors](https://open.spotify.com/album/7EdnEC3ZpGNkLy4pAPhMsu) | 3:14 | 2023-05-01 | 2023-05-10 |
 | [TUNNEL VISION](https://open.spotify.com/track/7InUGlO9nGHcrirzOcQzzT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1lKcgfG0pvj8fXbLmYgNeo) | 3:05 | 2025-11-10 | 2026-02-03 |
 | [Turn Back Time \- Korean Version](https://open.spotify.com/track/5hXSKNjdAoqKZKOQ95bHYm) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Turn Back Time \(Korean Version\)](https://open.spotify.com/album/47CwM1ZCy0Mtifet3Fm2IY) | 3:38 | 2022-03-29 | 2022-04-18 |
-| [Twenty](https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/3IaJ0e95KRpCWrSNFsnIk7) | 3:10 | 2026-03-09 |  |
+| [Twenty](https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/3IaJ0e95KRpCWrSNFsnIk7) | 3:10 | 2026-03-09 | 2026-06-17 |
 | [U](https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:19 | 2024-03-15 | 2024-05-10 |
 | [Ugly \- Spotify Singles](https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Spotify Singles](https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S) | 2:23 | 2024-04-19 | 2024-05-10 |
 | [Umpah Umpah](https://open.spotify.com/track/5qSoW3ewNlhRN3FNZPmVns) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 2](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) | 3:40 | 2023-05-01 | 2023-05-10 |

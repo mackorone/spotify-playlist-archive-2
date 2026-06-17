@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,023 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,008 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -420,7 +420,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 410 | [More](https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Elena Pitoulis](https://open.spotify.com/artist/0Zw91yH74OemLqD4rHn96K) | [More](https://open.spotify.com/album/7DAyAlObwl5f8mcrqFCeWm) | 3:36 |
 | 411 | [Wild Child](https://open.spotify.com/track/23tpyGXk9j1TAw7NzxvTDd) | [Damn the Witch Siren](https://open.spotify.com/artist/7cNpzcG39DLaQWrGqlIlBx) | [Red Magic](https://open.spotify.com/album/2Ax5t9l1FrlQtnMYxI9JNO) | 4:37 |
 | 412 | [Repeater](https://open.spotify.com/track/4lLEBo0rP2IblyqA0gsqA1) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Repeater / Space Dust](https://open.spotify.com/album/74ZH1AbY1CRIFK4mPXzZtd) | 3:41 |
-| 413 | [Bailar](https://open.spotify.com/track/29WDzFwyuYZC2pOPCygqoS) | [Finesse](https://open.spotify.com/artist/0AUUGd16M55jGRXZNbsfj9), [BNMP](https://open.spotify.com/artist/6lQ1BWAXAl2sBmtFvsfuy7), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Ellegas](https://open.spotify.com/artist/4xD2oueqRvCDui9NWjdPQu) | [El Dorado](https://open.spotify.com/album/0eLoADTd1HpL3Fm9wYUzOw) | 3:48 |
+| 413 | [Bailar](https://open.spotify.com/track/29WDzFwyuYZC2pOPCygqoS) | [Finesse](https://open.spotify.com/artist/0AUUGd16M55jGRXZNbsfj9), [BNMP](https://open.spotify.com/artist/6lQ1BWAXAl2sBmtFvsfuy7), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cruzzi](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Ellegas](https://open.spotify.com/artist/4xD2oueqRvCDui9NWjdPQu) | [El Dorado](https://open.spotify.com/album/0eLoADTd1HpL3Fm9wYUzOw) | 3:48 |
 | 414 | [5AM Empanada with You](https://open.spotify.com/track/0UQF9Z1szgyxbMjfJGqdKb) | [BUBBLE TEA AND CIGARETTES](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [5AM Empanada with You](https://open.spotify.com/album/3i52R3QnIBb4knh1CZf3n6) | 5:41 |
 | 415 | [C'était un loup](https://open.spotify.com/track/2YiGhkPYgtK0etRNzQelaE) | [Palatine](https://open.spotify.com/artist/4eJdfmQbRaPDjYJ1JNgXTp) | [Grand paon de nuit](https://open.spotify.com/album/04cYAN07Os29D9HvnzwQdo) | 3:40 |
 | 416 | [Get Up](https://open.spotify.com/track/12bx4pzcP6tIBnUOP990Ev) | [Custom Model](https://open.spotify.com/artist/6TtCqu3TdJqxo7iDALD0FM) | [Get Up](https://open.spotify.com/album/4M8gjMOyh0OqzEdWzigIyc) | 3:34 |

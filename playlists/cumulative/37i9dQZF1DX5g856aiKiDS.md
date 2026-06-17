@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-444 songs - 1 day 0 hr 23 min
+445 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:33 | 2022-07-22 |  |
 | [YOUR SONG \(with Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/1paEGBBeqDYfb9AppAt7BO) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/0etVkROh5WOl6OdYqRHPP9) | 4:19 | 2022-04-21 | 2022-07-19 |
 | [Youuuuu \(feat.moim\)](https://open.spotify.com/track/5l08nP7qRxrDfUqHVJ76XE) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx), [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [Youuuuu \(feat.moim\)](https://open.spotify.com/album/1mhPtEgmmMqGANAhm50iA1) | 3:09 | 2025-09-16 | 2025-10-14 |
+| [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 | 2026-06-16 |  |
 | [zigzag \(feat\. Dawon\)](https://open.spotify.com/track/5GYwkAqLzyLNYMIa7zyQ6B) | [dusom](https://open.spotify.com/artist/3lPoUXYIkvdtQ6g6xYIdtR), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [zigzag](https://open.spotify.com/album/1GrAYJIPeYgp34ptuLwVXu) | 3:08 | 2022-07-22 | 2022-07-29 |
 | [그게 그렇게 잘못인가](https://open.spotify.com/track/42EXD9JX1ltMXQogRpkcYS) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [그게 그렇게 잘못인가](https://open.spotify.com/album/41S5fV0UKBmzD14eRHADPs) | 2:49 | 2025-05-26 | 2025-06-17 |
 | [너는 어떤지](https://open.spotify.com/track/25zIWPoiOJF8czNbSTVYbm) | [Pre'Melo](https://open.spotify.com/artist/59jyRPrPkL8QIR0wfaJMWl) | [너는 어떤지](https://open.spotify.com/album/5NinVusj6f29Ewv5F5i9ad) | 3:50 | 2022-04-12 | 2022-04-21 |
@@ -446,7 +447,7 @@
 | [멋지게 인사하는 법 \(Hello Tutorial\) \(Feat\. 슬기 \(SEULGI\) of Red Velvet\)](https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [ZZZ](https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya) | 3:22 | 2022-07-22 |  |
 | [물감 Paint](https://open.spotify.com/track/1HbRmJsM1oi7zTlKZtMVGS) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [물감 Paint](https://open.spotify.com/album/7j8U1x5nDleP8O6ZLW93Lz) | 3:08 | 2022-04-12 | 2022-07-27 |
 | [별빛 아래](https://open.spotify.com/track/0YFpJGYO95aDyKhHCm45Ya) | [초묘 ChoMyo](https://open.spotify.com/artist/1Ti0jJToWtVlp1961yL1Yg) | [별빛 아래](https://open.spotify.com/album/7mP94vpRkV5DJKqrJfbEXQ) | 3:04 | 2022-04-12 | 2022-04-21 |
-| [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2023-07-31 |  |
+| [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2023-07-31 | 2026-06-17 |
 | [소중한 사람](https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z) | [ASEL](https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy), [에이민](https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD) | [소중한 사람](https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o) | 3:15 | 2023-01-10 | 2023-01-26 |
 | [안 보여 Come On](https://open.spotify.com/track/49gW1Q6mjQGCeVdELNShHE) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [<Present : YOU> &ME Edition](https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA) | 3:14 | 2022-04-12 | 2022-04-21 |
 | [우주를 건너 Across the universe](https://open.spotify.com/track/48kGawOjwMzRqltSVL88es) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/00lcRRkz7LexPLWw1qzzDA) | 4:07 | 2022-04-12 | 2022-07-28 |

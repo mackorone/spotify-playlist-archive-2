@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,753 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,763 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 33 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 |
 | 34 | [Mon époque](https://open.spotify.com/track/0PUVRaTOBUfwWNsX9l8NIY) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [La part des lions](https://open.spotify.com/album/3bEmZFZ2V6ls0vMPfviqw3) | 2:19 |
 | 35 | [La croisée](https://open.spotify.com/track/7AlVE4SVUoXpe5L6kO77xE) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [L'Homme Fleur](https://open.spotify.com/album/1XTxNFUiQHU304hDMg5mHM) | 4:27 |
-| 36 | [Soledad](https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:08 |
-| 37 | [Let Me Alone](https://open.spotify.com/track/5R8TGuZ8WSbH2ASGlLDpKg) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Izia](https://open.spotify.com/album/6qZt3k8Y9XXtrAS1Vp6LKm) | 3:51 |
+| 36 | [Let Me Alone](https://open.spotify.com/track/5R8TGuZ8WSbH2ASGlLDpKg) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Izia](https://open.spotify.com/album/6qZt3k8Y9XXtrAS1Vp6LKm) | 3:51 |
+| 37 | [Soledad](https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:08 |
 | 38 | [Tchi Cum Bah](https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aeromusical](https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF) | 2:23 |
 | 39 | [L'Amour à la française](https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Pamplemousse Mécanique \(Edition Eurovision + 1 titre bonus\)](https://open.spotify.com/album/58SdE4Iofh5Y1jZi5HRDBu) | 2:42 |
 | 40 | [Notre Epoque](https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6) | [Tarmac](https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J) | [Notre Epoque](https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo) | 3:34 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 46 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
 | 47 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
 | 48 | [Qui que tu sois](https://open.spotify.com/track/6oS7ATqkkkuPH96EaUht4t) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [Elliott](https://open.spotify.com/album/3LTATpdZP4sE3UocHfEHit) | 3:46 |
-| 49 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
-| 50 | [Bitch](https://open.spotify.com/track/1ymXKqHO6CGAWlhERwf3Ug) | [Plastiscines](https://open.spotify.com/artist/6L3Af26OWMQw1uHTcxTVxP) | [About Love](https://open.spotify.com/album/0hQaUyf3aWK1UqeID5xA7x) | 3:09 |
+| 49 | [Bitch](https://open.spotify.com/track/1ymXKqHO6CGAWlhERwf3Ug) | [Plastiscines](https://open.spotify.com/artist/6L3Af26OWMQw1uHTcxTVxP) | [About Love](https://open.spotify.com/album/0hQaUyf3aWK1UqeID5xA7x) | 3:09 |
+| 50 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
 
 Snapshot ID: `AAAAAOmERqJYL7RywKR8K0ibzv9C5ixm`

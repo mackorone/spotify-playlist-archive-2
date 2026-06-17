@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2944025,
+  "num_followers": 2944005,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABRoolomD+3yvqJbXcZkHRo",
+  "snapshot_id": "ai9AgAAAAAAeWE/ZHh6MBd/WxZSmPkcv",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Riot",
+        "url": "https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 78680,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 233000,
       "name": "Scared of the Dark (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riot",
-        "url": "https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 78680,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 101851,
+      "name": "YuNg BrAtZ",
+      "url": "https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legends Never Die (5 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 230502,
       "name": "The Way (with XXXTENTACION)",
       "url": "https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 101851,
-      "name": "YuNg BrAtZ",
-      "url": "https://open.spotify.com/track/2ooF4088y5L72c4YTEJQoB"
     },
     {
       "added_at": null,

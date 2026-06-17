@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43829,
+  "num_followers": 43828,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACvg1mvZad5mzMrQ6qLXKhd",
+  "snapshot_id": "ai9AgAAAAABEasJmco9YBApJdct6JF2j",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 148700,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
         "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 204707,
       "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
       "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 148700,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
     },
     {
       "added_at": null,
@@ -955,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "tqum (feat. Kim Petras) [Remix]",
-        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
+        "name": "Muevelo Remix (feat. Maffio)",
+        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
       },
       "artists": [
         {
@@ -964,17 +964,13 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Carlos \"Maffio\" Peralta",
+          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
         }
       ],
-      "duration_ms": 149589,
-      "name": "tqum (feat. Kim Petras) - Remix",
-      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
+      "duration_ms": 208293,
+      "name": "Muevelo Remix (feat. Maffio)",
+      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
     },
     {
       "added_at": null,
@@ -995,8 +991,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muevelo Remix (feat. Maffio)",
-        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
+        "name": "tqum (feat. Kim Petras) [Remix]",
+        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
       },
       "artists": [
         {
@@ -1004,13 +1000,17 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Carlos \"Maffio\" Peralta",
-          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 208293,
-      "name": "Muevelo Remix (feat. Maffio)",
-      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
+      "duration_ms": 149589,
+      "name": "tqum (feat. Kim Petras) - Remix",
+      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
     },
     {
       "added_at": null,

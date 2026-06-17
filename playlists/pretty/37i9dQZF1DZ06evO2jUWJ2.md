@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,610 likes - 50 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,648 likes - 50 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 5 | [God I'm Just Grateful](https://open.spotify.com/track/2ggP6WjaTsloaiBxXY5JB7) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful](https://open.spotify.com/album/5FTiQxhX4OfMF5YjStmIt6) | 4:59 |
 | 6 | [Jesus Be The Name \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Jesus Be The Name](https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T) | 8:59 |
 | 7 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/4f7HKpJheSmV2WeoMjNH2z) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 7:22 |
-| 8 | [Lo Harás Otra Vez \(Do It Again\)](https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 6:17 |
-| 9 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 |
+| 8 | [The Blessing \(Live\)](https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 8:27 |
+| 9 | [Lo Harás Otra Vez \(Do It Again\)](https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Lo Harás Otra Vez](https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx) | 6:17 |
 | 10 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:01 |
 | 11 | [Been So Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 7:44 |
 | 12 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [Tumbas A Jardines](https://open.spotify.com/track/33PWRnxAnpPf09jAjtWUdU) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Mil Generaciones](https://open.spotify.com/album/66jqLnUqzqqfQpFIeYayD0) | 4:54 |
 | 50 | [RATTLE! \(Live\)](https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:12 |
 
-Snapshot ID: `ai3vAAAAAAAEMsDg+h5aQRsrk+Sc4YwP`
+Snapshot ID: `ai9AgAAAAADKBQOLJKRI6pX11dhHKFkn`

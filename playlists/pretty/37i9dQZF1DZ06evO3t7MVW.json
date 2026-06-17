@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 96824,
+  "num_followers": 96847,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAA/tLl6Wb8iPIwtLpqQ2iVi",
+  "snapshot_id": "ai9AgAAAAAAH28f4gBMvvSDA8BpE5OKS",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castles",
-        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
       "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 233314,
-      "name": "Gardenia (with Stick Figure)",
-      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
+      "duration_ms": 292485,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
     },
     {
       "added_at": null,
@@ -267,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
       },
       "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 292485,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7"
+      "duration_ms": 233314,
+      "name": "Gardenia (with Stick Figure)",
+      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
     },
     {
       "added_at": null,

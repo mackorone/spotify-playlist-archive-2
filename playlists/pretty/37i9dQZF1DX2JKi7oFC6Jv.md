@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,008 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,011 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

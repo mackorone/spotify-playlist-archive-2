@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 
 > This is Kanye West\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,415 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,548 likes - 49 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 33 | [True Love](https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [True Love](https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc) | 2:28 |
 | 34 | [BURN](https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6) | 1:51 |
 | 35 | [WHATEVER WORKS](https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:59 |
-| 36 | [Jukebox Joints \(feat\. Joe Fox & Kanye West\)](https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Joe Fox](https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 5:23 |
-| 37 | [GEMINI SEASON](https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [GEMINI SEASON](https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc) | 1:46 |
+| 36 | [GEMINI SEASON](https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [GEMINI SEASON](https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc) | 1:46 |
+| 37 | [Jukebox Joints \(feat\. Joe Fox & Kanye West\)](https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Joe Fox](https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 5:23 |
 | 38 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 |
 | 39 | [Famous](https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:16 |
 | 40 | [Jesus Walks](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:13 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 48 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 |
 | 49 | [Mixed Personalities \(feat\. Kanye West\)](https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [We All Shine](https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k) | 3:50 |
 
-Snapshot ID: `ai3vAAAAAADoVWfZSeXlzhTvIpEfvoY/`
+Snapshot ID: `ai9AgAAAAAAmj3etDfmd5jzSiipGq2Dg`

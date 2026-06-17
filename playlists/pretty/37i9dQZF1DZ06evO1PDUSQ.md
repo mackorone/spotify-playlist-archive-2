@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 
 > This is Orla Gartland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,528 likes - 38 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,531 likes - 38 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 | 13 | [Codependency](https://open.spotify.com/track/0o2BJHj9wQTCb5UfY7R7jl) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:11 |
 | 14 | [Pest](https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:06 |
 | 15 | [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 |
-| 16 | [The Hit](https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:30 |
+| 16 | [Three Words Away](https://open.spotify.com/track/0DJJyOL3LfHw10WrAlOMn7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:10 |
 | 17 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 |
-| 18 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
-| 19 | [Between My Teeth](https://open.spotify.com/track/07FNKVJKWX08paQiethhD0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Between My Teeth](https://open.spotify.com/album/3fBRVoGUUtSE06mXUgLTYG) | 3:16 |
-| 20 | [Three Words Away](https://open.spotify.com/track/0DJJyOL3LfHw10WrAlOMn7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:10 |
+| 18 | [Between My Teeth](https://open.spotify.com/track/07FNKVJKWX08paQiethhD0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Between My Teeth](https://open.spotify.com/album/3fBRVoGUUtSE06mXUgLTYG) | 3:16 |
+| 19 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 20 | [The Hit](https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:30 |
 | 21 | [Zombie!](https://open.spotify.com/track/6sDeF4lLQHWfGOqBzV3whw) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 2:57 |
 | 22 | [Oh GOD](https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW) | 2:46 |
 | 23 | [One Eye Open](https://open.spotify.com/track/4XDw17n0Ktb2NcuEyTNj7t) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:09 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PDUSQ.md) - [plain]
 | 37 | [Get Back](https://open.spotify.com/track/7N2PRq96UsOxI3ItwnrJDx) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Lonely People](https://open.spotify.com/album/6M8jnPqSAP1z4ooqQydY1h) | 3:08 |
 | 38 | [Whispers](https://open.spotify.com/track/4gMWrJ20uEwMHGu1OReCBj) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Lonely People](https://open.spotify.com/album/6M8jnPqSAP1z4ooqQydY1h) | 3:43 |
 
-Snapshot ID: `ai3vAAAAAACIMsO2SQj8W0fmZym4YAaW`
+Snapshot ID: `ai9AgAAAAAC1Rwug0JYVU02rz+aYqd/N`

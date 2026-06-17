@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,003 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,134 likes - 47 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 43 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 |
 | 44 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 2:57 |
 | 45 | [See Me Now](https://open.spotify.com/track/5WxQEQJtrOYzobMBTsdPBb) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:05 |
-| 46 | [Can I Get an Outlaw](https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:58 |
-| 47 | [In Case I Ain't Around](https://open.spotify.com/track/52lejmjP4o5bcZSAWKtXR3) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:30 |
+| 46 | [In Case I Ain't Around](https://open.spotify.com/track/52lejmjP4o5bcZSAWKtXR3) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:30 |
+| 47 | [Can I Get an Outlaw](https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:58 |
 
-Snapshot ID: `ai3vAAAAAAAao5ZmTkv0tDZU3KsPbAuA`
+Snapshot ID: `ai9AgAAAAAC1RoOi9eEQEKuGscI/9wrj`

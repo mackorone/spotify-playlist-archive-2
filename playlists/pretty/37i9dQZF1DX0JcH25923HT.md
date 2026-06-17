@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,946 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,063 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 81 | [Sigo Fresh](https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [You're Welcome](https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ) | 3:09 |
 | 82 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 |
 | 83 | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH) | 3:22 |
-| 84 | [Condiciones](https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Condiciones](https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY) | 3:15 |
-| 85 | [Dubai](https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dubai](https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm) | 2:37 |
+| 84 | [Dubai](https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dubai](https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm) | 2:37 |
+| 85 | [Condiciones](https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Condiciones](https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY) | 3:15 |
 | 86 | [Te Necesito](https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Te Necesito](https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw) | 4:02 |
 | 87 | [Bando Boyz Free](https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free](https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5) | 2:59 |
 | 88 | [Perdóname](https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perdóname](https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU) | 2:43 |

@@ -4,13 +4,13 @@
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-146 songs - 7 hr 57 min
+147 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 | 2025-06-17 | 2026-04-22 |
+| [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 | 2025-06-17 |  |
 | [A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 | 2023-11-03 | 2024-04-19 |
-| [A Rain of Petals](https://open.spotify.com/track/0bjY1AC7Dg0dY08XwIqaTD) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [My Little New Diary, Pt\. 4](https://open.spotify.com/album/1QvSAkm9UyY4gcriXIQmN3) | 3:43 | 2026-04-21 |  |
+| [A Rain of Petals](https://open.spotify.com/track/0bjY1AC7Dg0dY08XwIqaTD) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [My Little New Diary, Pt\. 4](https://open.spotify.com/album/1QvSAkm9UyY4gcriXIQmN3) | 3:43 | 2026-04-21 | 2026-06-17 |
 | [A Song For You](https://open.spotify.com/track/5VtQn0Pp23dZZqVGi2zhzQ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [A Song For You](https://open.spotify.com/album/284ZHwShyBT7ao6gl8S2pe) | 3:47 | 2025-04-30 | 2025-06-25 |
 | [All About You \(feat\. GRAM\)](https://open.spotify.com/track/3fN9rF5Ax7V039eofbz6yB) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [GRAM](https://open.spotify.com/artist/2qKhaMe5cOdQinPWBXyCHF) | [All About You \(feat\. GRAM\)](https://open.spotify.com/album/6IUeI8WJcH80xx4dwfclTf) | 2:20 | 2026-03-31 | 2026-04-15 |
 | [All I Wanna Do](https://open.spotify.com/track/4vC3FYMFaYyLoG9ROtEGVU) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:08 | 2023-11-03 | 2025-03-28 |
@@ -66,6 +66,7 @@
 | [Hello, Summer](https://open.spotify.com/track/50zHuiR5AN9oxEE4zOPnr3) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Hello, Summer](https://open.spotify.com/album/5KNydkpRR9yos4VzJ17Y9V) | 3:50 | 2025-06-24 | 2025-07-01 |
 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 | 2023-11-03 | 2024-10-08 |
 | [How Do You Think](https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT) | 3:25 | 2025-03-27 |  |
+| [Hummingbird](https://open.spotify.com/track/69wWda5gkkfas0dK4VxBIE) | [SANG HA](https://open.spotify.com/artist/5h7uYIa41cdONFy8pmu5Wm) | [NORU](https://open.spotify.com/album/3Ljrer8F77zmYbX0vBhGWr) | 2:25 | 2026-06-16 |  |
 | [I Feel Special](https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7) | 3:58 | 2026-03-17 | 2026-05-01 |
 | [I Know](https://open.spotify.com/track/5PSdIZyo4lxh8p2SPiPikf) | [Seunghui](https://open.spotify.com/artist/2pUvBa7S10ktiy75OIsxs3), [Jiho](https://open.spotify.com/artist/5k4usYTOytsTDumir9NDEb), [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [START\-UP \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/3IDzkP36HtCnTn3zt4mqpb) | 3:18 | 2023-11-03 | 2024-04-19 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2024-05-09 | 2025-01-04 |
@@ -138,7 +139,7 @@
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2023-11-03 | 2024-08-11 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-11-03 | 2025-03-28 |
 | [TFW \(That Feeling When\)](https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:17 | 2023-11-03 |  |
-| [The Prologue \- Spring ver.](https://open.spotify.com/track/6yuFTKQNi4aUheae4f90sb) | [lalasweet](https://open.spotify.com/artist/5i8AqrrtbwtPqzkavePQy1) | [Your World](https://open.spotify.com/album/79obqCDg7voupaTKDsNrF3) | 3:46 | 2026-04-14 |  |
+| [The Prologue \- Spring ver.](https://open.spotify.com/track/6yuFTKQNi4aUheae4f90sb) | [lalasweet](https://open.spotify.com/artist/5i8AqrrtbwtPqzkavePQy1) | [Your World](https://open.spotify.com/album/79obqCDg7voupaTKDsNrF3) | 3:46 | 2026-04-14 | 2026-06-17 |
 | [The Reason Why I Like You](https://open.spotify.com/track/6MrU2GdDhEW5DHCL5AYBXm) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [The Reason Why I Like You](https://open.spotify.com/album/1l8GEvNiobsxsROPvA3ljC) | 3:16 | 2026-04-21 |  |
 | [Thief \(Feat\. MINNIE of \(G\)I\-DLE\)](https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:33 | 2023-11-03 | 2025-10-14 |
 | [Tickle \(feat\. Joob A\)](https://open.spotify.com/track/02gjmOulGmlgdwUcB3wqyz) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry), [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Tickle \(feat\. Joob A\)](https://open.spotify.com/album/0c4whAFm5Sc1ciPV7coUZT) | 2:34 | 2024-11-06 | 2025-03-28 |

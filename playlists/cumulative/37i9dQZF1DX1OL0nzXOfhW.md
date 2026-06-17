@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: The Hertz
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: Teddy Fan
 
-338 songs - 19 hr 39 min
+339 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [· · 一](https://open.spotify.com/track/5TPsJ7t6JPtEkrpF8Ywq2W) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/60Gux8lIYWssy6HpIJ0a2s) | 4:36 | 2023-03-30 | 2023-05-12 |
 | [一律建議分手](https://open.spotify.com/track/0KOhktXlsA1KHE1g8LiJ0m) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [一律建議分手](https://open.spotify.com/album/0vBu53cgDImoXXhfRw1afc) | 3:27 | 2026-04-06 |  |
 | [一把火](https://open.spotify.com/track/4tP6Jm8VKXOYWJzz8kHASA) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [一把火](https://open.spotify.com/album/2OjNvV9VYh4avRNnVl39J9) | 2:54 | 2023-05-25 | 2024-03-29 |
+| [一次](https://open.spotify.com/track/30I3omvARxPEULwmr5ilw7) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH) | [一次](https://open.spotify.com/album/7sQYwOyv8v07cOQk7NuuHG) | 3:51 | 2026-06-17 |  |
 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 | 2023-04-13 | 2024-03-29 |
 | [三人床](https://open.spotify.com/track/1ldAqS0wQSO2kDcfD3mkdU) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [EmergenZy](https://open.spotify.com/album/05OOs0NKwloQvg96FITa2M) | 2:38 | 2024-03-28 | 2025-03-28 |
 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 | 2023-04-13 | 2024-03-29 |

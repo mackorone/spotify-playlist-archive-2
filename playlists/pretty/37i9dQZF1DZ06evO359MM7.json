@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 447901,
+  "num_followers": 447932,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABtwrjJYEl7C95GfCUb0SMP",
+  "snapshot_id": "ai9AgAAAAABu6D3KK+IUGdCoaIQzQhi1",
   "tracks": [
     {
       "added_at": null,
@@ -579,30 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 169531,
-      "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
-      "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 218320,
       "name": "On The Road (feat. Meek Mill & Lil Baby)",
       "url": "https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
+      "url": "https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql"
     },
     {
       "added_at": null,

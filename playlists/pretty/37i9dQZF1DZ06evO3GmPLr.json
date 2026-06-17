@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 56754,
+  "num_followers": 56765,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAcGLhbetebDmoZbCwGtsom",
+  "snapshot_id": "ai9AgAAAAAA/HatQ+4OpL4m+/A38grH0",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,25 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 68413,
-      "name": "Little Q, Pt. 1 - Interlude",
-      "url": "https://open.spotify.com/track/0rq8WqfI2FMHYp84xNd53M"
+      "duration_ms": 238026,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 352178,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/3m9g8ua3M51JvqmS8rh6bS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 352178,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     },
     {
       "added_at": null,
@@ -496,25 +496,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 238026,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 240379,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
+      "duration_ms": 68413,
+      "name": "Little Q, Pt. 1 - Interlude",
+      "url": "https://open.spotify.com/track/0rq8WqfI2FMHYp84xNd53M"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
       "duration_ms": 154986,
       "name": "one life, might live",
       "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 240379,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
     },
     {
       "added_at": null,
@@ -623,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Leave Too Soon (From the Netflix Film 'Steve')",
-        "url": "https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj"
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv"
       },
       "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 218011,
-      "name": "Don't Leave Too Soon",
-      "url": "https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl"
+      "duration_ms": 161010,
+      "name": "Talk Olympics",
+      "url": "https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1"
     },
     {
       "added_at": null,
@@ -655,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise Now",
-        "url": "https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv"
+        "name": "Don't Leave Too Soon (From the Netflix Film 'Steve')",
+        "url": "https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj"
       },
       "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 161010,
-      "name": "Talk Olympics",
-      "url": "https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1"
+      "duration_ms": 218011,
+      "name": "Don't Leave Too Soon",
+      "url": "https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
       "duration_ms": 211285,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drop 7",
-        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 131253,
-      "name": "Torch",
-      "url": "https://open.spotify.com/track/676854Mu9sVS1vfoBqk7S2"
     }
   ],
   "unique_name": "This Is Little Simz",

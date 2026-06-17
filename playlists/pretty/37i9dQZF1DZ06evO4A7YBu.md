@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 
 > This is Static\-X\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,095 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,100 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4A7YBu.md) - [plain]
 | 38 | [Stingwray](https://open.spotify.com/track/72PjxQajUSyOcUVBpQqXHz) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 4:12 |
 | 39 | [Worth Dyin For](https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:26 |
 | 40 | [Terrible Lie \- Bonus Track](https://open.spotify.com/track/4K0aSGvZHYAwdinsncDhvT) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 4:03 |
-| 41 | [Structural Defect](https://open.spotify.com/track/59ej8sGCYuLwaAR3EDSOmR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:39 |
+| 41 | [Head](https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Beneath...Between...Beyond...](https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr) | 2:46 |
 | 42 | [Terminal](https://open.spotify.com/track/080foaXWDJpI51Mg8FZkfn) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 3:37 |
 | 43 | [All These Years](https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:56 |
-| 44 | [Head](https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Beneath...Between...Beyond...](https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr) | 2:46 |
-| 45 | [Jic Boi](https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 2:58 |
+| 44 | [Structural Defect](https://open.spotify.com/track/59ej8sGCYuLwaAR3EDSOmR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:39 |
+| 45 | [No Submission](https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 2:41 |
 | 46 | [Z28](https://open.spotify.com/track/4mY2HxlIsvFsOKCUX0UfJ7) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 3:09 |
-| 47 | [No Submission](https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 2:41 |
+| 47 | [Jic Boi](https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 2:58 |
 | 48 | [Hip Hop](https://open.spotify.com/track/1UCVgSDDlH4vJ0jI4txWXP) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf), [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 3:52 |
-| 49 | [Stay Alive](https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 3:46 |
-| 50 | [Lunatic](https://open.spotify.com/track/1I4g0zU8WQ73sRd64QPYmw) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 3:35 |
+| 49 | [Lunatic](https://open.spotify.com/track/1I4g0zU8WQ73sRd64QPYmw) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cult of Static](https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc) | 3:35 |
+| 50 | [Stay Alive](https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 3:46 |
 
-Snapshot ID: `ai3vAAAAAAAYxHT8qJ1STn+3LqDcEYbn`
+Snapshot ID: `ai9AgAAAAAD3Xgp/jpqyf4M7JVGdAkty`

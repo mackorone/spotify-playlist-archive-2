@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC USA Playlist: bringing together the sounds of the USA in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,037 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,024 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 44 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 |
 | 45 | [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 |
 | 46 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cheat Codes](https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB) | 3:58 |
-| 47 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |
-| 48 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 |
-| 49 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 |
-| 50 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/7f1uY6RHAj9voSkbPyMlFm) | 1:58 |
+| 47 | [Bury Me Alive](https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
+| 48 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |
+| 49 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 |
+| 50 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 |
 
 Snapshot ID: `AAAAAH0VmnZ+LxMqm050oczwqh8Ci6ov`

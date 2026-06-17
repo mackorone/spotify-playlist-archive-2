@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30427,
+  "num_followers": 30432,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADSF0XEXZdfCHARjGCHsmgE",
+  "snapshot_id": "ai9AgAAAAABLl1QchbRlaSaGsFOgcC3b",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "name": "Mileage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5h3wP087I8yUbEFnlyzR0D"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
         },
         {
-          "name": "Tyler Bryant",
-          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Back Down South (feat. Tyler Bryant)",
-      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
+      "duration_ms": 159306,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/2QAQ1m3LGHKkL0QvNNBXyF"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mileage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5h3wP087I8yUbEFnlyzR0D"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        },
-        {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Tyler Bryant",
+          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/2QAQ1m3LGHKkL0QvNNBXyF"
+      "duration_ms": 234866,
+      "name": "Back Down South (feat. Tyler Bryant)",
+      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "Come on in My Kitchen",
-      "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Runnin' Down a Dream",
         "url": "https://open.spotify.com/album/665hfrsUrX8NtDd89Lt4aV"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 244307,
       "name": "Runnin' Down a Dream",
       "url": "https://open.spotify.com/track/2jh28FMlAr45a1r6nRUVu3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 131052,
+      "name": "Come on in My Kitchen",
+      "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "John the Revelator",
-      "url": "https://open.spotify.com/track/13mw78vO0Q2w7RX7Df1bkA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 164340,
       "name": "God Moves On The Water",
       "url": "https://open.spotify.com/track/6WO209fUKXVhYhUwlJxp9w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "John the Revelator",
+      "url": "https://open.spotify.com/track/13mw78vO0Q2w7RX7Df1bkA"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 171256,
-      "name": "Blue Ridge Mountains",
-      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 193389,
       "name": "Keep Diggin'",
       "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 171256,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193063,
-      "name": "Hard Time Killing Floor Blues",
-      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 220796,
       "name": "Every Bird That Flies",
       "url": "https://open.spotify.com/track/2uFyp8aqJyxbtnyYb0ZB8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193063,
+      "name": "Hard Time Killing Floor Blues",
+      "url": "https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P"
     },
     {
       "added_at": null,

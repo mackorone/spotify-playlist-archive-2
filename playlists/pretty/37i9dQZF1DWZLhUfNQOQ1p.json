@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 251574,
+  "num_followers": 251557,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
-        "name": "Cyclorama",
-        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
-    },
-    {
-      "added_at": "2026-05-21 22:02:59",
-      "album": {
         "name": "Ithaque",
         "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 189026,
       "name": "Ithaque",
       "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
+    },
+    {
+      "added_at": "2026-05-21 22:02:59",
+      "album": {
+        "name": "Cyclorama",
+        "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
     },
     {
       "added_at": "2026-05-21 22:02:59",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
-        "name": "Move On Up (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        }
-      ],
-      "duration_ms": 149047,
-      "name": "Move On Up (Mark Knight Remix)",
-      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
-    },
-    {
-      "added_at": "2026-05-21 22:02:59",
-      "album": {
         "name": "Everything Eventually Ends",
         "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 177280,
       "name": "Everything Eventually Ends",
       "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2026-05-21 22:02:59",
+      "album": {
+        "name": "Move On Up (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "duration_ms": 149047,
+      "name": "Move On Up (Mark Knight Remix)",
+      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
     },
     {
       "added_at": "2026-05-21 22:02:59",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
+        "name": "Yatta!",
+        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 271247,
+      "name": "In Search of Yang",
+      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
+    },
+    {
+      "added_at": "2026-05-21 22:02:59",
+      "album": {
         "name": "Born a Loser",
         "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 167093,
       "name": "Moving Men",
       "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2026-05-21 22:02:59",
-      "album": {
-        "name": "Yatta!",
-        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 271247,
-      "name": "In Search of Yang",
-      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
     },
     {
       "added_at": "2026-05-21 22:02:59",
@@ -1855,22 +1855,30 @@
     {
       "added_at": "2026-05-21 22:02:59",
       "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
         },
         {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
         }
       ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
+      "duration_ms": 233196,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
     }
   ],
   "unique_name": "Aperitivo Time",

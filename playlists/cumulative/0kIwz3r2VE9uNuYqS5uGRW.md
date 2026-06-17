@@ -4,7 +4,7 @@
 
 > 
 
-221 songs - 11 hr 33 min
+225 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Can't Stop Loving You](https://open.spotify.com/track/2IxP7XlBTr1ytzNunInCHa) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Can’t Stop Loving You](https://open.spotify.com/album/1YrnwVbQVVEFcwwVC6CYD0) | 4:37 | 2025-08-14 |  |
 | [Childhood Dreams](https://open.spotify.com/track/2HeYiygBNdlYDOYGgtAS53) | [Mert Bays](https://open.spotify.com/artist/5O0EyfPKefwCPzKsE3S8pe) | [Another Day](https://open.spotify.com/album/3FwelO7DnW62pR886TxsVo) | 3:03 | 2025-04-10 |  |
 | [cicada](https://open.spotify.com/track/2BHGoDcPPJPBQemfknoxqF) | [Deadfilm](https://open.spotify.com/artist/5OwwZoJuwmHqi5O9p94A2E), [Riper](https://open.spotify.com/artist/3anPhsakd2B9tTl6tPdFbq) | [volverás a sonreir.](https://open.spotify.com/album/18sFjenWqRu3Fa9mGHMLhP) | 4:58 | 2026-03-19 |  |
+| [Clark Wiley](https://open.spotify.com/track/01CtaVwVYP0BP0vVEyMB8T) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 2:56 | 2026-06-16 |  |
 | [Classic](https://open.spotify.com/track/3rQ4SQmBLoW3bIqV4tqsvm) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Classic Favoritism](https://open.spotify.com/album/3ZQfefsjENuhY1bi2CqPMd) | 3:03 | 2025-04-14 |  |
 | [classic](https://open.spotify.com/track/02PTfaYBAzhskrltCoQKPN) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 3:07 | 2026-01-18 |  |
 | [CLOWN SH!T](https://open.spotify.com/track/5cJvmKkG9T2zDDYdpSoQq9) | [JAY DA LEGEND](https://open.spotify.com/artist/2Y4q60ShSZU925Xr6kY0Kf) | [CLOWN SH!T](https://open.spotify.com/album/79OjlrUvPkV5NvdUmSpD1p) | 2:53 | 2025-11-03 |  |
@@ -84,6 +85,7 @@
 | [GROW](https://open.spotify.com/track/3htcj4Dd4cIfHVFTD2ajh6) | [Kamy](https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS) | [GROW](https://open.spotify.com/album/1ZAvMLlyVmb1gM3bNzdNuN) | 3:35 | 2025-08-20 |  |
 | [Heart Don't Beat No Fear](https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Heart Don't Beat No Fear](https://open.spotify.com/album/3cP2lWFVTlDHhqtWQN12Zl) | 3:08 | 2026-04-02 |  |
 | [Heart Of The West](https://open.spotify.com/track/6F1x5PDpncCybbnAqbnPDj) | [Kinga Talarek](https://open.spotify.com/artist/6vGaMJPqkdKmVdvOrM5DCG), [KOSHE](https://open.spotify.com/artist/2BmuePXK1PgAmJ61m981rU) | [Heart Of The West](https://open.spotify.com/album/10pstk0OxkUJi6Qe8yBO9z) | 2:51 | 2025-11-02 |  |
+| [Hey Izzy](https://open.spotify.com/track/4aMiZGR3tuBN6Iw2tN02BQ) | [The Last Great Kings](https://open.spotify.com/artist/4iz8exWOL7apTsnXzP2YSs) | [Hey Izzy](https://open.spotify.com/album/054kwlQaKDExJqti6AYfTM) | 2:57 | 2026-06-16 |  |
 | [Hold On](https://open.spotify.com/track/1xunQYI4Bfk0dDgIdoQokK) | [Veauxgue](https://open.spotify.com/artist/0ZEvbB2ViUVH9JGLOBLvrM) | [10,000 Days](https://open.spotify.com/album/0YPjipQDNl5DXQo2Xwr4kE) | 3:07 | 2025-11-22 |  |
 | [Homewrecker](https://open.spotify.com/track/5cnLneiOGZQjsoFeOwTewc) | [Enhance](https://open.spotify.com/artist/0WczWSXykA8L6DAN24qPQW) | [Homewrecker](https://open.spotify.com/album/2W32nOm3iiFnrhHLZfQhI0) | 2:36 | 2025-11-20 |  |
 | [Hope](https://open.spotify.com/track/1GeeMhsnDt7E15N24m6rAp) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 6:37 | 2025-04-06 |  |
@@ -130,6 +132,7 @@
 | [Morena Bella](https://open.spotify.com/track/0hc3xjFAcuHRFIGgHgL09f) | [Onell](https://open.spotify.com/artist/2WHiJLWQrvMhJkqYCndpI1) | [Morena Bella](https://open.spotify.com/album/6BCvJS9b0WoYUb5rZBllYW) | 2:56 | 2026-01-02 |  |
 | [Moving to Texas](https://open.spotify.com/track/78o1O6LcHo2wfJRWuzCvXZ) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Moving to Texas](https://open.spotify.com/album/0UsrULV6sHykPhDQ0CeCNN) | 3:50 | 2026-03-06 |  |
 | [Muse](https://open.spotify.com/track/7B5rT2i6JliL4fcxQRqDlk) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Muse](https://open.spotify.com/album/6XWrC2jrmxLhdLtupCS0eq) | 3:09 | 2025-07-07 |  |
+| [Naomi](https://open.spotify.com/track/2YSdjfaZVGB09ZnUZNjrhp) | [Faint Images of the Radio Sky](https://open.spotify.com/artist/63BRCSvVdohSDgSUm19bPb) | [Itching Through the Permafrost](https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY) | 4:55 | 2026-06-16 |  |
 | [no evidence](https://open.spotify.com/track/3SbYA5SX1jA1sLpbume305) | [Jonas Feurle](https://open.spotify.com/artist/0wu3fN6dTlMop83dDnMwke), [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [anytime but now](https://open.spotify.com/album/3DHm8gapNXPAuy9RuRD6xc) | 2:52 | 2025-08-14 |  |
 | [No Hay Tiempo](https://open.spotify.com/track/2zLn9ZLLxBLJXfjo7kZwVv) | [Lu\-k Mc](https://open.spotify.com/artist/7eBvM4CyBRXoJK0l7dUTkq) | [No Hay Tiempo](https://open.spotify.com/album/6twp3uVTUMbnQGgo9iHiFJ) | 3:27 | 2026-04-02 |  |
 | [No Lover](https://open.spotify.com/track/37V9X9p9qwOarHwCjsCSRr) | [Haryx](https://open.spotify.com/artist/3KyoaBJkZoxcSSuFnuv9lA) | [No Lover](https://open.spotify.com/album/4TAfyJTinnMVPLUfnEz6gX) | 2:30 | 2025-11-03 |  |
@@ -158,6 +161,7 @@
 | [Purgatorio](https://open.spotify.com/track/5VK83qZanFNfjhRGeizUTP) | [Denivek](https://open.spotify.com/artist/3yF4wRjfd495MPjjquHKVH) | [International I](https://open.spotify.com/album/4oyD19daykyixpY2E5j1iI) | 6:46 | 2025-08-12 |  |
 | [Pussy](https://open.spotify.com/track/3KYujzyF0dbCwsJAEb4Djf) | [C4BASS](https://open.spotify.com/artist/2R18tm7N0kJVNrtVTAs6Fw), [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Pussy](https://open.spotify.com/album/0izPf4zGr5MYpKSNpIUUHn) | 2:26 | 2026-02-25 |  |
 | [QQDM?](https://open.spotify.com/track/3SKUMB5tpdr4UT2BIq3juc) | [majorea](https://open.spotify.com/artist/2Jmw8pBHcLa6JMCwk3rmRq) | [QQDM?](https://open.spotify.com/album/1gE9VgPQWKVsZfST7jTKSw) | 2:43 | 2026-03-27 |  |
+| [Que Rico Verte](https://open.spotify.com/track/7Hd0u6WIyHSXi2cs5PDASF) | [Migue Ceballos](https://open.spotify.com/artist/2J1JjCZxLNmw8CRKADx9qe) | [Que Rico Verte](https://open.spotify.com/album/5NmOzGqm9FbRSsBYIjo5u6) | 2:05 | 2026-06-16 |  |
 | [Que Somos](https://open.spotify.com/track/1QoB6CQN6Z1FLbiOQSfRVk) | [Cuppi](https://open.spotify.com/artist/7qJ7rS141xQGiTS3n1VnNz) | [Que Somos](https://open.spotify.com/album/36rJf96FhE3in0acXjO42K) | 2:42 | 2026-03-25 |  |
 | [Que somos¿](https://open.spotify.com/track/0SARdMrIILVY8go5R421YG) | [Marche](https://open.spotify.com/artist/5x8Xce2apfeu5ETjcA0Das) | [Que somos¿](https://open.spotify.com/album/7kQMcWVDuXVW9ZIebJFIRp) | 1:59 | 2025-03-12 |  |
 | [Quien Te Azota?](https://open.spotify.com/track/1PvuFHjDJii2tFTeqP4yVq) | [FARDY](https://open.spotify.com/artist/46YEtFyBgkWpFLkEE5C4Hc), [Adal Palacios](https://open.spotify.com/artist/1ybBqXrXyErUMB9DchGSjc), [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL) | [PERREKE MEXA](https://open.spotify.com/album/6DvAY3z2vHQQLi7dPaW5HP) | 2:23 | 2026-04-02 |  |

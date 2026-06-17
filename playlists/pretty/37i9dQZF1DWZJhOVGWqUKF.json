@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: PLAIINS",
-  "num_followers": 338512,
+  "num_followers": 338489,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
         "url": "https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 243996,
       "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
       "url": "https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -451,8 +451,8 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Hexagons",
-        "url": "https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV"
+        "name": "Nightshift Superstar",
+        "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 326599,
-      "name": "Hexagons",
-      "url": "https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX"
+      "duration_ms": 247144,
+      "name": "Nightshift Superstar",
+      "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -531,8 +531,8 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Nightshift Superstar",
-        "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
+        "name": "Hexagons",
+        "url": "https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV"
       },
       "artists": [
         {
@@ -540,25 +540,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 247144,
-      "name": "Nightshift Superstar",
-      "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
-        "name": "Who Will You Follow",
-        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
+      "duration_ms": 326599,
+      "name": "Hexagons",
+      "url": "https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -575,6 +559,22 @@
       "duration_ms": 195966,
       "name": "Play Your Games",
       "url": "https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "False Reaction",
-        "url": "https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3"
-      },
-      "artists": [
-        {
-          "name": "VIOLENT VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "False Reaction",
-      "url": "https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 199696,
       "name": "Tell Me When You've Had Enough",
       "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "False Reaction",
+        "url": "https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "False Reaction",
+      "url": "https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "G.O.D. And The Broken Ribs / Derecho Demonico",
-        "url": "https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 223762,
-      "name": "G.O.D. And The Broken Ribs",
-      "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "For I Am Death",
         "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
       },
@@ -951,22 +935,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Forever/Always",
-        "url": "https://open.spotify.com/album/1mNFIIEOv5zRkhlBfSYqSt"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 222957,
-      "name": "Forever/Always",
-      "url": "https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "Drive Myself Home",
         "url": "https://open.spotify.com/album/4EHBw2Nv87XerwlcvJxiXx"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 219935,
       "name": "Drive Myself Home",
       "url": "https://open.spotify.com/track/5qy96tWV5WWgJLiXuinD7e"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "G.O.D. And The Broken Ribs / Derecho Demonico",
+        "url": "https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 223762,
+      "name": "G.O.D. And The Broken Ribs",
+      "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "Forever/Always",
+        "url": "https://open.spotify.com/album/1mNFIIEOv5zRkhlBfSYqSt"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 222957,
+      "name": "Forever/Always",
+      "url": "https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/5Oa9k6uLFOMl27rMOBN7fi"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 192071,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/5Oa9k6uLFOMl27rMOBN7fi"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 192071,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "In A Life",
-      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "When I Wake Up",
         "url": "https://open.spotify.com/album/48pyXUDMERM1AaSI0gUi5n"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 214290,
       "name": "When I Wake Up",
       "url": "https://open.spotify.com/track/3O3fI1Z3myBXTCmUWT29zO"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Idols (Complete)",
-        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 279798,
-      "name": "Suburban Requiem",
-      "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "Alienation",
         "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+        "name": "Idols (Complete)",
+        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 235413,
-      "name": "Song Of The Future",
-      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
+      "duration_ms": 279798,
+      "name": "Suburban Requiem",
+      "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -1231,6 +1215,22 @@
       "duration_ms": 233289,
       "name": "To Space",
       "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Frozen Lake",
-        "url": "https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Frozen Lake",
-      "url": "https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "Adjourn It (feat. Serj Tankian & Roman Morello)",
         "url": "https://open.spotify.com/album/6mox7WL9GR6w6eRru10oDp"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 167600,
       "name": "Adjourn It (feat. Serj Tankian & Roman Morello)",
       "url": "https://open.spotify.com/track/5HmYPdTqF0gnH3X7tXo9Qn"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "Frozen Lake",
+        "url": "https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Frozen Lake",
+      "url": "https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7t0GsYTsTodsWg3Oyuhx4r"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 263279,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6P8GSsFudw7kcEmSyUT8Bb"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "Villainous (feat. Maria Brink of In This Moment)",
         "url": "https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 176700,
       "name": "Villainous (feat. Maria Brink of In This Moment)",
       "url": "https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7t0GsYTsTodsWg3Oyuhx4r"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 263279,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6P8GSsFudw7kcEmSyUT8Bb"
     },
     {
       "added_at": "2026-06-11 22:01:53",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-06-11 22:01:53",
       "album": {
-        "name": "You Got to Lose",
-        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 197646,
-      "name": "You Got to Lose",
-      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
-    },
-    {
-      "added_at": "2026-06-11 22:01:53",
-      "album": {
         "name": "Everything Is Fine",
         "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 217189,
       "name": "Everything Is Fine",
       "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
+    },
+    {
+      "added_at": "2026-06-11 22:01:53",
+      "album": {
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
     },
     {
       "added_at": "2026-06-11 22:01:53",

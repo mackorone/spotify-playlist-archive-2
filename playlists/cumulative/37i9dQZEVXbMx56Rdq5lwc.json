@@ -23364,7 +23364,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -27119,6 +27119,28 @@
     },
     {
       "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+    },
+    {
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/2IHPG4aVcIcwz9Rpme2WaT"
       },
@@ -29092,7 +29114,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 300389,
       "name": "Netur\u0117jom Dainos",
       "url": "https://open.spotify.com/track/5i2P4wsbe6x8hrvdZwCSJj"
@@ -41872,7 +41894,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 123000,
       "name": "Tarp Gelton\u0173 R\u016bt\u0173",
       "url": "https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71"
@@ -45850,7 +45872,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 162320,
       "name": "Vaikyst\u0117s Stogas",
       "url": "https://open.spotify.com/track/1PGihkGGcCzhRcPJNPRmdY"
@@ -50474,7 +50496,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 98769,
       "name": "\u042d\u041a\u0421\u041f\u041e\u041d\u0410\u0422",
       "url": "https://open.spotify.com/track/4Madyc0e7wYv1W8KllxuS8"

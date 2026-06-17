@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,876 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,880 likes - 44 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 10 | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/track/76IJjtvNrwN4yjRn2YMt2w) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:58 |
 | 11 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
 | 12 | [Business & Personal \(Intro\)](https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Business & Personal \(Intro\)](https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr) | 4:20 |
-| 13 | [Go Girl \(with Latto & Doja Cat\)](https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:50 |
+| 13 | [Show Me](https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:27 |
 | 14 | [Anxious \(feat\. Odeal & Wizkid\)](https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:47 |
-| 15 | [Show Me](https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:27 |
+| 15 | [Go Girl \(with Latto & Doja Cat\)](https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:50 |
 | 16 | [Housekeeping Knows \(feat\. Latto\)](https://open.spotify.com/track/3YPEtDvQWStCH8eCq0Fl8Z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 3:06 |
 | 17 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
 | 18 | [Onnat](https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 2:11 |
@@ -52,6 +52,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 42 | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr) | 3:20 |
 | 43 | [F.N.F \(Let's Go\) \- Remix](https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [F.N.F\. \(Let's Go\) \[Remix\]](https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh) | 4:07 |
 | 44 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 |
-| 45 | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC) | 3:27 |
 
-Snapshot ID: `ai3vAAAAAADkvBo5hbe5GNge6BsdkmU2`
+Snapshot ID: `ai9AgAAAAAAvFiBAIiAlgG356IPekKTJ`

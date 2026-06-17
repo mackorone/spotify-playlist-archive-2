@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 73816,
+  "num_followers": 73832,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACN97QFfTh7blmMF120a6q/",
+  "snapshot_id": "ai9AgAAAAACrgZy9Xp3Z/rFJQm+m2D8C",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Un Mal Amor",
-        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 193998,
-      "name": "Por Un Mal Amor",
-      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 202905,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Un Mal Amor",
+        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 193998,
+      "name": "Por Un Mal Amor",
+      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
     },
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Jard\u00edn del Placer",
-        "url": "https://open.spotify.com/album/38bHUIOu8FB5eDLyxFqdsb"
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
         }
       ],
-      "duration_ms": 226013,
-      "name": "El Jard\u00edn del Placer",
-      "url": "https://open.spotify.com/track/675zc522RkFW7lXIJ59mbd"
+      "duration_ms": 284013,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+        "name": "El Jard\u00edn del Placer",
+        "url": "https://open.spotify.com/album/38bHUIOu8FB5eDLyxFqdsb"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
         }
       ],
-      "duration_ms": 284013,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH"
+      "duration_ms": 226013,
+      "name": "El Jard\u00edn del Placer",
+      "url": "https://open.spotify.com/track/675zc522RkFW7lXIJ59mbd"
     },
     {
       "added_at": null,
@@ -762,11 +762,15 @@
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 265062,
-      "name": "Tu Falso Amor",
-      "url": "https://open.spotify.com/track/08p3E2vnwtEgPALD1t9fqu"
+      "duration_ms": 248628,
+      "name": "Amo-Te",
+      "url": "https://open.spotify.com/track/0AabcViZoMbsqugFY9Fo34"
     },
     {
       "added_at": null,
@@ -778,11 +782,15 @@
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ken Basman",
+          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
         }
       ],
-      "duration_ms": 285466,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
+      "duration_ms": 207026,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
     },
     {
       "added_at": null,
@@ -826,15 +834,11 @@
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 248628,
-      "name": "Amo-Te",
-      "url": "https://open.spotify.com/track/0AabcViZoMbsqugFY9Fo34"
+      "duration_ms": 265062,
+      "name": "Tu Falso Amor",
+      "url": "https://open.spotify.com/track/08p3E2vnwtEgPALD1t9fqu"
     },
     {
       "added_at": null,
@@ -846,15 +850,11 @@
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ken Basman",
-          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
         }
       ],
-      "duration_ms": 207026,
-      "name": "El Feo",
-      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
+      "duration_ms": 285466,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frida (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 140493,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
     },
     {
       "added_at": null,

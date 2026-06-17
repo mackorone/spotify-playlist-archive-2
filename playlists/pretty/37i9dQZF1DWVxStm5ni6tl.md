@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: GUS, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,790 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,788 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 9 | [Who Do You Wanna Be](https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Mercy on the Skyline](https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s) | 3:42 |
 | 10 | [easy tiger](https://open.spotify.com/track/3ulNNb7ox9CcwPPi3AqmAc) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [easy tiger](https://open.spotify.com/album/6IovnQ5usg4qD2AHCgO6dN) | 2:48 |
 | 11 | [Hotel Swimming Pool](https://open.spotify.com/track/5LqcqOHr7Mu8KoLsNTCuYd) | [Jia](https://open.spotify.com/artist/68heyqN7ygVGuO0DqJjsDf) | [Technicolour](https://open.spotify.com/album/5J2IzDKKr8p5A9elzedpqn) | 3:58 |
-| 12 | [wildwoman](https://open.spotify.com/track/3nmHojsXc76NvGmpGsNGmi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [wildwoman](https://open.spotify.com/album/7d35YxSTVYHMTOuUlXRWJe) | 3:41 |
+| 12 | [wildwoman](https://open.spotify.com/track/3nmHojsXc76NvGmpGsNGmi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [wildwoman](https://open.spotify.com/album/7d35YxSTVYHMTOuUlXRWJe) | 3:39 |
 | 13 | [No Chances](https://open.spotify.com/track/19jL13xxPLXuG6oP0JG2gm) | [L.Teez](https://open.spotify.com/artist/1EmB5R56dDKiZEapIvJYOL), [Decent](https://open.spotify.com/artist/1nCkrI0lF8amY3c3XYlWru) | [Necessities](https://open.spotify.com/album/1kOtau072NWL7oUJ2uMmAk) | 2:17 |
 | 14 | [STUCK!](https://open.spotify.com/track/4ws19dF3cNR7euM1HcFXaV) | [Drunk Cat](https://open.spotify.com/artist/2i0pGSxAZLh8rVHOl1kVnU) | [STUCK!](https://open.spotify.com/album/7JbeQ8X9x6sFxzP71e76za) | 3:17 |
 | 15 | [indigo](https://open.spotify.com/track/0w24DAqXjdvN5PzY08qiCf) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [indigo](https://open.spotify.com/album/4TsVK04XwNwY0uVr5IP0m4) | 2:33 |

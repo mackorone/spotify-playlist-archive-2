@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20490,
+  "num_followers": 20495,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Tematy i wariacje",
+        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
+      },
+      "artists": [
+        {
+          "name": "Walu\u015bKraksaKryzys",
+          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
+      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/6zlXNLJmQVAJTScGy68ZHN"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 287346,
       "name": "Canon",
       "url": "https://open.spotify.com/track/0PMpVJKmad8FKWtbdeuzDt"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Tematy i wariacje",
-        "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
-      },
-      "artists": [
-        {
-          "name": "Walu\u015bKraksaKryzys",
-          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "VValka o ka\u017cdy kolejny dzie\u0144",
-      "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Czas rozpali\u0107 piec",
-        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
-      },
-      "artists": [
-        {
-          "name": "W\u0142odzimierz Nahorny",
-          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
-        },
-        {
-          "name": "Nula Stankiewicz",
-          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
-        }
-      ],
-      "duration_ms": 250359,
-      "name": "Czas rozpali\u0107 piec",
-      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Budy\u0144 o smaku Mickiewicza",
         "url": "https://open.spotify.com/album/4v1jN87zI3hmMraLsmTAPK"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 701500,
       "name": "\u015awitezianka",
       "url": "https://open.spotify.com/track/0kPDGa8tW4fFPifXwo8F8M"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Czas rozpali\u0107 piec",
+        "url": "https://open.spotify.com/album/5KUnvYAdCfl0TLTyIMzJSR"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odzimierz Nahorny",
+          "url": "https://open.spotify.com/artist/5FyRYKbSP4L7sNE9UtWoSS"
+        },
+        {
+          "name": "Nula Stankiewicz",
+          "url": "https://open.spotify.com/artist/5ZlNdUfmPM28gBb2rdkulS"
+        }
+      ],
+      "duration_ms": 250359,
+      "name": "Czas rozpali\u0107 piec",
+      "url": "https://open.spotify.com/track/4y2okX9U20zbJWZYSaBAE2"
     },
     {
       "added_at": "2026-05-26 09:05:26",

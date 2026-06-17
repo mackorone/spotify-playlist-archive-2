@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 316701,
+  "num_followers": 316706,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Together We Are One, You and I",
         "url": "https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 312413,
       "name": "Born In Early May",
       "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Over The Threshold",
+        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Over The Threshold",
+      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "Always Get This Way",
         "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "Over The Threshold",
-        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Over The Threshold",
-      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
-      },
-      "artists": [
-        {
-          "name": "Honeyglaze",
-          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
-        }
-      ],
-      "duration_ms": 165510,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Self Doubt",
         "url": "https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 174226,
       "name": "Self Doubt",
       "url": "https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "duration_ms": 165510,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
     },
     {
       "added_at": "2024-07-05 22:18:14",

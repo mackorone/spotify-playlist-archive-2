@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,826 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,851 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 5 | [Can't Sit Still](https://open.spotify.com/track/024avm1IHjbHmvpFQyl38J) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Can't Sit Still](https://open.spotify.com/album/4RseAUz5ufSX0SazOe9kfc) | 3:35 |
 | 6 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 |
 | 7 | [Watermelon Moonshine](https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 |
-| 8 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 |
-| 9 | [wait in the truck](https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 4:37 |
+| 8 | [wait in the truck](https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 4:37 |
+| 9 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 |
 | 10 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 |
 | 11 | [Save Me \- with Lainey Wilson](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 12 | [Middle Of It](https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 25 | [Dreamcatcher](https://open.spotify.com/track/6DdG99q2hNKrSHZ7hL6pBt) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 3:24 |
 | 26 | [Hang Tight Honey](https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Hang Tight Honey](https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2) | 3:09 |
 | 27 | [Hold My Halo](https://open.spotify.com/track/29O197ONSFNzq063eb0869) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 |
-| 28 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 |
-| 29 | [Play Something Country \(with Lainey Wilson\)](https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:48 |
+| 28 | [Play Something Country \(with Lainey Wilson\)](https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:48 |
+| 29 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 |
 | 30 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 2:56 |
 | 31 | [Atta Girl](https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 |
 | 32 | [GO HOME W U](https://open.spotify.com/track/4NqRL2Xu4IkpE4D7zWC2M1) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 49 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 |
 | 50 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 |
 
-Snapshot ID: `ai3vAAAAAAB6gRg5jDSlk9gLHzoQupiL`
+Snapshot ID: `ai9AgAAAAACz4H3dH8GcFbRz19nHtI49`

@@ -4,7 +4,7 @@
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 15 min
+70 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Vertigo](https://open.spotify.com/track/41doB53wKeOejTrzWvvUeH) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:31 | 2025-11-03 |  |
 | [While You're Still Young \- From ''Everybody's Talking About Jamie''](https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [The Feeling](https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db) | [While You're Still Young \(From ''Everybody's Talking About Jamie''\)](https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA) | 3:03 | 2025-10-28 |  |
 | [Wild Forever](https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Familia](https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6) | 4:21 | 2025-10-28 |  |
-| [Yes Sir, I Can Boogie](https://open.spotify.com/track/57QfhJgEDYYJkFXPX8KZpm) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:59 | 2025-10-28 |  |
+| [Yes Sir, I Can Boogie](https://open.spotify.com/track/57QfhJgEDYYJkFXPX8KZpm) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:59 | 2025-10-28 | 2026-06-17 |
+| [Yes Sir, I Can Boogie](https://open.spotify.com/track/4feYF1CaZJE8BhHN64MgCe) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [I Won't Change You](https://open.spotify.com/album/3HXjCYksFK6YDBo0noT16X) | 3:59 | 2026-06-17 |  |
 | [Young Blood](https://open.spotify.com/track/26wfj0NDkkO2NIx1jPplPA) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 4:28 | 2025-10-28 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

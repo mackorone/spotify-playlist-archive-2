@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,317 songs - 5 day 16 hr 53 min
+2,318 songs - 5 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Garagem Jam Groove](https://open.spotify.com/track/2XWqHL4JZ9mMP4b9cWVXi1) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 2:58 | 2025-06-16 |  |
 | [Garbage](https://open.spotify.com/track/03Z9Xiu6te6MbMRlICuDGL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly) | 3:28 | 2024-03-04 |  |
 | [Garden Of Eden](https://open.spotify.com/track/04EBNQslSK2Eu5ls4RSqyF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 1:25 | 2026-02-05 |  |
+| [Garden Of Flowers](https://open.spotify.com/track/04kofz7JttcQMzxFZyEuhb) | [Gottxi](https://open.spotify.com/artist/3Zl1jPBV7BkOtPhsk908CO) | [Garden Of Flowers](https://open.spotify.com/album/5ye4ECA6eFPlGqaOXRJcRT) | 3:14 | 2026-06-16 |  |
 | [Gas Mask](https://open.spotify.com/track/6GRqJrOgXBuCA8wUOffUml) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Gas Mask](https://open.spotify.com/album/0ADqdsyZgdIKGTdPFqw1ax) | 3:14 | 2024-03-04 |  |
 | [Gaultier](https://open.spotify.com/track/5vBWbJdN1xKGbVK2QbA1CA) | [Ego Semper](https://open.spotify.com/artist/2cu7ObYlLsf3yTDHDniIiH) | [Gaultier](https://open.spotify.com/album/4sC9W1suc1UrMw76nE2Q65) | 2:26 | 2024-06-05 |  |
 | [Gayatri Dub](https://open.spotify.com/track/62GbdANS3wVk8Lp0gadFDq) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Groove Of Meditation](https://open.spotify.com/album/08YRGkqUUqKxOmijsGj271) | 4:49 | 2024-03-25 |  |

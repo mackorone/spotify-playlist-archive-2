@@ -1,13 +1,45 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1130,
+  "num_followers": 1132,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFWvhruuj4JF+Er3b96eOOve7axfHu",
+  "snapshot_id": "AAAFXNHFoKkPcoq05OjniB386e3y+jLx",
   "tracks": [
+    {
+      "added_at": "2026-06-16 22:17:32",
+      "album": {
+        "name": "venison",
+        "url": "https://open.spotify.com/album/7M1VWXKFDAt3bM8R0kcmEG"
+      },
+      "artists": [
+        {
+          "name": "bit depth",
+          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+        }
+      ],
+      "duration_ms": 229115,
+      "name": "venison",
+      "url": "https://open.spotify.com/track/7FVHg9T2UZRlDpiO0tXHya"
+    },
+    {
+      "added_at": "2026-06-16 22:13:12",
+      "album": {
+        "name": "TAKE IT BACK",
+        "url": "https://open.spotify.com/album/21WLFa7LiQbaWzLJVfLa7t"
+      },
+      "artists": [
+        {
+          "name": "mp3kitty",
+          "url": "https://open.spotify.com/artist/7donvrLTm3BHSLo9QTDoDa"
+        }
+      ],
+      "duration_ms": 162304,
+      "name": "TAKE IT BACK",
+      "url": "https://open.spotify.com/track/72jrhRowS30co5MzdJ4aXy"
+    },
     {
       "added_at": "2026-06-12 08:34:54",
       "album": {

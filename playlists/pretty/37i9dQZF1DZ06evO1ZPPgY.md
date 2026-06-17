@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,087 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,109 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 24 | [Practice What You Preach](https://open.spotify.com/track/6sXG1eN73jcuEcBN3f5W9s) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:58 |
 | 25 | [Heavenly, That's What You Are To Me](https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 5:02 |
 | 26 | [Oh What A Night For Dancing](https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 3:55 |
-| 27 | [Love Makin' Music](https://open.spotify.com/track/07w7uThpms6ei8LrcE4son) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 4:59 |
-| 28 | [I Won't Settle For Less Than The Best \(For You Baby\)](https://open.spotify.com/track/10rAFshE2jcncyB0a6f618) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Beware!](https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw) | 4:21 |
+| 27 | [I Won't Settle For Less Than The Best \(For You Baby\)](https://open.spotify.com/track/10rAFshE2jcncyB0a6f618) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Beware!](https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw) | 4:21 |
+| 28 | [Love Makin' Music](https://open.spotify.com/track/07w7uThpms6ei8LrcE4son) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 4:59 |
 | 29 | [Come On](https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 5:49 |
 | 30 | [Anything You Want Me To](https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 5:44 |
 | 31 | [Oh Love, Well We Finally Made It](https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 3:54 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 45 | [Whatever We Had, We Had](https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Icon Is Love](https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ) | 10:39 |
 | 46 | [Staying Power](https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 6:10 |
 | 47 | [Sha La La Means I Love You](https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 7:32 |
-| 48 | [Girl It's True, Yes I'll Always Love You](https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Stone Gon'](https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR) | 8:40 |
-| 49 | [Put Me In Your Mix \- Single Version](https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Gold](https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa) | 4:30 |
+| 48 | [Put Me In Your Mix \- Single Version](https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Gold](https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa) | 4:30 |
+| 49 | [Girl It's True, Yes I'll Always Love You](https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Stone Gon'](https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR) | 8:40 |
 | 50 | [If You Know, Won't You Tell Me](https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 5:05 |
 
-Snapshot ID: `ai3vAAAAAAD/9K38cK/iVu+RplvroszU`
+Snapshot ID: `ai9AgAAAAACAmZcg0V+ubde146Vy4/8V`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 | 36 | [Cuando El Destino \- En Vivo](https://open.spotify.com/track/2k4QOrC1GMrcHvDhmUxDaw) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:04 |
 | 37 | [Causa Perdida](https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Causa Perdida](https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2) | 3:14 |
 | 38 | [Tengo Miedo \- En Vivo](https://open.spotify.com/track/5ZKuMhwEnR3KZnsi8sacfE) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:33 |
-| 39 | [El Desquite \- Versión Banda En Vivo](https://open.spotify.com/track/1MJNZUII5gFa69fJhmAcyC) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:09 |
+| 39 | [Pa' Todo el Año \- Versión Banda En Vivo](https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:49 |
 | 40 | [Me Convences](https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Me Convences](https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb) | 3:25 |
-| 41 | [Lo de Anoche](https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo de Anoche](https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL) | 3:07 |
-| 42 | [Con Rumbo Al Sur \- En Vivo](https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:55 |
+| 41 | [Te Metiste \- En Vivo](https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu) | [DEL Records](https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Te Metiste \(En Vivo\)](https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm) | 3:18 |
+| 42 | [Leña De Pirul \- En Vivo](https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:16 |
 | 43 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/1ZhEWbMrnxuA5tY2UfIvD0) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Nunca Voy A Olvidarte](https://open.spotify.com/album/29MifvAXK7oL3zBiKfpdMV) | 3:05 |
-| 44 | [Te Metiste \- En Vivo](https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu) | [DEL Records](https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Te Metiste \(En Vivo\)](https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm) | 3:18 |
+| 44 | [Lo de Anoche](https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo de Anoche](https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL) | 3:07 |
 | 45 | [Ya No Recuerdo](https://open.spotify.com/track/2UEXaEG7eV345Pi91OcWOu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Ya No Recuerdo](https://open.spotify.com/album/3heIkc37kxEfruon2P7eiQ) | 3:01 |
-| 46 | [Leña De Pirul \- En Vivo](https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:16 |
+| 46 | [Con Rumbo Al Sur \- En Vivo](https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:55 |
 | 47 | [Un Día 27](https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Un Día 27](https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU) | 3:11 |
 | 48 | [El Adios Ranchero](https://open.spotify.com/track/71Df3vsvIfMwG9zGFVzASo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [El Adios Ranchero](https://open.spotify.com/album/0EK0m5wKph9XDBhW5O307j) | 3:16 |
 | 49 | [Besos de Papel \- En Vivo](https://open.spotify.com/track/6ILt8LHVCRGAhf1HFeZVty) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:26 |
 | 50 | [Corazón De Oropel \- En Vivo](https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 2:41 |
 
-Snapshot ID: `ai3vAAAAAACVN1Qid068otM3HkPhwvzu`
+Snapshot ID: `ai9AgAAAAADotMvONw9U+3FITI8lJvX/`

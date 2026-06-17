@@ -1,6 +1,6 @@
 {
   "description": "for when you're leaning into that bad day feeling",
-  "num_followers": 3938977,
+  "num_followers": 3938820,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "One More Light",
         "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
@@ -535,6 +515,26 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
         "name": "Dancing With Your Ghost",
         "url": "https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Small Town Boy (Track By Track)",
         "url": "https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 185146,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "The Weight of the Woods",
-        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 230418,
-      "name": "Turnstile",
-      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Colour The Small One",
         "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 216560,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "The Weight of the Woods",
+        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 230418,
+      "name": "Turnstile",
+      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Lonely Weekend",
-      "url": "https://open.spotify.com/track/3420nZEhm99I1bLc6Yx4XH"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Lonely Weekend",
+      "url": "https://open.spotify.com/track/3420nZEhm99I1bLc6Yx4XH"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 257483,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
         "name": "Everything Is About You",
         "url": "https://open.spotify.com/album/4W7Hd3QDV9RmuM7Td0GOfI"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 157746,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 257483,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Oceans - EP",
-        "url": "https://open.spotify.com/album/2tnJaZfDk3kqCpDzOTSUFi"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 216186,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/7Cia4WzapwjMr0NUQF8vf3"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Thursday (Acoustic)",
         "url": "https://open.spotify.com/album/3UYjFCtB4NpxheUxiKUnjs"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 241613,
       "name": "Thursday - Acoustic",
       "url": "https://open.spotify.com/track/4pjNeKzXQcoYRdNDgdrwyR"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Oceans - EP",
+        "url": "https://open.spotify.com/album/2tnJaZfDk3kqCpDzOTSUFi"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 216186,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/7Cia4WzapwjMr0NUQF8vf3"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "John's Song",
-        "url": "https://open.spotify.com/album/3NU7iqOGclbHvW86UGdI1i"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rowe",
-          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "John's Song",
-      "url": "https://open.spotify.com/track/0LtyfzUIi656oVoKbc3tqF"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "John's Song",
+        "url": "https://open.spotify.com/album/3NU7iqOGclbHvW86UGdI1i"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "John's Song",
+      "url": "https://open.spotify.com/track/0LtyfzUIi656oVoKbc3tqF"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Echoes Of Love",
-        "url": "https://open.spotify.com/album/6JCU5oaV2HgPTDmh3HSp7N"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 216572,
-      "name": "Echoes Of Love",
-      "url": "https://open.spotify.com/track/4M3ILaJ7MnY8tPoD687ivv"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Pumpkin",
         "url": "https://open.spotify.com/album/1oyQLu3dZxTUaRT7jbuFBx"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 219260,
       "name": "If I Could, I Would Try Again",
       "url": "https://open.spotify.com/track/4S8i56ybCTUu0myPHzligZ"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Echoes Of Love",
+        "url": "https://open.spotify.com/album/6JCU5oaV2HgPTDmh3HSp7N"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 216572,
+      "name": "Echoes Of Love",
+      "url": "https://open.spotify.com/track/4M3ILaJ7MnY8tPoD687ivv"
     }
   ],
   "unique_name": "Life Sucks",

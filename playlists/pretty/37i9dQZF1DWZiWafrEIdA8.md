@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,834 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,843 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 7 | [Summer \(Feat\. BE’O\)](https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Summer](https://open.spotify.com/album/6Ve5QOb2WKKPLYrO7VaNr8) | 3:19 |
 | 8 | [Martini Blue](https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Her](https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR) | 3:15 |
 | 9 | [OHAYO MY NIGHT](https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp) | [OHAYO MY NIGHT](https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8) | 3:58 |
-| 10 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 |
-| 11 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
-| 12 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 |
+| 10 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
+| 11 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 |
+| 12 | [Let's Not Love Each Other](https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 4:02 |
 | 13 | [Text Me](https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Her](https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR) | 2:57 |
-| 14 | [Let's Not Love Each Other](https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 4:02 |
+| 14 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 |
 | 15 | [Nightmare](https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [More ASH](https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD) | 1:55 |
 | 16 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 17 | [Black Heart \(feat\. Leellamarz, BE'O\)](https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Between Sat & Sun](https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio) | 3:55 |

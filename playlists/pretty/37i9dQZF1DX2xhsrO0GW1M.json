@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1046433,
+  "num_followers": 1046247,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Surfer Rosa (Remastered)",
-        "url": "https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI"
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm"
       },
       "artists": [
         {
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 236973,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1"
+      "duration_ms": 201693,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/0cs671lxX2eoDzr2KMuo3N"
     }
   ],
   "unique_name": "Indiespensables",

@@ -6750,7 +6750,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 207931,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
@@ -7658,6 +7658,24 @@
       "duration_ms": 217581,
       "name": "Teacher's Desk",
       "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
+    },
+    {
+      "album": {
+        "name": "Connectors",
+        "url": "https://open.spotify.com/album/0rNBrSecTs04QML7F4P84K"
+      },
+      "artists": [
+        {
+          "name": "Mike Stocksdale",
+          "url": "https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a"
+        }
+      ],
+      "date_added": "2026-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "That Sorta Thing",
+      "url": "https://open.spotify.com/track/4h8BpG0sPKepkIg7cTUV5K"
     },
     {
       "album": {

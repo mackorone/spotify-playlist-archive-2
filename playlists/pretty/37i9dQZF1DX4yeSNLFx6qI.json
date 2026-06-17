@@ -1,6 +1,6 @@
 {
   "description": "sad songs 4 sad days.",
-  "num_followers": 1672597,
+  "num_followers": 1672356,
   "original_name": "canciones tristes que me recuerdan a ti",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-05-29 19:51:10",
       "album": {
-        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
-        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "NADIE M\u00c1S!",
-      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
-    },
-    {
-      "added_at": "2026-05-29 19:51:10",
-      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 231951,
       "name": "amantes y amigos",
       "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
+    },
+    {
+      "added_at": "2026-05-29 19:51:10",
+      "album": {
+        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
+        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "NADIE M\u00c1S!",
+      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
     },
     {
       "added_at": "2026-05-29 19:51:10",

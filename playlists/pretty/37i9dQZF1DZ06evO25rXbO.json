@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1244326,
+  "num_followers": 1244485,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADm0GjdpwNhAu5/RREzndkU",
+  "snapshot_id": "ai9AgAAAAABU5EvNnjwrb40BdfxWT9cj",
   "tracks": [
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 248493,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
+      "duration_ms": 239613,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
     },
     {
       "added_at": null,
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 239613,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
+      "duration_ms": 248493,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
     }
   ],
   "unique_name": "This Is Gorillaz",

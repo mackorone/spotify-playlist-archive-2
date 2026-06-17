@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 26699,
+  "num_followers": 26702,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAD03zKKifKrgvdpYfstQu1R",
+  "snapshot_id": "ai9AgAAAAACaiAnzrLr+tSfNtUSTlud1",
   "tracks": [
     {
       "added_at": null,
@@ -400,21 +400,13 @@
       },
       "artists": [
         {
-          "name": "Norman Gimbel",
-          "url": "https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM"
-        },
-        {
-          "name": "Charles Fox",
-          "url": "https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB"
-        },
-        {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 63372,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
     },
     {
       "added_at": null,
@@ -476,13 +468,21 @@
       },
       "artists": [
         {
+          "name": "Norman Gimbel",
+          "url": "https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM"
+        },
+        {
+          "name": "Charles Fox",
+          "url": "https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB"
+        },
+        {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 201008,
-      "name": "Returning To You",
-      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
+      "duration_ms": 63372,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 237705,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paper Hearts",
         "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 166810,
       "name": "Last Trip Around the Sun",
       "url": "https://open.spotify.com/track/52olPHqdeVypEojzLu24Oj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 237705,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/0KesN9hSEucAYpvwaGMfsb"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 225103,
+      "name": "Closer to Forever",
+      "url": "https://open.spotify.com/track/5rcFpNVeoaVBlPVqgLRsQY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paper Hearts",
-        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 225103,
-      "name": "Closer to Forever",
-      "url": "https://open.spotify.com/track/5rcFpNVeoaVBlPVqgLRsQY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Karma",
         "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
       },
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 202069,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
+      "duration_ms": 234057,
+      "name": "S\u00f6",
+      "url": "https://open.spotify.com/track/71aLNi77h5ACkPX3AjfJhu"
     }
   ],
   "unique_name": "This Is Alexis Ffrench",

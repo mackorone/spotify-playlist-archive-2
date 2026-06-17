@@ -1,13 +1,29 @@
 {
   "description": "Alternative Arabic songs. Cover: Faraj Suleiman",
-  "num_followers": 151757,
+  "num_followers": 151763,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN0VYMCQHgfjWFn2yFVN6RjrAr5O",
+  "snapshot_id": "AAAAAJtyYauo7ejarAEZ6u+zEL+Gdq5W",
   "tracks": [
+    {
+      "added_at": "2026-06-16 14:24:49",
+      "album": {
+        "name": "3ayb Wlo",
+        "url": "https://open.spotify.com/album/72FxbgtdABg9cq3LbQrnTq"
+      },
+      "artists": [
+        {
+          "name": "Joe Ashkar",
+          "url": "https://open.spotify.com/artist/4lQhb7Hptj08WWqSf2za9O"
+        }
+      ],
+      "duration_ms": 114857,
+      "name": "3ayb Wlo",
+      "url": "https://open.spotify.com/track/5fkL85ZqUZipFRkcKYlVlR"
+    },
     {
       "added_at": "2026-05-13 16:34:36",
       "album": {
@@ -39,26 +55,6 @@
       "duration_ms": 203133,
       "name": "Inni Mneeh",
       "url": "https://open.spotify.com/track/5DZqSd5MS5ubyXnc7PIMtR"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "El 3asal",
-        "url": "https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS"
-      },
-      "artists": [
-        {
-          "name": "Donia Wael",
-          "url": "https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1"
-        },
-        {
-          "name": "El Waili",
-          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
-        }
-      ],
-      "duration_ms": 180658,
-      "name": "El 3asal",
-      "url": "https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8"
     },
     {
       "added_at": "2025-12-26 11:37:22",

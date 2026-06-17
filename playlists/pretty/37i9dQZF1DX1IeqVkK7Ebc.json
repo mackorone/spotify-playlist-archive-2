@@ -1,6 +1,6 @@
 {
   "description": "soft and sweet",
-  "num_followers": 368371,
+  "num_followers": 368362,
   "original_name": "Chilled Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-03-06 15:01:33",
       "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2026-03-06 15:01:33",
-      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -343,22 +327,18 @@
     {
       "added_at": "2026-03-06 15:01:33",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
       },
       "artists": [
         {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2026-03-06 15:01:33",
@@ -375,6 +355,26 @@
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "added_at": "2026-03-06 15:01:33",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "added_at": "2026-03-06 15:01:33",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-03-06 15:01:33",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2026-03-06 15:01:33",
-      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "added_at": "2026-03-06 15:01:33",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2026-03-06 15:01:33",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-03-06 15:01:33",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
-    },
-    {
-      "added_at": "2026-03-06 15:01:33",
-      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "added_at": "2026-03-06 15:01:33",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
     },
     {
       "added_at": "2026-03-06 15:01:33",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-03-06 15:01:33",
       "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
-    },
-    {
-      "added_at": "2026-03-06 15:01:33",
-      "album": {
         "name": "Never Gunna Give You Up",
         "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 165315,
       "name": "Never Gunna Give You Up",
       "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+    },
+    {
+      "added_at": "2026-03-06 15:01:33",
+      "album": {
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
       "added_at": "2026-03-06 15:01:33",

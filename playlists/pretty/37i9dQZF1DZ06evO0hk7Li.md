@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,318 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,315 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 12 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
 | 13 | [Celebrate](https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book I](https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v) | 2:40 |
 | 14 | [Monster](https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:53 |
-| 15 | [Love Like This](https://open.spotify.com/track/6DcKXFtws2dtfwfhk15Bqk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 3:30 |
-| 16 | [Slow Up](https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:57 |
+| 15 | [Slow Up](https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:57 |
+| 16 | [Love Like This](https://open.spotify.com/track/6DcKXFtws2dtfwfhk15Bqk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 3:30 |
 | 17 | [By Design \[Evel Knievel\]](https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:46 |
 | 18 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 |
 | 19 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 32 | [Kumbaya \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:01 |
 | 33 | [Love Me](https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4) | [WiDE AWAKE](https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Me](https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA) | 3:15 |
 | 34 | [Moon](https://open.spotify.com/track/7iSmDEMNccANybhTUR1YzK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 1:16 |
-| 35 | [Monster 2.0](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Monster 2.0](https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX) | 3:37 |
-| 36 | [Black N White](https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:38 |
+| 35 | [Black N White](https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:38 |
+| 36 | [Monster 2.0](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Monster 2.0](https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX) | 3:37 |
 | 37 | [Won't Turn Back](https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:00 |
 | 38 | [In The End](https://open.spotify.com/track/2nRYqxhoFrPRJve5h0UMa0) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 3:55 |
 | 39 | [You Might Find Me \(From "Creed II" Soundtrack\)](https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Creed II \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u) | 2:27 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 42 | [Claim To Fame](https://open.spotify.com/track/2oV0vuWcqfUxsXWDHtKiK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 4:46 |
 | 43 | [Something Beautiful](https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:28 |
 | 44 | [Be Good To Me \(feat\. Seinabo Sey\)](https://open.spotify.com/track/7juealXfkel1kLInjvY4W8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:10 |
-| 45 | [Remember](https://open.spotify.com/track/78sjOk4yDMFShsoFzy3ctJ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [I'm A Dream](https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi) | 4:19 |
+| 45 | [Coming Through \[Big up Yaself\]](https://open.spotify.com/track/1CoHERmQGn5eddSYmVwIkN) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 1:28 |
 | 46 | [My Day Will Come](https://open.spotify.com/track/4gbi2i68cvI8zPDGczoBro) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 3:16 |
-| 47 | [Silver Lining](https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 4:36 |
-| 48 | [Coming Through \[Big up Yaself\]](https://open.spotify.com/track/1CoHERmQGn5eddSYmVwIkN) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 1:28 |
+| 47 | [Remember](https://open.spotify.com/track/78sjOk4yDMFShsoFzy3ctJ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [I'm A Dream](https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi) | 4:19 |
+| 48 | [Silver Lining](https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 4:36 |
 | 49 | [Dear Simone](https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:54 |
 | 50 | [Mexico](https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:40 |
 
-Snapshot ID: `ai3vAAAAAADHVCKM4kDdTsEDKQNZkuQ4`
+Snapshot ID: `ai9AgAAAAACeYkr2KyNmYP3FYYQ92iih`

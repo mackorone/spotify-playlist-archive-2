@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,373 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,374 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 19 | [Hush – Spotify Singles](https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:36 |
 | 20 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
 | 21 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
-| 22 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
-| 23 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
+| 22 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
+| 23 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 |
 | 24 | [bad guy \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66wi6NRfwsula1n68bJEod) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 2:47 |
 | 25 | [Imitadora \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/06g7bHpp4Oo4whcQqcbfFK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:34 |
 | 26 | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL) | 2:22 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 64 | [Bestia Pequeña \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 3:01 |
 | 65 | [i don't think i love you anymore \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 4:12 |
 | 66 | [Lizard \(Alternate Universe\) \- Spotify Singles](https://open.spotify.com/track/1CGKhnXxoyXZa2PLQdYW1X) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 2:51 |
-| 67 | [More Than Words](https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp) | 3:34 |
-| 68 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 |
+| 67 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 |
+| 68 | [More Than Words](https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp) | 3:34 |
 | 69 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 |
 | 70 | [Alemania \- Spotify Singles \(Blackpaw Remix\)](https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [BLACKPAW](https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 4:10 |
 

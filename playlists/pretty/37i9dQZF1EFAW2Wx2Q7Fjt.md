@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,624 likes - 232 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,630 likes - 232 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 81 | [TRYING ON SHOES](https://open.spotify.com/track/7AxXJXqJOMRqkgZxvG3r6E) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 3:02 |
 | 82 | [Damn Near Normal](https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:44 |
 | 83 | [Nostalgia](https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:03 |
-| 84 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
-| 85 | [Dashboard](https://open.spotify.com/track/6rlU0kRQNjMZ7t5I92yCIi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 |
+| 84 | [Dashboard](https://open.spotify.com/track/6rlU0kRQNjMZ7t5I92yCIi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 |
+| 85 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 |
 | 86 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
 | 87 | [If You're Gonna Lie](https://open.spotify.com/track/0mPTZjG5PElXTUIxj1nqgp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:23 |
 | 88 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 141 | [Divide](https://open.spotify.com/track/56gDMsPfzD6UNG318InjIU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:23 |
 | 142 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
 | 143 | [If You Love Me](https://open.spotify.com/track/4Mqlo3nYpi7HLhR6PR4nsd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:11 |
-| 144 | [House For Kings](https://open.spotify.com/track/6QRAlsFtttb7unrCz6zCNg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 3:20 |
-| 145 | [With Your Love](https://open.spotify.com/track/2HCQ2CgoxWGYr4aB8n1hxo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:02 |
+| 144 | [With Your Love](https://open.spotify.com/track/2HCQ2CgoxWGYr4aB8n1hxo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:02 |
+| 145 | [House For Kings](https://open.spotify.com/track/6QRAlsFtttb7unrCz6zCNg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 3:20 |
 | 146 | [Real Life Stuff \(feat\. Julia Michaels & Clever\)](https://open.spotify.com/track/7bzITVONB47YcJIwLbpBGP) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 3:13 |
 | 147 | [Liar \(feat\. Fireboy DML\)](https://open.spotify.com/track/5DIkmpzdunkmEo8yNukpJG) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:26 |
 | 148 | [In Between](https://open.spotify.com/track/34DIs8VG5CBKkOVSppTV6a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 1:57 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 154 | [Lucky Charms](https://open.spotify.com/track/1Cwg5W2pW4aDvgUnb0PAvL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 3:10 |
 | 155 | [Imagination](https://open.spotify.com/track/3hKp94BXUs5r7xBF3lEkhP) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:16 |
 | 156 | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/track/1uP3EFUgPrvaIRfA9yepA6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chrome Cowgirl \(From Twisters: The Album\)](https://open.spotify.com/album/0Mij9SmUrhfN45IFiNUXWZ) | 2:28 |
-| 157 | [Open Wide](https://open.spotify.com/track/4QLfSJt10WMCsIHwOmbe1K) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:48 |
-| 158 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 |
+| 157 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 |
+| 158 | [Open Wide](https://open.spotify.com/track/4QLfSJt10WMCsIHwOmbe1K) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:48 |
 | 159 | [Thrill of the Chase \(feat\. R.I.Pablo\)](https://open.spotify.com/track/5iIGjnYdSOa1K0EcFTTxqk) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 3:18 |
 | 160 | [Sex & cigarettes](https://open.spotify.com/track/4bJM6SNVyvzgcJR0f5QtYo) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:05 |
 | 161 | [Leigh](https://open.spotify.com/track/7vqomJv75Sp17yEm3puTlv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:22 |
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 231 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 232 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `AcUUegAAAACddi34nkwjUUOyAU4zolzp`
+Snapshot ID: `AcUaEAAAAAA3BjHtQ4YBvUnxFMd+DnJ7`

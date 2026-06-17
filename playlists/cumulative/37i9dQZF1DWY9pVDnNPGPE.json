@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 170533,
       "name": "17",
       "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 223163,
       "name": "A Rain of Petals",
       "url": "https://open.spotify.com/track/0bjY1AC7Dg0dY08XwIqaTD"
@@ -1114,6 +1114,24 @@
       "duration_ms": 205693,
       "name": "How Do You Think",
       "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
+    },
+    {
+      "album": {
+        "name": "NORU",
+        "url": "https://open.spotify.com/album/3Ljrer8F77zmYbX0vBhGWr"
+      },
+      "artists": [
+        {
+          "name": "SANG HA",
+          "url": "https://open.spotify.com/artist/5h7uYIa41cdONFy8pmu5Wm"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145386,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/69wWda5gkkfas0dK4VxBIE"
     },
     {
       "album": {
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 226705,
       "name": "The Prologue - Spring ver.",
       "url": "https://open.spotify.com/track/6yuFTKQNi4aUheae4f90sb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,230 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,239 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 9 | [New Year's Day](https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 4:17 |
 | 10 | [Mysterious Ways](https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:03 |
 | 11 | [One](https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Breakthrough](https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV) | 4:20 |
-| 12 | [Every Breaking Wave](https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:12 |
-| 13 | [Vertigo](https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:13 |
+| 12 | [Vertigo](https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:13 |
+| 13 | [Every Breaking Wave](https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:12 |
 | 14 | [Stay \(Faraway, So Close!\)](https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:58 |
 | 15 | [All I Want Is You](https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 6:29 |
 | 16 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 18 | [Walk On](https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:56 |
 | 19 | [Desire](https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 2:59 |
 | 20 | [City Of Blinding Lights](https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:45 |
-| 21 | [Song For Hal](https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:38 |
-| 22 | [XXX\. FEAT\. U2.](https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:14 |
+| 21 | [XXX\. FEAT\. U2.](https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:14 |
+| 22 | [Song For Hal](https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:38 |
 | 23 | [Elevation](https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:46 |
 | 24 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 |
 | 25 | [Bad \- Edit](https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 5:49 |
 | 26 | [Take Me To The Clouds Above \- LMC Vs\. U2 / Radio Edit](https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM) | [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Take Me To The Clouds Above \(LMC Vs\. U2 / Remixes\)](https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC) | 2:51 |
 | 27 | [When Love Comes To Town](https://open.spotify.com/track/2cpUudtTX7OU6DcoNTuxwB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 4:14 |
-| 28 | [Scars](https://open.spotify.com/track/5zAoWUlW6Te34M8n8d3VTy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 5:17 |
-| 29 | [Ordinary Love \- Extraordinary Mix](https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:47 |
+| 28 | [Ordinary Love \- Extraordinary Mix](https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:47 |
+| 29 | [Scars](https://open.spotify.com/track/5zAoWUlW6Te34M8n8d3VTy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 5:17 |
 | 30 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 |
 | 31 | [Ultra Violet \(Light My Way\)](https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:30 |
 | 32 | [In A Little While](https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:40 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 38 | [The Unforgettable Fire \- Remastered 2009](https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 4:54 |
 | 39 | [Running To Stand Still \- Remastered 2007](https://open.spotify.com/track/741AUHHkjuWe9wSNIhmApn) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:17 |
 | 40 | [Song For Someone](https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 3:46 |
-| 41 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 |
+| 41 | [So Cruel](https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:49 |
 | 42 | [Staring At The Sun](https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 4:36 |
 | 43 | [Red Hill Mining Town \- Remastered 2007](https://open.spotify.com/track/4gE5Z3sOcWYyR0SezjvAj5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:52 |
 | 44 | [Magnificent](https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 5:24 |
-| 45 | [So Cruel](https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:49 |
+| 45 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 |
 | 46 | [Kite](https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:24 |
 | 47 | [Easter Parade](https://open.spotify.com/track/2o0wVUgsiIhd3NJG1r5r3V) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 6:08 |
 | 48 | [Lemon](https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 6:56 |
 | 49 | [One Tree Hill \- Remastered 2007](https://open.spotify.com/track/7JFMf61pdg8H8NEMgxdHYx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:22 |
 | 50 | [One Life At A Time](https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 4:03 |
 
-Snapshot ID: `ai3vAAAAAAB6GxIfId7Bu3K9/YMXRiWV`
+Snapshot ID: `ai9AgAAAAAALBSeaznECfiumv+unjILB`

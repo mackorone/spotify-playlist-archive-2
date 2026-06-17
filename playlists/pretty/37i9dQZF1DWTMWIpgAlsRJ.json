@@ -1,6 +1,6 @@
 {
   "description": "The Ultimate EA SPORTS FC USA Playlist: bringing together the sounds of the USA in celebration of The World's Game. Curated specially for you.",
-  "num_followers": 395037,
+  "num_followers": 395024,
   "original_name": "EA SPORTS FC Ultimate Mix: USA",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-06-12 10:00:24",
       "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 164188,
+      "name": "Bury Me Alive",
+      "url": "https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ"
+    },
+    {
+      "added_at": "2026-06-12 10:00:24",
+      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -851,26 +867,6 @@
       "duration_ms": 148690,
       "name": "Worms",
       "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
-    },
-    {
-      "added_at": "2026-06-12 10:00:24",
-      "album": {
-        "name": "Did It First (with Central Cee)",
-        "url": "https://open.spotify.com/album/7f1uY6RHAj9voSkbPyMlFm"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 118002,
-      "name": "Did It First (with Central Cee)",
-      "url": "https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC"
     }
   ],
   "unique_name": "EA SPORTS FC Ultimate Mix: USA",

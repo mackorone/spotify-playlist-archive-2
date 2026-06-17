@@ -1,13 +1,229 @@
 {
   "description": "Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock. ",
-  "num_followers": 151777,
+  "num_followers": 153514,
   "original_name": "Love Island USA Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADeVcPQhRdw33Bgo6tz67gwu0yHN",
+  "snapshot_id": "AAAAACEXO0HCTT3NZsXS9+c5vYDXh+51",
   "tracks": [
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5KzbB8wIcAE89hpImzmJ29"
+      },
+      "artists": [
+        {
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+        }
+      ],
+      "duration_ms": 141129,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/3hDpBhXBx1Q02xTVUuHcTz"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Hello My Old Lover",
+        "url": "https://open.spotify.com/album/576OBHrTMTv0uNbSrCZQHp"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 189563,
+      "name": "Hello My Old Lover",
+      "url": "https://open.spotify.com/track/2ZMetkVW6HlEE5T0Paei2Z"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Ruminations",
+        "url": "https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P"
+      },
+      "artists": [
+        {
+          "name": "Boundary Run",
+          "url": "https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8"
+        }
+      ],
+      "duration_ms": 221817,
+      "name": "Make It Out",
+      "url": "https://open.spotify.com/track/3CHFQauBPBcIqFyL3kqA4y"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "biting my tongue",
+        "url": "https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        },
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "close to you",
+      "url": "https://open.spotify.com/track/4Jj8KALu64ET2XaXlqWe6F"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/4tRaD2svaE1dmdh0HlGguo"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        },
+        {
+          "name": "DANIEL SAINT BLACK",
+          "url": "https://open.spotify.com/artist/6BcKS2QML7xQKdB61anBsL"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/0bmxNfJqijr6aazA1Z45Zz"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6yG0gPtUFV5wZ8pVrfLkTS"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 189411,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6FHCQFMUasX42XxVfl4WLu"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Addicted to Love [From \"Tell Me Lies (Season 3)\"]",
+        "url": "https://open.spotify.com/album/5obq7XI9DoZRevqIACrjoe"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 185381,
+      "name": "Addicted to Love - From \"Tell Me Lies (Season 3)\"",
+      "url": "https://open.spotify.com/track/5DeYkAfWWVLyD7vZbN2I7I"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Love and War",
+        "url": "https://open.spotify.com/album/5pt1GAcmsDuMUXgelOQYXA"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 314984,
+      "name": "Love and War",
+      "url": "https://open.spotify.com/track/5miRcNaII78yJMucHKulkD"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/7kG3DPhoPsltuT0vxENI6E"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/01uvUQQX7kHhylGcUxviGD"
+      },
+      "artists": [
+        {
+          "name": "Maggie Szabo",
+          "url": "https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48"
+        }
+      ],
+      "duration_ms": 181285,
+      "name": "Uh Oh",
+      "url": "https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd"
+    },
+    {
+      "added_at": "2026-06-17 02:00:14",
+      "album": {
+        "name": "Comedy",
+        "url": "https://open.spotify.com/album/54NZGV6GQU9tzhkNM5uRjZ"
+      },
+      "artists": [
+        {
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
+        }
+      ],
+      "duration_ms": 182110,
+      "name": "I've Been Waiting For You",
+      "url": "https://open.spotify.com/track/1Fv4PQkr3IiOEwXnYIq6fo"
+    },
     {
       "added_at": "2026-06-16 02:00:26",
       "album": {

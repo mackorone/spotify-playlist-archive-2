@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Vera Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,464 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,458 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 2 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 3 | [Rituals](https://open.spotify.com/track/5DgyQ6b7OnqD7LqN6zEy7a) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rituals](https://open.spotify.com/album/0H3fYvMsYfLI6z3vy8sP7g) | 2:29 |
 | 4 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
-| 5 | [Faking Smiles](https://open.spotify.com/track/7yfJ34THmquy71A2IxeyY3) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/629eH4awjJsZ7bjDNt5lLL) | 3:04 |
+| 5 | [Faking Smiles](https://open.spotify.com/track/7yfJ34THmquy71A2IxeyY3) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming \(Deluxe\)](https://open.spotify.com/album/629eH4awjJsZ7bjDNt5lLL) | 3:04 |
 | 6 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
 | 7 | [Isn't It Funny](https://open.spotify.com/track/0Dxd99miFFNrWsLpCkDUnX) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Isn't It Funny](https://open.spotify.com/album/6MSX4yLBOPQGTgrw0AqgB8) | 3:41 |
 | 8 | [First Born Daughter](https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [First Born Daughter](https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J) | 3:45 |

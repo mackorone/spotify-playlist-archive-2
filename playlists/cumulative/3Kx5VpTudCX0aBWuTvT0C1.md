@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-158 songs - 9 hr 11 min
+159 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Sorrow](https://open.spotify.com/track/03WwAoY5g9cuENQZ8STzXn) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Steel Birds Scream](https://open.spotify.com/album/5W6X8kOGx698haoq3iR8yO) | 4:35 | 2025-10-27 | 2025-12-09 |
 | [Sound of Light](https://open.spotify.com/track/71gkWgNLSZ5uDbS7M4C1nU) | [Regaid](https://open.spotify.com/artist/7rNlzcc9g3TcoHqMHfuFf3) | [ASCEND](https://open.spotify.com/album/3hTGLxsQvFuDnOgR6T47LT) | 2:26 | 2025-11-09 | 2025-12-09 |
 | [Spotkamy Się](https://open.spotify.com/track/0o8WYe52SJCuH6AJXfaqfl) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [Spotkamy Się](https://open.spotify.com/album/4XLheMiPz8YUwEL9Q1TXnG) | 6:34 | 2026-03-06 |  |
+| [Stand Up & Be Counted](https://open.spotify.com/track/1PQ0PlBi5kLbr5KwWgSQTL) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Stand Up & Be Counted](https://open.spotify.com/album/1Yq6WXlcFcTgksdh0UP9Ig) | 4:42 | 2026-06-16 |  |
 | [Stop Bugging Me](https://open.spotify.com/track/6vB5GtdaVnKxI9oKLSJp1I) | [A&A Music](https://open.spotify.com/artist/44JpteVluI2YY0TpZw3E2a) | [Stop Bugging Me](https://open.spotify.com/album/1cvkR5d7O9u6exG68IQjwi) | 2:54 | 2026-06-13 |  |
 | [Stuck](https://open.spotify.com/track/4oCcsKI1Ju2gBR3HrSMqIR) | [3Towns](https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9) | [11 Miles from Everywhere](https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We) | 4:01 | 2025-11-11 | 2026-03-15 |
 | [Sword And Shield](https://open.spotify.com/track/2R71lylNwv67mmPBwjTCYS) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Sword And Shield](https://open.spotify.com/album/7GIM4hfDcnStwIdShQnNym) | 3:26 | 2025-11-11 | 2026-03-15 |

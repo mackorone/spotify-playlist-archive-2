@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,471,498 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,471,592 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 17 | [Don't Start Now](https://open.spotify.com/track/2dIL35obnWkkaMcTqTZUIe) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Don't Start Now](https://open.spotify.com/album/4R3pHbMmVbzremPQBw5FQ9) | 2:52 |
 | 18 | [APT.](https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs) | [SƎLFISH](https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP) | [APT.](https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7) | 2:12 |
 | 19 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
-| 20 | [Never Forget You](https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Never Forget You](https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors) | 3:11 |
-| 21 | [Girls Just Want to Have Fun](https://open.spotify.com/track/6CEzzw32qK4EqmmdFXaGEv) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Girls Just Want to Have Fun](https://open.spotify.com/album/0ANpeLpdSK3wVjIt8nJgI4) | 2:53 |
+| 20 | [Girls Just Want to Have Fun](https://open.spotify.com/track/6CEzzw32qK4EqmmdFXaGEv) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Girls Just Want to Have Fun](https://open.spotify.com/album/0ANpeLpdSK3wVjIt8nJgI4) | 2:53 |
+| 21 | [Never Forget You](https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Never Forget You](https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors) | 3:11 |
 | 22 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
 | 23 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
 | 24 | [Azizam](https://open.spotify.com/track/4Ut1VfHTAInGyjdzX3gDqZ) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Azizam](https://open.spotify.com/album/2EewwLUoTMjlBxexUZzUCm) | 2:27 |
-| 25 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |
-| 26 | [Young Folks](https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Young Folks](https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT) | 3:34 |
+| 25 | [Young Folks](https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Young Folks](https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT) | 3:34 |
+| 26 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |
 | 27 | [Manchild](https://open.spotify.com/track/336eGxP8vyMyfU8gDPhf6c) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Manchild](https://open.spotify.com/album/608G8jyLGprAIfZK8YEbQF) | 3:25 |
 | 28 | [Crazy](https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Crazy](https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp) | 3:23 |
 | 29 | [BLACKBIRD](https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [BLACKBIRD](https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW) | 2:08 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 45 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
 | 46 | [Jealous \(Acoustic\)](https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Jealous \(Acoustic\)](https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg) | 3:31 |
 | 47 | [Without You](https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Without You](https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6) | 2:43 |
-| 48 | [Cupid](https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav) | [seaiiana](https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps) | [Cupid](https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E) | 3:01 |
-| 49 | [Flowers](https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Flowers](https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh) | 3:34 |
+| 48 | [Flowers](https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Flowers](https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh) | 3:34 |
+| 49 | [Cupid](https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav) | [seaiiana](https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps) | [Cupid](https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E) | 3:01 |
 | 50 | [Love Song](https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Love Song](https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn) | 3:31 |
 
 Snapshot ID: `AAAAAHrVFK90gT0WxfiMuhzP/KvSdIs9`

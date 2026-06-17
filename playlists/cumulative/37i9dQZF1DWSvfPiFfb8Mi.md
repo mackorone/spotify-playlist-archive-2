@@ -4,13 +4,14 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-442 songs - 1 day 4 hr 36 min
+443 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19 \- Josh Butler Remix](https://open.spotify.com/track/5GiM1m00X51F9MpREgqy23) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [19](https://open.spotify.com/album/1ZUfDvXGzk8AQCrZl1g5Dv) | 3:06 | 2021-07-24 | 2024-06-17 |
 | [1995](https://open.spotify.com/track/17w2wuWpKr9iTr6cH2AFlT) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [1995](https://open.spotify.com/album/0aFwFwf7V1cXqefElALhJu) | 3:04 | 2023-07-07 | 2023-07-22 |
 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 | 2024-09-27 | 2025-01-13 |
+| [360 \(feat\. Barny Fletcher\)](https://open.spotify.com/track/6gkNv760hq2dU4CXJghAPL) | [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg), [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [360 \(feat\. Barny Fletcher\)](https://open.spotify.com/album/19jSmzCS2rwyXKQuSD6EQw) | 3:14 | 2026-05-22 |  |
 | [<3 beat](https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [comic relief](https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou) | 3:17 | 2023-12-15 | 2025-03-21 |
 | [Aboutchu](https://open.spotify.com/track/7bttLEX8382hapywl6M2JJ) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Aboutchu](https://open.spotify.com/album/1yJH7iGpEeE2F5QxBTYo4s) | 2:52 | 2023-05-19 | 2023-07-23 |
 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2023-05-19 | 2024-04-19 |
@@ -145,7 +146,7 @@
 | [girlgetdown](https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [girlgetdown](https://open.spotify.com/album/44N3y65SMG5JBz3WC4uUQV) | 2:07 | 2024-05-31 | 2024-08-19 |
 | [Give You Up](https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy) | [Bantum](https://open.spotify.com/artist/3PcfymOgMHBSp3T5YvSDiS) | [New Leaf](https://open.spotify.com/album/1pFGvzLqXa50s6svabO6Wv) | 4:43 | 2021-07-24 | 2023-06-10 |
 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2023-05-19 | 2025-06-28 |
-| [Golden](https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Golden](https://open.spotify.com/album/5M2gAdU3TtwlDucUL7YFQf) | 2:45 | 2026-04-17 |  |
+| [Golden](https://open.spotify.com/track/73ob1BOoxobzYqlnwSVmJv) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Golden](https://open.spotify.com/album/5M2gAdU3TtwlDucUL7YFQf) | 2:45 | 2026-04-17 | 2026-06-17 |
 | [Golden Hour](https://open.spotify.com/track/1Mwukx2jPsPsurJRN9fRYn) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Golden Hour](https://open.spotify.com/album/7925ysUpNzHNZ1ixyBrq3Y) | 3:02 | 2025-07-25 | 2025-08-12 |
 | [Golden Hour](https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Golden Hour](https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O) | 2:20 | 2025-04-11 |  |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2026-02-02 |

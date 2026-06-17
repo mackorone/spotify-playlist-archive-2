@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 365963,
+  "num_followers": 366069,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAC4VOlxoYhfDuZJFHr4Xaz3",
+  "snapshot_id": "ai9AgAAAAABhY/WStLRbMuDT8jTp5BOU",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CCC (Remix)",
-        "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
+        "name": "MONEY EDITION",
+        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
       },
       "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         },
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 147877,
-      "name": "CCC - Remix",
-      "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
+      "duration_ms": 158841,
+      "name": "MONEY EDITION",
+      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
     },
     {
       "added_at": null,
@@ -427,22 +423,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONEY EDITION",
-        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
+        "name": "CCC (Remix)",
+        "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
       "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 158841,
-      "name": "MONEY EDITION",
-      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
+      "duration_ms": 147877,
+      "name": "CCC - Remix",
+      "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
     },
     {
       "added_at": null,

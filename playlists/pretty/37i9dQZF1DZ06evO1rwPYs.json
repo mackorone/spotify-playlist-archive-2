@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107578,
+  "num_followers": 107581,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABWWv1S2/4qRRc8MTuksDIG",
+  "snapshot_id": "ai9AgAAAAAATK8DxfN1UsflB1XF2t6G/",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irrepetible",
-        "url": "https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "Que Le Den Candela",
-      "url": "https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regalo Del Alma",
         "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 271440,
       "name": "Yo Vivir\u00e9 - I Will Survive",
       "url": "https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irrepetible",
+        "url": "https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "Que Le Den Candela",
+      "url": "https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6"
     },
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celia & Johnny (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 342264,
+      "name": "Toro Mata - Remastered 2024",
+      "url": "https://open.spotify.com/track/07MGXxzTNfeJzZMn2OFhWX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Celia",
         "url": "https://open.spotify.com/album/04lprwOrXhIWzq0vke1e3s"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 308333,
       "name": "A Celia",
       "url": "https://open.spotify.com/track/0bEH8Y8HP9jgptsQ062Jw4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celia & Johnny (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 342264,
-      "name": "Toro Mata - Remastered 2024",
-      "url": "https://open.spotify.com/track/07MGXxzTNfeJzZMn2OFhWX"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuba's Queen Of Rhythm",
-        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Pa La Paloma",
-      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Pa La Paloma",
+      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuba's Queen Of Rhythm",
-        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "Tuya, Y M\u00e1s Que Tuya",
-      "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tremendo Trio! (Remastered 2024)",
         "url": "https://open.spotify.com/album/0p4q1T1q8BOJeWpTbjPK9d"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 346144,
       "name": "Nadie Se Salva de la Rumba - Remastered 2024",
       "url": "https://open.spotify.com/track/5mL4kLnUGSWARxafTkocHM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Tuya, Y M\u00e1s Que Tuya",
+      "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuba's Queen Of Rhythm",
-        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "Y Mi Negro Esta Cansao",
-      "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Espa\u00f1a",
         "url": "https://open.spotify.com/album/7L1kk0NoH0rJR7ucNhhet8"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 217478,
       "name": "Sabor Gitano",
       "url": "https://open.spotify.com/track/6Pf8k23JUFjnLk6oBiv14o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 159266,
+      "name": "Y Mi Negro Esta Cansao",
+      "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
     },
     {
       "added_at": null,

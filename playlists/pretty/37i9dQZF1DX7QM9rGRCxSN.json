@@ -1,6 +1,6 @@
 {
   "description": "Tristeza latina ",
-  "num_followers": 38843,
+  "num_followers": 38846,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Y Si un D\u00eda Explota el Planeta Quiero Tenerte Cerca",
-        "url": "https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "El Club Internacional de Astronautas Fracasados",
-      "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "S / T",
         "url": "https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 108000,
       "name": "Mata a Tus \u00cddolos",
       "url": "https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Y Si un D\u00eda Explota el Planeta Quiero Tenerte Cerca",
+        "url": "https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "El Club Internacional de Astronautas Fracasados",
+      "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Est\u00e1 Nublado y Tengo Calor",
-        "url": "https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 185693,
-      "name": "Est\u00e1 Nublado y Tengo Calor",
-      "url": "https://open.spotify.com/track/788chCGIQr4PgMByHndKyH"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "pasan los d\u00edas",
         "url": "https://open.spotify.com/album/4JEbDeeXUEQ97zkDFGcQLK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 164007,
       "name": "pasan los d\u00edas",
       "url": "https://open.spotify.com/track/0gndtLhT5ExWIKmRJo6TUx"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Est\u00e1 Nublado y Tengo Calor",
+        "url": "https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "Est\u00e1 Nublado y Tengo Calor",
+      "url": "https://open.spotify.com/track/788chCGIQr4PgMByHndKyH"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Golden Boy",
-        "url": "https://open.spotify.com/album/4eqQmv2QmIfFjqG7c3mAts"
-      },
-      "artists": [
-        {
-          "name": "Entrelobos",
-          "url": "https://open.spotify.com/artist/48DFXshrt8ll6PfYaOcoCJ"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Harakiri Shogun Pt.2",
-      "url": "https://open.spotify.com/track/0Gv2BKKQDks4D0OWCptU53"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Tornado de Acu\u00f1a",
         "url": "https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 162272,
       "name": "Tornado de Acu\u00f1a",
       "url": "https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Golden Boy",
+        "url": "https://open.spotify.com/album/4eqQmv2QmIfFjqG7c3mAts"
+      },
+      "artists": [
+        {
+          "name": "Entrelobos",
+          "url": "https://open.spotify.com/artist/48DFXshrt8ll6PfYaOcoCJ"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Harakiri Shogun Pt.2",
+      "url": "https://open.spotify.com/track/0Gv2BKKQDks4D0OWCptU53"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Nimio",
-        "url": "https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm"
-      },
-      "artists": [
-        {
-          "name": "Diente de Oro",
-          "url": "https://open.spotify.com/artist/6o7Yqv4imhW4Jz4Y1v20YM"
-        }
-      ],
-      "duration_ms": 218016,
-      "name": "24:00",
-      "url": "https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "De Entrop\u00eda",
         "url": "https://open.spotify.com/album/0ZSPDZ8pneDzOdzn1Zbnhg"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 116469,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/08vKDopMoW4BHOrGbdWPez"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Nimio",
+        "url": "https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm"
+      },
+      "artists": [
+        {
+          "name": "Diente de Oro",
+          "url": "https://open.spotify.com/artist/6o7Yqv4imhW4Jz4Y1v20YM"
+        }
+      ],
+      "duration_ms": 218016,
+      "name": "24:00",
+      "url": "https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW"
     },
     {
       "added_at": "2026-06-12 06:00:36",

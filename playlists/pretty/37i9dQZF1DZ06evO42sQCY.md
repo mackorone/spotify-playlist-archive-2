@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42sQCY.md) - [plain]
 
 > This is Ivan Cornejo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,712 likes - 32 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,752 likes - 32 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42sQCY.md) - [plain]
 | 31 | [Corazón Frio](https://open.spotify.com/track/3a0EjZTzCLx1ztmtaZb9Cp) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:43 |
 | 32 | [El de Houston](https://open.spotify.com/track/2od37hueHLJHA4VQ61TyM4) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [El de Houston](https://open.spotify.com/album/2yEQMdQs3nB1hBbQBUNEJ5) | 3:02 |
 
-Snapshot ID: `ai3vAAAAAACgC1jh9xMi14L1gZGNA0bU`
+Snapshot ID: `ai9AgAAAAADAZlteu7dlzuE2d6pq7ZsX`

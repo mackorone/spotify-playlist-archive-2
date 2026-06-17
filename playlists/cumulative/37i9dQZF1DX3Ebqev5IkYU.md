@@ -4,7 +4,7 @@
 
 > ➡️ ➡️ ➡️ gute Laune.
 
-295 songs - 14 hr 28 min
+296 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2026-04-14 |  |
 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 | 2024-03-27 | 2025-03-17 |
 | [Beep \(with Devault\)](https://open.spotify.com/track/5hl2EBmQmkQSWpz5CjUC7L) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [PCD Forever \(Deluxe Edition\)](https://open.spotify.com/album/0daVaRmU8Esg7G0eJFPvYJ) | 2:27 | 2026-05-07 | 2026-05-15 |
-| [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 | 2024-10-18 |  |
+| [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 | 2024-10-18 | 2026-06-17 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2023-07-21 |  |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-27 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/0Dho96aJIZ5LJZXyPllbWA) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/08QA1LIBYfgH1j3yfnjY1O) | 3:14 | 2025-02-27 |  |
@@ -134,6 +134,7 @@
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-11-20 | 2026-05-08 |
 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2023-07-21 |  |
 | [Green Green Grass](https://open.spotify.com/track/6UbM3KyXtvfZr06ixZhea1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid \(Christmas Edition\)](https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0) | 2:47 | 2023-12-11 | 2024-01-04 |
+| [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 3:08 | 2026-06-11 |  |
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-10-20 | 2023-12-12 |
 | [Hast du kurz Zeit](https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Hast du kurz Zeit](https://open.spotify.com/album/3zzgES6xGTbJag6mGUxbpJ) | 2:13 | 2025-09-25 | 2026-01-15 |
 | [Hausparty](https://open.spotify.com/track/0L1e4NytVRR42Ip0KPVgdv) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Hausparty](https://open.spotify.com/album/6J9lyophqMTIt6jkrQZ70D) | 2:31 | 2025-08-06 | 2026-02-06 |

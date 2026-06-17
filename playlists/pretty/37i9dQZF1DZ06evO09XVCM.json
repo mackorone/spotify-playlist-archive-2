@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 35249,
+  "num_followers": 35253,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAA7SDxyQGcK4EvoVHRem2Xn",
+  "snapshot_id": "ai9AgAAAAABdysA3LzQA7mGbx91o3wlN",
   "tracks": [
     {
       "added_at": null,
@@ -439,42 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jake & Friends",
-        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 149306,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 306002,
-      "name": "One Love/People Get Ready - Live",
-      "url": "https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
       },
@@ -495,6 +459,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 306002,
+      "name": "One Love/People Get Ready - Live",
+      "url": "https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 149306,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ziggy Marley",
         "url": "https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI"
       },
@@ -507,46 +507,6 @@
       "duration_ms": 267306,
       "name": "Weekend's Long",
       "url": "https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
-        {
-          "name": "Sheila E.",
-          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
-        }
-      ],
-      "duration_ms": 307078,
-      "name": "Why Let The World",
-      "url": "https://open.spotify.com/track/4FAOedBCvRH9eWNLF6a6fd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 343995,
-      "name": "War - Live",
-      "url": "https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn"
     },
     {
       "added_at": null,
@@ -575,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
       "artists": [
         {
@@ -584,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 294106,
-      "name": "Personal Revolution",
-      "url": "https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa"
+      "duration_ms": 343995,
+      "name": "War - Live",
+      "url": "https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn"
     },
     {
       "added_at": null,
@@ -600,19 +560,23 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         },
         {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Sheila E.",
+          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
         }
       ],
-      "duration_ms": 213621,
-      "name": "Make It Paradise",
-      "url": "https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5"
+      "duration_ms": 307078,
+      "name": "Why Let The World",
+      "url": "https://open.spotify.com/track/4FAOedBCvRH9eWNLF6a6fd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
-        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
       },
       "artists": [
         {
@@ -620,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 256978,
-      "name": "Positive Vibration - Live",
-      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
+      "duration_ms": 294106,
+      "name": "Personal Revolution",
+      "url": "https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa"
     },
     {
       "added_at": null,
@@ -647,6 +611,58 @@
       "duration_ms": 228450,
       "name": "El Hilo",
       "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
+        "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 256978,
+      "name": "Positive Vibration - Live",
+      "url": "https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 213621,
+      "name": "Make It Paradise",
+      "url": "https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Reggae In My Head",
+      "url": "https://open.spotify.com/track/1pSoPYqaxWTpiqGOnWWIOj"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
       "duration_ms": 225595,
       "name": "There's A Reward",
       "url": "https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 234253,
-      "name": "Reggae In My Head",
-      "url": "https://open.spotify.com/track/1pSoPYqaxWTpiqGOnWWIOj"
     },
     {
       "added_at": null,

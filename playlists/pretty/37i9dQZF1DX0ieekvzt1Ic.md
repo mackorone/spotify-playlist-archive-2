@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ieekvzt1Ic.md) - [plain]
 
 > The hottest tracks in India\. <br/>Cover: Justin Bieber
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,870 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,878 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

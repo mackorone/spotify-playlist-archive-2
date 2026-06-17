@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Cover: ABBA",
-  "num_followers": 5875405,
+  "num_followers": 5875472,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 270213,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 176333,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+      "duration_ms": 270213,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Piano Man (Legacy Edition)",
         "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 339000,
       "name": "Piano Man",
       "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 146250,
       "name": "Immigrant Song - Remaster",
       "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Beast Of Burden - Remastered 1994",
-      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Beast Of Burden - Remastered 1994",
+      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
-      },
-      "artists": [
-        {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
-        }
-      ],
-      "duration_ms": 189044,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "News Of The World (2011 Remaster)",
         "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
       },
       "artists": [
         {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
         }
       ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+      "duration_ms": 189044,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -939,18 +923,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Minute by Minute",
-        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
       },
       "artists": [
         {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
         }
       ],
-      "duration_ms": 223866,
-      "name": "What a Fool Believes",
-      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -967,6 +951,22 @@
       "duration_ms": 308123,
       "name": "(Don't Fear) The Reaper",
       "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Minute by Minute",
+        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "What a Fool Believes",
+      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 291685,
-      "name": "One of These Nights - 2013 Remaster",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 243933,
       "name": "Take A Chance On Me",
       "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Elvis (Fool)",
-        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Burning Love",
-      "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 194146,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Wild Cherry",
-        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
-      },
-      "artists": [
-        {
-          "name": "Wild Cherry",
-          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Play That Funky Music",
-      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Ram Jam",
         "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 240335,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Wild Cherry",
+        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+      },
+      "artists": [
+        {
+          "name": "Wild Cherry",
+          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Play That Funky Music",
+      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
         }
       ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 283360,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Staying Alive (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 92866,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Inseparable",
         "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 171960,
       "name": "This Will Be (An Everlasting Love)",
       "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Staying Alive (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 92866,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Still Crazy After All These Years",
         "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 217573,
       "name": "50 Ways to Leave Your Lover",
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Angie - Remastered 2009",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Take The Heat Off Me",
         "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Of A Simple Man",
-        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
-      },
-      "artists": [
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "I'd Love You to Want Me",
-      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 350266,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Of A Simple Man",
+        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "I'd Love You to Want Me",
+      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Elvis (Fool)",
-        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 219109,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Imagination (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
       },
       "artists": [
         {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 279144,
-      "name": "Midnight Train to Georgia",
-      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
+      "duration_ms": 219109,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2087,6 +2071,22 @@
       "duration_ms": 257226,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Imagination (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 279144,
+      "name": "Midnight Train to Georgia",
+      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Toto",
-        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 247592,
-      "name": "Georgy Porgy",
-      "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Dance Vault Mixes - Copacabana (At The Copa)",
         "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 236760,
       "name": "Copacabana (At the Copa) - Short Version",
       "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 247592,
+      "name": "Georgy Porgy",
+      "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
     },
     {
       "added_at": "2026-04-29 17:39:04",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2026-04-29 17:39:04",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2026-04-29 17:39:04",
-      "album": {
         "name": "Not Fragile",
         "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 234866,
       "name": "You Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
+    },
+    {
+      "added_at": "2026-04-29 17:39:04",
+      "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
     }
   ],
   "unique_name": "All Out 70s",

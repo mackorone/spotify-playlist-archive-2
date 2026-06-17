@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,977 likes - 101 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,070 likes - 101 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

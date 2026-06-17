@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 379757,
+  "num_followers": 379787,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Ao Monte",
-        "url": "https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2"
+        "name": "Eu Te Levantarei",
+        "url": "https://open.spotify.com/album/42A1I5OJSFlNmx40vhwfU4"
       },
       "artists": [
         {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
         },
         {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 368300,
-      "name": "Ao Monte",
-      "url": "https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98"
+      "duration_ms": 215324,
+      "name": "Eu Te Levantarei",
+      "url": "https://open.spotify.com/track/5VhNo3giwElyUv92ykqLsx"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -199,22 +199,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Eu Te Levantarei",
-        "url": "https://open.spotify.com/album/42A1I5OJSFlNmx40vhwfU4"
+        "name": "Ao Monte",
+        "url": "https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2"
       },
       "artists": [
         {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
         },
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 215324,
-      "name": "Eu Te Levantarei",
-      "url": "https://open.spotify.com/track/5VhNo3giwElyUv92ykqLsx"
+      "duration_ms": 368300,
+      "name": "Ao Monte",
+      "url": "https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Acima dos Telhados (Acoustic)",
-        "url": "https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        },
-        {
-          "name": "Reale",
-          "url": "https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6"
-        }
-      ],
-      "duration_ms": 395298,
-      "name": "Acima dos Telhados - Acoustic",
-      "url": "https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Ora\u00e7\u00e3o pela Paz",
         "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 221476,
       "name": "Ora\u00e7\u00e3o pela Paz",
       "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Acima dos Telhados (Acoustic)",
+        "url": "https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        },
+        {
+          "name": "Reale",
+          "url": "https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6"
+        }
+      ],
+      "duration_ms": 395298,
+      "name": "Acima dos Telhados - Acoustic",
+      "url": "https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3"
     },
     {
       "added_at": "2026-06-12 03:01:51",

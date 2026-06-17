@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,762 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,763 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 57 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
 | 58 | [Somethin' Stupid](https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK) | 2:42 |
 | 59 | [Blackbird \- Remastered](https://open.spotify.com/track/4Z92RMiyJpUrApZi3LtpJ6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6) | 2:18 |
-| 60 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
-| 61 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
-| 62 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 |
+| 60 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 |
+| 61 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
+| 62 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
 | 63 | [Chapel Of Love](https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:47 |
 | 64 | [A Change Is Gonna Come](https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News \(Remastered\)](https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG) | 3:11 |
 | 65 | [Love Me Do \- Mono / Remastered](https://open.spotify.com/track/5JT7CoUSGNk7mMNkHMQjqr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:20 |

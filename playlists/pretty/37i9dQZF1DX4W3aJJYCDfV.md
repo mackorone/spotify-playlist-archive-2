@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Rodrigo, Tove Lo, ANOTR, BTS and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,611 likes - 101 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,562 likes - 101 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 69 | [House Of Matches](https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c) | 3:01 |
 | 70 | [So Long Baby](https://open.spotify.com/track/2gvRGKDwoBys2tuLpSc2ij) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [So Long Baby](https://open.spotify.com/album/5MOUosVXRt2KvTmpy091xD) | 3:23 |
 | 71 | [Allergies](https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Allergies](https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp) | 2:53 |
-| 72 | [if i had one wish.](https://open.spotify.com/track/2P58L8iRKiwZ0UcDkqJVpz) | [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v), [J2](https://open.spotify.com/artist/3Xtd0N1cLSbx2skkM9y2ZN), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Dylan Hingston](https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX) | [no more nostalgia.](https://open.spotify.com/album/6Tk7ldAIIVj1enbMoffE72) | 2:27 |
+| 72 | [if i had one wish.](https://open.spotify.com/track/2P58L8iRKiwZ0UcDkqJVpz) | [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v), [J2](https://open.spotify.com/artist/6OXH8PrAhJqYkfPvHbKPld), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Dylan Hingston](https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX) | [no more nostalgia.](https://open.spotify.com/album/6Tk7ldAIIVj1enbMoffE72) | 2:27 |
 | 73 | [Get Back Into Myself](https://open.spotify.com/track/6hkv8uTu4KXuS8DWtHlYjG) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [Start To End / Get Back Into Myself](https://open.spotify.com/album/2hy9EN9Lqp4ZVcQ0Gttcaa) | 3:33 |
 | 74 | [Why Can’t You Love Me](https://open.spotify.com/track/5ZXihqMrOo8fM2OPA9enFj) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [My Man & Me](https://open.spotify.com/album/6Hf2bBJLBKaTF8yF0Jzy8z) | 4:00 |
 | 75 | [WHERE’S THE FUN?](https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [WHERE’S THE FUN?](https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl) | 3:25 |

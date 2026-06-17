@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,754 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,765 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,21 +30,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 20 | [Young](https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:50 |
 | 21 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 |
 | 22 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 |
-| 23 | [Little Q, Pt\. 1 \- Interlude](https://open.spotify.com/track/0rq8WqfI2FMHYp84xNd53M) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 1:08 |
-| 24 | [Flood](https://open.spotify.com/track/3m9g8ua3M51JvqmS8rh6bS) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:47 |
-| 25 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
+| 23 | [I See You](https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:58 |
+| 24 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
+| 25 | [Flood](https://open.spotify.com/track/3m9g8ua3M51JvqmS8rh6bS) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:47 |
 | 26 | [Picture Perfect](https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN) | 3:03 |
-| 27 | [I See You](https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:58 |
-| 28 | [Thief](https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:00 |
-| 29 | [one life, might live](https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:34 |
+| 27 | [Little Q, Pt\. 1 \- Interlude](https://open.spotify.com/track/0rq8WqfI2FMHYp84xNd53M) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 1:08 |
+| 28 | [one life, might live](https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:34 |
+| 29 | [Thief](https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:00 |
 | 30 | [Fever](https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 1:27 |
 | 31 | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU) | 2:31 |
 | 32 | [No Merci](https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:17 |
 | 33 | [might bang, might not](https://open.spotify.com/track/4q6cqwj1Bo7z7S0uF7pKnz) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:06 |
 | 34 | [Shotgun](https://open.spotify.com/track/4toqE1DBX8IL0nnB182Yt8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Stillness in Wonderland](https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN) | 3:08 |
-| 35 | [Don't Leave Too Soon](https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Don't Leave Too Soon \(From the Netflix Film 'Steve'\)](https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj) | 3:38 |
+| 35 | [Talk Olympics](https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 2:41 |
 | 36 | [Silhouette](https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 6:33 |
-| 37 | [Talk Olympics](https://open.spotify.com/track/04ncMwTyse8X37iIUT4na1) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 2:41 |
+| 37 | [Don't Leave Too Soon](https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Don't Leave Too Soon \(From the Netflix Film 'Steve'\)](https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj) | 3:38 |
 | 38 | [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 |
 | 39 | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4) | 3:35 |
 | 40 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 |
@@ -56,6 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 46 | [Flowers](https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:45 |
 | 47 | [SOS](https://open.spotify.com/track/3qyuXDvMWjZLVPwbjWpGaq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:02 |
 | 48 | [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 |
-| 49 | [Torch](https://open.spotify.com/track/676854Mu9sVS1vfoBqk7S2) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:11 |
 
-Snapshot ID: `ai3vAAAAAAAcGLhbetebDmoZbCwGtsom`
+Snapshot ID: `ai9AgAAAAAA/HatQ+4OpL4m+/A38grH0`

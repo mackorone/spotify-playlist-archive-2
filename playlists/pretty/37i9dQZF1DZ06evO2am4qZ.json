@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAD1Y2SKr1Id079gkzDmPi5f",
+  "snapshot_id": "ai9AgAAAAADBhz7QHU15PUYvi5s7mx07",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 167833,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hourglass",
         "url": "https://open.spotify.com/album/5mAndmKGkXWSwNFHywzB5e"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 174092,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 180174,
-      "name": "Aura (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "why can't we just pretend?",
         "url": "https://open.spotify.com/album/1VNREdUl5SOOkfCcsUFPWJ"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 162060,
       "name": "oOo that's my type",
       "url": "https://open.spotify.com/track/7qE6dk8O1vZ5ow52r3yXRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 180174,
+      "name": "Aura (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After The Rain: Deluxe",
+        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 148069,
+      "name": "Rainbow Cadillac",
+      "url": "https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RHODA",
         "url": "https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 154931,
       "name": "IG",
       "url": "https://open.spotify.com/track/2eP81lAmn0nbeOWXJmhKxN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After The Rain: Deluxe",
-        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 148069,
-      "name": "Rainbow Cadillac",
-      "url": "https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF"
       },
       "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 126400,
-      "name": "Super Sick",
-      "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
+      "duration_ms": 192423,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK"
     },
     {
       "added_at": null,
@@ -755,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF"
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
       "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 192423,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK"
+      "duration_ms": 126400,
+      "name": "Super Sick",
+      "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
     },
     {
       "added_at": null,
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 162199,
-      "name": "Luv Everybody",
-      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
+      "duration_ms": 162492,
+      "name": "Wig",
+      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
     },
     {
       "added_at": null,
@@ -896,29 +896,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 162492,
-      "name": "Wig",
-      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ms. Out Tonight",
-        "url": "https://open.spotify.com/album/63DaQllnJKqmCIwHveb4A7"
-      },
-      "artists": [
-        {
-          "name": "Siena Liggins",
-          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "Dirty Girl",
-      "url": "https://open.spotify.com/track/5idXmIFpLBV6A3fFSKkSvy"
+      "duration_ms": 162199,
+      "name": "Luv Everybody",
+      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
     },
     {
       "added_at": null,
@@ -943,18 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+        "name": "Ms. Out Tonight",
+        "url": "https://open.spotify.com/album/63DaQllnJKqmCIwHveb4A7"
       },
       "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Olipop",
-      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
+      "duration_ms": 209577,
+      "name": "Dirty Girl",
+      "url": "https://open.spotify.com/track/5idXmIFpLBV6A3fFSKkSvy"
     },
     {
       "added_at": null,
@@ -975,26 +959,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "WukiWorld",
-        "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
+        "name": "Sailor Moon (2.0)",
+        "url": "https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Stoppa",
-          "url": "https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ"
         }
       ],
-      "duration_ms": 168094,
-      "name": "Hey Ladies",
-      "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
+      "duration_ms": 197123,
+      "name": "Sailor Moon - 2.0",
+      "url": "https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Olipop",
+      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
     }
   ],
   "unique_name": "This Is Baby Tate",

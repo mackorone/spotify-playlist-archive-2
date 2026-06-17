@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Faraj Suleiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,757 likes - 40 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,763 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [مش ضروري](https://open.spotify.com/track/0M6bFX1RMcME7YetefUiWw) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [مش ضروري](https://open.spotify.com/album/4aEPIr5u5mXIRuKZWofxCs) | 2:37 |
-| 2 | [Inni Mneeh](https://open.spotify.com/track/5DZqSd5MS5ubyXnc7PIMtR) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [El Hal Romancy](https://open.spotify.com/album/0WV17sD6xRIcndI9o20HqP) | 3:23 |
-| 3 | [El 3asal](https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3asal](https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS) | 3:00 |
+| 1 | [3ayb Wlo](https://open.spotify.com/track/5fkL85ZqUZipFRkcKYlVlR) | [Joe Ashkar](https://open.spotify.com/artist/4lQhb7Hptj08WWqSf2za9O) | [3ayb Wlo](https://open.spotify.com/album/72FxbgtdABg9cq3LbQrnTq) | 1:54 |
+| 2 | [مش ضروري](https://open.spotify.com/track/0M6bFX1RMcME7YetefUiWw) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [مش ضروري](https://open.spotify.com/album/4aEPIr5u5mXIRuKZWofxCs) | 2:37 |
+| 3 | [Inni Mneeh](https://open.spotify.com/track/5DZqSd5MS5ubyXnc7PIMtR) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [El Hal Romancy](https://open.spotify.com/album/0WV17sD6xRIcndI9o20HqP) | 3:23 |
 | 4 | [Arooh Le Fein](https://open.spotify.com/track/6hoZwWCrJyhIDuoj7RYCFo) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [Galaleo](https://open.spotify.com/artist/60W1OtLk0gjWoE4kEP8tuY) | [Arooh Le Fein](https://open.spotify.com/album/6Ed5PYqq2rIc0u3eBXZz1E) | 2:46 |
 | 5 | [Ya Weel Weely](https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3) | [SAFAR](https://open.spotify.com/artist/1iUKQz9tEcGbhps9vvtd67) | [تجربة رقم ١ \\ ٢](https://open.spotify.com/album/4IFxGT5v6ONryGGHxcOcf4) | 3:44 |
 | 6 | [MAGHNATEES](https://open.spotify.com/track/4IiBjQvzo7vUUyCNnwH2o6) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Mallawany](https://open.spotify.com/artist/0xoZtBTTyfp39ynzncYZj3) | [MAGHNATEES](https://open.spotify.com/album/11Ufqlrk9JYC32uqFDQd4u) | 6:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 39 | [Etganen](https://open.spotify.com/track/2vXD1wBUPRyb2NYf72vBbT) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Aida El Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [Etganen](https://open.spotify.com/album/7BOOPQBTleS4c5dtHJ3aRN) | 3:06 |
 | 40 | [El Ayyam](https://open.spotify.com/track/1CI4ip4q7xg6jdfkFZN1eZ) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [El Ayyam](https://open.spotify.com/album/6aSBnFvx0Y7WF3oC1dWOJM) | 3:57 |
 
-Snapshot ID: `AAAAAN0VYMCQHgfjWFn2yFVN6RjrAr5O`
+Snapshot ID: `AAAAAJtyYauo7ejarAEZ6u+zEL+Gdq5W`

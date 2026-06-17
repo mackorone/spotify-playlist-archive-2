@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 255721,
       "name": "\u601d\u5ff5\u662f\u4e00\u7a2e\u75c5",
       "url": "https://open.spotify.com/track/5JaPBs2aQjEfLwM5kVb4jq"
@@ -2394,6 +2394,24 @@
       "duration_ms": 245706,
       "name": "\u610f\u7336\u672a\u76e1",
       "url": "https://open.spotify.com/track/15EndpMgcVbrlo89ddQ3Rh"
+    },
+    {
+      "album": {
+        "name": "\u5929\u751f\u6b4c\u59ec",
+        "url": "https://open.spotify.com/album/2V5Kj9W4gcN44senRcoCAV"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266360,
+      "name": "\u611b \u8acb\u554f\u600e\u9ebc\u8d70",
+      "url": "https://open.spotify.com/track/2mqHMawyHWU5B5f2wA299P"
     },
     {
       "album": {

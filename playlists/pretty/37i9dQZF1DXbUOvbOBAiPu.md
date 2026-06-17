@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Mentissa, Olivia Rodrigo, Bebe Rexha,  Guy2Bezbar x Tiakola, Tove Lo x Stromae and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,476 likes - 116 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,475 likes - 116 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

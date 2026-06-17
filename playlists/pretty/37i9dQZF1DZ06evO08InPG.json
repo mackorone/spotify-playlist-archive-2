@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 63728,
+  "num_followers": 63731,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAA0T6sH6DR1HphoY5SIHED7",
+  "snapshot_id": "ai9AgAAAAADoGk9jByoKQ3/0dMRaefIF",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 430540,
+      "name": "Now We Die",
+      "url": "https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Place of Warmth",
         "url": "https://open.spotify.com/album/5ncedT7f0ZDQAZhVOALo5M"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 196000,
       "name": "Invoke War (feat. Machine Head)",
       "url": "https://open.spotify.com/track/6QwzbZRyFpJCS9YFYkU5Qy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 430540,
-      "name": "Now We Die",
-      "url": "https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supercharger",
-        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 241360,
-      "name": "Kick You When You're Down",
-      "url": "https://open.spotify.com/track/1x5yUPuHsdqFVdzspuSmO0"
+      "duration_ms": 366467,
+      "name": "Ghosts Will Haunt My Bones",
+      "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 366467,
-      "name": "Ghosts Will Haunt My Bones",
-      "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
+      "duration_ms": 371480,
+      "name": "This Is the End",
+      "url": "https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 371480,
-      "name": "This Is the End",
-      "url": "https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Through the Ashes of Empires",
         "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 201506,
       "name": "Bite the Bullet",
       "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 272058,
+      "name": "Killers & Kings",
+      "url": "https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 272058,
-      "name": "Killers & Kings",
-      "url": "https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK"
+      "duration_ms": 213800,
+      "name": "Struck a Nerve",
+      "url": "https://open.spotify.com/track/296Tab5qscBCWU8rsOb8uf"
     }
   ],
   "unique_name": "This Is Machine Head",

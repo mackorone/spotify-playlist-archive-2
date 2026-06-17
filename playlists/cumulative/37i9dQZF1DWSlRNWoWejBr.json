@@ -1287,40 +1287,6 @@
     },
     {
       "album": {
-        "name": "Bolha do Catucad\u00e3o",
-        "url": "https://open.spotify.com/album/2OTYVhkCZXfqqFdRUAWHIu"
-      },
-      "artists": [
-        {
-          "name": "DJ DANN ORIGINAL",
-          "url": "https://open.spotify.com/artist/7jVlpi46PQFYRcsihTVDK4"
-        },
-        {
-          "name": "DJ Thseven7",
-          "url": "https://open.spotify.com/artist/2BkgzuL3Qj2QBYv8UG6lRj"
-        },
-        {
-          "name": "Kaue Mc",
-          "url": "https://open.spotify.com/artist/4Amq40B1awicYgOZlACbU7"
-        },
-        {
-          "name": "Oliver MC",
-          "url": "https://open.spotify.com/artist/46GFiUmekcFUt4OSnkr2kq"
-        },
-        {
-          "name": "DJ SILVINHA",
-          "url": "https://open.spotify.com/artist/7Gbf07hDzLuwsiHaAIjjer"
-        }
-      ],
-      "date_added": "2026-01-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162528,
-      "name": "Bolha do Catucad\u00e3o",
-      "url": "https://open.spotify.com/track/6wg9oQ055KTynFmkqc05yS"
-    },
-    {
-      "album": {
         "name": "Bonde das Oncinhas",
         "url": "https://open.spotify.com/album/4VjMuQ9SnC2KC5oPsHHCse"
       },
@@ -3126,6 +3092,40 @@
       "duration_ms": 266666,
       "name": "Eu sou Cantor N\u00e3o Sou Bandido",
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
+    },
+    {
+      "album": {
+        "name": "Eu sou prostituto - Bolha do catucad\u00e3o",
+        "url": "https://open.spotify.com/album/2OTYVhkCZXfqqFdRUAWHIu"
+      },
+      "artists": [
+        {
+          "name": "DJ DANN ORIGINAL",
+          "url": "https://open.spotify.com/artist/7jVlpi46PQFYRcsihTVDK4"
+        },
+        {
+          "name": "DJ Thseven7",
+          "url": "https://open.spotify.com/artist/2BkgzuL3Qj2QBYv8UG6lRj"
+        },
+        {
+          "name": "Kaue Mc",
+          "url": "https://open.spotify.com/artist/4Amq40B1awicYgOZlACbU7"
+        },
+        {
+          "name": "Oliver MC",
+          "url": "https://open.spotify.com/artist/46GFiUmekcFUt4OSnkr2kq"
+        },
+        {
+          "name": "DJ SILVINHA",
+          "url": "https://open.spotify.com/artist/7Gbf07hDzLuwsiHaAIjjer"
+        }
+      ],
+      "date_added": "2026-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162528,
+      "name": "Eu sou prostituto - Bolha do catucad\u00e3o",
+      "url": "https://open.spotify.com/track/6wg9oQ055KTynFmkqc05yS"
     },
     {
       "album": {

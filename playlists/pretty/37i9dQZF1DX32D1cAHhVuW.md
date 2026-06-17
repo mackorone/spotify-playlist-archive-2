@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/druski/?hl=en">Druski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,730 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,750 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 35 | [7.62 God](https://open.spotify.com/track/7w77k7yCaDOMe25fYxnzit) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Gucci Mane Presents: So Icy Summer](https://open.spotify.com/album/7hEgFnAICf8FqaERqmehOT) | 2:57 |
 | 36 | [Walk \(feat\. Lil Baby & 42 Dugg\)](https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [G.I.H.F.](https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ) | 4:36 |
 | 37 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
-| 38 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
-| 39 | [Don’t Leave Me](https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:36 |
+| 38 | [Don’t Leave Me](https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:36 |
+| 39 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
 | 40 | [Outside](https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Outside](https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ) | 1:27 |
 | 41 | [Mob Ties Remix \(feat\. Unfoonk, 24Heavy, Future & YTB Trench\)](https://open.spotify.com/track/2PfqoDotCBeNygVVdTU3rN) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Unfoonk](https://open.spotify.com/artist/2f6hqWBFjqS1EUHMS1JOFB), [24Heavy](https://open.spotify.com/artist/23mJPosA4Qmp8kc6IlWalb), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [YTB Trench](https://open.spotify.com/artist/5PHYg0IcnpyZJ1y9euAx4i) | [Slime Language 2 \(Deluxe\)](https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre) | 3:23 |
 | 42 | [Baby Boy](https://open.spotify.com/track/0qeNJtldeoVelVsOUahnbw) | [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf) | [Better Living](https://open.spotify.com/album/58FGVPSHqBFWgAhKMIhrxH) | 3:28 |
-| 43 | [Fuck That](https://open.spotify.com/track/0GQmI1UcEaU9TLoAices80) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Life of Betrayal](https://open.spotify.com/album/2X3LXTlexW5rShj3ygFBLf) | 2:35 |
-| 44 | [Dirty K](https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:49 |
+| 43 | [Dirty K](https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:49 |
+| 44 | [Fuck That](https://open.spotify.com/track/0GQmI1UcEaU9TLoAices80) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Life of Betrayal](https://open.spotify.com/album/2X3LXTlexW5rShj3ygFBLf) | 2:35 |
 | 45 | [Paperwork Party \- Remix](https://open.spotify.com/track/5WOGp3E41juuRbaw4LlQZT) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 3:22 |
 | 46 | [I Wish Grandpas Never Died \- Live](https://open.spotify.com/track/7KYUPObhhhayMQleMepg3u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [We Out Here: Live](https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB) | 5:59 |
 | 47 | [Big FlexHer](https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:35 |

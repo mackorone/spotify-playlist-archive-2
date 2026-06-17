@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🇫🇷 featuring Jersey
 
-1,435 songs - 3 day 5 hr 47 min
+1,436 songs - 3 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,7 @@
 | [hope this email finds you well \- J\. Mordechai Remix](https://open.spotify.com/track/4Fve52wnTtAqRpX7UnY0S0) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE), [J\. Mordechai](https://open.spotify.com/artist/5Jjx40UzbnzKFxYvui5JBs) | [Altopalo / hope this email finds you well \(with friends\)](https://open.spotify.com/album/1jZ7AwbYnMF1SPHghSsPOa) | 4:10 | 2023-06-23 | 2023-07-01 |
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-02-24 | 2023-09-16 |
 | [HORSEPOWER](https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [HORSEPOWER](https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw) | 3:06 | 2026-02-20 | 2026-05-16 |
-| [HOUDINI](https://open.spotify.com/track/2Y7gILjkbWMM2F346Fz8Ud) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [HOUDINI](https://open.spotify.com/album/2NWnBiOCWHTJMn84rOQnSz) | 2:31 | 2026-04-24 |  |
+| [HOUDINI](https://open.spotify.com/track/2Y7gILjkbWMM2F346Fz8Ud) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [HOUDINI](https://open.spotify.com/album/2NWnBiOCWHTJMn84rOQnSz) | 2:31 | 2026-04-24 | 2026-06-17 |
 | [HOW 2 BUILD A BETTER BOY](https://open.spotify.com/track/4y6sSlM6Jm4du7SEGhLFSW) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [HOW 2 BUILD A BETTER BOY](https://open.spotify.com/album/0JmTHqE4g2KcRW3HhPVdOs) | 3:17 | 2024-04-25 | 2024-05-09 |
 | [How High](https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [How High](https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f) | 3:12 | 2023-07-28 | 2024-09-06 |
 | [How I Feel](https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [How I Feel](https://open.spotify.com/album/42f5IWubZit8UWi9dMUA9H) | 5:23 | 2024-05-16 | 2024-06-01 |
@@ -1363,6 +1363,7 @@
 | [Wash Over](https://open.spotify.com/track/4WabHy46Xmp6O3kLaCP1dp) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Wash Over](https://open.spotify.com/album/5HFf9LEGoJ5UxjywfHhLcI) | 3:07 | 2025-07-18 | 2025-09-01 |
 | [wasted](https://open.spotify.com/track/7s7K9Z5YkIMGj1i8lDbucR) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [wasted](https://open.spotify.com/album/5RuB9orsITFfXqrbidC3SZ) | 3:26 | 2023-05-12 | 2023-05-21 |
 | [Wastin' My Time](https://open.spotify.com/track/0JZFXrxFp0YNn6iPR2LF08) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9) | [Wastin' My Time](https://open.spotify.com/album/3I6WoVWiu9HWjJEkVMwT55) | 3:08 | 2025-08-01 | 2026-02-07 |
+| [Wasting Time](https://open.spotify.com/track/2Ed8PLm1CGGcHqJYj8H8nl) | [eric404](https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL) | ["Not Found"](https://open.spotify.com/album/5HZdd941dgGvKJNZjN4HCM) | 4:20 | 2026-06-16 |  |
 | [Water Pistol \- Killen\. Remix](https://open.spotify.com/track/7F1YGJLMXM9T5kiRQ6JPdX) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Water Pistol \(Killen\. Remix\)](https://open.spotify.com/album/10l4hCpM2pON4RYhE7SjKe) | 2:56 | 2024-11-28 | 2025-03-21 |
 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P) | 3:29 | 2024-11-07 | 2025-01-24 |
 | [WATERFALL](https://open.spotify.com/track/5drjS02AIq4EZWVlWBTgvl) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [WATERFALL](https://open.spotify.com/album/0rFr91GLEBl13aD9wVQcis) | 1:58 | 2025-08-15 | 2025-09-13 |

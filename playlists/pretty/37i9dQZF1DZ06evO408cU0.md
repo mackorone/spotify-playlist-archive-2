@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,702 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,706 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 2 | [Olvidarte, ¿Cómo?](https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 3:50 |
 | 3 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 |
 | 4 | [Vas A Estar Bien](https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:57 |
-| 5 | [Y Te Vas](https://open.spotify.com/track/4ZD7Np5r6s211dhZHospvV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg) | 3:43 |
-| 6 | [Olvidarte No Será Sencillo](https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 3:46 |
+| 5 | [Olvidarte No Será Sencillo](https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Número 1](https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX) | 3:46 |
+| 6 | [Y Te Vas](https://open.spotify.com/track/4ZD7Np5r6s211dhZHospvV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/0C9n9K785fkiXtR584JcOg) | 3:43 |
 | 7 | [Encontrarte](https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:00 |
 | 8 | [Lo Que Pienso De Ti](https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:34 |
 | 9 | [Te Cambio El Domicilio](https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Hombre De Trabajo](https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO408cU0.md) - [plain]
 | 49 | [El Pistolero \- En Vivo](https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:16 |
 | 50 | [Fibras Sensibles](https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Fibras Sensibles](https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm) | 3:20 |
 
-Snapshot ID: `ai3vAAAAAADRIWKfuqxuXPJcYUzMXfjg`
+Snapshot ID: `ai9AgAAAAACPh7Oh5RHVeo1TxMfqSEs2`

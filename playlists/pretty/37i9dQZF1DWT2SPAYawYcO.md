@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Olivia Rodrigo, Spacey Jane, Sonny Fodera, LE SSERAFIM, ILLIT, KATSEYE + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,806 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,783 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 3 | [Feel Again](https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [can we do it all again?](https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI) | 3:41 |
 | 4 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 |
 | 5 | [Do Your Best](https://open.spotify.com/track/4YsNDEzzDg8bC81pbR1y8o) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Do Your Best](https://open.spotify.com/album/6bkX4W00fwnWts68qJCV1T) | 2:34 |
-| 6 | [Faking Smiles](https://open.spotify.com/track/7yfJ34THmquy71A2IxeyY3) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/629eH4awjJsZ7bjDNt5lLL) | 3:04 |
+| 6 | [Faking Smiles](https://open.spotify.com/track/7yfJ34THmquy71A2IxeyY3) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming \(Deluxe\)](https://open.spotify.com/album/629eH4awjJsZ7bjDNt5lLL) | 3:04 |
 | 7 | [One Day](https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 3:08 |
 | 8 | [Don't Tell Me It's Over](https://open.spotify.com/track/0mG6f89Na8qlcO9bcwEtWi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket \(25 Year Anniversary Edition\)](https://open.spotify.com/album/5otlnw7SmrdBwk2Uywc7Bu) | 2:32 |
 | 9 | [GIRLS \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [GIRLS \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe) | 2:32 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 85 | [Defender](https://open.spotify.com/track/28yRkYCfXf6iDfWB5x8c36) | [Dezzie](https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q), [Izzpot](https://open.spotify.com/artist/4IvEtOiujya1B5LAoc8xZC), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Defender](https://open.spotify.com/album/29nDLSBvqEAqQGczuwOiNJ) | 3:20 |
 | 86 | [KITTY CAT](https://open.spotify.com/track/7mLPog2BhWvvX8xMkOTemb) | [Robert Baxter](https://open.spotify.com/artist/5VOw2lhSolJj6DgdrkN20j) | [KITTY CAT](https://open.spotify.com/album/5yAQXmLHBtrVKHPT7HlyNL) | 2:46 |
 | 87 | [Rock Band](https://open.spotify.com/track/0zd1M7iWSbiBLECUFRA68C) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Rock Band](https://open.spotify.com/album/4H4w0CLMzsDqcwIXEma2ym) | 3:15 |
-| 88 | [God Gotta Afro](https://open.spotify.com/track/1pwH03MgZ8TRTbtrY1hm3O) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Karabo yaMorena Choir](https://open.spotify.com/artist/1cuKOTF769wkqsMyqcgexU) | [God Gotta Afro](https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk) | 2:48 |
+| 88 | [God Gotta Afro](https://open.spotify.com/track/1pwH03MgZ8TRTbtrY1hm3O) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [KARABO YA MORENA](https://open.spotify.com/artist/27tTpZuZ6SMPTYgB0JKvYx) | [God Gotta Afro](https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk) | 2:48 |
 | 89 | [The Pavement](https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [The Pavement](https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ) | 3:04 |
 | 90 | [Holiday](https://open.spotify.com/track/4f97ZZQjBN8owTIDwOyxOa) | [Kate Miller\-Heidke](https://open.spotify.com/artist/6sfUgwUTFjy1SNF2uWOcPp) | [Holiday](https://open.spotify.com/album/672fb5YSSoC85bI9txHUnr) | 3:51 |
 | 91 | [ON UR TOES](https://open.spotify.com/track/1BKHnRSRzmuBzyxBDUvbVT) | [Anfa Rose](https://open.spotify.com/artist/6QyD04sHvKf1AjxkXrNRk1) | [ON UR TOES](https://open.spotify.com/album/6eVC9DOVJY7Za9HVxjlEkc) | 3:04 |

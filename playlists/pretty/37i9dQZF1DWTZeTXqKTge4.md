@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,909 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,908 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 2 | [Coco Chanel](https://open.spotify.com/track/5j6wNUwUxQvjOyWSKXWZx9) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [M.O.R.T 2](https://open.spotify.com/album/18ErW6uvnbVQIiIaSZbzoy) | 2:06 |
 | 3 | [Danger](https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Danger](https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs) | 2:40 |
 | 4 | [Smoothie aux bleuets](https://open.spotify.com/track/6EWPlzxSNjswZzV3PPeN4H) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [Smoothie aux bleuets](https://open.spotify.com/album/3TAkY1hpg5TFKmKskLRYVn) | 2:58 |
-| 5 | [CORMIEL](https://open.spotify.com/track/0ioCeqBCfxMWjPpQiUi5VM) | [Chaperdu](https://open.spotify.com/artist/1xxD38qRBNpySMEX9btSu0) | [CORMIEL](https://open.spotify.com/album/3AnL3bgY3PiviGYIV1LrmC) | 2:48 |
+| 5 | [CORMIEL](https://open.spotify.com/track/0ioCeqBCfxMWjPpQiUi5VM) | [Chaperdu](https://open.spotify.com/artist/1xxD38qRBNpySMEX9btSu0), [Kèthe Magané](https://open.spotify.com/artist/2xRd9oXpHOXzrED7JnyEZL) | [CORMIEL](https://open.spotify.com/album/3AnL3bgY3PiviGYIV1LrmC) | 2:48 |
 | 6 | [Kesspass](https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6) | [Yellow Rice](https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD), [dønnyr2kébb](https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a) | [Kesspass](https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv) | 1:18 |
 | 7 | [MTL's Finest](https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE) | [Prosperito](https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [MTL's Finest](https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj) | 2:21 |
 | 8 | [Ya Hurd](https://open.spotify.com/track/62WfxYP0TXbyVP52UDKrty) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Ya Hurd](https://open.spotify.com/album/2WQYB9vE90ZrhShEDnCHn5) | 2:46 |

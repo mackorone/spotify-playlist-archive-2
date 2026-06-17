@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 
 > The whole truth\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,788 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,776 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 14 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 |
 | 15 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
 | 16 | [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 |
-| 17 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
-| 18 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
+| 17 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
+| 18 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
 | 19 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
 | 20 | [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 |
 | 21 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 |

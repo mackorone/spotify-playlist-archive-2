@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,451 likes - 158 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,452 likes - 158 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 84 | [Body and Soul](https://open.spotify.com/track/12kNMrGbvKNy6c4lJdOYxq) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/4MZfZGEPUXgCkxEI6fUedT) | 2:30 |
 | 85 | [Life Goes On](https://open.spotify.com/track/7w559A6AH91hUZCUkxckPN) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/4MZfZGEPUXgCkxEI6fUedT) | 3:38 |
 | 86 | [Hurt Me Now](https://open.spotify.com/track/6vrdhvVQXyg7Rji0tFN1Gv) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:41 |
-| 87 | [Under The Blue](https://open.spotify.com/track/79kA8yZ4oCdnM8mlBPGmMf) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/4MZfZGEPUXgCkxEI6fUedT) | 3:28 |
-| 88 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
+| 87 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
+| 88 | [Under The Blue](https://open.spotify.com/track/79kA8yZ4oCdnM8mlBPGmMf) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/4MZfZGEPUXgCkxEI6fUedT) | 3:28 |
 | 89 | [Rivers](https://open.spotify.com/track/4EW2QK7Fw8AtE0tZ3c3XS7) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 |
 | 90 | [Real Thing](https://open.spotify.com/track/4RJ3V0Y4Y18VuAWsnAcgS4) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills \- EP](https://open.spotify.com/album/22gQ3287u7f9iH5xaL8egl) | 3:41 |
 | 91 | [Capital Letters](https://open.spotify.com/track/405B9VswP3UM73ImKdPson) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Capital Letters](https://open.spotify.com/album/4Kgoa65A1pu14huyVVUiux) | 3:35 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 157 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 158 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcUUrAAAAABOjne6wle1CSzNoZtSfYPe`
+Snapshot ID: `AcUaEAAAAAAK/vccQNl8ffxqPiyqvgZf`

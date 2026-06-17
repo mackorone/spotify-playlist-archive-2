@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,687 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,683 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 82 | [Portland](https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Country](https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9) | 3:48 |
 | 83 | [Bud](https://open.spotify.com/track/24Ps74eYfUtEKNPKqZGoGx) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/55zIuNEAN58q5NxwS1PpKU) | 3:35 |
 | 84 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
-| 85 | [untitled](https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [untitled](https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT) | 3:45 |
-| 86 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 |
+| 85 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 |
+| 86 | [untitled](https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [untitled](https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT) | 3:45 |
 | 87 | [Collarbones](https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [Collarbones](https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL) | 3:00 |
 | 88 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
 | 89 | [Pegasi](https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g) | [Jesca Hoop](https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u) | [Memories Are Now](https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo) | 3:33 |

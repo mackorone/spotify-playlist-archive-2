@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
-  "num_followers": 821043,
+  "num_followers": 821051,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-05-29 20:56:30",
       "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
-    },
-    {
-      "added_at": "2026-05-29 20:56:30",
-      "album": {
         "name": "Un Nuevo Tiempo",
         "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 136318,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
+    },
+    {
+      "added_at": "2026-05-29 20:56:30",
+      "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2026-05-29 20:56:30",

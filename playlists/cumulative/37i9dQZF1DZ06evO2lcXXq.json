@@ -590,10 +590,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 250186,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
+    },
+    {
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/5fq1eSTkR1SnwZj5fJGBHB"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250186,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/3tL3RBw97ctKUpOuEkvBfI"
     },
     {
       "album": {

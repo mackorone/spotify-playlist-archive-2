@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 207533,
       "name": "A las Nueve",
       "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 264996,
       "name": "Bastardo (feat. \u00d1engo Flow & Jere Klein)",
       "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
@@ -8656,7 +8656,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -14225,6 +14225,24 @@
     },
     {
       "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161803,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+    },
+    {
+      "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
       },
@@ -18092,7 +18110,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 80480,
       "name": "NO LES DA",
       "url": "https://open.spotify.com/track/6pryujEohwqSNKGTW33SKE"
@@ -18874,7 +18892,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 260371,
       "name": "Nunca quise",
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
@@ -21434,7 +21452,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 243040,
       "name": "Preso en Mi Ciudad",
       "url": "https://open.spotify.com/track/228es32yRPh2HJwn7eur0D"
@@ -21910,7 +21928,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 237173,
       "name": "Pu\u00f1aladas - En Vivo Plaza De La M\u00fasica",
       "url": "https://open.spotify.com/track/6w72aThuLi3mx8UoPNHOft"

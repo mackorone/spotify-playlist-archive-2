@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,680 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,531 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 54 | [Pocket Full of Rain](https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 3:50 |
 | 55 | [Mourning in America](https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:04 |
 | 56 | [New Wall](https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs) | [Tori Forsyth](https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w) | [New Wall](https://open.spotify.com/album/43BULtlzGsqok8PoRPypm2) | 2:38 |
-| 57 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
-| 58 | [Asylum](https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Asylum](https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3) | 3:51 |
+| 57 | [Asylum](https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Asylum](https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3) | 3:51 |
+| 58 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
 | 59 | [Jealous Sun](https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:38 |
 | 60 | [baby, get your ticket](https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [baby, get your ticket](https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs) | 2:35 |
 | 61 | [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 |

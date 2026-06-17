@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,354 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,390 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 24 | [Culpables](https://open.spotify.com/track/2XoKzEPIDorxowyezrPPyv) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/1w4MR0JOdHYw7QMWhJTuqQ) | 4:12 |
 | 25 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/4s2fRub8kyh1hD2m8xZ9cv) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H) | 3:59 |
 | 26 | [Todo Cambio](https://open.spotify.com/track/2rj48vMh429g2zDvTOtXbQ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR) | 4:45 |
-| 27 | [Sólo Tú \- En Vivo](https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sólo Tú \(En Vivo\)](https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq) | 3:08 |
-| 28 | [Joven Bragado](https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 3:05 |
+| 27 | [Joven Bragado](https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 3:05 |
+| 28 | [Sólo Tú \- En Vivo](https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sólo Tú \(En Vivo\)](https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq) | 3:08 |
 | 29 | [El Proveedor](https://open.spotify.com/track/2Gkth1SvX92CZSjofDFTrJ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Proveedor](https://open.spotify.com/album/0RFanvIBk0DNvJ1yxEFX4e) | 3:51 |
 | 30 | [Jimmy Neutron](https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:15 |
 | 31 | [Fuentes De Ortiz](https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Fuentes De Ortiz](https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Serafín](https://open.spotify.com/track/30Bldx71dH6xhYY0FUYtWA) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Serafín](https://open.spotify.com/album/08wWfyX6Gq7L1zsTdfDZGv) | 4:00 |
 | 50 | [Amor Apache](https://open.spotify.com/track/5RneX4ORaVj7qppd2Kfnww) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/7HhmM3vz8YeEkQQDSXWQnP) | 3:27 |
 
-Snapshot ID: `ai3vAAAAAAAas+mIKGsPg3WUcArDZEri`
+Snapshot ID: `ai9AgAAAAACw961YCkdlAJTbeiEcRgQQ`

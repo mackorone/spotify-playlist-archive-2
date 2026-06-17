@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring OutStation, JBABE,  Achint and other exciting artists.
 
-1,476 songs - 3 day 8 hr 55 min
+1,477 songs - 3 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Dhuaan](https://open.spotify.com/track/7AVao1FclGwn9U2J9IG2Ax) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Dhuaan](https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4) | 3:30 | 2023-07-28 | 2023-09-02 |
 | [Dhuun Mein](https://open.spotify.com/track/14b4w1LxwxhC25C3uXDoe5) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Dhuun Mein](https://open.spotify.com/album/2hMYZsHMu4nbeqy2TBKQ5R) | 2:52 | 2024-04-05 | 2024-06-01 |
 | [Diggi Bumba](https://open.spotify.com/track/5Mw91jYPnrCj49eF0O9CY9) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Diggi Bumba](https://open.spotify.com/album/1ceoDmlfP3V9rvwWRLXpwT) | 3:25 | 2026-01-16 | 2026-04-04 |
+| [Dil Bebaak](https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S) | [Dev Arijit](https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6) | [Dil Bebaak](https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL) | 6:39 | 2026-06-12 |  |
 | [Dil Behkaaye](https://open.spotify.com/track/4RluWOpOG1YBZEtUmEAExY) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rutvik Talashilkar](https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb) | [Dil Behkaaye](https://open.spotify.com/album/2WginyYdZBd5opfBW38Cy0) | 3:25 | 2025-03-21 | 2025-07-05 |
 | [Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dil Behra](https://open.spotify.com/album/1MfW7hbD4ZQ4mgCwMoa9Eu) | 3:30 | 2025-04-25 | 2025-07-26 |
 | [Dil Besabar](https://open.spotify.com/track/5LV90I2HKJFJ8GMNaS75ZA) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Dil Besabar](https://open.spotify.com/album/7bstmsZGHaiZfupqDfk9NA) | 3:10 | 2024-08-02 | 2024-09-21 |
@@ -988,7 +989,7 @@
 | [Padosan](https://open.spotify.com/track/1eAh44Dq2pSa7SGReD5L0G) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Rais Khan Project](https://open.spotify.com/artist/0UN51NcAMkNCDJgFqoO4ou) | [Padosan](https://open.spotify.com/album/2DY2Gz77vYcvL5WRGxlw7O) | 3:17 | 2024-03-22 | 2024-05-04 |
 | [Pagal Rehne De](https://open.spotify.com/track/760LXdTukTZjtD6rZ4p2n8) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:04 | 2023-11-24 | 2024-02-03 |
 | [Pahaad](https://open.spotify.com/track/1FfejBc6pNUQbFb8WwUy4K) | [Maddy Sharma](https://open.spotify.com/artist/2xA2yHPINunPF0MvZq2sIQ) | [Pahaad](https://open.spotify.com/album/7JLjDClIZe92XRG9sz3wDg) | 2:02 | 2025-03-14 | 2025-03-22 |
-| [Pahaad](https://open.spotify.com/track/416l6p2QFJUceAZcLGuXom) | [Sukrit Thakur](https://open.spotify.com/artist/3VBJZ7z2qR2hPlMrtAeqLv) | [Pahaad](https://open.spotify.com/album/1W62yM9tWboFmnkQacHyXg) | 2:45 | 2026-05-29 |  |
+| [Pahaad](https://open.spotify.com/track/416l6p2QFJUceAZcLGuXom) | [Sukrit Thakur](https://open.spotify.com/artist/3VBJZ7z2qR2hPlMrtAeqLv) | [Pahaad](https://open.spotify.com/album/1W62yM9tWboFmnkQacHyXg) | 2:45 | 2026-05-29 | 2026-06-17 |
 | [Pahadi Pyaar](https://open.spotify.com/track/5ebIDeI6UXzJUZMP7cvTxp) | [Liquid Lake](https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r), [ACHINX](https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm), [Gulbis Khan](https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3) | [Pahadi Pyaar](https://open.spotify.com/album/2x5Tj96nhW7aiYbf5lgTBf) | 1:34 | 2024-03-29 | 2024-05-11 |
 | [Pahadon Mein](https://open.spotify.com/track/2M2ebFEyGa12BfpVVJBcuG) | [Gursheet Khanuja](https://open.spotify.com/artist/6cGG5aDa7RjUOWbqMVlh66), [Geetesh Yadav](https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm) | [Pahadon Mein](https://open.spotify.com/album/6nO8SSVHoUq9GiOGUl1RK6) | 3:16 | 2024-06-28 | 2024-07-27 |
 | [Paint It Over Me](https://open.spotify.com/track/6zOdT0oZeeYVK8R3B6hzbg) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Paint It Over Me](https://open.spotify.com/album/3D9DLneQgDyzaSL9J9DFUe) | 3:21 | 2025-05-30 | 2025-08-06 |

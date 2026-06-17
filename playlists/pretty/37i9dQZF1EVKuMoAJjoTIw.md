@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIYnCz0KRbdlN>Fuerza Regida</a>, <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a>, <a href=spotify:playlist:37i9dQZF1EIWSrcRlZfmEg>The Long Faces</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZIiJvqaSAaz>sombr</a>, <a href=spotify:playlist:37i9dQZF1EIYTnSrBkkirB>The Fray</a>, <a href=spotify:playlist:37i9dQZF1EIXya8JbQtUVN>Gracie Abrams</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ANSIEDAD](https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:31 |
-| 2 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
-| 3 | [Jane!](https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu) | 3:06 |
+| 1 | [undressed](https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:02 |
+| 2 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
+| 3 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 4 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 |
 | 5 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 |
 | 6 | [Makrehtosh](https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 3:32 |

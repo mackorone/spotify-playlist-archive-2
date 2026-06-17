@@ -1,6 +1,6 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: THE-DREAM",
-  "num_followers": 3720,
+  "num_followers": 3732,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1929,22 +1929,6 @@
       "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
     },
     {
-      "added_at": "2026-03-13 07:57:42",
-      "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 195516,
-      "name": "Prague",
-      "url": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ"
-    },
-    {
       "added_at": "2025-11-07 06:39:38",
       "album": {
         "name": "Out The Window",
@@ -1961,36 +1945,20 @@
       "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
     },
     {
-      "added_at": "2026-05-08 05:33:09",
+      "added_at": "2026-03-13 07:57:42",
       "album": {
-        "name": "Therapy at the Club",
-        "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Therapy at the Club",
-      "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+      "duration_ms": 195516,
+      "name": "Prague",
+      "url": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2013,20 +1981,36 @@
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
     },
     {
-      "added_at": "2026-05-15 06:10:26",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "What's Done Is Done",
-        "url": "https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk"
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 173022,
-      "name": "What's Done Is Done",
-      "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2026-05-08 05:33:09",
+      "album": {
+        "name": "Therapy at the Club",
+        "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Therapy at the Club",
+      "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2043,6 +2027,22 @@
       "duration_ms": 171000,
       "name": "Heart Of A Woman",
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+    },
+    {
+      "added_at": "2026-05-15 06:10:26",
+      "album": {
+        "name": "What's Done Is Done",
+        "url": "https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 173022,
+      "name": "What's Done Is Done",
+      "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2193,6 +2193,22 @@
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
     },
     {
+      "added_at": "2025-10-03 04:48:40",
+      "album": {
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+    },
+    {
       "added_at": "2026-03-27 06:15:19",
       "album": {
         "name": "$TILL PAID",
@@ -2213,20 +2229,20 @@
       "url": "https://open.spotify.com/track/0cvOfzykDoUaBKhWFSuB31"
     },
     {
-      "added_at": "2025-10-03 04:48:40",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
       },
       "artists": [
         {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
         }
       ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+      "duration_ms": 175057,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
       "added_at": "2026-04-10 06:38:13",
@@ -2247,22 +2263,6 @@
       "duration_ms": 214757,
       "name": "Back and Forth (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 175057,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2597,22 +2597,6 @@
       "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Baddest In The Room",
-        "url": "https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 158338,
-      "name": "Baddest In The Room",
-      "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
-    },
-    {
       "added_at": "2025-10-17 05:35:16",
       "album": {
         "name": "SAN ANDREAS",
@@ -2627,6 +2611,22 @@
       "duration_ms": 120000,
       "name": "SAN ANDREAS",
       "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Baddest In The Room",
+        "url": "https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 158338,
+      "name": "Baddest In The Room",
+      "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2681,28 +2681,24 @@
       "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
     },
     {
-      "added_at": "2026-02-01 02:45:05",
+      "added_at": "2025-04-25 06:51:06",
       "album": {
-        "name": "I Did This To Myself",
-        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         },
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 150613,
-      "name": "I Did This To Myself",
-      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
+      "duration_ms": 225444,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
     }
   ],
   "unique_name": "Channel-X",

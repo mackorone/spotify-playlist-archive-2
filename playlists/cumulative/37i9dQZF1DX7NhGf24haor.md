@@ -4,7 +4,7 @@
 
 > Weekly new Hardstyle releases! Cover: Rebelion
 
-2,090 songs - 4 day 13 hr 46 min
+2,091 songs - 4 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -779,6 +779,7 @@
 | [High Power \- Radical Redemption Remix](https://open.spotify.com/track/3bgqDq1t9HbDsI5OaNKpEg) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [High Power \(Radical Redemption Remix\)](https://open.spotify.com/album/3ueLngpFKZcWMkTrfc7gGX) | 3:55 | 2022-12-22 | 2023-01-27 |
 | [Higher](https://open.spotify.com/track/0OimFKahMR1inr2Wl07T4P) | [Digital Madness](https://open.spotify.com/artist/5G1EFKlxqENrQJnQ1sWKzl) | [Higher](https://open.spotify.com/album/1RumGy0vd7wfgEc5LGd0Hs) | 2:43 | 2025-04-04 | 2025-07-01 |
 | [Higher](https://open.spotify.com/track/4v8BDsgyYpmvsleRsBlafy) | [The Exoduz](https://open.spotify.com/artist/6Sme2awIfgxNdvxIU1ptPd), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Higher](https://open.spotify.com/album/7rppQv0SKgQPZYuUTYpvNX) | 4:19 | 2023-01-19 | 2023-04-07 |
+| [Higher Rush](https://open.spotify.com/track/15PYBs1bXd7gjKTmrxIeMr) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Higher Rush / All I Am EP](https://open.spotify.com/album/3HqGF6XAhKUQjPI46TRoEW) | 3:09 | 2026-06-15 |  |
 | [Higher Rush](https://open.spotify.com/track/1VufCDU8E5sDQCuqQUa62o) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Higher Rush](https://open.spotify.com/album/12x8870SXWjxNyTtExjNYZ) | 3:09 | 2026-06-15 |  |
 | [Highscore](https://open.spotify.com/track/5TK2wZ3ZfG6STw3HUEd03w) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Highscore](https://open.spotify.com/album/1B86cUyLh90xB8auYNYmbS) | 2:01 | 2025-01-21 | 2025-04-05 |
 | [Highway To Heaven](https://open.spotify.com/track/2tZ3W6l96sx0A3mRoy0LdO) | [Cardination](https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm) | [Highway To Heaven](https://open.spotify.com/album/7sWQ1LP5TMdhTC2UUF0nNy) | 3:10 | 2025-09-11 | 2025-11-05 |

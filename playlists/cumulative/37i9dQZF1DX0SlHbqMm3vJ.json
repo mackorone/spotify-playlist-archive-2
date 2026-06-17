@@ -3065,6 +3065,40 @@
     },
     {
       "album": {
+        "name": "Call Me (feat. Tu Musica)",
+        "url": "https://open.spotify.com/album/7KGGOyDqwiIvmKIMwDQolX"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Call Me (feat. Tu Musica)",
+      "url": "https://open.spotify.com/track/0AaelNpgby0eOH8Z6QvBbd"
+    },
+    {
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/5Vkrn9wvQoHTXVg4MI3DiI"
       },
@@ -16082,7 +16116,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 179774,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4gK4aMkLAoqLsBq1jtrRhp"
@@ -16766,7 +16800,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 193672,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv"
@@ -17872,6 +17906,28 @@
       "duration_ms": 149482,
       "name": "THINKING",
       "url": "https://open.spotify.com/track/41XqpDcepbryNYVyLzpVMa"
+    },
+    {
+      "album": {
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-133 songs - 7 hr 3 min
+135 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,8 +124,10 @@
 | [THE FALL](https://open.spotify.com/track/6TBEX0s5CpFAwucBRP3Gp1) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:27 | 2024-04-14 | 2024-04-15 |
 | [Todo Fue Un Show](https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:48 | 2023-03-19 | 2026-04-09 |
 | [TQ Y YA](https://open.spotify.com/track/5DRHPNxyFaeYKLOD0i0q8z) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:52 | 2023-03-19 | 2024-08-11 |
-| [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 | 2023-05-27 |  |
-| [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 | 2024-02-21 |  |
+| [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 | 2023-05-27 | 2026-06-17 |
+| [tqum](https://open.spotify.com/track/3TQzwGfw73310RvuqBLEYb) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Latino Hits 2024](https://open.spotify.com/album/3DB9RMSI9mvwZ50yTMKdVT) | 2:29 | 2026-06-17 |  |
+| [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 | 2024-02-21 | 2026-06-17 |
+| [tqum \- Remix](https://open.spotify.com/track/3bZkRGbE7hvtfnlXpsxQLz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [La Música y las Mujeres](https://open.spotify.com/album/74SChGBL5GpfKvYggjW7I5) | 2:29 | 2026-06-17 |  |
 | [Una Señal](https://open.spotify.com/track/6AlesNEra3COtQsAvGD8Rp) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 2:51 | 2026-04-09 |  |
 | [Valiente](https://open.spotify.com/track/5bHUugTGfu636hC4knWtVP) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 3:28 | 2026-04-09 |  |
 | [Valientes](https://open.spotify.com/track/7Fyobg4Z7w4IWA36f8Sx0G) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:14 | 2023-03-19 | 2024-04-10 |

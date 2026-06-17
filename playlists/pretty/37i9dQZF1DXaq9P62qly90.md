@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,866 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,868 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 13 | [Salvation](https://open.spotify.com/track/4va2tNNWYut7ycFZ2zjvTk) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Salvation](https://open.spotify.com/album/2rJJUaHPFt7uyS8qE7wrbR) | 4:19 |
 | 14 | [You Can't Rush Your Healing](https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:51 |
 | 15 | [Keep Running](https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Burn Right Through](https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em) | 4:11 |
-| 16 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
-| 17 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
+| 16 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 |
+| 17 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
 | 18 | [I Was Just Leaving](https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [I Was Just Leaving](https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW) | 2:58 |
 | 19 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
 | 20 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 24 | [When Will I Learn](https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ) | [Rob Riccardo](https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa) | [The Fire in Me](https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet) | 4:21 |
 | 25 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
 | 26 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
-| 27 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
-| 28 | [Indigo](https://open.spotify.com/track/3eVI3IOrq5u8NPOKWSiFlP) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:31 |
+| 27 | [Indigo](https://open.spotify.com/track/3eVI3IOrq5u8NPOKWSiFlP) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:31 |
+| 28 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
 | 29 | [Change The World](https://open.spotify.com/track/318KlGWToczNB1mHZlH3SU) | [Leilani Wolfgramm](https://open.spotify.com/artist/1CJqIxlYOwcuIZAzfhfnZj), [Jacob Hemphill](https://open.spotify.com/artist/19eNU5TerePMfGRGoKxC3b), [Fortunate Youth](https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB) | [Sugarshack Sessions Selects, Vol\. 1](https://open.spotify.com/album/6uo1uYH6afoP84SUliIPkS) | 3:17 |
 | 30 | [Just to Say I Love You](https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Stay Human Vol\. II](https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH) | 2:49 |
 | 31 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 |

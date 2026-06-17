@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Chris MC, BIN",
-  "num_followers": 187999,
+  "num_followers": 188001,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
+        "name": "Tudo Que Eu Sinto Faz Barulho",
+        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 205952,
+      "name": "Doce, Dengosa, Polida",
+      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
         "name": "VIP (ningu\u00e9m te conhece)",
         "url": "https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 166250,
       "name": "VIP (ningu\u00e9m te conhece)",
       "url": "https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
-        "name": "Tudo Que Eu Sinto Faz Barulho",
-        "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 205952,
-      "name": "Doce, Dengosa, Polida",
-      "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -151,6 +151,26 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Corpo Suado",
+      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 190769,
       "name": "P\u00farpura",
       "url": "https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Corpo Suado",
-      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 171361,
+      "name": "Erro Fatal",
+      "url": "https://open.spotify.com/track/0nLgUFirsiwYuxdPBWpVt3"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
         "name": "Muito Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 202200,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/7DQ6QsjW0oYu2x5xWm78W4"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 171361,
-      "name": "Erro Fatal",
-      "url": "https://open.spotify.com/track/0nLgUFirsiwYuxdPBWpVt3"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -367,30 +367,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "Do Que \u00e9 Feito o Amor?",
-      "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Rosa Maria",
         "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
       },
@@ -403,6 +379,22 @@
       "duration_ms": 232390,
       "name": "Rosa Maria",
       "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "Eu Sou S\u00f3 Minha (Live from Vevo)",
+        "url": "https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Eu Sou S\u00f3 Minha - Live",
+      "url": "https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -427,18 +419,26 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Eu Sou S\u00f3 Minha (Live from Vevo)",
-        "url": "https://open.spotify.com/album/6bX9t2JWqNwuZCL3VrBP80"
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
       "artists": [
         {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Eu Sou S\u00f3 Minha - Live",
-      "url": "https://open.spotify.com/track/34qgCotJhDI8vhQysVIpai"
+      "duration_ms": 223808,
+      "name": "Do Que \u00e9 Feito o Amor?",
+      "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -463,6 +463,38 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "De Lua",
+      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "P\u00farpura Session",
+        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 200083,
+      "name": "Dona Do Mundo (P\u00farpura Session)",
+      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
         "name": "s\u00f3 (mais) uma vez",
         "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
       },
@@ -483,22 +515,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "De Lua",
-        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "De Lua",
-      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Despacha",
         "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 178557,
       "name": "Despacha",
       "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
-        "name": "P\u00farpura Session",
-        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 200083,
-      "name": "Dona Do Mundo (P\u00farpura Session)",
-      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 158598,
+      "name": "Tons de Marrom",
+      "url": "https://open.spotify.com/track/5FKCQSAaEO7uQAQvpk9ZXP"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 240522,
       "name": "Outono",
       "url": "https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 158598,
-      "name": "Tons de Marrom",
-      "url": "https://open.spotify.com/track/5FKCQSAaEO7uQAQvpk9ZXP"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Muito Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 148965,
       "name": "Perigos&Macetes",
       "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -915,6 +915,30 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
+        "name": "Visto por \u00daltimo",
+        "url": "https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Scarp",
+          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "duration_ms": 118356,
+      "name": "Sinais de Relev\u00e2ncia",
+      "url": "https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -959,30 +983,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Visto por \u00daltimo",
-        "url": "https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Scarp",
-          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 118356,
-      "name": "Sinais de Relev\u00e2ncia",
-      "url": "https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
         "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
       },
@@ -1011,6 +1011,26 @@
       "duration_ms": 195169,
       "name": "Tenta a Sorte",
       "url": "https://open.spotify.com/track/403HXmtlfUEBNCKjpcB0Eg"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "Desalinho",
+        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 205357,
+      "name": "Desalinho",
+      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -1059,22 +1079,22 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Desalinho",
-        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+        "name": "Te Faria",
+        "url": "https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+          "name": "Ellen Ol\u00e9ria",
+          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
         },
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
         }
       ],
-      "duration_ms": 205357,
-      "name": "Desalinho",
-      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
+      "duration_ms": 184059,
+      "name": "Te Faria",
+      "url": "https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -1099,22 +1119,22 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Te Faria",
-        "url": "https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW"
+        "name": "Jeito Certo",
+        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
       "artists": [
         {
-          "name": "Ellen Ol\u00e9ria",
-          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         },
         {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 184059,
-      "name": "Te Faria",
-      "url": "https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo"
+      "duration_ms": 190993,
+      "name": "Jeito Certo",
+      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -1155,26 +1175,6 @@
       "duration_ms": 282352,
       "name": "sexta de manh\u00e3",
       "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
-        "name": "Jeito Certo",
-        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 190993,
-      "name": "Jeito Certo",
-      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -1223,38 +1223,6 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "Viu!?",
-        "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
-      },
-      "artists": [
-        {
-          "name": "Cyro Sampaio",
-          "url": "https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g"
-        }
-      ],
-      "duration_ms": 185499,
-      "name": "Viu!?",
-      "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
-        "name": "pode me gravar :)",
-        "url": "https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL"
-      },
-      "artists": [
-        {
-          "name": "Perigato",
-          "url": "https://open.spotify.com/artist/060ctBN8nvnE8ScCkeof8I"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "pode me gravar :)",
-      "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
-    },
-    {
-      "added_at": "2026-06-12 03:01:48",
-      "album": {
         "name": "Me Deixa Ser Pausa",
         "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
       },
@@ -1267,6 +1235,22 @@
       "duration_ms": 127389,
       "name": "Me Deixa Ser Pausa",
       "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "Viu!?",
+        "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
+      },
+      "artists": [
+        {
+          "name": "Cyro Sampaio",
+          "url": "https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g"
+        }
+      ],
+      "duration_ms": 185499,
+      "name": "Viu!?",
+      "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -1291,22 +1275,18 @@
     {
       "added_at": "2026-06-12 03:01:48",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+        "name": "pode me gravar :)",
+        "url": "https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL"
       },
       "artists": [
         {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/49PaseNfT1nE3x2Ms7jZww"
+          "name": "Perigato",
+          "url": "https://open.spotify.com/artist/060ctBN8nvnE8ScCkeof8I"
         }
       ],
-      "duration_ms": 213421,
-      "name": "risco",
-      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
+      "duration_ms": 169384,
+      "name": "pode me gravar :)",
+      "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
     },
     {
       "added_at": "2026-06-12 03:01:48",
@@ -1323,6 +1303,26 @@
       "duration_ms": 149610,
       "name": "TRATO",
       "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
+    },
+    {
+      "added_at": "2026-06-12 03:01:48",
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/49PaseNfT1nE3x2Ms7jZww"
+        }
+      ],
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "added_at": "2026-06-12 03:01:48",

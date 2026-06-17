@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > The new & hottest K\-Pop is here! \(Cover: RIIZE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,136,113 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,136,444 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 6 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 | 7 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 |
 | 8 | [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 |
-| 9 | [SNAPBACK](https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [SNAPBACK](https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ) | 2:33 |
-| 10 | [Suddenly](https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [I.O.I 3rd MINI ALBUM \[I.O.I : LOOP\]](https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp) | 3:15 |
-| 11 | [Crow](https://open.spotify.com/track/4mZc0r3NFubFbe9xMOkZGJ) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Crow](https://open.spotify.com/album/5vw0oyoUojZ3C1JOiSY5hU) | 3:11 |
-| 12 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 |
-| 13 | [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 |
-| 14 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
+| 9 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
+| 10 | [SNAPBACK](https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [SNAPBACK](https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ) | 2:33 |
+| 11 | [Suddenly](https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [I.O.I 3rd MINI ALBUM \[I.O.I : LOOP\]](https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp) | 3:15 |
+| 12 | [Crow](https://open.spotify.com/track/4mZc0r3NFubFbe9xMOkZGJ) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Crow](https://open.spotify.com/album/5vw0oyoUojZ3C1JOiSY5hU) | 3:11 |
+| 13 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 |
+| 14 | [Atmos](https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atmos \- The 6th Mini Album](https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi) | 3:13 |
 | 15 | [Baby Flower](https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z) | 3:08 |
 | 16 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
 | 17 | [Motto](https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
 | 50 | [Curious](https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 01: Curiosity](https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD) | 2:58 |
 
-Snapshot ID: `AAAAAIfGINGK2LjBuXpnXcTjhO1qblel`
+Snapshot ID: `AAAAACHu3FbYWC2KM9QLN+7J5uENPjhG`

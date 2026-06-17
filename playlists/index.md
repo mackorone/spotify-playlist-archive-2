@@ -1,4 +1,4 @@
-## Playlists \(9258\)
+## Playlists \(9259\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4536,7 +4536,7 @@
 - [Office Garden](/playlists/pretty/37i9dQZF1DX00KQQMCcMxZ.md)
 - [Office Music \(New & Old Hits!\)](/playlists/pretty/4MGjsC9FFb2SlwoNuSdI9d.md)
 - [Office Offensive](/playlists/pretty/37i9dQZF1DXdEXmWwCHnI5.md)
-- [Offizielle Deutsche Streaming\-Charts KW 23.2026 / German Streaming\-Charts](/playlists/pretty/17yrHIa2wUkOVsqdruIy53.md)
+- [Offizielle Deutsche Streaming\-Charts KW 24.2026 / German Streaming\-Charts](/playlists/pretty/17yrHIa2wUkOVsqdruIy53.md)
 - [Old School Hip\-Hop House Party](/playlists/pretty/37i9dQZF1DX30w0JtSIv4j.md)
 - [Old School Metal](/playlists/pretty/37i9dQZF1DX2LTcinqsO68.md)
 - [Old School Reggaeton](/playlists/pretty/37i9dQZF1DX8SfyqmSFDwe.md)
@@ -6881,6 +6881,7 @@
 - [This Is Koe Wetzel](/playlists/pretty/37i9dQZF1DZ06evO146luW.md)
 - [This Is Korn](/playlists/pretty/37i9dQZF1DZ06evO2fOjra.md)
 - [This Is Krewella](/playlists/pretty/37i9dQZF1DZ06evO0iw5UY.md)
+- [This Is Kris Bowers](/playlists/pretty/37i9dQZF1DZ06evO1rXL3w.md)
 - [This Is Kris Kristofferson](/playlists/pretty/37i9dQZF1DZ06evO0eLt2e.md)
 - [This Is Kygo](/playlists/pretty/37i9dQZF1DX60EDqDORwwI.md)
 - [This Is Kylie Minogue](/playlists/pretty/37i9dQZF1DZ06evO2Rc8G4.md)

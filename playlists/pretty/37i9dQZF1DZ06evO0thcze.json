@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAC3/jDHUmvO6MEhMCGPz0zo",
+  "snapshot_id": "ai9AgAAAAADwvHQJxpvLWqrawur4fD5w",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Hasta Arriba Vol.2",
+        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 280421,
+      "name": "El Cumbi\u00f3n",
+      "url": "https://open.spotify.com/track/18hfIdKEFDdXEwktiVSwCw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Compas X Vida",
         "url": "https://open.spotify.com/album/0UKBcgFTj9tQvzQBmX7l7m"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 236800,
       "name": "Compas X Vida",
       "url": "https://open.spotify.com/track/6UU8pebY7jf2F6n52bqnui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba Vol.2",
-        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 280421,
-      "name": "El Cumbi\u00f3n",
-      "url": "https://open.spotify.com/track/18hfIdKEFDdXEwktiVSwCw"
     },
     {
       "added_at": null,

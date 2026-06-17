@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,117 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,117 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 34 | [Gloria](https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:28 |
 | 35 | [Rainy Days and Mondays](https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 6:35 |
 | 36 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
-| 37 | [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 |
-| 38 | [Dance Boy](https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:13 |
+| 37 | [Dance Boy](https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:13 |
+| 38 | [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 |
 | 39 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
 | 40 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
-| 41 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 |
-| 42 | [I'm Glad Your're My Girl](https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:45 |
-| 43 | [Wonder What Kind of Bag She's In](https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:36 |
-| 44 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
-| 45 | [I've Got Love for You](https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:16 |
+| 41 | [I'm Glad Your're My Girl](https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:45 |
+| 42 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 |
+| 43 | [\(YOU'D BETTER\) CHECK YOURSELF \- Live At The Nixon Theatre 1967](https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Jimmy Bishop On Stage Live At The Nixon Theatre](https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx) | 3:58 |
+| 44 | [Wonder What Kind of Bag She's In](https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:36 |
+| 45 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
+| 46 | [I've Got Love for You](https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:16 |
 
-Snapshot ID: `ai3vAAAAAABqn6J9leXu7aveReyOM1tp`
+Snapshot ID: `ai9AgAAAAADBxroIF56v3QGZgfd+19Bf`

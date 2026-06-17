@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,144 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,134 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 45 | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/album/1HoKUWp7mHeJErg7rRWp5q) | 2:53 |
 | 46 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
 | 47 | [10 kniver i hjertet](https://open.spotify.com/track/5aFGctSPjWXPiFX5HupQuS) | [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [10 kniver i hjertet](https://open.spotify.com/album/1wMpMqsuPkVm4xfwM7y8JJ) | 2:52 |
-| 48 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
-| 49 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 |
+| 48 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 |
+| 49 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
 | 50 | [MS\. SEROTONIN](https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [MS\. SEROTONIN](https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP) | 2:32 |
 | 51 | [Det går bra](https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Det går bra](https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF) | 3:17 |
 | 52 | [Siste første dans](https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bedre dager](https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4) | 3:40 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 66 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
 | 67 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 |
 | 68 | [Delt i to](https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Delt i to](https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN) | 3:15 |
-| 69 | [Never Be Friends](https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Never Be Friends](https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD) | 2:59 |
-| 70 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 |
+| 69 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 |
+| 70 | [Never Be Friends](https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Never Be Friends](https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD) | 2:59 |
 | 71 | [Oslo / Karachi / Paris](https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 2](https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7) | 4:09 |
 | 72 | [Gro Harlem Brundtland](https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gro Harlem Brundtland](https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN) | 2:48 |
 | 73 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 80 | [Rosary](https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Rosary](https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W) | 2:22 |
 | 81 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 |
 | 82 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
-| 83 | [Solgangsbrisen](https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo) | [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Solgangsbrisen](https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6) | 3:25 |
+| 83 | [Lykkelig uten meg](https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1) | [Andrea Bredesen Holm](https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt) | [Lykkelig uten meg](https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6) | 3:05 |
 | 84 | [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 |
-| 85 | [Lykkelig uten meg](https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1) | [Andrea Bredesen Holm](https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt) | [Lykkelig uten meg](https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6) | 3:05 |
+| 85 | [Solgangsbrisen](https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo) | [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Solgangsbrisen](https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6) | 3:25 |
 
 Snapshot ID: `AAAAAKvvFSM+LxUhv/yRclUaVsxKw2Fq`

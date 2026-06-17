@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,176 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,198 likes - 70 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 67 | [Meu Sangue Ferve Por Você](https://open.spotify.com/track/7DFmmRFl6ms2E9FNCVyM0T) | [Sidney Magal](https://open.spotify.com/artist/5rTeMryHu78OcG49ySDHU1) | [Chacrinha \- O Musical](https://open.spotify.com/album/0BA8MBSI22zv5YhFeAUEHe) | 3:14 |
 | 68 | [Emoriô](https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 2:42 |
 | 69 | [Vou Festejar](https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 3:10 |
-| 70 | [Um raio laser](https://open.spotify.com/track/2s1BwI22Ay6ZagD1ube6yn) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Um Raio Laser](https://open.spotify.com/album/7inldfPDvUkQCvJkBrsf0m) | 3:26 |
+| 70 | [Calor no Rio](https://open.spotify.com/track/3ThEeFihlrZhfaAPItIArO) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 3:09 |
 
 Snapshot ID: `AAAAADd59DAOpNmSfaS2MFpv/6CPzhvc`

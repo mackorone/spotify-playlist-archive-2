@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 
 > This is Spiritbox\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,779 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,809 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 | 14 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
 | 15 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
 | 16 | [Hurt You](https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:46 |
-| 17 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 |
-| 18 | [Rotoscope](https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:35 |
+| 17 | [Rotoscope](https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:35 |
+| 18 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 |
 | 19 | [Tsunami Sea](https://open.spotify.com/track/7bGzUyc4a949g2c0EIzMpx) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:16 |
 | 20 | [The Summit](https://open.spotify.com/track/6PmAWNUMqIJbTbfCOuhwSf) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:57 |
-| 21 | [Angel Eyes](https://open.spotify.com/track/1l2AhmjfTTmo5lxTej3XcJ) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 3:28 |
-| 22 | [Hysteria](https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:44 |
+| 21 | [Hysteria](https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:44 |
+| 22 | [Angel Eyes](https://open.spotify.com/track/1l2AhmjfTTmo5lxTej3XcJ) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 3:28 |
 | 23 | [Black Rainbow](https://open.spotify.com/track/3xNwSLvN6QsZ6BgUbQKRm3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:24 |
 | 24 | [Yellowjacket \- feat\. Sam Carter](https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:18 |
-| 25 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 |
-| 26 | [Sew Me Up](https://open.spotify.com/track/1YQiA0Kfml44BqF68ZQ48n) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:31 |
+| 25 | [Sew Me Up](https://open.spotify.com/track/1YQiA0Kfml44BqF68ZQ48n) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:31 |
+| 26 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 |
 | 27 | [Fata Morgana](https://open.spotify.com/track/14iSCO87Qveq9UXCtN48Vm) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:21 |
 | 28 | [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o) | [2XKO](https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs), [Joe Ford](https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF) | [Ties That Bind \(feat\. Courtney LaPlante of Spiritbox\)](https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO) | 3:51 |
 | 29 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 | 39 | [Electric Cross](https://open.spotify.com/track/0ADnhZNVVnSApQStXz2XxK) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Singles Collection](https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC) | 5:23 |
 | 40 | [10:16](https://open.spotify.com/track/7cHXbLD2MHOwGTezFgAQIc) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 1:08 |
 
-Snapshot ID: `ai3vAAAAAABR6vrkLcwIHmfZQOzBr4OI`
+Snapshot ID: `ai9AgAAAAADEoADSXQ7lv8cIPiVFWW22`

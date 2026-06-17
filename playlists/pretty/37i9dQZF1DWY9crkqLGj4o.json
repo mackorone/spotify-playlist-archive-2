@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 449795,
+  "num_followers": 449826,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -251,38 +251,6 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Uma Coisa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 360500,
-      "name": "Uma Coisa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5IY9xOZ28mVZAvjDkXmegz"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 277680,
-      "name": "Mesmo Sem Entender - Ao Vivo",
-      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
         "name": "Preto no Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 368346,
       "name": "Os Sonhos de Deus (feat. Luk\u00e3o Carvalho & Eli Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/6IdgK0aBrVMfyFGcADSUgM"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 277680,
+      "name": "Mesmo Sem Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Uma Coisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 360500,
+      "name": "Uma Coisa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5IY9xOZ28mVZAvjDkXmegz"
     },
     {
       "added_at": "2026-01-30 13:05:09",

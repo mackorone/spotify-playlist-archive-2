@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u539f\u53e3\u6c99\u8f14",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u306a\u3068\u308a",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "BLUE MOON",
+        "url": "https://open.spotify.com/album/18CXSP7SAugNUkIgahOj9I"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203592,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/0SKSjL22ps9UPlBx5ClTGi"
+    },
+    {
+      "album": {
         "name": "Blues in the Closet",
         "url": "https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK"
       },
@@ -1678,6 +1696,28 @@
       "duration_ms": 226874,
       "name": "Bubble (feat. Uta)",
       "url": "https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3"
+    },
+    {
+      "album": {
+        "name": "BUBBLEBEAM",
+        "url": "https://open.spotify.com/album/5PiQ9SdcT0Ol62mRwIjh4N"
+      },
+      "artists": [
+        {
+          "name": "MANON",
+          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
+        },
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212990,
+      "name": "BUBBLEBEAM",
+      "url": "https://open.spotify.com/track/6vQEqIkyLjOGLSSCIdLxoX"
     },
     {
       "album": {
@@ -6164,7 +6204,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 179478,
       "name": "letter",
       "url": "https://open.spotify.com/track/3seaPrGtwsFxKIpCfHp0g3"
@@ -6312,6 +6352,28 @@
       "duration_ms": 232173,
       "name": "Lonely in Gorgeous",
       "url": "https://open.spotify.com/track/1Dl1SlF0wySEhHDrn74f3H"
+    },
+    {
+      "album": {
+        "name": "Look Ahead",
+        "url": "https://open.spotify.com/album/3xZQ3P5IZ1HMXRsKIPcaEb"
+      },
+      "artists": [
+        {
+          "name": "\u6714\u96c0",
+          "url": "https://open.spotify.com/artist/0ZQ3TRg1HZ5me1m6UH7F2D"
+        },
+        {
+          "name": "hirihiri",
+          "url": "https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Look Ahead",
+      "url": "https://open.spotify.com/track/1CZMm3fzyOzIgnQSalguyr"
     },
     {
       "album": {
@@ -8384,7 +8446,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 188133,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/4k0VIBiPnlJG8GxwtAekXv"
@@ -8572,6 +8634,24 @@
       "duration_ms": 194560,
       "name": "Prima Stella",
       "url": "https://open.spotify.com/track/44ViFRPJfJTmJNEHQaKCBn"
+    },
+    {
+      "album": {
+        "name": "Puppet",
+        "url": "https://open.spotify.com/album/1ERh69jnQLIhxEj1Apzk09"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219152,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/2Ajohj72RQn88gA37KbnN8"
     },
     {
       "album": {
@@ -16588,7 +16668,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 183039,
       "name": "\u30aa\u30fc\u30d0\u30fc\u30ec\u30a4",
       "url": "https://open.spotify.com/track/1dHYSCDsrJ6iwmYDGBz0JL"
@@ -18346,7 +18426,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 219733,
       "name": "\u30bb\u30ec\u30ca\u30fc\u30c7",
       "url": "https://open.spotify.com/track/0CWAQlHsvfqcKJVVz9up2R"
@@ -21716,6 +21796,28 @@
       "duration_ms": 155981,
       "name": "\u30e2\u30a8\u30c1\u30e3\u30c3\u30ab\u30d5\u30a1\u30a4\u30a2",
       "url": "https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30c6\u305f\u3044\u3063",
+        "url": "https://open.spotify.com/album/5MeXgjtZ11EVp1nF99Mejv"
+      },
+      "artists": [
+        {
+          "name": "AVYSS",
+          "url": "https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC"
+        },
+        {
+          "name": "osoroshia kakumei",
+          "url": "https://open.spotify.com/artist/4hZZLSJFv52yKweAlCExse"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199484,
+      "name": "\u30e2\u30c6\u305f\u3044\u3063",
+      "url": "https://open.spotify.com/track/2XfeaWFJJPONj9sXpDzdmG"
     },
     {
       "album": {
@@ -25256,6 +25358,24 @@
       "duration_ms": 187158,
       "name": "\u5915\u9909",
       "url": "https://open.spotify.com/track/3uUga8325JCVj6oHg4utvc"
+    },
+    {
+      "album": {
+        "name": "\u591c\u306b\u6687\u96fb",
+        "url": "https://open.spotify.com/album/68sYcm44MMqvKEOCAt1ttb"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u7530\u7fa9\u4e45",
+          "url": "https://open.spotify.com/artist/2WovLuHff62YLJEGlqqP0L"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213184,
+      "name": "\u591c\u306b\u6687\u96fb",
+      "url": "https://open.spotify.com/track/1MkXPwdfdfyB4G8OB8K780"
     },
     {
       "album": {

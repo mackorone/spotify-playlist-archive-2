@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,261 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,412 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 33 | [More To Life](https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [More To Life](https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm) | 3:24 |
 | 34 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
 | 35 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
-| 36 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
-| 37 | [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 |
+| 36 | [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 |
+| 37 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
 | 38 | [Karibu](https://open.spotify.com/track/4oBXxS2vGRFQkAJCtDOhFI) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/0q7npq36aBv8f5C2SZzhbJ) | 4:02 |
 | 39 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
 | 40 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 45 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 46 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 47 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
-| 48 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 |
-| 49 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
+| 48 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
+| 49 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 |
 | 50 | [Not Enough](https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Not Enough](https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg) | 3:42 |
 
 Snapshot ID: `AAAAADXiggjAmXFsW6PMBSwX/5ux6qj8`

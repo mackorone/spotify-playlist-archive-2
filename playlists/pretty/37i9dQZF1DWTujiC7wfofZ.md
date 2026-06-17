@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > 100% indie floorfillers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,462 likes - 150 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,464 likes - 150 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 68 | [Life Itself](https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:41 |
 | 69 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 |
 | 70 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
-| 71 | [Change](https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:57 |
-| 72 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
+| 71 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
+| 72 | [Change](https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:57 |
 | 73 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
 | 74 | [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:06 |
 | 75 | [Here's The Thing](https://open.spotify.com/track/4J4pysp2EFNhYibI8tIg0D) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 2:43 |
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 137 | [I'm Not Gonna Teach Your Boyfriend How To Dance With You](https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1) | 3:37 |
 | 138 | [Distant Past](https://open.spotify.com/track/4L2F0LcDVtNrFc1K4lmx3m) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Get To Heaven \(Deluxe\)](https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J) | 3:41 |
 | 139 | [Zero](https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 4:25 |
-| 140 | [Clearest Blue](https://open.spotify.com/track/0ptjIq1XKNYBtfjzXQ3dXE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/6TEN694l8ifhIRfknsG8DX) | 3:53 |
-| 141 | [Switch](https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Switch](https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI) | 2:21 |
+| 140 | [Switch](https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Switch](https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI) | 2:21 |
+| 141 | [Clearest Blue](https://open.spotify.com/track/0ptjIq1XKNYBtfjzXQ3dXE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/6TEN694l8ifhIRfknsG8DX) | 3:53 |
 | 142 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 |
 | 143 | [Pedestrian At Best](https://open.spotify.com/track/7w7qzJd1j5FQVexn9TuxJw) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit And Think, And Sometimes I Just Sit](https://open.spotify.com/album/1VHxShkFJR9xA281epCtkz) | 3:50 |
 | 144 | [Forever](https://open.spotify.com/track/5hfP8cKSzpfBisP3R24cAy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:05 |

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-382 songs - 1 day 1 hr 46 min
+383 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 | 2024-04-09 | 2024-07-27 |
 | [Masterclass](https://open.spotify.com/track/08KQZbwrjvdXQrnzv9gxG6) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:19 | 2024-07-18 | 2024-11-12 |
 | [Maxillary](https://open.spotify.com/track/5AmuUxZMohX4OID3qErMhM) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I) | [Maxillary Marble](https://open.spotify.com/album/3Hn6c5CEHBiaWbeGQ75xuX) | 4:08 | 2024-04-09 | 2025-07-21 |
-| [Medication](https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm) | [DØMINA](https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD) | [Medication](https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL) | 3:58 | 2026-05-07 |  |
+| [Medication](https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm) | [DØMINA](https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD) | [Medication](https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL) | 3:58 | 2026-05-07 | 2026-06-17 |
 | [Meet Her At The Love Parade \- Mixed Cut](https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [OneSeventy: The Annual II](https://open.spotify.com/album/6qcw68pT9kM1qQWnyzmZev) | 2:44 | 2024-04-09 | 2024-08-06 |
 | [Meet Me In São Paulo \(Grelinho De Diamante\)](https://open.spotify.com/track/2uWlcCQw3nbQosOPkiLHQt) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6) | [Meet Me In São Paulo \(Grelinho De Diamante\) \(feat\. Heavy Baile, Baby Perigosa & MC Tchelinho\)](https://open.spotify.com/album/6d0oiamRHpnu65xFI2jNax) | 5:09 | 2024-06-18 | 2025-04-25 |
 | [Merit](https://open.spotify.com/track/5xZ5zNCk56HRnxV3rq7eWh) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Mattia Trani](https://open.spotify.com/artist/0eQjVfBtEcSZ16oAq0V4mk) | [Merit](https://open.spotify.com/album/3Gni6oclkI5Iu9aKsUzyhk) | 3:48 | 2025-11-27 | 2026-01-30 |
@@ -291,6 +291,7 @@
 | [Ready \- Hard Techno Mix](https://open.spotify.com/track/0w3uKrQXk948YwATI7yUbd) | [Roentgen Limiter](https://open.spotify.com/artist/3XhTxLHKPhZrFuBdqmoc2L) | [Ready](https://open.spotify.com/album/5cxJyi502VfvaHBbZqKzOG) | 6:12 | 2024-04-09 | 2024-10-25 |
 | [Real Lies](https://open.spotify.com/track/2gPgg1kOJ3LJZQwwKVCRhh) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Real Lies](https://open.spotify.com/album/1l2mHtjSxVp0BgTlMWugZW) | 5:27 | 2024-04-09 | 2025-02-08 |
 | [Reality Check](https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Hekataia EP](https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW) | 4:52 | 2026-04-10 |  |
+| [REMEMBER THIS FACE](https://open.spotify.com/track/7bwjc2oYo6mkLblcqh0IcD) | [KLOFAMA](https://open.spotify.com/artist/4oqOypVzFhq3syFLHJZc68), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [REMEMBER THIS FACE](https://open.spotify.com/album/3cYKPp26P57F81IdlAtSnI) | 3:51 | 2026-06-11 |  |
 | [Renegade Master](https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Renegade Master](https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN) | 2:07 | 2025-02-07 |  |
 | [Reverse Bitch](https://open.spotify.com/track/0X5SKepXgvauLJRWxS004t) | [BRÅWN](https://open.spotify.com/artist/6ZCwFfoR1cUmb4KR7mPGLt) | [FIRE SERIES Vol\. 2](https://open.spotify.com/album/1CspkKn0omUXfsqzcGnHkN) | 5:46 | 2024-04-09 | 2024-08-04 |
 | [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 | 2024-08-03 |

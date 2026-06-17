@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: Chole Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,753 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,714 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 45 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
 | 46 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 |
 | 47 | [STARSTRUCK](https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [STARSTRUCK](https://open.spotify.com/album/2cRQtKWMhcmoRwWR7IwnnP) | 2:57 |
-| 48 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
-| 49 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
+| 48 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
+| 49 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
 | 50 | [Shake!](https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Shake!](https://open.spotify.com/album/28ZtOK3BBS5hujeAamNmfX) | 3:12 |
 
 Snapshot ID: `AAAAAHI9+vaigDkLRFls2asv7WewH81k`

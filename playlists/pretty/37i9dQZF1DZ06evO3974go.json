@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21126,
+  "num_followers": 21129,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAA67lT27+hCHj/Sz+mjKYz0",
+  "snapshot_id": "ai9AgAAAAABfi9L1LTSIBllFCqUtBcD/",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Be Worried",
+        "url": "https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 182303,
+      "name": "To Be Worried",
+      "url": "https://open.spotify.com/track/71fuwhvrbiuxfpBspkR93A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trap House 3",
         "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 216613,
       "name": "I Heard (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7p9i63OhLwIPAEWILdPZho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Be Worried",
-        "url": "https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 182303,
-      "name": "To Be Worried",
-      "url": "https://open.spotify.com/track/71fuwhvrbiuxfpBspkR93A"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "WWYD",
+      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 224261,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/5rcHN0ApxrVS6F6nq3uyGc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "WWYD",
-      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
     },
     {
       "added_at": null,
@@ -811,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+        "name": "Life After Fame",
+        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
       "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 188010,
-      "name": "Reloaded",
-      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
+      "duration_ms": 164622,
+      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
     },
     {
       "added_at": null,
@@ -843,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life After Fame",
-        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
       },
       "artists": [
-        {
-          "name": "Quando Rondo",
-          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
-        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 164622,
-      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
+      "duration_ms": 188010,
+      "name": "Reloaded",
+      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
     },
     {
       "added_at": null,

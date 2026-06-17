@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 36046,
+  "num_followers": 36048,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADdWzCPcutOsilW3f6qIlyv",
+  "snapshot_id": "ai9AgAAAAADVUEfqqJVDxnSOeQlaKdqs",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 140538,
+      "name": "Went Legit (Bonus)",
+      "url": "https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Slave",
         "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 176040,
       "name": "1 Scale (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5gmkw2031VVIboYqPIjSWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 140538,
-      "name": "Went Legit (Bonus)",
-      "url": "https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chicken Talkin Bastard",
-        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Ain't Easy",
-      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stress Relief (with G Herbo)",
         "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 160145,
       "name": "Stress Relief (with G Herbo)",
       "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chicken Talkin Bastard",
+        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Ain't Easy",
+      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sadetra Son",
-        "url": "https://open.spotify.com/album/6EA0460EzIdx2eNP6qmmvL"
-      },
-      "artists": [
-        {
-          "name": "Montana 700",
-          "url": "https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 171176,
-      "name": "Motion (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/2VXh0JUDiwbgpuAOvS8kqZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 162217,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sadetra Son",
+        "url": "https://open.spotify.com/album/6EA0460EzIdx2eNP6qmmvL"
+      },
+      "artists": [
+        {
+          "name": "Montana 700",
+          "url": "https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 171176,
+      "name": "Motion (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2VXh0JUDiwbgpuAOvS8kqZ"
     },
     {
       "added_at": null,

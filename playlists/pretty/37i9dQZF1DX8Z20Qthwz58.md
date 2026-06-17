@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,507 likes - 109 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,530 likes - 109 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Too Good](https://open.spotify.com/track/3GP7l2bmXT6T2FNAzERwBr) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:37 |
-| 2 | [last goodbye](https://open.spotify.com/track/2Vt1fjZnyQaz97PzEq1YKD) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [last goodbye](https://open.spotify.com/album/2b0AGO7zhU99K6RnmuzaXq) | 3:32 |
-| 3 | [Layback](https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:11 |
+| 1 | [Nick Hakim](https://open.spotify.com/track/2QQDjHuWU1uscjbWuMWN2N) | [ryojinnjane](https://open.spotify.com/artist/51Qp62oiX5RBuzytLDRYF8) | [Him and Nick Hakim](https://open.spotify.com/album/4c7jOCeocr4YL4RaYFnTpW) | 2:27 |
+| 2 | [Too Good](https://open.spotify.com/track/3GP7l2bmXT6T2FNAzERwBr) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:37 |
+| 3 | [last goodbye](https://open.spotify.com/track/2Vt1fjZnyQaz97PzEq1YKD) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [last goodbye](https://open.spotify.com/album/2b0AGO7zhU99K6RnmuzaXq) | 3:32 |
 | 4 | [Garden State Dreamers](https://open.spotify.com/track/4rhU6LPPCcCC9IGOI26Tmw) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEEN TROUBLES](https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8) | 3:40 |
 | 5 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
 | 6 | [ERYKAH BADU \(Feat\. CAMO\)](https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:44 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 108 | [FALLING \(Prod\. by DPR CREAM\)](https://open.spotify.com/track/7juTYHp1dyt6nTZkoTDDGz) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [FALLING](https://open.spotify.com/album/7GuHK5TQvgC2ud3IPfp1rh) | 3:34 |
 | 109 | [Butterfly](https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf) | 3:57 |
 
-Snapshot ID: `AAAAAAXvRuMjJWS56dS3GxyqGSJqygwX`
+Snapshot ID: `AAAAAFgyW4j40dXWx4fNrl1LDHdpk//p`

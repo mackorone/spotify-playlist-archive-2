@@ -1317,6 +1317,32 @@
     },
     {
       "album": {
+        "name": "Rutter: Requiem & Magnificat",
+        "url": "https://open.spotify.com/album/5nxI9OQNtMN2vmwS43cLav"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369733,
+      "name": "I. Requiem aeternam",
+      "url": "https://open.spotify.com/track/53J1g7Axs1SFsGpQAK62aJ"
+    },
+    {
+      "album": {
         "name": "The Sacred Flame",
         "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
@@ -2292,7 +2318,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 120480,
       "name": "Lord, For Thy Tender Mercy's Sake",
       "url": "https://open.spotify.com/track/1yNEdZnBIiPH6rFpuvu6VQ"
@@ -2584,7 +2610,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 216133,
       "name": "O vos omnes",
       "url": "https://open.spotify.com/track/4aTIhTWsdcmNyTDgGj7Y6E"
@@ -3718,7 +3744,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 311600,
       "name": "VI. The Lord Is my Shepherd",
       "url": "https://open.spotify.com/track/07JVfLUMWbnZLEnWoftLx6"

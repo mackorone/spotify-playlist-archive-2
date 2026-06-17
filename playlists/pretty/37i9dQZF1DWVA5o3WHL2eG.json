@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: BROCKHOFF",
-  "num_followers": 49857,
+  "num_followers": 49852,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-06-02 22:00:33",
       "album": {
+        "name": "Mascara",
+        "url": "https://open.spotify.com/album/3h7k7XEpZ4wxGyfzO3Eyvk"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "duration_ms": 151106,
+      "name": "Mascara",
+      "url": "https://open.spotify.com/track/23jeo9x3nDuXSBBp8A4RTo"
+    },
+    {
+      "added_at": "2026-06-02 22:00:33",
+      "album": {
         "name": "Sin miedo",
         "url": "https://open.spotify.com/album/6lckoOEGdRo7qirCBzgdaQ"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 158780,
       "name": "Sin miedo",
       "url": "https://open.spotify.com/track/0mkUD2LmmaMQA0H6LQvs1I"
-    },
-    {
-      "added_at": "2026-06-02 22:00:33",
-      "album": {
-        "name": "Mascara",
-        "url": "https://open.spotify.com/album/3h7k7XEpZ4wxGyfzO3Eyvk"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        }
-      ],
-      "duration_ms": 151106,
-      "name": "Mascara",
-      "url": "https://open.spotify.com/track/23jeo9x3nDuXSBBp8A4RTo"
     },
     {
       "added_at": "2026-06-02 22:00:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-02 22:00:33",
       "album": {
-        "name": "I LIKE YOU",
-        "url": "https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB"
-      },
-      "artists": [
-        {
-          "name": "Melicious",
-          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
-        }
-      ],
-      "duration_ms": 156387,
-      "name": "I LIKE YOU",
-      "url": "https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT"
-    },
-    {
-      "added_at": "2026-06-02 22:00:33",
-      "album": {
         "name": "AFTERPARTY",
         "url": "https://open.spotify.com/album/6NleuMGkvZtoMuxFHpIrmv"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 124566,
       "name": "AFTERPARTY",
       "url": "https://open.spotify.com/track/7cXaKAI2HThRDSWPETLJZq"
+    },
+    {
+      "added_at": "2026-06-02 22:00:33",
+      "album": {
+        "name": "I LIKE YOU",
+        "url": "https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB"
+      },
+      "artists": [
+        {
+          "name": "Melicious",
+          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "I LIKE YOU",
+      "url": "https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT"
     },
     {
       "added_at": "2026-06-02 22:00:33",

@@ -1,6 +1,6 @@
 {
   "description": "Muy a mi nivel \ud83d\udc8b\u2728 ",
-  "num_followers": 131427,
+  "num_followers": 131476,
   "original_name": "Playlist de chava ",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-04-24 06:00:21",
       "album": {
+        "name": "Love. Angel. Music. Baby.",
+        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
+    },
+    {
+      "added_at": "2026-04-24 06:00:21",
+      "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2026-04-24 06:00:21",
       "album": {
-        "name": "Love. Angel. Music. Baby.",
-        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Hollaback Girl",
-      "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
-    },
-    {
-      "added_at": "2026-04-24 06:00:21",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 156520,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
-    },
-    {
-      "added_at": "2026-04-24 06:00:21",
-      "album": {
-        "name": "M\u00e1s Cara",
-        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 155867,
-      "name": "M\u00e1s Cara",
-      "url": "https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ"
     },
     {
       "added_at": "2026-04-24 06:00:21",
@@ -815,6 +799,38 @@
     {
       "added_at": "2026-04-24 06:00:21",
       "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 155867,
+      "name": "M\u00e1s Cara",
+      "url": "https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ"
+    },
+    {
+      "added_at": "2026-04-24 06:00:21",
+      "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "added_at": "2026-04-24 06:00:21",
+      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 220941,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
-    },
-    {
-      "added_at": "2026-04-24 06:00:21",
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
       "added_at": "2026-04-24 06:00:21",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-04-24 06:00:21",
       "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
-    },
-    {
-      "added_at": "2026-04-24 06:00:21",
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 244440,
       "name": "Into You",
       "url": "https://open.spotify.com/track/49gRYU6hBWgSH2JVixGkJq"
+    },
+    {
+      "added_at": "2026-04-24 06:00:21",
+      "album": {
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Todos Me Miran",
+      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
     },
     {
       "added_at": "2026-04-24 06:00:21",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2026-04-24 06:00:21",
       "album": {
-        "name": "J\u00e1lale alv",
-        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 109866,
-      "name": "J\u00e1lale alv",
-      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
-    },
-    {
-      "added_at": "2026-04-24 06:00:21",
-      "album": {
         "name": "Save Me Tonight",
         "url": "https://open.spotify.com/album/59WUvoIGrL6FrhwhUYgNeM"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 196003,
       "name": "Save Me Tonight",
       "url": "https://open.spotify.com/track/4xpgAJsYNK9oWbFHm40yyK"
+    },
+    {
+      "added_at": "2026-04-24 06:00:21",
+      "album": {
+        "name": "J\u00e1lale alv",
+        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 109866,
+      "name": "J\u00e1lale alv",
+      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
     },
     {
       "added_at": "2026-04-24 06:00:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrV3kHM4eB.md) - [plain]
 
 > Heroes assemble\. Ignite the Battle\. The official music from Marvel Rivals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,205 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,231 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

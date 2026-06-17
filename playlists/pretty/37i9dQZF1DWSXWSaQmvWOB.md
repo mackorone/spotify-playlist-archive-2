@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: GIVĒON
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,799 likes - 118 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,908 likes - 118 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 117 | [I'll Never Say No](https://open.spotify.com/track/0W91VhI3jdzWeOy5rRlLA6) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [I'll Never Say No](https://open.spotify.com/album/4v62Z1xy3JgUDdkSX1o5uR) | 2:39 |
 | 118 | [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 |
 
-Snapshot ID: `AAAAAKxhu4g0zaM5fZZtZ/oQfYsIHoK7`
+Snapshot ID: `AAAAAIuy0aQPFwZdy+BNZquufmPHzIPr`

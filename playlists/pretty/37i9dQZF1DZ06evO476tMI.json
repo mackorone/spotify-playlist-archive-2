@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 642024,
+  "num_followers": 642052,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADeNhJpoDju+XFfPWR8m7r1",
+  "snapshot_id": "ai9AgAAAAAD0i+VrrT8KFYbsSViEmNux",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 251255,
+      "name": "All The Man That I Need",
+      "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 218006,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 251255,
-      "name": "All The Man That I Need",
-      "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 277186,
-      "name": "So Emotional",
-      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 299713,
       "name": "I'm Your Baby Tonight",
       "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 277186,
+      "name": "So Emotional",
+      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 219967,
-      "name": "I Didn't Know My Own Strength",
-      "url": "https://open.spotify.com/track/2d8012yMxNQF0jS3zxo4nU"
+      "duration_ms": 253076,
+      "name": "Call You Tonight",
+      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 253076,
-      "name": "Call You Tonight",
-      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
+      "duration_ms": 219967,
+      "name": "I Didn't Know My Own Strength",
+      "url": "https://open.spotify.com/track/2d8012yMxNQF0jS3zxo4nU"
     },
     {
       "added_at": null,
@@ -763,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 245533,
-      "name": "If I Told You That (feat. George Michael) - Radio Edit",
-      "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
+      "duration_ms": 260293,
+      "name": "You'll Never Stand Alone",
+      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
     },
     {
       "added_at": null,
@@ -799,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 260293,
-      "name": "You'll Never Stand Alone",
-      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
+      "duration_ms": 245533,
+      "name": "If I Told You That (feat. George Michael) - Radio Edit",
+      "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
     },
     {
       "added_at": null,

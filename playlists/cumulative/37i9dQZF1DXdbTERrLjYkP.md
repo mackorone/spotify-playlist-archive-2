@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Lexi Jayde
 
-1,090 songs - 2 day 10 hr 45 min
+1,091 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2023-03-31 | 2023-07-08 |
 | [Funeral](https://open.spotify.com/track/4BvRbNPdT7ORpX8h70FrFo) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Funeral](https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq) | 3:31 | 2022-08-26 | 2022-12-24 |
 | [Future Emma](https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Future Emma](https://open.spotify.com/album/6fCdybjQTL2stzYvev2hPk) | 4:19 | 2025-04-11 | 2025-07-26 |
-| [Gale](https://open.spotify.com/track/6nFUqMJ8bGX78npDfMm8Ho) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Gale](https://open.spotify.com/album/3EhSBVM5HLJO37J0QRvLsS) | 3:28 | 2026-01-23 |  |
+| [Gale](https://open.spotify.com/track/6nFUqMJ8bGX78npDfMm8Ho) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Gale](https://open.spotify.com/album/3EhSBVM5HLJO37J0QRvLsS) | 3:28 | 2026-01-23 | 2026-06-17 |
 | [Games](https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Games](https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG) | 2:50 | 2026-01-16 | 2026-04-25 |
 | [Gangster's Wife](https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Sunny in London \(Acoustic\)](https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8) | 2:39 | 2026-02-16 | 2026-06-13 |
 | [Gasoline](https://open.spotify.com/track/7BoVhTeOg7m2sfQb9g6FXe) | [Syd Franklin](https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7) | [Gasoline](https://open.spotify.com/album/6nXYRmtCw2OgR0ZgVo7G0y) | 3:11 | 2024-08-09 | 2025-01-04 |
@@ -674,6 +674,7 @@
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-04 | 2022-06-25 |
 | [Mr\. Predictable](https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mr\. Predictable](https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv) | 3:21 | 2025-02-21 | 2025-06-07 |
 | [Muscle Memory](https://open.spotify.com/track/66MkUGsPCH3k12PHghVQaQ) | [Tatiana Manaois](https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI) | [Muscle Memory](https://open.spotify.com/album/1pWzezVNG1OBtP62iJs6c3) | 3:28 | 2022-01-14 | 2022-05-20 |
+| [My Baby Loves Me For Free \- demo](https://open.spotify.com/track/2QNhVsgY7qQ2yEu4lkhgAv) | [Tadhg Nolan](https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B) | [My Baby Loves Me for Free \(demo\)](https://open.spotify.com/album/7pn4oUMpRiHNvVPc9b6cBd) | 2:01 | 2026-06-16 |  |
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-18 | 2022-04-12 |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-22 | 2022-12-17 |
 | [My Kind of Freak](https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Stars and Teeth](https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V) | 3:11 | 2026-04-03 |  |

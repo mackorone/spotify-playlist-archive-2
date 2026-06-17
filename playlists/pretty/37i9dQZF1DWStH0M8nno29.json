@@ -1,6 +1,6 @@
 {
   "description": "The perfect mix of your favourite 00s, 10s and 20s party starters!",
-  "num_followers": 213692,
+  "num_followers": 213697,
   "original_name": "Ultimate Party Mix",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -391,6 +391,26 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -727,6 +727,26 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -759,26 +779,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "Break Free",
-      "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "The Time Of Our Lives (International Version)",
         "url": "https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Meet Me Halfway",
+      "url": "https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -831,22 +847,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Meet Me Halfway",
-      "url": "https://open.spotify.com/track/3F9ByoUqu31xU0I3G5xfVg"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -859,26 +859,6 @@
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -903,6 +883,26 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 218146,
       "name": "rockstar (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Crazy In Love (feat. JAY-Z)",
-      "url": "https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -971,6 +951,26 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Crazy In Love (feat. JAY-Z)",
+      "url": "https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "A Girl Like Me",
-        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 238920,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 238920,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2025-12-30 12:21:13",
+      "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
@@ -1383,26 +1399,6 @@
       "duration_ms": 177525,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2025-12-30 12:21:13",
-      "album": {
-        "name": "Infinity 2008",
-        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
-      },
-      "artists": [
-        {
-          "name": "Guru Josh Project",
-          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
-        },
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 192294,
-      "name": "Infinity 2008 - Klaas Vocal Edit",
-      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
     },
     {
       "added_at": "2025-12-30 12:21:13",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2025-12-30 12:21:13",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+        "name": "Infinity 2008",
+        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Guru Josh Project",
+          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
+        },
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+      "duration_ms": 192294,
+      "name": "Infinity 2008 - Klaas Vocal Edit",
+      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
     },
     {
       "added_at": "2025-12-30 12:21:13",

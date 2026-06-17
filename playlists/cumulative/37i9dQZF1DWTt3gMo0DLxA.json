@@ -508,7 +508,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 282811,
       "name": "Andala Ada Bomma",
       "url": "https://open.spotify.com/track/7zUE9Rc4Z23PNDLo9Ih7VN"
@@ -1450,6 +1450,32 @@
       "duration_ms": 273072,
       "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
       "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
+    },
+    {
+      "album": {
+        "name": "Aditya 369",
+        "url": "https://open.spotify.com/album/60mVsnKrvt4xKoGhwnvr6w"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285133,
+      "name": "Chilipi Yaatralo",
+      "url": "https://open.spotify.com/track/5lQIAtHSMnC61dVIqklddd"
     },
     {
       "album": {
@@ -3005,6 +3031,36 @@
     },
     {
       "album": {
+        "name": "Hello Bossuu (From \"Sing Geetham\")",
+        "url": "https://open.spotify.com/album/5mbimtpmLf3vZ8gQdFM10h"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "R.P. Krishaang",
+          "url": "https://open.spotify.com/artist/7yH2kiixlrhNSxZNo0zfv1"
+        },
+        {
+          "name": "Wamcee Goud",
+          "url": "https://open.spotify.com/artist/3yNFyrDGsjLYaNyAHprruv"
+        },
+        {
+          "name": "Utthana Bharighat",
+          "url": "https://open.spotify.com/artist/2UQkDNGnHHFpvjW4Y1dlV3"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124857,
+      "name": "Hello Bossuu (From \"Sing Geetham\")",
+      "url": "https://open.spotify.com/track/1NPYjjjuw6VH8glB3DxieT"
+    },
+    {
+      "album": {
         "name": "Sreekaram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/72FQPRyqPBYcuJcYriY56P"
       },
@@ -4427,6 +4483,28 @@
     },
     {
       "album": {
+        "name": "Parugu",
+        "url": "https://open.spotify.com/album/5q4eIpQXgp15wpzkAhIamg"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279985,
+      "name": "Manakannapodichey",
+      "url": "https://open.spotify.com/track/2jsc85acffgcryq8Szk57P"
+    },
+    {
+      "album": {
         "name": "Munna",
         "url": "https://open.spotify.com/album/2QcLti2H8iKe66Uqr7ej6H"
       },
@@ -4528,7 +4606,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 267500,
       "name": "Manasu Maree",
       "url": "https://open.spotify.com/track/3s3qs1nUuyvcGaaSLjlJxc"
@@ -5847,6 +5925,32 @@
     },
     {
       "album": {
+        "name": "Ori Jeevuda (From \"Sing Geetham\")",
+        "url": "https://open.spotify.com/album/63ptIHrnzm51WHc8I86fa0"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        },
+        {
+          "name": "Shankarr Babu Kandukoori",
+          "url": "https://open.spotify.com/artist/3R0xS0BSkHcPybg9cqWUhB"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128121,
+      "name": "Ori Jeevuda (From \"Sing Geetham\")",
+      "url": "https://open.spotify.com/track/2tHP8VkKI6rOFahQso9F0J"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/38BDTFVhnASLaPJSUlY5Fg"
       },
@@ -6366,6 +6470,32 @@
       "duration_ms": 201130,
       "name": "Priya Mithunam (Telugu)",
       "url": "https://open.spotify.com/track/4wFU6Q4vInTg2HQ2mkko8x"
+    },
+    {
+      "album": {
+        "name": "Priyasakhi (From \"EPIC - First Semester\")",
+        "url": "https://open.spotify.com/album/1E1CnQQez2ZOyNRYOv2zip"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224081,
+      "name": "Priyasakhi (From \"EPIC - First Semester\")",
+      "url": "https://open.spotify.com/track/1HDXZO5k652uOnB6L8hc66"
     },
     {
       "album": {
@@ -7048,7 +7178,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 195999,
       "name": "Rubaroo (From \"Dacoit (Telugu)\")",
       "url": "https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc"
@@ -7266,7 +7396,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 256901,
       "name": "Sanna Sanna Biyyame",
       "url": "https://open.spotify.com/track/2v2Nkd45rM8TldGWy1HKcb"
@@ -8290,7 +8420,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 261368,
       "name": "Vellipomaake",
       "url": "https://open.spotify.com/track/6I8FegdCnZT274IiOTybQH"

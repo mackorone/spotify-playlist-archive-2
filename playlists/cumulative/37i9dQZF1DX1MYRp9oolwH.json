@@ -2609,6 +2609,32 @@
     },
     {
       "album": {
+        "name": "Gunde Pelipothondhe (From \"Srinivasa Mangapuram\")",
+        "url": "https://open.spotify.com/album/5ux9GCYq6TGhg4kIf1m3JK"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215061,
+      "name": "Gunde Pelipothondhe (From \"Srinivasa Mangapuram\")",
+      "url": "https://open.spotify.com/track/73QwMDg9kAApQRlKjStXYN"
+    },
+    {
+      "album": {
         "name": "Gundellonaa (From \"Ori Devuda\") - Single",
         "url": "https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO"
       },

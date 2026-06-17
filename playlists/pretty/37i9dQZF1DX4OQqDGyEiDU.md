@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: 32ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,551 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,559 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 21 | [人ニアリ](https://open.spotify.com/track/0Mn34mzAZ55Q7VfdvelB0Z) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [イ三](https://open.spotify.com/album/2tfrYZS9JfRYZfME1K1PEg) | 1:18 |
 | 22 | [テレパシ](https://open.spotify.com/track/76kJA3LUe1uREGjlaOypkL) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [テレパシ](https://open.spotify.com/album/5s4PZUXRTi75Lf9vb9lSVh) | 2:17 |
 | 23 | [クロスロード \(feat\. 初音ミク\)](https://open.spotify.com/track/2cFwQJ4AAjWyGx1n14nZNp) | [kz](https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [クロスロード](https://open.spotify.com/album/0f5vcOQqU8arlrRYZxqv5Y) | 4:23 |
-| 24 | [ワールドイズマイン \- かぐや&月見ヤチヨ ver\. \- CPK! Remix](https://open.spotify.com/track/4L1Zv5dzq06DuTzKucmYSR) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 3:46 |
+| 24 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 |
 | 25 | [ハーモニー feat\. 原口沙輔, 初音ミク](https://open.spotify.com/track/0Hu6nUJMqkoOmHY0FVBSYk) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ハーモニー](https://open.spotify.com/album/15yQuoMzlJb4vpSuBr52NR) | 3:00 |
-| 26 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 |
+| 26 | [ワールドイズマイン \- かぐや&月見ヤチヨ ver\. \- CPK! Remix](https://open.spotify.com/track/4L1Zv5dzq06DuTzKucmYSR) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 3:46 |
 | 27 | [モニタリング \(Best Friend Remix\)](https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [モニタリング \(Best Friend Remix\)](https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs) | 2:58 |
 | 28 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 29 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |

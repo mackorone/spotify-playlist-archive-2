@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Drake, Future, Latto and Central Cee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,208 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,131 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

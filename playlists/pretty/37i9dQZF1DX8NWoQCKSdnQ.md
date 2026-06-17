@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 
 > ¡Únete a la fiesta y mueve las caderas con esta playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,469 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,491 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 14 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
 | 15 | [Bandido](https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Atraparé Bandido](https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2) | 2:59 |
 | 16 | [La Mordidita \(feat\. Yotuel\)](https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 3:31 |
-| 17 | [To My Love \- Tainy Remix](https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Amanecer \(Remixed\)](https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA) | 4:11 |
-| 18 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 |
+| 17 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 |
+| 18 | [To My Love \- Tainy Remix](https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Amanecer \(Remixed\)](https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA) | 4:11 |
 | 19 | [El Taxi](https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Dale](https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm) | 4:09 |
 | 20 | [Bailando](https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Tarpeia](https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf) | 3:49 |
 | 21 | [Ojos Así](https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:55 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NWoQCKSdnQ.md) - [plain]
 | 53 | [No Te Extraño](https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N) | [Litzy](https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB) | [Transparente](https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj) | 3:26 |
 | 54 | [No Controles](https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:28 |
 | 55 | [Todos Me Miran](https://open.spotify.com/track/7iKSx0WjzCgYYaM7o1R5CV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:25 |
-| 56 | [Azúcar Amargo](https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Exitos](https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd) | 4:41 |
-| 57 | [Dime Que Me Amas](https://open.spotify.com/track/6lw6wpPswfGHOZkzMzKgh7) | [JEANS](https://open.spotify.com/artist/4HncQjB1Qpyke5EJtU3e3Y) | [//:Tres.Jeans](https://open.spotify.com/album/2r6tXarHoCAZ2AxC7vvfw7) | 4:02 |
+| 56 | [Dime Que Me Amas](https://open.spotify.com/track/6lw6wpPswfGHOZkzMzKgh7) | [JEANS](https://open.spotify.com/artist/4HncQjB1Qpyke5EJtU3e3Y) | [//:Tres.Jeans](https://open.spotify.com/album/2r6tXarHoCAZ2AxC7vvfw7) | 4:02 |
+| 57 | [Azúcar Amargo](https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Exitos](https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd) | 4:41 |
 | 58 | [Vuela Más Alto](https://open.spotify.com/track/4K6tQMWgJevwsDGhr36xpu) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Vuela Mas Alto](https://open.spotify.com/album/1ImHb6xo5x4KxEtuuiWHWK) | 4:32 |
 | 59 | [I Gotta Feeling](https://open.spotify.com/track/72np30cEzvqzxAUG5mrhyT) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning & The Best Of The E.N.D.](https://open.spotify.com/album/5qf9TEgsN87fxwEKsJP2vu) | 4:49 |
 | 60 | [Timebomb](https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Timebomb](https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl) | 2:56 |

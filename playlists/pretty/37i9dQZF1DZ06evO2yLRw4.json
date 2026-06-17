@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37763,
+  "num_followers": 37764,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACU8Ys2ccXNrieHde4Vmi/e",
+  "snapshot_id": "ai9AgAAAAAAvYpLvAEvzeq1ir7MCOAb1",
   "tracks": [
     {
       "added_at": null,
@@ -351,42 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Now I'm Just Gnashing My Teeth",
         "url": "https://open.spotify.com/album/6YLHjXokWtPT8ADt6F9bn4"
       },
@@ -407,6 +371,42 @@
       "duration_ms": 215093,
       "name": "Three Letters",
       "url": "https://open.spotify.com/track/6s0l1IVuV120GoqteaEOod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 224759,
-      "name": "Found Atlas",
-      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
+      "duration_ms": 246304,
+      "name": "Seven Sticks of Dynamite",
+      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 246304,
-      "name": "Seven Sticks of Dynamite",
-      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
+      "duration_ms": 224759,
+      "name": "Found Atlas",
+      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
     },
     {
       "added_at": null,

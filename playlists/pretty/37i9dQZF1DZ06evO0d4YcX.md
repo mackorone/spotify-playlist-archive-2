@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 
 > This is Amber Mark\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,420 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,423 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 49 | [Save My Love \(feat\. Amber Mark\)](https://open.spotify.com/track/5tson2htpYtXMALweS4aW5) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Reminiscence \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6eyrmkH16YkwGFyWanYa82) | 3:13 |
 | 50 | [Trees On Fire \(ft\. Amber Mark and Marco McKinnis\)](https://open.spotify.com/track/5xoWa1jhbcg8i0Z2cRtphe) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Marco McKinnis](https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR) | [Big Wave More Fire](https://open.spotify.com/album/30tc5b5AulEnOeyKTT9Cz3) | 3:46 |
 
-Snapshot ID: `ai3vAAAAAADhE7wJW0gXVSOCxvDrDobg`
+Snapshot ID: `ai9AgAAAAADVq96sBeL8XYxrAmKDvLKq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,824 likes - 43 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,847 likes - 43 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 10 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
 | 11 | [What a Feeling](https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [What a Feeling](https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov) | 3:49 |
 | 12 | [Home \(with Stick Figure\)](https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Home \(with Stick Figure\)](https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG) | 3:30 |
-| 13 | [Gardenia \(with Stick Figure\)](https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Castles](https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ) | 3:53 |
+| 13 | [Breathe](https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:52 |
 | 14 | [Easy Runaway](https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:45 |
-| 15 | [Breathe](https://open.spotify.com/track/4Th9Lu8GK0mt5fZZ945FI7) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:52 |
+| 15 | [Gardenia \(with Stick Figure\)](https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Castles](https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ) | 3:53 |
 | 16 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:13 |
 | 17 | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro), [Bradley Nowell](https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG) | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY) | 3:47 |
 | 18 | [Above the Storm](https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:54 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 42 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
 | 43 | [Natural Mystic \(with Stephen Marley\) \- West Palm Beach 2025](https://open.spotify.com/track/4e7FmcrVSwJe7NnTLHAZBm) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Natural Mystic \(with Stephen Marley\) \[West Palm Beach 2025\]](https://open.spotify.com/album/49x3hZ1OINSRz6qhjdubAF) | 3:45 |
 
-Snapshot ID: `ai3vAAAAAAA/tLl6Wb8iPIwtLpqQ2iVi`
+Snapshot ID: `ai9AgAAAAAAH28f4gBMvvSDA8BpE5OKS`

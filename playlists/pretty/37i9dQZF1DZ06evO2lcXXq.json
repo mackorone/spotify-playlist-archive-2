@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 368901,
+  "num_followers": 368904,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAACS/rCYEblGMvquCYKnolf",
+  "snapshot_id": "ai9AgAAAAACVC9TZ8J8FSzkUl5T3AJnd",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 486944,
+      "name": "Peace Be Still - Live",
+      "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EAT",
         "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 167254,
       "name": "Watchmen",
       "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Earth (Live)",
-        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 486944,
-      "name": "Peace Be Still - Live",
-      "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It (feat. Lauren Daigle)",
-        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 338194,
-      "name": "Believe For It (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To God",
         "url": "https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 243013,
       "name": "Back To God",
       "url": "https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
     },
     {
       "added_at": null,
@@ -679,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/5fq1eSTkR1SnwZj5fJGBHB"
       },
       "artists": [
         {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 179853,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
+      "duration_ms": 250186,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/3tL3RBw97ctKUpOuEkvBfI"
     },
     {
       "added_at": null,
@@ -735,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "North Point Music: Beginnings",
-        "url": "https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA"
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 250186,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
+      "duration_ms": 179853,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
     },
     {
       "added_at": null,

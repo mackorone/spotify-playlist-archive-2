@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,263 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,260 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 89 | [No Nein](https://open.spotify.com/track/040IEiMlCYxNYcW5Sd8L5Z) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 2:31 |
 | 90 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 91 | [Big Songbirds Don't Cry](https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:54 |
-| 92 | [Express](https://open.spotify.com/track/49ST93zDICBoe4noumugsa) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5) | [Level Up](https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY) | 3:00 |
-| 93 | [Un niñato en mi cama](https://open.spotify.com/track/5uaH0LvWQVsQpH70Uq7aIv) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [AAAaaahhhhh!!!!](https://open.spotify.com/album/6BrDEEOfUX64GrHVksTYrq) | 1:49 |
+| 92 | [Un niñato en mi cama](https://open.spotify.com/track/5uaH0LvWQVsQpH70Uq7aIv) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln) | [AAAaaahhhhh!!!!](https://open.spotify.com/album/6BrDEEOfUX64GrHVksTYrq) | 1:49 |
+| 93 | [Express](https://open.spotify.com/track/49ST93zDICBoe4noumugsa) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5) | [Level Up](https://open.spotify.com/album/1wUqEJDUw7VOlPrt01lGdY) | 3:00 |
 | 94 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 |
 | 95 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 |
 | 96 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 |

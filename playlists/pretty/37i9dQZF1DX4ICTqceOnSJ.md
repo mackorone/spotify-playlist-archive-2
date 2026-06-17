@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,389 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,302 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 20 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
 | 21 | [To My Love](https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 3:59 |
 | 22 | [La Noche Eterna](https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:27 |
-| 23 | [Sincericidio](https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Monstruos](https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B) | 4:11 |
+| 23 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
 | 24 | [Allí donde solíamos gritar](https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [1999 \(o como generar incendios de nieve con una lupa enfocando la luna\)](https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF) | 5:37 |
-| 25 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
+| 25 | [Sincericidio](https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Monstruos](https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B) | 4:11 |
 | 26 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
 | 27 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
 | 28 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 59 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
 | 60 | [Si Me Voy](https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Si Me Voy](https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq) | 3:06 |
 | 61 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 |
-| 62 | [Murasaki](https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Murasaki](https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj) | 3:33 |
-| 63 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
+| 62 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
+| 63 | [Murasaki](https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Murasaki](https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj) | 3:33 |
 | 64 | [Tormenta](https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE) | 5:25 |
 | 65 | [Espada](https://open.spotify.com/track/74JGKtGEQjx2gXZgSR4v93) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:14 |
 | 66 | [El Micrófono](https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Piñata](https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu) | 3:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 95 | [Como Vez Primera](https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:33 |
 | 96 | [Todo Terminó](https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Who Me?](https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA) | 2:36 |
 | 97 | [El Destino](https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Franco \(Bonus Track Version\)](https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj) | 3:24 |
-| 98 | [Vueltas](https://open.spotify.com/track/01tX4yeCFgfcuR4YyLiV5F) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Vueltas](https://open.spotify.com/album/6CCshZPonPq3626zN28AT4) | 3:41 |
-| 99 | [Cae la Noche](https://open.spotify.com/track/201whRJolw8g2KGGJaMa75) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:25 |
+| 98 | [Cae la Noche](https://open.spotify.com/track/201whRJolw8g2KGGJaMa75) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:25 |
+| 99 | [Vueltas](https://open.spotify.com/track/01tX4yeCFgfcuR4YyLiV5F) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Vueltas](https://open.spotify.com/album/6CCshZPonPq3626zN28AT4) | 3:41 |
 | 100 | [LA ARAÑA](https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Isla de Oro](https://open.spotify.com/album/0dm3jrhjmQgBMNZGtJsnr8) | 3:29 |
 
 Snapshot ID: `AAAAAA006KqGhr+G80vGK/lbpmFrEf1G`

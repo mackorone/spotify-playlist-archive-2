@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 209915,
+  "num_followers": 209920,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "Love Is A Fight",
-        "url": "https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 213716,
-      "name": "Love Is A Fight",
-      "url": "https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "Pray With",
         "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 159166,
       "name": "Pray With",
       "url": "https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "Love Is A Fight",
+        "url": "https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 213716,
+      "name": "Love Is A Fight",
+      "url": "https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 226155,
       "name": "Beautiful (feat. India.Arie)",
       "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
-      },
-      "artists": [
-        {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
-        }
-      ],
-      "duration_ms": 187994,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "i do",
         "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 151016,
       "name": "i do",
       "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "duration_ms": 187994,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 246093,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/4f13Etjf3KTeNZBFhj6MVy"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 216285,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/2AD7KwyYNkymVEHubojdMc"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "Britt Nicole (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 251106,
       "name": "Fallin In Love",
       "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 246093,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "PASSIONATE",
-        "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
-      },
-      "artists": [
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
-        }
-      ],
-      "duration_ms": 152842,
-      "name": "PASSIONATE",
-      "url": "https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "Junto a Ti",
         "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 187826,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "PASSIONATE",
+        "url": "https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 152842,
+      "name": "PASSIONATE",
+      "url": "https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
+        "name": "Holding On To You",
+        "url": "https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw"
+      },
+      "artists": [
+        {
+          "name": "Dan Stirling",
+          "url": "https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp"
+        },
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 222868,
+      "name": "Holding On to You - Single Version",
+      "url": "https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1343,22 +1363,6 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
-        "name": "Sunday Coffee",
-        "url": "https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 91141,
-      "name": "Sunday Coffee",
-      "url": "https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1395,22 +1399,18 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "Holding On To You",
-        "url": "https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw"
+        "name": "Sunday Coffee",
+        "url": "https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk"
       },
       "artists": [
         {
-          "name": "Dan Stirling",
-          "url": "https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp"
-        },
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 222868,
-      "name": "Holding On to You - Single Version",
-      "url": "https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g"
+      "duration_ms": 91141,
+      "name": "Sunday Coffee",
+      "url": "https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "This Is a Winter EP",
-        "url": "https://open.spotify.com/album/4C63x0vvIMgqdx2ZdIdjRa"
-      },
-      "artists": [
-        {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
-        },
-        {
-          "name": "Kai Uriah",
-          "url": "https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/7Jog4oLDP1ls1gqEBsaBkf"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "Let Me Be There",
         "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 214142,
       "name": "I Do",
       "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "This Is a Winter EP",
+        "url": "https://open.spotify.com/album/4C63x0vvIMgqdx2ZdIdjRa"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        },
+        {
+          "name": "Kai Uriah",
+          "url": "https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/7Jog4oLDP1ls1gqEBsaBkf"
     },
     {
       "added_at": "2026-05-28 21:00:20",

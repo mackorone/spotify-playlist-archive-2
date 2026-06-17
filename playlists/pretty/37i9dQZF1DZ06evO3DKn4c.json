@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 41814,
+  "num_followers": 41819,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABRhqMl5y9TpCA23uNagQbK",
+  "snapshot_id": "ai9AgAAAAADL091dDEWLZXpvh1ddSeF1",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pique Peaky Blinders",
+        "url": "https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 185604,
+      "name": "Pique Peaky Blinders",
+      "url": "https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "Caminhos do Destino",
+      "url": "https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C.O.N.E (Caminhando Onde Ningu\u00e9m Enxerga)",
         "url": "https://open.spotify.com/album/31ygMemgMdsW4I7HmxzoaG"
       },
@@ -435,38 +467,6 @@
       "duration_ms": 192989,
       "name": "Al Pacino",
       "url": "https://open.spotify.com/track/0H0aeVyR03eklDoOX7wiWx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "Caminhos do Destino",
-      "url": "https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pique Peaky Blinders",
-        "url": "https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 185604,
-      "name": "Pique Peaky Blinders",
-      "url": "https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sangue de Free",
+        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 210959,
+      "name": "Sangue de Free",
+      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 220709,
       "name": "ZEROVINTEUM - Ao Vivo",
       "url": "https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sangue de Free",
-        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 210959,
-      "name": "Sangue de Free",
-      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
     },
     {
       "added_at": null,

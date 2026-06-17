@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 2005,
+  "num_followers": 2027,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAWWJDWkbz19yx5S9/uK+Rc",
+  "snapshot_id": "ai9AgAAAAAD/T6XvnCvqyDNNvBA+Q84b",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 147745,
+      "name": "Tengo Mal Gusto",
+      "url": "https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tengo Ganas de Llorar",
         "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 173538,
       "name": "Tengo Ganas de Llorar",
       "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 147745,
-      "name": "Tengo Mal Gusto",
-      "url": "https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 194705,
-      "name": "Cien A\u00f1os - En Vivo",
-      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
+      "duration_ms": 202259,
+      "name": "Siempre, Siempre - En Vivo",
+      "url": "https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna de Octubre",
-        "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 194932,
-      "name": "Luna de Octubre",
-      "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mundo (En Vivo)",
         "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luna de Octubre",
+        "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 194932,
+      "name": "Luna de Octubre",
+      "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
       },
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 202259,
-      "name": "Siempre, Siempre - En Vivo",
-      "url": "https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf"
+      "duration_ms": 194705,
+      "name": "Cien A\u00f1os - En Vivo",
+      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
     },
     {
       "added_at": null,

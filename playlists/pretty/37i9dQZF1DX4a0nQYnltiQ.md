@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: Chxrry
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,988 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,930 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
-| 2 | [What's Done Is Done](https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk) | 2:53 |
+| 2 | [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 |
 | 3 | [Gracie](https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [F.I.G](https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX) | 2:54 |
 | 4 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
 | 5 | [Die For Us](https://open.spotify.com/track/4O7w6psI3AXxBNDdQCF7UI) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [Die For Us](https://open.spotify.com/album/1YcTqv6ld4xwjXkpHGu2qS) | 2:51 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 15 | [BITCH](https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR) | 2:42 |
 | 16 | [Girl](https://open.spotify.com/track/08fPZ0IIoPCDIodw3J2LMi) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Girl](https://open.spotify.com/album/2gWZJlucbSEUyCS1FaXeuq) | 3:24 |
 | 17 | [Break Me Off](https://open.spotify.com/track/01nqAnr8UmgLjgKSjhLGLF) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Break Me Off](https://open.spotify.com/album/6dQRJLvQNiDEOdH7rri6NS) | 2:54 |
-| 18 | [So…](https://open.spotify.com/track/0zlKj7PA4nXQdT57MutsFB) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [So...](https://open.spotify.com/album/3WmtgZRddBdErv8cyInEKz) | 3:16 |
+| 18 | [So…](https://open.spotify.com/track/1W31Osw7XybJ4YcS3NCOZ5) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [So…](https://open.spotify.com/album/0OzdBCnFDAXd02FELiFPuN) | 3:16 |
 | 19 | [Goodbye Goodmorning](https://open.spotify.com/track/3tT0G35LmYq159xYGCBGSU) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [My Ego Told Me To](https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2) | 3:24 |
 | 20 | [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 |
 | 21 | [Til95](https://open.spotify.com/track/6RhMNlG85piPym1au9zWTZ) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Til95](https://open.spotify.com/album/1wrQ1BOVXdnDFyksxMuC70) | 2:16 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 39 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 40 | [On Ur Time](https://open.spotify.com/track/2XX9DsMkC1KSECUs6WGUxd) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR) | 3:12 |
 | 41 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
-| 42 | [Come To Me](https://open.spotify.com/track/2o9hKWoBseUiXo1TeQBWzl) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Come To Me](https://open.spotify.com/album/07jWdEQbgboSJ11DZugXlN) | 3:21 |
+| 42 | [Come To Me](https://open.spotify.com/track/5gHKTj0OrjyQz8KTwVTuMx) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Come To Me](https://open.spotify.com/album/4GcNMrejFGtQtlv5P23raK) | 3:24 |
 | 43 | [Confidence](https://open.spotify.com/track/7vQmu5FTPgnLeJDi14oJ9U) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [FEELUH](https://open.spotify.com/album/0aR1lBG77LniGEnLJWfR5S) | 2:00 |
 | 44 | [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 |
 | 45 | [Shawa Shawa \(Ashawo\)](https://open.spotify.com/track/0L83TBAR0ad6GJH7q2GtJP) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Shawa Shawa \(Ashawo\)](https://open.spotify.com/album/02YMGf7oSXURkxXAblr1sw) | 2:08 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 49 | [so i can feel again \(feat\. Chlöe\)](https://open.spotify.com/track/6GeBTwuDueDVXIUvsrlXex) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [love?..\. or something like it](https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy) | 2:27 |
 | 50 | [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 |
 | 51 | [Been A Minute](https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Been A Minute](https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG) | 3:20 |
-| 52 | [burn \(feat\. Tone Stith\)](https://open.spotify.com/track/0TxkufmnddrYBSqPosQXT9) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [COMPLICATED.](https://open.spotify.com/album/6cH1y90TDtNsZ5CAuz5Pi1) | 3:32 |
+| 52 | [burn \(feat\. Tone Stith\)](https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [COMPLICATED.](https://open.spotify.com/album/3wUH9wMv6G0jdmmTFwDdI5) | 3:32 |
 | 53 | [Dead and Gone](https://open.spotify.com/track/0Y4EoSgrwZdCsnvnIVoy05) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Dead and Gone](https://open.spotify.com/album/0PsvW6rEIiXe2NUuXwEeSl) | 2:40 |
 | 54 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
 | 55 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 67 | [FALL THROUGH](https://open.spotify.com/track/3l04IKVbK3rgDLOkaigL7R) | [Rya](https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp) | [FALL THROUGH](https://open.spotify.com/album/6Iaph0ERIiTHqq9YLRpMkc) | 3:30 |
 | 68 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 |
 | 69 | [10%](https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:49 |
-| 70 | [Sweet Serotonin](https://open.spotify.com/track/0RLl3obXeC2HsCQcI1EglP) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:01 |
+| 70 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 |
 
 Snapshot ID: `AAAAAAFRb3sOY8tUOSlMt0wTAGWwyap3`

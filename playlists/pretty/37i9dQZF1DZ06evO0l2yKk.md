@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 
 > This is Cardenales De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,996 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,043 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 31 | [Vestido Blanco](https://open.spotify.com/track/23atvyoGWt7BYOFrVrmKu6) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 3:00 |
 | 32 | [El Cariño Que Perdí](https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 2:54 |
 | 33 | [La Pera Madura](https://open.spotify.com/track/3GPFDXIvn9QEgd3l06TskS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Amor De Unas Horas](https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR) | 2:25 |
-| 34 | [Que Lástima](https://open.spotify.com/track/2lU7cYhoywOeIor2ksGzOY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:52 |
+| 34 | [Y Qué Mas Dá](https://open.spotify.com/track/6n5PdrtvGZjlSBkgLEAFrK) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:47 |
 | 35 | [Y Que Ganaste](https://open.spotify.com/track/1VvSdnL2tZsNWZtc865PxN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:18 |
 | 36 | [Fuego Contra Fuego](https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 3:06 |
 | 37 | [No Te Imaginas](https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con Canciones Y Tequila](https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi) | 2:59 |
-| 38 | [Y Qué Mas Dá](https://open.spotify.com/track/6n5PdrtvGZjlSBkgLEAFrK) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:47 |
+| 38 | [Que Lástima](https://open.spotify.com/track/2lU7cYhoywOeIor2ksGzOY) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:52 |
 | 39 | [Me Olvidaste](https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:34 |
 | 40 | [Misa De Cuerpo Presente](https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [20 Corridos Bien Perrones](https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk) | 3:13 |
 | 41 | [Te Olvidé \- Cumbia](https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Cumbias Para Bailar](https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0l2yKk.md) - [plain]
 | 49 | [No Puedo Mas](https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Con Muchas Ganas](https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V) | 3:00 |
 | 50 | [Bailotea](https://open.spotify.com/track/1fyLW3o7YFf1FokqoJHC9d) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:02 |
 
-Snapshot ID: `ai3vAAAAAABS+aXY6NW0zWzocKtpwcbF`
+Snapshot ID: `ai9AgAAAAAAfE6UVz3puOZ2VmlBoeJtL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Sonny Fodera
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,122 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,118 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 69 | [Sunshine](https://open.spotify.com/track/0hPjwZ80xT39CKpcAOu6zT) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Sunshine](https://open.spotify.com/album/3TBa1RclhvrlSIYDNmmt3r) | 3:10 |
 | 70 | [Decisions](https://open.spotify.com/track/2BqjXHLzJoSogA5U3bGn2P) | [JDG](https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Decisions](https://open.spotify.com/album/50ZzvTxsiTrg0Yw0GARTEu) | 4:04 |
 | 71 | [On and On](https://open.spotify.com/track/5HUM03oy1GiZsjLcnQYrPU) | [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [On and On](https://open.spotify.com/album/1sTCpPgm3hm7ULmeotXO7o) | 3:05 |
-| 72 | [Groovejet \(If This Ain’t Love\) \- not without friends Remix](https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [not without friends](https://open.spotify.com/artist/2KAgMiCIqPHTA04WRNrhWg), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Groovejet \(If This Ain’t Love\) \[not without friends Remix\]](https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF) | 3:00 |
+| 72 | [Groovejet \(If This Ain’t Love\) \- not without friends Remix](https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [not without friends](https://open.spotify.com/artist/2KAgMiCIqPHTA04WRNrhWg), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Groovejet \(If This Ain’t Love\) \[not without friends Remix\]](https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF) | 3:00 |
 | 73 | [SMOOTH](https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z) | [SMOOTH](https://open.spotify.com/album/2iaDVU4Xd8caSSlFJVgJbV) | 3:24 |
 | 74 | [DEJA VU](https://open.spotify.com/track/0OgheDXBeWdcSPNO7QkZPz) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [EUROCLUB II](https://open.spotify.com/album/1EponlkVtP06EVU7xEz1op) | 2:43 |
 | 75 | [A Thousand Lies](https://open.spotify.com/track/1rinB6g47GjC1NlJj5NKHq) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [A Thousand Lies](https://open.spotify.com/album/1Pr9UwNTdIvqhb4Q7kKfR3) | 4:44 |

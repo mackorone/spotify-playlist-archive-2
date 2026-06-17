@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Philipp Poisel
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,140 likes - 91 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,079 likes - 91 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

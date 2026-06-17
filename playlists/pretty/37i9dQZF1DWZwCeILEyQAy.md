@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: PLUTO
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,347 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,299 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 40 | [In Dat Mode](https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:02 |
 | 41 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
 | 42 | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Finesse \(feat\. GloRilla\)](https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4) | 3:12 |
-| 43 | [Point Me 2](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
-| 44 | [Checkin In](https://open.spotify.com/track/3LP8UhaVYrkr4RRIZIcAjt) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 1:57 |
+| 43 | [Checkin In](https://open.spotify.com/track/3LP8UhaVYrkr4RRIZIcAjt) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 1:57 |
+| 44 | [Point Me 2](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
 | 45 | [I AIN’T GOING](https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:51 |
 | 46 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
 | 47 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |

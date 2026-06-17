@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5820,
+  "num_followers": 5824,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAGZxMss1mSeixDwK9f/Mno",
+  "snapshot_id": "ai9AgAAAAAAJJiuPtEIqNExgFOv6T5qw",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 173486,
-      "name": "Flores de Primavera",
-      "url": "https://open.spotify.com/track/0ls534NwNdl4cNuJDP4Esw"
+      "duration_ms": 166875,
+      "name": "La Colombiana",
+      "url": "https://open.spotify.com/track/3lR7MCIummieXz5REQDoYp"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 166875,
-      "name": "La Colombiana",
-      "url": "https://open.spotify.com/track/3lR7MCIummieXz5REQDoYp"
+      "duration_ms": 173486,
+      "name": "Flores de Primavera",
+      "url": "https://open.spotify.com/track/0ls534NwNdl4cNuJDP4Esw"
     },
     {
       "added_at": null,

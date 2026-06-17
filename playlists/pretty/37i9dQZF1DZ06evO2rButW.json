@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 789729,
+  "num_followers": 789794,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAulJ8Tiqox35HRh8nyUHSn",
+  "snapshot_id": "ai9AgAAAAACFwuQeAflU/hWb508HhDEv",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 247396,
+      "name": "Hello Monserrat",
+      "url": "https://open.spotify.com/track/4GeGkrJZHLok2EMqnJt7bS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -675,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 224890,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/1V8SlskAwHaON0SpE4lnWY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
@@ -707,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Femme Fatale Vol. 2",
-        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 224890,
-      "name": "Sunset Boulevard",
-      "url": "https://open.spotify.com/track/1V8SlskAwHaON0SpE4lnWY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
         "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
@@ -735,6 +751,26 @@
       "duration_ms": 219866,
       "name": "Bonita - Bonus Track",
       "url": "https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
+        "url": "https://open.spotify.com/album/73bl7uuU24ECvfzzE6vIgl"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242478,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI"
     },
     {
       "added_at": null,
@@ -780,29 +816,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 247396,
-      "name": "Hello Monserrat",
-      "url": "https://open.spotify.com/track/4GeGkrJZHLok2EMqnJt7bS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
-        "url": "https://open.spotify.com/album/73bl7uuU24ECvfzzE6vIgl"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242478,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI"
+      "duration_ms": 196602,
+      "name": "Estoy Llorando De Tanta Belleza",
+      "url": "https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 192200,
       "name": "Palmar",
       "url": "https://open.spotify.com/track/06FhHrnpYCmIxIxIGUehxQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sola Con Mis Monstruos (En Vivo, Desde El Lunario del Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar de Ti - En Vivo, Desde El Lunario del Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB"
     }
   ],
   "unique_name": "This Is Mon Laferte",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,643 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,855 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 21 | [Où est ma tête?](https://open.spotify.com/track/30N6mzmZPQ0fUGW59krTc0) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [China Forbes](https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A) | [Splendor in the Grass](https://open.spotify.com/album/7gZtYR8vztnBIiJYDsmIyF) | 4:12 |
 | 22 | [Où est la fantaisie ?](https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW) | [Daphné](https://open.spotify.com/artist/5AOcPfypyRAtLDtKwbUj2q) | [La fauve](https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS) | 3:47 |
 | 23 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 |
-| 24 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
-| 25 | [La chanson d'Orphée \(Manha Do Carnaval\)](https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:06 |
+| 24 | [La chanson d'Orphée \(Manha Do Carnaval\)](https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:06 |
+| 25 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
 | 26 | [Au café de la paix](https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les ronds de carotte](https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw) | 4:05 |
 | 27 | [M'envoyer des fleurs](https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8) | [Sandrine Kiberlain](https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l) | [Manquait Plus Qu'Ca](https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf) | 2:35 |
 | 28 | [Les Etoiles](https://open.spotify.com/track/5yQOP5W4KZtUDjsHjVQvT9) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/3qIM1SPrb3OWoATtDxR6eB) | 3:20 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 68 | [Brigitte dit vrai](https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Dans la peau](https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG) | 2:12 |
 | 69 | [Nuages \- Studio recording](https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM) | [Raquel Bitton](https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X) | [Paris Blues](https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY) | 3:42 |
 | 70 | [Vous qui passez sans me voir](https://open.spotify.com/track/64i5LywVv08H1SJBoYE9S0) | [Jean Sablon](https://open.spotify.com/artist/6YEl2IpAe6z72xXx8EqCa1) | [French Songs from France: The French Swinging Troubadour \(International French Stars\)](https://open.spotify.com/album/3qIK8oFTLL6lETrmOQMAjO) | 3:06 |
-| 71 | [Le Mal de Vivre](https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 6:14 |
+| 71 | [L’étang](https://open.spotify.com/track/2ilG1lCoG75pEuZX5wl7iU) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Get Out of Town \(Deluxe\)](https://open.spotify.com/album/5JMpQfDczhBHmpGXnuIwX4) | 5:16 |
 | 72 | [J'suis pas d'ici](https://open.spotify.com/track/4p1jq0itFZ9DLtVU6HCYdr) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Comme Un Manouche Sans Guitare](https://open.spotify.com/album/4AMq62xQ6mKVqgfDwvbY4Z) | 2:10 |
-| 73 | [L’étang](https://open.spotify.com/track/2ilG1lCoG75pEuZX5wl7iU) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Get Out of Town \(Deluxe\)](https://open.spotify.com/album/5JMpQfDczhBHmpGXnuIwX4) | 5:16 |
+| 73 | [Le Mal de Vivre](https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 6:14 |
 | 74 | [Sous le ciel de Paris](https://open.spotify.com/track/6R3rjjQzKSwmDffEUHegDE) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Le Paris De ..\. Montand](https://open.spotify.com/album/1e6B5D1rQMaxUoCVGCjPdK) | 2:54 |
 | 75 | [Juste quelqu'un de bien](https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Deux](https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt) | 4:07 |
 | 76 | [Mon manque](https://open.spotify.com/track/3tTyk6R01iKRS4S5GzViid) | [Andréel](https://open.spotify.com/artist/1nqtZg8BBwRkE0pG4XMDqO), [Judith Chemla](https://open.spotify.com/artist/748Ilg9wFIfkQK9Ik1lDSy) | [Mon manque](https://open.spotify.com/album/5ucknDpfTLNqn9AZOq1zjk) | 3:01 |

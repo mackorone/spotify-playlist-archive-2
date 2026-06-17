@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 2033398,
+  "num_followers": 2033360,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
     },
     {
-      "added_at": "2026-03-20 00:00:20",
-      "album": {
-        "name": "better late than not at all",
-        "url": "https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 177862,
-      "name": "if i'm lucky",
-      "url": "https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v"
-    },
-    {
       "added_at": "2026-02-23 16:34:18",
       "album": {
         "name": "The Little Mess You Made",
@@ -1211,6 +1195,22 @@
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
+    },
+    {
+      "added_at": "2026-03-20 00:00:20",
+      "album": {
+        "name": "better late than not at all",
+        "url": "https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 177862,
+      "name": "if i'm lucky",
+      "url": "https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
         "name": "What It Gave Me",
         "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 177793,
       "name": "Love Don't Let Me Go",
       "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2026-03-06 05:00:09",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
         "name": "American Dreaming",
         "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 257297,
       "name": "American Dreaming",
       "url": "https://open.spotify.com/track/5MCM2YPIxYTt82Ub6j4HBZ"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl"
     },
     {
       "added_at": "2026-02-23 16:34:18",

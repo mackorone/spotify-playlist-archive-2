@@ -4,7 +4,7 @@
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 15 min
+93 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Morenamía \(Dueto 2007\)](https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Papito \(Deluxe\)](https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5) | 3:45 | 2023-12-18 |  |
 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 | 2024-03-09 | 2025-04-03 |
 | [Mírame Bien](https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:36 | 2024-07-19 |  |
-| [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:45 | 2023-12-18 |  |
+| [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M) | 3:45 | 2026-06-17 |  |
+| [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:45 | 2023-12-18 | 2026-06-17 |
 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 | 2023-12-18 |  |
 | [no queda nada ft\. Julieta Venegas](https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 3:47 | 2026-04-20 |  |
 | [Oleada](https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 | 2023-12-18 |  |

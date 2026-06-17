@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: lordkez
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,884 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,892 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 37 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 38 | [TABOO](https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [TABOO](https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10) | 2:45 |
 | 39 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
-| 40 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 |
-| 41 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
+| 40 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
+| 41 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 |
 | 42 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
 | 43 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
-| 44 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
-| 45 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
+| 44 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
+| 45 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 | 46 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
 | 47 | [MR\. MEDIA](https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 3:01 |
 | 48 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |

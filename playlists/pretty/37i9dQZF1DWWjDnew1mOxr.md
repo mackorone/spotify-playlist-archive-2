@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Music that means it\. Cover: Modern Woman
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,099 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,101 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 34 | [I'm a Liar](https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Shaking Hips and Crashing Cars](https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5) | 3:39 |
 | 35 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
 | 36 | [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 |
-| 37 | [Is This Real?](https://open.spotify.com/track/3KXse08qGP7cdOVt0BV7U4) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Is This Real?](https://open.spotify.com/album/3XrN4VxSb9rMst9yOJNgen) | 3:36 |
-| 38 | [Twist and Turn](https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Cardinals](https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp) | 3:14 |
-| 39 | [Thorn](https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Thorn](https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W) | 4:08 |
+| 37 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
+| 38 | [Thorn](https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Thorn](https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W) | 4:08 |
+| 39 | [Twist and Turn](https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Cardinals](https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp) | 3:14 |
 | 40 | [Gary](https://open.spotify.com/track/59EKMmwwDJxtEw6EjMVeaT) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t) | 2:30 |
 | 41 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 |
-| 42 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
+| 42 | [Is This Real?](https://open.spotify.com/track/3KXse08qGP7cdOVt0BV7U4) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Is This Real?](https://open.spotify.com/album/3XrN4VxSb9rMst9yOJNgen) | 3:36 |
 | 43 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 |
 | 44 | [Hands](https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Siren](https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY) | 3:45 |
 | 45 | [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 51 | [Spin The Block](https://open.spotify.com/track/1f3LYv9fIs3o9pS8V3dwUP) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Spin The Block](https://open.spotify.com/album/6lqtX8Ea7i76lIhPPoBPSl) | 2:53 |
 | 52 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
 | 53 | [Diamond In The Dark](https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:24 |
-| 54 | [Busker's Paradise](https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Busker's Paradise](https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb) | 3:43 |
-| 55 | [Just Begun](https://open.spotify.com/track/7zcaQay1ctjagKSXcJ5tNe) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Just Begun](https://open.spotify.com/album/1RYvPGUpvUTnIf4NFGIrY9) | 3:37 |
+| 54 | [Just Begun](https://open.spotify.com/track/7zcaQay1ctjagKSXcJ5tNe) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Just Begun](https://open.spotify.com/album/1RYvPGUpvUTnIf4NFGIrY9) | 3:37 |
+| 55 | [Busker's Paradise](https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Busker's Paradise](https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb) | 3:43 |
 | 56 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
 | 57 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 |
 | 58 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 65 | [Personality Test](https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Personality Test](https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S) | 2:20 |
 | 66 | [You Change with the Seasons](https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Get Away from the Feeling](https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC) | 3:50 |
 | 67 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 |
-| 68 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 |
-| 69 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 |
+| 68 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 |
+| 69 | [New York, Let's Do Nothing](https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Big Swimmer](https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc) | 3:22 |
 | 70 | [Mr & Mrs Human Race](https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Mr & Mrs Human Race](https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H) | 2:55 |
-| 71 | [New York, Let's Do Nothing](https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Big Swimmer](https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc) | 3:22 |
+| 71 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 |
 | 72 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
-| 73 | [I Was Just A Boy](https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [I Was Just A Boy](https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj) | 7:24 |
-| 74 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
+| 73 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
+| 74 | [I Was Just A Boy](https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [I Was Just A Boy](https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj) | 7:24 |
 | 75 | [Coming of Age](https://open.spotify.com/track/0jnPGD9FIVHa5SsM9upOr0) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Coming of Age](https://open.spotify.com/album/2zDS01VT4oGDTJELj9pYD9) | 3:01 |
 | 76 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 |
 | 77 | [Something's Wrong](https://open.spotify.com/track/45afJugFs63B3KaDO3pcVa) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Something's Wrong](https://open.spotify.com/album/1xuZIqxmZleNkPG8PonAp3) | 3:20 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 86 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
 | 87 | [Shivers](https://open.spotify.com/track/7ddTjbmyWUAX3aVttgePhO) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Shivers](https://open.spotify.com/album/7mMWTrcGwJPbl4WdRjWLT7) | 4:24 |
 | 88 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 |
-| 89 | [Glasgow](https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:34 |
-| 90 | [Breadline](https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Breadline](https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1) | 3:14 |
-| 91 | [Inaction](https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Inaction](https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9) | 3:06 |
+| 89 | [Inaction](https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Inaction](https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9) | 3:06 |
+| 90 | [Glasgow](https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:34 |
+| 91 | [Breadline](https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Breadline](https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1) | 3:14 |
 | 92 | [marry me to dopamine](https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [marry me to dopamine](https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7) | 3:33 |
 | 93 | [Calypso Blue](https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt) | [The Cheap Thrills](https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz) | [Mind Metro](https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2) | 3:52 |
 | 94 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 99 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 |
 | 100 | [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 |
 
-Snapshot ID: `AAAAAHw8cuU4WOM9cMqNp6XRogkAqIO3`
+Snapshot ID: `AAAAAO0cOtHoqGvJppbIh4vlx63Vn7bQ`

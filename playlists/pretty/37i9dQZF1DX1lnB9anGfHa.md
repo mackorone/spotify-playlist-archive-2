@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,562 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,579 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,18 +57,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 47 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
 | 48 | [Marte](https://open.spotify.com/track/0O3AWOwZa4KemTGCVbelEG) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Marte](https://open.spotify.com/album/4ytkKIoWlf8cMAznG8h83s) | 2:59 |
 | 49 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
-| 50 | [Mommy](https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:16 |
-| 51 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
+| 50 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
+| 51 | [Mommy](https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [United Kingdom Of Anxiety](https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID) | 3:16 |
 | 52 | [I'm A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
 | 53 | [Drip Coda](https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Drïpsody](https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf) | 3:32 |
 | 54 | [Carmina XVII](https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Tarta Relena](https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP) | [Carmina XVII](https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP) | 4:00 |
 | 55 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
-| 56 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 |
-| 57 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 |
-| 58 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
-| 59 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
-| 60 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
-| 61 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
+| 56 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
+| 57 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
+| 58 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 |
+| 59 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
+| 60 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
+| 61 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 |
 | 62 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
 | 63 | [Makkuroi Mizu \(まっくろい水）](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
 | 64 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 72 | [CLOUD 9](https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [CLOUD 9](https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9) | 3:28 |
 | 73 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 |
 | 74 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
-| 75 | [Disappoint Me](https://open.spotify.com/track/1CBF3tKxaBh1bUPEdIneXS) | [Chris Imler](https://open.spotify.com/artist/46UqEw2cEH1SHxSBuSWfVw) | [Disappoint Me](https://open.spotify.com/album/0y1HxXpkJrceA55WLmTJsV) | 3:25 |
+| 75 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 |
 
 Snapshot ID: `AAAAAHOIrl+4/Khwq6iGKEXLja5rmnbR`

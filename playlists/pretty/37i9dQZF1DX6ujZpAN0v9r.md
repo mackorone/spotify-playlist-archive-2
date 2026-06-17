@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,275 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,353 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 34 | [flip](https://open.spotify.com/track/1HVgDSMFQIRHBRuhOs85fL) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [return](https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss) | 2:02 |
 | 35 | [Drive Blind \- 2001 Remaster](https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Smile](https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs) | 4:45 |
 | 36 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
-| 37 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 |
+| 37 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
 | 38 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 |
-| 39 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
+| 39 | [Long Holiday](https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:06 |
 | 40 | [Rave Down](https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj) | [Swervedriver](https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu) | [Raise](https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw) | 5:06 |
 | 41 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
 | 42 | [Ride](https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Dandys Rule OK](https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW) | 4:09 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 45 | [Raindrop](https://open.spotify.com/track/6t56M2FiiLhebISr4GJwvF) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Eyedazzler](https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls) | 4:04 |
 | 46 | [Stare at the Sun](https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Pure Mood](https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb) | 4:19 |
 | 47 | [Everybody Knows](https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:18 |
-| 48 | [Flood in Heaven](https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8) | [The Daysleepers](https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F) | [Creation](https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS) | 5:01 |
-| 49 | [Run Into Flowers](https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP) | 4:09 |
-| 50 | [Dark Star](https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0) | [the sleepover disaster](https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk) | [Hover](https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20) | 4:57 |
+| 48 | [Dark Star](https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0) | [the sleepover disaster](https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk) | [Hover](https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20) | 4:57 |
+| 49 | [Flood in Heaven](https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8) | [The Daysleepers](https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F) | [Creation](https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS) | 5:01 |
+| 50 | [Run Into Flowers](https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP) | 4:09 |
 | 51 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 |
 | 52 | [Taste of Cindy](https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 1:42 |
 | 53 | [Falling Down](https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:59 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 69 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
 | 70 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
 | 71 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
-| 72 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |
-| 73 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
+| 72 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
+| 73 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |
 | 74 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |
 | 75 | [Bout des doigts](https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Bout des doigts](https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm) | 7:06 |
 | 76 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |

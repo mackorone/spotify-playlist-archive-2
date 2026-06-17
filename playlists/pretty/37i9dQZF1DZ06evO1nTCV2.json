@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 45280,
+  "num_followers": 45279,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADokYYXMArgl6VNhEA1gNat",
+  "snapshot_id": "ai9AgAAAAAAtb5uYqLSFPKsdbCDsR5wj",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/1bMo8y4UGCry6QxyuFTzsI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -279,6 +295,22 @@
       "duration_ms": 201695,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
     },
     {
       "added_at": null,
@@ -299,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
       },
       "artists": [
         {
@@ -308,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 226693,
-      "name": "New York, New York",
-      "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
+      "duration_ms": 180840,
+      "name": "Pretenders",
+      "url": "https://open.spotify.com/track/18dFKDJvv0Tz8Bubl3QMsJ"
     },
     {
       "added_at": null,
@@ -347,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Suicide Handbook",
-        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/1bMo8y4UGCry6QxyuFTzsI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 191546,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "For No One",
+      "url": "https://open.spotify.com/track/0a4AUAvmM7ZGQqZ6twmDBv"
     },
     {
       "added_at": null,
@@ -411,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Suicide Handbook",
-        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Pretenders",
-      "url": "https://open.spotify.com/track/18dFKDJvv0Tz8Bubl3QMsJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -439,6 +455,22 @@
       "duration_ms": 340666,
       "name": "English Girls Approximately",
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 139520,
+      "name": "Famous Eyes",
+      "url": "https://open.spotify.com/track/0GLY6XmfXXjhlqM96Glknx"
     },
     {
       "added_at": null,
@@ -475,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Suicide Handbook",
-        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "For No One",
-      "url": "https://open.spotify.com/track/0a4AUAvmM7ZGQqZ6twmDBv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Battle",
         "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 180560,
       "name": "The Battle (feat. Ryan Adams)",
       "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 244066,
+      "name": "Cracks in the Photograph",
+      "url": "https://open.spotify.com/track/12hwupEjdzn47WVFyjD6Rl"
     },
     {
       "added_at": null,
@@ -539,22 +571,6 @@
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Suicide Handbook",
-        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 139520,
-      "name": "Famous Eyes",
-      "url": "https://open.spotify.com/track/0GLY6XmfXXjhlqM96Glknx"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Suicide Handbook",
-        "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 244066,
-      "name": "Cracks in the Photograph",
-      "url": "https://open.spotify.com/track/12hwupEjdzn47WVFyjD6Rl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Ride",
-        "url": "https://open.spotify.com/album/0MnbUy15v2y5Mqmbx8bsui"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Let It Ride - Single Version",
-      "url": "https://open.spotify.com/track/5KNEBv1HzJnufcfWpsihN1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/0MnbUy15v2y5Mqmbx8bsui"
       },
       "artists": [
         {
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 162306,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
+      "duration_ms": 203386,
+      "name": "Let It Ride - Single Version",
+      "url": "https://open.spotify.com/track/5KNEBv1HzJnufcfWpsihN1"
     },
     {
       "added_at": null,
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 214586,
-      "name": "I'm Sorry And I Love You",
-      "url": "https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M"
+      "duration_ms": 162306,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 318586,
       "name": "The Shadowlands",
       "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "I'm Sorry And I Love You",
+      "url": "https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 252075,
-      "name": "Burning Photographs",
-      "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
+      "duration_ms": 367386,
+      "name": "Out Of The Woods",
+      "url": "https://open.spotify.com/track/4kl5l7LzhTLOO3RoUJ59ei"
     }
   ],
   "unique_name": "This Is Ryan Adams",

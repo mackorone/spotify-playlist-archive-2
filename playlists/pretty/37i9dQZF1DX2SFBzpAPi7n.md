@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YongYong\(용용\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,817 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,796 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MOJAVE \(with Kid Wine\)](https://open.spotify.com/track/40cmCV0GHzBSFMtLUnRyE9) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [yynitseD](https://open.spotify.com/album/1NVCVExvnnkWmx47zxYK80) | 3:53 |
-| 2 | [SHADOW](https://open.spotify.com/track/6SrrblihuGeDKOa91OnOFu) | [LEE JAEWOOK](https://open.spotify.com/artist/6x6yUAhXzIgufongB7oL26) | [SHADOW](https://open.spotify.com/album/6muSWdDksJvCmn7S5P4H7t) | 3:28 |
-| 3 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
+| 2 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
+| 3 | [Imagination](https://open.spotify.com/track/2U9cVyAs6E5wwY7YduXOB9) | [Sanbo](https://open.spotify.com/artist/2rKxDvJDT1Pv93k4ohx8Cp) | [Imagination](https://open.spotify.com/album/5fJ2UXhkmcbc37492C1uDZ) | 3:42 |
 | 4 | [love.](https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:07 |
 | 5 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 |
 | 6 | [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 |
 | 7 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
 | 8 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 |
-| 9 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 |
-| 10 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 |
-| 11 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 |
+| 9 | [Born Savage](https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/1vkQIKe7n01Jxic7csfA4P) | 2:52 |
+| 10 | [Panic](https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ) | [BEOMGYU](https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH) | [Panic](https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H) | 3:08 |
+| 11 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 |
 | 12 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
 | 13 | [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 |
 | 14 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
-| 15 | [Breaking Through](https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Breaking Through](https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j) | 4:12 |
-| 16 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
+| 15 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
+| 16 | [Breaking Through](https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH) | [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Breaking Through](https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j) | 4:12 |
 | 17 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
 | 18 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 |
 | 19 | [Demons](https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Demons \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 |
 | 50 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
 
-Snapshot ID: `AAAAADKJZy4UVU/TDYVMSl6TV7QkSfiw`
+Snapshot ID: `AAAAAOCxbtjF+PAfO8GuWL+DURVRvdXh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,986,217 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,986,295 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 19 | [Good Old\-Fashioned Lover Boy \- Remastered 2011](https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 2:53 |
 | 20 | [I Want It All \- Single Version](https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/4wYe26p1N110qVsKVlb0rL) | 4:01 |
 | 21 | [Too Much Love Will Kill You \- Remastered 2011](https://open.spotify.com/track/0W1uTK6I97CbjFKAVtRGfK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(2011 Remaster\)](https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0) | 4:19 |
-| 22 | [Hammer To Fall \- Remastered 2011](https://open.spotify.com/track/4zguEJ2UaLe4zbEIDWqiVP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(2011 Remaster\)](https://open.spotify.com/album/6wlsUpq6NrapsweMIOKt0y) | 3:38 |
-| 23 | [Radio Ga Ga \- Live Aid](https://open.spotify.com/track/0YwBZKT8JE4U5TwmYE9BV9) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:05 |
+| 22 | [Radio Ga Ga \- Live Aid](https://open.spotify.com/track/0YwBZKT8JE4U5TwmYE9BV9) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:05 |
+| 23 | [Hammer To Fall \- Remastered 2011](https://open.spotify.com/track/4zguEJ2UaLe4zbEIDWqiVP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(2011 Remaster\)](https://open.spotify.com/album/6wlsUpq6NrapsweMIOKt0y) | 3:38 |
 | 24 | [Friends Will Be Friends \- Remastered 2011](https://open.spotify.com/track/3EGlnkJGcwz73rT0oE0X1X) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:06 |
 | 25 | [These Are The Days Of Our Lives \- 2011 Remaster](https://open.spotify.com/track/5js1JJOAkR5KwlifBpvHMN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:15 |
-| 26 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:55 |
-| 27 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
+| 26 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 |
+| 27 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:55 |
 | 28 | [Save Me \- Remastered 2011](https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:49 |
 | 29 | [Bicycle Race \- Remastered 2011](https://open.spotify.com/track/5CTAcf8aS0a0sIsDwQRF9C) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:00 |
-| 30 | [It's A Hard Life \- Remastered 2011](https://open.spotify.com/track/34MoKBRdC9JDjcL4b4X1Ic) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 4:06 |
-| 31 | [Ay\-Oh \- Live Aid](https://open.spotify.com/track/6Fl9MoM9BDk6vwbHqBBZeK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 0:41 |
+| 30 | [Ay\-Oh \- Live Aid](https://open.spotify.com/track/6Fl9MoM9BDk6vwbHqBBZeK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 0:41 |
+| 31 | [It's A Hard Life \- Remastered 2011](https://open.spotify.com/track/34MoKBRdC9JDjcL4b4X1Ic) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 4:06 |
 | 32 | [Breakthru \- Remastered 2011](https://open.spotify.com/track/5Nuxdf0f5PpaeaPm4jrhiE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 4:08 |
 | 33 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 |
 | 34 | [Innuendo \- Remastered 2011](https://open.spotify.com/track/0BzhS74ByIVlyz8BedHaYi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 6:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [There Must Be More To Life Than This \- William Orbit Mix](https://open.spotify.com/track/4fm6uqfR9apdFcjMXnmjtf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Queen Forever \(Deluxe Edition\)](https://open.spotify.com/album/0VGTZXtXHGCKVx6l9KAN4F) | 3:27 |
 | 50 | [Who Wants To Live Forever \- Stranger Things Remix](https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants To Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8) | 2:47 |
 
-Snapshot ID: `ai3vAAAAAAC8O+GNvpXSQdQACruN2AvU`
+Snapshot ID: `ai9AgAAAAABCP8qGq12Cw6uE7HiXiE7M`

@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 261771,
+  "num_followers": 261805,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABJSiUrBgXAcrzP9v4s4qy2",
+  "snapshot_id": "ai9AgAAAAAC9gMHWhdA9SwB5Zi9rwIKm",
   "tracks": [
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 301242,
-      "name": "Diarabi",
-      "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
+      "duration_ms": 274193,
+      "name": "Lobbo",
+      "url": "https://open.spotify.com/track/7FOdklQwziz02Et3OJ9nJT"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 274193,
-      "name": "Lobbo",
-      "url": "https://open.spotify.com/track/7FOdklQwziz02Et3OJ9nJT"
+      "duration_ms": 301242,
+      "name": "Diarabi",
+      "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
     },
     {
       "added_at": null,

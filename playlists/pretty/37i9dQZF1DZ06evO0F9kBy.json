@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAA7BF1j3JzDyLUZt73aTqUy",
+  "snapshot_id": "ai9AgAAAAADq44su2xYkVdiUTareb6+R",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Finished Work",
+        "url": "https://open.spotify.com/album/3a4FeZCuwdG7TH4Co0AZx0"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232842,
+      "name": "Finished Work",
+      "url": "https://open.spotify.com/track/5qve27Ge0zYn1KI1tadoo7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 248531,
       "name": "Cling To The Cross",
       "url": "https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finished Work",
-        "url": "https://open.spotify.com/album/3a4FeZCuwdG7TH4Co0AZx0"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232842,
-      "name": "Finished Work",
-      "url": "https://open.spotify.com/track/5qve27Ge0zYn1KI1tadoo7"
     },
     {
       "added_at": null,
@@ -779,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
       },
       "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Remembrance (Communion Song)",
-      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
     },
     {
       "added_at": null,
@@ -823,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Creation",
-        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
       "artists": [
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 233080,
-      "name": "Baptized",
-      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+      "duration_ms": 318666,
+      "name": "Remembrance (Communion Song)",
+      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
       "duration_ms": 249066,
       "name": "As It Is In Heaven",
       "url": "https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 190280,
       "name": "Abide With Me",
       "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
     },
     {
       "added_at": null,

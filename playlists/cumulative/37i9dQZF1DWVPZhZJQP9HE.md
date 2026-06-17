@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sarah Black
 
-792 songs - 1 day 22 hr 36 min
+793 songs - 1 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Aragora](https://open.spotify.com/track/62DquyoXGWnFqGQeXVLQkx) | [Santhosh Music](https://open.spotify.com/artist/4T2qnZvIkmrkLlRFcP1vWy) | [Aragora](https://open.spotify.com/album/77Sykobp50UQEKhGQ2CbaL) | 2:54 | 2022-12-23 | 2023-07-25 |
 | [Arakkiye](https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V) | [Arakkiye](https://open.spotify.com/album/2wz4GI1MXwXTZMtJFFBsp7) | 3:47 | 2024-10-03 | 2025-07-18 |
 | [Aravindh](https://open.spotify.com/track/1G2h7mB8UJi8qG0TbVEjGP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Aravindh](https://open.spotify.com/album/5MMZDHwfBtTiaNr3JD5lxQ) | 4:09 | 2026-06-14 |  |
-| [Arimugam Illaiya](https://open.spotify.com/track/3nnLXWYl3md7aNLQA9bZ13) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 3:25 | 2025-10-03 |  |
+| [Arimugam Illaiya](https://open.spotify.com/track/3nnLXWYl3md7aNLQA9bZ13) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 3:25 | 2025-10-03 | 2026-06-17 |
 | [Arugey Nee Pothumay](https://open.spotify.com/track/3T2tjy8V4meKO1cWNoQm6k) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Akshaya Jayakumar](https://open.spotify.com/artist/47q4WcACVC3frG4ZTgslUR) | [Arugey Nee Pothumay \- Single](https://open.spotify.com/album/4Hzjc66esQ4wvOjdfTrtDc) | 4:58 | 2022-09-23 | 2022-11-22 |
 | [Asku Maaro](https://open.spotify.com/track/4gmZ9uup1Jl1AyzLGHdgDQ) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Asku Maaro](https://open.spotify.com/album/73N2dOPA0VuWPWfD6LDUPX) | 4:00 | 2021-12-01 | 2022-08-12 |
 | [Audi Caru Alamelu அலமேலு](https://open.spotify.com/track/7JAWqYNG8MXFqOOfrS34ts) | [Seminote](https://open.spotify.com/artist/1lKOU0EH9lLKFg9h9oaJqN), [Vijaya Loshan](https://open.spotify.com/artist/3otWki2viEbTLiR5zKWaey), [Dinesh K](https://open.spotify.com/artist/7zMkixw7OmxxgS3uf19zgz) | [Audi Caru Alamelu அலமேலு](https://open.spotify.com/album/3B95jZiYvvFXXPUUOXbZoQ) | 3:21 | 2022-02-17 | 2022-12-20 |
@@ -577,6 +577,7 @@
 | [Poidhana](https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP) | 2:55 | 2023-11-14 | 2025-03-08 |
 | [Poidhana](https://open.spotify.com/track/756zRtsR7enjgQRwJkGmCX) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2NX0YTJxgnw9XEaJamAtnJ) | 2:55 | 2023-11-14 | 2024-04-19 |
 | [Polambal](https://open.spotify.com/track/4b50BdPjp56Ir3QNiXTn07) | [Prasanna](https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ), [Viwin Frencies](https://open.spotify.com/artist/47ZrxtQrnCIPnKvYxGNdtx) | [Polambal](https://open.spotify.com/album/6ZKzJclfFSBK6lyPoLbMqU) | 3:32 | 2023-03-16 | 2023-03-23 |
+| [Pon Vizhi](https://open.spotify.com/track/2Fg13KXXr1tTQukjeKagqa) | [Pogan](https://open.spotify.com/artist/3H1gfzjgnwqUgVfsv1AJO1), [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [Koshal](https://open.spotify.com/artist/1wvjJEVaHh1HELljGmSOtX) | [Pon Vizhi](https://open.spotify.com/album/5WMhBrANqs8xbaqw6m7uY4) | 3:57 | 2026-06-16 |  |
 | [Pona Poraley](https://open.spotify.com/track/1Wbsi01k4nMBSXddvS4QrR) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Pona Poraley](https://open.spotify.com/album/4R9zIFu9n4FGOMiueIwqQ0) | 3:29 | 2023-08-31 | 2024-06-14 |
 | [Ponnunga Kaadhal](https://open.spotify.com/track/1f0TU9VhujvprNI7ULktR5) | [Krishan Maheson](https://open.spotify.com/artist/090PjZy0HWrly2e5Tcpj8j), [Stylomannavan](https://open.spotify.com/artist/6o5yhCFKdMKNmQ8Qh804VG), [Kandappu Jeyanthan](https://open.spotify.com/artist/2dLsASzgLhQW4qJRVs2uy2) | [Ponnunga Kaadhal](https://open.spotify.com/album/03NwStJXgOvN3fG6fVBeDG) | 3:39 | 2021-12-01 | 2022-07-15 |
 | [Poongaatrudhaan](https://open.spotify.com/track/0hNeP2hBfUsl6NrxiNraOK) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3) | [Poongaatrudhaan](https://open.spotify.com/album/2P7ou7wLkqxHxldV3lvxla) | 3:06 | 2023-06-23 | 2024-07-27 |

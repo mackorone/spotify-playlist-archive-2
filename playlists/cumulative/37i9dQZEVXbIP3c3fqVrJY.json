@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "ADHD POP",
+        "url": "https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "ADHD POP",
+      "url": "https://open.spotify.com/track/2nFk1X6uJcJkHnOgMDep0a"
+    },
+    {
+      "album": {
         "name": "Adikts",
         "url": "https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i"
       },
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 167191,
       "name": "A\u0165 je klid",
       "url": "https://open.spotify.com/track/43iLUibjKqDJBq4rCGF49n"
@@ -4556,10 +4574,28 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 142508,
       "name": "BIG MAC",
       "url": "https://open.spotify.com/track/2wB8ZONDhgP0LpB2SUEfLl"
+    },
+    {
+      "album": {
+        "name": "ADHD POP",
+        "url": "https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144386,
+      "name": "BIG MAC",
+      "url": "https://open.spotify.com/track/3qB9SZ7impZjeRkA4ZaBqw"
     },
     {
       "album": {
@@ -6338,7 +6374,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -10560,7 +10596,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
@@ -11226,7 +11262,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -13626,7 +13662,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 129795,
       "name": "G Party",
       "url": "https://open.spotify.com/track/2mHPooUWrNQWl36TFYCWSw"
@@ -24803,6 +24839,28 @@
     },
     {
       "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+    },
+    {
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -25572,7 +25630,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -25988,7 +26046,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 180720,
       "name": "my way",
       "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
@@ -26508,7 +26566,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Na ost\u0159\u00ed no\u017ee",
       "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
@@ -26526,7 +26584,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 223426,
       "name": "Na ost\u0159\u00ed no\u017ee",
       "url": "https://open.spotify.com/track/4Khglv8L82X1jD5KAEMYwT"
@@ -28262,10 +28320,28 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 172000,
       "name": "Ne\u0159\u00edkej, co m\u00e1 se st\u00e1t",
       "url": "https://open.spotify.com/track/2taQUA73P8EHhWsuv4QyJw"
+    },
+    {
+      "album": {
+        "name": "ADHD POP",
+        "url": "https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Ne\u0159\u00edkej, co m\u00e1 se st\u00e1t",
+      "url": "https://open.spotify.com/track/5ZVg4ScDZijCiVwDjF8MmI"
     },
     {
       "album": {
@@ -31466,10 +31542,28 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 207239,
       "name": "PERPETUUM MOBILE",
       "url": "https://open.spotify.com/track/7wxWwq6Pah4Y6mqsvEWTCa"
+    },
+    {
+      "album": {
+        "name": "ADHD POP",
+        "url": "https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207440,
+      "name": "PERPETUUM MOBILE",
+      "url": "https://open.spotify.com/track/54Ds61aYzZyAwKwBSS49vJ"
     },
     {
       "album": {
@@ -35266,7 +35360,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -39082,7 +39176,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 256720,
       "name": "Svaz \u010desk\u00fdch boh\u00e9m\u016f",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -42478,7 +42572,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 123076,
       "name": "TYPE BEAT",
       "url": "https://open.spotify.com/track/3OhcMbapB8evsgarEoPGH0"
@@ -44492,10 +44586,32 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 203789,
       "name": "Vzpomene\u0161 si?",
       "url": "https://open.spotify.com/track/50JepWcN6dVYG4fkziswhO"
+    },
+    {
+      "album": {
+        "name": "ADHD POP",
+        "url": "https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        },
+        {
+          "name": "Mirai",
+          "url": "https://open.spotify.com/artist/5m2pDQbSRuWbxRR1FUcHle"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Vzpomene\u0161 si?",
+      "url": "https://open.spotify.com/track/6IZJzEaBEHhyc3kFFM157L"
     },
     {
       "album": {

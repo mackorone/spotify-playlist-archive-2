@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3230623,
+  "num_followers": 3230740,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABUnnxU5OCMaL1yorJLNdEC",
+  "snapshot_id": "ai9AgAAAAAA1w9MKvF3sh0PFmRdJLYt8",
   "tracks": [
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb"
+        "name": "FourFiveSeconds",
+        "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
       "artists": [
         {
@@ -288,13 +288,17 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN"
+      "duration_ms": 188238,
+      "name": "FourFiveSeconds",
+      "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
     },
     {
       "added_at": null,
@@ -335,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FourFiveSeconds",
-        "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb"
       },
       "artists": [
         {
@@ -344,17 +348,13 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
         }
       ],
-      "duration_ms": 188238,
-      "name": "FourFiveSeconds",
-      "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 208106,
       "name": "If It's Lovin' That You Want",
       "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-540 songs - 1 day 4 hr 28 min
+542 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Superstar](https://open.spotify.com/track/1d0yjcfqJcgyM2jcTsNF9Z) | [Trash Modjo](https://open.spotify.com/artist/0sqd55dX3mOswXySd46NT5), [PartyFowl](https://open.spotify.com/artist/1NhZDu9Qf3YtbQZC458hg1), [DJ Trashtail](https://open.spotify.com/artist/48KJapfAlCxYJlR1JqvVex), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [Together](https://open.spotify.com/album/7bQrXFtvhRKXpXjewkeD4Q) | 2:42 | 2026-02-22 |  |
 | [System Error](https://open.spotify.com/track/6Hj845K5h4w6RxXxxVlTsm) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [System Error](https://open.spotify.com/album/3dTOYU6oN5Yt6zzuWUiMJB) | 5:06 | 2023-06-14 | 2026-03-01 |
 | [T BOY SWAG!!](https://open.spotify.com/track/1pnXju2cvAdcXwhSaIHlhO) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [pop out](https://open.spotify.com/album/3p29QY6whqGfBoWdhArXrF) | 1:13 | 2024-07-25 | 2026-03-01 |
+| [TAKE IT BACK](https://open.spotify.com/track/72jrhRowS30co5MzdJ4aXy) | [mp3kitty](https://open.spotify.com/artist/7donvrLTm3BHSLo9QTDoDa) | [TAKE IT BACK](https://open.spotify.com/album/21WLFa7LiQbaWzLJVfLa7t) | 2:42 | 2026-06-16 |  |
 | [Take Me 2 Your Home](https://open.spotify.com/track/2QaSEVvEucEfOBIFqKGjFZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Take Me 2 Your Home](https://open.spotify.com/album/0lX9wI8D3EFTPr6efx1WaR) | 2:48 | 2025-12-20 |  |
 | [Take Me Up](https://open.spotify.com/track/1GyuPucfVlZAHw7CUmq4eo) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Take Me Up](https://open.spotify.com/album/5krEvaWqSRz6A7J9NGtbl7) | 2:55 | 2024-10-18 | 2025-11-10 |
 | [talk my shit](https://open.spotify.com/track/1jpTjjQdD3lDxHhyd3BqXw) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [h i d a m a](https://open.spotify.com/artist/4hwdD8J5z3iLG7uSg3w6sw) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 3:25 | 2025-01-30 |  |
@@ -515,6 +516,7 @@
 | [turn tail](https://open.spotify.com/track/0ZF8y0kcVWFts8QqL4cZDA) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 3:58 | 2025-05-10 |  |
 | [Unleashed](https://open.spotify.com/track/3o4nIl4q6Rpcm2PNvKhBJT) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 5:56 | 2024-02-10 | 2025-05-21 |
 | [UNMARKETABLE](https://open.spotify.com/track/1GXQG1drYNjW9EmZ60RkLY) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal), [AQUASINE](https://open.spotify.com/artist/77ncj3o51Ng6KaJCp5wTiG) | [UNMARKETABLE](https://open.spotify.com/album/3jG4mLZZsaBBaMVNCKMQkl) | 2:06 | 2024-05-28 |  |
+| [venison](https://open.spotify.com/track/7FVHg9T2UZRlDpiO0tXHya) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [venison](https://open.spotify.com/album/7M1VWXKFDAt3bM8R0kcmEG) | 3:49 | 2026-06-16 |  |
 | [VENOMOUS](https://open.spotify.com/track/4rPKifkzrhIYAsl1njwmjd) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PASSENGERPRINCESS](https://open.spotify.com/album/6Sm7ZO5A4G1gVWqUJXeut9) | 2:16 | 2025-11-17 | 2025-11-29 |
 | [Voices in my head](https://open.spotify.com/track/47q6JbwiwqxIud1FcbbCDm) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi), [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Chapter 2](https://open.spotify.com/album/0EWerXaZCXA5KmMfEKJN2x) | 2:41 | 2024-07-14 | 2026-03-01 |
 | [Wag My Tail](https://open.spotify.com/track/706eKOKkaHuRjxd25q1WZo) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Wag My Tail](https://open.spotify.com/album/2sBXtD2bY1FaiXTzIft4qB) | 3:56 | 2023-11-22 |  |

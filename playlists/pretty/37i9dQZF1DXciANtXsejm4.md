@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,793 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,856 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 47 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |
 | 48 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 |
 | 49 | [Distancia](https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Volvió el Parrandero!!!](https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7) | 4:09 |
-| 50 | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH) | 3:56 |
-| 51 | [Te Propongo](https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk), [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [El Secreto](https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC) | 3:10 |
+| 50 | [Te Propongo](https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM) | [Kaniche](https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk), [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [El Secreto](https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC) | 3:10 |
+| 51 | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH) | 3:56 |
 | 52 | [Adicto a Tu Piel](https://open.spotify.com/track/0br8d63wjkqKph7c7YZeTV) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Adicto a Tu Piel](https://open.spotify.com/album/0GaQEVzKdGyzwbw6gzVltM) | 3:59 |
 | 53 | [Y Hoy Volvimos A Vernos](https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Y Hoy Volvimos A Vernos](https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc) | 3:23 |
 | 54 | [Estas en el Recuerdo / Matala](https://open.spotify.com/track/2mMdfb5n1V9pA6f2cJPAKN) | [Habana Combo](https://open.spotify.com/artist/7zpSH2chjM380vMwQTEOaq) | [Matala](https://open.spotify.com/album/5GXPAzBUue89g3wL2p8CGT) | 4:35 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 73 | [Conversemos](https://open.spotify.com/track/78bITNyNWSjv5FIMEWRIKN) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ), [Diana Rios](https://open.spotify.com/artist/6V7Cx9UlMce4CLLoZ5Sndi) | [Conversemos](https://open.spotify.com/album/4sMiUgRzHLcY5MgQkfGJvz) | 2:27 |
 | 74 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 |
 | 75 | [Ojalá Que No Puedas](https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk) | [La Gorda Me Quiere](https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63) | 3:12 |
-| 76 | [Humillate](https://open.spotify.com/track/3trzCCEnxmzybmFYY8KPdL) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Mi Única Alegría](https://open.spotify.com/album/5zydYTOfjjzPENqxvR3qBH) | 2:42 |
+| 76 | [Mojada Por Dentro \- En Vivo](https://open.spotify.com/track/1NdkMO63A4XFTzLlvRQ36K) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Uriel Lozano: Sin Miedo Session \#44 \(Lado S\) \[En Vivo\]](https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7) | 1:20 |
 | 77 | [Antes](https://open.spotify.com/track/2WkYydyAY8QsFhy16KgsCY) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:52 |
-| 78 | [Hasta el Sol de Hoy \- En Vivo](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
+| 78 | [Humillate](https://open.spotify.com/track/3trzCCEnxmzybmFYY8KPdL) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Mi Única Alegría](https://open.spotify.com/album/5zydYTOfjjzPENqxvR3qBH) | 2:42 |
 | 79 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 |
-| 80 | [Tan Solo Amantes](https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Creciendo](https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v) | 3:55 |
+| 80 | [Hasta el Sol de Hoy \- En Vivo](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
 
 Snapshot ID: `AAAAAIJr4gbnXJGs906xOWuP5u9yLZHc`

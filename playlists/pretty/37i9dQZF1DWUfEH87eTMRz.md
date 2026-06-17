@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 20, 21 y 22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,674 likes - 73 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,670 likes - 73 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 15 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 |
 | 16 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
 | 17 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 18 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
-| 19 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
+| 18 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
+| 19 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
 | 20 | [Clouds](https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Levi Don't Do It](https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ) | 2:38 |
 | 21 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 22 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 60 | [La Oportunidad](https://open.spotify.com/track/1govqZeydQtqqJm1SLpX8l) | [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR) | [La Oportunidad](https://open.spotify.com/album/0mkhgGt2bmsJta8uQ5WbMs) | 2:54 |
 | 61 | [TEKETEKE](https://open.spotify.com/track/57DVPc2raEhdYqNmEHuClm) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf) | [XOXO](https://open.spotify.com/album/7wn92jI9a19UFekP9Sa9oU) | 5:49 |
 | 62 | [To\-k \- Radio Edit](https://open.spotify.com/track/01nmmlfOsNn7yNlk0FQarF) | [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [The Guetto \(Radio Edits\)](https://open.spotify.com/album/4jIc1KJaBOdIKNGPMH84Fr) | 1:47 |
-| 63 | [TV](https://open.spotify.com/track/4hus902o8ejJ2cEz60CEky) | [Entreco](https://open.spotify.com/artist/2EKPkGtwjq8mnpTHOr2NfT) | [T.V](https://open.spotify.com/album/38P7PZHv0YUOLcBgBR33QI) | 3:30 |
-| 64 | [Turbo Charged](https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Turbo Charged](https://open.spotify.com/album/3dSPoyigg0z064sywIKF10) | 3:36 |
+| 63 | [Turbo Charged](https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Turbo Charged](https://open.spotify.com/album/3dSPoyigg0z064sywIKF10) | 3:36 |
+| 64 | [TV](https://open.spotify.com/track/4hus902o8ejJ2cEz60CEky) | [Entreco](https://open.spotify.com/artist/2EKPkGtwjq8mnpTHOr2NfT) | [T.V](https://open.spotify.com/album/38P7PZHv0YUOLcBgBR33QI) | 3:30 |
 | 65 | [MC Dinero](https://open.spotify.com/track/5vDKAa8p9ect2w1D0jVLDa) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:19 |
 | 66 | [La Colisión](https://open.spotify.com/track/5mKKcE9nZzLGDsi7hw9ZbN) | [dvd](https://open.spotify.com/artist/2zLbu1txxbXVkqql76GCGR) | [La Colisión](https://open.spotify.com/album/0mGWewNlWnhAeoLGNE0QBf) | 2:48 |
 | 67 | [Can't Stop The Bleeding](https://open.spotify.com/track/6nvby2z8Gx8lAPX3Oq5tA5) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Can't Stop The Bleeding](https://open.spotify.com/album/4V6kISSEKInUDjZ8mst8KQ) | 4:38 |

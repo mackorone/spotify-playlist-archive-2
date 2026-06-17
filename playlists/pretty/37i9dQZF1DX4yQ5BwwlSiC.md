@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 ### [CMA Fest](https://open.spotify.com/playlist/37i9dQZF1DX4yQ5BwwlSiC)
 
-> Check out all of these artists and more performing live in Nashville at CMA Fest 2026! Cover: Ella Langley
+> Watch The Music Event of Summer on June 25 at 8/7c on ABC! Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,672 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,669 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 44 | [Blue Tacoma](https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:32 |
 | 45 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 |
 
-Snapshot ID: `AAAAAPs5xQ7Wm0NAiEKOh9LAzGSVYepj`
+Snapshot ID: `AAAAAEw4UboMHQzPs7StQrRrdBgLUIkr`

@@ -12239,7 +12239,7 @@
     },
     {
       "album": {
-        "name": "Canzoni ombra",
+        "name": "Canzoni Ombra",
         "url": "https://open.spotify.com/album/5Ze1h6PEiQIPxjhvE4Si8r"
       },
       "artists": [
@@ -14698,6 +14698,24 @@
       "duration_ms": 161183,
       "name": "Il mio risveglio",
       "url": "https://open.spotify.com/track/3PgPdRH5lf65fRNeUXptju"
+    },
+    {
+      "album": {
+        "name": "Il molo degli Inglesi",
+        "url": "https://open.spotify.com/album/3pT7K1qxaLddN7khup2QAl"
+      },
+      "artists": [
+        {
+          "name": "Pallida Cavtat",
+          "url": "https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256157,
+      "name": "Il molo degli Inglesi",
+      "url": "https://open.spotify.com/track/7jImJTbZYgHMilqt9BPN3D"
     },
     {
       "album": {
@@ -30994,7 +31012,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 232524,
       "name": "Strade private",
       "url": "https://open.spotify.com/track/3psL4wz9V78qroVKG3mx1e"

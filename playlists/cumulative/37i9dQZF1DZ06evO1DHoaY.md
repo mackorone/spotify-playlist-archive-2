@@ -4,7 +4,7 @@
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 53 min
+76 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [Real Situation](https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:08 | 2024-02-01 |  |
 | [Redemption Song](https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:53 | 2024-02-01 |  |
 | [Ride Natty Ride](https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 | 2024-02-01 |  |
-| [Roots, Rock, Reggae](https://open.spotify.com/track/1j3ANZgokEc0jKztEDV34l) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [One Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj) | 3:37 | 2026-04-24 |  |
+| [Roots, Rock, Reggae](https://open.spotify.com/track/1j3ANZgokEc0jKztEDV34l) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [One Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj) | 3:37 | 2026-04-24 | 2026-06-17 |
 | [Roots, Rock, Reggae](https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 3:38 | 2024-02-01 | 2026-04-24 |
+| [Roots, Rock, Reggae \- Live At The Hammersmith Odeon, London, UK \- June, 1976](https://open.spotify.com/track/5f08TjZ0NqmPOO0KSMXLtw) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Roots, Rock, Reggae \(Live At The Hammersmith Odeon, London, UK \- June 1976\)](https://open.spotify.com/album/7fmhLR0NS63rgviBqOhTZX) | 5:22 | 2026-06-17 |  |
 | [Running Away](https://open.spotify.com/track/2dFx6mVWGJTu4xa1elAQ7n) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:15 | 2024-02-11 | 2024-07-06 |
 | [Satisfy My Soul](https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:31 | 2024-02-01 |  |
 | [She's Gone](https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 2:25 | 2024-02-01 |  |

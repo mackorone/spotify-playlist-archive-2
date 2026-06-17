@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,132 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,130 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Puñaladas](https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas](https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD) | 2:19 |
 | 50 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 |
 
-Snapshot ID: `McN4sAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `McTKMAAAAAAAAAAAAAAAAAAAAAAAAGVu`

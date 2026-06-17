@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,636 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,633 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 71 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 72 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
 | 73 | [Você Me Trocou \- Ao Vivo](https://open.spotify.com/track/3RYV8juwSUclgwNiwmESlb) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr) | [Clássico \(Ao Vivo / Edição Especial\)](https://open.spotify.com/album/7lHfl8zlZjgdy1aR4Ra66A) | 3:13 |
-| 74 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
-| 75 | [Diz pra Mim](https://open.spotify.com/track/4ddDW7Ao1h5UgISvnF1Npg) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Diz pra Mim](https://open.spotify.com/album/6m7uzYkj1KvxGXaRERcof7) | 4:01 |
+| 74 | [Diz pra Mim](https://open.spotify.com/track/4ddDW7Ao1h5UgISvnF1Npg) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Diz pra Mim](https://open.spotify.com/album/6m7uzYkj1KvxGXaRERcof7) | 4:01 |
+| 75 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
 
 Snapshot ID: `AAAAAB5hkMq/ZsrAekDsqOb++k/wjCvl`

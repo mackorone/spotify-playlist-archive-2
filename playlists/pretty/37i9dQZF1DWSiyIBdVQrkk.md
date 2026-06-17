@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142,428 likes - 110 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,142,223 likes - 110 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 86 | [Inna Di Ghetto](https://open.spotify.com/track/1yKqoyJmeLymK6dLd1Tt9P) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Nectar of the Gods](https://open.spotify.com/album/7fTqjHVugWluTJ8Ih9sLeC) | 3:20 |
 | 87 | [Bad Dreams](https://open.spotify.com/track/0iYz835jZ1PKFs8BAwikFz) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Bad Dreams](https://open.spotify.com/album/2fXdXcYiFoDrb8VKXPDRQY) | 2:58 |
 | 88 | [Funky Kingston](https://open.spotify.com/track/2Vgw7NYq8futWHxCm3RBy3) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Pressure Drop: The Definitive Collection](https://open.spotify.com/album/5lfJsDYf7XcdyHax7UO3OE) | 4:54 |
-| 89 | [Stereo](https://open.spotify.com/track/6LP7QdPw4Ly6neYg4zLKGO) | [Rik Jam](https://open.spotify.com/artist/5s8Z7hEzedh3vepd7dckZv), [Eric Rachmany](https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM) | [Stereo](https://open.spotify.com/album/1JanzxNHyIWF1fFcqAWxLg) | 4:07 |
-| 90 | [Burn It To The Ground](https://open.spotify.com/track/5AeNzsPgqpZcAYRTdfLRYj) | [Mortimer](https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv), [Paris La Mont](https://open.spotify.com/artist/5vo2PcCvrUAkwDq3QFWI2e) | [Burn It To The Ground](https://open.spotify.com/album/7JIlW2igRiyuOPEUrD8eGg) | 4:44 |
+| 89 | [Burn It To The Ground](https://open.spotify.com/track/5AeNzsPgqpZcAYRTdfLRYj) | [Mortimer](https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv), [Paris La Mont](https://open.spotify.com/artist/5vo2PcCvrUAkwDq3QFWI2e) | [Burn It To The Ground](https://open.spotify.com/album/7JIlW2igRiyuOPEUrD8eGg) | 4:44 |
+| 90 | [Stereo](https://open.spotify.com/track/6LP7QdPw4Ly6neYg4zLKGO) | [Rik Jam](https://open.spotify.com/artist/5s8Z7hEzedh3vepd7dckZv), [Eric Rachmany](https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM) | [Stereo](https://open.spotify.com/album/1JanzxNHyIWF1fFcqAWxLg) | 4:07 |
 | 91 | [World Citizen \(with Kabaka Pyramid\)](https://open.spotify.com/track/5dtRT20P8nkuqHKAOqUYNt) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [World Citizen \(with Kabaka Pyramid\)](https://open.spotify.com/album/3HaSEyHGfuqx6AEwQql9BC) | 3:10 |
 | 92 | [Don't Show Off](https://open.spotify.com/track/6g1OFTxXHuWE1kJQ8qlXhH) | [Willi Williams](https://open.spotify.com/artist/2ZC3u6r4u6ELXjiAjI6qNe), [Roberto Sanchez](https://open.spotify.com/artist/0YZyBm5ikMVwt7ulExBTPk) | [Don't Show Off](https://open.spotify.com/album/7iQGwbsoke1zy9TXtXrWhm) | 4:00 |
 | 93 | [Long Way](https://open.spotify.com/track/2i6JorkVOB5j2jomwn3gdK) | [Akina Eman](https://open.spotify.com/artist/3D7ASE3XdxMcDku4h2XLIV) | [Long Way](https://open.spotify.com/album/3piQF9NVrTMKZtht7or25Y) | 2:48 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 105 | [Could You Be Loved](https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 3:57 |
 | 106 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 |
 | 107 | [Murderer](https://open.spotify.com/track/0j3k5lalAmEHaXJeytoMB6) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/2jLNKZ0HQJ4OJOprvVkDvV) | 3:53 |
-| 108 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
-| 109 | [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 |
+| 108 | [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 |
+| 109 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
 | 110 | [Turn Your Lights Down Low](https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD) | 5:46 |
 
 Snapshot ID: `AAAAAHiwbR+4ntnw96cZ+FRbbqNcm3rI`

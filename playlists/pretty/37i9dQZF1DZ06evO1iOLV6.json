@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12576,
+  "num_followers": 12577,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAA7zF91l3T/UDeChWlkSPOp",
+  "snapshot_id": "ai9AgAAAAACWSDNPGwrHIcIefTOKLDBA",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Golden Boy",
+        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 217710,
+      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
+      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 219820,
       "name": "Rudi (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Golden Boy",
-        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 217710,
-      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
-      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilmer",
-        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Bera",
-          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
-        }
-      ],
-      "duration_ms": 224597,
-      "name": "Wilmer (feat. Bera)",
-      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Credit Alert",
         "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 193718,
       "name": "Credit Alert",
       "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bera",
+          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
+        }
+      ],
+      "duration_ms": 224597,
+      "name": "Wilmer (feat. Bera)",
+      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
     },
     {
       "added_at": null,
@@ -991,22 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highlife Konnect",
-        "url": "https://open.spotify.com/album/72NulXFtskbFG6htwcte2C"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
       "artists": [
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        },
-        {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
         }
       ],
-      "duration_ms": 212741,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/1N0GdFeRwgEeiDqkX0m4HB"
+      "duration_ms": 205450,
+      "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
+      "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
     }
   ],
   "unique_name": "This Is Patoranking",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,468 likes - 159 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,469 likes - 159 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,14 +62,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 52 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
 | 53 | [Keeping Score \(feat\. Paige IV\)](https://open.spotify.com/track/0g1BxXBhdbhImlgjJoIGal) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:02 |
 | 54 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
-| 55 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 |
-| 56 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
+| 55 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
+| 56 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 |
 | 57 | [History](https://open.spotify.com/track/7rIfPMmf3h0JO2GT1C2m2z) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 3:28 |
 | 58 | [Pick U Up](https://open.spotify.com/track/2UbuXuTdSC0oR0upCbiLx2) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Pick U Up](https://open.spotify.com/album/7414qD6qDgp0dsbD8LuPEt) | 3:02 |
 | 59 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 |
 | 60 | [F You I Love You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/27aGlicHJKf5QY20looYlR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Light of Mine \(Deluxe\)](https://open.spotify.com/album/4UYc2CKvpyr2e1moEY6TL0) | 3:56 |
-| 61 | [move!](https://open.spotify.com/track/5w0zeX3eITqzFU2U112T6Q) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/4hOt0i0gET0PSwVyNYy25j) | 2:36 |
-| 62 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 61 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 62 | [move!](https://open.spotify.com/track/5w0zeX3eITqzFU2U112T6Q) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [wanna take this downtown?](https://open.spotify.com/album/4hOt0i0gET0PSwVyNYy25j) | 2:36 |
 | 63 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
 | 64 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 |
 | 65 | [Need Someone](https://open.spotify.com/track/0e6HwIMqkDwr80TmH1mdt3) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:57 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 158 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 159 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `AcUUogAAAADGcvnJhkT4NGV4n4//YMwy`
+Snapshot ID: `AcUaBgAAAADVXPpIjvAC1p1MViGq6S2b`

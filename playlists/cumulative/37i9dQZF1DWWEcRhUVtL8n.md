@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: MUNA
 
-2,442 songs - 5 day 10 hr 7 min
+2,444 songs - 5 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [Congratulations \- Remix](https://open.spotify.com/track/5FbCde0tUpWvOphrT0sGAO) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r) | [Congratulations \(Remix\)](https://open.spotify.com/album/4nNxeKXg2YGYAxd1zcfMAM) | 3:22 | 2021-01-15 | 2021-05-28 |
 | [Connect 5](https://open.spotify.com/track/6GHXF7ip4leelmjjAFYLgE) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Connect 5](https://open.spotify.com/album/2rqHR4Sjr44TPMxAmzJ0pq) | 2:53 | 2021-10-16 | 2021-10-20 |
 | [CONVERSATIONS](https://open.spotify.com/track/3AivUXivaVYYLKahJPg5y6) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [CONVERSATIONS](https://open.spotify.com/album/3g9FVRdGZrBSVfNg9ujoJR) | 2:44 | 2020-12-12 | 2021-01-15 |
-| [Cool](https://open.spotify.com/track/6vCi3BwPeOqfwUHP6krV5d) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Cool](https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y) | 2:38 | 2026-02-06 |  |
+| [Cool](https://open.spotify.com/track/6vCi3BwPeOqfwUHP6krV5d) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Cool](https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y) | 2:38 | 2026-02-06 | 2026-06-17 |
 | [Coping on Unemployment](https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Coping on Unemployment](https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw) | 3:48 | 2023-07-28 | 2023-11-23 |
 | [Cosmic Coming of Age](https://open.spotify.com/track/52aMA7P44g5Owg8YWpABL0) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Cosmic Coming of Age](https://open.spotify.com/album/6N6NRhVUTgoq70ohsH9jxK) | 3:24 | 2021-05-03 | 2021-10-29 |
 | [Costa del Margate](https://open.spotify.com/track/1vRG9BA9rBh4GUap5xihpH) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Costa del Margate](https://open.spotify.com/album/0r2qoRvhrNrOvZVS41DKnt) | 5:33 | 2020-10-13\* | 2020-12-12 |
@@ -1357,6 +1357,7 @@
 | [Macramé \(ft\. Mei Semones\)](https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Macramé](https://open.spotify.com/album/2fzrBj31NWHaEjODwESbKy) | 3:31 | 2026-05-15 | 2026-05-26 |
 | [Madonna](https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Madonna](https://open.spotify.com/album/2uNNQws3ix4ZyVxueGd2un) | 3:12 | 2022-04-15 | 2022-07-19 |
 | [Magazine](https://open.spotify.com/track/0Rop7nCpDSuqnuvzWvZIdq) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Magazine](https://open.spotify.com/album/3qoA0qWckqk4zo8Uf1iegl) | 3:51 | 2022-08-26 | 2022-09-10 |
+| [maggots for brains](https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:00 | 2026-06-16 |  |
 | [Magic](https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Magic](https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK) | 3:04 | 2021-03-18 | 2021-05-23 |
 | [magnetic](https://open.spotify.com/track/6CIV3eixAaJoCxOb0YSI94) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [magnetic](https://open.spotify.com/album/74ZAQCv86DyGpTgGwcR1dA) | 3:05 | 2020-10-20 | 2021-06-02 |
 | [Magnificent](https://open.spotify.com/track/1Zr7kxrJWpDT2Lx1VsbTvt) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 4:28 | 2023-01-23 | 2023-02-01 |
@@ -1698,6 +1699,7 @@
 | [Possession](https://open.spotify.com/track/6jeNDTQlTN2IuWyzmBvKCY) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Sailor's Compilation, Pt\. 3](https://open.spotify.com/album/6eizFTu5YxiHRmTK9wYCjR) | 2:00 | 2025-08-15 | 2025-08-30 |
 | [Post Humorous](https://open.spotify.com/track/59BJgnWKzFnh5TGkhHfmod) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Post Humorous](https://open.spotify.com/album/3Gk3QuFFF4zi4RdyYhBkpy) | 4:39 | 2020-10-13\* | 2021-06-03 |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-19 | 2026-03-21 |
+| [postcard](https://open.spotify.com/track/1NuOwB56vkR1rKZlaGrPrH) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:01 | 2026-06-16 |  |
 | [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 | 2023-04-14 | 2023-06-24 |
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-04-04 | 2025-07-12 |
 | [praxis](https://open.spotify.com/track/4voa3zAXODdEMjCrC1txRF) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Whole World As Vigil](https://open.spotify.com/album/1FijSy0VEvdrUTNCwJqgRJ) | 3:28 | 2026-04-20 | 2026-04-25 |
@@ -1906,7 +1908,7 @@
 | [Skeletons](https://open.spotify.com/track/2aXZUCQVKEh26ggTKWdYOC) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Skeletons](https://open.spotify.com/album/2uPdua4FhGD2HrZQgbeEEM) | 3:17 | 2021-03-08 | 2021-05-28 |
 | [Sleep Tight \- Edit](https://open.spotify.com/track/0RbE1ZbqtX6Y3aMBwmcT5Q) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:03 | 2022-04-29 | 2022-07-28 |
 | [Sleeping Dogs](https://open.spotify.com/track/1AXf936Ys3VSuGQMvCFQvD) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Sleeping Dogs](https://open.spotify.com/album/2HupVyLf54am3GFxjFZWnn) | 3:34 | 2026-02-20 | 2026-03-07 |
-| [Sleeping Pills](https://open.spotify.com/track/5UKptzBq9mvNonV7RW0HtB) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Sleeping Pills](https://open.spotify.com/album/3T62dfS9AVfEyyHIh16w0N) | 3:03 | 2026-05-25 |  |
+| [Sleeping Pills](https://open.spotify.com/track/5UKptzBq9mvNonV7RW0HtB) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Sleeping Pills](https://open.spotify.com/album/3T62dfS9AVfEyyHIh16w0N) | 3:03 | 2026-05-25 | 2026-06-17 |
 | [Sleepover](https://open.spotify.com/track/1X0oGnw7yE9fZUeKUdrYFg) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sleepover](https://open.spotify.com/album/7EN5v9KXPXjQXVWuUlpiXx) | 2:48 | 2021-06-25 | 2022-01-18 |
 | [Sleepyhead](https://open.spotify.com/track/47NoCaEOxlLifJ86Pr3hb8) | [Hunter Moreau](https://open.spotify.com/artist/18E7vRs277FpAIZelUzoCQ) | [Sleepyhead](https://open.spotify.com/album/1jefPRHYXgymDYCwHFnqZf) | 2:58 | 2022-01-14 | 2022-05-31 |
 | [SLOW BURN](https://open.spotify.com/track/4oP3seecgbosi1yIiOkXiY) | [Jonmarco](https://open.spotify.com/artist/2uuT5yM6u298Or1PtkA352) | [SLOW BURN](https://open.spotify.com/album/5wlyWWkFyL098fqpvHhtzT) | 2:32 | 2022-04-08 | 2022-04-15 |

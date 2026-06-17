@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Tove Lo x Stromae, Souldia, Fredz, La Sécurité, GreenWoodz, KNLO, Poirier, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,182 likes - 99 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,184 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 31 | [Terminé](https://open.spotify.com/track/2kCpJcd7oKKJBb8oCkAQdu) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Terminé](https://open.spotify.com/album/6M6flSEBeH8E0ry91NrBKb) | 3:30 |
 | 32 | [oups](https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [le rose c'est hasbeen](https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2) | 2:52 |
 | 33 | [Paiements égaux](https://open.spotify.com/track/5T4XCyNBzJggHwUfyATUNX) | [Saligaude](https://open.spotify.com/artist/3eBpJRoTMJKX8YAdRGRolr) | [Full Millennial Jacket](https://open.spotify.com/album/4eIf9pVU7cL8B81OBlTpyu) | 3:55 |
-| 34 | [CORMIEL](https://open.spotify.com/track/0ioCeqBCfxMWjPpQiUi5VM) | [Chaperdu](https://open.spotify.com/artist/1xxD38qRBNpySMEX9btSu0) | [CORMIEL](https://open.spotify.com/album/3AnL3bgY3PiviGYIV1LrmC) | 2:48 |
+| 34 | [CORMIEL](https://open.spotify.com/track/0ioCeqBCfxMWjPpQiUi5VM) | [Chaperdu](https://open.spotify.com/artist/1xxD38qRBNpySMEX9btSu0), [Kèthe Magané](https://open.spotify.com/artist/2xRd9oXpHOXzrED7JnyEZL) | [CORMIEL](https://open.spotify.com/album/3AnL3bgY3PiviGYIV1LrmC) | 2:48 |
 | 35 | [Chippie](https://open.spotify.com/track/6b1Ub3FXQ0uN4khZKrKCDu) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Destinée Supremacy](https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t) | 2:37 |
 | 36 | [Monstrueux](https://open.spotify.com/track/2TDCLfUiTEoPSrjUIAI6V7) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [MONSTRE](https://open.spotify.com/album/0PIKu8Kbqbef0MsIlb4GNV) | 3:12 |
 | 37 | [J'te retiendrai pas](https://open.spotify.com/track/4YtPhh9k3pijqripjmWhJu) | [Zach Scott](https://open.spotify.com/artist/0x1BXAAWrf873stnf7Iszw) | [J'te retiendrai pas](https://open.spotify.com/album/0c2CfdALzk8VKbyH2IcHgP) | 2:46 |

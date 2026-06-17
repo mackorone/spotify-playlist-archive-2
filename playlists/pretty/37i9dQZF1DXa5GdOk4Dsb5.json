@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella. Jessi Uribe en portada.",
-  "num_followers": 169915,
+  "num_followers": 169960,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "\u00c9chame a Mi La Culpa",
-      "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 190226,
       "name": "Estos Celos",
       "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "\u00c9chame a Mi La Culpa",
+      "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
         "name": "Que De Raro Tiene",
         "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 263133,
       "name": "Por Mujeres Como T\u00fa",
       "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
+        "name": "Bendecida",
+        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 190230,
+      "name": "Bendecida",
+      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
-        "name": "Bendecida",
-        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 190230,
-      "name": "Bendecida",
-      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -1451,6 +1451,34 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
+        "name": "Usted No Me Olvida (Remix)",
+        "url": "https://open.spotify.com/album/2wsFxekJK2wsBHIcsNnVLa"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "duration_ms": 193175,
+      "name": "Usted No Me Olvida - Remix",
+      "url": "https://open.spotify.com/track/7HD4v4EnxsJh4frQP03PBE"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -1495,22 +1523,6 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
-        "name": "Que No Se Caiga el Ritmo",
-        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 231916,
-      "name": "Soltero Feliz",
-      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
         "name": "La Culpa",
         "url": "https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb"
       },
@@ -1523,6 +1535,22 @@
       "duration_ms": 157193,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
+        "name": "Que No Se Caiga el Ritmo",
+        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 231916,
+      "name": "Soltero Feliz",
+      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -1575,22 +1603,6 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
-        "name": "Antolog\u00eda (80 Cl\u00e1sicos)",
-        "url": "https://open.spotify.com/album/66EaV8mdSJpXgZKtdF0DeG"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/1661eebjAHPCx0oBrGyuUp"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
         "name": "Tu Maniqu\u00ed",
         "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
       },
@@ -1607,6 +1619,22 @@
       "duration_ms": 154834,
       "name": "Tu Maniqu\u00ed",
       "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
+        "name": "Antolog\u00eda (80 Cl\u00e1sicos)",
+        "url": "https://open.spotify.com/album/66EaV8mdSJpXgZKtdF0DeG"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/1661eebjAHPCx0oBrGyuUp"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -1647,6 +1675,38 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 214180,
+      "name": "Olvido Intencional",
+      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
+        "name": "Cupido Fall\u00f3",
+        "url": "https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 197642,
+      "name": "Cupido Fall\u00f3",
+      "url": "https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
         "name": "Usted No Me Olvida",
         "url": "https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY"
       },
@@ -1659,62 +1719,6 @@
       "duration_ms": 193137,
       "name": "Usted No Me Olvida",
       "url": "https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
-        "name": "Guaro (Remix)",
-        "url": "https://open.spotify.com/album/3NnJPRCFbWl8UuMm78YnyK"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        },
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        },
-        {
-          "name": "Luis Alberto Posada",
-          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
-        },
-        {
-          "name": "El Charrito Negro",
-          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
-        },
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        },
-        {
-          "name": "Jhon Alex Casta\u00f1o",
-          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
-        },
-        {
-          "name": "Juan Pablo Navarrete",
-          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
-        }
-      ],
-      "duration_ms": 222285,
-      "name": "Guaro - Remix",
-      "url": "https://open.spotify.com/track/5fNJ6mhN9NBOELN7Nw8dzJ"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -1751,38 +1755,6 @@
       "duration_ms": 186378,
       "name": "La Conquista",
       "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 214180,
-      "name": "Olvido Intencional",
-      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
-        "name": "Maldita Traicion",
-        "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

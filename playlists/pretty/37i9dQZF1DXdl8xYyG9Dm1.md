@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  Joey B
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,236 likes - 57 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,267 likes - 57 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 38 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 |
 | 39 | [OTS](https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 3:43 |
 | 40 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
-| 41 | [Believer](https://open.spotify.com/track/5wtj681ak0jF5EeuoWmweC) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:05 |
-| 42 | [I DONT CARE](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 2:58 |
+| 41 | [I DONT CARE](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 2:58 |
+| 42 | [Believer](https://open.spotify.com/track/5wtj681ak0jF5EeuoWmweC) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:05 |
 | 43 | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Leftie \(Dlala Ngcobo\)](https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD) | 2:28 |
 | 44 | [TAI CHI](https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [TAI CHI](https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg) | 2:49 |
 | 45 | [JET SET](https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [OG Mahilet](https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT), [Hoodbaby](https://open.spotify.com/artist/2QUhLhWyOfUIJnSCwmJNbY) | [JET SET](https://open.spotify.com/album/3hlJr1ryAyQ9mavdIqLneV) | 3:04 |

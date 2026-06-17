@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3907,
+  "num_followers": 3908,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAJedgnhWU7Ev0uMYX78yCl",
+  "snapshot_id": "ai9AgAAAAABSSdyiBqbfhLwZJXRQl2LB",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INvite ONly",
         "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
@@ -471,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Thing",
-        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Maiya James",
-          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
         }
       ],
-      "duration_ms": 379160,
-      "name": "Same Thing - Vocal Mix",
-      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Maiya James",
+          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
+        }
+      ],
+      "duration_ms": 379160,
+      "name": "Same Thing - Vocal Mix",
+      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elements Beyond",
         "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 470506,
       "name": "April",
       "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Note Revisited",
+        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "A Time To Remember - Remix",
+      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
       "duration_ms": 229268,
       "name": "Envisions - \u00c2me Acoustic Remix",
       "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Note Revisited",
-        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "A Time To Remember - Remix",
-      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 182071,
+      "name": "MOSS",
+      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New Feeling - Yoruba Soul Remixes",
         "url": "https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE"
       },
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+        "name": "Inner Garden",
+        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 182071,
-      "name": "MOSS",
-      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
+      "duration_ms": 429496,
+      "name": "Luv",
+      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inner Garden",
-        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 429496,
-      "name": "Luv",
-      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pyrography",
         "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 275419,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Basic Sketches For Beginners",
         "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 416280,
       "name": "Moon In Daylight",
       "url": "https://open.spotify.com/track/3GVlEZB6GERFuXtPCSC87j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 275419,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muwekma EP",
+        "url": "https://open.spotify.com/album/5nCsh7xwFw7jyCMe2iQDB3"
+      },
+      "artists": [
+        {
+          "name": "Marcus Worgull",
+          "url": "https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 410927,
+      "name": "Reno - Original Mix",
+      "url": "https://open.spotify.com/track/0rlL3d4FppohJlxdQCrxda"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Call Love",
         "url": "https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 378026,
       "name": "We Call Love",
       "url": "https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muwekma EP",
-        "url": "https://open.spotify.com/album/5nCsh7xwFw7jyCMe2iQDB3"
-      },
-      "artists": [
-        {
-          "name": "Marcus Worgull",
-          "url": "https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 410927,
-      "name": "Reno - Original Mix",
-      "url": "https://open.spotify.com/track/0rlL3d4FppohJlxdQCrxda"
     }
   ],
   "unique_name": "This Is Osunlade",

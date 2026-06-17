@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAB52fGAbRdoeZWnutTrkod6",
+  "snapshot_id": "ai9AgAAAAADhQBr6tp90t8i2NsUAWvYi",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lost Boy",
-        "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 234614,
-      "name": "Bad Idea (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Single",
         "url": "https://open.spotify.com/album/02pV9mCJ2PJNPVWyOFTv37"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 276346,
       "name": "Living Single",
       "url": "https://open.spotify.com/track/36xxq7VDZZsGwARsn6Clo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lost Boy",
+        "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 234614,
+      "name": "Bad Idea (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 50406,
+  "num_followers": 50415,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Laung Gawacha",
-        "url": "https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa"
-      },
-      "artists": [
-        {
-          "name": "Japleen Kaur",
-          "url": "https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK"
-        },
-        {
-          "name": "Insane Muzik",
-          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Laung Gawacha",
-      "url": "https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Challa",
         "url": "https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 189767,
       "name": "Challa",
       "url": "https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Laung Gawacha",
+        "url": "https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa"
+      },
+      "artists": [
+        {
+          "name": "Japleen Kaur",
+          "url": "https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK"
+        },
+        {
+          "name": "Insane Muzik",
+          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Laung Gawacha",
+      "url": "https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -919,22 +919,18 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Lok Boliyan",
-        "url": "https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR"
+        "name": "Best of Balkar Sidhu",
+        "url": "https://open.spotify.com/album/72HqqELNR5MK8wGgPxjOfQ"
       },
       "artists": [
         {
-          "name": "Pal Singh Samaon",
-          "url": "https://open.spotify.com/artist/2Pgn0xL8DGJifVaYpNS5hu"
-        },
-        {
-          "name": "Harinder Hundal",
-          "url": "https://open.spotify.com/artist/2uOb2bGHA6O4ERId5WWAGm"
+          "name": "Balkar Sidhu",
+          "url": "https://open.spotify.com/artist/6uBqTShUAXu6jwhxxvhuhZ"
         }
       ],
-      "duration_ms": 566160,
-      "name": "Lok Boliyan",
-      "url": "https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4"
+      "duration_ms": 451841,
+      "name": "Majhe Diye Mombattiye",
+      "url": "https://open.spotify.com/track/2gP09WRLU9PajUoOgCDYWU"
     }
   ],
   "unique_name": "Folk Punjabi",

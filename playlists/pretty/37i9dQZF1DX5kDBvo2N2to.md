@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,096 likes - 88 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,095 likes - 88 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 81 | [Love is for Losers](https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V) | [LOVIS](https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy) | [Love is for Losers](https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j) | 3:20 |
 | 82 | [Spelar ingen roll \(feat\. Simon Superti\)](https://open.spotify.com/track/5xsPLejlveYFDwHAQSXWMI) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Spelar ingen roll \(feat\. Simon Superti\)](https://open.spotify.com/album/423myRCWFfwiqQmIYxKUUI) | 2:41 |
 | 83 | [Vidrig Soluppgång](https://open.spotify.com/track/77ZNUojWyYfSuGQsMZqV3v) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Vidrig Soluppgång](https://open.spotify.com/album/1Cr2HTMxunNo9IDTB55O82) | 2:18 |
-| 84 | [Level Up](https://open.spotify.com/track/3xFKbv5jsQpjL1LeXS3zr5) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 3:21 |
+| 84 | [I'M DEAD](https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I'M DEAD](https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy) | 2:31 |
 | 85 | [Cocaine](https://open.spotify.com/track/0tRPNdNeJnL55hd1faw1W2) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Dandelion](https://open.spotify.com/album/1hrKM25ZbJnGWOnMWpUT7a) | 2:55 |
-| 86 | [I'M DEAD](https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I'M DEAD](https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy) | 2:31 |
+| 86 | [Level Up](https://open.spotify.com/track/3xFKbv5jsQpjL1LeXS3zr5) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 3:21 |
 | 87 | [Andra Sidan](https://open.spotify.com/track/2xJVwnSjnIDeEHx4eqLPBL) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Bullret I Kristallsångskogen](https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH) | 4:02 |
 | 88 | [Allt jag har](https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz) | 2:52 |
 

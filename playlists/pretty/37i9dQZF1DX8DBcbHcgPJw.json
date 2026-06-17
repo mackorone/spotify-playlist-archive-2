@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo & Marama",
-  "num_followers": 1122877,
+  "num_followers": 1122672,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-05-29 20:55:42",
       "album": {
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
+    },
+    {
+      "added_at": "2026-05-29 20:55:42",
+      "album": {
         "name": "Sin Querer",
         "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 141071,
       "name": "Sin Querer",
       "url": "https://open.spotify.com/track/0kVpyCPMT52a05026zHGiq"
-    },
-    {
-      "added_at": "2026-05-29 20:55:42",
-      "album": {
-        "name": "Cuando Se Pone a Bailar",
-        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 195274,
-      "name": "Cuando Se Pone a Bailar",
-      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
     },
     {
       "added_at": "2026-05-29 20:55:42",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2026-05-29 20:55:42",
       "album": {
+        "name": "Quiero Olvidarte",
+        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 206432,
+      "name": "Quiero Olvidarte",
+      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
+    },
+    {
+      "added_at": "2026-05-29 20:55:42",
+      "album": {
         "name": "La Champions Liga",
         "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 157520,
       "name": "Hasta La Luna (feat. Meri Deal, Marama) - Remix",
       "url": "https://open.spotify.com/track/4HnFARgZZdzuXSWLhfoRp1"
-    },
-    {
-      "added_at": "2026-05-29 20:55:42",
-      "album": {
-        "name": "Quiero Olvidarte",
-        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 206432,
-      "name": "Quiero Olvidarte",
-      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
     },
     {
       "added_at": "2026-05-29 20:55:42",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-05-29 20:55:42",
       "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+    },
+    {
+      "added_at": "2026-05-29 20:55:42",
+      "album": {
         "name": "Me toc\u00f3 perder",
         "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
       },
@@ -1339,18 +1355,22 @@
     {
       "added_at": "2026-05-29 20:55:42",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+        "name": "Sin Cadenas",
+        "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+      "duration_ms": 211238,
+      "name": "Sin Cadenas",
+      "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
     },
     {
       "added_at": "2026-05-29 20:55:42",
@@ -1375,26 +1395,6 @@
       "duration_ms": 240435,
       "name": "Desp\u00f3jate Vol.2",
       "url": "https://open.spotify.com/track/6ViJgiKfyqfs52x2pGhuPF"
-    },
-    {
-      "added_at": "2026-05-29 20:55:42",
-      "album": {
-        "name": "Sin Cadenas",
-        "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 211238,
-      "name": "Sin Cadenas",
-      "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
     },
     {
       "added_at": "2026-05-29 20:55:42",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2026-05-29 20:55:42",
       "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/2zHkbUPb6SChDYFsbKV9uY"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj"
+    },
+    {
+      "added_at": "2026-05-29 20:55:42",
+      "album": {
         "name": "BORRACHO Y LOCO",
         "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 232781,
       "name": "BORRACHO Y LOCO",
       "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
-    },
-    {
-      "added_at": "2026-05-29 20:55:42",
-      "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/2zHkbUPb6SChDYFsbKV9uY"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj"
     },
     {
       "added_at": "2026-05-29 20:55:42",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-05-29 20:55:42",
       "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2026-05-29 20:55:42",
+      "album": {
         "name": "No Fue Culpa Tuya",
         "url": "https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 148283,
       "name": "No Fue Culpa Tuya",
       "url": "https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY"
-    },
-    {
-      "added_at": "2026-05-29 20:55:42",
-      "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2026-05-29 20:55:42",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-05-29 20:55:42",
       "album": {
+        "name": "Cumbia ( Priti / No Tiene Sentido / Baile Inolvidable )",
+        "url": "https://open.spotify.com/album/61ONHNVADNB9SQ7pMp0o6m"
+      },
+      "artists": [
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        }
+      ],
+      "duration_ms": 287651,
+      "name": "Cumbia ( Priti / No Tiene Sentido / Baile Inolvidable )",
+      "url": "https://open.spotify.com/track/15uXIWNvPiLxveCix1ej4y"
+    },
+    {
+      "added_at": "2026-05-29 20:55:42",
+      "album": {
         "name": "EL QUE SE LA QUEDA PIERDE",
         "url": "https://open.spotify.com/album/5QCQTH5yGB0tWTgdb4G3hA"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 210666,
       "name": "EL QUE SE LA QUEDA PIERDE",
       "url": "https://open.spotify.com/track/6IeW9VxJ61QKNvLCyMURpx"
-    },
-    {
-      "added_at": "2026-05-29 20:55:42",
-      "album": {
-        "name": "Cumbia ( Priti / No Tiene Sentido / Baile Inolvidable )",
-        "url": "https://open.spotify.com/album/61ONHNVADNB9SQ7pMp0o6m"
-      },
-      "artists": [
-        {
-          "name": "Diel Paris",
-          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
-        }
-      ],
-      "duration_ms": 287651,
-      "name": "Cumbia ( Priti / No Tiene Sentido / Baile Inolvidable )",
-      "url": "https://open.spotify.com/track/15uXIWNvPiLxveCix1ej4y"
     },
     {
       "added_at": "2026-05-29 20:55:42",

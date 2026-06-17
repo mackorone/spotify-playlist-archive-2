@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: Foushe\u00e9",
-  "num_followers": 1222010,
+  "num_followers": 1221998,
   "original_name": "the new alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALrBnjeCgJ+B3xKy/NpwxszHs25F",
+  "snapshot_id": "AAAAAJY0akImaaPvxxZ6Pd2umRNNUm0H",
   "tracks": [
     {
       "added_at": "2026-06-12 04:01:12",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-06-12 04:01:12",
       "album": {
+        "name": "untitled.jpeg",
+        "url": "https://open.spotify.com/album/67y4FE0buC45wGLltGEi25"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "duration_ms": 232758,
+      "name": "the precipice",
+      "url": "https://open.spotify.com/track/7HFA3UBP3nUyjZtDtQ4ml7"
+    },
+    {
+      "added_at": "2026-06-12 04:01:12",
+      "album": {
         "name": "Crash First (with mgk)",
         "url": "https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 230573,
       "name": "Eastside Girls",
       "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
-    },
-    {
-      "added_at": "2026-06-12 04:01:12",
-      "album": {
-        "name": "untitled.jpeg",
-        "url": "https://open.spotify.com/album/67y4FE0buC45wGLltGEi25"
-      },
-      "artists": [
-        {
-          "name": "Jessie Mazin",
-          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
-        }
-      ],
-      "duration_ms": 232758,
-      "name": "the precipice",
-      "url": "https://open.spotify.com/track/7HFA3UBP3nUyjZtDtQ4ml7"
     },
     {
       "added_at": "2026-06-12 04:01:12",

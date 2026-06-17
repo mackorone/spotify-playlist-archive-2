@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12599,
+  "num_followers": 12600,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACSllZq+3ee+zVyMOGhzsF1",
+  "snapshot_id": "ai9AgAAAAADiprasd06yYrYx+BPL8j9q",
   "tracks": [
     {
       "added_at": null,
@@ -491,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
       "artists": [
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "DCMBR",
+          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
         }
       ],
-      "duration_ms": 197474,
-      "name": "don't miss me too much",
-      "url": "https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo"
+      "duration_ms": 168000,
+      "name": "x's & o's (feat. DCMBR)",
+      "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
     },
     {
       "added_at": null,
@@ -539,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
       "artists": [
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "DCMBR",
-          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
         }
       ],
-      "duration_ms": 168000,
-      "name": "x's & o's (feat. DCMBR)",
-      "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
+      "duration_ms": 197474,
+      "name": "don't miss me too much",
+      "url": "https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
     },
     {
       "added_at": null,

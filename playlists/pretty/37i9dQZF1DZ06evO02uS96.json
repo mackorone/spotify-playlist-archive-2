@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169455,
+  "num_followers": 169460,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAC1bRqja9pk0be/7rrx+Rfo",
+  "snapshot_id": "ai9AgAAAAADUfZI4CkdwAgdyyLT5tcJu",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 315800,
+      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
       },
@@ -395,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        },
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 315800,
-      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
-      "url": "https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pastoral",
         "url": "https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 338173,
-      "name": "\u516d\u7b49\u661f\u306e\u591c",
-      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6b8b\u97ff\u6563\u6b4c / \u671d\u304c\u6765\u308b",
         "url": "https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 91000,
       "name": "\u6b8b\u97ff\u6563\u6b4c -TV ver.-",
       "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 338173,
+      "name": "\u516d\u7b49\u661f\u306e\u591c",
+      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
     },
     {
       "added_at": null,

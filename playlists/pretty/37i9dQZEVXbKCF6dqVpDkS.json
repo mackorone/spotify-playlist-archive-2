@@ -1,51 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 920506,
+  "num_followers": 920519,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "McN4sAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "McTKMAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Cheerio",
-        "url": "https://open.spotify.com/album/0Bw7kwF2e4IpPIQcQc8VjT"
-      },
-      "artists": [
-        {
-          "name": "Justen de Wildt",
-          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
-        }
-      ],
-      "duration_ms": 148815,
-      "name": "Cheerio",
-      "url": "https://open.spotify.com/track/6dqoVIfcrW0QNr8BP8LlBo"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "POPULAIR",
         "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
@@ -69,7 +33,75 @@
       "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Cheerio",
+        "url": "https://open.spotify.com/album/0Bw7kwF2e4IpPIQcQc8VjT"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 148815,
+      "name": "Cheerio",
+      "url": "https://open.spotify.com/track/6dqoVIfcrW0QNr8BP8LlBo"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Zandloopster",
+        "url": "https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 142965,
+      "name": "Zandloopster",
+      "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "Mo\u00ebt Dat Nou",
         "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
@@ -89,87 +121,7 @@
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Zandloopster",
-        "url": "https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 142965,
-      "name": "Zandloopster",
-      "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293802,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "Jij Hebt Mij",
         "url": "https://open.spotify.com/album/4FxPsDCcI7HZFW4GPoDypr"
@@ -189,59 +141,39 @@
       "url": "https://open.spotify.com/track/5AIvCO5v2mYxM3EtkxKz4T"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
-        "name": "Ewa Safi",
-        "url": "https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE"
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
       "artists": [
         {
-          "name": "Noano",
-          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 143265,
-      "name": "Ewa Safi",
-      "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+      "duration_ms": 293802,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "Pil\u00e9 (Gospel)",
         "url": "https://open.spotify.com/album/5ASuHiYQYuQU8VemaHSRNq"
@@ -261,31 +193,75 @@
       "url": "https://open.spotify.com/track/1yOrvnfHb2t8CmMdfcBHTl"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
-        "name": "Maak Me Nou Niet Gek",
-        "url": "https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI"
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
       },
       "artists": [
         {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        },
-        {
-          "name": "De Amsterdamse Zomer",
-          "url": "https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 177205,
-      "name": "Maak Me Nou Niet Gek",
-      "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Ewa Safi",
+        "url": "https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 143265,
+      "name": "Ewa Safi",
+      "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -305,79 +281,7 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258296,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
@@ -401,23 +305,67 @@
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "De Amsterdamse Zomer",
+          "url": "https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ"
+        }
+      ],
+      "duration_ms": 177205,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
@@ -433,75 +381,27 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
-        "name": "De Leeuw Komt Eraan",
-        "url": "https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
       },
       "artists": [
         {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        }
-      ],
-      "duration_ms": 134692,
-      "name": "De Leeuw Komt Eraan",
-      "url": "https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 201700,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "honeybee",
-      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "L'undertaker Part.1",
         "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
@@ -517,27 +417,23 @@
       "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
-        "name": "Andersom (feat. Boef)",
-        "url": "https://open.spotify.com/album/0eZLLmggsAmrXm8ZISADy8"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "D-Double",
-          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 230087,
-      "name": "Andersom (feat. Boef)",
-      "url": "https://open.spotify.com/track/5kYM2ac4h8SDGyoT6O7Q0i"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "Kameleon",
         "url": "https://open.spotify.com/album/0gA7TgT0bz0hBgsUOevoKz"
@@ -561,59 +457,43 @@
       "url": "https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
-        "name": "Echte Liefde Is Te Koop",
-        "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 152659,
-      "name": "Echte Liefde Is Te Koop",
-      "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
-        "name": "Baila de Gasolina",
-        "url": "https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G"
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
       },
       "artists": [
         {
-          "name": "Effe Serieus",
-          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
-        }
-      ],
-      "duration_ms": 140782,
-      "name": "Baila de Gasolina",
-      "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
         },
         {
-          "name": "Robert Smith",
-          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         }
       ],
-      "duration_ms": 224906,
-      "name": "what\u2019s wrong with me",
-      "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv"
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
@@ -624,12 +504,48 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 221958,
-      "name": "expectations",
-      "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Andersom (feat. Boef)",
+        "url": "https://open.spotify.com/album/0eZLLmggsAmrXm8ZISADy8"
+      },
+      "artists": [
+        {
+          "name": "D-Double",
+          "url": "https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 230087,
+      "name": "Andersom (feat. Boef)",
+      "url": "https://open.spotify.com/track/5kYM2ac4h8SDGyoT6O7Q0i"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
@@ -645,55 +561,7 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "my way",
-      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245837,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
         "url": "https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf"
@@ -729,23 +597,7 @@
       "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
@@ -756,44 +608,12 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 240100,
-      "name": "maggots for brains",
-      "url": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI"
+      "duration_ms": 221958,
+      "name": "expectations",
+      "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "American Girls",
-      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
@@ -802,49 +622,21 @@
         {
           "name": "Olivia Rodrigo",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 217869,
-      "name": "begged",
-      "url": "https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "Multimiljonair",
-        "url": "https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd"
-      },
-      "artists": [
+        },
         {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+          "name": "Robert Smith",
+          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
         }
       ],
-      "duration_ms": 133913,
-      "name": "Multimiljonair",
-      "url": "https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX"
+      "duration_ms": 224906,
+      "name": "what\u2019s wrong with me",
+      "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
-      "album": {
-        "name": "De Enige",
-        "url": "https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "De Enige",
-      "url": "https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk"
-    },
-    {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
       "artists": [
         {
@@ -852,12 +644,12 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 193848,
-      "name": "less",
-      "url": "https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO"
+      "duration_ms": 180720,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -873,23 +665,199 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
       "album": {
-        "name": "Echt Niet Normaal!",
-        "url": "https://open.spotify.com/album/3YiSpWbD5hdbQxn9U7WUnh"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
-          "name": "Wolter Kroes",
-          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 170346,
-      "name": "Viva Hollandia",
-      "url": "https://open.spotify.com/track/0VCYoWWceUxg1jRwlPMBbv"
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-06-15 14:19:23",
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "De Enige",
+        "url": "https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "De Enige",
+      "url": "https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 240100,
+      "name": "maggots for brains",
+      "url": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 193848,
+      "name": "less",
+      "url": "https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 217869,
+      "name": "begged",
+      "url": "https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Multimiljonair",
+        "url": "https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 133913,
+      "name": "Multimiljonair",
+      "url": "https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -903,6 +871,38 @@
       "duration_ms": 247586,
       "name": "u + me = <3",
       "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Halverwege",
+        "url": "https://open.spotify.com/album/6yDTfOWKUkEpLNGXI3Dsbt"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Halverwege",
+      "url": "https://open.spotify.com/track/6wBrm0ObemKtg0nGjnQiNN"
+    },
+    {
+      "added_at": "2026-06-16 17:22:08",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

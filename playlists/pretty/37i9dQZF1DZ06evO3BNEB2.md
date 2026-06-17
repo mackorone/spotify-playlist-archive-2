@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,635 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,634 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 49 | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy) | 5:14 |
 | 50 | [Stories In Motion \(with Wale\)](https://open.spotify.com/track/6gvhqnL1MUehL9g5mp1A0I) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:26 |
 
-Snapshot ID: `ai3vAAAAAABUAWkK1Us3sFlVve5UPdjY`
+Snapshot ID: `ai9AgAAAAAAgf2BQaYou3RBvyeiIZe7v`

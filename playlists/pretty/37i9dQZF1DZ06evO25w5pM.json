@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19712,
+  "num_followers": 19710,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACoLyEvLaf0+vvoBqUrVbNw",
+  "snapshot_id": "ai9AgAAAAACpMgxvVhxpgiwnJ9+Hd8Jv",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 349306,
-      "name": "Unknown Doors",
-      "url": "https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5"
+      "duration_ms": 433706,
+      "name": "Love's Winged Messenger",
+      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 433706,
-      "name": "Love's Winged Messenger",
-      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
+      "duration_ms": 349306,
+      "name": "Unknown Doors",
+      "url": "https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 386840,
-      "name": "Surfing the Clouds",
-      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Healing",
         "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 342346,
       "name": "Song of a Dream",
       "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Love",
-        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+        "name": "Dream Time",
+        "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 297333,
-      "name": "Deeper than the Sky",
-      "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
+      "duration_ms": 367046,
+      "name": "Moving Seagrass",
+      "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Time",
-        "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 367046,
-      "name": "Moving Seagrass",
-      "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
+      "duration_ms": 297333,
+      "name": "Deeper than the Sky",
+      "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
     },
     {
       "added_at": null,

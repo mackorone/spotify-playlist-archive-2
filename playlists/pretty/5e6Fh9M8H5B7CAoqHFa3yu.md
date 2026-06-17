@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 337 likes - 2,390 songs - 5 day 21 hr 6 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 337 likes - 2,391 songs - 5 day 21 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2398,5 +2398,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2388 | [Poor Man's Glory \(2026 Vinyl Version\)](https://open.spotify.com/track/6b9H59yXpk7rL0N7DpsJ6P) | [L.S\. Diezel](https://open.spotify.com/artist/1yTPzYZA58jZqHFkbM2p8R), [Launch DAT](https://open.spotify.com/artist/12UITYabVAssnAyJiiAbSj) | [Aliens](https://open.spotify.com/album/4LF7YcvBP2hyHQ1lO3LZle) | 7:17 |
 | 2389 | [Harness Your Hopes](https://open.spotify.com/track/2Otn5oxyBmqvOSWQCgqrNa) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 2:15 |
 | 2390 | [Slow whine](https://open.spotify.com/track/4gOppN4JCefB2cpDtMqxV1) | [80won](https://open.spotify.com/artist/2nFYBEeJwCKg9EKrAO9q1g) | [Slow whine](https://open.spotify.com/album/5UGgt0SHtTXycuL4kr4TSe) | 3:06 |
+| 2391 | [Garden Of Flowers](https://open.spotify.com/track/04kofz7JttcQMzxFZyEuhb) | [Gottxi](https://open.spotify.com/artist/3Zl1jPBV7BkOtPhsk908CO) | [Garden Of Flowers](https://open.spotify.com/album/5ye4ECA6eFPlGqaOXRJcRT) | 3:14 |
 
-Snapshot ID: `AAAKIBHT1IwtFgsqDeyqZ9gRN1QBxxhx`
+Snapshot ID: `AAAKITYz50SwiakVH+J7EG56G8Uyuctf`

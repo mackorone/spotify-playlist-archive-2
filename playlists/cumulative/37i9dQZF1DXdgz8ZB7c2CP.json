@@ -11762,7 +11762,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 151351,
       "name": "HOUDINI",
       "url": "https://open.spotify.com/track/2Y7gILjkbWMM2F346Fz8Ud"
@@ -28420,6 +28420,24 @@
       "duration_ms": 188800,
       "name": "Wastin' My Time",
       "url": "https://open.spotify.com/track/0JZFXrxFp0YNn6iPR2LF08"
+    },
+    {
+      "album": {
+        "name": "\"Not Found\"",
+        "url": "https://open.spotify.com/album/5HZdd941dgGvKJNZjN4HCM"
+      },
+      "artists": [
+        {
+          "name": "eric404",
+          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260625,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/2Ed8PLm1CGGcHqJYj8H8nl"
     },
     {
       "album": {

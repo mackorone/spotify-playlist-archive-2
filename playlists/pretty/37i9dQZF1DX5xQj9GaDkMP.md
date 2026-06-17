@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,291 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,295 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 47 | [DESTINY](https://open.spotify.com/track/28F1z7gY2t2mE408Bw6CEO) | [My Little Lover](https://open.spotify.com/artist/3v8Gnj6Kvl1fShyGgacgu1) | [NEW ADVENTURE](https://open.spotify.com/album/10MH2z5YQHK7NUO9LNNAzF) | 4:42 |
 | 48 | [Bitter Sweet Symphony](https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:58 |
 | 49 | [Intergalactic](https://open.spotify.com/track/2yGETVWRanfYcSDXMSI9IH) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty](https://open.spotify.com/album/1HhBu55aklCwIus7KffIji) | 3:51 |
-| 50 | [PINK SPIDER](https://open.spotify.com/track/4bxgrYaecM8D7W7AzbkWvK) | [hide](https://open.spotify.com/artist/0FN9uqveLW33mz8hlDLiFU), [Spread Beaver](https://open.spotify.com/artist/26hyMYRJVSxLSQsHLEqb0a) | [ピンク スパイダー](https://open.spotify.com/album/6hRB3kPgpeCIP3LwJQzV0L) | 3:44 |
+| 50 | [PINK SPIDER](https://open.spotify.com/track/4bxgrYaecM8D7W7AzbkWvK) | [hide with Spread Beaver](https://open.spotify.com/artist/1G3dHtEgFegk2kjWA8gzFu) | [ピンク スパイダー](https://open.spotify.com/album/6hRB3kPgpeCIP3LwJQzV0L) | 3:44 |
 | 51 | [さすらい](https://open.spotify.com/track/6mmHwsfy9QU42LeV6c9UT7) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [股旅](https://open.spotify.com/album/6kQabUiwRiFATWj2brKURj) | 3:23 |
 | 52 | [楓](https://open.spotify.com/track/0b7IBgZjedM53ufZV4f4CL) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [フェイクファー](https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc) | 5:25 |
 | 53 | [Raspberry](https://open.spotify.com/track/4No3TcnK3PRSV0cjJz6Sha) | [トライセラトップス](https://open.spotify.com/artist/00J5DWQel4eH9qQnDS6qrn) | [TRICERATOPS](https://open.spotify.com/album/05F7ImOEM73NpJfN17Tpds) | 4:15 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 82 | [How's It Going to Be](https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:13 |
 | 83 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 84 | [花葬](https://open.spotify.com/track/5QJ9smoKZXJC8venVEgwW8) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [花葬](https://open.spotify.com/album/6OrvOOIzRIugnEZR6wj3HE) | 5:12 |
-| 85 | [ROCKET DIVE](https://open.spotify.com/track/3yUFd2uTgW5DImjuA0heIh) | [hide](https://open.spotify.com/artist/0FN9uqveLW33mz8hlDLiFU), [Spread Beaver](https://open.spotify.com/artist/26hyMYRJVSxLSQsHLEqb0a) | [子 ギャル](https://open.spotify.com/album/65QoGaR89qxvJ75MM85Q5W) | 3:40 |
+| 85 | [ROCKET DIVE](https://open.spotify.com/track/3yUFd2uTgW5DImjuA0heIh) | [hide](https://open.spotify.com/artist/0FN9uqveLW33mz8hlDLiFU) | [子 ギャル](https://open.spotify.com/album/65QoGaR89qxvJ75MM85Q5W) | 3:40 |
 | 86 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
 | 87 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
 | 88 | [Crush](https://open.spotify.com/track/2wgOaT8peyYLOl9EPWiFNB) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Before These Crowded Streets](https://open.spotify.com/album/6e28J9jtMv8hUYAJdK3TEt) | 8:09 |

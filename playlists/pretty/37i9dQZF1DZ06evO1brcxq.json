@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 223253,
+  "num_followers": 223256,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACHaF/VmL/P6uWtgF5NoLpm",
+  "snapshot_id": "ai9AgAAAAAAg4oJT0Tcd1XD23GwgpxH+",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Music",
-        "url": "https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 115106,
-      "name": "Rock Music",
-      "url": "https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Music",
+        "url": "https://open.spotify.com/album/1Ct1PzrmnTxWE8w0PTTa4w"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 115106,
+      "name": "Rock Music",
+      "url": "https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b"
     },
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop 2",
-        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 326906,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 178579,
       "name": "B2b",
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop 2",
+        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 326906,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The New Classic (Deluxe Version)",
         "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 199938,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203618,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151125,
+      "name": "Sympathy is a knife",
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 173076,
       "name": "Talk talk featuring troye sivan",
       "url": "https://open.spotify.com/track/7CwWhMGWICOl2ICwbk3QTE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151125,
-      "name": "Sympathy is a knife",
-      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 136614,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 136614,
-      "name": "Good Ones",
-      "url": "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM"
     },
     {
       "added_at": null,

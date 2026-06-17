@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,390 likes - 215 songs - 11 hr 53 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,389 likes - 219 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,10 +218,14 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 208 | [Narcissus](https://open.spotify.com/track/1bCIJV2S37gpa0xyrKdqMc) | [wecandividebyzero](https://open.spotify.com/artist/40DCyA2pg6mD33O5YQEhN7) | [Narcissus](https://open.spotify.com/album/5pWwBS9diNAhYHENsqgpaq) | 3:46 |
 | 209 | [Not Today](https://open.spotify.com/track/1ldlVDxNRGQwL0RNqq2vx4) | [Rebelmatic](https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR) | [Not Today](https://open.spotify.com/album/25ZQIHmnsP3DTxPhQ4lVsQ) | 2:32 |
 | 210 | [There's Not Enough Black In Your Images](https://open.spotify.com/track/4aVNW8SDgXy3xzSLHrGDz3) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [There's Not Enough Black In Your Images](https://open.spotify.com/album/3ujWLhJoyqqPfAMiCqlbCm) | 4:18 |
-| 211 | [The Show Was Better than Your Video](https://open.spotify.com/track/6gfFcfipSGXsCTh4PCRvQT) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Don't Trust Anyone Over 21](https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5) | 1:46 |
-| 212 | [Heretic](https://open.spotify.com/track/0fnBes5T9MhY0nMWS70FtO) | [SECULAR](https://open.spotify.com/artist/4ByeCqfeGjf53fhWXBydM3) | [Heretic](https://open.spotify.com/album/1ROIsCaIxtRqY11d4LkB93) | 3:25 |
-| 213 | [What’s on My Mind](https://open.spotify.com/track/7L0r7hg23SipA1O5pmFAcN) | [giftig](https://open.spotify.com/artist/0L4i0vV9NCYUdU8abvqQOz) | [What’s on My Mind](https://open.spotify.com/album/5bUdC21AxHNmpv47d9ZiZc) | 3:04 |
-| 214 | [No Strings Attached](https://open.spotify.com/track/1sJCh8R7sVfqQ0jzPNvcit) | [High On Nothing](https://open.spotify.com/artist/5SfPlLjrJxYopoqL2XtzjV) | [No Strings Attached](https://open.spotify.com/album/57SCQd78MeGwNDP9N2CDqP) | 3:09 |
-| 215 | [All Went Wrong](https://open.spotify.com/track/6wdsPcnzIvAB48LAZLiaI4) | [Rick Diamond](https://open.spotify.com/artist/2FX1JoyEJdoKO0pW8S612Q) | [All Went Wrong](https://open.spotify.com/album/0JqavCorMxMR3QITtX3DDb) | 2:27 |
+| 211 | [Don't Fight Back](https://open.spotify.com/track/2GpPuN4IMDp5aBd1oLRQHF) | [Alpine Loop](https://open.spotify.com/artist/10JP5czbb1gs4aL1KCABuD) | [Making A Scene](https://open.spotify.com/album/4KF7VbetAgvdkfLTLKdx6N) | 3:21 |
+| 212 | [Not Yours](https://open.spotify.com/track/6SbfNWFnUKkjsmn43bS33B) | [Scarlet Saboteur](https://open.spotify.com/artist/3VP7XAWza67jguPChArk3m) | [Not Yours](https://open.spotify.com/album/5XnhS2Twp3e1Oi6wbh8dvm) | 2:41 |
+| 213 | [The Show Was Better than Your Video](https://open.spotify.com/track/6gfFcfipSGXsCTh4PCRvQT) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Don't Trust Anyone Over 21](https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5) | 1:46 |
+| 214 | [Heretic](https://open.spotify.com/track/0fnBes5T9MhY0nMWS70FtO) | [SECULAR](https://open.spotify.com/artist/4ByeCqfeGjf53fhWXBydM3) | [Heretic](https://open.spotify.com/album/1ROIsCaIxtRqY11d4LkB93) | 3:25 |
+| 215 | [What’s on My Mind](https://open.spotify.com/track/7L0r7hg23SipA1O5pmFAcN) | [giftig](https://open.spotify.com/artist/0L4i0vV9NCYUdU8abvqQOz) | [What’s on My Mind](https://open.spotify.com/album/5bUdC21AxHNmpv47d9ZiZc) | 3:04 |
+| 216 | [No Strings Attached](https://open.spotify.com/track/1sJCh8R7sVfqQ0jzPNvcit) | [High On Nothing](https://open.spotify.com/artist/5SfPlLjrJxYopoqL2XtzjV) | [No Strings Attached](https://open.spotify.com/album/57SCQd78MeGwNDP9N2CDqP) | 3:09 |
+| 217 | [All Went Wrong](https://open.spotify.com/track/6wdsPcnzIvAB48LAZLiaI4) | [Rick Diamond](https://open.spotify.com/artist/2FX1JoyEJdoKO0pW8S612Q) | [All Went Wrong](https://open.spotify.com/album/0JqavCorMxMR3QITtX3DDb) | 2:27 |
+| 218 | [Good For You](https://open.spotify.com/track/0M1yg0auUkU0tkLV6tbXK2) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Good For You](https://open.spotify.com/album/569kz7tsyGRKH5DbeZiujN) | 3:37 |
+| 219 | [SOAPBOX \- Single Version](https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [SOAPBOX](https://open.spotify.com/album/6acbhbjewDcTnpZVDvcl4r) | 2:44 |
 
-Snapshot ID: `AAAQl8Dfr/12y74hK6CVvV8ww4sDH1+E`
+Snapshot ID: `AAAQm5FlCArjypWcdCutOl4m6/kSlJX2`

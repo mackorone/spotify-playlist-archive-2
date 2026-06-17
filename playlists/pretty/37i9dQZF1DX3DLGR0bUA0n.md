@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Arkangel Musical de Tierra Caliente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,383 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,427 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 34 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 |
 | 35 | [Todo Por Servir Se Acaba](https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:01 |
 | 36 | [La Araña](https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Porque Te Quiero Amor](https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5) | 3:06 |
-| 37 | [Libro Abierto / Qué Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 |
-| 38 | [El Campesino Y El Sol](https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv) | [La Dinastia de Tuzantla, Mich.](https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf) | [El Campesino y el Sol](https://open.spotify.com/album/1zz9palZav43PsEJGeIijB) | 3:54 |
+| 37 | [El Campesino Y El Sol](https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv) | [La Dinastia de Tuzantla, Mich.](https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf) | [El Campesino y el Sol](https://open.spotify.com/album/1zz9palZav43PsEJGeIijB) | 3:54 |
+| 38 | [Libro Abierto / Qué Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 |
 | 39 | [Con Mentiras No](https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Corazon Michoacano](https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS) | 3:03 |
 | 40 | [Jefe Fresa](https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:13 |
 | 41 | [Entre Copa y Copa](https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Quiero Que Seas para Mí](https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv) | 3:48 |

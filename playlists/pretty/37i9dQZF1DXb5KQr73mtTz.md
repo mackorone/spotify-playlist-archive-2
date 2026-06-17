@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,935 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,937 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 35 | [I’m Still Into You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Would You Marry Me?, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw) | 3:25 |
 | 36 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 |
 | 37 | [Let\`s never meet again](https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Once again OST Part 1](https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR) | 3:36 |
-| 38 | [Always You](https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe) | [Kim Won Joo](https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D) | [Always You \(Original Soundtrack from Recipe for Love, Pt\. 6\)](https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP) | 3:44 |
-| 39 | [Love Me Like You Used To](https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP) | 3:36 |
+| 38 | [Love Me Like You Used To](https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP) | 3:36 |
+| 39 | [Always You](https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe) | [Kim Won Joo](https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D) | [Always You \(Original Soundtrack from Recipe for Love, Pt\. 6\)](https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP) | 3:44 |
 | 40 | [You Ruined Me](https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [You Ruined Me](https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk) | 3:39 |
-| 41 | [Dumb \(Feat\. Kim Seungmin, Chan\)](https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Can I Not ?](https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R) | 3:27 |
-| 42 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |
+| 41 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |
+| 42 | [Dumb \(Feat\. Kim Seungmin, Chan\)](https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Can I Not ?](https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R) | 3:27 |
 | 43 | [Please Forget Me](https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Please Forget Me](https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT) | 4:31 |
 | 44 | [Without U](https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [O](https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus) | 3:37 |
-| 45 | [Not have the heart](https://open.spotify.com/track/3WyRDXiYA12QiwXvp1Rt09) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [Not have the heart](https://open.spotify.com/album/0lvvpF7rMonjCB9xSVWKVV) | 4:28 |
-| 46 | [Alone](https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [To The Moon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1) | 3:54 |
+| 45 | [Alone](https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [To The Moon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1) | 3:54 |
+| 46 | [Not have the heart](https://open.spotify.com/track/3WyRDXiYA12QiwXvp1Rt09) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [Not have the heart](https://open.spotify.com/album/0lvvpF7rMonjCB9xSVWKVV) | 4:28 |
 | 47 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
-| 48 | [Still Thinking of You](https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Still Thinking of You](https://open.spotify.com/album/14b8fmAs21v5wumPzoQbga) | 4:40 |
-| 49 | [The Walking Dead \(Feat\. Kim Feel\)](https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 |
+| 48 | [The Walking Dead \(Feat\. Kim Feel\)](https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 |
+| 49 | [Still Thinking of You](https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Still Thinking of You](https://open.spotify.com/album/14b8fmAs21v5wumPzoQbga) | 4:40 |
 | 50 | [When the First Snow Falls](https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [When the First Snow Falls](https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF) | 3:42 |
 
 Snapshot ID: `AAAAAK3lwu0pB1sRq3Hp0kvewg+ZJmoE`

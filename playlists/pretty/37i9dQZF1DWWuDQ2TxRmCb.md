@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,745 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,750 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 30 | [Mauj Kasheer](https://open.spotify.com/track/4DVz2TzPa5Oi8zngm53vHk) | [ĀDAM](https://open.spotify.com/artist/045CvZOttpV5fYta0MrCE3), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Shivani Matyal](https://open.spotify.com/artist/7mDEXPflEFqaHkJFnv77NH) | [Mauj Kasheer](https://open.spotify.com/album/2JXBaRO4HVReZ8IW0aumtj) | 4:08 |
 | 31 | [Saawariyo](https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV) | [Atmanam](https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW) | [Saawariyo](https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB) | 4:25 |
 | 32 | [SUWA TERI YAADON MA](https://open.spotify.com/track/4jxf2xH4KEoIvFrPXhnbIS) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Amit Saagar](https://open.spotify.com/artist/3ypGCTyMQVDPL5hAkjctCE) | [SUWA TERI YAADON MA](https://open.spotify.com/album/3mmRUd5H441cSYu8biuVp0) | 2:45 |
-| 33 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 |
-| 34 | [Maarag](https://open.spotify.com/track/5BhpZtAbNFDUf2AHLQZoDj) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Salim Khan](https://open.spotify.com/artist/3y8bArrNsmocFZGkIiVG4n) | [Maarag](https://open.spotify.com/album/6bpKLi5PrbmhDOEcPHaQOw) | 7:42 |
-| 35 | [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 |
+| 33 | [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 |
+| 34 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 |
+| 35 | [Maarag](https://open.spotify.com/track/5BhpZtAbNFDUf2AHLQZoDj) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Salim Khan](https://open.spotify.com/artist/3y8bArrNsmocFZGkIiVG4n) | [Maarag](https://open.spotify.com/album/6bpKLi5PrbmhDOEcPHaQOw) | 7:42 |
 | 36 | [Ek Nazar](https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ek Nazar](https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc) | 7:24 |
 | 37 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
 | 38 | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Gulzar Ahmad Ganaie](https://open.spotify.com/artist/4gB0ajRtDQXc2Vdp02A1pJ) | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH) | 5:06 |

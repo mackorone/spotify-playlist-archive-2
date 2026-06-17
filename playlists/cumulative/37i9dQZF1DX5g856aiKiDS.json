@@ -8581,6 +8581,24 @@
     },
     {
       "album": {
+        "name": "You\u2019re my summer",
+        "url": "https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "You\u2019re my summer",
+      "url": "https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY"
+    },
+    {
+      "album": {
         "name": "zigzag",
         "url": "https://open.spotify.com/album/1GrAYJIPeYgp34ptuLwVXu"
       },
@@ -8760,7 +8778,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"

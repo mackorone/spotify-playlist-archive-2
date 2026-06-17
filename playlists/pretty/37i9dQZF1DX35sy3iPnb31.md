@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 29 | [BENJAMINS](https://open.spotify.com/track/134FZxiTn8d42WLbAK2SNB) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [BENJAMINS](https://open.spotify.com/album/27wAzUGHh3nqGp0sOZ0F0U) | 3:11 |
 | 30 | [Running Out](https://open.spotify.com/track/1pI9fT4KIqDMP3yAUzX1Rp) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Running Out](https://open.spotify.com/album/17tPnUBoBHno1o79HnW3Cx) | 2:07 |
 | 31 | [passport picture](https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [passport picture](https://open.spotify.com/album/4Mwjj2PJsvXBSg7KOFF2Np) | 3:11 |
-| 32 | [Dear baby,](https://open.spotify.com/track/4getiHbUAKavb2GD3YVVgF) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Dear baby,](https://open.spotify.com/album/5Z2oSZrgdUAiL1njUZ8CbM) | 2:50 |
-| 33 | [Ce soir](https://open.spotify.com/track/6ERxoACVyeHr3Y5yhSpcM3) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Ce soir](https://open.spotify.com/album/1NV4AgVoAjgKfWpQwhYA7S) | 1:53 |
+| 32 | [Ce soir](https://open.spotify.com/track/6ERxoACVyeHr3Y5yhSpcM3) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Ce soir](https://open.spotify.com/album/1NV4AgVoAjgKfWpQwhYA7S) | 1:53 |
+| 33 | [Dear baby,](https://open.spotify.com/track/4getiHbUAKavb2GD3YVVgF) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Dear baby,](https://open.spotify.com/album/5Z2oSZrgdUAiL1njUZ8CbM) | 2:50 |
 | 34 | [Iya Yemoja](https://open.spotify.com/track/5TQ35IypatWLHzkLnYCr06) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Zapapaya](https://open.spotify.com/artist/2qDwLZAEADFu1KEpO3y126), [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rob Rivera](https://open.spotify.com/artist/6QWBQN0e18qB6zj0szX7Vm) | [Iya Yemoja](https://open.spotify.com/album/46P8cuPwurhmpHzn1tFhGz) | 3:36 |
 | 35 | [THEO](https://open.spotify.com/track/4k1C99VNcTqtGgTJk8OMBt) | [k.alcordo](https://open.spotify.com/artist/4t8VuYPxKPp0iS9f2qjl3E) | [THEO](https://open.spotify.com/album/0Ia9aO3tQYbEWL9l4QERTv) | 2:56 |
 | 36 | [Little Boy](https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Little Boy](https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy) | 3:38 |
-| 37 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
-| 38 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
+| 37 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
+| 38 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
 | 39 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
 | 40 | [Who Do You Wanna Be](https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Mercy on the Skyline](https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s) | 3:42 |
 | 41 | [To Be Lost](https://open.spotify.com/track/05rBzLk023AtT5NnKplUiS) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [To Be Lost in a Dream](https://open.spotify.com/album/6aQQFR5r0EAfQIztJu5W3o) | 2:55 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 44 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 | 45 | [Univers](https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Univers](https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn) | 2:24 |
 | 46 | [Tethered](https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Tethered](https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL) | 4:01 |
-| 47 | [New York](https://open.spotify.com/track/5MtUBa98qC4ukSfCCjOnX9) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [New York](https://open.spotify.com/album/4CURxfHkhPWvf8MOQYrsDq) | 2:35 |
-| 48 | [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 |
+| 47 | [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 |
+| 48 | [New York](https://open.spotify.com/track/5MtUBa98qC4ukSfCCjOnX9) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [New York](https://open.spotify.com/album/4CURxfHkhPWvf8MOQYrsDq) | 2:35 |
 | 49 | [Many Men](https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [Many Men](https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu) | 2:35 |
 | 50 | [In Your Arms](https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [C The Reason](https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk) | [In Your Arms](https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6) | 3:27 |
 

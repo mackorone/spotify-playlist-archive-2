@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Soft Pine
 
-2,090 songs - 5 day 1 hr 39 min
+2,091 songs - 5 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,7 +766,8 @@
 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 | 2023-05-04 | 2023-05-12 |
 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 | 2023-08-10 | 2023-09-08 |
 | [Hanging By A Moment](https://open.spotify.com/track/7gwMABXj9PBmNyVIAFQZsY) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Hanging By A Moment](https://open.spotify.com/album/2zXWTmzp8t0y8Fhz00WWvj) | 3:38 | 2024-05-02 | 2024-05-05 |
-| [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 | 2026-03-26 |  |
+| [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 | 2026-03-26 | 2026-06-17 |
+| [Hanging Out To Dry](https://open.spotify.com/track/6fDEL7s2jZ8jbNqxATbmOX) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Hanging Out To Dry](https://open.spotify.com/album/1JE6lLEIEkdpzBkWeY0Qrz) | 3:32 | 2026-06-16 |  |
 | [Hanya Ada Kegelapan yang Menunggumu Di Sana](https://open.spotify.com/track/0kMMtFGMNokZROdiK6uG4x) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [Durja Bersahaja](https://open.spotify.com/album/3HL3eXVeW5G4gVRNQGVEwb) | 4:21 | 2024-07-11 | 2024-09-06 |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-10-19 | 2024-02-09 |
 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 | 2024-10-24 | 2024-11-22 |

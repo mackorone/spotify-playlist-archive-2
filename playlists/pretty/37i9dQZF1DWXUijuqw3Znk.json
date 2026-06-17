@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 834,
+  "num_followers": 836,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 193402,
+      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
+      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 242970,
       "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
       "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 193402,
-      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
-      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 206783,
       "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
       "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1231,6 +1231,38 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "MANTA BIPOLAR, Pt. 2",
+        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
+      },
+      "artists": [
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        }
+      ],
+      "duration_ms": 120502,
+      "name": "GANGSHIN",
+      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 140411,
+      "name": "dreamin'",
+      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1259,18 +1291,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "natural high",
-        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
       "artists": [
         {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
         }
       ],
-      "duration_ms": 140411,
-      "name": "dreamin'",
-      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
+      "duration_ms": 121425,
+      "name": "Be a pro",
+      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1311,18 +1343,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+        "name": "Commercial Art",
+        "url": "https://open.spotify.com/album/0fsalpLBbxunxEGLuxw7kJ"
       },
       "artists": [
         {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "TAKEWON",
+          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
+        },
+        {
+          "name": "Hainae",
+          "url": "https://open.spotify.com/artist/46tYe5vDaGBvXa61gbS1BM"
         }
       ],
-      "duration_ms": 121425,
-      "name": "Be a pro",
-      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
+      "duration_ms": 310535,
+      "name": "Green Ideology",
+      "url": "https://open.spotify.com/track/71ZB74M3yK0Pb0zsZH77Sr"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1351,26 +1387,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Commercial Art",
-        "url": "https://open.spotify.com/album/0fsalpLBbxunxEGLuxw7kJ"
-      },
-      "artists": [
-        {
-          "name": "TAKEWON",
-          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
-        },
-        {
-          "name": "Hainae",
-          "url": "https://open.spotify.com/artist/46tYe5vDaGBvXa61gbS1BM"
-        }
-      ],
-      "duration_ms": 310535,
-      "name": "Green Ideology",
-      "url": "https://open.spotify.com/track/71ZB74M3yK0Pb0zsZH77Sr"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Millionaire Poetry",
         "url": "https://open.spotify.com/album/2iqRyGFGVwHsSgKvc6EuDv"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 200620,
       "name": "Light",
       "url": "https://open.spotify.com/track/1PvnbvwAaZgj1x9D20ppBS"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "MANTA BIPOLAR, Pt. 2",
-        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
-      },
-      "artists": [
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        }
-      ],
-      "duration_ms": 120502,
-      "name": "GANGSHIN",
-      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 194252,
+      "name": "GNGB",
+      "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "BLAZE",
         "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 194252,
-      "name": "GNGB",
-      "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "MultrillVerse",
         "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 167571,
       "name": "Retirement (feat. The Quiett)",
       "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Berry Loves My Mood",
-        "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
-      },
-      "artists": [
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        }
-      ],
-      "duration_ms": 162113,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1607,22 +1591,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "IT\u2032S YOUR WAY",
-        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
+        "name": "Berry Loves My Mood",
+        "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
       },
       "artists": [
         {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
         }
       ],
-      "duration_ms": 179769,
-      "name": "runaway (Feat. DON MALIK)",
-      "url": "https://open.spotify.com/track/5mgJHVqjrx56K4mAJx8eaY"
+      "duration_ms": 162113,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1639,6 +1619,26 @@
       "duration_ms": 177220,
       "name": "Ride it like",
       "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "IT\u2032S YOUR WAY",
+        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 179769,
+      "name": "runaway (Feat. DON MALIK)",
+      "url": "https://open.spotify.com/track/5mgJHVqjrx56K4mAJx8eaY"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 205857,
-      "name": "OWL",
-      "url": "https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "GAROSAWK",
         "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
       },
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 205857,
+      "name": "OWL",
+      "url": "https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "500000",
         "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
       },
@@ -1727,8 +1727,8 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "First Rollie",
-        "url": "https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A"
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
       "artists": [
         {
@@ -1736,13 +1736,25 @@
           "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         },
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Keem Hyo-Eun",
+          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
         }
       ],
-      "duration_ms": 199786,
-      "name": "First Rollie (feat. Seori)",
-      "url": "https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO"
+      "duration_ms": 263505,
+      "name": "1llusion Remix - Bonus Track",
+      "url": "https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1787,18 +1799,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
       },
       "artists": [
         {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
         }
       ],
-      "duration_ms": 188232,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
+      "duration_ms": 161557,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1819,18 +1831,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
       },
       "artists": [
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
         }
       ],
-      "duration_ms": 161557,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
+      "duration_ms": 188232,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1871,42 +1883,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Stargaze",
-        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
-      },
-      "artists": [
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 222232,
-      "name": "Look What I Did (Feat. The Quiett)",
-      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "500000",
-        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Cheat Code",
-      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1927,6 +1903,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "500000",
+        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Cheat Code",
+      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "END OF PUBERTY",
         "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
       },
@@ -1939,6 +1931,26 @@
       "duration_ms": 224613,
       "name": "DEAR MOM",
       "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Stargaze",
+        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 222232,
+      "name": "Look What I Did (Feat. The Quiett)",
+      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
     },
     {
       "added_at": "2025-11-10 09:53:18",

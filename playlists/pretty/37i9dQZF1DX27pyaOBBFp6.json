@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 25939,
+  "num_followers": 25946,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Favorieten Expres",
+        "url": "https://open.spotify.com/album/17bcpuAsqRKMw7Y7HXiWAL"
+      },
+      "artists": [
+        {
+          "name": "Conny Vandenbos",
+          "url": "https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "Ik Ben Gelukkig Zonder Jou",
+      "url": "https://open.spotify.com/track/2nfbogbSpAe2nsHEUXzXab"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Alle 40 Goed",
         "url": "https://open.spotify.com/album/7E0mYawKN4S3u4gK0mwq88"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 168786,
       "name": "Beestjes",
       "url": "https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Favorieten Expres",
-        "url": "https://open.spotify.com/album/17bcpuAsqRKMw7Y7HXiWAL"
-      },
-      "artists": [
-        {
-          "name": "Conny Vandenbos",
-          "url": "https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC"
-        }
-      ],
-      "duration_ms": 148106,
-      "name": "Ik Ben Gelukkig Zonder Jou",
-      "url": "https://open.spotify.com/track/2nfbogbSpAe2nsHEUXzXab"
     },
     {
       "added_at": "2024-07-19 06:41:15",

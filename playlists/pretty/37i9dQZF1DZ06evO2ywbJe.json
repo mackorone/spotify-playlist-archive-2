@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8432,
+  "num_followers": 8436,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACD2SuVXqLdrBgNWmTp3zpK",
+  "snapshot_id": "ai9AgAAAAADZX0+X++AIIAMYLoBttpo4",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeleton (feat. Zlatan)",
+        "url": "https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG"
+      },
+      "artists": [
+        {
+          "name": "FEMI VEGA",
+          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Skeleton (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Omo Ologo",
         "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 134482,
       "name": "50 Billion (feat. Zlatan)",
       "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeleton (feat. Zlatan)",
-        "url": "https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG"
-      },
-      "artists": [
-        {
-          "name": "FEMI VEGA",
-          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "Skeleton (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp"
     },
     {
       "added_at": null,

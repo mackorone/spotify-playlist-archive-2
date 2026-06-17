@@ -1310,10 +1310,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 239386,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/57QfhJgEDYYJkFXPX8KZpm"
+    },
+    {
+      "album": {
+        "name": "I Won't Change You",
+        "url": "https://open.spotify.com/album/3HXjCYksFK6YDBo0noT16X"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239840,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/4feYF1CaZJE8BhHN64MgCe"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 833738,
+  "num_followers": 833803,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 243586,
-      "name": "Mysterious Ways",
-      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Thirteenth Step",
         "url": "https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 195133,
       "name": "Weak And Powerless",
       "url": "https://open.spotify.com/track/7gDVjl5fEw2OPAtjbW4LzR"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "Mysterious Ways",
+      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2135,8 +2135,8 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Ritual De Lo Habitual",
-        "url": "https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf"
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
       },
       "artists": [
         {
@@ -2144,9 +2144,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 213293,
-      "name": "Been Caught Stealing",
-      "url": "https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM"
+      "duration_ms": 231853,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/3k6L0H08zSY5yRDgqI8fqx"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2215,8 +2215,8 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf"
       },
       "artists": [
         {
@@ -2224,9 +2224,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 231853,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/3k6L0H08zSY5yRDgqI8fqx"
+      "duration_ms": 213293,
+      "name": "Been Caught Stealing",
+      "url": "https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2519,6 +2519,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -2567,18 +2583,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
+        "name": "Cage The Elephant",
+        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2595,22 +2611,6 @@
       "duration_ms": 354360,
       "name": "Lazy Eye",
       "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Cage The Elephant",
-        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Ain't No Rest for the Wicked",
-      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/6Gv1zpuMsO4XfWSw22YQhP"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121306,
-      "name": "Song 2",
-      "url": "https://open.spotify.com/track/4F64QXRV1EGHSm5jIeMmcQ"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
       },
@@ -2723,6 +2707,22 @@
       "duration_ms": 193613,
       "name": "Interstate Love Song",
       "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/6Gv1zpuMsO4XfWSw22YQhP"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121306,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/4F64QXRV1EGHSm5jIeMmcQ"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2807,6 +2807,38 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Cold Hard Bitch",
+      "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },
@@ -2839,22 +2871,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Cold Hard Bitch",
-      "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -2871,22 +2887,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn"
       },
@@ -2899,6 +2899,22 @@
       "duration_ms": 202666,
       "name": "Unbelievers",
       "url": "https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2935,18 +2951,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew"
       },
       "artists": [
         {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
         }
       ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
+      "duration_ms": 279026,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2967,18 +2983,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew"
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
       },
       "artists": [
         {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
         }
       ],
-      "duration_ms": 279026,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"
+      "duration_ms": 179960,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3011,22 +3027,6 @@
       "duration_ms": 322173,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "Don't Look Back into the Sun",
-        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Don't Look Back into the Sun",
-      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
     },
     {
       "added_at": "2026-02-13 03:17:49",

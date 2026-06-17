@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 143972,
       "name": "99",
       "url": "https://open.spotify.com/track/5qMvQecWhmreJpq0qr9Oou"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 167751,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ"
@@ -3866,7 +3866,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 232656,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/4aEIp6AZbIDrQn11spzvxm"
@@ -9708,7 +9708,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 244772,
       "name": "Divernalia",
       "url": "https://open.spotify.com/track/6J5J7iLkD9yEl14vExC6mo"
@@ -11156,7 +11156,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -13934,7 +13934,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 180543,
       "name": "FYA",
       "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
@@ -23070,7 +23070,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 149032,
       "name": "MOOD BRAZIL",
       "url": "https://open.spotify.com/track/6G5Viv7tX2WGQ2i0aCNkkl"
@@ -23404,7 +23404,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 221538,
       "name": "MVLAN",
       "url": "https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k"
@@ -24528,7 +24528,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 158036,
       "name": "no tiene sentido",
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
@@ -24700,7 +24700,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -25382,7 +25382,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -30753,6 +30753,24 @@
     },
     {
       "album": {
+        "name": "Rich & Saucy",
+        "url": "https://open.spotify.com/album/1UfhXyZZTV6FKppCaBeOGm"
+      },
+      "artists": [
+        {
+          "name": "Gothic",
+          "url": "https://open.spotify.com/artist/7fNgp7svuzIXkpsu8jHJ9Q"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Rich & Saucy",
+      "url": "https://open.spotify.com/track/4v7FWmAKvHv2lpZhnsUylU"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -32578,7 +32596,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 251360,
       "name": "SI EST\u00c1S CON ALGUIEN",
       "url": "https://open.spotify.com/track/7nyk5uxevcijIfl1FlJgmA"
@@ -35272,7 +35290,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"

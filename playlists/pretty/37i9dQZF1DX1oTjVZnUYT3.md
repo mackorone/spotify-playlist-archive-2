@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,808 likes - 57 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,812 likes - 57 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 54 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
 | 55 | [Carcará](https://open.spotify.com/track/5E4xOrXaLsApvCSqleHT46) | [Joao Do Vale](https://open.spotify.com/artist/3TE6ZGjhmTVpLZrn9hvfBX), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [João do Vale](https://open.spotify.com/album/6tA5JMhnFRvDkanKAuPsCV) | 2:18 |
 | 56 | [Faixa Amarela](https://open.spotify.com/track/131eE1wdPFIUAzxveZispD) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Gold](https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4) | 4:53 |
-| 57 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 |
+| 57 | [Dona de mim](https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH) | 3:28 |
 
 Snapshot ID: `AAAAAIjRexoB1xChZGM8IC6vkr1NupJM`

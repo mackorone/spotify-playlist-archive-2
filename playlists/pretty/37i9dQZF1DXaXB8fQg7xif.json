@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
-  "num_followers": 9256206,
+  "num_followers": 9256104,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMsWbdWvrilY4NxvEU/nQCgSn+Nr",
+  "snapshot_id": "AAAAAHPOPqKiKsU+VlPCtPSGDAeduiBg",
   "tracks": [
     {
       "added_at": "2026-06-12 04:01:09",
@@ -315,6 +315,26 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2026-06-12 04:01:09",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2026-06-12 04:01:09",
-      "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2026-06-12 04:01:09",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
-        "name": "ALL THE TIME",
-        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
       "artists": [
         {
@@ -1404,17 +1404,13 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 180340,
-      "name": "ALL THE TIME",
-      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
       "added_at": "2026-06-12 04:01:09",
@@ -1499,8 +1495,8 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
       "artists": [
         {
@@ -1508,13 +1504,17 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+      "duration_ms": 180340,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
     },
     {
       "added_at": "2026-06-12 04:01:09",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
-        "name": "PYHU (Put Your Hands Up)",
-        "url": "https://open.spotify.com/album/6QHnkcW4h53aBl41i1rAxj"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Kurd Maverick",
-          "url": "https://open.spotify.com/artist/6A3TktZj6p8D0bmbcfZEKE"
-        }
-      ],
-      "duration_ms": 130731,
-      "name": "PYHU (Put Your Hands Up)",
-      "url": "https://open.spotify.com/track/0zKsNJbYwvNTpePcwra0Qq"
-    },
-    {
-      "added_at": "2026-06-12 04:01:09",
-      "album": {
         "name": "Good Boys (Hide Away)",
         "url": "https://open.spotify.com/album/3cokKTJIpTa4fJvKz8Fv3u"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 153385,
       "name": "Good Boys (Hide Away)",
       "url": "https://open.spotify.com/track/4C7LPGCce5AI0O6glhDf1Y"
+    },
+    {
+      "added_at": "2026-06-12 04:01:09",
+      "album": {
+        "name": "PYHU (Put Your Hands Up)",
+        "url": "https://open.spotify.com/album/6QHnkcW4h53aBl41i1rAxj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Kurd Maverick",
+          "url": "https://open.spotify.com/artist/6A3TktZj6p8D0bmbcfZEKE"
+        }
+      ],
+      "duration_ms": 130731,
+      "name": "PYHU (Put Your Hands Up)",
+      "url": "https://open.spotify.com/track/0zKsNJbYwvNTpePcwra0Qq"
     },
     {
       "added_at": "2026-06-12 04:01:09",
@@ -1883,22 +1883,42 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
-        "name": "CHICA 305",
-        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+        "name": "Coming Up (It\u2019s Dare)",
+        "url": "https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
         }
       ],
-      "duration_ms": 188085,
-      "name": "CHICA 305",
-      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+      "duration_ms": 180895,
+      "name": "Coming Up (It\u2019s Dare)",
+      "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
+    },
+    {
+      "added_at": "2026-06-12 04:01:09",
+      "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2026-06-12 04:01:09",
@@ -1923,42 +1943,22 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
-    },
-    {
-      "added_at": "2026-06-12 04:01:09",
-      "album": {
-        "name": "Coming Up (It\u2019s Dare)",
-        "url": "https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 180895,
-      "name": "Coming Up (It\u2019s Dare)",
-      "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
     },
     {
       "added_at": "2026-06-12 04:01:09",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
-        "name": "BREAD",
-        "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 192856,
-      "name": "Woof (feat. Kah-Lo)",
-      "url": "https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ"
-    },
-    {
-      "added_at": "2026-06-12 04:01:09",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw"
+    },
+    {
+      "added_at": "2026-06-12 04:01:09",
+      "album": {
+        "name": "BREAD",
+        "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 192856,
+      "name": "Woof (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ"
     },
     {
       "added_at": "2026-06-12 04:01:09",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
-    },
-    {
-      "added_at": "2026-06-12 04:01:09",
-      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "added_at": "2026-06-12 04:01:09",
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": "2026-06-12 04:01:09",
@@ -2763,26 +2763,6 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
-        "name": "Opalite (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 228947,
-      "name": "Opalite - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/0ttGLmxI0mAkMblE6iRm2S"
-    },
-    {
-      "added_at": "2026-06-12 04:01:09",
-      "album": {
         "name": "like JENNIE",
         "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
@@ -2799,6 +2779,26 @@
       "duration_ms": 208375,
       "name": "like JENNIE - Peggy Gou Remix",
       "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
+    },
+    {
+      "added_at": "2026-06-12 04:01:09",
+      "album": {
+        "name": "Opalite (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "Opalite - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/0ttGLmxI0mAkMblE6iRm2S"
     },
     {
       "added_at": "2026-06-12 04:01:09",
@@ -2975,6 +2975,22 @@
     {
       "added_at": "2026-06-12 04:01:09",
       "album": {
+        "name": "Space Pump (Space Jam)",
+        "url": "https://open.spotify.com/album/73MaHOfZf2Dh5fTCwBfXMA"
+      },
+      "artists": [
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Space Pump (Space Jam)",
+      "url": "https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV"
+    },
+    {
+      "added_at": "2026-06-12 04:01:09",
+      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/2VTfQy8ZPbdjvYzHCO0PVz"
       },
@@ -2991,22 +3007,6 @@
       "duration_ms": 154354,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn"
-    },
-    {
-      "added_at": "2026-06-12 04:01:09",
-      "album": {
-        "name": "Space Pump (Space Jam)",
-        "url": "https://open.spotify.com/album/73MaHOfZf2Dh5fTCwBfXMA"
-      },
-      "artists": [
-        {
-          "name": "Vinter",
-          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Space Pump (Space Jam)",
-      "url": "https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV"
     },
     {
       "added_at": "2026-06-12 04:01:09",

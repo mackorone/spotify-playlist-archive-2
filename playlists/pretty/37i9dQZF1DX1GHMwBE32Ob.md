@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Shalipoppi
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,403 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,557 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 38 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |
 | 39 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 |
 | 40 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 |
-| 41 | [Moti High](https://open.spotify.com/track/1D1bWp401f4xkTm6JAZXZf) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Moti High](https://open.spotify.com/album/02PnfWjoM04XKcfkkUQb8g) | 2:33 |
-| 42 | [Kilogram](https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:03 |
-| 43 | [Akonuche \- Remix](https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Akonuche \(Remix\)](https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s) | 2:56 |
-| 44 | [Kawasaki \(Freestyle\)](https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Kawasaki \(Freestyle\)](https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK) | 2:44 |
+| 41 | [Kilogram](https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:03 |
+| 42 | [Moti High](https://open.spotify.com/track/1D1bWp401f4xkTm6JAZXZf) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Moti High](https://open.spotify.com/album/02PnfWjoM04XKcfkkUQb8g) | 2:33 |
+| 43 | [Kawasaki \(Freestyle\)](https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Kawasaki \(Freestyle\)](https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK) | 2:44 |
+| 44 | [Akonuche \- Remix](https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Akonuche \(Remix\)](https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s) | 2:56 |
 | 45 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 46 | [CANADA BREEZE](https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k) | 2:42 |
 | 47 | [420](https://open.spotify.com/track/6q8SsMtXvytOsP5CLDpxVU) | [Plutomania](https://open.spotify.com/artist/018olXJmRtbs1Q0VTkspcH), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [420](https://open.spotify.com/album/2mUIIraqsiVonjQHS3R7JC) | 2:43 |

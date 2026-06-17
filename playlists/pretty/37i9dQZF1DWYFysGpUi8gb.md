@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring the healing power of horses
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,400 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,389 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 45 | [Parts And Labour](https://open.spotify.com/track/3ScmdoD5svPVwjwjxXVhM3) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [Parts And Labour](https://open.spotify.com/album/7oXJJjePduXpixLo2OgfVk) | 3:07 |
 | 46 | [Colour Of Forever](https://open.spotify.com/track/5KCSb3RIFmCuOGo6UMAvbR) | [Borscht](https://open.spotify.com/artist/0ohiNOjeQYUxV29FXsMrDo) | [Colour Of Forever](https://open.spotify.com/album/0LuM6HqeNaXVOu6gr1hfoy) | 3:57 |
 | 47 | [Hours, Years](https://open.spotify.com/track/1xoI7deirCKJo4Xwfx4WNv) | [AtticOmatic](https://open.spotify.com/artist/7MBFwAIrTE8EFpJY1NqlBY) | [Between Two](https://open.spotify.com/album/4el0RujzJnOvBShX1FoH2N) | 2:43 |
-| 48 | [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 |
+| 48 | [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 |
 | 49 | [Modern Love](https://open.spotify.com/track/0WEQo9Ps3t2XXzO7S6SaEW) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [Modern Love](https://open.spotify.com/album/45o7um1I2zw7Pe4b79xo28) | 3:44 |
 | 50 | [Downtown Lover](https://open.spotify.com/track/4wHwaH0F0lwY3F9L1JO439) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Downtown Lover](https://open.spotify.com/album/7yXvrKgpxEeHquzE7R7NFB) | 2:37 |
 | 51 | [Out of Context](https://open.spotify.com/track/5fJTo2ubmucz5Q5A981p3o) | [Library Card](https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT) | [Out of Context](https://open.spotify.com/album/2qT8Za2HwhNkGPoSgPJuYQ) | 2:58 |

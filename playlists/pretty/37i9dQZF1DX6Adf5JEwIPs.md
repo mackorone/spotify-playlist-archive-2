@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Hijos de Barron 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,087 likes - 61 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,098 likes - 61 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

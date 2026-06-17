@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,918 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,857 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 65 | [Rococo Zephyr](https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 5:42 |
 | 66 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 |
 | 67 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 |
-| 68 | [Going On A Feeling](https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:24 |
-| 69 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
+| 68 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 |
+| 69 | [Going On A Feeling](https://open.spotify.com/track/7yq3HE1RNBTRAw8YG8xtdT) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 4:24 |
 | 70 | [The Love Still Held Me Near](https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:23 |
 | 71 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
 | 72 | [I'm Ready](https://open.spotify.com/track/7oO94Tv1jcfpn1NZXolLJU) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 3:59 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 76 | [Ride Out In The Country](https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:15 |
 | 77 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
 | 78 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
-| 79 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 5:15 |
-| 80 | [New Moon](https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:10 |
+| 79 | [New Moon](https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:10 |
+| 80 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 5:15 |
 | 81 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
 | 82 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 83 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 88 | [It’s a good day \(to fight the system\) \- feat\. Joy Oladokun](https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It’s a good day \(to fight the system\) \[feat\. Joy Oladokun\]](https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF) | 3:17 |
 | 89 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 |
 | 90 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 |
-| 91 | [Rolling Sea](https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 5:18 |
-| 92 | [The Cure](https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Brother Sister](https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL) | 3:57 |
-| 93 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
+| 91 | [Santa Ana Winds](https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q) | [Waylon Payne](https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE) | [Blue Eyes, The Harlot, The Queer, The Pusher & Me](https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co) | 4:16 |
+| 92 | [Rolling Sea](https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 5:18 |
+| 93 | [The Cure](https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Brother Sister](https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL) | 3:57 |
 | 94 | [Better Angels](https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:25 |
 | 95 | [Road Trippin'](https://open.spotify.com/track/5LiVFwvlEeqMlCei96JkR3) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Road Trippin'](https://open.spotify.com/album/1GwMpo5f1BhiVvnWO9i0ys) | 5:18 |
 | 96 | [Didn't Fix Me](https://open.spotify.com/track/4pqcb6b9PoBnK3HSt4tIeo) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 5:32 |

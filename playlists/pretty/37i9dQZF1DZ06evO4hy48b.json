@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 240690,
+  "num_followers": 240730,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAC8J3QANyqw876mHbi45Q8R",
+  "snapshot_id": "ai9AgAAAAAD49/TT3hpAsV9Z68v39eD7",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Planes",
-        "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm"
+      "duration_ms": 181200,
+      "name": "CORAZ\u00d3N SIN VIDA",
+      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
     },
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Tus Planes",
+        "url": "https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Si T\u00fa La Quieres",
+      "url": "https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -386,31 +406,11 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 181200,
-      "name": "CORAZ\u00d3N SIN VIDA",
-      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4TO 23",
-        "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "4TO 23",
-      "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
+      "duration_ms": 210726,
+      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
+      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+        "name": "4TO 23",
+        "url": "https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 210726,
-      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
-      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
+      "duration_ms": 168320,
+      "name": "4TO 23",
+      "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
     },
     {
       "added_at": null,

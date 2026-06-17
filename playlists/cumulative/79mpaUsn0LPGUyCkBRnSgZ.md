@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,147 songs - 3 day 1 hr 58 min
+1,149 songs - 3 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 | 2023-03-31 | 2023-12-14 |
 | [GODLY \(feat\. Damon Albarn\)](https://open.spotify.com/track/69zR9rUlizT5evNCIIHrTn) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 2:33 | 2026-02-05 |  |
 | [Goin on a Plane Today](https://open.spotify.com/track/0qffZBf6URNKcCWtkxYX4v) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 2:29 | 2023-01-11 |  |
+| [Going for the One \- 2008 Remaster](https://open.spotify.com/track/0iKQH7ZPkxWGBNL0XFvBAb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Going for the One](https://open.spotify.com/album/5D6az0bHFbVbBpWEqnXeCj) | 5:32 | 2026-06-16 |  |
 | [Going Insane](https://open.spotify.com/track/7wgjOD4FrtZ0zPPtK7dSn8) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Cover The Mirrors](https://open.spotify.com/album/6cXzNHCcql2F15q7OP3Sks) | 3:42 | 2025-06-19 | 2025-06-22 |
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-04-21 |  |
 | [Golden Arrow](https://open.spotify.com/track/2uo4ZOD82ldcydWj5cPqAa) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 11:20 | 2025-12-06 |  |
@@ -658,6 +659,7 @@
 | [My Garden](https://open.spotify.com/track/3iFrdRxudq9yD029Q9XOat) | [Agriculture](https://open.spotify.com/artist/23Skjj6LyKEVkNIUFrLBUY) | [The Spiritual Sound](https://open.spotify.com/album/4HxzA7GFGtbcLiCNNd4AmZ) | 5:12 | 2026-03-03 |  |
 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 | 2024-05-28 |  |
 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 | 2025-10-17 |  |
+| [My Pal the Tortoise](https://open.spotify.com/track/1anrtrcrzrfSa9zJmppIKo) | [Thinking Fellers Union Local 282](https://open.spotify.com/artist/6MxGhSYp621FZiZpVaPxtR) | [Strangers from the Universe](https://open.spotify.com/album/6FQuVWeNCWkCXuyYGiF5sV) | 2:47 | 2026-06-16 |  |
 | [My, What A Strange Day With A Swede](https://open.spotify.com/track/11R34yTJbfLMltkkDxYzsH) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [If He Is Protecting Our Nation, Then Who Will Protect Big Oil, Our Children?](https://open.spotify.com/album/2Yi1vhHk6Fe52XLRUuw5b6) | 4:11 | 2023-06-03 |  |
 | [Myrrhman](https://open.spotify.com/track/6MuYpktGeHQXZHHko0Tmvl) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 5:32 | 2024-03-26 |  |
 | [Mystery Fish](https://open.spotify.com/track/5r13QvPVwh6OfOvUf71shX) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [The Impossible Kid](https://open.spotify.com/album/6D6v19wYlLDsYkkfebOY3g) | 3:08 | 2023-03-24 | 2023-05-03 |

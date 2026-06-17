@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 43832,
+  "num_followers": 43836,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 174336,
-      "name": "Tuya",
-      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Chica Violeta",
         "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 386900,
       "name": "Chica Violeta",
       "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 174336,
+      "name": "Tuya",
+      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Arder",
-        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1s Que Uno",
-          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
-        }
-      ],
-      "duration_ms": 220249,
-      "name": "Tu Caminar",
-      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Para Olvidarte",
         "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 185093,
       "name": "Para Olvidarte",
       "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Arder",
+        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1s Que Uno",
+          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
+        }
+      ],
+      "duration_ms": 220249,
+      "name": "Tu Caminar",
+      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Epica & Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
-      },
-      "artists": [
-        {
-          "name": "Marina Fages",
-          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
-        }
-      ],
-      "duration_ms": 245246,
-      "name": "Piedra Marea Fuego",
-      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 211614,
       "name": "Girando",
       "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Epica & Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
+      },
+      "artists": [
+        {
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+        }
+      ],
+      "duration_ms": 245246,
+      "name": "Piedra Marea Fuego",
+      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
-      },
-      "artists": [
-        {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Huir",
         "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Mi Voz",
-        "url": "https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG"
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
       },
       "artists": [
         {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
         }
       ],
-      "duration_ms": 192286,
-      "name": "Mi Voz",
-      "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
+      "duration_ms": 190165,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1263,6 +1247,22 @@
       "duration_ms": 197493,
       "name": "Nada, Nadie",
       "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Mi Voz",
+        "url": "https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 192286,
+      "name": "Mi Voz",
+      "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Tengo Ganas",
-        "url": "https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 240528,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Juego",
         "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 189230,
       "name": "Juego",
       "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 240528,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "On\u00edrica",
-        "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
-      },
-      "artists": [
-        {
-          "name": "Eva Ryjlen",
-          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
-        }
-      ],
-      "duration_ms": 223205,
-      "name": "Shangri-La",
-      "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Celesteac\u00fastica (Veinteaniversario)",
         "url": "https://open.spotify.com/album/6tQ0Kj4WjIJDobEpCxlRIy"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 267091,
       "name": "Mi Elemento",
       "url": "https://open.spotify.com/track/1LlMcgHwbls4Q2YCBWzcl1"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "On\u00edrica",
+        "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
+      },
+      "artists": [
+        {
+          "name": "Eva Ryjlen",
+          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
+        }
+      ],
+      "duration_ms": 223205,
+      "name": "Shangri-La",
+      "url": "https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 176490,
+      "name": "El Oscuro",
+      "url": "https://open.spotify.com/track/33IAWGGxxBmmVq6Raa2uoW"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Mil Gritos Tiene la Noche, Vol. 1",
         "url": "https://open.spotify.com/album/6JkIhyOobANHUF235OWntk"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
       },
       "artists": [
         {
-          "name": "Melanie Williams",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
         }
       ],
-      "duration_ms": 176490,
-      "name": "El Oscuro",
-      "url": "https://open.spotify.com/track/33IAWGGxxBmmVq6Raa2uoW"
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1619,22 +1635,6 @@
       "duration_ms": 191078,
       "name": "14:14",
       "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Las Presencias, Pt. I",
-        "url": "https://open.spotify.com/album/2OHrRjpglp8VuWitqQ7Pqh"
-      },
-      "artists": [
-        {
-          "name": "Bubis Vayins",
-          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
-        }
-      ],
-      "duration_ms": 216358,
-      "name": "\u00bfA D\u00f3nde Voy Si Se Termina el Mundo?",
-      "url": "https://open.spotify.com/track/7jXOyUXySEKG0V7Kxpiy4t"
     }
   ],
   "unique_name": "Rockeras",

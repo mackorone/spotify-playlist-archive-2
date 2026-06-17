@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Gabriel Elias",
-  "num_followers": 290680,
+  "num_followers": 290664,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -91,26 +91,6 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
-        "name": "FOR\u00c7A DA JUVENTUDE",
-        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "2ZDinizz",
-          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
-        }
-      ],
-      "duration_ms": 224058,
-      "name": "falador",
-      "url": "https://open.spotify.com/track/5vQInwZReaYIOdIyGQHjbF"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
         "name": "Sei L\u00e1",
         "url": "https://open.spotify.com/album/0RENWCeNQeexSBoS9rzxjG"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 141935,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/71Vau26vLY4Vl6Z4ajFKW0"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        }
+      ],
+      "duration_ms": 224058,
+      "name": "falador",
+      "url": "https://open.spotify.com/track/5vQInwZReaYIOdIyGQHjbF"
     },
     {
       "added_at": "2026-06-12 03:00:53",
@@ -599,6 +599,26 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
+        "name": "insisto em voc\u00ea",
+        "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "Tirado",
+          "url": "https://open.spotify.com/artist/4JG5Rt8do7ljKKVL7fEd7D"
+        }
+      ],
+      "duration_ms": 135420,
+      "name": "insisto em voc\u00ea",
+      "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
         "name": "LUMINOSA, ATO II: SOL",
         "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 182586,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
-        "name": "insisto em voc\u00ea",
-        "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "Tirado",
-          "url": "https://open.spotify.com/artist/4JG5Rt8do7ljKKVL7fEd7D"
-        }
-      ],
-      "duration_ms": 135420,
-      "name": "insisto em voc\u00ea",
-      "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
     },
     {
       "added_at": "2026-06-12 03:00:53",
@@ -767,6 +767,26 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
+        "name": "Eu te Superei (Remix)",
+        "url": "https://open.spotify.com/album/69uea5ycnqKG2jqYpxSHDc"
+      },
+      "artists": [
+        {
+          "name": "Aya Florez",
+          "url": "https://open.spotify.com/artist/5pAEIWr1snmCkKSiXWbfjv"
+        },
+        {
+          "name": "DJ Lucas Beat",
+          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+        }
+      ],
+      "duration_ms": 133186,
+      "name": "Eu te Superei - Remix",
+      "url": "https://open.spotify.com/track/0KA4DcRAkBDaghTI9uXbwY"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
         "name": "Barulho Das Ondas",
         "url": "https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
-        "name": "Eu te Superei (Remix)",
-        "url": "https://open.spotify.com/album/69uea5ycnqKG2jqYpxSHDc"
-      },
-      "artists": [
-        {
-          "name": "Aya Florez",
-          "url": "https://open.spotify.com/artist/5pAEIWr1snmCkKSiXWbfjv"
-        },
-        {
-          "name": "DJ Lucas Beat",
-          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
-        }
-      ],
-      "duration_ms": 133186,
-      "name": "Eu te Superei - Remix",
-      "url": "https://open.spotify.com/track/0KA4DcRAkBDaghTI9uXbwY"
     },
     {
       "added_at": "2026-06-12 03:00:53",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
-        "name": "N\u00e3o Vou Voltar",
-        "url": "https://open.spotify.com/album/1unIXIxrlEFGSpWC1k7bUn"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        },
-        {
-          "name": "Luccas Simoneto",
-          "url": "https://open.spotify.com/artist/08mt6cahZUGy437zTfbsJU"
-        }
-      ],
-      "duration_ms": 239232,
-      "name": "N\u00e3o Vou Voltar",
-      "url": "https://open.spotify.com/track/4g1IihVPDB892Dwgm2qqAT"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -991,6 +971,26 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
+        "name": "N\u00e3o Vou Voltar",
+        "url": "https://open.spotify.com/album/1unIXIxrlEFGSpWC1k7bUn"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        },
+        {
+          "name": "Luccas Simoneto",
+          "url": "https://open.spotify.com/artist/08mt6cahZUGy437zTfbsJU"
+        }
+      ],
+      "duration_ms": 239232,
+      "name": "N\u00e3o Vou Voltar",
+      "url": "https://open.spotify.com/track/4g1IihVPDB892Dwgm2qqAT"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -1011,6 +1011,26 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
+        "name": "Camisa Vintage",
+        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        }
+      ],
+      "duration_ms": 144095,
+      "name": "Camisa Vintage",
+      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
     },
     {
       "added_at": "2026-06-12 03:00:53",
@@ -1211,38 +1231,6 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
-        "name": "Linda e Perigosa",
-        "url": "https://open.spotify.com/album/1kU1pKFPWKO3Ji8aMBzTy8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 189010,
-      "name": "Linda e Perigosa",
-      "url": "https://open.spotify.com/track/1NllK0fesDem5FNDdT2i8C"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
-        "name": "Casal de Uma Noite S\u00f3",
-        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        }
-      ],
-      "duration_ms": 149474,
-      "name": "Casal de Uma Noite S\u00f3",
-      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
         "name": "Quem Vai Ser?",
         "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
       },
@@ -1263,6 +1251,38 @@
       "duration_ms": 157918,
       "name": "Quem Vai Ser?",
       "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
+        "name": "Casal de Uma Noite S\u00f3",
+        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        }
+      ],
+      "duration_ms": 149474,
+      "name": "Casal de Uma Noite S\u00f3",
+      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
+        "name": "Linda e Perigosa",
+        "url": "https://open.spotify.com/album/1kU1pKFPWKO3Ji8aMBzTy8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 189010,
+      "name": "Linda e Perigosa",
+      "url": "https://open.spotify.com/track/1NllK0fesDem5FNDdT2i8C"
     },
     {
       "added_at": "2026-06-12 03:00:53",
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2026-06-12 03:00:53",
       "album": {
-        "name": "Camisa Vintage",
-        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
-      },
-      "artists": [
-        {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
-        }
-      ],
-      "duration_ms": 144095,
-      "name": "Camisa Vintage",
-      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
         "name": "Me Deixe S\u00f3",
         "url": "https://open.spotify.com/album/0b1UyJHazZPocxMljaURMy"
       },
@@ -1491,26 +1491,6 @@
       "duration_ms": 91826,
       "name": "Me Deixe S\u00f3",
       "url": "https://open.spotify.com/track/4gF3E79pvTSE4pLSxgb5ge"
-    },
-    {
-      "added_at": "2026-06-12 03:00:53",
-      "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2026-06-12 03:00:53",
@@ -1539,6 +1519,26 @@
       "duration_ms": 141352,
       "name": "Quadrado Formado",
       "url": "https://open.spotify.com/track/3aXko8H02cLdkto6j2J45I"
+    },
+    {
+      "added_at": "2026-06-12 03:00:53",
+      "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2026-06-12 03:00:53",

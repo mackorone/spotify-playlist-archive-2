@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,214 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,211 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 36 | [Letting Go](https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Letting Go](https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd) | 2:34 |
 | 37 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
 | 38 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/0byuRCilUoNe3rKG8VKCx8) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 3:11 |
-| 39 | [Violin](https://open.spotify.com/track/7eRDTkDUO5UVWgla9Max4h) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 5:18 |
-| 40 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 |
+| 39 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 |
+| 40 | [Violin](https://open.spotify.com/track/7eRDTkDUO5UVWgla9Max4h) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 5:18 |
 | 41 | [Winter](https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 3:23 |
 | 42 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 43 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 57 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 |
 | 58 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 59 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
-| 60 | [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 |
-| 61 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
+| 60 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
+| 61 | [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 |
 | 62 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 |
-| 63 | [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:00 |
+| 63 | [Two Punks In Love](https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Two Punks In Love](https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U) | 3:15 |
 | 64 | [Best Part](https://open.spotify.com/track/2HttK3TYhnumj8xWjKCYem) | [Jayesslee](https://open.spotify.com/artist/1xqkT06p85DIZeqrlVGVWv) | [Best Part](https://open.spotify.com/album/1Eew1PSbKc6DM7pD99NiIc) | 4:40 |
-| 65 | [Two Punks In Love](https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Two Punks In Love](https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U) | 3:15 |
+| 65 | [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:00 |
 | 66 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 67 | [Stranger](https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Stranger](https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ) | 5:46 |
 | 68 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 |

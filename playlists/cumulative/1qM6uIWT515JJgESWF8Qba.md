@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-259 songs - 16 hr 14 min
+261 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Almas Crueles](https://open.spotify.com/track/18w7lvGQeQErLHd6DhIpOo) | [MARSEYA](https://open.spotify.com/artist/6LysldjbzfwmtMTCzFF2Rg) | [Almas Crueles](https://open.spotify.com/album/0AmyYFl8hQOrlxGUbr4dxE) | 5:24 | 2026-03-20 | 2026-05-19 |
 | [Alright](https://open.spotify.com/track/206t9kiN5fvPUOCzIayQuV) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:24 | 2025-12-29 | 2026-01-21 |
 | [An Hour On Delay](https://open.spotify.com/track/3GC3JnqOwc5uV0A6s42o66) | [Black Kanyon](https://open.spotify.com/artist/54UZzpSfWxcX54oMl2lBzV) | [Two Hours On Delay](https://open.spotify.com/album/31AcmtoYuJ6TbsOPgA97ql) | 3:30 | 2026-06-06 |  |
+| [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 | 2026-06-16 |  |
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
 | [April Breaking Down](https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 4:20 | 2025-12-20 | 2026-01-21 |
 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 | 2025-12-25 | 2026-01-21 |
@@ -74,6 +75,7 @@
 | [Diagnos](https://open.spotify.com/track/2TyCsu3MUR9DjANoBa3x2n) | [Artikel 22](https://open.spotify.com/artist/2R9AIy5zKsWF3D838CMyGG) | [Diagnos](https://open.spotify.com/album/7rIaHJYL7JpBieDkLX5pw5) | 3:10 | 2026-03-22 | 2026-05-19 |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2026-01-22 | 2026-02-23 |
 | [Diane \- Demo Version](https://open.spotify.com/track/5xiZ1UJ3CFjvcXNJNO7plw) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Diane \(Demo Version\)](https://open.spotify.com/album/6DBiT8SsreCrtgUgTsMxCc) | 4:11 | 2025-10-17 | 2026-03-21 |
+| [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2026-06-16 |  |
 | [Dissociate](https://open.spotify.com/track/6c7JznrRYkqJzGKLVg5eYa) | [Social Dissonance](https://open.spotify.com/artist/3QdyYCm24rYz2bE45nLZQr) | [This Is Hell](https://open.spotify.com/album/6tsPIINj19lRpwY8vrMfVB) | 4:59 | 2026-03-11 | 2026-05-19 |
 | [Don't Stop At The Top](https://open.spotify.com/track/5RqZlbMgesvJ9K3aTZjxBA) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Don't Stop At The Top](https://open.spotify.com/album/6ziIXzZ8WHJvm9NLQP15Ck) | 4:01 | 2026-01-16 | 2026-02-23 |
 | [Down \- '25](https://open.spotify.com/track/3WSYTP3rtcJgktRQiYWljS) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 4:39 | 2026-02-11 | 2026-05-19 |

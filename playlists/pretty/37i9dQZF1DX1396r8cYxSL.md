@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2026 yazının şarkıları.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,365 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,411 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 19 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
 | 20 | [Sabrettim](https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Sabrettim](https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP) | 3:05 |
 | 21 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 |
-| 22 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |
+| 22 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
 | 23 | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI) | [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ÜZÜLECEKSİN 2.0](https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ) | 2:19 |
-| 24 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 |
+| 24 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |
 | 25 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 |
 | 26 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 |
 | 27 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 |

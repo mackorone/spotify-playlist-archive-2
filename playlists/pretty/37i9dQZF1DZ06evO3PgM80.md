@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,185 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,189 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 4 | [Começo, Meio e Fim / Mais Perto Quero Estar \- Ao Vivo](https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Começo, Meio e Fim / Mais Perto Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E) | 5:37 |
 | 5 | [Esperança \- Ao Vivo](https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Esperança \(Ao Vivo\)](https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO) | 5:19 |
 | 6 | [Um Refrão Pra Sua Alma](https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Um Refrão Pra Sua Alma](https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI) | 4:16 |
-| 7 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
-| 8 | [Amor Infinito / A Mensagem da Cruz \- Ao Vivo](https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Amor Infinito / A Mensagem da Cruz \(Ao Vivo\)](https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI) | 5:55 |
+| 7 | [Amor Infinito / A Mensagem da Cruz \- Ao Vivo](https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Amor Infinito / A Mensagem da Cruz \(Ao Vivo\)](https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI) | 5:55 |
+| 8 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
 | 9 | [Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp) | 5:06 |
 | 10 | [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 |
 | 11 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 49 | [Pai de Amor \(Heavenly Father I Appreciate You\) \- Ao Vivo](https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Pai de Amor \(Heavenly Father I Appreciate You\) \[Ao Vivo\]](https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4) | 4:05 |
 | 50 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 
-Snapshot ID: `ai3vAAAAAAAZrOqOq9eyjVfS+MSG2W2g`
+Snapshot ID: `ai9AgAAAAABJ7dVu+t/Y4lGJ5BcucJfs`

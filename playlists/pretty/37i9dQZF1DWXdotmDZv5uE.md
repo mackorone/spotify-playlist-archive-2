@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,982 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,966 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 47 | [El Jalisciense](https://open.spotify.com/track/2cTKK7oTSaFDVkNabvTulK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 2:36 |
 | 48 | [Mermaid Sashimi](https://open.spotify.com/track/0OC769QD66RyvtDqhe7FTw) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG) | [Mermaid Sashimi](https://open.spotify.com/album/41ZVIDqa0tsadGmLIaDY8X) | 4:52 |
 | 49 | [Mucho Corazón \- Versión Radio](https://open.spotify.com/track/51Xow1jLPXLvO6qIgagHIj) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Radiolatina](https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1) | 4:06 |
-| 50 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
-| 51 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 2:35 |
-| 52 | [Decidir](https://open.spotify.com/track/7DT6NuQBHmsSvA1RWuxoeX) | [Disidente](https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L) | [Y si tuviera disquera](https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U) | 4:37 |
+| 50 | [Decidir](https://open.spotify.com/track/7DT6NuQBHmsSvA1RWuxoeX) | [Disidente](https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L) | [Y si tuviera disquera](https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U) | 4:37 |
+| 51 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
+| 52 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 2:35 |
 | 53 | [Zenit](https://open.spotify.com/track/0xPSN1e1sH9hALJBN7TnBi) | [Telefunka](https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm) | [Electrodoméstico](https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp) | 4:34 |
 | 54 | [Can U Feel Me?](https://open.spotify.com/track/3tArBIGOkkeJWRGCV6uaYk) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb) | [Red Album](https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse) | 3:17 |
 | 55 | [París \(Junto a Ti\)](https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [París \(Junto a Ti\)](https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3) | 2:36 |

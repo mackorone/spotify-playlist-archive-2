@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,874 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,896 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 42 | [Feel It](https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:56 |
 | 43 | [Never Hating \(feat\. Young Thug\)](https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:40 |
 | 44 | [Went Thru It](https://open.spotify.com/track/7fYI5lJNkyJMtTdhIVPy07) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:35 |
-| 45 | [Just Like Me \(feat\. Young Thug\)](https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:40 |
-| 46 | [Power](https://open.spotify.com/track/2KztZVOEdCkJJHIXcdy6lM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 3:15 |
+| 45 | [Power](https://open.spotify.com/track/2KztZVOEdCkJJHIXcdy6lM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 3:15 |
+| 46 | [Just Like Me \(feat\. Young Thug\)](https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:40 |
 | 47 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
 | 48 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
 | 49 | [Superman \(feat\. Young Thug\)](https://open.spotify.com/track/1t9dT5JBC9x5WaAJpQzU1I) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:12 |
 | 50 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 |
 
-Snapshot ID: `ai3vAAAAAAC/dXOq8abU/zJVcUkZYDzs`
+Snapshot ID: `ai9AgAAAAACRWwplRWD0keaAFQgrDBhI`

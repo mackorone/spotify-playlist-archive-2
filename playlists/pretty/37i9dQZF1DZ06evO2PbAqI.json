@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 35478,
+  "num_followers": 35483,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACHlWjR1xcIvWIV86bmJhNp",
+  "snapshot_id": "ai9AgAAAAAD8hqZK88qMv5GApic8dtLs",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5LudgNwTAhX2sjfzdpLyAD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Adrenaline",
+        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/5aDNR9kL3HsG3kUAeuguHl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Finsterwacht",
         "url": "https://open.spotify.com/album/6VbJXyZrazAAEfaS7uOyH1"
       },
@@ -215,38 +247,6 @@
       "duration_ms": 219999,
       "name": "We Might Be Giants",
       "url": "https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Adrenaline",
-        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/5aDNR9kL3HsG3kUAeuguHl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 185066,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5LudgNwTAhX2sjfzdpLyAD"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 255200,
-      "name": "Tight Rope",
-      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
+      "duration_ms": 211973,
+      "name": "Self Deception",
+      "url": "https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 261053,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
+      "duration_ms": 229280,
+      "name": "You Love Me 'Cause I Hate You",
+      "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 211973,
-      "name": "Self Deception",
-      "url": "https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA"
+      "duration_ms": 255200,
+      "name": "Tight Rope",
+      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 229280,
-      "name": "You Love Me 'Cause I Hate You",
-      "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
+      "duration_ms": 261053,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Tu dosis de éxitos indie para quedar a salvo\. En portada: Alabama Shakes
 
-149 songs - 9 hr 34 min
+150 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Help I'm Alive](https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 4:45 | 2024-07-12 | 2025-09-12 |
 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 | 2023-07-21 | 2024-04-19 |
 | [Here Comes Your Man](https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 3:21 | 2023-07-21 | 2024-04-19 |
+| [Here Comes Your Man](https://open.spotify.com/track/0cs671lxX2eoDzr2KMuo3N) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 3:21 | 2024-07-12 |  |
 | [Hold On](https://open.spotify.com/track/3zzZVLdBKRW8JH7GhFPyvu) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH) | 3:46 | 2023-07-21 |  |
 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 | 2023-07-21 | 2024-04-19 |
 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 | 2023-07-21 |  |
@@ -146,7 +147,7 @@
 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 | 2023-07-21 | 2024-07-13 |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2023-07-21 |  |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2023-07-21 | 2024-04-19 |
-| [Where Is My Mind?](https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(Remastered\)](https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI) | 3:56 | 2024-07-12 |  |
+| [Where Is My Mind?](https://open.spotify.com/track/6mcxQ1Y3uQRU0IHsvdNLH1) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(Remastered\)](https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI) | 3:56 | 2024-07-12 | 2026-06-17 |
 | [Where Is My Mind? \- 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2023-07-21 | 2024-04-19 |
 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 | 2023-07-21 | 2024-04-19 |
 | [Winter Solstice](https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Winter Solstice](https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0) | 3:56 | 2023-07-21 |  |

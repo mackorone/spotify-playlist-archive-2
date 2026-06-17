@@ -1,12 +1,12 @@
 {
   "description": "The Hottest Arabic Music.\nCover: Sherine",
-  "num_followers": 589555,
+  "num_followers": 589632,
   "original_name": "Yalla ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGmdXjmXVLGmOiaecM6qpiH90kWI",
+  "snapshot_id": "AAAAAPmblDfIT+9N2pQ/U6znSLiOWjBf",
   "tracks": [
     {
       "added_at": "2026-05-23 04:20:21",
@@ -23,6 +23,42 @@
       "duration_ms": 246666,
       "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
       "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
+    },
+    {
+      "added_at": "2026-06-11 16:35:42",
+      "album": {
+        "name": "Chou Meshta2li",
+        "url": "https://open.spotify.com/album/6hMW6x28JG2O1k3UVBmpbN"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Chou Meshta2li",
+      "url": "https://open.spotify.com/track/489M9YlC0nOZeWY7ljkXfX"
+    },
+    {
+      "added_at": "2026-06-16 14:23:12",
+      "album": {
+        "name": "Nano",
+        "url": "https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 216806,
+      "name": "Nano",
+      "url": "https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW"
     },
     {
       "added_at": "2026-05-23 04:20:21",
@@ -159,22 +195,6 @@
       "duration_ms": 316285,
       "name": "Zai Zaman",
       "url": "https://open.spotify.com/track/3Kp763XugDGvPyVjRtWF6L"
-    },
-    {
-      "added_at": "2026-06-11 16:35:42",
-      "album": {
-        "name": "Chou Meshta2li",
-        "url": "https://open.spotify.com/album/6hMW6x28JG2O1k3UVBmpbN"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "Chou Meshta2li",
-      "url": "https://open.spotify.com/track/489M9YlC0nOZeWY7ljkXfX"
     },
     {
       "added_at": "2026-05-23 04:20:21",
@@ -383,22 +403,6 @@
     {
       "added_at": "2026-05-23 04:20:21",
       "album": {
-        "name": "Narein",
-        "url": "https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9"
-      },
-      "artists": [
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        }
-      ],
-      "duration_ms": 213838,
-      "name": "Heseeny",
-      "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj"
-    },
-    {
-      "added_at": "2026-05-23 04:20:21",
-      "album": {
         "name": "Maleket Gamal El Kon",
         "url": "https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl"
       },
@@ -487,6 +491,26 @@
       "duration_ms": 180618,
       "name": "3alam Kadaba - From The TV Series Ma Trah Lays Kama Ybdo",
       "url": "https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW"
+    },
+    {
+      "added_at": "2026-06-16 14:23:12",
+      "album": {
+        "name": "Sammaouny",
+        "url": "https://open.spotify.com/album/3kdDQxglL8c1lqOKD8JNwT"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        },
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Bahareya",
+      "url": "https://open.spotify.com/track/1LPcEP3HCUbOFvb6NEH1Ma"
     },
     {
       "added_at": "2026-05-23 04:20:21",

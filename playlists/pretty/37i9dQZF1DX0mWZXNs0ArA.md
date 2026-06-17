@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,876 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,729 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 96 | [Perfect Night \(Sped Up ver.\)](https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Remix\)](https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1) | 2:08 |
 | 97 | [if u think i'm pretty \- sped up](https://open.spotify.com/track/1E7s51zCgiSqJhHnFvonAI) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/1sfetA5cWBhbBdIP6qstHo) | 1:40 |
 | 98 | [Murder On The Dancefloor \- Sped Up Version](https://open.spotify.com/track/6AUEDH2zNt9Ssn0V9InxDk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Murder On The Dancefloor \(Edits\)](https://open.spotify.com/album/54Ch49X0yluaniJTOeMdZF) | 3:13 |
-| 99 | [Midnight Sun \- Sped Up](https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(+ more\)](https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1) | 2:51 |
-| 100 | [Blue Valentine \(Sped Up Ver.\)](https://open.spotify.com/track/4LiufIB6RRB2VaxjEOcnGF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/6jy5700dqaCui8Wosnaaar) | 2:30 |
+| 99 | [Blue Valentine \(Sped Up Ver.\)](https://open.spotify.com/track/4LiufIB6RRB2VaxjEOcnGF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/6jy5700dqaCui8Wosnaaar) | 2:30 |
+| 100 | [Midnight Sun \- Sped Up](https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(+ more\)](https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1) | 2:51 |
 
 Snapshot ID: `AAAAAPiHKWK8ByBnTarGuUWbme9mqnlo`

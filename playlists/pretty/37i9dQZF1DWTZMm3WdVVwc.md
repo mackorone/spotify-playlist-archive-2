@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,291 likes - 99 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,283 likes - 99 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 74 | [悲しみは雪のように \(single / 1992\)](https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1) | [Shogo Hamada](https://open.spotify.com/artist/46Y4IAsvxi9vMQjqL2wdfy) | [The History of Shogo Hamada“Since 1975”](https://open.spotify.com/album/2m7ovaZtuf7WumcBTwtsTq) | 5:11 |
 | 75 | [ロマンス](https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [音楽と私](https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0) | 3:39 |
 | 76 | [切ないラブソングはいらない](https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [切ないラブソングはいらない](https://open.spotify.com/album/0sTRPhbGBFYuFpSw3DNTqN) | 3:55 |
-| 77 | [蒼き春](https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蒼き春](https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C) | 4:00 |
-| 78 | [Slow time lover](https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Slow time lover](https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG) | 4:01 |
+| 77 | [Slow time lover](https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Slow time lover](https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG) | 4:01 |
+| 78 | [蒼き春](https://open.spotify.com/track/2e9fua8pHpkK6Wso8Cq97c) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蒼き春](https://open.spotify.com/album/372dnGN7uf0xXWQkHOWI6C) | 4:00 |
 | 79 | [Folklore](https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [imagination](https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65) | 5:21 |
-| 80 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 |
-| 81 | [WINTER SONG \(“雪のクリスマス” WORLDWIDE VERSION\)](https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [WINTER SONG](https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf) | 4:45 |
+| 80 | [WINTER SONG \(“雪のクリスマス” WORLDWIDE VERSION\)](https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [WINTER SONG](https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf) | 4:45 |
+| 81 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 |
 | 82 | [shiro](https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [shiro](https://open.spotify.com/album/6hrv5WgeX3p6ZAOibTowfS) | 3:41 |
 | 83 | [やさしい舞踏会](https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4argo68WyfT6dGHp2ETKpm) | 4:54 |
-| 84 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
-| 85 | [真冬の恋人たち](https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [BIBLE](https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL) | 4:40 |
-| 86 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 |
+| 84 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 |
+| 85 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
+| 86 | [真冬の恋人たち](https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [BIBLE](https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL) | 4:40 |
 | 87 | [even if](https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze) | [Ken Hirai](https://open.spotify.com/artist/6jIhEiXcCAyBsuEI7qZ9vc) | [Ken Hirai 10th Anniversary Complete Single Collection '95\-'05 歌バカ](https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502) | 5:39 |
 | 88 | [もうすぐ夜があける](https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf) | [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [ケモノと魔法](https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw) | 4:01 |
 | 89 | [ふれあうだけで 〜Always with you〜](https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [FEVER](https://open.spotify.com/album/1vxnMxxHXdOtL6wYnpZGdm) | 4:06 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 91 | [AFTER TASTE](https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [AFTER TASTE](https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9) | 4:07 |
 | 92 | [WinterHurts \(feat\. 笠原 瑠斗\)](https://open.spotify.com/track/1a5QOzP02gtg1YxtqwuuZ6) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg), [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [WinterHurts \(feat\. 笠原 瑠斗\)](https://open.spotify.com/album/52vI57EpyKHJjTwoQiSUaf) | 3:47 |
 | 93 | [Winterboy](https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [Winterboy](https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA) | 4:34 |
-| 94 | [Unmelting Snow](https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY) | [Girls2](https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR) | [Unmelting Snow](https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW) | 3:28 |
-| 95 | [冬花⽕](https://open.spotify.com/track/4PO3o4sBZx3BIqQ0v014Vv) | [CROWN HEAD](https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK) | [冬花火–EP](https://open.spotify.com/album/0zbszpTpirxLxedxOQdm38) | 3:08 |
+| 94 | [冬花⽕](https://open.spotify.com/track/4PO3o4sBZx3BIqQ0v014Vv) | [CROWN HEAD](https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK) | [冬花火–EP](https://open.spotify.com/album/0zbszpTpirxLxedxOQdm38) | 3:08 |
+| 95 | [Unmelting Snow](https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY) | [Girls2](https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR) | [Unmelting Snow](https://open.spotify.com/album/1MfUL7JBk8NCMGQmuR4GWW) | 3:28 |
 | 96 | [冬の予感](https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [冬の予感](https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI) | 3:21 |
 | 97 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 |
 | 98 | [ハピネス](https://open.spotify.com/track/13ndjn8Ro8ytUJQJfNVYz4) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [ハピネスEP](https://open.spotify.com/album/4JdDkmXQA7RkwMkirHCsKb) | 4:17 |

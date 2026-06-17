@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,138 songs - 2 day 11 hr 23 min
+1,139 songs - 2 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-07-11 |
 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 | 2025-09-11 | 2025-12-10 |
 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 | 2024-07-25 | 2024-09-27 |
+| [Here With Me Now](https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Here With Me Now](https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf) | 4:20 | 2026-06-15 |  |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-07-01 | 2024-09-07 |
 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 | 2024-07-01 | 2024-08-17 |
 | [Heroin eller hvad \(feat\. Tobias Rahim\)](https://open.spotify.com/track/0tVnHL7caHro4WYqFIi0co) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Heroin eller hvad \(feat\. Tobias Rahim\)](https://open.spotify.com/album/2IYaImluRx2km6CilDQNL8) | 3:17 | 2026-05-07 | 2026-05-14 |
@@ -580,7 +581,7 @@
 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 | 2024-12-12 | 2025-02-25 |
 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 | 2025-03-20 | 2025-06-20 |
 | [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 | 2026-02-26 | 2026-05-06 |
-| [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-23 |  |
+| [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-23 | 2026-06-17 |
 | [Klip Klap Sandaler](https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Kan Du Mærke Suset?](https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty) | 4:00 | 2025-01-24 | 2025-01-31 |
 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 | 2026-03-13 | 2026-04-28 |
 | [Knust](https://open.spotify.com/track/3wqRHnczOsKvn43w5d0YDQ) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Knust](https://open.spotify.com/album/5AGzft7HTMrun5vjPK03oo) | 2:15 | 2024-10-03 | 2024-10-25 |

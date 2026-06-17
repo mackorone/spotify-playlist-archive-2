@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 141068,
       "name": "Cardi&Offset",
       "url": "https://open.spotify.com/track/6J1yVUYiHl0B79IN2rO65J"
@@ -6858,6 +6858,36 @@
       "duration_ms": 190000,
       "name": "ORIGINAL",
       "url": "https://open.spotify.com/track/5cGVzKtpAVYJakSGLg323D"
+    },
+    {
+      "album": {
+        "name": "Osso",
+        "url": "https://open.spotify.com/album/0prA4VMDqiTs6pEr5pPoBA"
+      },
+      "artists": [
+        {
+          "name": "Veertien",
+          "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+        },
+        {
+          "name": "Elf",
+          "url": "https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0"
+        },
+        {
+          "name": "RResstante",
+          "url": "https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC"
+        },
+        {
+          "name": "Reimas",
+          "url": "https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200618,
+      "name": "Osso",
+      "url": "https://open.spotify.com/track/05HjN1JDMU4avSiOAQa8Cz"
     },
     {
       "album": {

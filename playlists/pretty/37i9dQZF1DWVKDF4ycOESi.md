@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Angelina Mango e Marco Mengoni,  Olivia Rodrigo, ANOTR, Feid e Sfera Ebbasta, W Sound con J Balvin e Ovy On The Drums e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,927 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,933 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 43 | [See Out Loud](https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton/See Out Loud](https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl) | 4:56 |
 | 44 | [ICONIC BY MISTAKE](https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [ICONIC BY MISTAKE](https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam) | 2:57 |
 | 45 | [Don't You Know](https://open.spotify.com/track/1mgiMU5E6hXziopHOjIZn4) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Don't You Know](https://open.spotify.com/album/6N990tXerv286f4znveHjL) | 2:26 |
-| 46 | [Mala](https://open.spotify.com/track/4EC2I6gYzn5LPzmIKVRWqL) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [Ren](https://open.spotify.com/artist/601XjMANjq5Akm1z3WmPOD), [Tiara](https://open.spotify.com/artist/1Hnx9JIl75ci9EqEzuabz5) | [Mala](https://open.spotify.com/album/3KANxevGXuGIA7urc3O7YD) | 2:51 |
+| 46 | [Mala](https://open.spotify.com/track/4EC2I6gYzn5LPzmIKVRWqL) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [ren](https://open.spotify.com/artist/4BdOlxV6Jk099aefQlDLwI), [Tiara](https://open.spotify.com/artist/1Hnx9JIl75ci9EqEzuabz5) | [Mala](https://open.spotify.com/album/3KANxevGXuGIA7urc3O7YD) | 2:51 |
 | 47 | [Ossessivo Compulsivo](https://open.spotify.com/track/6CuJknQ8PaMHOzXw0P74mn) | [AyEm](https://open.spotify.com/artist/6EmlTOLU2nKoltjhXC1oqS) | [Ossessivo Compulsivo](https://open.spotify.com/album/0dMtwh2pnLkRaiA906MAgJ) | 2:15 |
 | 48 | [MILANO È CARA](https://open.spotify.com/track/63XCZ9OKsU46SiQUd6hu8T) | [LeeZo](https://open.spotify.com/artist/6hifLfYY0cuT5LXjnV3xkj) | [MILANO È CARA](https://open.spotify.com/album/2RkRv0JSzsAGGje9cTjYqZ) | 2:38 |
 | 49 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Olivia Rodrigo on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,113 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,118 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 63 | [Here With Me Now](https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Here With Me Now](https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf) | 4:20 |
 | 64 | [Water](https://open.spotify.com/track/0NRjs5XncJ8oAosU85EdG8) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Water](https://open.spotify.com/album/2zM4efpzYYCpldnfbt69o3) | 2:23 |
 | 65 | [Vaquero](https://open.spotify.com/track/76VoxMKinufqqOnycLncAJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stages](https://open.spotify.com/album/2QNByn9FQiPfOfqUQe4BzG) | 4:02 |
-| 66 | [HAPPY 🪽](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY 🪽](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
+| 66 | [HAPPY ��](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY ��](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
 | 67 | [House Of Matches](https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c) | 3:01 |
 | 68 | [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 |
 | 69 | [Lovers On The Dancefloor](https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Lovers On The Dancefloor](https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN) | 2:33 |
 | 70 | [No Doubt \(I'm In Love\)](https://open.spotify.com/track/1d9A2iW7ST0Gh7JOlnbJU6) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [No Doubt \(I'm In Love\)](https://open.spotify.com/album/5LVcYFVAeG1y9PgEqtL1C6) | 2:47 |
-| 71 | [God Gotta Afro](https://open.spotify.com/track/1pwH03MgZ8TRTbtrY1hm3O) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Karabo yaMorena Choir](https://open.spotify.com/artist/1cuKOTF769wkqsMyqcgexU) | [God Gotta Afro](https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk) | 2:48 |
+| 71 | [God Gotta Afro](https://open.spotify.com/track/1pwH03MgZ8TRTbtrY1hm3O) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [KARABO YA MORENA](https://open.spotify.com/artist/27tTpZuZ6SMPTYgB0JKvYx) | [God Gotta Afro](https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk) | 2:48 |
 | 72 | [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First \(with mgk\)](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 |
 | 73 | [i got a gun](https://open.spotify.com/track/3KqW72V5DRjWTPMulx3lqi) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [i got a gun](https://open.spotify.com/album/7pxOcKEaGSFMrEPsyIcarp) | 2:37 |
 | 74 | [Check Check](https://open.spotify.com/track/287TkTdofAFvXB4EaT160W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Check Check](https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh) | 3:02 |

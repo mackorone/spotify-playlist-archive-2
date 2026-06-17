@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 6178,
+  "num_followers": 6179,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "HONEY FAMILY",
-        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
-      },
-      "artists": [
-        {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
-        }
-      ],
-      "duration_ms": 293041,
-      "name": "\ub7a9\uad50 1\ub9c9",
-      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Thunderground",
         "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 255866,
       "name": "It\u2019s Me (feat. Epik High & MYK)",
       "url": "https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "HONEY FAMILY",
+        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
+      },
+      "artists": [
+        {
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+        }
+      ],
+      "duration_ms": 293041,
+      "name": "\ub7a9\uad50 1\ub9c9",
+      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "You Don\u2019t Know",
+      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "The Real Me",
         "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 254866,
       "name": "Give It to H.E.R. (feat. Leo Kekoa, Dok2 & Simon Dominic)",
       "url": "https://open.spotify.com/track/1O9ISbgA6X0XnasYehWRtS"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
-      },
-      "artists": [
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "You Don\u2019t Know",
-      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
     },
     {
       "added_at": "2024-11-20 08:34:55",

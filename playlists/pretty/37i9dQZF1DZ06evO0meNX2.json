@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 44762,
+  "num_followers": 44770,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAC/zDwE7a04YHMGguStk0C7",
+  "snapshot_id": "ai9AgAAAAAAq1DuEEb+POCjp0zGmSqHL",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 223743,
-      "name": "Habemus Conciliaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C.H.S.M",
         "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 138533,
       "name": "C.H.S.M",
       "url": "https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 223743,
+      "name": "Habemus Conciliaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
     },
     {
       "added_at": null,

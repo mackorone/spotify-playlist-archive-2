@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96303,
+  "num_followers": 96304,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADbCtmrKO9roDy79X1tyGz3",
+  "snapshot_id": "ai9AgAAAAADa3S6umBOcFOzXZY/y8RHc",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAME DIFFERENCE",
-        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 316097,
-      "name": "NO CALL NO SHOW (feat. NAV)",
-      "url": "https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OMW2 REXDALE",
         "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 183973,
       "name": "YOU (FT DON TOLIVER)",
       "url": "https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 316097,
+      "name": "NO CALL NO SHOW (feat. NAV)",
+      "url": "https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baller",
-        "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 150679,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man (2015)",
         "url": "https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 259472,
       "name": "The Man (2015)",
       "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baller",
+        "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 150679,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
     },
     {
       "added_at": null,

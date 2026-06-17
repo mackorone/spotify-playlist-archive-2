@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by <br/>SMG, Navaan Sandhu & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,836 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,853 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [EX\-FILES](https://open.spotify.com/track/4pFgcMU0LSo73Df61Cge6U) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [EX\-FILES](https://open.spotify.com/album/5rjkff9QkvjWVJ6MVQCF8U) | 3:16 |
 | 2 | [TRIGGER TALK](https://open.spotify.com/track/2uWBUnu5g0bDcct1Rf81Oi) | [Sidhu Bhuchowala](https://open.spotify.com/artist/5rPlgvTA8UqKTAm4prkrkN), [ARSH](https://open.spotify.com/artist/0vzZDYE6Z4rvZXMReRwlHi) | [TRIGGER TALK](https://open.spotify.com/album/5HtNP9lKdXv67svLvXbwUS) | 2:25 |
 | 3 | [No Match](https://open.spotify.com/track/0j3Q8wMPafdgqAu0rAa8Ot) | [Harkabir Honey](https://open.spotify.com/artist/0wMLpmdTTbVj8w1dbu9RqS), [Simar](https://open.spotify.com/artist/4Tw6854stAqKkFzmtG9tej) | [Dope Collapse](https://open.spotify.com/album/4jc9lkF7eMRKitbOR8lZn8) | 3:35 |
-| 4 | [Hood Ambience](https://open.spotify.com/track/2EyifgxOMcfb0MqFsdlekD) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Bipolar](https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp) | 3:43 |
+| 4 | [Hood Ambience](https://open.spotify.com/track/2EyifgxOMcfb0MqFsdlekD) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [Bipolar](https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp) | 3:43 |
 | 5 | [Necklace](https://open.spotify.com/track/3laz4sIizXUqblhzGZpp9s) | [Yaad](https://open.spotify.com/artist/7BcQiaqOonuaKOQAQos74p), [Batth](https://open.spotify.com/artist/6dWOsTtvI75GqXdkXxWlJx) | [Necklace](https://open.spotify.com/album/2I2kMCkKjQejHd1cbWb7pf) | 2:01 |
 | 6 | [Fearless](https://open.spotify.com/track/0Wezz5bHwDaxg63PVytlE3) | [Defy Brar](https://open.spotify.com/artist/23L8BDiXPyuym4oX20luv5), [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Juice Dre](https://open.spotify.com/artist/3vWJMUhCfSym4uJuyr7Hk1) | [Fearless](https://open.spotify.com/album/4eWhNZQujtMcBk98o5Uj73) | 2:57 |
 | 7 | [No Compromiser](https://open.spotify.com/track/2pEiAdQoiBjiShKIMyWWck) | [Biyaan Barundi](https://open.spotify.com/artist/33PPAMlIwEDe7LHadwvEtv), [El Boii](https://open.spotify.com/artist/6TpIEpCtqvzB75UlKvmenG) | [TREASURE](https://open.spotify.com/album/3RKY99wlUOjD6JS7bt3MwU) | 2:45 |

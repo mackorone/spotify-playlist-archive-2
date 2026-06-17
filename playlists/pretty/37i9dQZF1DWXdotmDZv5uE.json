@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 132982,
+  "num_followers": 132966,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
+        "name": "Y si tuviera disquera",
+        "url": "https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U"
+      },
+      "artists": [
+        {
+          "name": "Disidente",
+          "url": "https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Decidir",
+      "url": "https://open.spotify.com/track/7DT6NuQBHmsSvA1RWuxoeX"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
         "name": "mani\u00e1tico",
         "url": "https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 155513,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/0tGKcpAIy4c7bP1pF4USaX"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "Y si tuviera disquera",
-        "url": "https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U"
-      },
-      "artists": [
-        {
-          "name": "Disidente",
-          "url": "https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Decidir",
-      "url": "https://open.spotify.com/track/7DT6NuQBHmsSvA1RWuxoeX"
     },
     {
       "added_at": "2026-06-08 22:39:48",

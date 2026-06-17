@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > Where R&B lives\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,093,108 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,092,436 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

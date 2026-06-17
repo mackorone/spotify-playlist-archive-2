@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,291 likes - 42 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,356 likes - 42 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 41 | [Truth](https://open.spotify.com/track/0N0nwjlcbx58JduDVE8T2E) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4) | 3:43 |
 | 42 | [Delta](https://open.spotify.com/track/0xmkaewV7JMvZCjsFgrdv2) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ) | 6:16 |
 
-Snapshot ID: `ai3vAAAAAAAz3rNY4T0siv01cp6RNmbK`
+Snapshot ID: `ai9AgAAAAACSfz5tAH4RBRn9HOxIIAvf`

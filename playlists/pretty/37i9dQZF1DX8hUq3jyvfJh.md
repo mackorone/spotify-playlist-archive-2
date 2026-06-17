@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,898 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,906 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 32 | [Pavilhão de Espelhos](https://open.spotify.com/track/7hqIOZiFjG8TEnn3NUb69X) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Tudo Que Cantei Sou](https://open.spotify.com/album/4FFKHEourvekB17Y3yRGhq) | 3:17 |
 | 33 | [Beatriz](https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Noites de Gala, Samba Na Rua](https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v) | 4:56 |
 | 34 | [Doce Presença](https://open.spotify.com/track/4izEvMiE7VGx7TEvbsLJ06) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn), [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Voz E Suor](https://open.spotify.com/album/5kFLiVWINVn7Q5N6GVdmDI) | 4:03 |
-| 35 | [MAPA MUNDI](https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:28 |
-| 36 | [Voz de Longe](https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Voz de Longe](https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr) | 3:10 |
+| 35 | [Voz de Longe](https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Voz de Longe](https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr) | 3:10 |
+| 36 | [MAPA MUNDI](https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:28 |
 | 37 | [Gerando na Alta](https://open.spotify.com/track/2VkyGDJt5GufPlriJfDkNJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Gerando na Alta](https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb) | 4:08 |
 | 38 | [Modinha Para Gabriela](https://open.spotify.com/track/5b1lbWCyBEL3u0tSmgvkUb) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Modinha Para Gabriela](https://open.spotify.com/album/584hYWVxQ6cb94MFXKWkxv) | 3:51 |
 | 39 | [Ter Filhos Fortes](https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Ter Filhos Fortes](https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc) | 4:19 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 42 | [Besta](https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Besta](https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK) | 3:01 |
 | 43 | [Jurema do Mar](https://open.spotify.com/track/1MgxzC2nIvg5yn7r4ZUp8U) | [Elisa de Sena](https://open.spotify.com/artist/33l16BPoMAO3bgHH54VLaq), [Luísa de Paula](https://open.spotify.com/artist/3gOX962N98bUrNldMPsb5r) | [Orgânica](https://open.spotify.com/album/1REY8480gnFg0pxEDocOL2) | 3:49 |
 | 44 | [Voltei](https://open.spotify.com/track/6mPPoDXnKWGTXz5e7VI0s7) | [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Põe Esperança Nisso](https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA) | 2:09 |
-| 45 | [Trocando Em Miúdos](https://open.spotify.com/track/2AMts0GdmjrYkEGDmYOql9) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Com Açúcar Com Afeto](https://open.spotify.com/album/0zUlPiXAZDYDJiirhBr4MR) | 2:16 |
-| 46 | [Lá Vem Você](https://open.spotify.com/track/3zzcfYi62uc81Vkoc89kbD) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Lá Vem Você](https://open.spotify.com/album/0dSPkm4Rd4YwrMt8f75yiv) | 2:25 |
+| 45 | [Lá Vem Você](https://open.spotify.com/track/3zzcfYi62uc81Vkoc89kbD) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Lá Vem Você](https://open.spotify.com/album/0dSPkm4Rd4YwrMt8f75yiv) | 2:25 |
+| 46 | [Trocando Em Miúdos](https://open.spotify.com/track/2AMts0GdmjrYkEGDmYOql9) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Com Açúcar Com Afeto](https://open.spotify.com/album/0zUlPiXAZDYDJiirhBr4MR) | 2:16 |
 | 47 | [Há Um Deus](https://open.spotify.com/track/1TdEwIEm1vXjws74SWjyr6) | [Dalva De Oliveira](https://open.spotify.com/artist/5dwu0jLFd2fRnlY8UUJIVk) | [Grossas Nuvens De Amor](https://open.spotify.com/album/3ity1YDXey1PBfyNRden12) | 2:45 |
 | 48 | [Ai, Quem Me Dera](https://open.spotify.com/track/3LCNCC9hJxcRslqQDvaoun) | [Miúcha](https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2) | [Miucha canta Vinícius & Vinícius](https://open.spotify.com/album/7kliSLW5Nxb9pZuh5mFPwj) | 3:17 |
 | 49 | [Pra Rua Me Levar](https://open.spotify.com/track/4sSmA8PySqJIIj7nDRGIO5) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Mega Hits \- Ana Carolina](https://open.spotify.com/album/1bsLUYVIErSL02Busz7ObM) | 3:49 |

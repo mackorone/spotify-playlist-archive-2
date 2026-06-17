@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
-  "num_followers": 105532,
+  "num_followers": 105540,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,26 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
+        "name": "F\u00f3n P\u00f3ca (feat. Travy)",
+        "url": "https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "F\u00f3n P\u00f3ca (feat. Travy)",
+      "url": "https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
         "name": "Supa Smoov (Bumpa's Xtra Smoov Mix)",
         "url": "https://open.spotify.com/album/0S1uf6gfZYHzSjkhHcsSWf"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 199411,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
-        "name": "F\u00f3n P\u00f3ca (feat. Travy)",
-        "url": "https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "Travy",
-          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "F\u00f3n P\u00f3ca (feat. Travy)",
-      "url": "https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
+      },
+      "artists": [
+        {
+          "name": "Desmond",
+          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
+        },
+        {
+          "name": "Dr\u00e9ya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
+    },
+    {
+      "added_at": "2026-06-11 23:00:19",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW"
       },
@@ -1151,22 +1171,6 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Picking Up The Pace",
-        "url": "https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 178777,
-      "name": "Picking Up The Pace",
-      "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
-    },
-    {
-      "added_at": "2026-06-11 23:00:19",
-      "album": {
         "name": "Swings",
         "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
       },
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
+        "name": "Picking Up The Pace",
+        "url": "https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547"
       },
       "artists": [
         {
-          "name": "Desmond",
-          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
-        },
-        {
-          "name": "Dr\u00e9ya Mac",
-          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
         }
       ],
-      "duration_ms": 160285,
-      "name": "Fino",
-      "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
+      "duration_ms": 178777,
+      "name": "Picking Up The Pace",
+      "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
     },
     {
       "added_at": "2026-06-11 23:00:19",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-06-11 23:00:19",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6yYuIVGsnusvBBAXWdmBbx"
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/09slsqibNej7G9AHHekZ92"
       },
       "artists": [
         {
-          "name": "Krafty Kuts",
-          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
         }
       ],
-      "duration_ms": 174705,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1YmphBwn8ByJnWCRixZsxD"
+      "duration_ms": 204090,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/7sYlJeuvvQFKwC9g2M7k9u"
     }
   ],
   "unique_name": "New UK Garage",

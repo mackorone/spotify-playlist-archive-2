@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,204 likes - 35 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,225 likes - 35 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
-| 2 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 |
-| 3 | [I Feel So Free \- Peggy Gou Energy Mix](https://open.spotify.com/track/5zZQc0Dgvz81P4BRt2jGE8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Feel So Free \(Peggy Gou Energy Mix\)](https://open.spotify.com/album/1ceKmL44svlYzu0218VoPt) | 4:27 |
+| 2 | [I Feel So Free \- Peggy Gou Energy Mix](https://open.spotify.com/track/5zZQc0Dgvz81P4BRt2jGE8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Feel So Free \(Peggy Gou Energy Mix\)](https://open.spotify.com/album/1ceKmL44svlYzu0218VoPt) | 4:27 |
+| 3 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 |
 | 4 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 |
 | 5 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 |
 | 6 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 23 | [Day Without Yesterday](https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 5:39 |
 | 24 | [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 |
 | 25 | [Maktoop](https://open.spotify.com/track/7iIzRv3H2BtA03xuAmxiOu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:54 |
-| 26 | [Jigoo \- Radio Edit](https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Jigoo \(Radio Edit\)](https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf) | 4:03 |
-| 27 | [Shero](https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Needs x UN Women Present HeForShe](https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1) | 6:42 |
+| 26 | [Shero](https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Needs x UN Women Present HeForShe](https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1) | 6:42 |
+| 27 | [Jigoo \- Radio Edit](https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Jigoo \(Radio Edit\)](https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf) | 4:03 |
 | 28 | [Your Art](https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 1:57 |
 | 29 | [Troop](https://open.spotify.com/track/7GbhZNoIASAeUjwekiT0sa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 5:53 |
 | 30 | [Six O Six](https://open.spotify.com/track/01aXWzyH9y5prhVJ2tQLY9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 6:06 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 34 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
 | 35 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 |
 
-Snapshot ID: `ai3vAAAAAAB9bVpKvg84mp1KBVbMqFan`
+Snapshot ID: `ai9AgAAAAADhERl2DiaygdvUoqokdj1D`

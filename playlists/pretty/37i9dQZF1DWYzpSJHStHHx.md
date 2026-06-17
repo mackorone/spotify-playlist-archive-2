@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,510 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,502 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 24 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
 | 25 | [Border On Border](https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:34 |
 | 26 | [What's Next](https://open.spotify.com/track/204AwF6xWxX2OakSgEyICI) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [What's Next](https://open.spotify.com/album/1lowgh5rAXOT26cMX6NXaj) | 2:38 |
-| 27 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 |
-| 28 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 |
+| 27 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 |
+| 28 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 |
 | 29 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 |
 | 30 | [Poppies](https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [News of the Universe](https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft) | 3:32 |
 | 31 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 53 | [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 |
 | 54 | [Welcome Back \(To The//Glow\)](https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Welcome Back \(To The//Glow\)](https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp) | 4:45 |
 | 55 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
-| 56 | [Sharks](https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Sharks](https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL) | 3:41 |
-| 57 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
+| 56 | [twenty bucks \(the friend song\)](https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V) | [boxboys](https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9) | [twenty bucks \(the friend song\)](https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB) | 1:53 |
+| 57 | [Sharks](https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Sharks](https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL) | 3:41 |
 | 58 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
 | 59 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
 | 60 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 64 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
 | 65 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
 | 66 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 |
-| 67 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
-| 68 | [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 |
+| 67 | [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 |
+| 68 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
 | 69 | [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 |
 | 70 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
 | 71 | [Stargazer](https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Stargazer](https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID) | 3:02 |

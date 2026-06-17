@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry",
-  "num_followers": 506786,
+  "num_followers": 507105,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
+        "name": "Hooked on the Bassline",
+        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Hooked on the Bassline",
+      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
         "name": "Stomp Your Feet",
         "url": "https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 210580,
       "name": "Stomp Your Feet",
       "url": "https://open.spotify.com/track/494lD6w8j07gDMub1UFd07"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
-        "name": "Hooked on the Bassline",
-        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Hooked on the Bassline",
-      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -439,22 +439,18 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "See Me Coming",
-        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
+        "name": "Die Tonight",
+        "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
       },
       "artists": [
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
         }
       ],
-      "duration_ms": 256511,
-      "name": "See Me Coming",
-      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
+      "duration_ms": 227612,
+      "name": "Die Tonight",
+      "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -515,18 +511,22 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "Die Tonight",
-        "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
+        "name": "See Me Coming",
+        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
       },
       "artists": [
         {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
         }
       ],
-      "duration_ms": 227612,
-      "name": "Die Tonight",
-      "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
+      "duration_ms": 256511,
+      "name": "See Me Coming",
+      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -599,6 +599,26 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
+        "name": "Dance In The Light",
+        "url": "https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 230886,
+      "name": "Dance In The Light",
+      "url": "https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
         "name": "BLOW IT UP",
         "url": "https://open.spotify.com/album/5hwnKzCJXnIFdvbrziT6si"
       },
@@ -635,22 +655,22 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "Dance In The Light",
-        "url": "https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF"
+        "name": "300G",
+        "url": "https://open.spotify.com/album/59grAMlOifI3fj7sn4PEXg"
       },
       "artists": [
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Bekkaa",
+          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
         }
       ],
-      "duration_ms": 230886,
-      "name": "Dance In The Light",
-      "url": "https://open.spotify.com/track/7hFfVcwHyNWVTbLCdT4wnz"
+      "duration_ms": 178000,
+      "name": "300G",
+      "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -675,22 +695,22 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "Rolling",
-        "url": "https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy"
+        "name": "Kick Drum Talk",
+        "url": "https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
         },
         {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
         }
       ],
-      "duration_ms": 164800,
-      "name": "Rolling",
-      "url": "https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc"
+      "duration_ms": 227250,
+      "name": "Kick Drum Talk",
+      "url": "https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -711,46 +731,22 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "300G",
-        "url": "https://open.spotify.com/album/59grAMlOifI3fj7sn4PEXg"
+        "name": "Rolling",
+        "url": "https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy"
       },
       "artists": [
         {
-          "name": "Kobosil",
-          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "Bekkaa",
-          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 178000,
-      "name": "300G",
-      "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
-          "name": "Stisema",
-          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
-        },
-        {
-          "name": "Lulu Voxx",
-          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
-        }
-      ],
-      "duration_ms": 168124,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+      "duration_ms": 164800,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -775,22 +771,26 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "Kick Drum Talk",
-        "url": "https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
       },
       "artists": [
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         },
         {
-          "name": "Anderex",
-          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+          "name": "Stisema",
+          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
+        },
+        {
+          "name": "Lulu Voxx",
+          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
         }
       ],
-      "duration_ms": 227250,
-      "name": "Kick Drum Talk",
-      "url": "https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j"
+      "duration_ms": 168124,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "Nobody EP",
-        "url": "https://open.spotify.com/album/6A10XLlVnPAbASx866mMr8"
+        "name": "4 Da Ravers",
+        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
       "artists": [
         {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 199966,
-      "name": "Without Me (Nobody)",
-      "url": "https://open.spotify.com/track/4Bht2REFx5AxM48HMEi5BQ"
+      "duration_ms": 153290,
+      "name": "4 Da Ravers",
+      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "4 Da Ravers",
-        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
+        "name": "Nobody EP",
+        "url": "https://open.spotify.com/album/6A10XLlVnPAbASx866mMr8"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
         }
       ],
-      "duration_ms": 153290,
-      "name": "4 Da Ravers",
-      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
+      "duration_ms": 199966,
+      "name": "Without Me (Nobody)",
+      "url": "https://open.spotify.com/track/4Bht2REFx5AxM48HMEi5BQ"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -1075,6 +1075,70 @@
       "duration_ms": 381118,
       "name": "Purple Widow",
       "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
+        "name": "Rave Kid EP",
+        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "LaLaLo",
+      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
+        "name": "Turn The Music Down",
+        "url": "https://open.spotify.com/album/5ooFxrtOHrD0IEfnmhV6dL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Turn The Music Down",
+      "url": "https://open.spotify.com/track/71FDSY7yVj6NzoAqb9E1ah"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
+        "name": "Human Attraction",
+        "url": "https://open.spotify.com/album/4NCWOMEJF8EW83pbBAe20C"
+      },
+      "artists": [
+        {
+          "name": "Mattia Trani",
+          "url": "https://open.spotify.com/artist/0eQjVfBtEcSZ16oAq0V4mk"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Human Attraction",
+      "url": "https://open.spotify.com/track/32d7VRKwo03sQZXnaMobQa"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
+        "name": "DIE TONIGHT EP",
+        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "duration_ms": 194509,
+      "name": "Kummer",
+      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -1107,54 +1171,6 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "DIE TONIGHT EP",
-        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Kummer",
-      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
-        "name": "Human Attraction",
-        "url": "https://open.spotify.com/album/4NCWOMEJF8EW83pbBAe20C"
-      },
-      "artists": [
-        {
-          "name": "Mattia Trani",
-          "url": "https://open.spotify.com/artist/0eQjVfBtEcSZ16oAq0V4mk"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Human Attraction",
-      "url": "https://open.spotify.com/track/32d7VRKwo03sQZXnaMobQa"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
-        "name": "Turn The Music Down",
-        "url": "https://open.spotify.com/album/5ooFxrtOHrD0IEfnmhV6dL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Turn The Music Down",
-      "url": "https://open.spotify.com/track/71FDSY7yVj6NzoAqb9E1ah"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
         "name": "Rave 4 love",
         "url": "https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU"
       },
@@ -1167,30 +1183,6 @@
       "duration_ms": 301627,
       "name": "Rave 4 love",
       "url": "https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
-        "name": "HEAR THIZ MF",
-        "url": "https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX"
-      },
-      "artists": [
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        }
-      ],
-      "duration_ms": 143264,
-      "name": "HEAR THIZ MF",
-      "url": "https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -1259,6 +1251,30 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
+        "name": "HEAR THIZ MF",
+        "url": "https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 143264,
+      "name": "HEAR THIZ MF",
+      "url": "https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
         "name": "HIT IT BOY",
         "url": "https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u"
       },
@@ -1299,6 +1315,22 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
+        "name": "EUROCLUB",
+        "url": "https://open.spotify.com/album/3dErNe80z63631S7obJfB5"
+      },
+      "artists": [
+        {
+          "name": "EUROCLUB",
+          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/05sPKbE10KPJ2kUVHZGYY9"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
         "name": "Kick Bass In Your Face",
         "url": "https://open.spotify.com/album/0MKm3xNFKPhhDGc16DoT3G"
       },
@@ -1315,22 +1347,6 @@
       "duration_ms": 164053,
       "name": "Kick Bass In Your Face",
       "url": "https://open.spotify.com/track/50aNLhnlmcuJQ2iF7Bpd6q"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
-        "name": "EUROCLUB",
-        "url": "https://open.spotify.com/album/3dErNe80z63631S7obJfB5"
-      },
-      "artists": [
-        {
-          "name": "EUROCLUB",
-          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "TEMPO",
-      "url": "https://open.spotify.com/track/05sPKbE10KPJ2kUVHZGYY9"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -1367,22 +1383,6 @@
       "duration_ms": 202838,
       "name": "Shivaya - Remix",
       "url": "https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
-        "name": "Rave Kid EP",
-        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
-      },
-      "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "LaLaLo",
-      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
-        "name": "Venezia",
-        "url": "https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Venezia",
-      "url": "https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
         "name": "Touch It (feat. Jazmine Johnson)",
         "url": "https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 142454,
       "name": "Touch It (feat. Jazmine Johnson)",
       "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
+        "name": "Venezia",
+        "url": "https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 232941,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
+        "name": "REMEMBER THIS FACE",
+        "url": "https://open.spotify.com/album/3cYKPp26P57F81IdlAtSnI"
+      },
+      "artists": [
+        {
+          "name": "KLOFAMA",
+          "url": "https://open.spotify.com/artist/4oqOypVzFhq3syFLHJZc68"
+        },
+        {
+          "name": "WINSON",
+          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
+        }
+      ],
+      "duration_ms": 231374,
+      "name": "REMEMBER THIS FACE",
+      "url": "https://open.spotify.com/track/7bwjc2oYo6mkLblcqh0IcD"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
         "name": "2005",
         "url": "https://open.spotify.com/album/4xhy1R0xkrbmbiE24QH1V0"
       },
@@ -1779,6 +1799,22 @@
     {
       "added_at": "2026-06-11 22:02:57",
       "album": {
+        "name": "Nightcore",
+        "url": "https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W"
+      },
+      "artists": [
+        {
+          "name": "Lady Maru",
+          "url": "https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Nightcore",
+      "url": "https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz"
+    },
+    {
+      "added_at": "2026-06-11 22:02:57",
+      "album": {
         "name": "DRONE (LESSSS EDIT)",
         "url": "https://open.spotify.com/album/4v5GFSdaDlbNItNJgO3qrE"
       },
@@ -1795,22 +1831,6 @@
       "duration_ms": 172307,
       "name": "DRONE - LESSSS EDIT",
       "url": "https://open.spotify.com/track/0Ns77ZocJgmY9dSHGesXij"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
-        "name": "Nightcore",
-        "url": "https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W"
-      },
-      "artists": [
-        {
-          "name": "Lady Maru",
-          "url": "https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Nightcore",
-      "url": "https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz"
     },
     {
       "added_at": "2026-06-11 22:02:57",
@@ -1879,22 +1899,6 @@
       "duration_ms": 255584,
       "name": "Phatt Bass",
       "url": "https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi"
-    },
-    {
-      "added_at": "2026-06-11 22:02:57",
-      "album": {
-        "name": "Medication",
-        "url": "https://open.spotify.com/album/1IdQJt6AVL8VJ5J3yIb8XL"
-      },
-      "artists": [
-        {
-          "name": "D\u00d8MINA",
-          "url": "https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD"
-        }
-      ],
-      "duration_ms": 238509,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm"
     },
     {
       "added_at": "2026-06-11 22:02:57",

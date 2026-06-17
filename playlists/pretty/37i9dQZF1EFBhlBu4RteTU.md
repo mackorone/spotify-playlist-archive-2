@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2TvuFmg5Ep8sodlGHVo1DI">Daniel Nigro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,266 likes - 188 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,278 likes - 188 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBhlBu4RteTU.md) - [plain]
 | 187 | [True Colors](https://open.spotify.com/track/47ICNqdMooisXYDY9063pY) | [Emi Secrest](https://open.spotify.com/artist/1bDakkWepyTf2HyB4ePueW) | [Blue](https://open.spotify.com/album/1WP3BlwTyHkhTCgEiTrrWt) | 2:38 |
 | 188 | [Room Full of Mirrors](https://open.spotify.com/track/575owOjbSHWq3uMcDNGGWa) | [Erick Serna and The Killing Floor](https://open.spotify.com/artist/2JfFx5R68c7Sv8d0DE3tpZ) | [Room Full of Mirrors](https://open.spotify.com/album/0glMPgDt0hUuMU3pE042BN) | 2:59 |
 
-Snapshot ID: `AcUUogAAAAA916XCeDI63EdgEpgimGvL`
+Snapshot ID: `AcUaBgAAAADzZFic8sAHGhFiTLcQiK/7`

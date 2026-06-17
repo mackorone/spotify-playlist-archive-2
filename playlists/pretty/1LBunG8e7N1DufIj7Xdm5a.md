@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,521 songs - 10 day 1 hr 47 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,524 songs - 10 day 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1459,7 +1459,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 1449 | [KIAB](https://open.spotify.com/track/41SrMsuL85kzTSkgQC0sqC) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [KIAB](https://open.spotify.com/album/15zi6UC7uuAOJmw8ZP04mG) | 1:50 |
 | 1450 | [GAWD](https://open.spotify.com/track/1BSylA531DI1EsLlWCIPYR) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [GAWD](https://open.spotify.com/album/6tijc0hDKo3wkxb8wR7Drj) | 3:01 |
 | 1451 | [BABY GIRL](https://open.spotify.com/track/71gZCe7n2hWNZzI5sRB1wf) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [BABY GIRL](https://open.spotify.com/album/7xiPjYiBgc9HXt9DsPYd7E) | 2:03 |
-| 1452 | [Void Universe](https://open.spotify.com/track/6G0oEwBz3LBTTlooZd0BMW) | [UAC Records](https://open.spotify.com/artist/5YMC2DzzURBLoxLrUKOyF6) | [Void Universe](https://open.spotify.com/album/5M58cr7ds1CDZKiNvSmFxq) | 1:56 |
+| 1452 | [Void Universe](https://open.spotify.com/track/6G0oEwBz3LBTTlooZd0BMW) | [Raxor Echo](https://open.spotify.com/artist/3jhsJILxW1srrCzxC2vt2U) | [Void Universe](https://open.spotify.com/album/5M58cr7ds1CDZKiNvSmFxq) | 1:56 |
 | 1453 | [BRUCEWAYNE](https://open.spotify.com/track/5b8aoBB4T9VqYLwQC9SCqk) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [BRUCEWAYNE](https://open.spotify.com/album/0oeZt3vQXhs7sDyHGGcBFc) | 2:02 |
 | 1454 | [Windowlight](https://open.spotify.com/track/5t7LtK35ZNp8m5HLBzNaOP) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Soft Steps](https://open.spotify.com/album/3tdc0NtvsXTQcsB3qkWqq3) | 2:06 |
 | 1455 | [Still Streets](https://open.spotify.com/track/5LoIhSmzdEyBik5b7BKTxi) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Soft Steps](https://open.spotify.com/album/3tdc0NtvsXTQcsB3qkWqq3) | 2:34 |
@@ -3842,7 +3842,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3832 | [Zero Zero Bea](https://open.spotify.com/track/19CUgCwq0XFKoxNTJ6DUeD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zero Zero Bea](https://open.spotify.com/album/4rejGPN2godXFUiaXAlIWM) | 2:08 |
 | 3833 | [Sound from Tide](https://open.spotify.com/track/4ahKRHIOPEQAQAjOXFXAVY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Sound from Tide](https://open.spotify.com/album/3ZC7LZ0ltm5svIucV0Qp4V) | 2:51 |
 | 3834 | [Siempre Tú](https://open.spotify.com/track/7fLw5K3VyOCVbGybBvEMtM) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [DJ DODY](https://open.spotify.com/artist/0y1hN8B09taNHRu4nQnW6g), [DJ MIKY](https://open.spotify.com/artist/6PicgxyeAhjzXUeLiZ1mfb) | [Siempre Tú](https://open.spotify.com/album/7dxPaACWSsPxhQVL7x7t45) | 2:52 |
-| 3835 | [una luce dentro me](https://open.spotify.com/track/3bACK6FuhWg4suuJWRNoH6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:52 |
+| 3835 | [Una Luce dentro Me](https://open.spotify.com/track/3bACK6FuhWg4suuJWRNoH6) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:52 |
 | 3836 | [Raise the Jolly Roger](https://open.spotify.com/track/24LE4OczzhrtQeicROhu5y) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Raise the Jolly Roger](https://open.spotify.com/album/2fes4SUDmlPJYWtiQqCMMu) | 3:07 |
 | 3837 | [PARA SIEMPRE](https://open.spotify.com/track/3kwAFSdi5Qzy1fzdhZqirn) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [DJ MIKY](https://open.spotify.com/artist/6PicgxyeAhjzXUeLiZ1mfb) | [PARA SIEMPRE](https://open.spotify.com/album/0IL9V903lZLvtzsfTKT2K3) | 3:22 |
 | 3838 | [GIALLO NERI FOREVER SUMMER 2025 \- REMIX](https://open.spotify.com/track/4UJd2xAGXXPlNJQIqsFbZp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:42 |
@@ -4529,5 +4529,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4519 | [Roter Opel Corsa](https://open.spotify.com/track/5CKiuK5boB0Z0ZlJjBtrHx) | [Kurz Nach Zwei](https://open.spotify.com/artist/34HHh4DGoveVYp8DGds5z6) | [Roter Opel Corsa](https://open.spotify.com/album/7ctX9xeI5FMMoBYr8u0BGP) | 3:02 |
 | 4520 | [Grand Social](https://open.spotify.com/track/5VXh6UbjkesZvwpUrGYs2c) | [Von Loop](https://open.spotify.com/artist/7xj9QGmzc8LLQU8sCsFYcN) | [Grand Social](https://open.spotify.com/album/0sITVX4ltEr8W19hfLmKes) | 2:59 |
 | 4521 | [Critical Mass](https://open.spotify.com/track/4spaTikylB1WV0ckpALzH7) | [Shiny Baubles](https://open.spotify.com/artist/2GfcjLOZP7VNM2uI6ZPOVj) | [Critical Mass](https://open.spotify.com/album/1A6frMXAG6GRbl9SJMbR6S) | 2:43 |
+| 4522 | [Nightshade Serenity](https://open.spotify.com/track/1B327qlw8AmnDGqUd1jiEj) | [Screams of Tranquility](https://open.spotify.com/artist/0gin8Rgot6p6gKUBVEzw6s) | [Nightshade Serenity](https://open.spotify.com/album/4j2RC6qX1cWLWeA2epb9zu) | 3:52 |
+| 4523 | [She speaks in numbers](https://open.spotify.com/track/0ueey7xc28u36TcRpfoMWg) | [VicDigital](https://open.spotify.com/artist/5HbzK4iHOYfQxxBlHLPaOO), [Pr0fess0r](https://open.spotify.com/artist/2WssrSCJ4rSLFIQUqmRsxp) | [She speaks in numbers](https://open.spotify.com/album/7yoOw4R6VsdhlY4d2z0Z5G) | 3:30 |
+| 4524 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 |
 
-Snapshot ID: `AAAI4ux9px8Nwq7usvSuD+kiphQNB95H`
+Snapshot ID: `AAAI5Rry1e8g0zMmOnQj+MhC+rbNu0P6`

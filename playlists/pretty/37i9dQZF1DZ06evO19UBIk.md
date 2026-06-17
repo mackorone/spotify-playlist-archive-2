@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,398 likes - 43 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,412 likes - 43 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 26 | [Strange Days](https://open.spotify.com/track/4WFVX3E568hdAixIj3U222) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:06 |
 | 27 | [Gloria \- Live; 2007 Remaster](https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Very Best of the Doors](https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY) | 6:18 |
 | 28 | [Breakn' a Sweat](https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 5:01 |
-| 29 | [The Spy](https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:15 |
+| 29 | [Hyacinth House](https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:10 |
 | 30 | [Moonlight Drive](https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:01 |
-| 31 | [Hyacinth House](https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:10 |
+| 31 | [The Spy](https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:15 |
 | 32 | [Spanish Caravan](https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:58 |
 | 33 | [Yachting \(Hyper\)](https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Nights of Stone](https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB) | 0:30 |
 | 34 | [When the Music's Over](https://open.spotify.com/track/42dsUTJpzMWUJfEkzsbKWl) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 10:59 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 42 | [Shaman's Blues](https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 4:47 |
 | 43 | [Wishful Sinful](https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:55 |
 
-Snapshot ID: `ai3vAAAAAACPAT2SXdhs3VurF/4D9LUz`
+Snapshot ID: `ai9AgAAAAAAiW/Z8B0fgI9AK26R8m/MC`

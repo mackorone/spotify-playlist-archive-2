@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 53216,
+  "num_followers": 53214,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAC7lC6QBaIZSdfrRLNl1VIm",
+  "snapshot_id": "ai9AgAAAAAD0PchVLQOx8GnGHQ2BzsWt",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call It Home, Vol. 1",
-        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 248080,
-      "name": "Call It Home",
-      "url": "https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genius Loves Company",
         "url": "https://open.spotify.com/album/1q7GZdqLKlHHwJ6vEISxKE"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 274910,
       "name": "Do I Ever Cross Your Mind",
       "url": "https://open.spotify.com/track/0Ujhv3IvhIKshwbq6Ws0Ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call It Home, Vol. 1",
+        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 248080,
+      "name": "Call It Home",
+      "url": "https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 303800,
       "name": "Not The Only One",
       "url": "https://open.spotify.com/track/13p06XYJaV05Q65hSU87jW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Papa Come Quick (Jody And Chico)",
+      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Struck Down",
         "url": "https://open.spotify.com/album/45z66GJ4emGqjOq9TInN5j"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 235880,
       "name": "Nothing in Rambling (ft. Bonnie Raitt, Keb' Mo', Taj Mahal & Mick Fleetwood)",
       "url": "https://open.spotify.com/track/0Ob3apMTtBSVq08Fxfqjlu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Papa Come Quick (Jody And Chico)",
-      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Not Cause I Wanted To",
-      "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home Plate (2008 Remaster)",
         "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 167200,
       "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
       "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Not Cause I Wanted To",
+      "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

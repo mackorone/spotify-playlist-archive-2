@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Toldos Verdes, MaiteQuiero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,354 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,361 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 98 | [Castellón está helado](https://open.spotify.com/track/2MHu8fOJ9mLSoAJnCB11tT) | [Perfecto Miserable](https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon) | [Acabará fatal](https://open.spotify.com/album/35AmpMOX7IAqI2CdWKfGQU) | 3:12 |
 | 99 | [no estás en tu prime](https://open.spotify.com/track/1GV0C3BFIBKrDJ1u9krFZM) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [no estás en tu prime](https://open.spotify.com/album/1YeE34MXlTAoLC9awC0FmX) | 2:42 |
 
-Snapshot ID: `AAAAAGmK/qdQ4L5chCcAXhYzr5cwoU61`
+Snapshot ID: `AAAAAGR3bqbaHUgkh+cZA1Ov/Ae6zC+e`

@@ -1,13 +1,29 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 40690,
+  "num_followers": 40693,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABd8O/d/7ri/6R5R+acCaNw",
+  "snapshot_id": "ai9AgAAAAAB5xv2IU47VMzXCkpeGBfy5",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Casta diva",
+      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
+    },
     {
       "added_at": null,
       "album": {
@@ -35,22 +51,6 @@
       "duration_ms": 283934,
       "name": "Puccini: Madama Butterfly, Act 2: \"Un bel d\u00ec vedremo\" (Butterfly)",
       "url": "https://open.spotify.com/track/69EKwvg7nkdOO3RmeUMJZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Casta diva",
-      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BD Music Presents Maria Callas",
+        "url": "https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 281946,
+      "name": "Madame Butterfly: Un bel di, vedremo",
+      "url": "https://open.spotify.com/track/6oKWBxOT37SPyRkT6xHhH4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best of Maria Callas",
         "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 173800,
       "name": "Puccini: Manon Lescaut, Act 2: \"In quelle trine morbide\" (Manon)",
       "url": "https://open.spotify.com/track/3b605LvKl9a6ZtwrKn50xU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BD Music Presents Maria Callas",
-        "url": "https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 281946,
-      "name": "Madame Butterfly: Un bel di, vedremo",
-      "url": "https://open.spotify.com/track/6oKWBxOT37SPyRkT6xHhH4"
     },
     {
       "added_at": null,
@@ -1087,6 +1087,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
+        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Victor de Sabata",
+          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Tosca, Act III: Largo, Mario Cavaradossi A voi. (Carceriere, Cavaradossi)",
+      "url": "https://open.spotify.com/track/2Q9YSfNbMR4MsNwkxLpJZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Boh\u00e8me - Puccini",
         "url": "https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp"
       },
@@ -1155,22 +1179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandiose Stimmen: Maria Callas",
-        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 131933,
-      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
-      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -1199,26 +1207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Giacomo Puccini: Tosca (Maria Callas, Vol. 3)",
-        "url": "https://open.spotify.com/album/3Y6LYQMDZddFSdyLDwq6ZK"
+        "name": "Grandiose Stimmen: Maria Callas",
+        "url": "https://open.spotify.com/album/7JVclT7eBui5eWSnde53uP"
       },
       "artists": [
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Victor de Sabata",
-          "url": "https://open.spotify.com/artist/6pkOp4PgHXN7BRIEMEi1wt"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Tosca, Act III: Largo, Mario Cavaradossi A voi. (Carceriere, Cavaradossi)",
-      "url": "https://open.spotify.com/track/2Q9YSfNbMR4MsNwkxLpJZ5"
+      "duration_ms": 131933,
+      "name": "\" La Traviata \" : Amami Alfredo (Act II) - Digitally Remastered",
+      "url": "https://open.spotify.com/track/0wtpkz93wATDkUExJVuXEl"
     },
     {
       "added_at": null,

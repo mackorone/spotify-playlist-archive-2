@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132631,
+  "num_followers": 132632,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,22 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Ja Eller Nej",
-        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
+        "name": "Latu on auki",
+        "url": "https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE"
       },
       "artists": [
         {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+          "name": "Kaija Koo",
+          "url": "https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq"
         },
         {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
         }
       ],
-      "duration_ms": 152691,
-      "name": "Ja Eller Nej",
-      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
+      "duration_ms": 180000,
+      "name": "Latu on auki",
+      "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -387,22 +387,22 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Latu on auki",
-        "url": "https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE"
+        "name": "Ja Eller Nej",
+        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
       },
       "artists": [
         {
-          "name": "Kaija Koo",
-          "url": "https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq"
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
         },
         {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Latu on auki",
-      "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
+      "duration_ms": 152691,
+      "name": "Ja Eller Nej",
+      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "CEO (Rich Man)",
-        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
-      },
-      "artists": [
-        {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        }
-      ],
-      "duration_ms": 149634,
-      "name": "CEO (Rich Man)",
-      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
         "name": "\u00c4l\u00e4 mee",
         "url": "https://open.spotify.com/album/53Lizt5ZH7SeT07STfMUlq"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 229322,
       "name": "\u00c4l\u00e4 mee",
       "url": "https://open.spotify.com/track/4OIjkwaRD7RtUUyfSmMIUd"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "CEO (Rich Man)",
+        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "duration_ms": 149634,
+      "name": "CEO (Rich Man)",
+      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
+        "name": "SUOMI SOIMAAN",
+        "url": "https://open.spotify.com/album/6S7ManFfpG2utmKFgyyDtK"
+      },
+      "artists": [
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "duration_ms": 218651,
+      "name": "Helmi",
+      "url": "https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
         "name": "S\u00e4 olit oikees",
         "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 179331,
       "name": "Se mit\u00e4 ei ollut koskaan (feat. pehmoaino)",
       "url": "https://open.spotify.com/track/3WgijA0QBwSSe2HcUgdPlx"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
-        "name": "SUOMI SOIMAAN",
-        "url": "https://open.spotify.com/album/6S7ManFfpG2utmKFgyyDtK"
-      },
-      "artists": [
-        {
-          "name": "Vesta",
-          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
-        }
-      ],
-      "duration_ms": 218651,
-      "name": "Helmi",
-      "url": "https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Poikayst\u00e4v\u00e4",
-        "url": "https://open.spotify.com/album/7xGPf3ct9ufbq9Y49yaHnF"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        },
-        {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        }
-      ],
-      "duration_ms": 139868,
-      "name": "Poikayst\u00e4v\u00e4",
-      "url": "https://open.spotify.com/track/2cqjDWpkxpMQVHVPJENnhi"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
         "name": "Nelisilm\u00e4",
         "url": "https://open.spotify.com/album/7FSBswIQNkULZekmzge9T5"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 120900,
       "name": "Nelisilm\u00e4",
       "url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "Poikayst\u00e4v\u00e4",
+        "url": "https://open.spotify.com/album/7xGPf3ct9ufbq9Y49yaHnF"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "duration_ms": 139868,
+      "name": "Poikayst\u00e4v\u00e4",
+      "url": "https://open.spotify.com/track/2cqjDWpkxpMQVHVPJENnhi"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Sin\u00e4 ja se poitsu",
-        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
-        }
-      ],
-      "duration_ms": 183957,
-      "name": "Sin\u00e4 ja se poitsu",
-      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
         "name": "SHOTIT",
         "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 154659,
       "name": "SHOTIT",
       "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "Sin\u00e4 ja se poitsu",
+        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "duration_ms": 183957,
+      "name": "Sin\u00e4 ja se poitsu",
+      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "FATHER (I Will Never Confess)",
-        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
-      },
-      "artists": [
-        {
-          "name": "Erika Vikman",
-          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
-        }
-      ],
-      "duration_ms": 198250,
-      "name": "FATHER (I Will Never Confess)",
-      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
         "name": "Maailma on mun",
         "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 182438,
       "name": "Kaikki on mahollist",
       "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "FATHER (I Will Never Confess)",
+        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "FATHER (I Will Never Confess)",
+      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Vitun Inee",
-        "url": "https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        },
-        {
-          "name": "Sliki",
-          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
-        }
-      ],
-      "duration_ms": 178047,
-      "name": "Vitun Inee",
-      "url": "https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
         "name": "Entiseen el\u00e4m\u00e4\u00e4n",
         "url": "https://open.spotify.com/album/1JHx48hhuAxO1HSsQb2KWw"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 170831,
       "name": "Entiseen el\u00e4m\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/0M4OVohVXlUFJDT4PIxlTX"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
+        "name": "Vitun Inee",
+        "url": "https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "duration_ms": 178047,
+      "name": "Vitun Inee",
+      "url": "https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
+        "name": "Kun tulee pimee",
+        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Kun tulee pimee",
+      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "added_at": "2026-06-11 21:00:45",
+      "album": {
         "name": "Syd\u00e4n (feat. Alina Burnet)",
         "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Kun tulee pimee",
-        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
+        "name": "Pahoille teille",
+        "url": "https://open.spotify.com/album/30uvqyR8zMCrmnZ6IGwH31"
       },
       "artists": [
         {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
         }
       ],
-      "duration_ms": 165269,
-      "name": "Kun tulee pimee",
-      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+      "duration_ms": 158472,
+      "name": "Pahoille teille",
+      "url": "https://open.spotify.com/track/4xaNQ6k3xiZ6dAyI5hJGwA"
     },
     {
       "added_at": "2026-06-11 21:00:45",
@@ -1207,38 +1223,26 @@
     {
       "added_at": "2026-06-11 21:00:45",
       "album": {
-        "name": "Pahoille teille",
-        "url": "https://open.spotify.com/album/30uvqyR8zMCrmnZ6IGwH31"
+        "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
+        "url": "https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI"
       },
       "artists": [
         {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
-        }
-      ],
-      "duration_ms": 158472,
-      "name": "Pahoille teille",
-      "url": "https://open.spotify.com/track/4xaNQ6k3xiZ6dAyI5hJGwA"
-    },
-    {
-      "added_at": "2026-06-11 21:00:45",
-      "album": {
-        "name": "Fokus",
-        "url": "https://open.spotify.com/album/1E8TWDERXQrfgFOSkNfPzM"
-      },
-      "artists": [
-        {
-          "name": "Sonia",
-          "url": "https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah"
+          "name": "DJ Oku Luukkainen",
+          "url": "https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao"
         },
         {
-          "name": "Evelina",
-          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        },
+        {
+          "name": "Mesi",
+          "url": "https://open.spotify.com/artist/68zU74Eh64E8BWVSBYG8JP"
         }
       ],
-      "duration_ms": 161571,
-      "name": "Fokus",
-      "url": "https://open.spotify.com/track/11JysdSFvhAWCgiu53mBAO"
+      "duration_ms": 185213,
+      "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
+      "url": "https://open.spotify.com/track/0oP4VOetjYzizuxP62g6Hk"
     }
   ],
   "unique_name": "#vainsuomihitit",

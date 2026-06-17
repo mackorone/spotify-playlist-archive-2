@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: izna
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: STAYC
 
-1,755 songs - 3 day 20 hr 28 min
+1,756 songs - 3 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [1,2,3 Eoi!](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:56 | 2022-10-11 | 2023-01-18 |
 | [1\-4\-3](https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [I MET PEEJAY](https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8) | 3:28 | 2025-05-06 | 2025-08-20 |
 | [100!](https://open.spotify.com/track/2Zd5mKEDcw4I5ykv5ZQGyZ) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [PINK CRUSH](https://open.spotify.com/album/6w7J6E5wHhGDWPIVRaoAvl) | 3:13 | 2025-02-14 | 2025-03-07 |
+| [2 L0VE](https://open.spotify.com/track/6RFwKZfqEfRfz9aJMuxeBq) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [2:LOVE](https://open.spotify.com/album/1kslbMVRXKMwhPlyVI4MWg) | 3:01 | 2026-06-16 |  |
 | [20](https://open.spotify.com/track/5RKOv93gklmKCI1YqmYUUo) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [20](https://open.spotify.com/album/4HmfQKakoYL6zCO4EOoeom) | 3:29 | 2024-06-25 | 2024-09-07 |
 | [24Lovers](https://open.spotify.com/track/75kQL2NMfZHbrOlvo36etS) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [YOU&ME](https://open.spotify.com/album/4s0X27vaIZQHOdksekOMmE) | 3:46 | 2024-07-30 | 2024-08-21 |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-04 | 2022-11-23 |
@@ -297,7 +298,7 @@
 | [Classified](https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dreamy Resonance](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) | 3:14 | 2024-08-27 | 2024-11-30 |
 | [Click](https://open.spotify.com/track/2kFUlPHiyXAYMfE0fhoRS4) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Click](https://open.spotify.com/album/1kzTxZPwbdRGZFP0Nt7p0f) | 2:45 | 2024-04-18 | 2024-08-28 |
 | [Close to You](https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [When the Stars Gossip OST Part.3](https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc) | 3:48 | 2025-01-28 | 2025-03-07 |
-| [CLOSER](https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:38 | 2025-08-10 |  |
+| [CLOSER](https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:38 | 2025-08-10 | 2026-06-17 |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-21 | 2024-06-01 |
 | [cloud palace](https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [cloud palace \~ false awakening](https://open.spotify.com/album/5tWqAvfjjRelNvWFNrV8hK) | 3:21 | 2026-01-27 | 2026-05-06 |
 | [CODE](https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [CODE](https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt) | 2:35 | 2026-03-03 |  |
@@ -895,7 +896,7 @@
 | [LUV LUV LUV \(Korean Version\)](https://open.spotify.com/track/7gFp8lhfCrQCskkTzLaFA6) | [GreatGuys](https://open.spotify.com/artist/5rl5eIP9MogVsjbIVUKK1y) | [RECORD OF YOUTH EP.1 DESTINY](https://open.spotify.com/album/3TDpMWzZ1xDZwYGS42bEnp) | 2:47 | 2023-06-20 | 2023-07-26 |
 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-21 | 2025-03-03 |
 | [LとR](https://open.spotify.com/track/5MCaQgkjsaR8djogfrqI3z) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [LとR](https://open.spotify.com/album/4g5hgAFN90DBWd6OqVjJJJ) | 3:16 | 2026-01-15 | 2026-02-27 |
-| [M.O.](https://open.spotify.com/track/47NwSLlHRxiOecNfn2F6fx) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Motivation](https://open.spotify.com/album/1MGk5at6tNVMdfRRuODKOv) | 3:02 | 2025-09-17 |  |
+| [M.O.](https://open.spotify.com/track/47NwSLlHRxiOecNfn2F6fx) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Motivation](https://open.spotify.com/album/1MGk5at6tNVMdfRRuODKOv) | 3:02 | 2025-09-17 | 2026-06-17 |
 | [MACARONI CHEESE](https://open.spotify.com/track/1CqMpf1w1IPWWq4Zxa2RxK) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [MACARONI CHEESE EP](https://open.spotify.com/album/3maKjITApQfhgJ13DflK8e) | 2:25 | 2023-10-17 | 2023-11-29 |
 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 | 2024-05-01 | 2024-09-04 |
 | [Magic Clock](https://open.spotify.com/track/1XzmDchjeqwC0VVjHuxKFz) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [Magic Clock](https://open.spotify.com/album/4m3R9tE7P4F9jqYYPgPJBK) | 2:13 | 2025-03-06 | 2025-05-07 |
@@ -963,7 +964,7 @@
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-05-01 | 2025-08-07 |
 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 | 2025-03-16 | 2025-04-15 |
 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-05-13 | 2025-10-18 |
-| [MWUAH](https://open.spotify.com/track/7C5PtQv9ZDBMc3qcX5fOCh) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAY ALIVE](https://open.spotify.com/album/6KjZQ12xWAUXGNnjNWAMZh) | 3:00 | 2026-02-10 |  |
+| [MWUAH](https://open.spotify.com/track/7C5PtQv9ZDBMc3qcX5fOCh) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAY ALIVE](https://open.spotify.com/album/6KjZQ12xWAUXGNnjNWAMZh) | 3:00 | 2026-02-10 | 2026-06-17 |
 | [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 | 2025-10-12 | 2025-12-05 |
 | [MY CHAINZ](https://open.spotify.com/track/6C6rjZngS63ZBv8M5jkVRG) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [MY CHAINZ](https://open.spotify.com/album/3AJ0LQUcQEE3lmhXogpfd5) | 3:18 | 2026-04-30 | 2026-05-30 |
 | [My Christmas Sweet Love](https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:45 | 2024-12-19 | 2025-05-02 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14835,
+  "num_followers": 14839,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABO08CbsoTA6lhfvwgRppOU",
+  "snapshot_id": "ai9AgAAAAABWIQW4bJASbWFiCIxu6j5O",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 504108,
+      "name": "My Lover - Live",
+      "url": "https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bank Statements",
         "url": "https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 265168,
       "name": "Selense",
       "url": "https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 504108,
-      "name": "My Lover - Live",
-      "url": "https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E"
     },
     {
       "added_at": null,
@@ -739,18 +739,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onyeoma (Good God)",
-        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
+        "name": "Eze (feat. Preye Odede)",
+        "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+        },
+        {
+          "name": "Reba",
+          "url": "https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6"
         }
       ],
-      "duration_ms": 265538,
-      "name": "Onyeoma (Good God)",
-      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
+      "duration_ms": 356063,
+      "name": "Eze (feat. Preye Odede)",
+      "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
     },
     {
       "added_at": null,
@@ -771,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When You Say A Thing",
-        "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
+        "name": "Onyeoma (Good God)",
+        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
       },
       "artists": [
         {
@@ -780,9 +788,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 239076,
-      "name": "When You Say A Thing",
-      "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
+      "duration_ms": 265538,
+      "name": "Onyeoma (Good God)",
+      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
     },
     {
       "added_at": null,
@@ -807,26 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eze (feat. Preye Odede)",
-        "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
+        "name": "When You Say A Thing",
+        "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Preye Odede",
-          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
-        },
-        {
-          "name": "Reba",
-          "url": "https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6"
         }
       ],
-      "duration_ms": 356063,
-      "name": "Eze (feat. Preye Odede)",
-      "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
+      "duration_ms": 239076,
+      "name": "When You Say A Thing",
+      "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
     },
     {
       "added_at": null,

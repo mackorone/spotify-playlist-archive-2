@@ -4,7 +4,7 @@
 
 > marrakech season
 
-133 songs - 8 hr 42 min
+134 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2025-06-27 | 2025-07-04 |
 | [Ana \- FNX Omar Vibe Mix](https://open.spotify.com/track/05SDCAkjltiLrFf83MVy6a) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf) | [Ana](https://open.spotify.com/album/2qlImWqOWHl9pypU2Qdwuq) | 6:14 | 2026-01-30 |  |
 | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ribale Wehbe](https://open.spotify.com/artist/0aDFtp48TNejF5G7hqM4J9) | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK) | 4:21 | 2025-10-10 |  |
+| [AWGAZI](https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [AWGAZI](https://open.spotify.com/album/17KKeHngp4vbAYAMRRgVSW) | 2:46 | 2026-06-16 |  |
 | [Baba Mimoun \- Radio Edit](https://open.spotify.com/track/7KaATu6SKJa1clpEO06LSK) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Hind Ennaira](https://open.spotify.com/artist/1dJaBie9mXTkH6iHV46h1Y), [Gnawatronic](https://open.spotify.com/artist/5e1QfTkZLHe5voCnBhgv1P) | [Baba Mimoun](https://open.spotify.com/album/5C9O9I0jKtC0EWBNIsxP1W) | 4:36 | 2025-08-23 | 2025-10-03 |
 | [Back To Life](https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Back To Life](https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW) | 3:33 | 2025-10-13 |  |
 | [Baianá \(Boa Noite\)](https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baianá \(Boa Noite\)](https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7) | 3:17 | 2025-08-13 |  |
@@ -34,7 +35,7 @@
 | [Drop Your Weapons](https://open.spotify.com/track/34dhfIhEivEZOUIRi0K76v) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B) | [Drop Your Weapons](https://open.spotify.com/album/47oHKjYm17lvSYHEDDXfhe) | 5:26 | 2025-09-04 | 2025-10-14 |
 | [Echoes Of Dust](https://open.spotify.com/track/1YxqCYYkfGuFRC7JftjXWj) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Echoes Of Dust](https://open.spotify.com/album/6e5DWWQd6goRBXoG8U13C8) | 4:33 | 2025-06-27 | 2025-10-07 |
 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2025-08-23 |  |
-| [Ego](https://open.spotify.com/track/5L4og0sQG7Y8dfvOthDvnZ) | [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Ego](https://open.spotify.com/album/4guAQvmy00NA8CqeeZOLE9) | 3:41 | 2025-09-04 |  |
+| [Ego](https://open.spotify.com/track/5L4og0sQG7Y8dfvOthDvnZ) | [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Ego](https://open.spotify.com/album/4guAQvmy00NA8CqeeZOLE9) | 3:41 | 2025-09-04 | 2026-06-17 |
 | [Eldorado](https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Eldorado](https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc) | 6:21 | 2025-06-27 | 2026-03-10 |
 | [Elegibo](https://open.spotify.com/track/3IugKG1BvQJTnK9KviDdpV) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD), [Relight Orchestra](https://open.spotify.com/artist/7mDeWybDDFBOAshsWdDc2j), [DJ Andrea](https://open.spotify.com/artist/2Yx5JNsfQi39z09nCW4Y4O) | [Elegibo](https://open.spotify.com/album/4YypLcBdTBCc7xpyc0MGd4) | 2:31 | 2026-01-30 |  |
 | [Evrybdy](https://open.spotify.com/track/3EcOPQQKuUMmWqqCLNEvJF) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Evrybdy](https://open.spotify.com/album/5X8O7MaVByCPJZ0544qkcK) | 2:45 | 2025-07-25 | 2025-10-10 |

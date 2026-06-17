@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 186516,
+  "num_followers": 186586,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACEamMGJaEIX+ObXFQbExC/",
+  "snapshot_id": "ai9AgAAAAABtqFVKRmSiIZMkTp1rqi6X",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
       },
       "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 261176,
-      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
-      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+        "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+        "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
       },
       "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+      "duration_ms": 261176,
+      "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
+      "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Of My Love",
         "url": "https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 196853,
       "name": "All Of My Love",
       "url": "https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
     },
     {
       "added_at": null,

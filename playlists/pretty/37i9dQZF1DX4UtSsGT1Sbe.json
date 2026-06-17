@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1980s. Cover: Michael Jackson",
-  "num_followers": 11970538,
+  "num_followers": 11971351,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,18 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -679,18 +675,22 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "Hot Space (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
       "artists": [
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 330943,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Secret Dreams and Forbidden Fire",
         "url": "https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 348333,
       "name": "Holding Out for a Hero - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 330943,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Ready For Romance",
-        "url": "https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 354636,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "Ready For Romance",
+        "url": "https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "I Don't Speak The Language",
         "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 184480,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
       "artists": [
         {
-          "name": "Bruce Hornsby and the Range",
-          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 297847,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1667,6 +1651,22 @@
       "duration_ms": 234493,
       "name": "Arthur's Theme (Best That You Can Do)",
       "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby and the Range",
+          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
+        }
+      ],
+      "duration_ms": 297847,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Crowded House (Deluxe)",
-        "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 254493,
       "name": "Jack & Diane",
       "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "Crowded House (Deluxe)",
+        "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Celebrate!",
-        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 298866,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 192066,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "Celebrate!",
+        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "We Are The World",
-        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
-      },
-      "artists": [
-        {
-          "name": "U.S.A. For Africa",
-          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
-        }
-      ],
-      "duration_ms": 427333,
-      "name": "We Are The World",
-      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 258665,
       "name": "All Night Long (All Night) - Single Version",
       "url": "https://open.spotify.com/track/4czNORk5MjW5WOn98bki32"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "We Are The World",
+        "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
+      },
+      "artists": [
+        {
+          "name": "U.S.A. For Africa",
+          "url": "https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM"
+        }
+      ],
+      "duration_ms": 427333,
+      "name": "We Are The World",
+      "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Simple Pleasures",
-        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
-      },
-      "artists": [
-        {
-          "name": "Bobby McFerrin",
-          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "Don't Worry Be Happy",
-      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 241066,
       "name": "Say You, Say Me",
       "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "A Kind Of Magic (2011 Remaster)",
-        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "A Kind Of Magic - Remastered 2011",
-      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 266800,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/5iwyLsQ5yjnCaRrJGyAPZM"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "A Kind Of Magic - Remastered 2011",
+      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 242666,
       "name": "Don't Stand So Close To Me",
       "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
       "added_at": "2026-04-29 17:50:01",

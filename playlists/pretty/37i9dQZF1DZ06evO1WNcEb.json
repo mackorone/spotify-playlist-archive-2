@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66663,
+  "num_followers": 66664,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACzjYTcgnCzaoUBRFyjnhKp",
+  "snapshot_id": "ai9AgAAAAADL9tgBxJZwBat4FrlTN6LC",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 380760,
+      "name": "Eu Quero Ser Santo",
+      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jebOXsJYZCzILZYFacDcB"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 266826,
       "name": "Quanto Amor (feat. Eyshila)",
       "url": "https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 380760,
-      "name": "Eu Quero Ser Santo",
-      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyshila 30 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 307160,
-      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gl9MavvqrkOR1X4FjELp9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
         "url": "https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB"
       },
@@ -811,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
+        "name": "Eyshila 30 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
       },
       "artists": [
         {
@@ -820,13 +800,13 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
+      "duration_ms": 307160,
+      "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gl9MavvqrkOR1X4FjELp9"
     },
     {
       "added_at": null,
@@ -851,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eyshila 30 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 335773,
+      "name": "Casa de B\u00ean\u00e7\u00e3o + Lugar de Vida (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1W7hFv05H3dMihRpl6ToAH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 369280,
       "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
       "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyshila 30 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 335773,
-      "name": "Casa de B\u00ean\u00e7\u00e3o + Lugar de Vida (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1W7hFv05H3dMihRpl6ToAH"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle + Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Liz Lanne",
-          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
-        }
-      ],
-      "duration_ms": 301280,
-      "name": "Deus no Controle + Milagre (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
         "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 326550,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle + Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        }
+      ],
+      "duration_ms": 301280,
+      "name": "Deus no Controle + Milagre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
     },
     {
       "added_at": null,

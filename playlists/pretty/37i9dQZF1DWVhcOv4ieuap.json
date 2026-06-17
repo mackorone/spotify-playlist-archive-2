@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1038239,
+  "num_followers": 1038156,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
+        "name": "Wapa",
+        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 159776,
+      "name": "Wapa",
+      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
         "name": "ESTA ES TU CASA NENA",
         "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 209616,
       "name": "ESTA ES TU CASA NENA",
       "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
-        "name": "Wapa",
-        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 159776,
-      "name": "Wapa",
-      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
     },
     {
       "added_at": "2026-05-12 14:59:58",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
-        "name": "KAWASAKI (&TEAM Remix)",
-        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
-      },
-      "artists": [
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        },
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 161695,
-      "name": "KAWASAKI (&TEAM Remix)",
-      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
         "name": "M\u00edrame Ahora",
         "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 187119,
       "name": "Carteras Chinas",
       "url": "https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
+        "name": "KAWASAKI (&TEAM Remix)",
+        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        },
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 161695,
+      "name": "KAWASAKI (&TEAM Remix)",
+      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
     },
     {
       "added_at": "2026-05-12 14:59:58",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
         "name": "CUCARACHEO",
         "url": "https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 153903,
       "name": "CUCARACHEO",
       "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
     },
     {
       "added_at": "2026-05-12 14:59:58",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
-        "name": "Fantasi",
-        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Fantasi",
-      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
+        "name": "Fantasi",
+        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Fantasi",
+      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
     },
     {
       "added_at": "2026-05-12 14:59:58",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-05-12 14:59:58",
       "album": {
-        "name": "DUE\u00d1O DEL CIELO",
-        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "50mm",
-      "url": "https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF"
-    },
-    {
-      "added_at": "2026-05-12 14:59:58",
-      "album": {
         "name": "SEGUNDO INTENTO",
         "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 191368,
       "name": "SEGUNDO INTENTO",
       "url": "https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ"
+    },
+    {
+      "added_at": "2026-05-12 14:59:58",
+      "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "50mm",
+      "url": "https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

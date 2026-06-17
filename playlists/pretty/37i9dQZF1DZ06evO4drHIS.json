@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19652,
+  "num_followers": 19654,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABgaLlKSm0YDb5LGLN0rfhl",
+  "snapshot_id": "ai9AgAAAAAB0HIMDZvcytHtp/X6CLaFH",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Caballo",
-        "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
       "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 228000,
-      "name": "16437 D\u00edas (con Majo Aguilar)",
-      "url": "https://open.spotify.com/track/4zDX5ypydPvhGrtKjh9shy"
+      "duration_ms": 203120,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
     },
     {
       "added_at": null,
@@ -263,8 +259,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+        "name": "A Caballo",
+        "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "16437 D\u00edas (con Majo Aguilar)",
+      "url": "https://open.spotify.com/track/4zDX5ypydPvhGrtKjh9shy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
       "artists": [
         {
@@ -272,9 +288,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203120,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
+      "duration_ms": 164360,
+      "name": "Canci\u00f3n Para Olvidarte",
+      "url": "https://open.spotify.com/track/5XqnEgOf00MMHogOTTFtjx"
     },
     {
       "added_at": null,
@@ -295,22 +311,6 @@
       "duration_ms": 223578,
       "name": "Nada de Ti",
       "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Canci\u00f3n Para Olvidarte",
-      "url": "https://open.spotify.com/track/5XqnEgOf00MMHogOTTFtjx"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 224120,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV"
+      "duration_ms": 257640,
+      "name": "C\u00f3mo Te Olvido",
+      "url": "https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 257640,
-      "name": "C\u00f3mo Te Olvido",
-      "url": "https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI"
+      "duration_ms": 224120,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Vuelves",
-        "url": "https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T"
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 207072,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ"
+      "duration_ms": 191040,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
+        "name": "Si T\u00fa No Vuelves",
+        "url": "https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
+      "duration_ms": 207072,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ"
     },
     {
       "added_at": null,

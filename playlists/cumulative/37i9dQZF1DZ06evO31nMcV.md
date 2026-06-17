@@ -4,7 +4,7 @@
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 38 min
+96 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,10 +83,11 @@
 | [Soar \(feat\. Fally Ipupa & Kevin Olusola\)](https://open.spotify.com/track/769DTdOI3UAILaJtI9Doxt) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [Soar \(feat\. Fally Ipupa & Kevin Olusola\)](https://open.spotify.com/album/6flHtKs6alayE4mN6Vaq7l) | 3:59 | 2024-10-02 | 2024-10-03 |
 | [Songbird](https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:01 | 2024-10-02 |  |
 | [St Andrews](https://open.spotify.com/track/50Rmu77Edn9xqug6AQGVe0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 3:42 | 2024-10-02 | 2025-11-02 |
-| [Still Life](https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:22 | 2024-10-02 |  |
+| [Still Life](https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:22 | 2024-10-02 | 2026-06-17 |
 | [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 | 2024-10-02 |  |
 | [Suddenly \(Solo Piano Version\)](https://open.spotify.com/track/0C7rTfN2DisFXmvp1PszYu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Suddenly \(Solo Piano Version\)](https://open.spotify.com/album/1GdcloiQpADlDj3HIVFJRR) | 3:38 | 2025-02-09 | 2025-04-14 |
 | [Suddenly \(Solo Piano Version\)](https://open.spotify.com/track/1SIuWpwLFmv1fQh7HnBB46) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 3:38 | 2025-04-14 | 2026-03-28 |
+| [Sö](https://open.spotify.com/track/71aLNi77h5ACkPX3AjfJhu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 3:54 | 2026-06-17 |  |
 | [Sö](https://open.spotify.com/track/49im2JqjCRehvJm9x0mqML) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:54 | 2024-10-03 | 2024-10-17 |
 | [The Heart Asks Pleasure First](https://open.spotify.com/track/62iBffOFF4zXLVYnPWqquo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Heart Asks Pleasure First](https://open.spotify.com/album/0bZdcrxZlfJimQbjqYfUum) | 2:32 | 2024-10-07 | 2025-03-10 |
 | [The Journey](https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 2:14 | 2024-10-02 |  |

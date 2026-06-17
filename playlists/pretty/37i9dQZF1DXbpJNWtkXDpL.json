@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92516,
+  "num_followers": 92532,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "TUTSI POP",
-        "url": "https://open.spotify.com/album/3vqJfqqfMdLOf8HJLeLGbJ"
-      },
-      "artists": [
-        {
-          "name": "Jey EDT",
-          "url": "https://open.spotify.com/artist/0njxOkFRLvczDWkE4CVGzn"
-        },
-        {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
-        },
-        {
-          "name": "Dann Gonzalez",
-          "url": "https://open.spotify.com/artist/12DAn6BWZGz7ZbwJGceIqG"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "TUTSI POP",
-      "url": "https://open.spotify.com/track/3sxd645fkfmfUrXQuAPkQK"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "Ring Ring ft. Malo & Japanix",
         "url": "https://open.spotify.com/album/1nWZ8gWJVKfko5OdDVXpvq"
       },
@@ -1111,22 +1087,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "MONTAGEM BALENCI?",
-        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
-      },
-      "artists": [
-        {
-          "name": "BOWSY",
-          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
-        }
-      ],
-      "duration_ms": 96471,
-      "name": "MONTAGEM BALENCI?",
-      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "S\u00daPLICA",
         "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
       },
@@ -1139,6 +1099,46 @@
       "duration_ms": 207969,
       "name": "S\u00daPLICA",
       "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "TUTSI POP",
+        "url": "https://open.spotify.com/album/3vqJfqqfMdLOf8HJLeLGbJ"
+      },
+      "artists": [
+        {
+          "name": "Jey EDT",
+          "url": "https://open.spotify.com/artist/0njxOkFRLvczDWkE4CVGzn"
+        },
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        },
+        {
+          "name": "Dann Gonzalez",
+          "url": "https://open.spotify.com/artist/12DAn6BWZGz7ZbwJGceIqG"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "TUTSI POP",
+      "url": "https://open.spotify.com/track/3sxd645fkfmfUrXQuAPkQK"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "MONTAGEM BALENCI?",
+        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
+      },
+      "artists": [
+        {
+          "name": "BOWSY",
+          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
+        }
+      ],
+      "duration_ms": 96471,
+      "name": "MONTAGEM BALENCI?",
+      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
     },
     {
       "added_at": "2026-05-29 06:00:07",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-05-29 06:00:07",
       "album": {
-        "name": "El hombre ideal",
-        "url": "https://open.spotify.com/album/4KHf9Q72Fr1b9YtbS74Scf"
-      },
-      "artists": [
-        {
-          "name": "Brigitte",
-          "url": "https://open.spotify.com/artist/4FVoLaxiUrMYTDXB6u4646"
-        }
-      ],
-      "duration_ms": 171704,
-      "name": "El hombre ideal",
-      "url": "https://open.spotify.com/track/3A57ItGf2m5jOEhsF8mNxB"
-    },
-    {
-      "added_at": "2026-05-29 06:00:07",
-      "album": {
         "name": "HISTORIAS DEL CERRO",
         "url": "https://open.spotify.com/album/1yRX0S6IXARwJ0e9cw6auj"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 158698,
       "name": "habitaci\u00f3n backwo0d",
       "url": "https://open.spotify.com/track/3Wa7Qee0YpucLgD6ehUClD"
+    },
+    {
+      "added_at": "2026-05-29 06:00:07",
+      "album": {
+        "name": "El hombre ideal",
+        "url": "https://open.spotify.com/album/4KHf9Q72Fr1b9YtbS74Scf"
+      },
+      "artists": [
+        {
+          "name": "Brigitte",
+          "url": "https://open.spotify.com/artist/4FVoLaxiUrMYTDXB6u4646"
+        }
+      ],
+      "duration_ms": 171704,
+      "name": "El hombre ideal",
+      "url": "https://open.spotify.com/track/3A57ItGf2m5jOEhsF8mNxB"
     },
     {
       "added_at": "2026-05-29 06:00:07",

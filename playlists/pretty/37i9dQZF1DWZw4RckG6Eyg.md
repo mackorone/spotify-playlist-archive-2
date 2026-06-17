@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,539 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,546 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,18 +71,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 61 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
 | 62 | [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 |
 | 63 | [Doesn't Really Matter](https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Rest Here](https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL) | 4:29 |
-| 64 | [Good Things](https://open.spotify.com/track/4b2ySri2ec5oJtEVt3Zyx7) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Good Things](https://open.spotify.com/album/1ISR9HaRvDSbJRCcBeMrWG) | 3:33 |
-| 65 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 |
+| 64 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 |
+| 65 | [Good Things](https://open.spotify.com/track/4b2ySri2ec5oJtEVt3Zyx7) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Good Things](https://open.spotify.com/album/1ISR9HaRvDSbJRCcBeMrWG) | 3:33 |
 | 66 | [It's Only You](https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:16 |
 | 67 | [9\-2\-5](https://open.spotify.com/track/5v80CZosPY0BPUtk3wzDY3) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 3:12 |
 | 68 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 |
 | 69 | [Unarchiver](https://open.spotify.com/track/1vow5hm6PQGE4K4UTRY8jX) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Unarchiver](https://open.spotify.com/album/5B27SeekEZmvH9qP7YE5w7) | 4:55 |
-| 70 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
-| 71 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
+| 70 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
+| 71 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:54 |
 | 72 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
-| 73 | [Miffed It](https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Miffed It](https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe) | 4:06 |
-| 74 | [Even if it's Just a Dream](https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 5:30 |
-| 75 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
+| 73 | [Even if it's Just a Dream](https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 5:30 |
+| 74 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
+| 75 | [Miffed It](https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Miffed It](https://open.spotify.com/album/04XGmj4SzLzNy3THrWaKfe) | 4:06 |
 | 76 | [my most saddest song](https://open.spotify.com/track/6e2UYsd0KXfkcM34cku4Od) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [my most saddest song](https://open.spotify.com/album/1qA8wi6ghcJzanpAaz2VUj) | 2:10 |
 | 77 | [Guilty Running](https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [is a Folk Artist](https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG) | 4:03 |
 | 78 | [Magic Of The Sale](https://open.spotify.com/track/4tvHq6sgIBL7GCSCBgOeey) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Magic Of The Sale](https://open.spotify.com/album/73OcSorYBJgQW0vXa53Lye) | 3:48 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 93 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 |
 | 94 | [Cat & Mouse](https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Cat & Mouse](https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO) | 3:22 |
 | 95 | [barnyard](https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [into a pretty room](https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC) | 4:04 |
-| 96 | [Antarctica](https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Antarctica / Neon Lights](https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx) | 2:59 |
-| 97 | [FW2028](https://open.spotify.com/track/7MY5PRhC8FzhgAIpCTpgTH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:24 |
+| 96 | [FW2028](https://open.spotify.com/track/7MY5PRhC8FzhgAIpCTpgTH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:24 |
+| 97 | [Antarctica](https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Antarctica / Neon Lights](https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx) | 2:59 |
 | 98 | [Infinite](https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Infinite](https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7) | 3:16 |
 | 99 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
 | 100 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 |

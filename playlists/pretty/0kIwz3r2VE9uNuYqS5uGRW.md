@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 228 songs - 11 hr 56 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 232 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,5 +236,9 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 226 | [The Fish That Never Went To Mauritius](https://open.spotify.com/track/7nWnAKibNLSktV18hn0vuZ) | [Jonny Hiley](https://open.spotify.com/artist/0Uhg2uDTQsgfuxzFlq4MKO) | [The Fish That Never Went To Mauritius](https://open.spotify.com/album/2jyvwXJ7yl4xEkgVtYI6lv) | 5:04 |
 | 227 | [Walking Away](https://open.spotify.com/track/4CEqsSBbZ0IQVGGvBMn4BN) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY), [Josh Yau](https://open.spotify.com/artist/4KDt1OdgiC9fZQb1ql0uIT) | [Walking Away](https://open.spotify.com/album/6IPHBP1F6s1lYqEkWWBZlW) | 2:45 |
 | 228 | [Permission](https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Permission](https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI) | 2:52 |
+| 229 | [Hey Izzy](https://open.spotify.com/track/4aMiZGR3tuBN6Iw2tN02BQ) | [The Last Great Kings](https://open.spotify.com/artist/4iz8exWOL7apTsnXzP2YSs) | [Hey Izzy](https://open.spotify.com/album/054kwlQaKDExJqti6AYfTM) | 2:57 |
+| 230 | [Naomi](https://open.spotify.com/track/2YSdjfaZVGB09ZnUZNjrhp) | [Faint Images of the Radio Sky](https://open.spotify.com/artist/63BRCSvVdohSDgSUm19bPb) | [Itching Through the Permafrost](https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY) | 4:55 |
+| 231 | [Que Rico Verte](https://open.spotify.com/track/7Hd0u6WIyHSXi2cs5PDASF) | [Migue Ceballos](https://open.spotify.com/artist/2J1JjCZxLNmw8CRKADx9qe) | [Que Rico Verte](https://open.spotify.com/album/5NmOzGqm9FbRSsBYIjo5u6) | 2:05 |
+| 232 | [Clark Wiley](https://open.spotify.com/track/01CtaVwVYP0BP0vVEyMB8T) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 2:56 |
 
-Snapshot ID: `AAAV6uF91uZ/epuKQNrQV9yw2E0EU0w7`
+Snapshot ID: `AAAV7jwa/uXGTS7cnPmb+7ulIefZWqfr`

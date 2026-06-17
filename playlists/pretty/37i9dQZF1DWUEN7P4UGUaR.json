@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 17744,
+  "num_followers": 17751,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -227,8 +227,8 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+        "name": "Live in Kumasi",
+        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
+      "duration_ms": 280000,
+      "name": "Nyame Tumfo (Live)",
+      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/7tour33WTvp9sK9CZ1Fh5F"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 422954,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/75sGkbnu0fhIX5r5Setmd5"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Guide Me",
         "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
       },
@@ -319,8 +303,24 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Live in Kumasi",
-        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/7tour33WTvp9sK9CZ1Fh5F"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 422954,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/75sGkbnu0fhIX5r5Setmd5"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Nyame Tumfo (Live)",
-      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2026-03-12 23:38:53",

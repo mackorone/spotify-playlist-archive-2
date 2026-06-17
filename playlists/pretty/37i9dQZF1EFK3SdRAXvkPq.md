@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 74 | [Soy un HP](https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Soy un HP](https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R) | 2:26 |
 | 75 | [Ya No](https://open.spotify.com/track/6mqvfFsfBvZW3gBMlc3Wxo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya No](https://open.spotify.com/album/4fMoPysL4trKxy38MC0Pkp) | 2:48 |
 | 76 | [Gracias](https://open.spotify.com/track/0CCaGohJXrtZaNyPB3xQxz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 2:41 |
-| 77 | [Amantes](https://open.spotify.com/track/7ijXNy4CSDMFqSecPANn5p) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [GOTTI B](https://open.spotify.com/album/4ACfWcYe7nU8HbeJth17ms) | 2:04 |
-| 78 | [MHM](https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [DUAL](https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD) | 2:19 |
+| 77 | [MHM](https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [DUAL](https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD) | 2:19 |
+| 78 | [Amantes](https://open.spotify.com/track/7ijXNy4CSDMFqSecPANn5p) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [GOTTI B](https://open.spotify.com/album/4ACfWcYe7nU8HbeJth17ms) | 2:04 |
 | 79 | [Esos Días](https://open.spotify.com/track/6oRyIk7U3jWGFH6zRKOT5T) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días](https://open.spotify.com/album/5YTwmNj6F1khhCCos7DV7w) | 2:31 |
 | 80 | [LA MISIÓN](https://open.spotify.com/track/4nN9RTkuQIX23aW4Z1nNwa) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:34 |
 | 81 | [One and Only](https://open.spotify.com/track/0EuTbYpWuCP7MAkotMUuP9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Stendhal](https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq) | 3:47 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 152 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
 | 153 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `AcUUrAAAAADC6IqgsNkZFa7qz76x5HDr`
+Snapshot ID: `AcUaEAAAAADozOzuX0K5/90Lo6nP0qpx`

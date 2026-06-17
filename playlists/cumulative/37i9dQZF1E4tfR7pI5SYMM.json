@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Dystopian X Vision, Lockjaw, Jon Drake and more",
+  "description": "With Jon Drake, Autoimmune, Dystopian X Vision and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 384370,
       "name": "84",
       "url": "https://open.spotify.com/track/0Vl5voXWCbcXVnQKqJrIty"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 172021,
       "name": "Agartha (A.G.A.R.T.H.A.)",
       "url": "https://open.spotify.com/track/6uIm6FvY147PjdFd6zj0O3"
@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Acoustix Sessions: RAMMSTEIN",
+        "url": "https://open.spotify.com/album/0MOyV1AmUUff4RUSoDkhws"
+      },
+      "artists": [
+        {
+          "name": "Neo Acoustix",
+          "url": "https://open.spotify.com/artist/62Y13nqb3BG3dmiFB8d6ts"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185149,
+      "name": "Engel",
+      "url": "https://open.spotify.com/track/2PkYrcfWuuFAF06OVI41WN"
+    },
+    {
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/1jZTGrDf8z80eqzkIjWgOz"
       },
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -5320,7 +5338,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -5580,7 +5598,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -5692,7 +5710,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -5970,7 +5988,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -6776,7 +6794,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -7368,7 +7386,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -7476,7 +7494,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -8363,6 +8381,24 @@
     },
     {
       "album": {
+        "name": "Parapet",
+        "url": "https://open.spotify.com/album/70uaYciROoOLGqI1O8uBsz"
+      },
+      "artists": [
+        {
+          "name": "Slow Death",
+          "url": "https://open.spotify.com/artist/28Xd9f07Yff5oq5dZyklCK"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142657,
+      "name": "Parapet",
+      "url": "https://open.spotify.com/track/4lwmKp7SxX1a4A7unHO6c8"
+    },
+    {
+      "album": {
         "name": "Pardo",
         "url": "https://open.spotify.com/album/0gOsFyb75gCg3kMfDki2qF"
       },
@@ -8432,7 +8468,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 210117,
       "name": "Pay The Price",
       "url": "https://open.spotify.com/track/5pBvfqml5qtDwgd8AeiYwH"
@@ -8830,7 +8866,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 295200,
       "name": "Psycho Drill",
       "url": "https://open.spotify.com/track/6UXUcPabJyN1obijdKq7gr"
@@ -8974,7 +9010,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 94075,
       "name": "reyes",
       "url": "https://open.spotify.com/track/4VkiI6xCL5beCmpXqmPZW6"
@@ -9760,7 +9796,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -10236,7 +10272,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -10849,6 +10885,24 @@
     },
     {
       "album": {
+        "name": "The Fallout",
+        "url": "https://open.spotify.com/album/7uPVb1Xf1p3htWO5DiTn8q"
+      },
+      "artists": [
+        {
+          "name": "Providers Of Trivial Comfort",
+          "url": "https://open.spotify.com/artist/4RNtu3LzjEIrXBSBSXgckS"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266577,
+      "name": "The Fallout",
+      "url": "https://open.spotify.com/track/4JKKd6dQeRqoTluu5IaKHL"
+    },
+    {
+      "album": {
         "name": "At the End of the Day",
         "url": "https://open.spotify.com/album/1UCZiXy6XABplmGjexDTox"
       },
@@ -11112,7 +11166,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"

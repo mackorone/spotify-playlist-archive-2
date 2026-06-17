@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-190 songs - 10 hr 35 min
+191 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Sweet Victory \(As Heard on "SpongeBob SquarePants"\)](https://open.spotify.com/track/0zNdw7vzK7nVtMlNkjVRfb) | [David Glen Eisley](https://open.spotify.com/artist/7iAUZj65TsyjfcvprSYb9w) | [Sweet Victory \(As Heard on "SpongeBob SquarePants"\) \- Single](https://open.spotify.com/album/2iaGA7Id7HBOqNeoPLul4d) | 3:51 | 2019-03-31 |  |
 | [Talking 'Bout Bri](https://open.spotify.com/track/2NrscGRsrAEiEzPfFyNG3M) | [MegaGoneFree](https://open.spotify.com/artist/3tWkCJzvXG06cMypQEvEE4) | [Talking 'Bout Bri](https://open.spotify.com/album/0WU03lSWKCGMBMTGc3YtXX) | 3:17 | 2022-05-06 | 2025-04-09 |
 | [The Best Thing That Happened](https://open.spotify.com/track/4sCvVH0FU9lbudn3pOgexV) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:04 | 2020-11-13 |  |
+| [The Fine Print](https://open.spotify.com/track/73MWNenV7mQGUdXB8npY4H) | [The Stupendium](https://open.spotify.com/artist/5bkJvRo8OeDzWKpiY4GK0O) | [The Fine Print \(The Outer Worlds Song\)](https://open.spotify.com/album/1LHVxeoquWZUcPT7T3Of6V) | 4:34 | 2026-06-17 |  |
 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 | 2018-12-06 |  |
 | [The Good In Me](https://open.spotify.com/track/0XA9B3KXLmdgaQ2KcIJa3h) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2jJReDZqTuAxr4R0ItimZc) | 3:43 | 2019-06-21 |  |
 | [The Mean Kitty Song \(Hey Little Sparta\)](https://open.spotify.com/track/1LoaJqoMazBgXzCedWkp8x) | [Cory Williams](https://open.spotify.com/artist/3sct943v8qsOCvXrhzGaJm) | [The Mean Kitty Song \(Hey Little Sparta\)](https://open.spotify.com/album/1aY3VHGGkZcuEcC7Z4Sy4F) | 3:26 | 2018-12-06 |  |

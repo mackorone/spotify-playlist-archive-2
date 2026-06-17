@@ -4,7 +4,7 @@
 
 > The Ultimate EA SPORTS FC USA Playlist: bringing together the sounds of the USA in celebration of The World's Game\. Curated specially for you.
 
-241 songs - 14 hr 19 min
+242 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Blue Monday '88 \- 2015 Remaster](https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 4:11 | 2022-11-07 | 2024-04-19 |
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2026-06-05 |  |
 | [Bodyrock](https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 3:36 | 2022-11-07 | 2026-06-06 |
+| [Bury Me Alive](https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 | 2026-06-12 |  |
 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 | 2022-11-07 | 2026-06-06 |
 | [BUYA](https://open.spotify.com/track/4JzupGoZoRC5qRY9Y4vUuE) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [BUYA](https://open.spotify.com/album/40YPn9jFKNXuWjoSAB8kyR) | 2:49 | 2022-11-07 | 2026-06-06 |
 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 | 2022-11-07 | 2026-06-13 |
@@ -61,7 +62,7 @@
 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 | 2026-06-05 | 2026-06-13 |
 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 | 2022-11-07 | 2026-06-13 |
 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL) | 3:22 | 2026-06-12 |  |
-| [Did It First \(with Central Cee\)](https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/7f1uY6RHAj9voSkbPyMlFm) | 1:58 | 2026-06-12 |  |
+| [Did It First \(with Central Cee\)](https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/7f1uY6RHAj9voSkbPyMlFm) | 1:58 | 2026-06-12 | 2026-06-17 |
 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 | 2022-11-07 | 2026-06-13 |
 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 | 2022-11-07 | 2026-06-13 |
 | [Dreaming](https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Smallpools](https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn) | 3:36 | 2026-06-12 |  |

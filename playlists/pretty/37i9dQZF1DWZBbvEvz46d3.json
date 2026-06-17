@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75708,
+  "num_followers": 75713,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Nie K\u0142ami",
+      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Z calych sil",
         "url": "https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 229800,
       "name": "Na Chwile",
       "url": "https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Nie K\u0142ami",
-      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Bumerang",
+        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
+      },
+      "artists": [
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "duration_ms": 246771,
+      "name": "Zosta\u0144",
+      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Monkey Business",
         "url": "https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb"
       },
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Bumerang",
-        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
+        "name": "Szok 'N' Show",
+        "url": "https://open.spotify.com/album/13Lel55hdHNJejfro8RJKH"
       },
       "artists": [
         {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+          "name": "Edyta Bartosiewicz",
+          "url": "https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g"
         }
       ],
-      "duration_ms": 246771,
-      "name": "Zosta\u0144",
-      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
+      "duration_ms": 304666,
+      "name": "Ostatni",
+      "url": "https://open.spotify.com/track/4EbrkWbN93ZMN6bCiol0YX"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Szok 'N' Show",
-        "url": "https://open.spotify.com/album/13Lel55hdHNJejfro8RJKH"
-      },
-      "artists": [
-        {
-          "name": "Edyta Bartosiewicz",
-          "url": "https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Ostatni",
-      "url": "https://open.spotify.com/track/4EbrkWbN93ZMN6bCiol0YX"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Kayah & Bregovic",
         "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 271760,
       "name": "\u015apij Kochanie \u015apij",
       "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Ksiega Urodzaju",
-        "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
-      },
-      "artists": [
-        {
-          "name": "Marcin Rozynek",
-          "url": "https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Silacz",
-      "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Ksiega Urodzaju",
+        "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
+      },
+      "artists": [
+        {
+          "name": "Marcin Rozynek",
+          "url": "https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Silacz",
+      "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "NATinterpretacje",
         "url": "https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV"
       },
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Prawda o nas",
-        "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
+        "name": "M\u00f3j dom",
+        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
       },
       "artists": [
         {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Prawda o nas",
-      "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
+      "duration_ms": 251540,
+      "name": "Dobry moment",
+      "url": "https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,917 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,961 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 36 | [Seu Amor: YOUnique \- Acústico](https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor: YOUnique \(Acústico\)](https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA) | 7:24 |
 | 37 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
 | 38 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 |
-| 39 | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo) | 4:56 |
-| 40 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 |
+| 39 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 |
+| 40 | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo) | 4:56 |
 | 41 | [Florescer](https://open.spotify.com/track/0YukDUvWMxW2FPuceeTNT0) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Jacqueline Palheiro](https://open.spotify.com/artist/0KsrPvrENzZp3EvN3YAi9w) | [Florescer](https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG) | 6:20 |
 | 42 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
 | 43 | [O Melhor De Deus](https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 3](https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7) | 3:25 |

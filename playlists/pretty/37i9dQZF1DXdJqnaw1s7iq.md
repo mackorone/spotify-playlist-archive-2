@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,603 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,634 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 62 | [The Wheel](https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:53 |
 | 63 | [Down the Line \- It Takes a Number](https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Meditations on Afrocentrism](https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv) | 4:14 |
 | 64 | [About You](https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu) | [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [XXYYXX](https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0) | 4:07 |
-| 65 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
-| 66 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 |
+| 65 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 |
+| 66 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
 | 67 | [Babe](https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA) | [Evenings](https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y) | [Yore](https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB) | 2:52 |
 | 68 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
 | 69 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 72 | [Hémisphère](https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0) | 7:13 |
 | 73 | [I'll Take Care of U](https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 4:42 |
 | 74 | [Be a Body](https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:20 |
-| 75 | [LONG DISTANCE](https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Escapism](https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds) | 3:39 |
-| 76 | [Affection](https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 2:36 |
+| 75 | [Affection](https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 2:36 |
+| 76 | [LONG DISTANCE](https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Escapism](https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds) | 3:39 |
 | 77 | [Pharaohs](https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:38 |
 | 78 | [Need You Now](https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 4:45 |
 | 79 | [Flicker](https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 4:39 |
 | 80 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 |
-| 81 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
-| 82 | [Seconds](https://open.spotify.com/track/7603o589huckPbiELnUKgu) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Seconds](https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz) | 2:52 |
+| 81 | [Seconds](https://open.spotify.com/track/7603o589huckPbiELnUKgu) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Seconds](https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz) | 2:52 |
+| 82 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
 | 83 | [Girl](https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:05 |
 | 84 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 |
 | 85 | [BULLETS](https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:59 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 92 | [Go Back Home](https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 3:55 |
 | 93 | [Can’t Keep Checking My Phone](https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR) | 4:16 |
 | 94 | [Huarache Lights](https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 5:29 |
-| 95 | [Illest Alive](https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 4:09 |
-| 96 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
+| 95 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
+| 96 | [Illest Alive](https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 4:09 |
 | 97 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
 | 98 | [Ivory](https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj) | [MOVEMENT](https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX) | [MOVEMENT](https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck) | 3:42 |
 | 99 | [She Just Likes to Fight](https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 4:41 |

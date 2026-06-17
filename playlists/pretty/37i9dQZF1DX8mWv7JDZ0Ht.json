@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Rod Melim",
-  "num_followers": 434569,
+  "num_followers": 434567,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
         "name": "Flor Do Inverno",
         "url": "https://open.spotify.com/album/3vzPI8pg9ENhFmUB7PQGTh"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 184118,
       "name": "Flor Do Inverno",
       "url": "https://open.spotify.com/track/4S2KuuKNKKS06twmxWgAob"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "Emaranhei",
-        "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Emaranhei",
-      "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
         "name": "Faz de Conta",
         "url": "https://open.spotify.com/album/2pMhNADuJV4PfdYZhdCLUh"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 273525,
       "name": "Encontro das Mar\u00e9s",
       "url": "https://open.spotify.com/track/5U0lNrAPMBvgWs6nlo7MuV"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
+        "name": "Emaranhei",
+        "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Emaranhei",
+      "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -523,22 +523,18 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "Quero Descobrir",
-        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
+        "name": "Manh\u00e3",
+        "url": "https://open.spotify.com/album/2m7i3kmIZC7pjr9O02cOXL"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
         }
       ],
-      "duration_ms": 177647,
-      "name": "Quero Descobrir",
-      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
+      "duration_ms": 151836,
+      "name": "Manh\u00e3",
+      "url": "https://open.spotify.com/track/7AyQAbzZlZHisAmnomfToV"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -559,34 +555,22 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "Manh\u00e3",
-        "url": "https://open.spotify.com/album/2m7i3kmIZC7pjr9O02cOXL"
+        "name": "Quero Descobrir",
+        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
       },
       "artists": [
         {
-          "name": "Bruno Berle",
-          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
-        }
-      ],
-      "duration_ms": 151836,
-      "name": "Manh\u00e3",
-      "url": "https://open.spotify.com/track/7AyQAbzZlZHisAmnomfToV"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
-        "name": "Ver\u00e3071",
-        "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
-      },
-      "artists": [
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
         {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         }
       ],
-      "duration_ms": 170588,
-      "name": "Sentir Seu Calor",
-      "url": "https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp"
+      "duration_ms": 177647,
+      "name": "Quero Descobrir",
+      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -635,22 +619,18 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
-        "name": "Outras Vezes",
-        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+        "name": "Ver\u00e3071",
+        "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
       },
       "artists": [
         {
-          "name": "Lulina",
-          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Outras Vezes",
-      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+      "duration_ms": 170588,
+      "name": "Sentir Seu Calor",
+      "url": "https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -671,6 +651,26 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
+        "name": "Outras Vezes",
+        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+      },
+      "artists": [
+        {
+          "name": "Lulina",
+          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Outras Vezes",
+      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
         "name": "Muita Sede",
         "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 185166,
       "name": "Outro \u00c1udio Meu",
       "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
+        "name": "A Menina Dan\u00e7a",
+        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 177978,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -703,22 +719,6 @@
       "duration_ms": 203311,
       "name": "dois brilhantes",
       "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
-        "name": "A Menina Dan\u00e7a",
-        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 177978,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
     },
     {
       "added_at": "2026-06-12 03:00:51",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-06-12 03:00:51",
       "album": {
+        "name": "Me Queimei",
+        "url": "https://open.spotify.com/album/3JnYQOaIKhSc8a7aVTBKTX"
+      },
+      "artists": [
+        {
+          "name": "Peu Heise",
+          "url": "https://open.spotify.com/artist/4Oem7hhYuxmPQr4sOrQbgS"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Lua Cheia",
+      "url": "https://open.spotify.com/track/2WxYqChcFIQP0KARhMyEyb"
+    },
+    {
+      "added_at": "2026-06-12 03:00:51",
+      "album": {
         "name": "BOCA GOSTOSA",
         "url": "https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 142553,
       "name": "BOCA GOSTOSA",
       "url": "https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj"
-    },
-    {
-      "added_at": "2026-06-12 03:00:51",
-      "album": {
-        "name": "Me Queimei",
-        "url": "https://open.spotify.com/album/3JnYQOaIKhSc8a7aVTBKTX"
-      },
-      "artists": [
-        {
-          "name": "Peu Heise",
-          "url": "https://open.spotify.com/artist/4Oem7hhYuxmPQr4sOrQbgS"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Lua Cheia",
-      "url": "https://open.spotify.com/track/2WxYqChcFIQP0KARhMyEyb"
     },
     {
       "added_at": "2026-06-12 03:00:51",

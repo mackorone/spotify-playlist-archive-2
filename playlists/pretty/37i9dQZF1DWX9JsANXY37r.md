@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > drinks em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,661 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,658 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 45 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
 | 46 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 |
 | 47 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
-| 48 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 |
-| 49 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
-| 50 | [Fatal](https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [JOY](https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g) | 3:16 |
+| 48 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
+| 49 | [Fatal](https://open.spotify.com/track/2DBkUL9Uwq8LARm2XpYZXS) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [JOY](https://open.spotify.com/album/7kexvcUMBGWckAtxITqr5g) | 3:16 |
+| 50 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 |
 | 51 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 |
 | 52 | [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 |
 | 53 | [Inside And Out](https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 4:17 |

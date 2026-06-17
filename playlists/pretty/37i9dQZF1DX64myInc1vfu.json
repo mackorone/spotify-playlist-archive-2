@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
-  "num_followers": 105251,
+  "num_followers": 105263,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
+        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
+      },
+      "artists": [
+        {
+          "name": "Karla Christina",
+          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
+      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
         "name": "Amores Ajenos",
         "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 165229,
       "name": "Casi algo",
       "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
-        "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-        "url": "https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU"
-      },
-      "artists": [
-        {
-          "name": "Karla Christina",
-          "url": "https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar De Ti",
-      "url": "https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Cuando Te Encuentre",
         "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
       },
@@ -639,18 +623,34 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
       "artists": [
         {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Frio",
+        "url": "https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 155208,
+      "name": "Frio",
+      "url": "https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Frio",
-        "url": "https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh"
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
         }
       ],
-      "duration_ms": 155208,
-      "name": "Frio",
-      "url": "https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb"
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
+        "name": "Del Cielo Te Cuido",
+        "url": "https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Del Cielo Te Cuido",
+      "url": "https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
         "name": "traguito",
         "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
-        "name": "Del Cielo Te Cuido",
-        "url": "https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb"
-      },
-      "artists": [
-        {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Del Cielo Te Cuido",
-      "url": "https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
         "name": "TRAUMADOS",
         "url": "https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 255714,
       "name": "cuando el mundo acabe",
       "url": "https://open.spotify.com/track/09CWemxTQUearEPP4pT4uB"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Medianoche",
-        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "D\u00e9jame Conocerte",
         "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
       },
@@ -1087,6 +1071,38 @@
       "duration_ms": 279824,
       "name": "D\u00e9jame Conocerte",
       "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Bolero Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 189077,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Medianoche",
+        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -1111,22 +1127,6 @@
       "duration_ms": 244482,
       "name": "Para No Olvidar",
       "url": "https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
-        "name": "Bolero Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 189077,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
     },
     {
       "added_at": "2025-10-24 04:00:22",

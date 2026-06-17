@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 20795,
+  "num_followers": 20799,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
+        "name": "Passionfruit Summers",
+        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 231183,
       "name": "After Six",
       "url": "https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Passionfruit Summers",
-        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Coconut Lips",
-        "url": "https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q"
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
       },
       "artists": [
         {
-          "name": "GMK",
-          "url": "https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G"
-        },
-        {
-          "name": "Tomi Thomas",
-          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
         }
       ],
-      "duration_ms": 215066,
-      "name": "Coconut Lips",
-      "url": "https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV"
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

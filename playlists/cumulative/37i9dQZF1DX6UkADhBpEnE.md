@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-1,120 songs - 2 day 13 hr 16 min
+1,121 songs - 2 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 | 2025-01-09 | 2025-04-04 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-15 | 2024-08-03 |
 | [Control](https://open.spotify.com/track/5mTS9pCJGg8LKBAWJU5jW6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Logic 2](https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r) | 3:01 | 2024-08-03 | 2024-08-09 |
+| [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First \(with mgk\)](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 | 2026-06-11 |  |
 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-12 | 2024-06-01 |
 | [CROWN](https://open.spotify.com/track/3iEDGTJMwWGZiaWYnbRHAw) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [CROWN](https://open.spotify.com/album/3tbZnA7NixrMCVrrNbq68M) | 3:38 | 2024-09-19 | 2024-11-08 |
 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 | 2026-03-19 | 2026-04-28 |
@@ -789,7 +790,7 @@
 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 | 2026-01-15 | 2026-02-14 |
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 | 2025-09-18 | 2025-10-17 |
 | [Tall Boi](https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Tall Boi](https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl) | 2:30 | 2023-04-27 | 2023-05-12 |
-| [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-25 |  |
+| [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-25 | 2026-06-17 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-09-04 |  |
 | [Tell Me](https://open.spotify.com/track/7KH7qQDC34EPT0sK3EJP3s) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Tell Me](https://open.spotify.com/album/3ZFyWbTnJbuAc2yCL4dHTQ) | 3:06 | 2025-03-20 | 2025-04-04 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-15 | 2025-11-07 |

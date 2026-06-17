@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Olivia Rodrigo, Jessie Reyez, Kanye West, BTS, Bebe Rexha, Koe Wetzel, Fredz and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,875 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,859 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 96 | [Party Criminal](https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Cutting Thread](https://open.spotify.com/album/2l3soHjdwpJifx0Nn7Jh1N) | 3:14 |
 | 97 | [Truss Me](https://open.spotify.com/track/3BMlQTORCYqdyHoJ4nH0Hg) | [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ), [DocturDot](https://open.spotify.com/artist/0C8iMSbfe9eGZuArkSKWnZ), [Truss](https://open.spotify.com/artist/3OZn8zBt1aPQ0cPHB77YgM), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl) | [Truss Me](https://open.spotify.com/album/3hcqUjW0QQyPVsVP3zXijU) | 2:43 |
 | 98 | [Do Your Best](https://open.spotify.com/track/4YsNDEzzDg8bC81pbR1y8o) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Do Your Best](https://open.spotify.com/album/6bkX4W00fwnWts68qJCV1T) | 2:34 |
-| 99 | [wildwoman](https://open.spotify.com/track/3nmHojsXc76NvGmpGsNGmi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [wildwoman](https://open.spotify.com/album/7d35YxSTVYHMTOuUlXRWJe) | 3:41 |
+| 99 | [wildwoman](https://open.spotify.com/track/3nmHojsXc76NvGmpGsNGmi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [wildwoman](https://open.spotify.com/album/7d35YxSTVYHMTOuUlXRWJe) | 3:39 |
 | 100 | [Schala](https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Seda](https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q), [ewik\_42](https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi) | [Schala](https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi) | 3:38 |
 
 Snapshot ID: `AAAAAB2rj/Fa3/cHKL5o6m4ojTROW7R1`

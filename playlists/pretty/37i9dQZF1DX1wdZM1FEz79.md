@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,684 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,677 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 39 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 |
 | 40 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 41 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
-| 42 | [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 |
-| 43 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
+| 42 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
+| 43 | [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 |
 | 44 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
 | 45 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 46 | [lemon](https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 49 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
 | 50 | [La Danse De La Joie](https://open.spotify.com/track/1PesmnG3M2KOjYnaq3ppR5) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [LOVE in the BIG CITY \(Special pre\-release \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KkI5zdnZdJufxzDW1aGWp) | 2:28 |
 
-Snapshot ID: `AAAAAJBbbfAow4LyXqItzrsEYRTuUUdD`
+Snapshot ID: `AAAAAI/HdD7Od8DKYoQ+PwDKWIrauf0p`

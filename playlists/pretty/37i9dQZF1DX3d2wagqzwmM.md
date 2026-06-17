@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,252 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,310 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/track/11MH2tLS3KlEUaHbQWdSyP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/album/08q8nOP5k4WMNdwA0PKPNx) | 3:06 |
 | 80 | [Hypnotise](https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Enveak](https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS), [SURAYA](https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3), [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD) | [Hypnotise](https://open.spotify.com/album/05eqUNKxERcApF85qG9BkZ) | 2:53 |
 
-Snapshot ID: `AAAAAM/8KS/s2OO6sA4xFk0ftjms9OS7`
+Snapshot ID: `AAAAAJVpXosoIE8L7Vk0fuikE7JfZvhs`

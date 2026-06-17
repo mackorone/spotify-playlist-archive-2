@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 98622,
+  "num_followers": 98625,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADZ+qZBSPv5PSlTobwUvV87",
+  "snapshot_id": "ai9AgAAAAADp8VjSrUKMfp4uC08wkmwI",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW",
-        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "BUSSIN (with Rob49)",
-      "url": "https://open.spotify.com/track/01KJrCWiFFdOkthB0rLFpq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 162168,
       "name": "PTPOM 2.0",
       "url": "https://open.spotify.com/track/5sRNp1lJG6LBS1mQgDZOAb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "BUSSIN (with Rob49)",
+      "url": "https://open.spotify.com/track/01KJrCWiFFdOkthB0rLFpq"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Served",
-        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 142049,
-      "name": "Speak 4 Em",
-      "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 128009,
       "name": "50/50 (Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 142049,
+      "name": "Speak 4 Em",
+      "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Projects",
-      "url": "https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 181773,
       "name": "Fall Down (feat. Kevin Gates & Rvssian)",
       "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Projects",
+      "url": "https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 144032,
-      "name": "Just Say Det",
-      "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 142451,
       "name": "Keep It Low (feat. Future)",
       "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 144032,
+      "name": "Just Say Det",
+      "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 93143,
+  "num_followers": 93160,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAk+SFxC1L3LYJliKYxUNEW",
+  "snapshot_id": "ai9AgAAAAABcuc4HsbB/jFN/tuqgS30V",
   "tracks": [
     {
       "added_at": null,
@@ -423,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is Back",
-        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Si No Te Quisiera",
-      "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Ella (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 181253,
       "name": "Por Ella",
       "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The King Is Back",
+        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Si No Te Quisiera",
+      "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 165209,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Estamos Tan Locos",
         "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 206354,
       "name": "No Estamos Tan Locos",
       "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 165209,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
     },
     {
       "added_at": null,

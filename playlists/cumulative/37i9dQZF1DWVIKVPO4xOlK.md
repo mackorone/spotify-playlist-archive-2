@@ -2,7 +2,7 @@
 
 ### [Rompiendo: Los Angeles](https://open.spotify.com/playlist/37i9dQZF1DWVIKVPO4xOlK)
 
-> Belicofest, rompiendo en Los Angeles!
+> <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2">Belicofest</a> rompiendo en Los Angeles!
 
 823 songs - 1 day 18 hr 52 min
 

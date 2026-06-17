@@ -3091,6 +3091,28 @@
     },
     {
       "album": {
+        "name": "Crash First (with mgk)",
+        "url": "https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi"
+      },
+      "artists": [
+        {
+          "name": "honestav",
+          "url": "https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "Crash First (with mgk)",
+      "url": "https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO"
+    },
+    {
+      "album": {
         "name": "Creatures In Heaven",
         "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
       },
@@ -15390,7 +15412,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"

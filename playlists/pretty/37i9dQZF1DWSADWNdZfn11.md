@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,835 likes - 115 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,948 likes - 115 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 114 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 |
 | 115 | [Hey Jude](https://open.spotify.com/track/5hbXs1fy9p1oDohdiVIf2H) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [The winner takes it all](https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3) | 3:58 |
 
-Snapshot ID: `AAAAAPWabjRgcZxlbdAkNg1nkC+Kdfk1`
+Snapshot ID: `AAAAABafcUSidewbcbIw9zoLFG24Apuz`

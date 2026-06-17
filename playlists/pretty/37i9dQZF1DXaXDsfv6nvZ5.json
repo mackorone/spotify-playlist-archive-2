@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Glenn Lewis",
-  "num_followers": 790818,
+  "num_followers": 790752,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1741,6 +1741,22 @@
       "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
     },
     {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "The Love Is Gone",
+        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "The Love Is Gone",
+      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Here To Stay",
@@ -1757,20 +1773,20 @@
       "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
     },
     {
-      "added_at": "2024-09-13 09:22:53",
+      "added_at": "2026-01-23 06:08:35",
       "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
       },
       "artists": [
         {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
         }
       ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+      "duration_ms": 211669,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1795,22 +1811,6 @@
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
-    },
-    {
-      "added_at": "2026-01-23 06:08:35",
-      "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 211669,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
       "added_at": "2024-06-07 12:35:37",
@@ -2117,22 +2117,6 @@
       "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
     },
     {
-      "added_at": "2025-03-07 05:51:28",
-      "album": {
-        "name": "Entries",
-        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 117985,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
-    },
-    {
       "added_at": "2024-11-15 07:05:31",
       "album": {
         "name": "3rd Shift - A COLORS SHOW",
@@ -2151,6 +2135,22 @@
       "duration_ms": 165976,
       "name": "3rd Shift - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
+    },
+    {
+      "added_at": "2025-03-07 05:51:28",
+      "album": {
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 117985,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
       "added_at": "2025-04-04 04:28:33",
@@ -2417,26 +2417,6 @@
       "url": "https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc"
     },
     {
-      "added_at": "2025-02-21 07:53:52",
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "E-WHIZZ",
-          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
-        }
-      ],
-      "duration_ms": 317966,
-      "name": "No Business",
-      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
-    },
-    {
       "added_at": "2025-06-27 04:00:47",
       "album": {
         "name": "Stare at Me",
@@ -2455,6 +2435,26 @@
       "duration_ms": 235658,
       "name": "Stare at Me",
       "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
+    },
+    {
+      "added_at": "2025-02-21 07:53:52",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "E-WHIZZ",
+          "url": "https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP"
+        }
+      ],
+      "duration_ms": 317966,
+      "name": "No Business",
+      "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
     },
     {
       "added_at": "2024-08-30 05:27:28",
@@ -2561,38 +2561,6 @@
       "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
     },
     {
-      "added_at": "2024-05-17 07:14:12",
-      "album": {
-        "name": "FromHere (feat. Snoop Dogg & October London)",
-        "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
-      },
-      "artists": [
-        {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 241511,
-      "name": "FromHere (feat. Snoop Dogg & October London)",
-      "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
-    },
-    {
       "added_at": "2025-08-15 19:53:41",
       "album": {
         "name": "The Present",
@@ -2635,6 +2603,38 @@
       "duration_ms": 197120,
       "name": "Fools Expectation",
       "url": "https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77"
+    },
+    {
+      "added_at": "2024-05-17 07:14:12",
+      "album": {
+        "name": "FromHere (feat. Snoop Dogg & October London)",
+        "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 241511,
+      "name": "FromHere (feat. Snoop Dogg & October London)",
+      "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
     }
   ],
   "unique_name": "Soul Coffee",

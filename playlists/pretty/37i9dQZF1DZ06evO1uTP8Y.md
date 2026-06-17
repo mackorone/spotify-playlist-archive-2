@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,363 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,375 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 44 | [HBTS \(Haven't Been The Same\)](https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 3:03 |
 | 45 | [Too Fine](https://open.spotify.com/track/2gQWztCsjwrr4pQ7CtKsrh) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Too Fine](https://open.spotify.com/album/3ISGOValQWg3zaoMsTORFQ) | 2:40 |
 | 46 | [Sondela](https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 1:47 |
-| 47 | [Nothing On You](https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [A Good Life \(Deluxe\)](https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy) | 3:45 |
-| 48 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 |
+| 47 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 |
+| 48 | [Nothing On You](https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [A Good Life \(Deluxe\)](https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy) | 3:45 |
 | 49 | [Last Thing](https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX) | 2:42 |
 
-Snapshot ID: `ai3vAAAAAAC/woRuhv3En9Fhtv1JsfFH`
+Snapshot ID: `ai9AgAAAAACiuVhR7nGucoBO3PDvZjw/`

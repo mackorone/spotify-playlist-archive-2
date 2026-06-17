@@ -3287,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "The Fine Print (The Outer Worlds Song)",
+        "url": "https://open.spotify.com/album/1LHVxeoquWZUcPT7T3Of6V"
+      },
+      "artists": [
+        {
+          "name": "The Stupendium",
+          "url": "https://open.spotify.com/artist/5bkJvRo8OeDzWKpiY4GK0O"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "The Fine Print",
+      "url": "https://open.spotify.com/track/73MWNenV7mQGUdXB8npY4H"
+    },
+    {
+      "album": {
         "name": "The Fox (What Does the Fox Say?)",
         "url": "https://open.spotify.com/album/77QwsMRvonZJn7adV47V78"
       },

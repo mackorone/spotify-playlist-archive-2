@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 56195,
+  "num_followers": 56213,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADmPzOixDz3KY9n8D+e9dv1",
+  "snapshot_id": "ai9AgAAAAABvqAtocLHdsiSDxgx+WCPz",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 201183,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
+      "duration_ms": 245732,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 245732,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+      "duration_ms": 201183,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,383 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,400 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 17 | [stupid horse](https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:01 |
 | 18 | [fuck this town](https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fuck this town](https://open.spotify.com/album/33ES0yrXxXqfnmYkPjBx26) | 1:55 |
 | 19 | [you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [you don't love me](https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m) | 2:02 |
-| 20 | [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [think abt it](https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V) | 2:24 |
-| 21 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
+| 20 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
+| 21 | [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [think abt it](https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V) | 2:24 |
 | 22 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 |
 | 23 | [heather](https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:51 |
 | 24 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 50 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
 | 51 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
 | 52 | [doing it wrong](https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Dreamcache](https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa) | [doing it wrong](https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo) | 2:27 |
-| 53 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
-| 54 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
+| 53 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
+| 54 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
 | 55 | [clueless](https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [clueless](https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg) | 2:07 |
 | 56 | [Whatuworried4?](https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Whatuworried4?](https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp) | 2:35 |
 | 57 | [Of Course I Still Love You](https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Peace & Love](https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD) | 3:22 |

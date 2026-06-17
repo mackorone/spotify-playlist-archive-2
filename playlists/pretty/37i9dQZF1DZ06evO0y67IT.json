@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 9710,
+  "num_followers": 9715,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADgPVsegRlk5OmG8/dlRtOw",
+  "snapshot_id": "ai9AgAAAAABjvLgMWO0zAun6hy2+7aco",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/6DfiLZdV2DfYi1enJJr2AI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/2bO7PHFh5712J67rb3A1ZR"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 174915,
       "name": "Ohio is for Lovers - Lofi",
       "url": "https://open.spotify.com/track/5uRv1MShrZQBJhUqahx8s8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/6DfiLZdV2DfYi1enJJr2AI"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -623,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/3nOg3pdRRdTSt842p5bYp4"
       },
       "artists": [
         {
@@ -632,25 +648,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
+      "duration_ms": 264083,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/5b12DxqEamsJ6q2dB9q8sB"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -695,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+        "name": "Lost Lights",
+        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
       },
       "artists": [
         {
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 171733,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
+      "duration_ms": 224762,
+      "name": "We Were Never Lost",
+      "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
     },
     {
       "added_at": null,
@@ -723,38 +739,6 @@
       "duration_ms": 180093,
       "name": "So Hopelessly",
       "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wreckage",
-        "url": "https://open.spotify.com/album/3nOg3pdRRdTSt842p5bYp4"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 264083,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/5b12DxqEamsJ6q2dB9q8sB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Lights",
-        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 224762,
-      "name": "We Were Never Lost",
-      "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 229749,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/6nthEVYr9WWrJDYClVQhhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
     },
     {
       "added_at": null,

@@ -1945,6 +1945,28 @@
     },
     {
       "album": {
+        "name": "Flores En Mi Alma",
+        "url": "https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161730,
+      "name": "SOMOS",
+      "url": "https://open.spotify.com/track/7mpATTzOBRAR5A7wxQ9yph"
+    },
+    {
+      "album": {
         "name": "Janney",
         "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
       },

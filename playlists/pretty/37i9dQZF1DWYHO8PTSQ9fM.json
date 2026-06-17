@@ -1,12 +1,12 @@
 {
   "description": "The hottest hits right now. Cover: Stormy",
-  "num_followers": 679613,
+  "num_followers": 679609,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFRjG23mdf25rnczebMaNBht4ee7",
+  "snapshot_id": "AAAAAJb4uJAoTBelYA0LOD49gXdJWboy",
   "tracks": [
     {
       "added_at": "2026-06-12 10:22:45",
@@ -117,6 +117,26 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
+      "added_at": "2026-06-16 09:25:07",
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+    },
+    {
       "added_at": "2026-06-12 10:22:45",
       "album": {
         "name": "Sensa",
@@ -175,6 +195,26 @@
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-06-16 09:25:07",
+      "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
       "added_at": "2026-06-12 10:22:45",
@@ -751,22 +791,6 @@
     {
       "added_at": "2026-06-12 10:22:45",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2026-06-12 10:22:45",
-      "album": {
         "name": "Badadi",
         "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
       },
@@ -899,26 +923,6 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-06-12 10:22:45",
-      "album": {
-        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628",
-        "url": "https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Marwan Moussa",
-          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
-        }
-      ],
-      "duration_ms": 206872,
-      "name": "KALAMANTINA / \u0643\u0644\u0645\u0646\u062a\u064a\u0646\u0627",
-      "url": "https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD"
     },
     {
       "added_at": "2026-06-12 10:22:45",

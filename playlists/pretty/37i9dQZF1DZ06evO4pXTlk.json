@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACufUzzZe4WsKVE5OHHcbz8",
+  "snapshot_id": "ai9AgAAAAAB0eHjoTMNAQr9bq/wcu1pj",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rinse repeat",
-        "url": "https://open.spotify.com/album/3jpF6GsJvKU6tOHgIYK6E0"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "rinse repeat",
-      "url": "https://open.spotify.com/track/1pUxWIbU2SKcXSWEpo7You"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 100467,
       "name": "GIMME",
       "url": "https://open.spotify.com/track/1kF9MH9sg8Ls0kXzA8pwrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rinse repeat",
+        "url": "https://open.spotify.com/album/3jpF6GsJvKU6tOHgIYK6E0"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "rinse repeat",
+      "url": "https://open.spotify.com/track/1pUxWIbU2SKcXSWEpo7You"
     },
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "pretty ugly",
-        "url": "https://open.spotify.com/album/4in7sttZpgJwqxNXhVdKVb"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 183386,
-      "name": "pretty ugly",
-      "url": "https://open.spotify.com/track/6DcwcXgTaxY4lHeHJVT14c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold on to Your Heart",
         "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 199528,
       "name": "Hold on to Your Heart",
       "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "pretty ugly",
+        "url": "https://open.spotify.com/album/4in7sttZpgJwqxNXhVdKVb"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 183386,
+      "name": "pretty ugly",
+      "url": "https://open.spotify.com/track/6DcwcXgTaxY4lHeHJVT14c"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 219280,
-      "name": "First Kiss Feeling",
-      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
+      "duration_ms": 229640,
+      "name": "Drive Me Wild",
+      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Drive Me Wild",
-      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
+      "duration_ms": 219280,
+      "name": "First Kiss Feeling",
+      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 316893,
-      "name": "Cool Ethan",
-      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
+      "duration_ms": 212905,
+      "name": "Do You Feel Safe?",
+      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 212905,
-      "name": "Do You Feel Safe?",
-      "url": "https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3"
+      "duration_ms": 316893,
+      "name": "Cool Ethan",
+      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
       "duration_ms": 250203,
       "name": "Weather Warning",
       "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live Like This",
-        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "Waste Away - Demo",
-      "url": "https://open.spotify.com/track/6B8V4E3GXnLrmts6ZYIN1c"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,679 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,702 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 15 | [ODO PA](https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [ODO PA](https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz) | 2:36 |
 | 16 | [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 |
 | 17 | [Ewor Me](https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ewor Me](https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey) | 3:40 |
-| 18 | [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 |
+| 18 | [Find A Way](https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Find A Way](https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK) | 2:34 |
 | 19 | [RARRI](https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [RARRI](https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C) | 2:10 |
 | 20 | [EVERLASTING](https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [EVERLASTING](https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q) | 2:19 |
 | 21 | [Big Bricks II](https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu) | [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Big Bricks II](https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz) | 3:27 |
 | 22 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 |
-| 23 | [Find A Way](https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Find A Way](https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK) | 2:34 |
+| 23 | [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 |
 | 24 | [BALENCIAGA II](https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [SAMA'](https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [BALENCIAGA II](https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug) | 5:01 |
 | 25 | [Running](https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Running](https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd) | 2:56 |
 | 26 | [Aso II](https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Aso II](https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ) | 4:26 |

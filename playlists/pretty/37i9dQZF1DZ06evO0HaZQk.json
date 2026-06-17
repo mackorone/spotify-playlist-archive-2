@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 526272,
+  "num_followers": 526283,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAB++j9Ioq6DDFix8EorbKOA",
+  "snapshot_id": "ai9AgAAAAABX/2DWpGWDwOpardYpxUdK",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pel\u00edcula Muda, Pt. 1",
+        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 190820,
       "name": "Que la Vida Vale",
       "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pel\u00edcula Muda, Pt. 1",
-        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
     },
     {
       "added_at": null,

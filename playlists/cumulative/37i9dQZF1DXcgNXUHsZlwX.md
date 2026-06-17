@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-606 songs - 1 day 12 hr 5 min
+608 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [fin pm](https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv) | 3:11 | 2026-01-30 |  |
 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 | 2021-10-03 |  |
 | [FLATTE!](https://open.spotify.com/track/0q9SpxJXi5uLhxKQNsJflG) | [Fred Tremblay](https://open.spotify.com/artist/4MpruP4drFjBWNU64Ipd6n) | [Au pire, j'vendrai du gaz...](https://open.spotify.com/album/5LFv3Rp4aBp2WQbtJzBlDa) | 3:07 | 2021-02-23 | 2021-05-27 |
-| [Flavie s'en va](https://open.spotify.com/track/7McJTrpBlAvRKgwEl4teap) | [Yasmina Léveillé](https://open.spotify.com/artist/2mqsXujGcEAShex2pxA4ui) | [Entre Beyrouth et Lévis](https://open.spotify.com/album/5oLTU3Dc75WLB6cq586f0h) | 3:32 | 2026-03-06 |  |
+| [Flavie s'en va](https://open.spotify.com/track/7McJTrpBlAvRKgwEl4teap) | [Yasmina Léveillé](https://open.spotify.com/artist/2mqsXujGcEAShex2pxA4ui) | [Entre Beyrouth et Lévis](https://open.spotify.com/album/5oLTU3Dc75WLB6cq586f0h) | 3:32 | 2026-03-06 | 2026-06-17 |
 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 | 2022-07-08 | 2023-09-16 |
 | [Fontaine à vœux](https://open.spotify.com/track/4S9LrQt71r4XcUQylmgyGM) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 3:30 | 2021-01-03\* | 2022-07-29 |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-02-12 |
@@ -409,7 +409,7 @@
 | [Ovni \(C\-132\)](https://open.spotify.com/track/6ATlxhYNWlz0nAUJoeoyry) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Ovni \(C\-132\)](https://open.spotify.com/album/40SV2LYDGopKziBbqHPljR) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Où va ce chagrin](https://open.spotify.com/track/3hylbaK7bxwEvlrH9eUIZG) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 3:34 | 2021-03-14 | 2021-11-13 |
 | [Où va la vie](https://open.spotify.com/track/1sQhOsKwdPTyXpLHEz104D) | [Charles Landry](https://open.spotify.com/artist/5VxekmRCYtMt6YUrPBblUj) | [Où va la vie](https://open.spotify.com/album/7fq8W6tJKt3aNtRHSBcB11) | 3:02 | 2021-01-03\* | 2022-07-06 |
-| [Packing Away](https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m) | [Eman Alali](https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W) | [Packing Away](https://open.spotify.com/album/3fPRotEVFhpXF39u0dtYqj) | 4:26 | 2026-01-30 |  |
+| [Packing Away](https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m) | [Eman Alali](https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W) | [Packing Away](https://open.spotify.com/album/3fPRotEVFhpXF39u0dtYqj) | 4:26 | 2026-01-30 | 2026-06-17 |
 | [Pain](https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain](https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y) | 4:02 | 2024-04-26 | 2025-10-25 |
 | [Panorama](https://open.spotify.com/track/6aZcUYdATtxi9Xx7J8AwmU) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Panorama](https://open.spotify.com/album/0SK0vnAQgT3rxaGGZy8QUn) | 3:51 | 2021-01-15 | 2021-12-10 |
 | [Par la fenêtre de Théo](https://open.spotify.com/track/58bpRXFmtHlY1PKdQV9avJ) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [INSCAPE](https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO) | 2:53 | 2021-10-03 | 2024-06-28 |
@@ -530,6 +530,7 @@
 | [The Drudge](https://open.spotify.com/track/1FDZsIBVAYiNe56EwH8IWC) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [The Drudge](https://open.spotify.com/album/5gLnMoG5rH3f83ZtnillpH) | 3:05 | 2022-10-14 | 2022-12-19 |
 | [The Good Part](https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [The Good Part](https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1) | 3:31 | 2025-10-17 |  |
 | [The Great Escape](https://open.spotify.com/track/1GIPP103zfsythULEpsmdw) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Close to Paradise](https://open.spotify.com/album/056yp65HkG28gOvkLPWAem) | 3:07 | 2021-10-06 | 2024-08-27 |
+| [The Music That Makes Me Dance](https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Music That Makes Me Dance](https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO) | 5:07 | 2026-06-12 |  |
 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 | 2021-10-09 | 2025-04-05 |
 | [The Scars We Share](https://open.spotify.com/track/1rI2SChKCCBD3poraYKw2Z) | [Maldito](https://open.spotify.com/artist/1IyP1te0ocO6XgeWL4PqdG) | [The Scars We Share](https://open.spotify.com/album/6tHnONORrBKToSOraiIFan) | 3:58 | 2026-05-08 |  |
 | [The Wandering](https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [The Wandering](https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW) | 3:20 | 2025-06-20 |  |
@@ -591,6 +592,7 @@
 | [Walk Away Wishing](https://open.spotify.com/track/6qy7R1oYughuKogqTbIytH) | [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Walk Away Wishing](https://open.spotify.com/album/2WcgHoUuXM6uQ7R6MHVXQS) | 2:45 | 2025-10-17 | 2025-12-20 |
 | [Waterfall](https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Waterfall](https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA) | 4:39 | 2025-12-05 | 2026-05-30 |
 | [Where We Belong](https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE) | [a\-ron songs](https://open.spotify.com/artist/2SZ54u0MjmVUb0TXMZbpc5) | [Where We Belong](https://open.spotify.com/album/0NezjgTpBYmbtHcee8j9fy) | 3:45 | 2026-02-06 | 2026-06-13 |
+| [Wicked Game](https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH), [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Wicked Game](https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t) | 3:58 | 2026-06-12 |  |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-04-05 | 2025-01-07 |
 | [Wish You Well](https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ) | [Cath Darbouze](https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV) | [Wish You Well](https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID) | 3:27 | 2025-11-07 | 2026-05-05 |
 | [With You \(version française\)](https://open.spotify.com/track/4xdklKIbNKPkVuwKTiNsX0) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [With You \(version française\)](https://open.spotify.com/album/5Mh7kHXawmEifsim9jrn1A) | 3:18 | 2021-02-22 | 2021-05-27 |

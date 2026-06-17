@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,143 likes - 56 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,142 likes - 56 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 39 | [عفاريت الأسفلت](https://open.spotify.com/track/02G9n2WgsNd2j7CqTmcDR2) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عفاريت الأسفلت](https://open.spotify.com/album/3gWQJL3JHzaNzWuFqG7osw) | 3:24 |
 | 40 | [Brazil](https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:32 |
 | 41 | [Bayen Habeit](https://open.spotify.com/track/29KS7kBSU77PrYGB6RVR5O) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Bayen Habeit](https://open.spotify.com/album/4RdUsMpepg4HbsFyaIpHsB) | 2:19 |
-| 42 | [Global Warming \(feat\. Sensato\)](https://open.spotify.com/track/292kifgxa7S78AuzA5NMpL) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 1:25 |
-| 43 | [Apex](https://open.spotify.com/track/3S9cX3Uzt330yZT0uypT9E) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Rocket League x Monstercat Vol\. 1](https://open.spotify.com/album/4pCdGlt4v1pqW0nOjB1T2o) | 2:43 |
+| 42 | [Apex](https://open.spotify.com/track/3S9cX3Uzt330yZT0uypT9E) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Rocket League x Monstercat Vol\. 1](https://open.spotify.com/album/4pCdGlt4v1pqW0nOjB1T2o) | 2:43 |
+| 43 | [Global Warming \(feat\. Sensato\)](https://open.spotify.com/track/292kifgxa7S78AuzA5NMpL) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 1:25 |
 | 44 | [مش فير](https://open.spotify.com/track/29K7YMYrPPUJwUjkrfW507) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Msh Fair](https://open.spotify.com/album/6O9Li1zrgVGeawmEMIIyOQ) | 3:50 |
 | 45 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
 | 46 | [TEGE GOAL](https://open.spotify.com/track/0TvMcVxIQaxZCkT4R6yjpS) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:16 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 51 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
 | 52 | [Thunder](https://open.spotify.com/track/5VnDkUNyX6u5Sk0yZiP8XB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/51s30K7a36ORx6AAaPBRRY) | 3:07 |
 | 53 | [Thrift Shop \(feat\. Wanz\)](https://open.spotify.com/track/4YMqbFcDIFiCBd02PzUBcM) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Wanz](https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA) | [The Heist](https://open.spotify.com/album/6XO9dbsH9zhuQgFGH0hUrb) | 3:55 |
-| 54 | [Promises \- Sonny Fodera Remix](https://open.spotify.com/track/2vX9CCDImtyL6c4163Cg9y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Promises \(Sonny Fodera Remix\)](https://open.spotify.com/album/6Ya9D7yahLhjpu3fbuLd2z) | 3:57 |
-| 55 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 |
+| 54 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 |
+| 55 | [Promises \- Sonny Fodera Remix](https://open.spotify.com/track/2vX9CCDImtyL6c4163Cg9y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Promises \(Sonny Fodera Remix\)](https://open.spotify.com/album/6Ya9D7yahLhjpu3fbuLd2z) | 3:57 |
 | 56 | [Lean On](https://open.spotify.com/track/5bcYCYn63zNOjBv3KPOLjd) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/0ct1bK2jijAkf6IxP9B0st) | 2:56 |
 
 Snapshot ID: `AAAAAA2ZM4aVuTSYtUDqIQBo2bi263kA`

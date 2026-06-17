@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 120477,
+  "num_followers": 120486,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Salimo de Noche",
-        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Salimo de Noche",
-      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Salimo de Noche",
+        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Salimo de Noche",
+      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
     },
     {
       "added_at": "2024-10-04 19:39:18",

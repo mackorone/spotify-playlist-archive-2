@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,294 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,265 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 26 | [past reality](https://open.spotify.com/track/3RViAza4cOPuDOYPjrHSxn) | [a vow](https://open.spotify.com/artist/03vWQx7x09Nqiv7Ks0HC7C) | [past reality](https://open.spotify.com/album/6fP98Qf3uKjiuhKIFOh8ZY) | 1:40 |
 | 27 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 | 28 | [Miss Understood](https://open.spotify.com/track/7emOUo5DMccU8cg5X4uG79) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Miss Understood](https://open.spotify.com/album/1hSNwF496ybl7F25PjHiqH) | 3:39 |
-| 29 | [Feel So Alive](https://open.spotify.com/track/6T72wSyvuUJgCc8EH5wRfw) | [Limelight Sound](https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi) | [Feel So Alive](https://open.spotify.com/album/3FU3PiQqpMQzsTgEwsoqtK) | 2:15 |
+| 29 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
 | 30 | [slice \- Gold Panda Remix](https://open.spotify.com/track/2OrqhbF4qjcSki327nFA3l) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [slice \(Gold Panda Remix\)](https://open.spotify.com/album/37koGE4707P8UdATM25L62) | 4:11 |
-| 31 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
+| 31 | [Feel So Alive](https://open.spotify.com/track/6T72wSyvuUJgCc8EH5wRfw) | [Limelight Sound](https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi) | [Feel So Alive](https://open.spotify.com/album/3FU3PiQqpMQzsTgEwsoqtK) | 2:15 |
 | 32 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 |
 | 33 | [One Last Stand](https://open.spotify.com/track/6Pz5Uucqu9D4XAysJMUxTA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [One Last Stand](https://open.spotify.com/album/0N38YlPeHTvHw9B8xf6rou) | 2:17 |
 | 34 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
 | 35 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
-| 36 | [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 |
-| 37 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
-| 38 | [Love In Our Hands \- Omfeel Remix](https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Love In Our Hands \(Omfeel Remix\)](https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6) | 3:38 |
+| 36 | [Love In Our Hands \- Omfeel Remix](https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Love In Our Hands \(Omfeel Remix\)](https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6) | 3:38 |
+| 37 | [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 |
+| 38 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
 | 39 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
 | 40 | [\#3](https://open.spotify.com/track/3QIpnNYnUMe1lrr5LJTStk) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:44 |
 | 41 | [Cloud Nine](https://open.spotify.com/track/4YUYErWWA2fRJOFwYUThBX) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Cloud Nine](https://open.spotify.com/album/4ZEj9V2IDWZUyESpDlraBg) | 3:12 |

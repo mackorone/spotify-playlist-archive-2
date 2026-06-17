@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BOYNEXTDOOR
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: NEXZ
 
-1,019 songs - 2 day 7 hr 20 min
+1,021 songs - 2 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 | 2023-11-23 | 2024-02-28 |
 | [HANAMARU](https://open.spotify.com/track/2ZWtv5EADTwWVWRMQpI4rE) | [VIBY](https://open.spotify.com/artist/6yEmYNNxZJSWa52gCezahN) | [HANAMARU](https://open.spotify.com/album/6cJi17BAY5dou4xC8OD1pP) | 2:36 | 2026-05-12 |  |
 | [Handle](https://open.spotify.com/track/3ywU2ND7YU0AZms6fqMNnJ) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Level Up](https://open.spotify.com/album/6QrhDMZ1B8cmLFyMKaruYW) | 3:22 | 2024-12-03 | 2025-01-22 |
+| [HANDS UP](https://open.spotify.com/track/0ZGYPuD82YLwI0uppmFkuY) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [SUNFLOWER](https://open.spotify.com/album/5Ck6bwS4q5ZiadkzqaEoNB) | 3:40 | 2026-06-16 |  |
 | [Hands up, Yo!](https://open.spotify.com/track/46AUBRiFRIkbbKvEwqyDbO) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Hands up, Yo!](https://open.spotify.com/album/47ImUBAiFpTzsD7hHHsucf) | 3:03 | 2026-06-01 |  |
 | [Handz In My Pocket](https://open.spotify.com/track/35m8Dt5Pnnth0k17UIgEZ3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Handz In My Pocket](https://open.spotify.com/album/4HHaxkowWdzWA7sX4CaXPs) | 2:49 | 2025-09-25 | 2026-03-13 |
 | [Hapidan](https://open.spotify.com/track/76WBsSpMMB0UPnLNkQ3SGc) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Hapidan](https://open.spotify.com/album/2qjrUKfhSIxsvtMxcWoeBm) | 3:08 | 2023-11-24 | 2024-01-10 |
@@ -517,7 +518,7 @@
 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 | 2024-06-25 | 2024-07-10 |
 | [Miracle](https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Miracle](https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL) | 2:57 | 2025-03-06 | 2025-04-15 |
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 | 2024-04-10 |
-| [Mirror](https://open.spotify.com/track/3wPyVF4kPX2kWr4nksweko) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Mirror](https://open.spotify.com/album/0QJi6vK7a0WVVqSD8w3yvZ) | 2:51 | 2026-03-25 |  |
+| [Mirror](https://open.spotify.com/track/3wPyVF4kPX2kWr4nksweko) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Mirror](https://open.spotify.com/album/0QJi6vK7a0WVVqSD8w3yvZ) | 2:51 | 2026-03-25 | 2026-06-17 |
 | [Mmchk](https://open.spotify.com/track/4wmr3icyGK9zDgV4iq3gWT) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Mmchk](https://open.spotify.com/album/0jjf6Q9c7lxYlITEyT1Je2) | 2:38 | 2026-04-27 |  |
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-20 | 2025-06-13 |
 | [MONEYBAG 7ver.](https://open.spotify.com/track/001j2dUGwEkNV7k8eGeor0) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [MONEYBAG 7ver.](https://open.spotify.com/album/0I2e0pluTkgdurceUwWuSD) | 4:46 | 2024-04-23 | 2024-05-08 |
@@ -925,7 +926,7 @@
 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-09 | 2025-03-07 |
 | [ひらく](https://open.spotify.com/track/6fJEKpVd2PwWXQOiQ6vvHB) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [ひらく](https://open.spotify.com/album/6GloTxjNwNsubm8omTe1zL) | 4:27 | 2025-08-18 | 2025-10-01 |
 | [まさか泣くとは思わなかった](https://open.spotify.com/track/4W75DITKk1MihcvjXjTZVH) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [まさか泣くとは思わなかった](https://open.spotify.com/album/1lpHXknzVxEwk6X5YUVEtc) | 4:06 | 2025-04-14 | 2025-05-07 |
-| [まだあと0cm](https://open.spotify.com/track/7c9NqNH6dijPx43LPflj91) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [まだあと0cm](https://open.spotify.com/album/33ZHUWf69bn4vtoEbmkNfE) | 3:38 | 2026-05-26 |  |
+| [まだあと0cm](https://open.spotify.com/track/7c9NqNH6dijPx43LPflj91) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [まだあと0cm](https://open.spotify.com/album/33ZHUWf69bn4vtoEbmkNfE) | 3:38 | 2026-05-26 | 2026-06-17 |
 | [わたし](https://open.spotify.com/track/3Fe0fU2ugeqK7rd5Smpat0) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [わたし](https://open.spotify.com/album/3iWKJAWZA2vtdAZhLKqps8) | 4:23 | 2024-07-09 | 2024-07-31 |
 | [アプデライフ](https://open.spotify.com/track/6jy7ZZFpfHsx9gUncP6W15) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [アプデライフ](https://open.spotify.com/album/4EMfb42stEGsMlYKOA8Kot) | 3:33 | 2024-02-29 | 2024-04-03 |
 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 | 2024-01-23 | 2024-07-31 |
@@ -948,6 +949,7 @@
 | [タングステン](https://open.spotify.com/track/45wkJZzu0izt4CQgsw3hNB) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:20 | 2024-02-27 | 2024-03-20 |
 | [ダイヤモンドリリー](https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [ダイヤモンドリリー](https://open.spotify.com/album/3504vkmyPbeVuZaSky7Q3b) | 3:03 | 2024-01-09 | 2024-02-01 |
 | [ナイモノネダリ](https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [ナイモノネダリ](https://open.spotify.com/album/0kJHPrDlgnJ3xWGEHco0lQ) | 3:35 | 2023-11-23 | 2024-01-03 |
+| [ネオコード](https://open.spotify.com/track/7zgCgvl6ey1LYlQOnnpZ1Q) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [KIDS00's](https://open.spotify.com/album/5HUArcOx5pKYTDnSTBilkZ) | 2:53 | 2026-06-16 |  |
 | [ハニカミ](https://open.spotify.com/track/1x5c3sHbCtKomxFrMS5Kmh) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [ハニカミ](https://open.spotify.com/album/3pOoGsquWbIEb4vBDNqhwh) | 4:19 | 2026-01-30 | 2026-02-25 |
 | [ハピダン](https://open.spotify.com/track/5czewRI91ZJivj3xcEArZL) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [ハピダン](https://open.spotify.com/album/1eBdG7mDWLP8VAhGaAlFyL) | 3:08 | 2023-11-23 | 2023-11-25 |
 | [ハルコイ](https://open.spotify.com/track/10VPSkOYogP0pWfkWmKa8X) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [ハルコイ](https://open.spotify.com/album/157u9W7ZHan5PPA9i55G7D) | 3:01 | 2026-01-23 | 2026-03-24 |

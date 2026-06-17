@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Luke Combs and Country hits that will have you singing every word.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,292 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,288 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,17 +95,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 85 | [Back Then Right Now](https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Back Then Right Now](https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9) | 3:21 |
 | 86 | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 |
 | 87 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 |
-| 88 | [Country's Cool Again](https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Country's Cool Again](https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92) | 3:38 |
-| 89 | [Leave Me Too](https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Leave Me Too](https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD) | 3:11 |
+| 88 | [Leave Me Too](https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Leave Me Too](https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD) | 3:11 |
+| 89 | [Country's Cool Again](https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Country's Cool Again](https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92) | 3:38 |
 | 90 | [Standing Room Only](https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw) | 3:46 |
 | 91 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 |
 | 92 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 |
-| 93 | [Some Whiskey](https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:03 |
-| 94 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
+| 93 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
+| 94 | [Some Whiskey](https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:03 |
 | 95 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 |
 | 96 | [Highway Money](https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi) | [Josh Stumpf](https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj) | [Highway Money](https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa) | 3:17 |
-| 97 | [Fires Don't Start Themselves](https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:46 |
-| 98 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
+| 97 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
+| 98 | [Fires Don't Start Themselves](https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:46 |
 | 99 | [Good News Sold](https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good News Sold](https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ) | 3:23 |
 | 100 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
 

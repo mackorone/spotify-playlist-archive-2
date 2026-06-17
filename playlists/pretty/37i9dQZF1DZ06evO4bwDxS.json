@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 7034,
+  "num_followers": 7071,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAD1j5BRdD+88VFpKz+uiXv2",
+  "snapshot_id": "ai9AgAAAAADQkJN41SWctOt1kJPdGv94",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 193959,
+      "duration_ms": 193797,
       "name": "On My Way",
-      "url": "https://open.spotify.com/track/3BomnHfqKZCdPJC9bkGBjE"
+      "url": "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq"
     },
     {
       "added_at": null,

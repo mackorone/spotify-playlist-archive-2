@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,947 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,949 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 18 | [Swiss Lady](https://open.spotify.com/track/0832pCssQRETuqoNPLOtpO) | [Pepe Lienhard Band](https://open.spotify.com/artist/5eCPVMIgv86yjbfmCp4faz) | [Swiss Lady](https://open.spotify.com/album/033LXpLUFi89URJiEqc2qf) | 2:58 |
 | 19 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
 | 20 | [Jennifer Jennings](https://open.spotify.com/track/4nZ516wquSpoubxkqQ4ban) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [80](https://open.spotify.com/album/3ISffmPs7HEqXFUi9gXDXy) | 2:46 |
-| 21 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
-| 22 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
+| 21 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
+| 22 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
 | 23 | [Yo soy aquél](https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Grandes éxitos](https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl) | 2:39 |
 | 24 | [Se Piangi Se Ridi](https://open.spotify.com/track/3KFtTMzhe5hVTfMur4osaL) | [Bobby Solo](https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn) | [Bobby Solo Cantaitalia](https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy) | 3:24 |
 | 25 | [Als Het Om De Liefde Gaat](https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM) | [Sandra & Andres](https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V) | [Als Het Om De Liefde Gaat \(Expanded Edition\)](https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf) | 2:56 |

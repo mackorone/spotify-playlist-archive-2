@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, 2000s underground hip\-hop scene\. Cover: J Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,043 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,126 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 44 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
 | 45 | [Reality Check](https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU) | [Binary Star](https://open.spotify.com/artist/1bulNj9KHvx8haqJBFDSyz), [Senim](https://open.spotify.com/artist/0Df5gzL6quFRUanH7J8yNe), [Onemanarmy](https://open.spotify.com/artist/5hFUdo03JPEWYkusqTwjiX), [One Be Lo](https://open.spotify.com/artist/2wQR86xNE8mkPaffnClYAj) | [Masters of the Universe](https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK) | 4:01 |
 | 46 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
-| 47 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
-| 48 | [Deception](https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Nia](https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I) | 5:11 |
+| 47 | [Deception](https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Nia](https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I) | 5:11 |
+| 48 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 49 | [Battle Cry](https://open.spotify.com/track/3iZc0giQC5ySLgbJ6gQFEl) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Army Of The Pharaohs](https://open.spotify.com/artist/13FswnDmTIttTpiK9PS0BI), [Apathy](https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS), [King Syze](https://open.spotify.com/artist/3b6EyI9X9TQqEydURC7W1c), [Crypt The Warchild](https://open.spotify.com/artist/5R3Drc8FmPbDKmGK8LNIrh), [Des Devious](https://open.spotify.com/artist/4foaZrkZMdUnXtiCGNZ0wS), [Esoteric](https://open.spotify.com/artist/05uLh5wh57tN8AwajBpDkg), [Chief Kamachi](https://open.spotify.com/artist/2KrFLjILMBg3cf4TW8nTrr), [Planetary](https://open.spotify.com/artist/5ogssnW2k08fXhf6kYzIq8), [Celph Titled](https://open.spotify.com/artist/6bJSpzkLD8XYKqsXJ5jJNS), [Vinnie Paz](https://open.spotify.com/artist/3rExe3A3FzAmYDlQuvW2Wx) | [The Torture Papers](https://open.spotify.com/album/7kBK7f7V0vuag74KojKlrs) | 6:06 |
 | 50 | [Take a Walk](https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Apocalypse](https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 5:07 |
 

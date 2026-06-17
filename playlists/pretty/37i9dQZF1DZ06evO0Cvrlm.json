@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 597390,
+  "num_followers": 597418,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAC1GRIxkxuD2Cb5/vb+Xg61",
+  "snapshot_id": "ai9AgAAAAAADvWNvKyg8XDSpqpLLBN8H",
   "tracks": [
     {
       "added_at": null,
@@ -663,30 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
       "artists": [
         {
-          "name": "Waze & Odyssey",
-          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
-        },
-        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Tommy Theo",
-          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
         }
       ],
-      "duration_ms": 186300,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+      "duration_ms": 263506,
+      "name": "Brother Can You Spare a Dime?",
+      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
     },
     {
       "added_at": null,
@@ -723,6 +711,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
+      },
+      "artists": [
+        {
+          "name": "Waze & Odyssey",
+          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Tommy Theo",
+          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
+        }
+      ],
+      "duration_ms": 186300,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -732,25 +748,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 263506,
-      "name": "Brother Can You Spare a Dime?",
-      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "John and Elvis Are Dead",
-      "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
+      "duration_ms": 242493,
+      "name": "Wild Is the Wind",
+      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "John and Elvis Are Dead",
+      "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -796,25 +812,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Wild Is the Wind",
-      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An Easier Affair",
-        "url": "https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "An Easier Affair",
-      "url": "https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F"
+      "duration_ms": 105946,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
     },
     {
       "added_at": null,
@@ -835,82 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirito Italiano",
-        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
+        "name": "An Easier Affair",
+        "url": "https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        },
-        {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        },
-        {
-          "name": "Irene Grandi",
-          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
-        },
-        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        },
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        },
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Ars Canto G. Verdi",
-          "url": "https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE"
-        },
-        {
-          "name": "Cambodian And Tibetan Children's Choir",
-          "url": "https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd"
-        },
-        {
-          "name": "Orchestra Sinfonica Italiana",
-          "url": "https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P"
-        },
-        {
-          "name": "Jos\u00e9 Molina",
-          "url": "https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh"
         }
       ],
-      "duration_ms": 255733,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
+      "duration_ms": 277000,
+      "name": "An Easier Affair",
+      "url": "https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F"
     }
   ],
   "unique_name": "This Is George Michael",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,443 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,472 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 2 | [Deceptacon](https://open.spotify.com/track/3PVRSOQ57O3LO6HCAPkbfY) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/3N4rp7pLbDlWo2EvtONFMG) | 3:04 |
 | 3 | [Cool Schmool](https://open.spotify.com/track/1Ztdel2rhBxoPdRbp9km8z) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 2:01 |
-| 4 | [You Hear Yes](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |
+| 4 | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |
 | 5 | [Hell](https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Hell](https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK) | 3:13 |
 | 6 | [Oh Bondage! Up Yours!](https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:51 |
 | 7 | [Survive](https://open.spotify.com/track/2WLOkAhDHXhAVYIGaSmn0w) | [Bags](https://open.spotify.com/artist/5pH5qJ27fH66nDMtQIozYK) | [Dangerhouse Volume 1](https://open.spotify.com/album/0kXuX7WWmaEdzWEWJZe4Up) | 2:49 |

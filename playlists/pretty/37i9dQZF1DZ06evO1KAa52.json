@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 669093,
+  "num_followers": 669100,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADp+JNFQ9FVGtsIFDSU7Wkj",
+  "snapshot_id": "ai9AgAAAAABdf85wXG82AMwyDEZjJXPd",
   "tracks": [
     {
       "added_at": null,
@@ -1043,6 +1043,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 406637,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/79MOydAvZYm8nyyzd6fiVi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 61923,
       "name": "Trolls 2 Many Hits Mashup",
       "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 406637,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/79MOydAvZYm8nyyzd6fiVi"
     },
     {
       "added_at": null,

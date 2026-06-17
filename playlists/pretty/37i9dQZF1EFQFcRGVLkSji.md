@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397 likes - 185 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 396 likes - 185 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 130 | [Damaged Feelings](https://open.spotify.com/track/1uVfXaNoJicLDMEEntCKDw) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:17 |
 | 131 | [ROOM OF SMILES \(feat\. Uhmeer & Dayne Jordan\)](https://open.spotify.com/track/1IGsipdqanheKcO7iauH4u) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd), [Dayne Jordan](https://open.spotify.com/artist/3ryEOBMCxD6GPLBOL7Wzmr) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:27 |
 | 132 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
-| 133 | [Feels CoreCore](https://open.spotify.com/track/3grRcy3rbsNz4ao4X8apku) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
-| 134 | [I wanna know ;\) \(feat\. Big Sean, Clara La San\)](https://open.spotify.com/track/54q8KebiJmvjpWVIeptJv4) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [GENESIS FM](https://open.spotify.com/album/6ihOSYO8SFWGia9nClUPXe) | 3:24 |
+| 133 | [I wanna know ;\) \(feat\. Big Sean, Clara La San\)](https://open.spotify.com/track/54q8KebiJmvjpWVIeptJv4) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [GENESIS FM](https://open.spotify.com/album/6ihOSYO8SFWGia9nClUPXe) | 3:24 |
+| 134 | [Feels CoreCore](https://open.spotify.com/track/3grRcy3rbsNz4ao4X8apku) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
 | 135 | [MONTREAL](https://open.spotify.com/track/1VGQzAAmfZaalTHQLddcrT) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [WHY ALWAYS ME?](https://open.spotify.com/album/3HMmoUioYMFszTSEDEg5Jd) | 2:00 |
 | 136 | [No More](https://open.spotify.com/track/6T3Yt7O6rxpeiRF1dxODQL) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [No More](https://open.spotify.com/album/4UCY9M6aQm4RikN8BsptLI) | 3:06 |
 | 137 | [Right Key](https://open.spotify.com/track/7vEuEEOz0iEiGaJFHDmheN) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 184 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 185 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcUUogAAAABC+LUHcX1LlxPh9Pojxhxq`
+Snapshot ID: `AcUaBgAAAAD7PaZZUM5YcC0RMG1jozlV`

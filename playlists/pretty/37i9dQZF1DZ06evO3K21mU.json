@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 943221,
+  "num_followers": 943260,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAACAOPQXVY0GpGcZb8Ws+QD",
+  "snapshot_id": "ai9AgAAAAABWGbUjifL/8TjdLlYo7slB",
   "tracks": [
     {
       "added_at": null,
@@ -239,42 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 192065,
-      "name": "Free Fall (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 318066,
-      "name": "SAFETY",
-      "url": "https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -295,6 +259,42 @@
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 318066,
+      "name": "SAFETY",
+      "url": "https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 192065,
+      "name": "Free Fall (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
     },
     {
       "added_at": null,
@@ -399,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 234386,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
+      "duration_ms": 301064,
+      "name": "G.O.M.D",
+      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
       "artists": [
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 301064,
-      "name": "G.O.M.D",
-      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
+      "duration_ms": 234386,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
     },
     {
       "added_at": null,
@@ -475,6 +475,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292865,
+      "name": "Apparently",
+      "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 286866,
+      "name": "Only You (with Burna Boy)",
+      "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cole World: The Sideline Story",
         "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
@@ -491,42 +527,6 @@
       "duration_ms": 190653,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Petey Pablo",
-          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Old Dog (with Petey Pablo)",
-      "url": "https://open.spotify.com/track/6WGJ7hPYHXu3aQ6x8GzigX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292865,
-      "name": "Apparently",
-      "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "cLOUDs",
-        "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 242086,
-      "name": "cLOUDs",
-      "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 147666,
       "name": "To Summer, From Cole - Audio Hug",
       "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "cLOUDs",
+        "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 242086,
+      "name": "cLOUDs",
+      "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 225247,
-      "name": "Too Deep for the Intro",
-      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Port Antonio",
         "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 316235,
       "name": "Port Antonio",
       "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 225247,
+      "name": "Too Deep for the Intro",
+      "url": "https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm"
     },
     {
       "added_at": null,

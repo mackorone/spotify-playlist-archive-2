@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1126919,
+  "num_followers": 1126966,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABPljGFECp90sV5LNgUeByY",
+  "snapshot_id": "ai9AgAAAAACTHkUC0Vw9IloY2KiFUv8z",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "El Hijo del Pueblo",
+      "url": "https://open.spotify.com/track/6ElbF1uBCYlazCH6jAoF5s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -255,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
       },
       "artists": [
         {
@@ -264,25 +280,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 160866,
-      "name": "El Hijo del Pueblo",
-      "url": "https://open.spotify.com/track/6ElbF1uBCYlazCH6jAoF5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Las Llaves de Mi Alma",
-      "url": "https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR"
+      "duration_ms": 257266,
+      "name": "L\u00e1stima Que Seas Ajena",
+      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 257266,
-      "name": "L\u00e1stima Que Seas Ajena",
-      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
+      "duration_ms": 176000,
+      "name": "Las Llaves de Mi Alma",
+      "url": "https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR"
     },
     {
       "added_at": null,

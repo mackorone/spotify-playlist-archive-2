@@ -4,7 +4,7 @@
 
 > 
 
-1,488 songs - 3 day 7 hr 51 min
+1,490 songs - 3 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-08-08 | 2025-05-21 |
 | [Hater Shit](https://open.spotify.com/track/05GDlYBejzsmn3diyYWpHW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:04 | 2024-12-23 | 2025-05-21 |
 | [HB2U](https://open.spotify.com/track/2by88u2Ngp8wrJNWeULcvi) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 5:45 | 2026-03-03 |  |
+| [He Say She Say \(feat\. Gemini & Sarah Green\)](https://open.spotify.com/track/4ytRdqHgKAVxtVsjaC2ZZN) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Gemini](https://open.spotify.com/artist/42feJVPnUA9XMr8zguqf4y), [Sarah Green](https://open.spotify.com/artist/2PTjj9HWiVqAVknWeBzz3t) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:12 | 2026-06-16 |  |
 | [Head Blown](https://open.spotify.com/track/0qmWrPu7fiZSXvWfCZxcKl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:01 | 2024-09-28 | 2025-05-21 |
 | [Head$hot! \(with Trippie Redd\)](https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:16 | 2023-01-23 | 2023-05-09 |
 | [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL) | 3:09 | 2024-05-06 | 2026-03-08 |
@@ -1296,6 +1297,7 @@
 | [The Bees Knees](https://open.spotify.com/track/1n4eqIG0RRUCuPT4vnsVlv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 5:25 | 2023-03-20 | 2024-04-24 |
 | [The Bizness](https://open.spotify.com/track/22wlZ0k1c3BSZuZpHkqAnl) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 4:22 | 2025-12-04 | 2026-03-08 |
 | [The Caves Of Altamira](https://open.spotify.com/track/4IBoDzxcRRRhQ6dozP28aQ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [The Royal Scam](https://open.spotify.com/album/1Sur33x6g7tvdd9GQnHhhu) | 3:33 | 2025-05-05 | 2026-02-08 |
+| [The Coolest](https://open.spotify.com/track/1R6nmC4HUGOGSKU02Wqa0v) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 5:12 | 2026-06-16 |  |
 | [The Detox](https://open.spotify.com/track/1rWYoUOprzYyzlxL9so9jF) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:30 | 2023-01-27 | 2023-03-07 |
 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2022-07-09 | 2023-05-09 |
 | [The Feeling](https://open.spotify.com/track/30u6eg92jaKaY2lYQb8sFd) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:50 | 2024-03-28 | 2024-11-06 |

@@ -12337,6 +12337,28 @@
     },
     {
       "album": {
+        "name": "Ekko",
+        "url": "https://open.spotify.com/album/0ZrqgQIzB8dt6p8EdbB6JU"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        },
+        {
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178490,
+      "name": "Ekko",
+      "url": "https://open.spotify.com/track/7wUhEjy8rarp2c8G7lXs0W"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -15878,7 +15900,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 245226,
       "name": "For\u00e5rsdag",
       "url": "https://open.spotify.com/track/7ATlCMFyPKiEP8mmNu6RGH"
@@ -26272,7 +26294,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 205173,
       "name": "Kort & Kontant",
       "url": "https://open.spotify.com/track/1VqsSu8ypQfuFqWSEhYXVW"
@@ -26942,7 +26964,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 151844,
       "name": "Lagkagehuset Freestyle",
       "url": "https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9"

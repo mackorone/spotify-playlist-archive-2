@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 59093,
+  "num_followers": 59125,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACvkFebImCKB+5glg6+8myg",
+  "snapshot_id": "ai9AgAAAAAB0KUhOtop4NOKqAsAaX9/W",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 122583,
-      "name": "Que Chulada - En Vivo",
-      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
+      "duration_ms": 150950,
+      "name": "Paz En Este Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 150950,
-      "name": "Paz En Este Amor - En Vivo",
-      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+      "duration_ms": 122583,
+      "name": "Que Chulada - En Vivo",
+      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "El Vaso Derrama - En Vivo",
+      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 172000,
       "name": "Fruta Prohibida - En Vivo",
       "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "El Vaso Derrama - En Vivo",
-      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
     },
     {
       "added_at": null,

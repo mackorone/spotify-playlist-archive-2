@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Mon Laferte, W Sounds & J Balvin, ELENA ROSE & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,050 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,612 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Pesar De Ti y De Mi](https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [A Pesar De Ti y De Mi](https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8) | 4:09 |
 | 2 | [Godzila \- W Sound 09](https://open.spotify.com/track/3H8XilnD0LdRkT7RChDDUS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Godzila \(W Sound 09\)](https://open.spotify.com/album/5eRPFOY3oXbS25ok1yXON7) | 3:00 |
 | 3 | [PLO PLO](https://open.spotify.com/track/0bXXvhAhIVZ85wCd8aKqZa) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [PLO PLO](https://open.spotify.com/album/5TTxRgyrLUjShv6V8gi08a) | 3:22 |
-| 4 | [HAPPY 🪽](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY 🪽](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
+| 4 | [HAPPY ��](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY ��](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
 | 5 | [PIENXA EN MI](https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 2:53 |
 | 6 | [Se Le Ve](https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [Se Le Ve](https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7) | 2:39 |
 | 7 | [Al Final Del Día](https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Al Final Del Día](https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME) | 3:28 |

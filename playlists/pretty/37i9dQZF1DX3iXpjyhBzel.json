@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Get Worship",
-  "num_followers": 1217457,
+  "num_followers": 1217516,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
+        "name": "Eu Vou Fazer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qgTVU2kTbNcDmm26KLT2r"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 276551,
+      "name": "Eu Vou Fazer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xrPTTStNmUyjpuI5bVRxy"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
         "name": "Fiel \u00e9 Deus",
         "url": "https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 503584,
       "name": "Fiel \u00e9 Deus",
       "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
-        "name": "Eu Vou Fazer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qgTVU2kTbNcDmm26KLT2r"
-      },
-      "artists": [
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 276551,
-      "name": "Eu Vou Fazer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xrPTTStNmUyjpuI5bVRxy"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Jo\u00e3o Viu / Al\u00e9m do Rio Azul (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0WWDnfbwnzNrct6Vy5aBog"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 279104,
-      "name": "Jo\u00e3o Viu / Al\u00e9m do Rio Azul - Ao Vivo",
-      "url": "https://open.spotify.com/track/2w6BUVGMztDT0vGdRFzhkD"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "Se eu Somente Te Tocar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 295882,
       "name": "Se eu Somente Te Tocar - Ao Vivo",
       "url": "https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Jo\u00e3o Viu / Al\u00e9m do Rio Azul (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0WWDnfbwnzNrct6Vy5aBog"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 279104,
+      "name": "Jo\u00e3o Viu / Al\u00e9m do Rio Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/2w6BUVGMztDT0vGdRFzhkD"
     },
     {
       "added_at": "2026-06-12 03:01:53",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 355322,
-      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "Ele Cumprir\u00e1",
         "url": "https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 412747,
       "name": "Brasa Viva - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 355322,
+      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
     },
     {
       "added_at": "2026-06-12 03:01:53",

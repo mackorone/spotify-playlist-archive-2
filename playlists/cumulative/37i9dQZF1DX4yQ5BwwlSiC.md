@@ -2,7 +2,7 @@
 
 ### [CMA Fest](https://open.spotify.com/playlist/37i9dQZF1DX4yQ5BwwlSiC)
 
-> Check out all of these artists and more performing live in Nashville at CMA Fest 2026! Cover: Ella Langley
+> Watch The Music Event of Summer on June 25 at 8/7c on ABC! Cover: Ella Langley
 
 433 songs - 1 day 0 hr 7 min
 

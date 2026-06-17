@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 815582,
+  "num_followers": 815633,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
+        "name": "The Price of Admission",
+        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Heaven Passing Through",
+      "url": "https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj"
+    },
+    {
+      "added_at": "2026-06-05 00:00:39",
+      "album": {
         "name": "Fear In God",
         "url": "https://open.spotify.com/album/0eqlCc74kIH0hnj1jK9EnX"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 178666,
       "name": "Fear In God",
       "url": "https://open.spotify.com/track/4ukGwNs7VfYRsWk9bJWuf5"
-    },
-    {
-      "added_at": "2026-06-05 00:00:39",
-      "album": {
-        "name": "The Price of Admission",
-        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Heaven Passing Through",
-      "url": "https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj"
     },
     {
       "added_at": "2026-06-05 00:00:39",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
-        "name": "Lay This Body Down",
-        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
-        }
-      ],
-      "duration_ms": 287773,
-      "name": "Lay This Body Down",
-      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
-    },
-    {
-      "added_at": "2026-06-05 00:00:39",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 234146,
       "name": "God Of Love",
       "url": "https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot"
+    },
+    {
+      "added_at": "2026-06-05 00:00:39",
+      "album": {
+        "name": "Lay This Body Down",
+        "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Lay This Body Down",
+      "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
     },
     {
       "added_at": "2026-06-05 00:00:39",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
-        "name": "Devil Don't You Fool Me",
-        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 170985,
-      "name": "Devil Don't You Fool Me",
-      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
-    },
-    {
-      "added_at": "2026-06-05 00:00:39",
-      "album": {
         "name": "Stumbler's Business",
         "url": "https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 243533,
       "name": "The River's Will",
       "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
+    },
+    {
+      "added_at": "2026-06-05 00:00:39",
+      "album": {
+        "name": "Devil Don't You Fool Me",
+        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        }
+      ],
+      "duration_ms": 170985,
+      "name": "Devil Don't You Fool Me",
+      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
     },
     {
       "added_at": "2026-06-05 00:00:39",

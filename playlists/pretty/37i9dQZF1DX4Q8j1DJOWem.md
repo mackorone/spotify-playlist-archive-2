@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: pami
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,643 likes - 34 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,641 likes - 34 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
 | 2 | [ครองโลก](https://open.spotify.com/track/76j0uitplft5gODYnoQ62V) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:41 |
-| 3 | [โตกว่านี้](https://open.spotify.com/track/0SK6GsJDiO5kT0u0fMjnvn) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [โตกว่านี้](https://open.spotify.com/album/193dSLCtAwkFFvHQ7LuN9s) | 4:12 |
+| 3 | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/track/6XARn0Eq1mOQZmuAArPNA6) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ), [KHEM FREEHAND](https://open.spotify.com/artist/5QkPxDQTObq1U2uSfpwhhN) | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/album/54cxKQb85yrv96YnG6G8wI) | 4:08 |
 | 4 | [I love you a latte](https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [I love you a latte](https://open.spotify.com/album/5sNeJA74iuvnlSXaCBM1EI) | 3:53 |
 | 5 | [เจ้าชายของแก \(My Queen\)](https://open.spotify.com/track/6lh3qnI8SMWjMa8sJy41CD) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [เจ้าชายของแก \(My Queen\)](https://open.spotify.com/album/1gjydKMsfFAFyCTzqevCX9) | 2:58 |
 | 6 | [เพื่อนแบบใด \(I See It\)](https://open.spotify.com/track/4eD9FNDpKlglzEb3y1U0pU) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เพื่อนแบบใด \(I See It\)](https://open.spotify.com/album/61nujf7kJaEzCitEOj0mwF) | 3:40 |
 | 7 | [นิราศ](https://open.spotify.com/track/5aJZG8SsKhUEnrpoqGKPTQ) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:29 |
-| 8 | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/track/6XARn0Eq1mOQZmuAArPNA6) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ), [KHEM FREEHAND](https://open.spotify.com/artist/5QkPxDQTObq1U2uSfpwhhN) | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/album/54cxKQb85yrv96YnG6G8wI) | 4:08 |
+| 8 | [โตกว่านี้](https://open.spotify.com/track/0SK6GsJDiO5kT0u0fMjnvn) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [โตกว่านี้](https://open.spotify.com/album/193dSLCtAwkFFvHQ7LuN9s) | 4:12 |
 | 9 | [pity dirty](https://open.spotify.com/track/7fta8aLy0WI85TQ3HYTru9) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:13 |
 | 10 | [WIRUNJUMBANG](https://open.spotify.com/track/4KcLduFbl7EahX0CW5VJ7R) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [WIRUNJUMBANG](https://open.spotify.com/album/4c5WW45nQrDp00TFAWSdou) | 3:39 |
 | 11 | [แม่บอก](https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [แม่บอก](https://open.spotify.com/album/4tVX02x5uKETZGMuAxT4Ms) | 3:22 |

@@ -4,7 +4,7 @@
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-105 songs - 6 hr 35 min
+106 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD) | 2:49 | 2023-07-01 | 2023-08-31 |
 | [Esto Es Amor](https://open.spotify.com/track/4wbYGHHcruNoxgOYVzfqea) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Esto Es Amor](https://open.spotify.com/album/5P0MCgReUHn1c9BCfP2In9) | 4:33 | 2025-07-27 | 2025-11-08 |
 | [Esto Es Amor](https://open.spotify.com/track/6VJSw4FLrmdCan1ziL5C7n) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:33 | 2025-11-11 | 2025-11-15 |
+| [Estoy Llorando De Tanta Belleza](https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Femme Fatale Vol\. 2](https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh) | 3:16 | 2026-06-17 |  |
 | [Femme Fatale](https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:10 | 2025-10-27 |  |
 | [Femme Fatale \- Spotify Sessions](https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Spotify Sessions\)](https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x) | 4:18 | 2026-03-13 | 2026-04-09 |
 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 | 2023-03-24 |  |
@@ -75,7 +76,7 @@
 | [Pensamos](https://open.spotify.com/track/1Y5G2UvRplEzSs7ngBKUgb) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Pensamos](https://open.spotify.com/album/3mhYvnYd8l0MGQVJsrPEK1) | 2:53 | 2023-03-24 | 2025-01-03 |
 | [Placer Hollywood](https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:39 | 2023-03-24 | 2026-02-11 |
 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 | 2023-03-24 | 2023-08-14 |
-| [Por Qué Me Fui A Enamorar de Ti \- En Vivo, Desde El Lunario del Auditorio Nacional](https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Sola Con Mis Monstruos \(En Vivo, Desde El Lunario del Auditorio Nacional\)](https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q) | 4:33 | 2023-03-24 |  |
+| [Por Qué Me Fui A Enamorar de Ti \- En Vivo, Desde El Lunario del Auditorio Nacional](https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Sola Con Mis Monstruos \(En Vivo, Desde El Lunario del Auditorio Nacional\)](https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q) | 4:33 | 2023-03-24 | 2026-06-17 |
 | [Pornocracia](https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:23 | 2023-12-13 |  |
 | [Primaveral](https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:51 | 2023-03-24 |  |
 | [Préndele Fuego](https://open.spotify.com/track/6aVoAutMSg9BZv0jkwPKN1) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:00 | 2023-12-13 | 2025-11-16 |

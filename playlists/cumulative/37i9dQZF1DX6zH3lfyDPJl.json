@@ -146,7 +146,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 201951,
       "name": "3:00 AM",
       "url": "https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 267583,
       "name": "All Is You",
       "url": "https://open.spotify.com/track/3A6e9hEmk2oZ42iAhRovm2"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 282000,
       "name": "Beautiful, even now",
       "url": "https://open.spotify.com/track/4RjZyA4jkR5q5WiZ3FNFxt"
@@ -518,6 +518,28 @@
       "duration_ms": 225882,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2bIXRvQccLz5rhW8CkyBWs"
+    },
+    {
+      "album": {
+        "name": "Lost Mood",
+        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Blue mood",
+      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
     },
     {
       "album": {
@@ -1072,7 +1094,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 209589,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
@@ -1216,7 +1238,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 219280,
       "name": "Fire in These Hills",
       "url": "https://open.spotify.com/track/2Morv8EWzWFsfbqG8vdUfy"
@@ -1422,7 +1444,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 325000,
       "name": "Heya",
       "url": "https://open.spotify.com/track/0V3eVNmgkOzJ5wQztnCpAV"
@@ -1440,7 +1462,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 255160,
       "name": "Hi Bye, Goodnight",
       "url": "https://open.spotify.com/track/0Cbo2nwSh4r2zjlDml9cQp"
@@ -1646,6 +1668,24 @@
       "duration_ms": 229500,
       "name": "I'm Watching a Loneliness Just Arisen",
       "url": "https://open.spotify.com/track/2xfoFuQxQeEkQRgY3tF1JU"
+    },
+    {
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/5fJ2UXhkmcbc37492C1uDZ"
+      },
+      "artists": [
+        {
+          "name": "Sanbo",
+          "url": "https://open.spotify.com/artist/2rKxDvJDT1Pv93k4ohx8Cp"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222562,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2U9cVyAs6E5wwY7YduXOB9"
     },
     {
       "album": {
@@ -1996,7 +2036,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 227000,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4bKu7NcZtoBP675VBm1luu"
@@ -2476,7 +2516,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/14Np50ZA2kLzYwtJezBFqJ"
@@ -2847,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "album": {
         "name": "summer flows 0.02",
         "url": "https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4"
       },
@@ -2948,7 +3006,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
@@ -3020,7 +3078,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "She",
       "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
@@ -3164,7 +3222,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "space",
       "url": "https://open.spotify.com/track/0DHyNlgEaolgfVxPhyFDTq"
@@ -3182,7 +3240,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 183133,
       "name": "Spectator",
       "url": "https://open.spotify.com/track/0W9jWMTASe0JmydIrXwSEz"
@@ -3308,7 +3366,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 193425,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/2H28TK2PMVBeRZKelRJewg"
@@ -3362,7 +3420,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 218053,
       "name": "Taking Off",
       "url": "https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9"
@@ -3416,7 +3474,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 174133,
       "name": "The Craving (Jenna's version)",
       "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
@@ -3654,7 +3712,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 247600,
       "name": "Tree",
       "url": "https://open.spotify.com/track/56Jm0QlCNj0v3J7dJtEDN5"
@@ -3690,7 +3748,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 159800,
       "name": "We Don't Wanna Talk",
       "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
@@ -3913,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "Perfect Crown OST Part.8",
+        "url": "https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9"
+      },
+      "artists": [
+        {
+          "name": "hrtz.wav",
+          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "You Keep Me Here",
+      "url": "https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM"
+    },
+    {
+      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -3924,7 +4000,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 242662,
       "name": "YOUtopia",
       "url": "https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx"
@@ -3978,7 +4054,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 238000,
       "name": "\uc5ec\ub984\ubcf4\uc0ac\uc7ac\uc988 When Meteors Fall",
       "url": "https://open.spotify.com/track/1aZaIk0BhhLYlU0ZkHmZLR"

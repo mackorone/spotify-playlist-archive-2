@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Cumbia Pedregal en portada.",
-  "num_followers": 544209,
+  "num_followers": 544145,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Aprend\u00ed",
-        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183033,
-      "name": "Aprend\u00ed",
-      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 236000,
       "name": "Piensa en M\u00ed (with Vicentico)",
       "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Aprend\u00ed",
+        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183033,
+      "name": "Aprend\u00ed",
+      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
+        "name": "SALUDITOS A LOS EX",
+        "url": "https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ"
+      },
+      "artists": [
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "SALUDITOS A LOS EX",
+      "url": "https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 228026,
       "name": "Contigo en la Distancia (with Carlos Cuevas)",
       "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
-        "name": "SALUDITOS A LOS EX",
-        "url": "https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ"
-      },
-      "artists": [
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "SALUDITOS A LOS EX",
-      "url": "https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "La Barca",
-        "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        },
-        {
-          "name": "Lucero Mijares",
-          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
-        }
-      ],
-      "duration_ms": 192123,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Cada Vez Te Extra\u00f1o Menos",
         "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "La Barca",
+        "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        },
+        {
+          "name": "Lucero Mijares",
+          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+        }
+      ],
+      "duration_ms": 192123,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Sindicato Del Ritmo",
-        "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
-      },
-      "artists": [
-        {
-          "name": "Sindicato Del Ritmo",
-          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Tan B\u00e1sico",
         "url": "https://open.spotify.com/album/0v4BjRnKBVyXuDGanBQjzM"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 189155,
       "name": "Tan B\u00e1sico",
       "url": "https://open.spotify.com/track/72ntzS0t7Iq1smBA9wRjMx"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
+        "name": "Sindicato Del Ritmo",
+        "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
+      },
+      "artists": [
+        {
+          "name": "Sindicato Del Ritmo",
+          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
     },
     {
       "added_at": "2026-05-22 06:00:54",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Despu\u00e9s del Norte",
-        "url": "https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 165456,
-      "name": "Medias tintas",
-      "url": "https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS"
-    },
-    {
-      "added_at": "2026-05-22 06:00:54",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -1739,6 +1723,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
+        "name": "Despu\u00e9s del Norte",
+        "url": "https://open.spotify.com/album/6Kues0ohl4IYDZcKS4H8AG"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 165456,
+      "name": "Medias tintas",
+      "url": "https://open.spotify.com/track/0IHQjKyzBW13xzdbRkMHjS"
+    },
+    {
+      "added_at": "2026-05-22 06:00:54",
+      "album": {
         "name": "Enclave de Bolero",
         "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
       },
@@ -1775,26 +1775,22 @@
     {
       "added_at": "2026-05-22 06:00:54",
       "album": {
-        "name": "Tu Cara (Monumento)",
-        "url": "https://open.spotify.com/album/1aCjcWqkry0DwPGOGlYhPE"
+        "name": "Empecemos a Empezar",
+        "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
       "artists": [
         {
-          "name": "chicano wei",
-          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
+          "name": "Licenciado Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m"
         },
         {
-          "name": "El Verumcito",
-          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
-        },
-        {
-          "name": "Waidrian",
-          "url": "https://open.spotify.com/artist/2KHMDED0sL5iU8WLUS3OFj"
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
         }
       ],
-      "duration_ms": 139345,
-      "name": "Tu Cara (Monumento)",
-      "url": "https://open.spotify.com/track/2KVOUo21jwhA3kol4moJhw"
+      "duration_ms": 200859,
+      "name": "Empecemos a Empezar",
+      "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
     }
   ],
   "unique_name": "nuevo bolero",

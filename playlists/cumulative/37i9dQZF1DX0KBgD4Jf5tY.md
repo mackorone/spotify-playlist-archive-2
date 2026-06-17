@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:5wmojKMSezsXJ9pRUaVUJ7">VOLPI</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:4f85B9VIqMNfRjj2eDhkmy">unit</a> in cover.
 
-2,184 songs - 4 day 12 hr 43 min
+2,185 songs - 4 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [Il mercato degli abbagli](https://open.spotify.com/track/76ze0LlZyLUcjAPslRQmtD) | [Ribaltavapori](https://open.spotify.com/artist/2JiNAZmisuOT8EnYwpOhFs), [Acqua Distillata](https://open.spotify.com/artist/5qPCNyvxjgOXZMHrCbZIBF) | [Volume Uno + Due](https://open.spotify.com/album/44KFbDn8ntCNCkm2wfRHTP) | 3:47 | 2025-11-11 | 2025-12-10 |
 | [il mio lato migliore](https://open.spotify.com/track/6lU5Q0dWDQ2GJjg8dUqA3s) | [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta), [ggiovanni](https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [il mio lato migliore](https://open.spotify.com/album/4XRZozYeqW4hjVzh7p2nfN) | 2:21 | 2023-08-29 | 2023-10-19 |
 | [il mio sole \(sei tu\)](https://open.spotify.com/track/0U57nIxmj5WuoKI8B6883w) | [giulybee](https://open.spotify.com/artist/2qy6kkG36fX0G2tYQa4vik), [gatomato](https://open.spotify.com/artist/1MqEPXCa6xq5YcFeArFnG4) | [il mio sole \(sei tu\)](https://open.spotify.com/album/37bVWsKCvQG1AytQXF2YaV) | 3:34 | 2022-06-23 | 2022-07-23 |
+| [Il molo degli Inglesi](https://open.spotify.com/track/7jImJTbZYgHMilqt9BPN3D) | [Pallida Cavtat](https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa) | [Il molo degli Inglesi](https://open.spotify.com/album/3pT7K1qxaLddN7khup2QAl) | 4:16 | 2026-06-16 |  |
 | [IL MONDO DEI BACi](https://open.spotify.com/track/6ISrOSvLz0VQ2zEJjMj3GF) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [IL MONDO DEI BACi](https://open.spotify.com/album/3B9hBYNxVTD1GAHmOHFzo3) | 3:43 | 2024-06-18 | 2024-07-19 |
 | [Il mondo non ha gli occhi](https://open.spotify.com/track/59BXctKNyOByqpFA5oSwcS) | [Notlau](https://open.spotify.com/artist/3i25JvfCIGrr4IYCo7rg4V) | [Il mondo non ha gli occhi](https://open.spotify.com/album/1hSzN1SVGpmjAK2C4lGOAf) | 3:00 | 2025-07-08 | 2025-08-27 |
 | [IL PREZZO DI AMARTI](https://open.spotify.com/track/2sofwi19odicHuJSpeeOb4) | [OutSoon Collective](https://open.spotify.com/artist/4chSqgbmIZ33wCvxiMInAL), [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Mett](https://open.spotify.com/artist/7o7cJdvphDJCwTEnMRzoCE), [kiriku](https://open.spotify.com/artist/72eAE0ncrktzU5AYPbW41t) | [AMORE A MILANO](https://open.spotify.com/album/78w0p7ZPbobXLfKSGLPXZf) | 2:53 | 2024-01-24 | 2024-02-22 |
@@ -997,7 +998,7 @@
 | [LA MIRA](https://open.spotify.com/track/6NR40cS5yIB6opWZxE100K) | [emilianoakario](https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1) | [LA MIRA](https://open.spotify.com/album/6pfHdC2BDZ0ejnngLCs6No) | 3:06 | 2025-06-10 | 2025-07-02 |
 | [LA MUSICA È FINITA](https://open.spotify.com/track/0OFzxU3fLIaw94q3kvicTB) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH) | [LA MUSICA È FINITA](https://open.spotify.com/album/7ye1iaTcjevoK4A3eiHDSy) | 2:40 | 2025-05-20 | 2025-06-11 |
 | [LA NIGHT](https://open.spotify.com/track/08o3UYTWcQZZo5o7ygl4OE) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [LA NIGHT](https://open.spotify.com/album/1QJ2j9bJkmlLrgs3LUAC34) | 2:20 | 2023-10-24 | 2023-12-01 |
-| [la noia che ho negli occhi](https://open.spotify.com/track/7geFf6RDEWnrDdYUtR7KtB) | [VEROSIMILE](https://open.spotify.com/artist/6K9KfaUxJIKk6qZh9a1fVG) | [PIANO TERRA](https://open.spotify.com/album/6Rjji81ps1n8JJrYBywcdF) | 2:36 | 2026-04-01 |  |
+| [la noia che ho negli occhi](https://open.spotify.com/track/7geFf6RDEWnrDdYUtR7KtB) | [VEROSIMILE](https://open.spotify.com/artist/6K9KfaUxJIKk6qZh9a1fVG) | [PIANO TERRA](https://open.spotify.com/album/6Rjji81ps1n8JJrYBywcdF) | 2:36 | 2026-04-01 | 2026-06-17 |
 | [La nostra prova di danza](https://open.spotify.com/track/2YLygfqBuoaOUohpbku4a4) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [La nostra prova di danza](https://open.spotify.com/album/5Mysrog26p6sagyaSE1ii6) | 2:53 | 2024-04-23 | 2024-05-24 |
 | [la notte \(blu\)](https://open.spotify.com/track/0QXXW26zIGRPvSUPGeqVps) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [la notte \(blu\)](https://open.spotify.com/album/2QYOw0TelUUo7rRtqVZ8fY) | 2:36 | 2023-03-14 | 2023-04-19 |
 | [La parte sbagliata dei binari](https://open.spotify.com/track/38XqLFwGqYHlPJRhp6S5WI) | [Cranìa](https://open.spotify.com/artist/4QHhaHL3KMTGqFYW5EwTon) | [584](https://open.spotify.com/album/6GYj2WzSP3qtiGycS2PYlD) | 2:22 | 2024-01-24 | 2024-02-22 |

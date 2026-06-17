@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 514213,
+  "num_followers": 514203,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Palabras",
-        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Palabras",
-      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Mango",
         "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 221954,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Palabras",
+        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
-        }
-      ],
-      "duration_ms": 271013,
-      "name": "Ciudadano",
-      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 477496,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
+        }
+      ],
+      "duration_ms": 271013,
+      "name": "Ciudadano",
+      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        }
-      ],
-      "duration_ms": 364237,
-      "name": "Yo S\u00ed Quiero",
-      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 197588,
       "name": "G\u00e9minis",
       "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        }
+      ],
+      "duration_ms": 364237,
+      "name": "Yo S\u00ed Quiero",
+      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "The Pedrito Martinez Group",
-        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
-        }
-      ],
-      "duration_ms": 352779,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Tr\u00edo Oriental",
         "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 130346,
       "name": "La Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "The Pedrito Martinez Group",
+        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        }
+      ],
+      "duration_ms": 352779,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Dear Diz (Every Day I Think Of You)",
-        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        }
-      ],
-      "duration_ms": 408920,
-      "name": "Salt Peanuts! (Mani Salado)",
-      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "The Latin Side of Horace Silver",
         "url": "https://open.spotify.com/album/6Plg1VTOVvb6kt2Gxcd7Ix"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 458693,
       "name": "Nica's Dream",
       "url": "https://open.spotify.com/track/1i752YT3Ti4CbuZtMpmyGH"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Dear Diz (Every Day I Think Of You)",
+        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "duration_ms": 408920,
+      "name": "Salt Peanuts! (Mani Salado)",
+      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Mighty Pirates Troubadours, Chapter 10: Breaking Cover",
+        "url": "https://open.spotify.com/album/0Up99fDK2t1UQwU9Mo5z6S"
+      },
+      "artists": [
+        {
+          "name": "Papo Vazquez",
+          "url": "https://open.spotify.com/artist/5qaszBh3QUZy4EjqivB0OT"
+        }
+      ],
+      "duration_ms": 306857,
+      "name": "NY Latin Jazz Mambo",
+      "url": "https://open.spotify.com/track/7CUsMkg3J43xFzyidb4fZz"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "The Dreamer Is The Dream",
         "url": "https://open.spotify.com/album/6Nyc37jV5GlyqeGJ9EN75j"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 334746,
       "name": "Sonic Anomaly",
       "url": "https://open.spotify.com/track/4oW5TZR1ommlrPipe5R7g2"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Mighty Pirates Troubadours, Chapter 10: Breaking Cover",
-        "url": "https://open.spotify.com/album/0Up99fDK2t1UQwU9Mo5z6S"
-      },
-      "artists": [
-        {
-          "name": "Papo Vazquez",
-          "url": "https://open.spotify.com/artist/5qaszBh3QUZy4EjqivB0OT"
-        }
-      ],
-      "duration_ms": 306857,
-      "name": "NY Latin Jazz Mambo",
-      "url": "https://open.spotify.com/track/7CUsMkg3J43xFzyidb4fZz"
     },
     {
       "added_at": "2025-08-07 16:57:48",

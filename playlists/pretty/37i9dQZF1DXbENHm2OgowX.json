@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 346691,
+  "num_followers": 346868,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Forever Held",
-        "url": "https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 158651,
-      "name": "Forever Held",
-      "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "believe",
         "url": "https://open.spotify.com/album/3d9zz7wizBTlH8mT6SmOhj"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 161259,
       "name": "believe",
       "url": "https://open.spotify.com/track/3sC9JwhFLEIWkYedvhPLTG"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Forever Held",
+        "url": "https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 158651,
+      "name": "Forever Held",
+      "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Gazing Back At Earth",
-        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
-      },
-      "artists": [
-        {
-          "name": "Andy Leech",
-          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Gazing Back At Earth",
-      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "The Importance of Birds",
         "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219000,
       "name": "From a Convenient Grass",
       "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Gazing Back At Earth",
+        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
+      },
+      "artists": [
+        {
+          "name": "Andy Leech",
+          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Gazing Back At Earth",
+      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 141483,
-      "name": "Maple Seed",
-      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Rainy morning",
         "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Maple Seed",
+      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -739,38 +739,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "wistful",
         "url": "https://open.spotify.com/album/4Fy5u2f6lY8lNKWbQcDZPJ"
       },
@@ -803,18 +771,34 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
       },
       "artists": [
         {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
         }
       ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -839,6 +823,22 @@
       "duration_ms": 230173,
       "name": "For One Another",
       "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Vintage Well",
         "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -979,6 +963,22 @@
       "duration_ms": 213832,
       "name": "Out Of The Past",
       "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+      },
+      "artists": [
+        {
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Canneto",
-        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
+        "name": "Calm Current",
+        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
       },
       "artists": [
         {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+          "name": "Watasino",
+          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
         },
         {
-          "name": "G.U.P. Alcaro",
-          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
+          "name": "Lonely Girl",
+          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
         }
       ],
-      "duration_ms": 114500,
-      "name": "Canneto",
-      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
+      "duration_ms": 177230,
+      "name": "Calm Current",
+      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Calm Current",
-        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
+        "name": "Canneto",
+        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
       },
       "artists": [
         {
-          "name": "Watasino",
-          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
         },
         {
-          "name": "Lonely Girl",
-          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
+          "name": "G.U.P. Alcaro",
+          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Calm Current",
-      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
+      "duration_ms": 114500,
+      "name": "Canneto",
+      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
     },
     {
       "added_at": "2026-06-12 14:06:48",

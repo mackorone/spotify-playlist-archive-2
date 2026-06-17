@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABS4PrZnKtlrJlAGZNDxGAS",
+  "snapshot_id": "ai9AgAAAAADSF2dtuqGDmlj2OA4DDKpV",
   "tracks": [
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
-        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 251013,
-      "name": "Todo Por un Sue\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/3pKEj0ARdyp1xVrafOr4Pn"
+      "duration_ms": 286800,
+      "name": "Soy un loco",
+      "url": "https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6NZd767CliBYH3Fys8wyxY"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 286800,
-      "name": "Soy un loco",
-      "url": "https://open.spotify.com/track/5UmXB0hPoKr9JJOp5MttAx"
+      "duration_ms": 251013,
+      "name": "Todo Por un Sue\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/3pKEj0ARdyp1xVrafOr4Pn"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Son tus ojos",
-      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muchachos",
         "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 229469,
       "name": "Te Quiero Comer la Boca",
       "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Son tus ojos",
+      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Agarrate Fuerte",
-      "url": "https://open.spotify.com/track/6cjwjKXGIgRgr1PQzTfpfg"
+      "duration_ms": 278480,
+      "name": "Reina del Club",
+      "url": "https://open.spotify.com/track/6W3IFRjM8zedEfisG4BaFW"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 278480,
-      "name": "Reina del Club",
-      "url": "https://open.spotify.com/track/6W3IFRjM8zedEfisG4BaFW"
+      "duration_ms": 195666,
+      "name": "Agarrate Fuerte",
+      "url": "https://open.spotify.com/track/6cjwjKXGIgRgr1PQzTfpfg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Bleachers
 
-443 songs - 1 day 4 hr 40 min
+444 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [I Like You A Lot](https://open.spotify.com/track/1te3mypyhXzEcyqNEX5fsj) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [I Like You A Lot](https://open.spotify.com/album/3bCqum4mnqThYE8diO7AVk) | 4:07 | 2026-02-20 | 2026-06-14 |
 | [I See A Darkness](https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [I See A Darkness](https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA) | 4:25 | 2025-10-23 | 2026-02-21 |
 | [I Wanna Live With You](https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [I Wanna Live With You](https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L) | 2:54 | 2024-06-14 | 2025-05-09 |
-| [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-20 |  |
+| [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-20 | 2026-06-17 |
 | [I'm In Love \(Subaru\)](https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [I'm In Love \(Subaru\)](https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp) | 4:01 | 2024-07-18 | 2025-02-09 |
 | [i'm not joking](https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [i'm not joking](https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP) | 3:54 | 2026-04-30 |  |
 | [I'm So Down](https://open.spotify.com/track/0XYPxuShTBTHa6w4AfZ0Hw) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [I'm So Down](https://open.spotify.com/album/4ScsV2sFlzbfwU3j2uKiRu) | 3:25 | 2025-05-30 | 2025-09-11 |
@@ -336,6 +336,7 @@
 | [Sad Eyes](https://open.spotify.com/track/5Fdomh8NNsUWjWjrdaZPgi) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Sad Eyes](https://open.spotify.com/album/3S86147AAV0UuOvWTM4sl0) | 4:08 | 2024-07-11 | 2024-10-04 |
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-06-14 | 2025-03-22 |
 | [Scared Of Screaming](https://open.spotify.com/track/2P3ZRlyJxseRbrxMbMltuP) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Scared Of Screaming](https://open.spotify.com/album/5TF56mSxRuv2Tivpiem1ff) | 5:11 | 2025-05-08 | 2025-06-22 |
+| [Seachain](https://open.spotify.com/track/5I5QQqPu7S5hFbFfhyodIg) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Seachain](https://open.spotify.com/album/5B7SlvZg8nSPmk7fcskVwl) | 3:39 | 2026-06-12 |  |
 | [Serious](https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e), [Mothé](https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ) | [Serious](https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO) | 2:31 | 2025-10-02 | 2026-05-01 |
 | [Shame](https://open.spotify.com/track/550fqOZMPaSRasqZhA32Kf) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [The Painful Truth](https://open.spotify.com/album/5jq8APA0WmCEaIeHoGciO3) | 4:06 | 2025-05-23 | 2025-07-20 |
 | [She Explains Things To Me](https://open.spotify.com/track/4ltUVGlf3c6k6a5yR8sDbq) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [She Explains Things To Me](https://open.spotify.com/album/5f6f5JMGxgNa0LAJqtaUXY) | 2:18 | 2025-07-18 | 2025-09-12 |

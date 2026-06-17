@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 163465,
       "name": "ATL",
       "url": "https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt"
@@ -26812,7 +26812,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -27962,7 +27962,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 152282,
       "name": "LES DIAMANTS DE BOKASSA",
       "url": "https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK"
@@ -32422,7 +32422,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 143750,
       "name": "Met Gala",
       "url": "https://open.spotify.com/track/3K5qPKvUDNGHn1wO0wZuWH"
@@ -33806,7 +33806,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 198520,
       "name": "Mopao aye",
       "url": "https://open.spotify.com/track/0YjcIRiArrvDYyZz3YUegi"
@@ -34950,7 +34950,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 148676,
       "name": "NETFLIX CHILL",
       "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
@@ -36366,7 +36366,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 200640,
       "name": "ONE TRACK MIND",
       "url": "https://open.spotify.com/track/34BzcgDQc4mnP8A2umJiu9"
@@ -37416,10 +37416,28 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 121704,
       "name": "Pangor (Swalalala)",
       "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
+    },
+    {
+      "album": {
+        "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/1BXZecEMGNdkoNAIhujvZH"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121742,
+      "name": "Pangor - Swalalala",
+      "url": "https://open.spotify.com/track/2pIRW2eueEQxZYckuszsZe"
     },
     {
       "album": {
@@ -37850,7 +37868,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -45854,7 +45872,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
@@ -46832,7 +46850,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -47502,7 +47520,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 217861,
       "name": "T'es en love",
       "url": "https://open.spotify.com/track/2wqymG0P5vfYc3jU92DFgB"
@@ -47686,7 +47704,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"

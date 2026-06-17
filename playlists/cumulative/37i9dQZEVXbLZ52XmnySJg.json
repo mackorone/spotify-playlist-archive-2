@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 281800,
       "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
       "url": "https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z"
@@ -6440,7 +6440,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track",
       "url": "https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc"
@@ -6486,7 +6486,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
@@ -8632,7 +8632,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 362400,
       "name": "Gehra Hua",
       "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
@@ -8662,7 +8662,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 362400,
       "name": "Gehra Hua (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
@@ -11216,7 +11216,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 303640,
       "name": "Ishq Bulaava",
       "url": "https://open.spotify.com/track/1fkjRQA8wXPPyxqYLbxuqy"
@@ -11242,7 +11242,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 177893,
       "name": "Ishq de Fanniyar - Female Version",
       "url": "https://open.spotify.com/track/5jCuQyeS4WP4ZYskYhfRlH"
@@ -13986,6 +13986,36 @@
       "duration_ms": 181818,
       "name": "Katchi Sera - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa"
+    },
+    {
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        },
+        {
+          "name": "Sanya Dandona",
+          "url": "https://open.spotify.com/artist/5Y88j1QhlpI0iUp0uMrXip"
+        },
+        {
+          "name": "RXTRO",
+          "url": "https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Kath Lagda",
+      "url": "https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh"
     },
     {
       "album": {
@@ -17142,7 +17172,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 228000,
       "name": "Mann Mera - Original Version",
       "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
@@ -19068,7 +19098,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 155142,
       "name": "Naal Nachna (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/0KHOIkAcSHTH9S0H0wZV7Q"
@@ -24404,7 +24434,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 224083,
       "name": "Shararat",
       "url": "https://open.spotify.com/track/0R7grQWU1dRxiOQGIqZm0Z"
@@ -24430,7 +24460,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 224083,
       "name": "Shararat (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/0uvnGQnVe313EXePbRnZEH"
@@ -26796,7 +26826,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
@@ -26822,7 +26852,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"

@@ -562,7 +562,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 322544,
       "name": "Delivered Back to You, Over and Over Again",
       "url": "https://open.spotify.com/track/3ZPfh0eZuVB7VENVfbsUC0"
@@ -851,6 +851,28 @@
     },
     {
       "album": {
+        "name": "In Transit",
+        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303011,
+      "name": "In the taxi",
+      "url": "https://open.spotify.com/track/2dysrnibnUEr7RFakBeFm9"
+    },
+    {
+      "album": {
         "name": "No One Notices the Fly",
         "url": "https://open.spotify.com/album/794bh1FbfMmqSj0kUXKg0i"
       },
@@ -888,7 +910,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 232440,
       "name": "It's lily season",
       "url": "https://open.spotify.com/track/5r40hmtw9mfP70543u7euP"
@@ -928,10 +950,32 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 212295,
       "name": "Later",
       "url": "https://open.spotify.com/track/2QER9scLlKbXs7FykeWWfb"
+    },
+    {
+      "album": {
+        "name": "In Transit",
+        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212295,
+      "name": "Later",
+      "url": "https://open.spotify.com/track/6YMSfXwRpWXvNIwgocjf0x"
     },
     {
       "album": {
@@ -1814,7 +1858,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 472226,
       "name": "when glass is there, and water,",
       "url": "https://open.spotify.com/track/1F0Rj56hbmFWbugq15Dem1"

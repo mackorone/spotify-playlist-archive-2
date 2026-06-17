@@ -1,12 +1,12 @@
 {
   "description": "Music that means it. Cover: Modern Woman",
-  "num_followers": 131099,
+  "num_followers": 131101,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHw8cuU4WOM9cMqNp6XRogkAqIO3",
+  "snapshot_id": "AAAAAO0cOtHoqGvJppbIh4vlx63Vn7bQ",
   "tracks": [
     {
       "added_at": "2026-05-01 00:00:20",
@@ -591,8 +591,8 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Is This Real?",
-        "url": "https://open.spotify.com/album/3XrN4VxSb9rMst9yOJNgen"
+        "name": "Right Time",
+        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
       },
       "artists": [
         {
@@ -600,25 +600,9 @@
           "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Is This Real?",
-      "url": "https://open.spotify.com/track/3KXse08qGP7cdOVt0BV7U4"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp"
-      },
-      "artists": [
-        {
-          "name": "Cardinals",
-          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
-        }
-      ],
-      "duration_ms": 194753,
-      "name": "Twist and Turn",
-      "url": "https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn"
+      "duration_ms": 240214,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -635,6 +619,22 @@
       "duration_ms": 248480,
       "name": "Thorn",
       "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "duration_ms": 194753,
+      "name": "Twist and Turn",
+      "url": "https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -671,8 +671,8 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Right Time",
-        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
+        "name": "Is This Real?",
+        "url": "https://open.spotify.com/album/3XrN4VxSb9rMst9yOJNgen"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
         }
       ],
-      "duration_ms": 240214,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
+      "duration_ms": 216293,
+      "name": "Is This Real?",
+      "url": "https://open.spotify.com/track/3KXse08qGP7cdOVt0BV7U4"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-09 10:19:39",
       "album": {
-        "name": "Busker's Paradise",
-        "url": "https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb"
-      },
-      "artists": [
-        {
-          "name": "The Reytons",
-          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
-        }
-      ],
-      "duration_ms": 223812,
-      "name": "Busker's Paradise",
-      "url": "https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL"
-    },
-    {
-      "added_at": "2026-06-09 10:19:39",
-      "album": {
         "name": "Just Begun",
         "url": "https://open.spotify.com/album/1RYvPGUpvUTnIf4NFGIrY9"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 217000,
       "name": "Just Begun",
       "url": "https://open.spotify.com/track/7zcaQay1ctjagKSXcJ5tNe"
+    },
+    {
+      "added_at": "2026-06-09 10:19:39",
+      "album": {
+        "name": "Busker's Paradise",
+        "url": "https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "duration_ms": 223812,
+      "name": "Busker's Paradise",
+      "url": "https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "Placebo",
-        "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
-      },
-      "artists": [
-        {
-          "name": "VILLANELLE",
-          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
-        }
-      ],
-      "duration_ms": 290086,
-      "name": "Placebo",
-      "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Love & Money",
         "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
       },
@@ -1115,22 +1099,6 @@
       "duration_ms": 229656,
       "name": "Love & Money",
       "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
-        "name": "Mr & Mrs Human Race",
-        "url": "https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H"
-      },
-      "artists": [
-        {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Mr & Mrs Human Race",
-      "url": "https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1151,6 +1119,38 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
+        "name": "Mr & Mrs Human Race",
+        "url": "https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H"
+      },
+      "artists": [
+        {
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Mr & Mrs Human Race",
+      "url": "https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
+      },
+      "artists": [
+        {
+          "name": "VILLANELLE",
+          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+        }
+      ],
+      "duration_ms": 290086,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
         "name": "Vain",
         "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
-        "name": "I Was Just A Boy",
-        "url": "https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj"
-      },
-      "artists": [
-        {
-          "name": "Madra Salach",
-          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
-        }
-      ],
-      "duration_ms": 444196,
-      "name": "I Was Just A Boy",
-      "url": "https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
         "name": "Lipstick",
         "url": "https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 216692,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
+        "name": "I Was Just A Boy",
+        "url": "https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj"
+      },
+      "artists": [
+        {
+          "name": "Madra Salach",
+          "url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp"
+        }
+      ],
+      "duration_ms": 444196,
+      "name": "I Was Just A Boy",
+      "url": "https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb"
     },
     {
       "added_at": "2026-05-01 00:00:20",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-05-01 00:00:20",
       "album": {
+        "name": "Inaction",
+        "url": "https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9"
+      },
+      "artists": [
+        {
+          "name": "Declan Welsh and The Decadent West",
+          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
+        }
+      ],
+      "duration_ms": 186437,
+      "name": "Inaction",
+      "url": "https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm"
+    },
+    {
+      "added_at": "2026-05-01 00:00:20",
+      "album": {
         "name": "Smitten",
         "url": "https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 194652,
       "name": "Breadline",
       "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
-    },
-    {
-      "added_at": "2026-05-01 00:00:20",
-      "album": {
-        "name": "Inaction",
-        "url": "https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9"
-      },
-      "artists": [
-        {
-          "name": "Declan Welsh and The Decadent West",
-          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
-        }
-      ],
-      "duration_ms": 186437,
-      "name": "Inaction",
-      "url": "https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm"
     },
     {
       "added_at": "2026-05-01 00:00:20",

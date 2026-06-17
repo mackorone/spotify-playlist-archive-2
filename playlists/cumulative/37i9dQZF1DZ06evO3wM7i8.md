@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 40 min
+75 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,8 +67,9 @@
 | [Smoke Rings](https://open.spotify.com/track/0dFfiBFNd10yWiQ8vGrff8) | [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [European Swing Giants, Vol.6: Django Reinhardt –The Ultraphone Sessions \(Paris 1934\-1935\) and Rhythme \(Brussels 1942\)](https://open.spotify.com/album/4zbu4MDyQI8T91XMLHhJzB) | 2:50 | 2025-07-20 | 2025-08-14 |
 | [St\. Louis Blues](https://open.spotify.com/track/2EnHd4gc4u4Ks9hhuNuy5B) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol5 / 1937](https://open.spotify.com/album/4zXNqwdURbAjxf3lngaosQ) | 2:42 | 2025-07-20 |  |
 | [St\. Louis Blues](https://open.spotify.com/track/2OBta0X7oBpvOwu2saLudm) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 3:31 | 2025-07-20 |  |
+| [Sugar](https://open.spotify.com/track/1rV3Q3UrxEWHkSo68lPiqb) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 2:40 | 2026-06-17 |  |
 | [Sugar](https://open.spotify.com/track/2ObAbJuj3yaG5riycO4dss) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:40 | 2025-07-20 | 2025-08-19 |
-| [Sugar](https://open.spotify.com/track/56eYG78zkXCMitLje3S90z) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 2:40 | 2025-08-19 |  |
+| [Sugar](https://open.spotify.com/track/56eYG78zkXCMitLje3S90z) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 2:40 | 2025-08-19 | 2026-06-17 |
 | [Sweet Georgia Brown](https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt](https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd) | 3:07 | 2025-07-20 |  |
 | [Swing 42](https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.12 / 1940 \- 1941](https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL) | 2:48 | 2025-07-20 |  |
 | [Swing from Paris](https://open.spotify.com/track/1dZsuN8xSTM4cbuFQ1ypsf) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:34 | 2025-07-20 | 2026-02-16 |

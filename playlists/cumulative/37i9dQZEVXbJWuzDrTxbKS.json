@@ -9380,7 +9380,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 152000,
       "name": "Citos med\u012bbu laukos",
       "url": "https://open.spotify.com/track/6MmX9317J1qNhXS1l7N0GE"
@@ -11966,7 +11966,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 280753,
       "name": "Dirty Diana - 2012 Remaster",
       "url": "https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"
@@ -12711,6 +12711,24 @@
     },
     {
       "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
+    },
+    {
+      "album": {
         "name": "Good Girl Gone Bad",
         "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
       },
@@ -12722,7 +12740,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -13882,7 +13900,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 222000,
       "name": "D\u0101rznieks",
       "url": "https://open.spotify.com/track/2O200TTEi6VADZCOaQEoj9"
@@ -16214,7 +16232,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -18256,24 +18274,6 @@
     {
       "album": {
         "name": "Born In The Echoes",
-        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "date_added": "2026-05-11",
-      "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
-      "duration_ms": 260696,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
-    },
-    {
-      "album": {
-        "name": "Born In The Echoes",
         "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
       },
       "artists": [
@@ -18292,6 +18292,28 @@
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "date_added": "2026-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
     },
     {
       "album": {
@@ -20444,7 +20466,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -21432,7 +21454,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 276687,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/43wgyQXc2M9KmTDUqVzugM"
@@ -25214,7 +25236,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 200170,
       "name": "Ko vair\u0101k man vajag",
       "url": "https://open.spotify.com/track/4eoIViQSq5TmScgOmqBM8P"
@@ -27236,7 +27258,7 @@
       ],
       "date_added": "2021-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -31518,6 +31540,28 @@
       "duration_ms": 206019,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
     },
     {
       "album": {
@@ -37476,7 +37520,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 185454,
       "name": "PAS\u0112D\u0112T",
       "url": "https://open.spotify.com/track/1B02ZqAb5VpvMbuAX01HxQ"
@@ -40086,7 +40130,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -40968,7 +41012,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -46420,7 +46464,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -47826,7 +47870,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -50042,7 +50086,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -50060,7 +50104,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -50162,7 +50206,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/3iEUDvanZwQhLCIqUmCR7N"
@@ -53578,7 +53622,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 186825,
       "name": "Vasara bez internetiem",
       "url": "https://open.spotify.com/track/3maYYnfz7XjjUvI9uwWLVv"
@@ -56098,7 +56142,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,932 likes - 95 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,921 likes - 95 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 24 | [Mais Ninguém](https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 2:48 |
 | 25 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
 | 26 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
-| 27 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
-| 28 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
+| 27 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
+| 28 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 29 | [Menino Bonito \- Ao Vivo](https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Menino Bonito \(Ao Vivo\)](https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah) | 2:49 |
 | 30 | [É Isso Aí \(The Blower'S Daughter\) \- Ao Vivo](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge \(Ao Vivo\)](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 |
 | 31 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3JsF6aWPsSUaGsGOq6kqAG) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Pra Você Guardei o Amor](https://open.spotify.com/album/7qOUwMmQjLBCzKYQszzNBT) | 4:34 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 65 | [Para Nunca Mais Esquecer](https://open.spotify.com/track/189mH4ULrwy6T3ksvtF5aM) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Improviso](https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj) | 3:52 |
 | 66 | [Anjo Protetor](https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Outono](https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y) | 3:39 |
 | 67 | [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 |
-| 68 | [Estou Apaixonado](https://open.spotify.com/track/27k1Gc3HwIqj5U12Vot8JX) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Estou Apaixonado](https://open.spotify.com/album/1omVEDNXH6BLMs0FEQtuMz) | 3:46 |
-| 69 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/5dRTiI1Gxex5Rr83iivf3L) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/1aMO6kMWrJdvNEDnHFOi4y) | 2:47 |
-| 70 | [Exagerado](https://open.spotify.com/track/2HB3UIxBLv2Uu1Vxwsoz8H) | [Replay](https://open.spotify.com/artist/2sU3iCEcMHp4l2vR02pUqI), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Replay \- Exagerado](https://open.spotify.com/album/1f5BuZlEvSS9C39pkyVG2S) | 3:04 |
+| 68 | [Exagerado](https://open.spotify.com/track/2HB3UIxBLv2Uu1Vxwsoz8H) | [Replay](https://open.spotify.com/artist/2sU3iCEcMHp4l2vR02pUqI), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Replay \- Exagerado](https://open.spotify.com/album/1f5BuZlEvSS9C39pkyVG2S) | 3:04 |
+| 69 | [Estou Apaixonado](https://open.spotify.com/track/27k1Gc3HwIqj5U12Vot8JX) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Estou Apaixonado](https://open.spotify.com/album/1omVEDNXH6BLMs0FEQtuMz) | 3:46 |
+| 70 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/5dRTiI1Gxex5Rr83iivf3L) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/1aMO6kMWrJdvNEDnHFOi4y) | 2:47 |
 | 71 | [Samurai](https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:20 |
 | 72 | [A Cara do Amor da Minha Vida](https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [A Cara do Amor da Minha Vida](https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC) | 2:31 |
 | 73 | [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 |

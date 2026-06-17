@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-368 songs - 21 hr 20 min
+369 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Baila para Mi](https://open.spotify.com/track/51Uw47jeFgvv622ma9PxWy) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [La Rejunta](https://open.spotify.com/artist/0N8yshYVjJL0UVHmGICvaX) | [Baila para Mi](https://open.spotify.com/album/2w5OAJGbMjgj9Rct0HBVPD) | 2:29 | 2025-06-10 | 2025-10-25 |
 | [Baila Sola](https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:32 | 2025-06-27 | 2025-10-25 |
 | [Barrio Prendido](https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Nestor En Bloque](https://open.spotify.com/artist/3RBwlm5DeZ9ywEknLEqIzr), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [MOMO](https://open.spotify.com/artist/6Oa7dtz85WbPv9pYDcRSDN), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Barrio Prendido](https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J) | 4:00 | 2023-05-05 |  |
-| [Bella](https://open.spotify.com/track/1r0MnlvB9W7GUgzADjqDPd) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Fruto del Amor](https://open.spotify.com/album/4zCUpvEm7fsCC1DFVQkxDb) | 3:54 | 2025-06-10 |  |
+| [Bella](https://open.spotify.com/track/1r0MnlvB9W7GUgzADjqDPd) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Fruto del Amor](https://open.spotify.com/album/4zCUpvEm7fsCC1DFVQkxDb) | 3:54 | 2025-06-10 | 2026-06-17 |
 | [Berretines de Verduga](https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Con Síndrome de Abstinencia](https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ) | 2:56 | 2025-06-10 |  |
 | [Besame](https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:52 | 2024-10-11 |  |
 | [Boquita Perfumada](https://open.spotify.com/track/3MLq3n8fNlubRM2FmPREbF) | [Sexteto Imperial](https://open.spotify.com/artist/7Ij3qRinMFtEpzRghKIHtE) | [Boquita Perfumada](https://open.spotify.com/album/6DTMt3s7wVmf9KD2FwZoMG) | 4:12 | 2026-02-27 | 2026-05-16 |
@@ -55,6 +55,7 @@
 | [Cinco minutos](https://open.spotify.com/track/4M7gtZi4Tai6gJMIkNzWcC) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Cinco minutos](https://open.spotify.com/album/2q2u75ecRs9D2IhKY2bo1R) | 3:31 | 2023-05-05 | 2023-06-12 |
 | [Coincidir](https://open.spotify.com/track/6lUAXi3L4SzK1bTym888wq) | [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu) | [Coincidir](https://open.spotify.com/album/58A9uzDueUBguOapq4kmtN) | 2:01 | 2026-05-22 |  |
 | [Comadre Compadre](https://open.spotify.com/track/4QVrFHXINjFlGuotAhiUmr) | [Los Fatales](https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu) | [Revolución Fatal](https://open.spotify.com/album/0I579Ritet6fjbN4BBRuXd) | 4:30 | 2025-11-20 |  |
+| [Como Hacer](https://open.spotify.com/track/3VQ8Cz51UVBAsRuQvicTm0) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Amarte](https://open.spotify.com/album/03ZNVDpcTSI1uq3KZOug0k) | 4:53 | 2026-06-12 |  |
 | [Como Lo Hizo? \- En Vivo](https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [La Muela \- LBC](https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB) | 3:51 | 2024-05-03 | 2025-05-04 |
 | [Como una Loba](https://open.spotify.com/track/4VBCgMKAbdaf4ciadcwWFD) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Como una Loba](https://open.spotify.com/album/6ksaWRpw6B4GjbDDJsy8UZ) | 3:00 | 2025-06-27 | 2025-07-05 |
 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 | 2023-05-05 |  |

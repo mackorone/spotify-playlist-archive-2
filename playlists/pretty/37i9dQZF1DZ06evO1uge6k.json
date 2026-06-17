@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 262591,
+  "num_followers": 262612,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAANW9h+kt1VCrhUOUhnpC15",
+  "snapshot_id": "ai9AgAAAAABTs45M4VdiQvijxGO8ZlVK",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Hot, Blue and Righteous (2006 Remaster)",
-      "url": "https://open.spotify.com/track/3PjUjSHQcZteFB77WX3WYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tejas",
         "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 209626,
       "name": "Asleep in the Desert (Instrumental)",
       "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Hot, Blue and Righteous (2006 Remaster)",
+      "url": "https://open.spotify.com/track/3PjUjSHQcZteFB77WX3WYZ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "You say guilty, we say non stop bangers!",
-  "num_followers": 3394080,
+  "num_followers": 3394066,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
-      },
-      "artists": [
-        {
-          "name": "Iyaz",
-          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 188453,
       "name": "Love You Like A Love Song",
       "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
+      },
+      "artists": [
+        {
+          "name": "Iyaz",
+          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 262533,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "A Little Bit of Mambo",
-        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
-      },
-      "artists": [
-        {
-          "name": "Lou Bega",
-          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Mambo No. 5 (a Little Bit of...)",
-      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 264706,
       "name": "It's Been Awhile",
       "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "A Little Bit of Mambo",
+        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+      },
+      "artists": [
+        {
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Mambo No. 5 (a Little Bit of...)",
+      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 243160,
       "name": "Livin' la Vida Loca",
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Reflection (Deluxe)",
         "url": "https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 224573,
       "name": "Worth It (feat. Kid Ink)",
       "url": "https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Hands All Over",
         "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 201160,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Still Writing In My Diary: 2nd Entry",
-        "url": "https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68"
-      },
-      "artists": [
-        {
-          "name": "Petey Pablo",
-          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Freek-A-Leek",
-      "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 251733,
       "name": "Pony",
       "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Still Writing In My Diary: 2nd Entry",
+        "url": "https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68"
+      },
+      "artists": [
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Freek-A-Leek",
+      "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
         "name": "14:59",
         "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 219866,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 192426,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
-      },
-      "artists": [
-        {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Love Always",
         "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
+      },
+      "artists": [
+        {
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Banana Pancakes",
-      "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "D-12 World",
         "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 298773,
       "name": "My Band",
       "url": "https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
     },
     {
       "added_at": "2024-07-02 21:25:40",

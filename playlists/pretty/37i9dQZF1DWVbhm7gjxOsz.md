@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,304 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,348 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 39 | [Thin Line Between Love and Hate](https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib) | [The Persuaders](https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB) | [Thin Line Between Love & Hate: Golden Classics](https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98) | 3:27 |
 | 40 | [I Want to Be Your Man](https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:09 |
 | 41 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
-| 42 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
-| 43 | [Make It With You](https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [With Love](https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud) | 4:45 |
+| 42 | [Make It With You](https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [With Love](https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud) | 4:45 |
+| 43 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
 | 44 | [Fire And Desire](https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 7:17 |
 | 45 | [Angel Baby](https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [The Unavailable 16 & The Original Nitty Gritty](https://open.spotify.com/album/0f9kpqUzaC1KwJ6avbN7Rj) | 3:47 |
 | 46 | [Didn't I \(Blow Your Mind This Time\)](https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:21 |

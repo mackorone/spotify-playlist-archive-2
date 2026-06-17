@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,582 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,633 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How To Act](https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [How To Act](https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE) | 3:41 |
 | 2 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/43UV5Uk0ntzH6MP8Rx1RKh) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:56 |
 | 3 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
-| 4 | [Fear In God](https://open.spotify.com/track/4ukGwNs7VfYRsWk9bJWuf5) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Fear In God](https://open.spotify.com/album/0eqlCc74kIH0hnj1jK9EnX) | 2:58 |
-| 5 | [Heaven Passing Through](https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:00 |
+| 4 | [Heaven Passing Through](https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:00 |
+| 5 | [Fear In God](https://open.spotify.com/track/4ukGwNs7VfYRsWk9bJWuf5) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Fear In God](https://open.spotify.com/album/0eqlCc74kIH0hnj1jK9EnX) | 2:58 |
 | 6 | [A House In Nebraska](https://open.spotify.com/track/6UxAKocZd98MRn0u5obryV) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:46 |
 | 7 | [Heart of Stone](https://open.spotify.com/track/7dHnVfXljNwvlLGlr6lMlc) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 4:25 |
 | 8 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 63 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
 | 64 | [Underneath the Blood Moon](https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [Underneath the Blood Moon](https://open.spotify.com/album/0wSfaQBd6ihGGQjGNCza3B) | 4:30 |
 | 65 | [Where the Enemy Sleeps](https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k) | [Scott Mackay](https://open.spotify.com/artist/2xYS83mlSswjyivp81pukU), [Lucette](https://open.spotify.com/artist/01z6ICSRjIuMEwMhPyA6ql) | [Twin](https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J) | 3:16 |
-| 66 | [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 |
-| 67 | [God Of Love](https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [3](https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P) | 3:54 |
+| 66 | [God Of Love](https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [3](https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P) | 3:54 |
+| 67 | [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 |
 | 68 | [Dead Man's Pocket](https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 2:54 |
 | 69 | [Country Blues](https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk) | [Rose's Pawn Shop](https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3) | [Gravity Well](https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB) | 3:23 |
 | 70 | [Gambling Preacher and His Daughter](https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod) | [Whiskey Folk Ramblers](https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj) | [...And There Are Devils](https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g) | 3:36 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 80 | [Fire in the Dark](https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD) | [Gary Nichols](https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n) | [Fire in the Dark](https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1) | 3:06 |
 | 81 | [Skunks](https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Skunks](https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL) | 3:27 |
 | 82 | [Dig](https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 2:15 |
-| 83 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
-| 84 | [The River's Will](https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ) | [Kendl Winter](https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM) | [Stumbler's Business](https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc) | 4:03 |
+| 83 | [The River's Will](https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ) | [Kendl Winter](https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM) | [Stumbler's Business](https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc) | 4:03 |
+| 84 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
 | 85 | [Conman Coming](https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:16 |
 | 86 | [Blackland Farmer](https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Blackland Farmer](https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl) | 7:37 |
 | 87 | [One Trip Pony](https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [One Trip Pony](https://open.spotify.com/album/74baaIXY7vOeuCZzVSEVs3) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Kygo x Khalid x Gryffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,197 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,204 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 2 | [Flames \(feat\. Bandit\)](https://open.spotify.com/track/0U5cp34yeoKN4GTcedhAFo) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Flames \(feat\. Bandit\)](https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O) | 2:59 |
 | 3 | [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 |
 | 4 | [Rollin](https://open.spotify.com/track/0byV24r3mAPFKqU4ZCvpQL) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Rollin](https://open.spotify.com/album/7AHHVt5bV0J8C3gkdDB3Se) | 2:05 |
-| 5 | [Freak On](https://open.spotify.com/track/5pH1B2LRWb9BIdnZJgVzXW) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Freak On](https://open.spotify.com/album/5BI8MWGza6uyWvmD13HPAR) | 2:49 |
+| 5 | [Freak On](https://open.spotify.com/track/5pH1B2LRWb9BIdnZJgVzXW) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Freak On](https://open.spotify.com/album/5BI8MWGza6uyWvmD13HPAR) | 2:50 |
 | 6 | [Miles Away](https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Miles Away](https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE) | 2:27 |
 | 7 | [Miss Me](https://open.spotify.com/track/6FuZnxyt5eEzGdVQEeLtAC) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Miss Me](https://open.spotify.com/album/6eE9z8gsSfs1GGRVU18hH4) | 2:24 |
 | 8 | [Science \(feat\. Stevie Appleton\) \- Radio Edit](https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Science \(feat\. Stevie Appleton\)](https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO) | 3:32 |

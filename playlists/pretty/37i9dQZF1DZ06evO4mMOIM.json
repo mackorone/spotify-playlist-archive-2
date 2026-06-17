@@ -1,12 +1,12 @@
 {
   "description": "This is Glassjaw. The essential tracks, all in one playlist.",
-  "num_followers": 2674,
+  "num_followers": 2676,
   "original_name": "This Is Glassjaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABPUw2DlXT3OAtkFYO7r3/j",
+  "snapshot_id": "ai9AgAAAAABenXQs9ckp1+l7j2P3tZCV",
   "tracks": [
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
+        "name": "Our Color Green (The Singles)",
+        "url": "https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 202013,
-      "name": "Vanilla Poltergeist Snake",
-      "url": "https://open.spotify.com/track/49DtpkyPIzyo4yJh02mxZQ"
+      "duration_ms": 316402,
+      "name": "You Think You're (John Fucking Lennon)",
+      "url": "https://open.spotify.com/track/09VDpaucF3nSyTznLePzI7"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Color Green (The Singles)",
-        "url": "https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 316402,
-      "name": "You Think You're (John Fucking Lennon)",
-      "url": "https://open.spotify.com/track/09VDpaucF3nSyTznLePzI7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
@@ -288,9 +272,25 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 283746,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1RwBjcl5kuSR7YAb6KudBj"
+      "duration_ms": 202013,
+      "name": "Vanilla Poltergeist Snake",
+      "url": "https://open.spotify.com/track/49DtpkyPIzyo4yJh02mxZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mark",
+        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "El Mark",
+      "url": "https://open.spotify.com/track/6qzrABvo4DnUiDlg3nuJsf"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mark",
-        "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "El Mark",
-      "url": "https://open.spotify.com/track/6qzrABvo4DnUiDlg3nuJsf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
@@ -352,9 +336,25 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Miracles in Inches",
-      "url": "https://open.spotify.com/track/5JkaxviT0dFs9hbScnAPwX"
+      "duration_ms": 283746,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1RwBjcl5kuSR7YAb6KudBj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "my conscience weighs a ton",
+      "url": "https://open.spotify.com/track/3QNDMB1kuF99oWG5aFKhYe"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 164293,
-      "name": "my conscience weighs a ton",
-      "url": "https://open.spotify.com/track/3QNDMB1kuF99oWG5aFKhYe"
+      "duration_ms": 221946,
+      "name": "Miracles in Inches",
+      "url": "https://open.spotify.com/track/5JkaxviT0dFs9hbScnAPwX"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 322106,
-      "name": "Daytona White",
-      "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
+      "duration_ms": 265839,
+      "name": "new white extremity",
+      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 265839,
-      "name": "new white extremity",
-      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
+      "duration_ms": 322106,
+      "name": "Daytona White",
+      "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 415613,
-      "name": "Stations of the New Cross",
-      "url": "https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO"
+      "duration_ms": 141759,
+      "name": "citizen",
+      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 141759,
-      "name": "citizen",
-      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
+      "duration_ms": 415613,
+      "name": "Stations of the New Cross",
+      "url": "https://open.spotify.com/track/5O7oghNlSQe2DqLQejogQO"
     },
     {
       "added_at": null,

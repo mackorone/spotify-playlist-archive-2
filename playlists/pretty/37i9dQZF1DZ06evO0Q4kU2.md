@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,499 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,500 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 | 49 | [Vortex](https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 3:52 |
 | 50 | [Ocean Variation II](https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:55 |
 
-Snapshot ID: `ai3vAAAAAABK1uD9vYv3sqWQN0wUxIEo`
+Snapshot ID: `ai9AgAAAAADB5Z8aHUDllR+XOzhY/tod`

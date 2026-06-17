@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Kenriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,919 likes - 107 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,909 likes - 107 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

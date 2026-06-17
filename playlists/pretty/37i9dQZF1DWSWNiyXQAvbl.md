@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,295 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,311 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 39 | [Midnight Train to Georgia](https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:40 |
 | 40 | [Bye Bye Baby](https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Once Upon A Star](https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl) | 2:50 |
 | 41 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
-| 42 | [Yellow River](https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few) | [Christie](https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn) | [Christie](https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR) | 2:45 |
-| 43 | [Love Will Keep Us Together](https://open.spotify.com/track/10pcZvQ4QTKeHRvTUAeHVD) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Scrapbook](https://open.spotify.com/album/6ezk9jUCncL6Dx7fdO7JfB) | 3:23 |
+| 42 | [Love Will Keep Us Together](https://open.spotify.com/track/10pcZvQ4QTKeHRvTUAeHVD) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Scrapbook](https://open.spotify.com/album/6ezk9jUCncL6Dx7fdO7JfB) | 3:23 |
+| 43 | [Yellow River](https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few) | [Christie](https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn) | [Christie](https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR) | 2:45 |
 | 44 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
 | 45 | [Dancing in the City](https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc) | [Marshall Hain](https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb) | [Free Ride](https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe) | 3:49 |
 | 46 | [Arms of Mary](https://open.spotify.com/track/6287Wj4s5fDLLxZPQFCwZq) | [The Sutherland Brothers](https://open.spotify.com/artist/1Zc7TYayqzpDtjvXfNvPrL), [Quiver](https://open.spotify.com/artist/0vVxoKTyF3nIdUr2W84uIn), [Ron Albert](https://open.spotify.com/artist/1QoYcmEu5DiUAmmsFYNYBG), [Howle Albert](https://open.spotify.com/artist/7GNO2xlmnh1VmZAxkI8Mdl) | [REACH FOR THE SKY](https://open.spotify.com/album/250pi4BXKaHZKZg7Q4nnAo) | 2:37 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 65 | [Give A Little Bit](https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments \(Remastered\)](https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU) | 4:08 |
 | 66 | [Take A Chance On Me](https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x) | 4:03 |
 | 67 | [Solsbury Hill](https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Vanilla Sky \(Music from the Motion Picture\)](https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7) | 4:22 |
-| 68 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
-| 69 | [Jamming](https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 3:31 |
+| 68 | [Jamming](https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 3:31 |
+| 69 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 70 | [Stumblin' In](https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ), [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc) | [The Very Best of Suzi Quatro](https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb) | 3:59 |
 | 71 | [Dreadlock Holiday](https://open.spotify.com/track/5SI6jYhKUWm1qnaheTm4Zw) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Bloody Tourists](https://open.spotify.com/album/70q6kAw7x7Dia2OwDbSfUL) | 4:27 |
 | 72 | [Golden Years](https://open.spotify.com/track/0gOx4r5a1KkRTZ4uZDilrb) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Station To Station \(US Version\)](https://open.spotify.com/album/53VB3DfAESTKLaflLk58Jo) | 4:02 |

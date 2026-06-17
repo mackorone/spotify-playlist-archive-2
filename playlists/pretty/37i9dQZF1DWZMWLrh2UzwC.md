@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Olivia Rodrigo, BTS, Khai Bahar, BABYMONSTER, A\-Lin, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,138 likes - 108 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,133 likes - 108 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

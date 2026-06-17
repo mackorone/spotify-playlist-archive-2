@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Asham Eblees",
+        "url": "https://open.spotify.com/album/7F78kEHzXNaRUdHObiggw5"
+      },
+      "artists": [
+        {
+          "name": "Lamya Almalki",
+          "url": "https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176029,
+      "name": "Asham Eblees",
+      "url": "https://open.spotify.com/track/4z1XSj3cP6ULHMGfdYeAjL"
+    },
+    {
+      "album": {
         "name": "Asliyah",
         "url": "https://open.spotify.com/album/4asoomU1I56N5Bt6CunOgU"
       },
@@ -778,6 +796,24 @@
       "duration_ms": 184320,
       "name": "A\u062dla",
       "url": "https://open.spotify.com/track/1mW1HAX56sSxdYR0eSfMpa"
+    },
+    {
+      "album": {
+        "name": "BAB SBA3",
+        "url": "https://open.spotify.com/album/0SXlcXpQ7G4cf1conajLn4"
+      },
+      "artists": [
+        {
+          "name": "Lala Tamar",
+          "url": "https://open.spotify.com/artist/10f7DRewxOc63etYN3tevr"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212783,
+      "name": "Bab Sba3",
+      "url": "https://open.spotify.com/track/4Z9rSA5jRY6fy5hcbuVW4T"
     },
     {
       "album": {
@@ -1312,7 +1348,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 206808,
       "name": "BY NIGHT",
       "url": "https://open.spotify.com/track/5hXkNiIGBafBId7qYdm8Il"
@@ -2520,7 +2556,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 192867,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/1dX0J7ldIhzpZ4O52iZdAc"
@@ -2694,7 +2730,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 170181,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/4RfhFV42TegKj5BW2jyPAx"
@@ -3122,7 +3158,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 311347,
       "name": "Harik",
       "url": "https://open.spotify.com/track/2NsqQfFeLiohp5KZpMRmHO"
@@ -5219,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "Me vs Me",
+        "url": "https://open.spotify.com/album/155Q6KeC5LqtwdFTFYKVUa"
+      },
+      "artists": [
+        {
+          "name": "Dony",
+          "url": "https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117816,
+      "name": "Me vs Me",
+      "url": "https://open.spotify.com/track/5CMUepX7SK54Qcu9Izwbyr"
+    },
+    {
+      "album": {
         "name": "ODE.",
         "url": "https://open.spotify.com/album/0pZ3DLUZg5QWIFHTpRUmWM"
       },
@@ -5624,7 +5678,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 167918,
       "name": "MSH ANANEYA",
       "url": "https://open.spotify.com/track/5TkWSUSXXZhcS7Ta3yBWW1"
@@ -8695,6 +8749,24 @@
     },
     {
       "album": {
+        "name": "West",
+        "url": "https://open.spotify.com/album/0T86SGngQ8BYtlXLBUQcT3"
+      },
+      "artists": [
+        {
+          "name": "Shock Z",
+          "url": "https://open.spotify.com/artist/0GMdmv65R2FCIwKRERzEcY"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146351,
+      "name": "West",
+      "url": "https://open.spotify.com/track/66Ka4j8wHsNCdLnps9LPNy"
+    },
+    {
+      "album": {
         "name": "What I Mean",
         "url": "https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY"
       },
@@ -8768,6 +8840,28 @@
       "duration_ms": 225116,
       "name": "Why?",
       "url": "https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24"
+    },
+    {
+      "album": {
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/1zQnmEwJFvw6N4OdfDoRTf"
+      },
+      "artists": [
+        {
+          "name": "Veintiuno",
+          "url": "https://open.spotify.com/artist/6DWkZYGQNrv0tr1BCN0qzF"
+        },
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/2jZhkzr1I3z5DYQoULIVm7"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129230,
+      "name": "wonder why",
+      "url": "https://open.spotify.com/track/15WRWgiuNlB0cVJk3WST1c"
     },
     {
       "album": {

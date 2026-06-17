@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2W3Jjx3sdfb.md) - [plain]
 
 > Tools, perspective, and comfort for living well, through a queer lens.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

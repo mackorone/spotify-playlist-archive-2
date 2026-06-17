@@ -10843,6 +10843,32 @@
     },
     {
       "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/42feJVPnUA9XMr8zguqf4y"
+        },
+        {
+          "name": "Sarah Green",
+          "url": "https://open.spotify.com/artist/2PTjj9HWiVqAVknWeBzz3t"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252253,
+      "name": "He Say She Say (feat. Gemini & Sarah Green)",
+      "url": "https://open.spotify.com/track/4ytRdqHgKAVxtVsjaC2ZZN"
+    },
+    {
+      "album": {
         "name": "AI YoungBoy 2",
         "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
       },
@@ -25458,6 +25484,24 @@
       "duration_ms": 213800,
       "name": "The Caves Of Altamira",
       "url": "https://open.spotify.com/track/4IBoDzxcRRRhQ6dozP28aQ"
+    },
+    {
+      "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312933,
+      "name": "The Coolest",
+      "url": "https://open.spotify.com/track/1R6nmC4HUGOGSKU02Wqa0v"
     },
     {
       "album": {

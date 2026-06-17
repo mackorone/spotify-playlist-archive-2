@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > 🎧 Pop Study Focus 🧠\. Boost concentration &amp; ease anxiety with the best Chill Pop for ADHD, studying &amp; deep work\. Feat\. Olivia Rodrigo, Billie Eilish, Conan Gray &amp; fresh indie gems\. Dive into calm, academic focus\. Updated weekly! Like &amp; Save for peak performance.
 
-[Topsify](https://open.spotify.com/user/topsify) - 9,673 likes - 108 songs - 5 hr 48 min
+[Topsify](https://open.spotify.com/user/topsify) - 9,675 likes - 108 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

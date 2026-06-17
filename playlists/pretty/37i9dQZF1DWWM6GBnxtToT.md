@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,440 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,431 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 31 | [Unpack Your Bags \- Radio Edit](https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Unpack Your Bags \(Radio Edit\)](https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU) | 3:04 |
 | 32 | [Go Out](https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Go Out](https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4) | 2:34 |
 | 33 | [Bleach](https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Bleach](https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L) | 3:29 |
-| 34 | [Sabada](https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Sabada](https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD) | 3:45 |
-| 35 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
+| 34 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
+| 35 | [Sabada](https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Sabada](https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD) | 3:45 |
 | 36 | [Busy](https://open.spotify.com/track/2VG8dvyYnyj4WtzNIj2fOC) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Busy](https://open.spotify.com/album/68Saky2gc5DtvcQlRHKm1g) | 2:46 |
 | 37 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 |
 | 38 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 |

@@ -11041,6 +11041,24 @@
     },
     {
       "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
+    },
+    {
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/4xXu2XeAwIcAUIRcd2Fj1U"
       },

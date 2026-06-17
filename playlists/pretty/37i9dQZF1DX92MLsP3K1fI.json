@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Noa Sainz en portada \u2728",
-  "num_followers": 95030,
+  "num_followers": 95038,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
+        "name": "QUIERO OLVIDARTE (Respuesta #1)",
+        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "QUIERO OLVIDARTE - Respuesta #1",
+      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
-        "name": "QUIERO OLVIDARTE (Respuesta #1)",
-        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 162099,
-      "name": "QUIERO OLVIDARTE - Respuesta #1",
-      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
+        "name": "\u00bfEs En Serio?",
+        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 193342,
+      "name": "\u00bfEs En Serio?",
+      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
         "name": "el silencio",
         "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 218217,
       "name": "el silencio",
       "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
-        "name": "\u00bfEs En Serio?",
-        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 193342,
-      "name": "\u00bfEs En Serio?",
-      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "CORAZON PESAO",
-        "url": "https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L"
-      },
-      "artists": [
-        {
-          "name": "Lua Lacruz",
-          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
-        },
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "CORAZON PESAO",
-      "url": "https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "CORAZON PESAO",
+        "url": "https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L"
+      },
+      "artists": [
+        {
+          "name": "Lua Lacruz",
+          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "CORAZON PESAO",
+      "url": "https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Baja California",
-        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Baja California",
-      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
+        "name": "Baja California",
+        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
         "name": "Hot Cherry Bomb",
         "url": "https://open.spotify.com/album/14JMi0a2NKoBedw05QpxWV"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "mani\u00e1tico",
-        "url": "https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 174358,
-      "name": "mani\u00e1tico",
-      "url": "https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "La Locura",
         "url": "https://open.spotify.com/album/2emjjajJMu9Q2rhb9Bou9v"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 153836,
       "name": "La Locura",
       "url": "https://open.spotify.com/track/2a9cmui0nFPO89oReB95fR"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "mani\u00e1tico",
+        "url": "https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 174358,
+      "name": "mani\u00e1tico",
+      "url": "https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE"
     },
     {
       "added_at": "2026-04-10 16:15:50",

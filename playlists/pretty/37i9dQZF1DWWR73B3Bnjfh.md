@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,302 likes - 75 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,473 likes - 75 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 20 | [Here's That Rainy Day](https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Boss Is Back!](https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz) | 6:07 |
 | 21 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
 | 22 | [Solitude](https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(OJC Remaster\)](https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC) | 7:51 |
-| 23 | [Old Folks \(feat\. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb\)](https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Someday My Prince Will Come](https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ) | 5:14 |
-| 24 | [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 |
+| 23 | [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 |
+| 24 | [Old Folks \(feat\. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb\)](https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Someday My Prince Will Come](https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ) | 5:14 |
 | 25 | [My Foolish Heart](https://open.spotify.com/track/1y0U0HAe5QfTRzOsz74bOt) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Makes It Happen](https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr) | 2:46 |
 | 26 | [Bewitched](https://open.spotify.com/track/7a1BrZjQgDV9wlNuj3U1nM) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 4:26 |
 | 27 | [Black Coffee](https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:31 |

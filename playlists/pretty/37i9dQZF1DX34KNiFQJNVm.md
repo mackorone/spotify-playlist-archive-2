@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano, BTS, Ricky Martin com Luan Santana, Olivia Rodrigo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,305,389 likes - 93 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,190 likes - 93 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 22 | [Desfaz as Malas](https://open.spotify.com/track/1avu22jDt6rqp5pi3EDFN9) | [Klessinha](https://open.spotify.com/artist/6pNNbixzbEeQvi5jMaxugZ) | [Resenha Sem Tirar de Dentro na Cachoeira/SP \- EP 2](https://open.spotify.com/album/4AqOOHLRZ0jaoCLjUWYeOr) | 2:43 |
 | 23 | [Fiquei Mal \- Ao Vivo](https://open.spotify.com/track/3Rb2595hoZgoNIGxDVL2Cf) | [Litto Lins](https://open.spotify.com/artist/2XiRzKNgd9WlcWvTQv3A1x), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Fiquei Mal \(Ao Vivo\)](https://open.spotify.com/album/5zBI2BHQw4EJpA5M3g6Xo5) | 2:53 |
 | 24 | [Apostei e Perdi](https://open.spotify.com/track/6TeqGgivKdqZFTDrvt1mXG) | [Evelyn Duarte](https://open.spotify.com/artist/2veagpXoVxXYkZUzaaiCcA), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C), [ASTRONEJO](https://open.spotify.com/artist/3P0Px7NoQcBMVVmyc3CDEh) | [Apostei e Perdi](https://open.spotify.com/album/6tBlX0oS8v6cNrjs3PWedY) | 3:07 |
-| 25 | [HAPPY 🪽](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY 🪽](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
+| 25 | [HAPPY ��](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY ��](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
 | 26 | [Flaca](https://open.spotify.com/track/12QOz99BmQf6niecivifM7) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [En bucle](https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u) | 4:15 |
 | 27 | [A Pesar De Ti y De Mi](https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [A Pesar De Ti y De Mi](https://open.spotify.com/album/1zZMrpkzai37lGSrxgw5a8) | 4:09 |
 | 28 | [Quando Você Chegou \- Ao Vivo](https://open.spotify.com/track/2YaYNd63RIJLE56fSW3b6Q) | [Lucas Morato](https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Quando Você Chegou \(Ao Vivo\)](https://open.spotify.com/album/1zud3bWQSZkGAQxIulcUid) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,293 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,462 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 38 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 |
 | 39 | [Dance, Kid, Dance](https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Three Six Five / Dance, Kid, Dance](https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0) | 3:32 |
 | 40 | [I Will Not Break](https://open.spotify.com/track/6EdnztPkhHINbu8Y9NgIIR) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/52fk7ioJgZLmeKCbwjbfyG) | 4:52 |
-| 41 | [Heaven Knows](https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going to Hell](https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf) | 3:44 |
-| 42 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
+| 41 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
+| 42 | [Heaven Knows](https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going to Hell](https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf) | 3:44 |
 | 43 | [Bite My Tongue](https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Sinners Never Sleep](https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8) | 3:42 |
 | 44 | [Crawl Back In](https://open.spotify.com/track/6eK6eWG03zxQFW8P4OE4Cb) | [Dead By Sunrise](https://open.spotify.com/artist/502ZZTWlqgS1Ht62ewubEJ) | [Out Of Ashes](https://open.spotify.com/album/34Zz8qH5QJgD2uTXDuZ2J9) | 3:02 |
 | 45 | [TWICE](https://open.spotify.com/track/3c7E75a0REL2z6jt8yfrjV) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [TWICE](https://open.spotify.com/album/29cUGht8DCeDQ9DDTVHlZG) | 3:44 |
-| 46 | [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 |
-| 47 | [WE’RE IN THIS TOGETHER](https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE IN THIS TOGETHER](https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5) | 4:12 |
+| 46 | [WE’RE IN THIS TOGETHER](https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE IN THIS TOGETHER](https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5) | 4:12 |
+| 47 | [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 |
 | 48 | [Dark Side](https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ) | 2:57 |
 | 49 | [Calling](https://open.spotify.com/track/5OWHDcyCInbwVO0XXTIRj1) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Blue\-Sky Research \(U.S\. Version\)](https://open.spotify.com/album/0yf6tzIZPVtgozEkWhKsoO) | 3:52 |
 | 50 | [BOMB TO A KNIFE FIGHT](https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [BOMB TO A KNIFE FIGHT](https://open.spotify.com/album/7t0w7wWnCcNvZrUGvreW21) | 2:41 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 54 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
 | 55 | [Death by Rock and Roll](https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death by Rock and Roll](https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX) | 3:54 |
 | 56 | [Love Bites \(So Do I\)](https://open.spotify.com/track/6RWArMm7oXa5WAzpqIjLg1) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Hello, It's Mz\. Hyde](https://open.spotify.com/album/1b9y3Jp9B2BllmRLMFcFXE) | 3:12 |
-| 57 | [It Takes Two](https://open.spotify.com/track/4qD7E5bh9UecHMbC2BIGYD) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Dilworth](https://open.spotify.com/album/1IsOJ7IdwOxIxjhiqwvdPm) | 3:09 |
-| 58 | [If Not for You](https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [Marching in Time](https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe) | 4:10 |
+| 57 | [If Not for You](https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [Marching in Time](https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe) | 4:10 |
+| 58 | [It Takes Two](https://open.spotify.com/track/4qD7E5bh9UecHMbC2BIGYD) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Dilworth](https://open.spotify.com/album/1IsOJ7IdwOxIxjhiqwvdPm) | 3:09 |
 | 59 | [Sharkbait](https://open.spotify.com/track/2XybqMpL67EfQErfR00HID) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Mishaps Of My Mid Twenties](https://open.spotify.com/album/5Rjyhc3YdFNM3qv6wikP8E) | 3:31 |
 | 60 | [BITE BACK](https://open.spotify.com/track/2Z1fwyUIhfq8MrxrR1yvsh) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [WRONG GENERATION](https://open.spotify.com/album/0ENzm2HTf7mfFjWZ7CaB5u) | 3:10 |
 

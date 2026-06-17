@@ -14910,7 +14910,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -20098,7 +20098,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 226023,
       "name": "Frelsi\u00f0",
       "url": "https://open.spotify.com/track/17eVe466nbOmrqyaBHh8BI"
@@ -28091,6 +28091,28 @@
     },
     {
       "album": {
+        "name": "I Was Made To Find You (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nUHGRqPtCweIq53DftlHL"
+      },
+      "artists": [
+        {
+          "name": "Olivier Gronier",
+          "url": "https://open.spotify.com/artist/7mPPuc3DXJCbVUpuWBaHZr"
+        },
+        {
+          "name": "Virgil Hilts",
+          "url": "https://open.spotify.com/artist/0vI1FEkkIk0YYnY4fvgqHS"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "I Was Made To Find You",
+      "url": "https://open.spotify.com/track/5EgtiSbjiTfCEgyr04rRGW"
+    },
+    {
+      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -33124,7 +33146,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-11",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -37084,6 +37106,28 @@
       "duration_ms": 206384,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
     },
     {
       "album": {
@@ -48384,7 +48428,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 245527,
       "name": "Serbinn",
       "url": "https://open.spotify.com/track/4VVxGm0ib5PyaRjU1pSk20"
@@ -53170,7 +53214,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 212655,
       "name": "Sumari\u00f0",
       "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"
@@ -53196,7 +53240,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 251332,
       "name": "Sumari\u00f0 er t\u00edminn",
       "url": "https://open.spotify.com/track/53PYwY9eUAETGgIVlnrx6t"
@@ -59044,7 +59088,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 179220,
       "name": "T\u00fdnda kynsl\u00f3\u00f0in",
       "url": "https://open.spotify.com/track/5P3MwEcrBYQ4oviLfk8pLU"
@@ -64948,7 +64992,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 269693,
       "name": "\u00c1str\u00f3s",
       "url": "https://open.spotify.com/track/42BgRqXAu46c2Iz55krZGy"

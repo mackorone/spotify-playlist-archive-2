@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Summer Cem, BILLA JOE
+> 50 Hits in einer Playlist! Cover: KITSCHKRIEG, Blumengarten, Shirin David
 
-379 songs - 18 hr 2 min
+381 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Baddest in Germany](https://open.spotify.com/track/68riJ0IgArc6va32ihh57s) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Baddest in Germany](https://open.spotify.com/album/5sXwo4isUCjmHW1vlJmgci) | 2:20 | 2025-07-15 | 2025-08-14 |
 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 | 2024-09-10 | 2024-09-26 |
 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 | 2025-03-04 | 2025-07-23 |
+| [BALOTELLI](https://open.spotify.com/track/0KBV8ASFRhAioNS7SvEtqa) | [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [BALOTELLI](https://open.spotify.com/album/0pTThI32LGOQCk2NynT10A) | 2:18 | 2026-06-16 |  |
 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 | 2026-05-19 |  |
 | [BANGBANGBANG](https://open.spotify.com/track/2V8HuXQLm9RaHJdfGLYnym) | [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [BANGBANGBANG](https://open.spotify.com/album/0qH4jwehlxPZ1iujCmcBaX) | 2:12 | 2026-06-09 |  |
 | [Bauch Beine Po](https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bauch Beine Po](https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW) | 2:13 | 2024-09-10 | 2024-10-30 |
@@ -74,7 +75,7 @@
 | [Butcher](https://open.spotify.com/track/0uSHA5dbsCRMmzbidwhKwl) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Butcher](https://open.spotify.com/album/71Xdk4hTiAbzeCMfm4oo6X) | 2:47 | 2024-12-11 | 2025-01-15 |
 | [Camilla](https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [Camilla](https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS) | 3:12 | 2025-06-03 | 2025-09-10 |
 | [Capri Sun](https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Capri Sun](https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY) | 1:59 | 2025-06-17 | 2025-07-30 |
-| [CASA CUBA](https://open.spotify.com/track/3XWKL33NgAJfOmMP8xnu9U) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [CASA CUBA](https://open.spotify.com/album/096CyB48X0XXSzlY3DzWtM) | 2:41 | 2026-05-12 |  |
+| [CASA CUBA](https://open.spotify.com/track/3XWKL33NgAJfOmMP8xnu9U) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [CASA CUBA](https://open.spotify.com/album/096CyB48X0XXSzlY3DzWtM) | 2:41 | 2026-05-12 | 2026-06-17 |
 | [CDY](https://open.spotify.com/track/6BRGGHydYjs2xpSjw8Dwx7) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [CDY](https://open.spotify.com/album/3uR81H1Std9NSoYDYRiHi5) | 2:19 | 2026-03-10 | 2026-04-08 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-26 | 2026-03-25 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-06-03 | 2025-07-10 |
@@ -191,7 +192,7 @@
 | [küss mich doch](https://open.spotify.com/track/23H67W1NWkB4DOVVT8QOfV) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [küss mich doch](https://open.spotify.com/album/3FDVht0xgDOJVTGJsg2OXN) | 2:25 | 2024-12-30 | 2025-01-11 |
 | [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2025-01-21 | 2025-04-16 |
 | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:18 | 2025-02-20 | 2025-03-13 |
-| [LDNB](https://open.spotify.com/track/5O8HYf2CdbUJIQdd6PzAA7) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [LDNB](https://open.spotify.com/album/2CkZilgAxO2SxIshPTn1RQ) | 2:12 | 2026-04-21 |  |
+| [LDNB](https://open.spotify.com/track/5O8HYf2CdbUJIQdd6PzAA7) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [LDNB](https://open.spotify.com/album/2CkZilgAxO2SxIshPTn1RQ) | 2:12 | 2026-04-21 | 2026-06-17 |
 | [LICHTER AUS](https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LICHTER AUS](https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS) | 3:23 | 2025-02-04 | 2025-03-13 |
 | [LID](https://open.spotify.com/track/5U8jvRKKzcc3XjBB2CNZaZ) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [LID](https://open.spotify.com/album/7KAE2VKLE6BMQIvhri7Ylf) | 2:24 | 2024-10-01 | 2024-10-30 |
 | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/track/4xbej5ZuyFU9OmxN8jud3r) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/album/1k1mhguHDgmK4mMUcWcGlK) | 3:13 | 2024-10-29 | 2025-02-12 |
@@ -311,6 +312,7 @@
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-01-27 | 2026-05-06 |
 | [step up](https://open.spotify.com/track/4KkZR2L1iDl2f9Oi8UyaH2) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [junge ceos 1](https://open.spotify.com/album/5TBmws55nbERqZgYuoY4uB) | 1:32 | 2025-11-26 | 2025-12-17 |
 | [STREIT](https://open.spotify.com/track/2uj2UZwhooohVKQREM7Wx8) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [STREIT](https://open.spotify.com/album/7eLC3rF5nbATqQQrA2zUYz) | 3:32 | 2025-03-12 | 2025-06-11 |
+| [stupid song](https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:29 | 2026-06-16 |  |
 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-09-23 | 2025-11-27 |
 | [Summer Baby](https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Baby](https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG) | 2:23 | 2025-07-01 | 2025-07-16 |
 | [Superhelden](https://open.spotify.com/track/1vY2Hzn6UbgF9HiECwclQI) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs), [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C) | [Superhelden](https://open.spotify.com/album/22n50SX5TD2BAHb1D88a0X) | 1:33 | 2026-03-17 |  |

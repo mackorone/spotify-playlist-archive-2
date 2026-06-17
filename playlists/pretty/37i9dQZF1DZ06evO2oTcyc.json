@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 231309,
+  "num_followers": 231319,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAslArTn2T6Zu4JALl6UWEN",
+  "snapshot_id": "ai9AgAAAAAAtoDZHQRfQjnQaCzrMoPUI",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Silent Hill",
-      "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FEMA (Finesse Elevate Motivate Achieve)",
         "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 203840,
       "name": "Heart Mind",
       "url": "https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kodak The Blessing",
+        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "duration_ms": 149484,
+      "name": "Nunchucks (feat. 1900Rugrat)",
+      "url": "https://open.spotify.com/track/3EbLusls6K7qoQcjARRgUu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 181670,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LYFESTYLE",
-        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "B\u00cb QUIET (FEAT. KODAK BLACK)",
-      "url": "https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN"
     }
   ],
   "unique_name": "This Is Kodak Black",

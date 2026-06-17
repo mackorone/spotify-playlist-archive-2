@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,325 likes - 42 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,327 likes - 42 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 33 | [Pony Whip](https://open.spotify.com/track/1ORL2w9mpbWLUT6lHcqOgs) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:11 |
 | 34 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr) | 6:27 |
 | 35 | [METAL](https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CHEETAH BEND](https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb) | 3:20 |
-| 36 | [Berlin Nightmare \(feat\. Evita Manji\)](https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 3:35 |
+| 36 | [Gallop \(feat\. Evita Manji\)](https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 1:57 |
 | 37 | [Pretending I Give In \(Let Go\)](https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:02 |
 | 38 | [Drop Down](https://open.spotify.com/track/6BkXbUflsXYtvRQOzdH6Rx) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CCCLX](https://open.spotify.com/album/4Zj1rXFKSYBDDdYeMHK2eS) | 2:49 |
-| 39 | [Gallop \(feat\. Evita Manji\)](https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 1:57 |
+| 39 | [Berlin Nightmare \(feat\. Evita Manji\)](https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 3:35 |
 | 40 | [XTC Acid](https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 3:11 |
 | 41 | [Why Lies \(feat\. BC Kingdom and LIZ\)](https://open.spotify.com/track/3Jo0w1uct8LO8vY7z21hLi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:19 |
 | 42 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/508XruYEVyn4X8QudrlOFx) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 5:27 |
 
-Snapshot ID: `ai3vAAAAAACy9rt575x0h7Dm+zMDby9M`
+Snapshot ID: `ai9AgAAAAABOTWjl6nKKqEUDNvlBYdeB`

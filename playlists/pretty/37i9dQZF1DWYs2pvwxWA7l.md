@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,591 likes - 69 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,648 likes - 69 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 45 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
 | 46 | [Sooner](https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:33 |
 | 47 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [PITY THIS BOY](https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk) | 2:45 |
-| 48 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 |
+| 48 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 |
 | 49 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |
 | 50 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
-| 51 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
-| 52 | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP) | 2:33 |
-| 53 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 |
+| 51 | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP) | 2:33 |
+| 52 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
+| 53 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 |
 | 54 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
 | 55 | [Life Of The Faaji](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 2:29 |
 | 56 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |

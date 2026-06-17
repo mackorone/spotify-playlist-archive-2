@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Lila Downs \ud83d\udd25",
-  "num_followers": 580064,
+  "num_followers": 580061,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "No Vuelvas",
-        "url": "https://open.spotify.com/album/3vmOjzuvn1Pd95ObRtDaIj"
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
         }
       ],
-      "duration_ms": 226553,
-      "name": "No Vuelvas",
-      "url": "https://open.spotify.com/track/6OoshvH8ZH1QSz0E7yRih7"
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -315,18 +315,34 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+        "name": "No Vuelvas",
+        "url": "https://open.spotify.com/album/3vmOjzuvn1Pd95ObRtDaIj"
       },
       "artists": [
         {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
+      "duration_ms": 226553,
+      "name": "No Vuelvas",
+      "url": "https://open.spotify.com/track/6OoshvH8ZH1QSz0E7yRih7"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Bala Perdida",
+        "url": "https://open.spotify.com/album/3QpEb97cXKHstSxXt4MSmk"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "duration_ms": 183874,
+      "name": "Bala Perdida",
+      "url": "https://open.spotify.com/track/157j8WwiFdDZ6FKIiomEXr"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -351,22 +367,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Sombrero en Alto",
-        "url": "https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb"
-      },
-      "artists": [
-        {
-          "name": "Ximena ramos",
-          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
-        }
-      ],
-      "duration_ms": 161204,
-      "name": "Sombrero en Alto",
-      "url": "https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "China De Los Ojos Negros",
         "url": "https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK"
       },
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Bala Perdida",
-        "url": "https://open.spotify.com/album/3QpEb97cXKHstSxXt4MSmk"
+        "name": "Sombrero en Alto",
+        "url": "https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb"
       },
       "artists": [
         {
-          "name": "Arelys Henao",
-          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+          "name": "Ximena ramos",
+          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
         }
       ],
-      "duration_ms": 183874,
-      "name": "Bala Perdida",
-      "url": "https://open.spotify.com/track/157j8WwiFdDZ6FKIiomEXr"
+      "duration_ms": 161204,
+      "name": "Sombrero en Alto",
+      "url": "https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
+        "name": "El Que Se Lleva Se Aguanta",
+        "url": "https://open.spotify.com/album/43FKCTGvshv4pvkaeKHVfM"
+      },
+      "artists": [
+        {
+          "name": "Silvia Mendivil",
+          "url": "https://open.spotify.com/artist/7b2vY5BkWXM9DxDLPR6jLq"
+        }
+      ],
+      "duration_ms": 175841,
+      "name": "El Que Se Lleva Se Aguanta",
+      "url": "https://open.spotify.com/track/4sexQX2h9B05nF916DuN3k"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
         "name": "La Novia Del Pajarillo (En Vivo)",
         "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 238500,
       "name": "Un Abrazo - Versi\u00f3n Regional",
       "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
-        "name": "El Que Se Lleva Se Aguanta",
-        "url": "https://open.spotify.com/album/43FKCTGvshv4pvkaeKHVfM"
-      },
-      "artists": [
-        {
-          "name": "Silvia Mendivil",
-          "url": "https://open.spotify.com/artist/7b2vY5BkWXM9DxDLPR6jLq"
-        }
-      ],
-      "duration_ms": 175841,
-      "name": "El Que Se Lleva Se Aguanta",
-      "url": "https://open.spotify.com/track/4sexQX2h9B05nF916DuN3k"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "VOLV\u00cd",
-        "url": "https://open.spotify.com/album/4ZCC095ls57ZsnyHrq0OGo"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "VOLV\u00cd",
-      "url": "https://open.spotify.com/track/5HCOVIFYzLi5kMxoWVIyV3"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "No Puedo Odiarte",
         "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 126386,
       "name": "No Puedo Odiarte",
       "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "VOLV\u00cd",
+        "url": "https://open.spotify.com/album/4ZCC095ls57ZsnyHrq0OGo"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "VOLV\u00cd",
+      "url": "https://open.spotify.com/track/5HCOVIFYzLi5kMxoWVIyV3"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Herencias De Mi Madre (Volumen 2)",
         "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 138931,
       "name": "La Silla Vac\u00eda",
       "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Que Ganas De No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
+      },
+      "artists": [
+        {
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+        }
+      ],
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
         "name": "Mam\u00e1",
         "url": "https://open.spotify.com/album/4Q90bq3WQA6cVK03PZTy3A"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 229500,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/15CdulcFCtGJxQQInb8pEg"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
-        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
-        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
-      },
-      "artists": [
-        {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
-        }
-      ],
-      "duration_ms": 254227,
-      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
-      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "All\u00e1 Donde Vayas",
         "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 213316,
       "name": "All\u00e1 Donde Vayas",
       "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-05-29 06:00:32",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-05-29 06:00:32",
       "album": {
-        "name": "Bandera Roja",
-        "url": "https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1"
-      },
-      "artists": [
-        {
-          "name": "Irany",
-          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
-        }
-      ],
-      "duration_ms": 169808,
-      "name": "Bandera Roja",
-      "url": "https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW"
-    },
-    {
-      "added_at": "2026-05-29 06:00:32",
-      "album": {
         "name": "Para Morir Iguales",
         "url": "https://open.spotify.com/album/39PPTkycFFOzFWBpgrHDuC"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 160000,
       "name": "Para Morir Iguales",
       "url": "https://open.spotify.com/track/0m37cPhofDFSDQZzxeXyvp"
+    },
+    {
+      "added_at": "2026-05-29 06:00:32",
+      "album": {
+        "name": "Bandera Roja",
+        "url": "https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1"
+      },
+      "artists": [
+        {
+          "name": "Irany",
+          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
+        }
+      ],
+      "duration_ms": 169808,
+      "name": "Bandera Roja",
+      "url": "https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW"
     },
     {
       "added_at": "2026-05-29 06:00:32",

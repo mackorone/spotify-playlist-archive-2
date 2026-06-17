@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring fidoisblue ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,006 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,015 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 21 | [Muchas Cosas](https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Muchas Cosas](https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT) | 2:32 |
 | 22 | [Chill](https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Chill](https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0) | 2:43 |
 | 23 | [Idiota](https://open.spotify.com/track/0obiVvoMb80sR2oWDtJLOD) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Idiota](https://open.spotify.com/album/2Ijg105iAPEqjlgt7H7cC7) | 2:11 |
-| 24 | [Constelación](https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Constelación](https://open.spotify.com/album/0icWXRGdopPIamBatGerqU) | 4:09 |
-| 25 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
+| 24 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
+| 25 | [Constelación](https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Constelación](https://open.spotify.com/album/0icWXRGdopPIamBatGerqU) | 4:09 |
 | 26 | [ACELERADAS!](https://open.spotify.com/track/5GeQcFxgQuv05a2Oe0suhD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [ACELERADAS!](https://open.spotify.com/album/4FT3RwJZJoP7ON8Hueg3QO) | 3:30 |
 | 27 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
 | 28 | [Te Puedo Ver](https://open.spotify.com/track/1kzTDgmaFLIQhv50RbO7QS) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Te Puedo Ver](https://open.spotify.com/album/2hAp3M6FmEHsuhntKYAER2) | 3:40 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 45 | [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 |
 | 46 | [California](https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv) | [Nunca Fuimos Listos](https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T) | [California](https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I) | 3:51 |
 | 47 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
-| 48 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 |
-| 49 | [Nada me cansa](https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nada me cansa](https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA) | 2:02 |
-| 50 | [Lunares](https://open.spotify.com/track/63Fe3WnLMYTswqCLlobKNJ) | [Paleta Pastel](https://open.spotify.com/artist/2jcmSSQQqVvAytNPnJtsEX) | [N T P M](https://open.spotify.com/album/7vYRJ18QunDuoEzF2pDbhe) | 3:20 |
+| 48 | [Nada me cansa](https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nada me cansa](https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA) | 2:02 |
+| 49 | [Lunares](https://open.spotify.com/track/63Fe3WnLMYTswqCLlobKNJ) | [Paleta Pastel](https://open.spotify.com/artist/2jcmSSQQqVvAytNPnJtsEX) | [N T P M](https://open.spotify.com/album/7vYRJ18QunDuoEzF2pDbhe) | 3:20 |
+| 50 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 |
 | 51 | [En Cualquier Lugar](https://open.spotify.com/track/58vJuilqgm3folaBEx12ac) | [Antuan.](https://open.spotify.com/artist/1DqhnQn8VUtJiNtENJ520y) | [En Cualquier Lugar](https://open.spotify.com/album/0xOHml2OgwfR8DqTiWlr2r) | 3:29 |
 | 52 | [Adentro Mío](https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Adentro Mío](https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ) | 3:40 |
 | 53 | [Toda La Luz](https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Toda La Luz](https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p) | 2:12 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 63 | [Horas Sin Dormir](https://open.spotify.com/track/3RmAeEq33kS5ZmVEvltSxn) | [Mi Personaje Favorito](https://open.spotify.com/artist/7AtFWgyB5RHfG7ytVrjelf), [Bacbruce](https://open.spotify.com/artist/4ZZWSne8JPSNNU8Ehk0vyS) | [Horas Sin Dormir](https://open.spotify.com/album/0JLhIyDxEvfhJv3HycpGpv) | 3:26 |
 | 64 | [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 |
 | 65 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
-| 66 | [luz / vacío](https://open.spotify.com/track/7MFOYALF9P7hdLM9QcQ3Hf) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [luz / vacío](https://open.spotify.com/album/5SBKpqhSAF37GSFXigV4Ax) | 3:29 |
+| 66 | [Melancolía](https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Melancolía](https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD) | 3:49 |
 | 67 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
-| 68 | [Melancolía](https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Melancolía](https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD) | 3:49 |
+| 68 | [luz / vacío](https://open.spotify.com/track/7MFOYALF9P7hdLM9QcQ3Hf) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [luz / vacío](https://open.spotify.com/album/5SBKpqhSAF37GSFXigV4Ax) | 3:29 |
 | 69 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
 | 70 | [Amanecer](https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Amanecer](https://open.spotify.com/album/0R4tApSVds26boh8Z4xGsB) | 4:25 |
 | 71 | [SKB](https://open.spotify.com/track/6IoYualM1IWe59G70nc9nK) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Despierta](https://open.spotify.com/album/43hFx68RPmU3Am7UqyaEr1) | 3:38 |

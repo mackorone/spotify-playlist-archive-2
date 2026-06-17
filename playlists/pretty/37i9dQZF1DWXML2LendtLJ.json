@@ -1,6 +1,6 @@
 {
   "description": "The breeziest songs to get you through the day.",
-  "num_followers": 531708,
+  "num_followers": 531711,
   "original_name": "Light & Easy",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-04-14 08:00:42",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
-    },
-    {
-      "added_at": "2026-04-14 08:00:42",
-      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "added_at": "2026-04-14 08:00:42",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
     },
     {
       "added_at": "2026-04-14 08:00:42",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-04-14 08:00:42",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "II",
+        "url": "https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 207520,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
+      "duration_ms": 329800,
+      "name": "On Bended Knee",
+      "url": "https://open.spotify.com/track/4Gmkqn3V7IMTkOmmiX7cbb"
     }
   ],
   "unique_name": "Light & Easy",

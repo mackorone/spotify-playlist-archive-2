@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAELIrsZD+Q6gUhqRFtfJ7l",
+  "snapshot_id": "ai9AgAAAAABNBetm46xa9Yq/WdEflcPf",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova (Extended)",
-        "url": "https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Planet",
-      "url": "https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 250253,
       "name": "contact high",
       "url": "https://open.spotify.com/track/140LUknhC8JRQ2zRzYicwN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supernova (Extended)",
+        "url": "https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Planet",
+      "url": "https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 200541,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 180893,
       "name": "reading into it",
       "url": "https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 200541,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dumped",
-        "url": "https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Dumped",
-      "url": "https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 140613,
       "name": "2 much 2 handle",
       "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dumped",
+        "url": "https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Dumped",
+      "url": "https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 153773,
-      "name": "Wish It Was Me",
-      "url": "https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 177200,
       "name": "are we in love yet?",
       "url": "https://open.spotify.com/track/1len89NNhcvNKZg4gwuO4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 153773,
+      "name": "Wish It Was Me",
+      "url": "https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 169732,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 153733,
       "name": "something in the way you say my name",
       "url": "https://open.spotify.com/track/3CVdmZHfnkDnyily3IrWfg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 169732,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3"
     },
     {
       "added_at": null,

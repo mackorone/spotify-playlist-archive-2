@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,767 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,791 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 31 | [Over The Moon \- feat\. Sagiri Sól](https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Juliet is the moon](https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19) | 3:23 |
 | 32 | [HIT NUMBER \- EVISBEATSとPUNCH REMIX](https://open.spotify.com/track/3qAT9iw2AiiJ0CxTcqxQn1) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ストライク！](https://open.spotify.com/album/5mJrUjgKk7jzSr9TohY7qx) | 3:28 |
 | 33 | [YOU NEVER SAY THAT](https://open.spotify.com/track/7zHvV0uRh49mI9qm3yywus) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [YOU NEVER SAY THAT](https://open.spotify.com/album/5EjcsYJZgSh5OjOgKD6RNK) | 3:14 |
-| 34 | [the Sound of Carnival](https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [As One](https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS) | 4:43 |
-| 35 | [Safe Place](https://open.spotify.com/track/42S0Kub6ebpzcpLwDFgl6M) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Safe Place](https://open.spotify.com/album/3SQngxWaRDieH1AbZdkA4A) | 3:29 |
+| 34 | [Safe Place](https://open.spotify.com/track/42S0Kub6ebpzcpLwDFgl6M) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Safe Place](https://open.spotify.com/album/3SQngxWaRDieH1AbZdkA4A) | 3:29 |
+| 35 | [the Sound of Carnival](https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [As One](https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS) | 4:43 |
 | 36 | [FAKE](https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [FAKE feat． 安室奈美恵](https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U) | 4:15 |
 | 37 | [Shake \- \(Original\)](https://open.spotify.com/track/2i2dlGChzEtkAOB5RSP8gd) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:31 |
 | 38 | [緩りらら](https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [緩りらら](https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv) | 4:00 |

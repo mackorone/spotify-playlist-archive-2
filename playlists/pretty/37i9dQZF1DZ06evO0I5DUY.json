@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 241562,
+  "num_followers": 241596,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADyTYL6u9QgissYaONtEzq0",
+  "snapshot_id": "ai9AgAAAAACbbwk2s++g5I9T+QP6zTFJ",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Desprecio",
-      "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspiraci\u00f3n Norte\u00f1a",
         "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 196120,
       "name": "El Pata de Palo",
       "url": "https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Desprecio",
+      "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Cadetazos",
-        "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 120413,
-      "name": "Cielo Azul Cielo Nublado",
-      "url": "https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Tres Tumbas",
         "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+        "name": "30 Cadetazos",
+        "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 156880,
-      "name": "Rezando Por Ella",
-      "url": "https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0"
+      "duration_ms": 120413,
+      "name": "Cielo Azul Cielo Nublado",
+      "url": "https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 193773,
       "name": "El Muchacho y el Potro",
       "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 156880,
+      "name": "Rezando Por Ella",
+      "url": "https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0"
     },
     {
       "added_at": null,

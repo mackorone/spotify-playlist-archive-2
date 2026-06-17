@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,738 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,751 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 39 | [You're Ready Now](https://open.spotify.com/track/7lk6vvcetCT6RcTndNpKj8) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Solo](https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb) | 2:18 |
 | 40 | [Time](https://open.spotify.com/track/6uOEOFItvADPCgiAKGPr4s) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 2:54 |
 | 41 | [Better Use Your Head](https://open.spotify.com/track/1XGHVTHZ5JwPSIkyA4naB3) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:53 |
-| 42 | [Time Will Pass You By](https://open.spotify.com/track/4N4syZY2CN82yUh8BlNT3L) | [Tobi Legend](https://open.spotify.com/artist/6eq5SerOImK3d0a6HNQPOC) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 3:05 |
-| 43 | [Dance Dance Dance \- Mono](https://open.spotify.com/track/7iuAY5WizVCVyuIu5RfNGL) | [The Casualeers](https://open.spotify.com/artist/47EA8efzXvcP3prDhNdRgh) | [The Roulette Story](https://open.spotify.com/album/6KRBqK0UvfDCATk8ORdC73) | 2:41 |
+| 42 | [Dance Dance Dance \- Mono](https://open.spotify.com/track/7iuAY5WizVCVyuIu5RfNGL) | [The Casualeers](https://open.spotify.com/artist/47EA8efzXvcP3prDhNdRgh) | [The Roulette Story](https://open.spotify.com/album/6KRBqK0UvfDCATk8ORdC73) | 2:41 |
+| 43 | [Time Will Pass You By](https://open.spotify.com/track/4N4syZY2CN82yUh8BlNT3L) | [Tobi Legend](https://open.spotify.com/artist/6eq5SerOImK3d0a6HNQPOC) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 3:05 |
 | 44 | [Moonlight Music and You](https://open.spotify.com/track/162C3OWfP2OKiE4CqcLQdy) | [Laura Greene](https://open.spotify.com/artist/1b0erhYz7WbxMOCbyQJYwb) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 2:30 |
 | 45 | [I Can't Help Lovin' You](https://open.spotify.com/track/4DOWrtJ31Ewt2rLQCtLF1D) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:36 |
 | 46 | [A Man Like Me](https://open.spotify.com/track/4CLKhjVUCZf00wVghhRImp) | [Jimmy James](https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D) | [Northern Soul Keep the Faith](https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B) | 3:01 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 88 | [It Really Hurts Me Girl](https://open.spotify.com/track/7ARc5XRTlhg5KMrZeFnjbi) | [The Carstairs](https://open.spotify.com/artist/1RSTlxBlVr8XeyoFFa8qo0) | [The Stars Of Northern Soul Volume 1](https://open.spotify.com/album/1x6I4OVVnsZGTSBznVw9WY) | 3:27 |
 | 89 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
 | 90 | [You've Got Your Mind On Other Things](https://open.spotify.com/track/4I6dr0herCKmSfrPjmVr10) | [Beverly Ann](https://open.spotify.com/artist/0vR6zDg8i1J85fNUYV1fiw) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:17 |
-| 91 | [Ain't That Terrible](https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT) | [Roy Redmond](https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY) | [Northern Soul 45's](https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9) | 2:32 |
-| 92 | [Temptation Is Calling My Name \- Single Version](https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw) | [Lee David](https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ) | [Haynes Ultimate Guide to Northern Soul](https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH) | 2:21 |
+| 91 | [Temptation Is Calling My Name \- Single Version](https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw) | [Lee David](https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ) | [Haynes Ultimate Guide to Northern Soul](https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH) | 2:21 |
+| 92 | [Ain't That Terrible](https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT) | [Roy Redmond](https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY) | [Northern Soul 45's](https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9) | 2:32 |
 | 93 | [Love Runs Out](https://open.spotify.com/track/5GeyxVLBmgZcKGqXo1JEqW) | [Willie Hutch](https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD) | [Soul Satisfaction](https://open.spotify.com/album/3WPeP1PIrkGLGnnUg2tuCe) | 2:39 |
 | 94 | [I Got The Fever](https://open.spotify.com/track/6MAV3IXWc2cRbgzhgQomUw) | [Prophets](https://open.spotify.com/artist/2eSddWmVzjlAKbK7EBrfRq) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 2:52 |
 | 95 | [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [The Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 |

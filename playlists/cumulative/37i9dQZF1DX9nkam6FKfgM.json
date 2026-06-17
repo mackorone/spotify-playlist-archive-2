@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -1691,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221958,
+      "name": "expectations",
+      "url": "https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi"
+    },
+    {
+      "album": {
         "name": "Fall In Love Alone",
         "url": "https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4"
       },
@@ -2427,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
+    },
+    {
+      "album": {
         "name": "high water",
         "url": "https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J"
       },
@@ -2669,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "album": {
         "name": "My Lover",
         "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
       },
@@ -2774,6 +2846,24 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "album": {
+        "name": "If You Wanna Be Adored",
+        "url": "https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz"
+      },
+      "artists": [
+        {
+          "name": "Eva Rose",
+          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "If You Wanna Be Adored",
+      "url": "https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV"
     },
     {
       "album": {
@@ -4768,7 +4858,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO"
@@ -5010,6 +5100,24 @@
       "duration_ms": 207845,
       "name": "Shadow Of A Bird",
       "url": "https://open.spotify.com/track/5cQ4l65K7dlj73ifePwJlk"
+    },
+    {
+      "album": {
+        "name": "Shapeshifting on a Saturday Night",
+        "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205728,
+      "name": "Shapeshifting on a Saturday Night",
+      "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
     },
     {
       "album": {

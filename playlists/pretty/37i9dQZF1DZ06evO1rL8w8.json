@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 238559,
+  "num_followers": 238583,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADsQdeCDR8TL9oawszG2FrF",
+  "snapshot_id": "ai9AgAAAAAAck1vtnEzEitLQlnkxvr40",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Los Buchones de Culiacan",
-          "url": "https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa"
         }
       ],
-      "duration_ms": 199836,
-      "name": "Trato De Muerte",
-      "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
+      "duration_ms": 176138,
+      "name": "Por Favor No Cuelgues",
+      "url": "https://open.spotify.com/track/61mmMgdqmpCJsHvt8qTL1Y"
     },
     {
       "added_at": null,
@@ -275,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Los Buchones de Culiacan",
+          "url": "https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa"
         }
       ],
-      "duration_ms": 176138,
-      "name": "Por Favor No Cuelgues",
-      "url": "https://open.spotify.com/track/61mmMgdqmpCJsHvt8qTL1Y"
+      "duration_ms": 199836,
+      "name": "Trato De Muerte",
+      "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
       "duration_ms": 147506,
       "name": "Estrategias De Escape",
       "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 163114,
+      "name": "Ranchero Poderoso",
+      "url": "https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA"
     },
     {
       "added_at": null,
@@ -339,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 163114,
-      "name": "Ranchero Poderoso",
-      "url": "https://open.spotify.com/track/6KRuCIVLV334mVZUR3iNuA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 230635,
-      "name": "Abusamos Del Alcohol",
-      "url": "https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
         "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 248000,
       "name": "Como Me Haces Falta - En Vivo",
       "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 230635,
+      "name": "Abusamos Del Alcohol",
+      "url": "https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi"
     },
     {
       "added_at": null,

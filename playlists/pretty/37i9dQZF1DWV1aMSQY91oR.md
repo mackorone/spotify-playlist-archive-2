@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: 🕊 Nipsey Hussle & Bino  Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,498 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,509 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 2 | [INSECURE feat jid & ab\-soul](https://open.spotify.com/track/6wRBNi9WAXrGrzyDw7JFP8) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [INSECURE feat jid & ab\-soul](https://open.spotify.com/album/2YbwfP7vRvN67BsF1lQunG) | 4:16 |
 | 3 | [GEMINI SEASON](https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [GEMINI SEASON](https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc) | 1:46 |
 | 4 | [Move \(feat\. G Thugg\)](https://open.spotify.com/track/3p5s3c8vx7TY8mIUfDIaDh) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [G Thugg](https://open.spotify.com/artist/07gfosp4umnedbY4PmP8KG) | [Kodak The Blessing](https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M) | 4:25 |
-| 5 | [God Gotta Afro](https://open.spotify.com/track/1pwH03MgZ8TRTbtrY1hm3O) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Karabo yaMorena Choir](https://open.spotify.com/artist/1cuKOTF769wkqsMyqcgexU) | [God Gotta Afro](https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk) | 2:48 |
+| 5 | [God Gotta Afro](https://open.spotify.com/track/1pwH03MgZ8TRTbtrY1hm3O) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [KARABO YA MORENA](https://open.spotify.com/artist/27tTpZuZ6SMPTYgB0JKvYx) | [God Gotta Afro](https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk) | 2:48 |
 | 6 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
 | 7 | [Mahogany Caskets](https://open.spotify.com/track/6mgAuBeRhO2xu31A7IKDXm) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Mahogany Caskets](https://open.spotify.com/album/2cglrltJot3acS6kTOOxJj) | 3:33 |
 | 8 | [The Signs](https://open.spotify.com/track/4wykfXguZElBylSFbkAEWe) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Kwncy](https://open.spotify.com/artist/2aT09ZalHh3kwFg0ig4vj9) | [The Signs](https://open.spotify.com/album/2zrHUZ2wZnKx6zIM2FdHlR) | 2:50 |

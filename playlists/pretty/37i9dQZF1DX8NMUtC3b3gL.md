@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,030 likes - 144 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,043 likes - 144 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 143 | [No Pressure](https://open.spotify.com/track/5RCXulZHahDWbtUr7tAgtH) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [No Pressure](https://open.spotify.com/album/6aQt3aOKn3bbVg3vHcqqjz) | 2:01 |
 | 144 | [washed ashore](https://open.spotify.com/track/12NFF6F8Z4hFtxDaBUbU5x) | [S\-ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG), [Milan Beats](https://open.spotify.com/artist/6vlBN0oKCy0H1Ji0isYxO8) | [washed ashore](https://open.spotify.com/album/67sdwUY7a6jWBQAepGZU01) | 2:11 |
 
-Snapshot ID: `AAAAAEW3Tluzb8USn0sY7nR8oEHG6c7C`
+Snapshot ID: `AAAAAJUWe3dGSkckbhnIUxRYD8Z8Zmi6`

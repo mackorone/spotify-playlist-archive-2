@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Protoje",
-  "num_followers": 2142428,
+  "num_followers": 2142223,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/1JanzxNHyIWF1fFcqAWxLg"
-      },
-      "artists": [
-        {
-          "name": "Rik Jam",
-          "url": "https://open.spotify.com/artist/5s8Z7hEzedh3vepd7dckZv"
-        },
-        {
-          "name": "Eric Rachmany",
-          "url": "https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM"
-        }
-      ],
-      "duration_ms": 247880,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6LP7QdPw4Ly6neYg4zLKGO"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "Burn It To The Ground",
         "url": "https://open.spotify.com/album/7JIlW2igRiyuOPEUrD8eGg"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 284000,
       "name": "Burn It To The Ground",
       "url": "https://open.spotify.com/track/5AeNzsPgqpZcAYRTdfLRYj"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/1JanzxNHyIWF1fFcqAWxLg"
+      },
+      "artists": [
+        {
+          "name": "Rik Jam",
+          "url": "https://open.spotify.com/artist/5s8Z7hEzedh3vepd7dckZv"
+        },
+        {
+          "name": "Eric Rachmany",
+          "url": "https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM"
+        }
+      ],
+      "duration_ms": 247880,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6LP7QdPw4Ly6neYg4zLKGO"
     },
     {
       "added_at": "2026-04-23 15:31:34",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-04-23 15:31:34",
       "album": {
-        "name": "Welcome to Jamrock",
-        "url": "https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5"
-      },
-      "artists": [
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Welcome To Jamrock",
-      "url": "https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6"
-    },
-    {
-      "added_at": "2026-04-23 15:31:34",
-      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 247133,
       "name": "Murder She Wrote (Original Mix)",
       "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
+    },
+    {
+      "added_at": "2026-04-23 15:31:34",
+      "album": {
+        "name": "Welcome to Jamrock",
+        "url": "https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Welcome To Jamrock",
+      "url": "https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6"
     },
     {
       "added_at": "2026-04-23 15:31:34",

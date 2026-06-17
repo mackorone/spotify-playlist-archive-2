@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine \(✿◠‿◠\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,303 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,248 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 38 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
 | 39 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 |
 | 40 | [Amor](https://open.spotify.com/track/42yT9HHlX3XBz7hn4RR0O0) | [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX) | [Amor](https://open.spotify.com/album/5lFOUQxxdhf1M1nTm5IEky) | 3:32 |
-| 41 | [Qué Dulce](https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W) | [Jorge Cajías](https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe), [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Qué Dulce](https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5) | 2:13 |
-| 42 | [Ya no nos hablamos](https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Ya no nos hablamos](https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A) | 3:35 |
+| 41 | [Ya no nos hablamos](https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Ya no nos hablamos](https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A) | 3:35 |
+| 42 | [Qué Dulce](https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W) | [Jorge Cajías](https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe), [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Qué Dulce](https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5) | 2:13 |
 | 43 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
 | 44 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |
 | 45 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 57 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
 | 58 | [El Ride](https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Carlos Macca](https://open.spotify.com/artist/5iDuCXfKMjYai2qvft7KcS) | [El Ride](https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw) | 2:44 |
 | 59 | [Pelo Negro](https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Pelo Negro](https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD) | 3:12 |
-| 60 | [GRANADA](https://open.spotify.com/track/06UhMz7v0pQbuLfeps9kwS) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GOLOSA](https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr) | 2:19 |
-| 61 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
+| 60 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
+| 61 | [GRANADA](https://open.spotify.com/track/06UhMz7v0pQbuLfeps9kwS) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GOLOSA](https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr) | 2:19 |
 | 62 | [Personita Buena \- CLUBZ Remix](https://open.spotify.com/track/7EXx0bIOSyM0iVABq82jrw) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Personita Buena \(CLUBZ Remix\)](https://open.spotify.com/album/34Pb7ScJyBVS4SWbwSxFyA) | 3:08 |
 | 63 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 |
 | 64 | [Intrépida](https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [El Sol De Las 3](https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA) | 2:48 |
 | 65 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 |
-| 66 | [Cartagena](https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Cartagena](https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB) | 3:07 |
-| 67 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
+| 66 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
+| 67 | [Cartagena](https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Cartagena](https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB) | 3:07 |
 | 68 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 |
 | 69 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 |
 | 70 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |

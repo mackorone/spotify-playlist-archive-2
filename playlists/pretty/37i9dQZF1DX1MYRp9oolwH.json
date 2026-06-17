@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : EPIC - First Semester",
-  "num_followers": 170875,
+  "num_followers": 170882,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI5jwsL2Uadnz+xIu9Sl1PoyKdlH",
+  "snapshot_id": "AAAAAI89N221ew6iy8a7KU+Z/FzwnRgm",
   "tracks": [
     {
       "added_at": "2026-06-12 05:17:36",
@@ -203,6 +203,30 @@
       "duration_ms": 222148,
       "name": "Thaanu Choosthene (From \"Itlu Kanmani\")",
       "url": "https://open.spotify.com/track/1Gc3y6ouk0GEhrxh81ktLA"
+    },
+    {
+      "added_at": "2026-06-16 05:50:51",
+      "album": {
+        "name": "Gunde Pelipothondhe (From \"Srinivasa Mangapuram\")",
+        "url": "https://open.spotify.com/album/5ux9GCYq6TGhg4kIf1m3JK"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Gunde Pelipothondhe (From \"Srinivasa Mangapuram\")",
+      "url": "https://open.spotify.com/track/73QwMDg9kAApQRlKjStXYN"
     },
     {
       "added_at": "2026-03-30 07:22:34",

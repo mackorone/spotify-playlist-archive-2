@@ -9075,6 +9075,24 @@
     },
     {
       "album": {
+        "name": "TAKE IT BACK",
+        "url": "https://open.spotify.com/album/21WLFa7LiQbaWzLJVfLa7t"
+      },
+      "artists": [
+        {
+          "name": "mp3kitty",
+          "url": "https://open.spotify.com/artist/7donvrLTm3BHSLo9QTDoDa"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162304,
+      "name": "TAKE IT BACK",
+      "url": "https://open.spotify.com/track/72jrhRowS30co5MzdJ4aXy"
+    },
+    {
+      "album": {
         "name": "Take Me 2 Your Home",
         "url": "https://open.spotify.com/album/0lX9wI8D3EFTPr6efx1WaR"
       },
@@ -9972,6 +9990,24 @@
       "duration_ms": 126776,
       "name": "UNMARKETABLE",
       "url": "https://open.spotify.com/track/1GXQG1drYNjW9EmZ60RkLY"
+    },
+    {
+      "album": {
+        "name": "venison",
+        "url": "https://open.spotify.com/album/7M1VWXKFDAt3bM8R0kcmEG"
+      },
+      "artists": [
+        {
+          "name": "bit depth",
+          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229115,
+      "name": "venison",
+      "url": "https://open.spotify.com/track/7FVHg9T2UZRlDpiO0tXHya"
     },
     {
       "album": {

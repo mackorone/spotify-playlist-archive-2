@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,246 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,248 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 6 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
 | 7 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 |
 | 8 | [Perdere l'amore](https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Perdere l'amore](https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX) | 4:11 |
-| 9 | [Una finestra tra le stelle](https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Splende](https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX) | 3:31 |
+| 9 | [La genesi del tuo colore](https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La genesi del tuo colore](https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu) | 3:48 |
 | 10 | [La solitudine](https://open.spotify.com/track/5bxQHscWvyaQbm37igKP4K) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini](https://open.spotify.com/album/2lWrXcNp4XAKostNAtRDW2) | 4:00 |
-| 11 | [La genesi del tuo colore](https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La genesi del tuo colore](https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu) | 3:48 |
+| 11 | [Una finestra tra le stelle](https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Splende](https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX) | 3:31 |
 | 12 | [Luce \(Tramonti a Nord Est\)](https://open.spotify.com/track/0BY0AXOpFzEDLdm6OF7tEf) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Lotus](https://open.spotify.com/album/6jroAf3KrGmv3v9M1CDav3) | 4:28 |
 | 13 | [Grande amore](https://open.spotify.com/track/4hWQaCHO3k3bTYi8AozKTE) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Sanremo grande amore](https://open.spotify.com/album/3Ugt1E8Ft5I0Ry1cLUdMIi) | 3:44 |
 | 14 | [Svegliarsi la mattina](https://open.spotify.com/track/5b624K5Um6v06xqsi4ZvaN) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Appena prima di partire](https://open.spotify.com/album/2wiYReV8GJSCF9ElBAwdTk) | 3:44 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 24 | [Cosa Resterà Degli Anni 80](https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Cosa resterà degli anni 80](https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa) | 5:12 |
 | 25 | [Quando nasce un amore](https://open.spotify.com/track/57J7lg7C1IZRxvA13J1nhw) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN) | [Pensami Per Te](https://open.spotify.com/album/3i6vpMk0xhgOvpkX7cEOXq) | 3:59 |
 | 26 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 |
-| 27 | [CENERE](https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [CENERE](https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh) | 3:28 |
-| 28 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 |
+| 27 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 |
+| 28 | [CENERE](https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [CENERE](https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh) | 3:28 |
 | 29 | [Lei verrà](https://open.spotify.com/track/1WrT3pRtE32H2lyLPQFJq1) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:05 |
 | 30 | [Se m'innamoro](https://open.spotify.com/track/6Pm5m45fMlLOJ8pKBHKzSc) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Greatest Hits](https://open.spotify.com/album/7rwPjOYMdCm9LKVJk2Uiyy) | 3:24 |
 | 31 | [Dove Si Balla](https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [NEI SOGNI NESSUNO È MONOGAMO](https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e) | 3:18 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 70 | [E poi](https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 4:27 |
 | 71 | [VOCE](https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [VOCE](https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ) | 3:31 |
 | 72 | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu) | 3:28 |
-| 73 | [Ti lascerò](https://open.spotify.com/track/5BTBBUwbXB7AVTUd5maNee) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN), [Fausto Leali](https://open.spotify.com/artist/1O60mnSM6G8r2Reuw5jTgk) | [I Grandi Successi](https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA) | 4:00 |
-| 74 | [Canzone per te](https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Endrigo \(1968\)](https://open.spotify.com/album/2HUcliwNVmeS7kS2tpQmF8) | 3:35 |
+| 73 | [Canzone per te](https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Endrigo \(1968\)](https://open.spotify.com/album/2HUcliwNVmeS7kS2tpQmF8) | 3:35 |
+| 74 | [Ti lascerò](https://open.spotify.com/track/5BTBBUwbXB7AVTUd5maNee) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN), [Fausto Leali](https://open.spotify.com/artist/1O60mnSM6G8r2Reuw5jTgk) | [I Grandi Successi](https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA) | 4:00 |
 | 75 | [Senza farlo apposta](https://open.spotify.com/track/4rwKn954sAK61ojiPVIxuP) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Senza farlo apposta](https://open.spotify.com/album/20wgQyzYFfr0OS9CCqmvbz) | 3:35 |
 | 76 | [Per sentirmi vivo](https://open.spotify.com/track/5U3ln41nbhztweY70Mv5b3) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Per sentirmi vivo](https://open.spotify.com/album/5owbVnzLpbq9SlftvHXjTa) | 2:59 |
 | 77 | [Signor tenente](https://open.spotify.com/track/6jT1ZkS8MkBZVdI8CGD4cS) | [Giorgio Faletti](https://open.spotify.com/artist/6lXJfV8IwjjXR4EkHOZDxq) | [Come un cartone animato](https://open.spotify.com/album/3yWhVhKidRJpTRQwrd59EN) | 3:17 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 95 | [Dio come ti amo!](https://open.spotify.com/track/0QceOqQ2vmiRfCjJwgHwqA) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 2:31 |
 | 96 | [Salirò](https://open.spotify.com/track/0Oheso9xvbCsZc6rzZjaWe) | [Daniele Silvestri](https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF) | [Monetine](https://open.spotify.com/album/3mfahOk88mQBdYnbLfT7GZ) | 3:57 |
 | 97 | [Cosa ti aspetti da me](https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Cosa ti aspetti da me](https://open.spotify.com/album/10H82zO9BPH0aJSpaqu1hC) | 3:44 |
-| 98 | [Glicine](https://open.spotify.com/track/7g1MeIDCN0R36wi4bNarbN) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Glicine](https://open.spotify.com/album/1zKdr84teaXQZuQiOUjscD) | 3:37 |
-| 99 | [Che sia benedetta](https://open.spotify.com/track/0zWQHhueWVnSvdmOFWuWoh) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Che sia benedetta](https://open.spotify.com/album/2T1GXFFHz7hCs01oYacAER) | 3:13 |
+| 98 | [Che sia benedetta](https://open.spotify.com/track/0zWQHhueWVnSvdmOFWuWoh) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Che sia benedetta](https://open.spotify.com/album/2T1GXFFHz7hCs01oYacAER) | 3:13 |
+| 99 | [Glicine](https://open.spotify.com/track/7g1MeIDCN0R36wi4bNarbN) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Glicine](https://open.spotify.com/album/1zKdr84teaXQZuQiOUjscD) | 3:37 |
 | 100 | [Margherita non lo sa](https://open.spotify.com/track/0cZH2LWRTEMQvSr2rdmX82) | [Dori Ghezzi](https://open.spotify.com/artist/28iEG9gvRrh6taxyKFmDnB) | [Piccole donne](https://open.spotify.com/album/1RxoV74OBAtBIoA44GTJGD) | 3:38 |
 
 Snapshot ID: `AAAAAKvBzNjmzAUgDiRVtV/JQVgxG9Pn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,055 likes - 217 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,056 likes - 217 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 24 | [Jealous](https://open.spotify.com/track/0u4dw7TujMZivFm9FyaIfu) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:02 |
 | 25 | [Make or Break](https://open.spotify.com/track/5dUTuyeg1GpSAJSUY14X3O) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 2:35 |
 | 26 | [Potential](https://open.spotify.com/track/7cVN6hFZXum5NCtLHneeo2) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:37 |
-| 27 | [Without You](https://open.spotify.com/track/0KzEhOxVbub9dglj5mMyCc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 3:56 |
-| 28 | [Take You Home](https://open.spotify.com/track/0w66IW7I1HBEjPOOc2R0WF) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [stages](https://open.spotify.com/album/4tbyDJAk0A6ZXGmIWcShB2) | 3:18 |
-| 29 | [Short Fuse](https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:49 |
+| 27 | [Short Fuse](https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:49 |
+| 28 | [Without You](https://open.spotify.com/track/0KzEhOxVbub9dglj5mMyCc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 3:56 |
+| 29 | [Take You Home](https://open.spotify.com/track/0w66IW7I1HBEjPOOc2R0WF) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [stages](https://open.spotify.com/album/4tbyDJAk0A6ZXGmIWcShB2) | 3:18 |
 | 30 | [Broken Prayers](https://open.spotify.com/track/3XnVvIXmfTBpxw4owOYJA8) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Riley Clemmons](https://open.spotify.com/album/6buAN2fp3zo5JhNZN45QY2) | 3:13 |
 | 31 | [Gateway Love](https://open.spotify.com/track/1OlDnyauZ0kTdD7AhzoNJC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:26 |
 | 32 | [Fake It](https://open.spotify.com/track/3fhSaHj4Wo2yopQcMtupDI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:06 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcUUogAAAAC3PL1VI30AGgWvJ156jr82`
+Snapshot ID: `AcUaBgAAAADGf7cBCKbR3pgd379kt+LV`

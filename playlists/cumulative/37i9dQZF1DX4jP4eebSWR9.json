@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Summer Cem, BILLA JOE",
+  "description": "50 Hits in einer Playlist! Cover: KITSCHKRIEG, Blumengarten, Shirin David",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "BALOTELLI",
+        "url": "https://open.spotify.com/album/0pTThI32LGOQCk2NynT10A"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138440,
+      "name": "BALOTELLI",
+      "url": "https://open.spotify.com/track/0KBV8ASFRhAioNS7SvEtqa"
+    },
+    {
+      "album": {
         "name": "Bangaranga",
         "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
       },
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 161280,
       "name": "CASA CUBA",
       "url": "https://open.spotify.com/track/3XWKL33NgAJfOmMP8xnu9U"
@@ -3746,7 +3764,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 132693,
       "name": "LDNB",
       "url": "https://open.spotify.com/track/5O8HYf2CdbUJIQdd6PzAA7"
@@ -6156,6 +6174,24 @@
       "duration_ms": 212000,
       "name": "STREIT",
       "url": "https://open.spotify.com/track/2uj2UZwhooohVKQREM7Wx8"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
     },
     {
       "album": {

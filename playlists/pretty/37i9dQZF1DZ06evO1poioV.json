@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 122630,
+  "num_followers": 122640,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACjGY4hV4RIaxRB1XM/pC0J",
+  "snapshot_id": "ai9AgAAAAACDwLBE4ZQSoLYl3iavhA39",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Mama Werewolf",
-      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onward (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 213732,
       "name": "Carried Me With You",
       "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "Mama Werewolf",
+      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Letter To The Past",
-      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -831,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Not Alone [Feat. Brandi Carlile]",
-        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 309746,
-      "name": "You're Not Alone [Feat. Brandi Carlile]",
-      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+      "duration_ms": 220720,
+      "name": "Letter To The Past",
+      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
     },
     {
       "added_at": null,
@@ -879,6 +859,26 @@
       "duration_ms": 240804,
       "name": "Always On My Mind - Live at The Gorge 2023",
       "url": "https://open.spotify.com/track/6RiuvtanF3taMviufzjsRN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Not Alone [Feat. Brandi Carlile]",
+        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 309746,
+      "name": "You're Not Alone [Feat. Brandi Carlile]",
+      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
     },
     {
       "added_at": null,

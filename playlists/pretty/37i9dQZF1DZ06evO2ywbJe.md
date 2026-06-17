@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,432 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,436 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 36 | [Sweet in the Middle \(feat\. Wurld, Naira Marley & Zlatan\)](https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Wurld](https://open.spotify.com/artist/4LRCMIDhEBEHDp7L207QlK), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:08 |
 | 37 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 |
 | 38 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/6vGIf9ajywvcQzIdQVGnwG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:53 |
-| 39 | [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 |
-| 40 | [Killin Dem](https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Killin Dem](https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW) | 3:40 |
-| 41 | [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 |
-| 42 | [50 Billion \(feat\. Zlatan\)](https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:14 |
-| 43 | [Skeleton \(feat\. Zlatan\)](https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp) | [FEMI VEGA](https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Skeleton \(feat\. Zlatan\)](https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG) | 2:24 |
+| 39 | [Skeleton \(feat\. Zlatan\)](https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp) | [FEMI VEGA](https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Skeleton \(feat\. Zlatan\)](https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG) | 2:24 |
+| 40 | [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 |
+| 41 | [Killin Dem](https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Killin Dem](https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW) | 3:40 |
+| 42 | [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 |
+| 43 | [50 Billion \(feat\. Zlatan\)](https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:14 |
 | 44 | [Ale Yi](https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:41 |
 | 45 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
 | 46 | [Am I a Yahoo Boy](https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Am I a Yahoo Boy](https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 49 | [Alubarika](https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:14 |
 | 50 | [Agege](https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Agege](https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR) | 3:16 |
 
-Snapshot ID: `ai3vAAAAAACD2SuVXqLdrBgNWmTp3zpK`
+Snapshot ID: `ai9AgAAAAADZX0+X++AIIAMYLoBttpo4`

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62298,
+  "num_followers": 62301,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABgc3aT05o83lTTf7P/0H9g",
+  "snapshot_id": "ai9AgAAAAAB7H2pigEgb/XoM8wuWxeZD",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
       },
       "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 247470,
-      "name": "I Hate Myself For Loving You",
-      "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
+      "duration_ms": 168400,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/1DydpBvRaDWShDDhLWt9pb"
     },
     {
       "added_at": null,
@@ -623,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 247470,
+      "name": "I Hate Myself For Loving You",
+      "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Music",
         "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 345000,
       "name": "Good Music",
       "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/1DydpBvRaDWShDDhLWt9pb"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 140066,
+      "name": "Wooly Bully",
+      "url": "https://open.spotify.com/track/0FDzI3JpnrDxYyaxJU6AwN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 199080,
       "name": "I Love You Love Me Love",
       "url": "https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 140066,
-      "name": "Wooly Bully",
-      "url": "https://open.spotify.com/track/0FDzI3JpnrDxYyaxJU6AwN"
     },
     {
       "added_at": null,

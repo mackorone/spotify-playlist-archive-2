@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1579407,
+  "num_followers": 1579450,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAByAr4OT+36hxf6v5iG0cFq",
+  "snapshot_id": "ai9AgAAAAAAdSU4Umms6vV60FuYtSrbh",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Nice Boys - Live",
-      "url": "https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn"
+      "duration_ms": 238182,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb"
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 238182,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
+      "duration_ms": 182586,
+      "name": "Nice Boys - Live",
+      "url": "https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+        "name": "The General",
+        "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 214240,
-      "name": "Move To The City - Live",
-      "url": "https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK"
+      "duration_ms": 262776,
+      "name": "The General",
+      "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The General",
-        "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 262776,
-      "name": "The General",
-      "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
+      "duration_ms": 214240,
+      "name": "Move To The City - Live",
+      "url": "https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 201613,
-      "name": "Reckless Life - Live",
-      "url": "https://open.spotify.com/track/0iLV9SuiXvAf7QI1LIHybg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ABSU\u042fD",
         "url": "https://open.spotify.com/album/0dMoESugZcGjrttbxxxqdV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 203138,
       "name": "ABSU\u042fD",
       "url": "https://open.spotify.com/track/7q4Miqc5itaPtd20K2gH4N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 201613,
+      "name": "Reckless Life - Live",
+      "url": "https://open.spotify.com/track/0iLV9SuiXvAf7QI1LIHybg"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132680,
+  "num_followers": 132685,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABzhoxH5tAEpO0wYUQxsUOc",
+  "snapshot_id": "ai9AgAAAAAC092bxJt471pTyPyXq4RCd",
   "tracks": [
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marca da Promessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 333002,
-      "name": "Marca da Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com os Olhos da F\u00e9",
         "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
@@ -743,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
+        "name": "Marca da Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
       },
       "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 419263,
-      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
+      "duration_ms": 333002,
+      "name": "Marca da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
     },
     {
       "added_at": null,
@@ -775,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
       "artists": [
         {
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 291363,
-      "name": "Jamais Deixarei Voc\u00ea",
-      "url": "https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83"
+      "duration_ms": 419263,
+      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 313306,
       "name": "Jerusal\u00e9m e Eu",
       "url": "https://open.spotify.com/track/3F21le2cG4FwJFS0UVBBvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 291363,
+      "name": "Jamais Deixarei Voc\u00ea",
+      "url": "https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meu Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 310183,
+      "name": "Meu Viver - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bruna Karla Falando de Amor",
         "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 300672,
       "name": "Porque Creio em Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meu Viver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 310183,
-      "name": "Meu Viver - Ao Vivo",
-      "url": "https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz"
     },
     {
       "added_at": null,

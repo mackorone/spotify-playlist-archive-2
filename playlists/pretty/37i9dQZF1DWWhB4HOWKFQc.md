@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Celyna Grace, Andi Rianto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,199 likes - 91 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,313 likes - 91 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 39 | [That Should Be Me](https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:52 |
 | 40 | [Ini Abadi](https://open.spotify.com/track/6v5RJuJ9yhvaXkMXMeMZBw) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/5kMUjEYuu9ms8xLlk2b0V4) | 3:52 |
 | 41 | [Nafas](https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Nafas](https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN) | 3:26 |
-| 42 | [Am I Loving You Alone?](https://open.spotify.com/track/6eEbetfobV9JUj4Sgt7gIJ) | [The Midnight Darlings](https://open.spotify.com/artist/29ZcdXy5acg93KoOG4ZJ8V) | [Am I Loving You Alone?](https://open.spotify.com/album/4JiJysyBHufvbmgeiDwfZR) | 3:23 |
+| 42 | [Am I Loving You Alone?](https://open.spotify.com/track/6eEbetfobV9JUj4Sgt7gIJ) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Am I Loving You Alone?](https://open.spotify.com/album/4JiJysyBHufvbmgeiDwfZR) | 3:23 |
 | 43 | [\#Eeeaa](https://open.spotify.com/track/7HMLzHU05zxsOXV71XFIak) | [Coboy Junior](https://open.spotify.com/artist/1fw9jZ1duJbRsYjugzA0TW) | [Coboy Junior](https://open.spotify.com/album/1qc0sadKhvsDc8w9uu7r69) | 4:19 |
 | 44 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
 | 45 | [Kosong](https://open.spotify.com/track/4EhTIOXTXafB1aUwWy3T7N) | [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9), [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Jamie Aditya](https://open.spotify.com/artist/0WZFzBhmkw96pBkN2km2aE) | [BILANGAN](https://open.spotify.com/album/2c4mAUQr191ZXD8Ol7u0kL) | 2:19 |

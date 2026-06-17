@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 177836,
+  "num_followers": 177852,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAA6OEpZRLIyy7oWGsxIEIdx",
+  "snapshot_id": "ai9AgAAAAAAO1rI8fiEWVoXGgUyRnvNB",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz"
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Dancing For Rain",
-      "url": "https://open.spotify.com/track/04kOUITUlhSv65fjRbWlCq"
+      "duration_ms": 223532,
+      "name": "Damage Is Done",
+      "url": "https://open.spotify.com/track/0DZS3FxH7OhNLsHHQcaKMb"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
       "duration_ms": 233280,
       "name": "Broken Dreams, Inc.",
       "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 223532,
-      "name": "Damage Is Done",
-      "url": "https://open.spotify.com/track/0DZS3FxH7OhNLsHHQcaKMb"
     },
     {
       "added_at": null,
@@ -740,25 +724,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Blood To Bleed",
-      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Sudden Urge",
-      "url": "https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf"
+      "duration_ms": 241440,
+      "name": "Dancing For Rain",
+      "url": "https://open.spotify.com/track/4qX0ej3QhDggOqNtK7yuRV"
     },
     {
       "added_at": null,
@@ -779,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Sudden Urge",
+      "url": "https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ghost Note Symphonies, Vol.1",
         "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
       },
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 217720,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"
+      "duration_ms": 228480,
+      "name": "Blood To Bleed",
+      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 200163,
+      "name": "Black Crown",
+      "url": "https://open.spotify.com/track/4ohfZza9elH8aGdqRPbFoy"
     }
   ],
   "unique_name": "This Is Rise Against",

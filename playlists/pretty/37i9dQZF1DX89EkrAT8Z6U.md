@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,679 likes - 75 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,793 likes - 75 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 58 | [OKE](https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [OKE](https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR) | 2:26 |
 | 59 | [dedd barchetta](https://open.spotify.com/track/19PGCm7eOw4IGTXeAI5Ye9) | [Sugs](https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb) | [dedd barchetta](https://open.spotify.com/album/5oZ9FpKNr2D3HvZrWvBpDL) | 1:20 |
 | 60 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
-| 61 | [back in town!](https://open.spotify.com/track/3pEnjFkrJEgu6fi9NEYYsF) | [axaero](https://open.spotify.com/artist/5RuSwAt2v9Oy1uMQWzhZAz), [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [back in town!](https://open.spotify.com/album/5BS99qACmMDiYq66wMA0jV) | 2:21 |
-| 62 | [Overthinking](https://open.spotify.com/track/3ZVKdwchXde5oVaXANYjso) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [AVGOTDRIP](https://open.spotify.com/artist/7igrDEryu1H8kwrg2jMP06) | [Overthinking](https://open.spotify.com/album/6hkrx6PxCGohC0fPEmdsms) | 2:25 |
+| 61 | [Overthinking](https://open.spotify.com/track/3ZVKdwchXde5oVaXANYjso) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [AVGOTDRIP](https://open.spotify.com/artist/7igrDEryu1H8kwrg2jMP06) | [Overthinking](https://open.spotify.com/album/6hkrx6PxCGohC0fPEmdsms) | 2:25 |
+| 62 | [back in town!](https://open.spotify.com/track/3pEnjFkrJEgu6fi9NEYYsF) | [axaero](https://open.spotify.com/artist/5RuSwAt2v9Oy1uMQWzhZAz), [8percent](https://open.spotify.com/artist/3IvnJDS7SNCDivxi0xkiSK) | [back in town!](https://open.spotify.com/album/5BS99qACmMDiYq66wMA0jV) | 2:21 |
 | 63 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
 | 64 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
 | 65 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 |

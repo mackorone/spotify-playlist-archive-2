@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 573437,
+  "num_followers": 573414,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 125482,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
         "name": "Los Lugares Donde Ir\u00e1s",
         "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 176000,
       "name": "Los Lugares Donde Ir\u00e1s",
       "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 125482,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
+        "name": "Madrid City",
+        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Madrid City",
+      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
         "name": "El Tiempo Que Paso Contigo",
         "url": "https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 190205,
       "name": "El Tiempo Que Paso Contigo",
       "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
-        "name": "Madrid City",
-        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Madrid City",
-      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
         "name": "Otras Alas",
         "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 187016,
       "name": "nana triste",
       "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
         "name": "A D\u00f3nde Vamos",
         "url": "https://open.spotify.com/album/1rZx9sSqtP2gy4jmIZwVYc"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 203102,
       "name": "A D\u00f3nde Vamos",
       "url": "https://open.spotify.com/track/671sG3ETDxC3L6qcGIrHRM"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
-        "name": "NEXO 01. Me acuerdo de ti",
-        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 195279,
-      "name": "NEXO 01. Me acuerdo de ti",
-      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
         "name": "Estrella De Mar",
         "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 268706,
       "name": "Sin ti no soy nada",
       "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
-        "name": "Dos Caras Distintas",
-        "url": "https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm"
-      },
-      "artists": [
-        {
-          "name": "Los Secretos",
-          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Pero a tu lado",
-      "url": "https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
         "name": "Los Tragos",
         "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 171000,
       "name": "Los Tragos",
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
+        "name": "Dos Caras Distintas",
+        "url": "https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm"
+      },
+      "artists": [
+        {
+          "name": "Los Secretos",
+          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Pero a tu lado",
+      "url": "https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
-        "name": "NEXO 04. Tu cuerpo en braille",
-        "url": "https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd"
+        "name": "Bailar El Viento",
+        "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
         }
       ],
-      "duration_ms": 165887,
-      "name": "NEXO 04. Tu cuerpo en braille",
-      "url": "https://open.spotify.com/track/06qH2muOjme474WL3YKcBe"
+      "duration_ms": 229720,
+      "name": "Uno X Uno",
+      "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
+        "name": "NEXO 04. Tu cuerpo en braille",
+        "url": "https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 165887,
+      "name": "NEXO 04. Tu cuerpo en braille",
+      "url": "https://open.spotify.com/track/06qH2muOjme474WL3YKcBe"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
         "name": "L\u00e1rgate",
         "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 180074,
       "name": "L\u00e1rgate",
       "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
-        "name": "Bailar El Viento",
-        "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Uno X Uno",
-      "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Formentera",
-      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
         "name": "LAS 12",
         "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
       },
@@ -2255,6 +2235,26 @@
       "duration_ms": 165230,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Formentera",
+      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
     },
     {
       "added_at": "2026-03-10 12:37:33",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2026-03-10 12:37:33",
       "album": {
-        "name": "Lo bello y lo roto",
-        "url": "https://open.spotify.com/album/6giljR263PokzjhNexvgga"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 142746,
-      "name": "Nadie m\u00e1s te la cree",
-      "url": "https://open.spotify.com/track/3hUGYAky3cU0CHBIxmiYcK"
-    },
-    {
-      "added_at": "2026-03-10 12:37:33",
-      "album": {
         "name": "Nuclear",
         "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
       },
@@ -2691,6 +2675,22 @@
       "duration_ms": 213869,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv"
+    },
+    {
+      "added_at": "2026-03-10 12:37:33",
+      "album": {
+        "name": "Lo bello y lo roto",
+        "url": "https://open.spotify.com/album/6giljR263PokzjhNexvgga"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 142746,
+      "name": "Nadie m\u00e1s te la cree",
+      "url": "https://open.spotify.com/track/3hUGYAky3cU0CHBIxmiYcK"
     }
   ],
   "unique_name": "En el Trabajo",

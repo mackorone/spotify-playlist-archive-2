@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAD8Q/zwnQpSTLlOppiXakjt",
+  "snapshot_id": "ai9AgAAAAACmNrUDrcVRT58jLAOtqbmb",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 231220,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 198599,
       "name": "Party By Myself",
       "url": "https://open.spotify.com/track/0rAXLQ7JgPek5Wll0AXBMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 231220,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4oFhT5d5TDTJnkc22hiczk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/4oFhT5d5TDTJnkc22hiczk"
     },
     {
       "added_at": null,

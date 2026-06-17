@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0LGKNkqCNnflIi35z00rGu">PayGotti</a>
 
-2,891 songs - 5 day 7 hr 8 min
+2,892 songs - 5 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2191,6 +2191,7 @@
 | [Rounds](https://open.spotify.com/track/0Ri77u7FwVyFtNkFaY09jJ) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [No Refunds](https://open.spotify.com/album/7pUVJZs6e3GVTZcGlKXVG7) | 2:43 | 2021-11-19 | 2022-02-05 |
 | [Rowdy vs\. Rebel](https://open.spotify.com/track/2MaITtsyiWKg2w1umySIS6) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Rowdy vs\. Rebel](https://open.spotify.com/album/3tEkjoDhyrzj1aq3o8hLil) | 2:42 | 2022-04-08 | 2022-06-04 |
 | [Rubberband Man](https://open.spotify.com/track/4ZXRPxWHGLZUPHoUd8A9E2) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Rubberband Man](https://open.spotify.com/album/67yk3qVFPn2fNFbMThZu1y) | 2:55 | 2024-07-27 | 2024-08-24 |
+| [RUBBERZ](https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [RUBBERZ](https://open.spotify.com/album/5nh5SWvNLfdyPqJD5zvDNV) | 2:53 | 2026-06-16 |  |
 | [Rubi Wayda](https://open.spotify.com/track/3XWLnkW0Y54z5VHqlilDsg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Rubi Wayda](https://open.spotify.com/album/0wcr7UNOlYEG2lvp1M0BLf) | 2:40 | 2023-01-20 | 2023-02-18 |
 | [Rule No\. 1](https://open.spotify.com/track/3Mv9qrZoqMfpq3uu2yvLBq) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Rule No\. 1](https://open.spotify.com/album/7lqRb0jH2ZyUqIISU1UtX0) | 1:59 | 2024-05-31 | 2024-07-13 |
 | [RuleBook](https://open.spotify.com/track/34wuoBWblZ4uwNSO5eTagY) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [RuleBook](https://open.spotify.com/album/1ubEirgnCx29hE78AP6iYV) | 2:59 | 2022-11-18 | 2023-02-25 |

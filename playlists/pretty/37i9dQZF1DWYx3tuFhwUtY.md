@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,664 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,651 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 17 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
 | 18 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
 | 19 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
-| 20 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 |
-| 21 | [Olympians](https://open.spotify.com/track/1ADnKGJN6sQxkYpcgpyKbm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 3:58 |
+| 20 | [Olympians](https://open.spotify.com/track/1ADnKGJN6sQxkYpcgpyKbm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 3:58 |
+| 21 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 |
 | 22 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
 | 23 | [Lemonade](https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Lemonade](https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB) | 3:40 |
 | 24 | [Paraphernalia](https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx) | 4:23 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 41 | [The Great Divide](https://open.spotify.com/track/1zNrtAQhwbRyFmsf3yoBqT) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [The Great Divide](https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp) | 4:00 |
 | 42 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
 | 43 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 44 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
-| 45 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 |
+| 44 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 |
+| 45 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
 | 46 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 |
 | 47 | [Love's a Real Thing](https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn) | [Super Eagles](https://open.spotify.com/artist/2vyu3bWnidVmXk5wmqJaQ5) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 2:59 |
 | 48 | [I Don't Know What You See In Me](https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [I Don't Know What You See In Me](https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw) | 3:39 |

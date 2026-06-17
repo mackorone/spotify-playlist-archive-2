@@ -14225,6 +14225,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221958,
+      "name": "expectations",
+      "url": "https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi"
+    },
+    {
+      "album": {
         "name": "Expensive (feat. Noah Cyrus)",
         "url": "https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr"
       },
@@ -23622,6 +23640,24 @@
       "duration_ms": 297852,
       "name": "If You Loved Me - Georgia Remix",
       "url": "https://open.spotify.com/track/4uTibKI0GUBWKd6rMonJbO"
+    },
+    {
+      "album": {
+        "name": "If You Wanna Be Adored",
+        "url": "https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz"
+      },
+      "artists": [
+        {
+          "name": "Eva Rose",
+          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "If You Wanna Be Adored",
+      "url": "https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV"
     },
     {
       "album": {

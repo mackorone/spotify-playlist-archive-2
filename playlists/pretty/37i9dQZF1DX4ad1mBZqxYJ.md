@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,477 likes - 125 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,486 likes - 125 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 86 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 | 87 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 |
 | 88 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 |
-| 89 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |
-| 90 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |
+| 89 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |
+| 90 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |
 | 91 | [Chambeando En Lo Verde](https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Contrato A La Vida](https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD) | 3:06 |
 | 92 | [Bien Tony Montana](https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Bien Tony Montana](https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu) | 2:46 |
 | 93 | [GOMIN0LA](https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [GOMIN0LA](https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 164 songs - 9 hr 21 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 174 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,5 +172,15 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 162 | [Midnight Heart](https://open.spotify.com/track/4GD5J5y0wjrk5hPNLkhiSY) | [DISSONANT](https://open.spotify.com/artist/3XYNgEne3ULFkzHdtXXUpl) | [AFTERDOPAMYNE](https://open.spotify.com/album/6KfgIIVc5kUvBnMmQzjob8) | 1:57 |
 | 163 | [Destinazione sera](https://open.spotify.com/track/0JUuaYQuZfk3xiCVjIlVlh) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Una pellicola di realtà](https://open.spotify.com/album/10Ji1hqmYDzlsCMSuVf2VB) | 3:56 |
 | 164 | [Descending to Hell](https://open.spotify.com/track/0bJuDpO06aI6ytgoSwxelp) | [Raven Note](https://open.spotify.com/artist/1NRJEUIwnBQBbxRGei4NOi) | [Descending to Hell](https://open.spotify.com/album/14MVHzHi13UqhVYwKOzl9W) | 4:27 |
+| 165 | [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 |
+| 166 | [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 |
+| 167 | [Vochinch \(Ոչինչ\)](https://open.spotify.com/track/2ydFQDTK56qpH24cWrQmaK) | [SHANT](https://open.spotify.com/artist/1UBy0HrtNVoS1FcAnngrx0) | [Vochinch \(Ոչինչ\)](https://open.spotify.com/album/0M3VuTB8B9d7KCVxVK8RVE) | 4:07 |
+| 168 | [Lírica Abstracta](https://open.spotify.com/track/6LuPFnfHl5lu31LtJpZcPw) | [Dakerons](https://open.spotify.com/artist/3qzEIIPRfOGd2aNRR9aucw) | [Lírica Abstracta](https://open.spotify.com/album/30WhxZiuRNq9vUf35QPp2M) | 4:00 |
+| 169 | [Spark](https://open.spotify.com/track/7yxn2yxtoiq7nZtUQFUzZH) | [Mister Chorister](https://open.spotify.com/artist/2gj1byWvrljHj1FWzSWXUd) | [Spark](https://open.spotify.com/album/5tjGxk8v41ltW54UzXn46w) | 3:28 |
+| 170 | [Desejo Vapor](https://open.spotify.com/track/7uFbTASeISy1mIxdryvn1P) | [Peruca Simões](https://open.spotify.com/artist/7Fy8Lkf6OTOSuXfo5MIKKY) | [Desejo Vapor](https://open.spotify.com/album/7gX4finQ0Y0sPIJ8Pxn8RB) | 1:17 |
+| 171 | [House on a Hill](https://open.spotify.com/track/5Fqnq8YvSdg1E5XAILfLRo) | [Kaspar Bakken](https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky), [Bjun](https://open.spotify.com/artist/0iR66PzQEU9JFsnGycCwze) | [House on a Hill](https://open.spotify.com/album/4sCSHV3fuZrG2vi7MfU04H) | 3:08 |
+| 172 | [There Used to Be a Fire](https://open.spotify.com/track/1YA0YSeMnotxz7bEhK1qoK) | [For What You Burn](https://open.spotify.com/artist/4QvZTSqwTEZ0YQZuOPOKI6) | [There Used to Be a Fire](https://open.spotify.com/album/2wcvsM79Pk3JxgOrQvfpMU) | 2:01 |
+| 173 | [Torpor](https://open.spotify.com/track/6KPZncjd2Xq9tBTm1dr3N2) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Torpor](https://open.spotify.com/album/2a4PWeRKFl4YQlBPhCB05B) | 4:22 |
+| 174 | [fun fiction](https://open.spotify.com/track/56uH5sVVh4rCJEd1k00ZqX) | [Kiey](https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd), [CeCe Trương](https://open.spotify.com/artist/0We6FybaRNC3InZwnhiH2J) | [fun fiction](https://open.spotify.com/album/6BN0EwEZ1QrC9aFplflHj9) | 3:15 |
 
-Snapshot ID: `AAAVJEFhus5gjDbM4McOGHP8FXQUyYt2`
+Snapshot ID: `AAAVLlyrjl/VjH7RdlaoDjC7KjrTwxpn`

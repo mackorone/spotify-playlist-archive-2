@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,219 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,218 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 9 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
 | 10 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 11 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
-| 12 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
-| 13 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
+| 12 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
+| 13 | [Never Too Late](https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:29 |
 | 14 | [DONTTRUSTME](https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 3:12 |
 | 15 | [My Happy Ending](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 4:02 |
 | 16 | [That's What You Get](https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:40 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 30 | [I Don't Wanna Be In Love \(Dance Floor Anthem\)](https://open.spotify.com/track/36UVZPoK8a1Oxh13cY8kOp) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/5skjlzXO7wZ6OuS9YKdI50) | 4:04 |
 | 31 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 32 | [But It's Better If You Do](https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:25 |
-| 33 | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD) | 3:46 |
-| 34 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 |
+| 33 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 |
+| 34 | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD) | 3:46 |
 | 35 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 |
 | 36 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
 | 37 | [The Diary of Jane \- Single Version](https://open.spotify.com/track/5pvJ59i7JxylN8VB24xdMs) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:20 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 49 | [How You Love Me Now](https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:17 |
 | 50 | [Whoa Oh! \(Me vs Everyone\)](https://open.spotify.com/track/7CKLZEwboCy2juXMLsAHFt) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [Underdog Alma Mater](https://open.spotify.com/album/1DXQ0idwKePZH7T1yU57gS) | 3:24 |
 | 51 | [Heregoesnothin](https://open.spotify.com/track/4eaLY5pOPsgKzs37woeTRz) | [Never Shout Never](https://open.spotify.com/artist/5pUmXBIQtqpvdV1HAy2xYC) | [The Yippee EP](https://open.spotify.com/album/1oFeg6t9ToYo6DgGwb47Fm) | 3:26 |
-| 52 | [Hello Seattle](https://open.spotify.com/track/6kIpxmFQ35wgI3cK77LKbx) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes \(Deluxe Version\)](https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35) | 2:47 |
-| 53 | [Practice Makes Perfect](https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [Rotation](https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX) | 3:44 |
+| 52 | [Practice Makes Perfect](https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [Rotation](https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX) | 3:44 |
+| 53 | [Hello Seattle](https://open.spotify.com/track/6kIpxmFQ35wgI3cK77LKbx) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes \(Deluxe Version\)](https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35) | 2:47 |
 | 54 | [Everything I Ask For](https://open.spotify.com/track/7oO2hXd8ancgNouU8w3b1N) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Can't Stop Won't Stop](https://open.spotify.com/album/0bxAg2688N46MOhGVHxRFJ) | 2:37 |
 | 55 | [Dark Blue](https://open.spotify.com/track/2XFOuxF5xUZ00RaVfaIdw2) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit \(Non\-PA Release\)](https://open.spotify.com/album/3kb9M8LHAO4JKh2Z7ZgiOV) | 4:11 |
 | 56 | [Bring It \(Snakes on a Plane\)](https://open.spotify.com/track/2YWDmfu4SAnYGboCRrkjxE) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [While the City Sleeps, We Rule the Streets](https://open.spotify.com/album/0XgX5j5Ne4Tfw4oMdcoNQI) | 3:14 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 76 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 |
 | 77 | [I'd Do Anything](https://open.spotify.com/track/5KCPpfk3qfw2Gd9DRMCq8Y) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls](https://open.spotify.com/album/3rEl0zv6lbVZiB79uHAQ5y) | 3:17 |
 | 78 | [The Reason](https://open.spotify.com/track/7afSN5zhUhkbpRFpYKYztK) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/7vTkGDm4harI3j80FSvr2p) | 3:52 |
-| 79 | [Check Yes, Juliet](https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y) | 3:38 |
-| 80 | [If It Means a Lot to You](https://open.spotify.com/track/6J7cSyvSCnPwv3vqHchEfL) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW) | 4:03 |
+| 79 | [If It Means a Lot to You](https://open.spotify.com/track/6J7cSyvSCnPwv3vqHchEfL) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW) | 4:03 |
+| 80 | [Check Yes, Juliet](https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y) | 3:38 |
 
 Snapshot ID: `AAAAAK/w+8uKTnwZ5gPX+bh5OO2MA+ld`

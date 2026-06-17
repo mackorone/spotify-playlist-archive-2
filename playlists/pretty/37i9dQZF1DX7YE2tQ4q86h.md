@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Rebecca Black is having a main pop girl emergency 🆘
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,898 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,962 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 69 | [Critical](https://open.spotify.com/track/4TYZUb95asPHvyT5mfrJ2y) | [mra](https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA) | [001](https://open.spotify.com/album/5c9FP6mRrhRbCNLrP3NqBC) | 3:40 |
 | 70 | [My Mouth Is Lonely For You](https://open.spotify.com/track/2X5WidXHsjamq3ICtOmW9o) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [My Mouth Is Lonely For You](https://open.spotify.com/album/2RLA4dsSG3M7rIcXWeaTvy) | 4:04 |
 | 71 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 |
-| 72 | [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 |
+| 72 | [Wannabeher](https://open.spotify.com/track/4412CfupPqPn61n1nVew0s) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:34 |
 | 73 | [Angelina](https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Angelina](https://open.spotify.com/album/200LAacp5mXwgFAr490iKq) | 3:43 |
 | 74 | [Superbloom](https://open.spotify.com/track/56imCiO83oUJj6z9favCWt) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 4:11 |
 | 75 | [Sex, Etc.](https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 3:40 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 91 | [Champion](https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 2:52 |
 | 92 | [Struck](https://open.spotify.com/track/7tMK10zFkVYO9jEQIWh8d8) | [Charlotte MacInnes](https://open.spotify.com/artist/6awXERWZUqqR1jyC9CwZWb) | [Struck](https://open.spotify.com/album/3B0sdKkVWHf1g0dnbU3gSs) | 3:00 |
 | 93 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
-| 94 | [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 |
+| 94 | [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 |
 | 95 | [Humiliation Ritual](https://open.spotify.com/track/1FWWfdQgVeyHsPnScxtsRk) | [Kyra Machida](https://open.spotify.com/artist/4yedjyL6mOCHvzO8CbaMT6) | [Humiliation Ritual](https://open.spotify.com/album/7J5jQo3kiK4rKN2UXXTFuJ) | 2:22 |
 | 96 | [Feel Like I Died](https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [paint me like one of your fav american girls](https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7) | 2:23 |
 | 97 | [Lush Life \- Spotify Singles](https://open.spotify.com/track/19vcdecWhQfCqf4KzEnlRj) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Lush Life \(Spotify Singles\)](https://open.spotify.com/album/2km7Ivx2yjw61DfjgrJ5wQ) | 3:01 |

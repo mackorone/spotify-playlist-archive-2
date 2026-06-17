@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: NANA SOLIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,301 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,300 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 50 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 |
 | 51 | [якщо це не по\-справжньому](https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [живу\-відстукує](https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ) | 3:11 |
 | 52 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 |
-| 53 | [сльозка](https://open.spotify.com/track/2GGCks7uW1AKEZ3usmyGFv) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [сльозка](https://open.spotify.com/album/0qVEXvhfFHHPSgIwBlrBbQ) | 3:21 |
+| 53 | [Ya Tabtab](https://open.spotify.com/track/4VprDXa9zCBQ9n1xNSeIum) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Char Bell](https://open.spotify.com/artist/4Op8WlR7WeCf0mkzjZsd6k) | [Ya Tabtab](https://open.spotify.com/album/70VOfqtogVHD4qzT9n8Deo) | 2:53 |
 | 54 | [Не ходи](https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV), [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Не ходи](https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv) | 2:40 |
 | 55 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 |
-| 56 | [Ya Tabtab](https://open.spotify.com/track/4VprDXa9zCBQ9n1xNSeIum) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Char Bell](https://open.spotify.com/artist/4Op8WlR7WeCf0mkzjZsd6k) | [Ya Tabtab](https://open.spotify.com/album/70VOfqtogVHD4qzT9n8Deo) | 2:53 |
+| 56 | [сльозка](https://open.spotify.com/track/2GGCks7uW1AKEZ3usmyGFv) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [сльозка](https://open.spotify.com/album/0qVEXvhfFHHPSgIwBlrBbQ) | 3:21 |
 | 57 | [Японія](https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Японія](https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx) | 2:34 |
 | 58 | [Gorgone](https://open.spotify.com/track/4a4NSZqnAJMyizWczuRnlV) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Gorgone](https://open.spotify.com/album/5QVCAOKiBikNLZRmlsvLdX) | 5:02 |
 | 59 | [Сльози](https://open.spotify.com/track/3eHtHXdvwkCzptoyGWoAN0) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Сльози](https://open.spotify.com/album/0NFd9fnA9iU96YfRhxpBgl) | 3:46 |

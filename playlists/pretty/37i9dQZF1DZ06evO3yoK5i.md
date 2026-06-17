@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,450 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,464 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Solo junto a ti](https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 3:43 |
 | 50 | [Ma che bello questo amore](https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [In Certi Momenti](https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd) | 4:13 |
 
-Snapshot ID: `ai3vAAAAAADxDZTc23K1PI2dmE7wyr9T`
+Snapshot ID: `ai9AgAAAAADLW767TUwuZCGhpkS7gX+R`

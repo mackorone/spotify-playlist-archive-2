@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,163 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,149 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 49 | [BB](https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:36 |
 | 50 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 |
 
-Snapshot ID: `ai3vAAAAAAATAP5b/bG+ZWMvDIvP7dpg`
+Snapshot ID: `ai9AgAAAAAD8Pol+9BAByUavBj4S1+PW`

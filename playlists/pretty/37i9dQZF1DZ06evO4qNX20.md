@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,177 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,189 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 36 | [Tino Quintero](https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 3:46 |
 | 37 | [Corrido de Rosalino \- Remastered 2025](https://open.spotify.com/track/2nYtDxtPjn5TQXPAnsn8uU) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Canta Corridos al Estilo Culiacán \(Remastered 2025\)](https://open.spotify.com/album/0jcI7bVG13NCyxphp60wCG) | 2:45 |
 | 38 | [Julián del Real \- Remastered 2025](https://open.spotify.com/track/7afW44m4B7ioXwnzpk1xci) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 2:40 |
-| 39 | [Pilares de Cristal](https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 2:29 |
-| 40 | [Rigo Coria](https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez Con Banda Brava](https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF) | 3:32 |
+| 39 | [Rigo Coria](https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez Con Banda Brava](https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF) | 3:32 |
+| 40 | [Pilares de Cristal](https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 2:29 |
 | 41 | [El Pávido Návido](https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 2:54 |
 | 42 | [El Dos Dedos \- Remastered 2025](https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:27 |
 | 43 | [El Gallo de Sinaloa](https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Gallo de Sinaloa](https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [La Loba Del Mal](https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [La Flor Del Campo: El Pávido Návido](https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw) | 2:36 |
 | 50 | [Que Me Entierren Cantando](https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Inmortales](https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5) | 2:43 |
 
-Snapshot ID: `ai3vAAAAAABNEvjmm06vLtjk+oYC40H4`
+Snapshot ID: `ai9AgAAAAADvZ5+p2dh3mkiBEggUuE8i`

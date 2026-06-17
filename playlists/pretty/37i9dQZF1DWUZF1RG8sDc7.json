@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 165218,
+  "num_followers": 165253,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "La Combinaci\u00f3n Vallenata, Vol. 2",
         "url": "https://open.spotify.com/album/5z2MpAXOEjwYJBKhpUc55k"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 306733,
       "name": "Que Me Perdone",
       "url": "https://open.spotify.com/track/5KyNTRKevJLoF2qy0QyLzE"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -891,8 +891,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
       "artists": [
         {
@@ -900,25 +900,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Pisando Fuerte",
-        "url": "https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 268042,
-      "name": "Acu\u00e9rdate",
-      "url": "https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7"
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -939,74 +923,6 @@
       "duration_ms": 306280,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 312783,
-      "name": "Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
-        }
-      ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "A Besitos",
-      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1040,9 +956,125 @@
           "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
+      "duration_ms": 312783,
+      "name": "Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Pisando Fuerte",
+        "url": "https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 268042,
+      "name": "Acu\u00e9rdate",
+      "url": "https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Marca Registrada del Binomio de Oro",
+        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Me Sobran las Palabras",
+      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Uniendo Corazones",
+        "url": "https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 259920,
+      "name": "Novios Cruzados",
+      "url": "https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
       "duration_ms": 315087,
       "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
       "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4yKNXDW1ZOpkFIapNpfyHR"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Perd\u00f3name la Vida",
+      "url": "https://open.spotify.com/track/2Z4mhXRWi1ef8eqW8i4hjH"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1059,38 +1091,6 @@
       "duration_ms": 262191,
       "name": "A Donde Ir\u00e9 Sin Ti",
       "url": "https://open.spotify.com/track/1TYPgjaOTvBaNL7FrGOxxk"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 286640,
-      "name": "Mi Diosa Humana",
-      "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

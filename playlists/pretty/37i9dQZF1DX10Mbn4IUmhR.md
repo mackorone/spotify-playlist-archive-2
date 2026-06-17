@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Ben Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,529 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,528 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 10 | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9) | 3:04 |
 | 11 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 12 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
-| 13 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
-| 14 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 13 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
+| 14 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 15 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
 | 16 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 |
 | 17 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 18 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
 | 19 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
-| 20 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
-| 21 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
+| 20 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
+| 21 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 | 22 | [Daylight](https://open.spotify.com/track/5OGZ2Mx4Cs6RCndDRycGBJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2) | 3:32 |
 | 23 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
 | 24 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 67 | [Letting go](https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [Letting go](https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c) | 2:40 |
 | 68 | [Neverland](https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs) | [Tatum Tides](https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY) | [Neverland](https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY) | 3:08 |
 | 69 | [Untimely Disclosure](https://open.spotify.com/track/7g6WhPV8EJb2Lxs1AX9Mho) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Untimely Disclosure](https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq) | 3:43 |
-| 70 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
-| 71 | [Ted Mosby](https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU) | [Sir Silly](https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO) | [Ted Mosby](https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC) | 2:51 |
+| 70 | [Ted Mosby](https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU) | [Sir Silly](https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO) | [Ted Mosby](https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC) | 2:51 |
+| 71 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
 | 72 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
 | 73 | [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 |
 | 74 | [Figments Of My Imagination](https://open.spotify.com/track/5KH9u7Z9D1J51uZLNtsscD) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Figments Of My Imagination](https://open.spotify.com/album/3jFjcAeoCIFcbJ2re4WIrv) | 3:15 |

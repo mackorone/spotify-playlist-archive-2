@@ -2,7 +2,7 @@
 
 ### [verano forever 2026](https://open.spotify.com/playlist/37i9dQZF1DXa0xldXwsLda)
 
-> Música vibrante para encender tu verano 🍹
+> Música vibrante para encender tu verano 🍹 Santos Bravos 📸
 
 289 songs - 16 hr 18 min
 

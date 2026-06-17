@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1472415,
+  "num_followers": 1472548,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADoVWfZSeXlzhTvIpEfvoY/",
+  "snapshot_id": "ai9AgAAAAAAmj3etDfmd5jzSiipGq2Dg",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GEMINI SEASON",
+        "url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 106500,
+      "name": "GEMINI SEASON",
+      "url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 323962,
       "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
       "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GEMINI SEASON",
-        "url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 106500,
-      "name": "GEMINI SEASON",
-      "url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1"
     },
     {
       "added_at": null,

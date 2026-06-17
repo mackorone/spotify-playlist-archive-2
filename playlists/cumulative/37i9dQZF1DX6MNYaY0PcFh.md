@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: J Wax
 
-404 songs - 22 hr 34 min
+405 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [all around me](https://open.spotify.com/track/40iWD68MUB5VzhA3Ojg2f2) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [all around me](https://open.spotify.com/album/0qJcw1a1aPBVLojxSBblC5) | 3:44 | 2024-05-10 | 2024-07-13 |
 | [All Day](https://open.spotify.com/track/6gxmJyDO8NlP96bFU4nYPe) | [Ghoulish](https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK) | [All Day](https://open.spotify.com/album/3C3PiPEzHq22uivC7iEpFd) | 4:12 | 2026-02-27 | 2026-05-01 |
 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 | 2025-07-24 | 2026-05-30 |
-| [All Night](https://open.spotify.com/track/1YmphBwn8ByJnWCRixZsxD) | [Krafty Kuts](https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2) | [All Night](https://open.spotify.com/album/6yYuIVGsnusvBBAXWdmBbx) | 2:54 | 2026-06-11 |  |
+| [All Night](https://open.spotify.com/track/1YmphBwn8ByJnWCRixZsxD) | [Krafty Kuts](https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2) | [All Night](https://open.spotify.com/album/6yYuIVGsnusvBBAXWdmBbx) | 2:54 | 2026-06-11 | 2026-06-17 |
 | [All Of Me \(Do For Love\)](https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [All Of Me \(Do For Love\)](https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk) | 2:24 | 2023-04-27 | 2024-08-23 |
 | [Alone](https://open.spotify.com/track/1RHsONwpXcquKICISbiJxB) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Alone](https://open.spotify.com/album/6OguGlQ0qqeNAOaggF4zDT) | 3:26 | 2025-04-17 | 2025-11-22 |
 | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Lucy Virji](https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E) | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au) | 4:37 | 2022-11-25 | 2024-01-04 |
@@ -351,6 +351,7 @@
 | [Swept Away](https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Swept Away](https://open.spotify.com/album/5OQWYahgccARpqqFBq0hr8) | 2:47 | 2026-01-16 |  |
 | [Swings](https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Swings](https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk) | 2:21 | 2025-08-15 |  |
 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 | 2022-11-25 | 2024-01-04 |
+| [Take Control](https://open.spotify.com/track/7sYlJeuvvQFKwC9g2M7k9u) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Take Control](https://open.spotify.com/album/09slsqibNej7G9AHHekZ92) | 3:24 | 2026-06-11 |  |
 | [Take it Further](https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Take it Further](https://open.spotify.com/album/1g8uVD8Hk9ZOmjrSg1TwUb) | 4:33 | 2022-11-25 | 2023-09-02 |
 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 | 2024-05-10 | 2025-06-20 |
 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 | 2025-02-21 | 2025-10-24 |

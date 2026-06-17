@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: indigo la End",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: amazarashi",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -4679,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "canirvania.",
+        "url": "https://open.spotify.com/album/5vHcALqpwws16FVKPT0kEw"
+      },
+      "artists": [
+        {
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185314,
+      "name": "canirvania.",
+      "url": "https://open.spotify.com/track/3vRSixTqNLjAjKBTYEFx2N"
+    },
+    {
+      "album": {
         "name": "Cantabile",
         "url": "https://open.spotify.com/album/4nCi6OEl9dW978qgBL6X8F"
       },
@@ -5086,7 +5104,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 295673,
       "name": "Circuit",
       "url": "https://open.spotify.com/track/2SdyaRCOQlpATDruDsStm7"
@@ -6720,6 +6738,24 @@
       "duration_ms": 244700,
       "name": "discord",
       "url": "https://open.spotify.com/track/59KtqHrsiFU8ab3iOMlNsb"
+    },
+    {
+      "album": {
+        "name": "dissolve",
+        "url": "https://open.spotify.com/album/29h5NpEaQyLElTSaYRt9D7"
+      },
+      "artists": [
+        {
+          "name": "Sokoninaru",
+          "url": "https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185174,
+      "name": "dissolve",
+      "url": "https://open.spotify.com/track/7jIk6V22jYNhS2OVjWL3cW"
     },
     {
       "album": {
@@ -8866,7 +8902,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 283307,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/2aTUQADpOKj9SLOAyR13BI"
@@ -13371,6 +13407,24 @@
     },
     {
       "album": {
+        "name": "ZENRYOKU TIE-UP",
+        "url": "https://open.spotify.com/album/4xhQ9m4NeDV2gmYRRQE1PD"
+      },
+      "artists": [
+        {
+          "name": "shukatsuclub",
+          "url": "https://open.spotify.com/artist/3R2FK3WS1nBCJuaerq98Ra"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "KAIBUTSU",
+      "url": "https://open.spotify.com/track/6ejNm2uUhgrPXpneW43GDq"
+    },
+    {
+      "album": {
         "name": "kajitsukyoso",
         "url": "https://open.spotify.com/album/15QuOefdY8WQ7Mcutatrt5"
       },
@@ -15639,6 +15693,24 @@
     },
     {
       "album": {
+        "name": "Love is the Torch",
+        "url": "https://open.spotify.com/album/4zrtHx0DziGUtVEdaA3cKC"
+      },
+      "artists": [
+        {
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307933,
+      "name": "Love is the Torch",
+      "url": "https://open.spotify.com/track/34mxjtfS7IwYxhJ2DNG5oI"
+    },
+    {
+      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/42OHp58yGIcXem4aTr27oe"
       },
@@ -15650,7 +15722,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 232918,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/3vhOLkZ0mOgK6SgSptFdGY"
@@ -15776,7 +15848,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 183358,
       "name": "Lovely \u00d8r Lonely",
       "url": "https://open.spotify.com/track/2tOYWvD0xNZqmClFAn95KA"
@@ -18170,7 +18242,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 211364,
       "name": "Natsuiro Nikki",
       "url": "https://open.spotify.com/track/0vbsv3gfKBYdvLOckDCyFY"
@@ -21404,7 +21476,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 177000,
       "name": "RE LANDER",
       "url": "https://open.spotify.com/track/30MLn50Filh4s0b6Xu5TId"
@@ -25730,7 +25802,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 245781,
       "name": "STAR EXTRA",
       "url": "https://open.spotify.com/track/3uTWfOftzX90j6nInuJif0"
@@ -27776,6 +27848,24 @@
       "duration_ms": 161632,
       "name": "that's all i can do",
       "url": "https://open.spotify.com/track/7twaSJLZIx4k1kjzDhohjm"
+    },
+    {
+      "album": {
+        "name": "That's All I Wish",
+        "url": "https://open.spotify.com/album/26JYScMF9NL5zVfV36DYZ5"
+      },
+      "artists": [
+        {
+          "name": "OKAMOTO'S",
+          "url": "https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190366,
+      "name": "That's All I Wish",
+      "url": "https://open.spotify.com/track/1AwF87QPmGqFqcuUwp0sqL"
     },
     {
       "album": {
@@ -30956,7 +31046,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 228640,
       "name": "Who I am",
       "url": "https://open.spotify.com/track/39kzMad8sS4UBsL9d8H5fy"
@@ -37151,6 +37241,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30f3\u30c9\u30ec\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/1aguMSMYQX2oCvlLDtUTXz"
+      },
+      "artists": [
+        {
+          "name": "Be my Girl",
+          "url": "https://open.spotify.com/artist/0f1g7262npe7ZCidh6zdEx"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233571,
+      "name": "\u30a8\u30f3\u30c9\u30ec\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/2t88H1yVZEu2qHv2bvJMVo"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb\u30bf\u30a4\u30de\u30fc",
         "url": "https://open.spotify.com/album/749RO6yWEazWfeRa2n7W9h"
       },
@@ -38370,6 +38478,24 @@
       "duration_ms": 224700,
       "name": "\u30af\u30e9\u30a4\u30de\u30fc",
       "url": "https://open.spotify.com/track/6hPMNe8R5KOwghvzxDNF1D"
+    },
+    {
+      "album": {
+        "name": "\u30af\u30e9\u30a6\u30f3\u65b0\u8eca\u3067\u8cb7\u3063\u3066\u3042\u3052\u308b",
+        "url": "https://open.spotify.com/album/79IX9gKiY14TsuQ7UldJoS"
+      },
+      "artists": [
+        {
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347409,
+      "name": "\u30af\u30e9\u30a6\u30f3\u65b0\u8eca\u3067\u8cb7\u3063\u3066\u3042\u3052\u308b",
+      "url": "https://open.spotify.com/track/3TZhfwTNDdyFpBlkodbsMx"
     },
     {
       "album": {
@@ -41169,6 +41295,24 @@
     },
     {
       "album": {
+        "name": "GIRLS BAND NEVER DIE",
+        "url": "https://open.spotify.com/album/3HZsA618AiDsSClnQYGVsu"
+      },
+      "artists": [
+        {
+          "name": "\u3061\u3083\u304f\u3089",
+          "url": "https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159433,
+      "name": "\u30c9\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6w0aqok05y3cdCYQ6uJ8lX"
+    },
+    {
+      "album": {
         "name": "\u30ca\u30a4\u30b9\u30a2\u30a4\u30c7\u30a3\u30a2\uff01",
         "url": "https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU"
       },
@@ -41360,7 +41504,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 345386,
       "name": "\u30cb\u30fc\u30c1\u30a7",
       "url": "https://open.spotify.com/track/3CmD0paAxiR7xU0vArUXKh"
@@ -46987,6 +47131,24 @@
     },
     {
       "album": {
+        "name": "\u50d5 love you (demo)",
+        "url": "https://open.spotify.com/album/6lSZyB8hkJnEl6p8UMDwAm"
+      },
+      "artists": [
+        {
+          "name": "neguse.",
+          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89738,
+      "name": "\u50d5 love you - demo",
+      "url": "https://open.spotify.com/track/1PIzulOwZeBCW2KGsR1zng"
+    },
+    {
+      "album": {
         "name": "\u50d5\u304b\u3089\u541b\u3078 (BLUE ver.)",
         "url": "https://open.spotify.com/album/0P67MbLvjs4Yj5dld53viS"
       },
@@ -47432,7 +47594,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 265545,
       "name": "\u516b\u6708\u306e\u5302\u3044",
       "url": "https://open.spotify.com/track/2HrlGNDXTLmzjF1BYle8sn"
@@ -48041,6 +48203,24 @@
     },
     {
       "album": {
+        "name": "\u53cb\u9054\u304c\u3044\u307e\u3057\u305f",
+        "url": "https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq"
+      },
+      "artists": [
+        {
+          "name": "Trooper Salute",
+          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486190,
+      "name": "\u53cb\u9054\u304c\u3044\u307e\u3057\u305f",
+      "url": "https://open.spotify.com/track/6mnkyC0iA2j5E0d1xBNo06"
+    },
+    {
+      "album": {
         "name": "\u53cd\u6483\u7684\u8b83\u6b4c",
         "url": "https://open.spotify.com/album/2vGOQyrfzOWCdmFswG9REx"
       },
@@ -48596,7 +48776,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 257058,
       "name": "\u5504\u3048\u3070\u611b",
       "url": "https://open.spotify.com/track/0c7nj0Qizq7wUKFc6ZDghY"
@@ -58894,6 +59074,24 @@
       "duration_ms": 216553,
       "name": "\u96d1\u7a3f pt.2",
       "url": "https://open.spotify.com/track/4YPXhMFkDZbkiotEFi6BfV"
+    },
+    {
+      "album": {
+        "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
+        "url": "https://open.spotify.com/album/57uP8IjOsKGwHVqAls2bWo"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241608,
+      "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/5UIbX3mRkgJ6NZbPRvw29F"
     },
     {
       "album": {

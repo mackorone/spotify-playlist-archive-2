@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: NMIXX, Anderson\. Paak\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,295 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,297 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 19 | [Blink \(feat\. TZUYU\)](https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD) | [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj), [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [Blink \(feat\. TZUYU\)](https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB) | 2:42 |
 | 20 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
 | 21 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 |
-| 22 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
-| 23 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 |
+| 22 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 |
+| 23 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
 | 24 | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 |
 | 25 | [In The Dark \(with Stray Kids\)](https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 2:59 |
 | 26 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |

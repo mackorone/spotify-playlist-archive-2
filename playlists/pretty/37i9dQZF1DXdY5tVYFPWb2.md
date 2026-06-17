@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,861 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,869 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,18 +27,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 17 | [WINDY SUMMER](https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:06 |
 | 18 | [TATTOO](https://open.spotify.com/track/36jIu8oPR1Z4cguMuHxUXA) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [TATTOO](https://open.spotify.com/album/3VqutKQybsb2z1IT9CDRUE) | 4:48 |
 | 19 | [琥珀色の街、上海蟹の朝](https://open.spotify.com/track/2A0zCiphI5e6Vxat20qyEv) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [琥珀色の街、上海蟹の朝](https://open.spotify.com/album/5YQJ6lpTgJQI77JfnqEWSK) | 5:17 |
-| 20 | [Mine or Yours](https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Mine or Yours](https://open.spotify.com/album/3qWvYtAQ2E46KGBAX82neO) | 4:22 |
+| 20 | [masshiro \(pure white\)](https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [masshiro \(pure white\)](https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg) | 4:54 |
 | 21 | [Funky Lovely Girl](https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p) | 3:44 |
 | 22 | [Fly By Day](https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:33 |
 | 23 | [アイのマネ](https://open.spotify.com/track/2DLhKm5TZQGrjR1Nn5iNHy) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [アイのマネ](https://open.spotify.com/album/36CcDznIb2uAnaI5tl1KEK) | 2:52 |
-| 24 | [masshiro \(pure white\)](https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [masshiro \(pure white\)](https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg) | 4:54 |
+| 24 | [Mine or Yours](https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Mine or Yours](https://open.spotify.com/album/3qWvYtAQ2E46KGBAX82neO) | 4:22 |
 | 25 | [ステキッ！！](https://open.spotify.com/track/3LjmO7wYa1pjgbnpC58Ibe) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ステキッ！！](https://open.spotify.com/album/5uws2TezX8oeBoNfxJWJTN) | 4:13 |
-| 26 | [キャラバン](https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:19 |
-| 27 | [Orphans](https://open.spotify.com/track/5UHLQuObG0omP6vN0P73Gu) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Obscure Ride](https://open.spotify.com/album/2W7WcHZSESKr99oh6Ul6F0) | 4:55 |
+| 26 | [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 |
+| 27 | [キャラバン](https://open.spotify.com/track/6bIELZs1M0OXx6dXHdU6Mq) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:19 |
 | 28 | [おはよう](https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [おはよう](https://open.spotify.com/album/10XtjZqcqjXxRdUf0zH5tU) | 3:48 |
 | 29 | [The End of the F\*\*\*ing World](https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS) | 4:04 |
-| 30 | [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 |
-| 31 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 |
+| 30 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 |
+| 31 | [Orphans](https://open.spotify.com/track/5UHLQuObG0omP6vN0P73Gu) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Obscure Ride](https://open.spotify.com/album/2W7WcHZSESKr99oh6Ul6F0) | 4:55 |
 | 32 | [SURPRISE OF SUMMER](https://open.spotify.com/track/3uYCbGo0mc5p7volIb5k2N) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [COOOL](https://open.spotify.com/album/2X9EFWmSWAYLjKm9y6llqL) | 4:13 |
 | 33 | [NEO JAPAN](https://open.spotify.com/track/4PQJs2U6R1xhXLxyjmf4gj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:13 |
 | 34 | [the NOISE \(Contains a Samples of 夜に駆ける\)](https://open.spotify.com/track/1uB20TujpjHQZpFRxsbnI7) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [the NOISE \(Contains a Samples of 夜に駆ける\)](https://open.spotify.com/album/3wdMXdIudpmTWVRyhJYlUD) | 3:44 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 83 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:45 |
 | 84 | [ソーラ・ウィンド](https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス 後篇](https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz) | 4:15 |
 | 85 | [RIDE ON TIME](https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [RIDE ON TIME](https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3) | 4:04 |
-| 86 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 |
-| 87 | [Document](https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs) | 4:35 |
+| 86 | [Document](https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z) | [RETRORIRON](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs) | 4:35 |
+| 87 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 |
 | 88 | [Deja\-vu](https://open.spotify.com/track/7J9I6C6AE9XPbhfYUwamjf) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Deja\-vu](https://open.spotify.com/album/7jcNtagY3SxbU1fEz8qgUQ) | 4:15 |
 | 89 | [アポロ](https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [RELOADING CITY](https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI) | 4:24 |
 | 90 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 92 | [One more smile](https://open.spotify.com/track/4p3jDaKThb2vhmfOujMoU0) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [smile](https://open.spotify.com/album/33gNobiqLKSs5Av1I7SbC8) | 3:57 |
 | 93 | [4:00 A.M\. \(2025 Re\-edit Version\)](https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [4:00 A.M\. \(2025 Re\-edit Version\)](https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi) | 4:43 |
 | 94 | [琥珀色の素肌](https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ) | 3:25 |
-| 95 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 |
-| 96 | [月はミラーボール \-Under the Mirror Moon\- \(feat.財津マイ\)](https://open.spotify.com/track/0CUhMWSWWdp07rVfF6vNb2) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [月はミラーボール \-Under the Mirror Moon\- \(feat.財津マイ\)](https://open.spotify.com/album/4pRpdtVHThhF7zwvtt2x0j) | 4:53 |
+| 95 | [月はミラーボール \-Under the Mirror Moon\- \(feat.財津マイ\)](https://open.spotify.com/track/0CUhMWSWWdp07rVfF6vNb2) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [月はミラーボール \-Under the Mirror Moon\- \(feat.財津マイ\)](https://open.spotify.com/album/4pRpdtVHThhF7zwvtt2x0j) | 4:53 |
+| 96 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 |
 | 97 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 |
 | 98 | [さつきちゃん](https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [さつきちゃん](https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t) | 3:22 |
 | 99 | [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳！〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 |
 | 100 | [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 |
 
-Snapshot ID: `AAAAAHbEgJLtTPR+s9SLa7wraSeXTDzz`
+Snapshot ID: `AAAAAAuy1ROBwzd4QLwxe9u6QoiT94lg`

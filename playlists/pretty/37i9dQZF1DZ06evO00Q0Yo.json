@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 20447,
+  "num_followers": 20452,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAQTxquEqUTI5n8eP/C/ye0",
+  "snapshot_id": "ai9AgAAAAAD4NXeja93O6gn2Rwm92fiw",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B.T.W",
+        "url": "https://open.spotify.com/album/663RYnWALwCApODIwyqG1d"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 124808,
+      "name": "B.T.W",
+      "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
         "url": "https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 125579,
       "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
       "url": "https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B.T.W",
-        "url": "https://open.spotify.com/album/663RYnWALwCApODIwyqG1d"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 124808,
-      "name": "B.T.W",
-      "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
     },
     {
       "added_at": null,

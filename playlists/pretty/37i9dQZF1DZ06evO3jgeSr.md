@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 
 > This is Labi Siffre\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,661 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,667 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 26 | [Why Did You Go, Why Did You Leave Me?](https://open.spotify.com/track/7dzKmqGnoJL5tr0DXdvLBJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 3:16 |
 | 27 | [Sadie and the Devil \- 2006 Remaster](https://open.spotify.com/track/2WvwMBkSC9jg5eYJ9AWXhR) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 3:53 |
 | 28 | [Talkabout](https://open.spotify.com/track/2dGUGJmo9wSRB4vmgX61lb) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer and the Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 2:42 |
-| 29 | [Far Away](https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Far Away](https://open.spotify.com/album/68uNKLGz6gfR1efpp027ep) | 3:39 |
+| 29 | [The Life I Got](https://open.spotify.com/track/4sRNeqCO9HtszLpsMqaR53) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 3:57 |
 | 30 | [Last Night Tonight](https://open.spotify.com/track/2JwwCsp5MwHV8JfDY3TAB3) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 4:05 |
-| 31 | [The Life I Got](https://open.spotify.com/track/4sRNeqCO9HtszLpsMqaR53) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 3:57 |
+| 31 | [Far Away](https://open.spotify.com/track/0r66U3zD7beNhmsuvcmyw2) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Far Away](https://open.spotify.com/album/68uNKLGz6gfR1efpp027ep) | 3:39 |
 | 32 | [I Will Always Love You](https://open.spotify.com/track/1CjlMwVMrvWphUBZ3nCpyx) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [So Strong](https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk) | 5:27 |
 | 33 | [Somesay](https://open.spotify.com/track/7FcwlImuJKJiBJUhRmrcc9) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [For the Children \(Deluxe Edition\)](https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u) | 2:55 |
 | 34 | [Here We Are](https://open.spotify.com/track/4cxVAPX6yXbcRerhoiDE6u) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 49 | [Samaritans](https://open.spotify.com/track/4ZdYII20MN9mFPkzj8agPl) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 5:05 |
 | 50 | [Second Time Around](https://open.spotify.com/track/0zvjDCmVZ0g7uVNRdI1Wdy) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Happy](https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu) | 4:02 |
 
-Snapshot ID: `ai3vAAAAAABCrOMB19v2wcDDWly1GUn/`
+Snapshot ID: `ai9AgAAAAADa8BgNlCNo1cjDvf1/ZQ6g`

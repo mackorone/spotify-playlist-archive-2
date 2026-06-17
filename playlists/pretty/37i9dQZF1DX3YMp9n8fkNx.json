@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1509384,
+  "num_followers": 1509494,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "God Shuffled His Feet",
-        "url": "https://open.spotify.com/album/6MEFBcD0a87GMYiHW3VsVI"
-      },
-      "artists": [
-        {
-          "name": "Crash Test Dummies",
-          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
-        }
-      ],
-      "duration_ms": 235173,
-      "name": "Mmm Mmm Mmm Mmm",
-      "url": "https://open.spotify.com/track/76nvqWPFucUra1xCkN1tnD"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "All The Pain Money Can Buy",
         "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 257093,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "God Shuffled His Feet",
+        "url": "https://open.spotify.com/album/6MEFBcD0a87GMYiHW3VsVI"
+      },
+      "artists": [
+        {
+          "name": "Crash Test Dummies",
+          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
+        }
+      ],
+      "duration_ms": 235173,
+      "name": "Mmm Mmm Mmm Mmm",
+      "url": "https://open.spotify.com/track/76nvqWPFucUra1xCkN1tnD"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 422600,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Absolute Garbage",
         "url": "https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 258133,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 422600,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
     },
     {
       "added_at": "2024-06-26 02:07:58",

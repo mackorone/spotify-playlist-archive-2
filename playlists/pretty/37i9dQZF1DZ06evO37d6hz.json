@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 502,
+  "num_followers": 503,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAB8wyJkGMT+YnVISUx2MixB",
+  "snapshot_id": "ai9AgAAAAACJ4mXUSSwIjqqmvt1JYR+b",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 586760,
-      "name": "Patchwork",
-      "url": "https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2"
+      "duration_ms": 123773,
+      "name": "A Folk Study",
+      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
     },
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 96000,
-      "name": "Three Sonic Spaces I",
-      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
+      "duration_ms": 291693,
+      "name": "The Hollows",
+      "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 123773,
-      "name": "A Folk Study",
-      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
+      "duration_ms": 586760,
+      "name": "Patchwork",
+      "url": "https://open.spotify.com/track/4RLVoOmGiYhxUe9WVPr8t2"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 291693,
-      "name": "The Hollows",
-      "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
+      "duration_ms": 96000,
+      "name": "Three Sonic Spaces I",
+      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
     },
     {
       "added_at": null,

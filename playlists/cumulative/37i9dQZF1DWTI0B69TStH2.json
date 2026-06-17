@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0DKSIQmQ284IrIKpNdl36H\">AJLA</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:4D2PCg640w5R8SGfAlO2ZR\">Kuba Kamik</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -1178,6 +1178,24 @@
       "duration_ms": 141437,
       "name": "4001k - Przyborowski Feli\u0144ski Remix",
       "url": "https://open.spotify.com/track/3Y0j8sHfYeJbaDqMxXU0y9"
+    },
+    {
+      "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/6MQmlUGFHfjQLhoPsjizvJ"
+      },
+      "artists": [
+        {
+          "name": "Metrosexual",
+          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178859,
+      "name": "404",
+      "url": "https://open.spotify.com/track/2a8EQPYgTe27hg4SYTao02"
     },
     {
       "album": {
@@ -4648,7 +4666,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 225342,
       "name": "Bez Ciebie",
       "url": "https://open.spotify.com/track/4DVjl9vP5pkuk4XPKVrYyD"
@@ -30398,7 +30416,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 299749,
       "name": "Lato",
       "url": "https://open.spotify.com/track/4Slw4MtByG8zo8ZML8aMW9"
@@ -30972,6 +30990,24 @@
       "duration_ms": 201726,
       "name": "Lekk\u0105 r\u0119k\u0105",
       "url": "https://open.spotify.com/track/6zMsxrdAXEkAwtRfQZYzzD"
+    },
+    {
+      "album": {
+        "name": "Len",
+        "url": "https://open.spotify.com/album/3JsfuP7Oul1Sblvubzjgwj"
+      },
+      "artists": [
+        {
+          "name": "Jakub Wysmu\u0142ek",
+          "url": "https://open.spotify.com/artist/1iIcrcgUgQwx2yzqwAwAIK"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Len",
+      "url": "https://open.spotify.com/track/1GRKlmFW1t7ROA7UTZ6sUf"
     },
     {
       "album": {
@@ -35081,6 +35117,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits: Side A+B",
+        "url": "https://open.spotify.com/album/4Ljb1dccvl4r71qM0JzCze"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kamik",
+          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121399,
+      "name": "Miliony monet",
+      "url": "https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI"
+    },
+    {
+      "album": {
         "name": "Mimo Maskarady",
         "url": "https://open.spotify.com/album/66pGEe4eLGM0KIMVERdYwA"
       },
@@ -35432,7 +35486,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 206769,
       "name": "MI\u0118SKO",
       "url": "https://open.spotify.com/track/7jVc2p4KVKwxM2XMMbbQET"
@@ -39280,7 +39334,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 234033,
       "name": "Nic?",
       "url": "https://open.spotify.com/track/2OtKphailgIlLV5t1S2wlK"
@@ -48987,6 +49041,24 @@
     },
     {
       "album": {
+        "name": "Per\u0142y za Kredensem",
+        "url": "https://open.spotify.com/album/1l63Kqg0C6fuUPFpPHrZ2N"
+      },
+      "artists": [
+        {
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224295,
+      "name": "Per\u0142y za Kredensem",
+      "url": "https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u"
+    },
+    {
+      "album": {
         "name": "Bezdech",
         "url": "https://open.spotify.com/album/77s8uLyL8BR4v3XQVTFQW1"
       },
@@ -54497,6 +54569,24 @@
     },
     {
       "album": {
+        "name": "byepolar",
+        "url": "https://open.spotify.com/album/2ddgk7GbfEBEk9BsMM08iD"
+      },
+      "artists": [
+        {
+          "name": "microdawka",
+          "url": "https://open.spotify.com/artist/01LgAoYLLXrA67ELEhKF3y"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228910,
+      "name": "radiatio",
+      "url": "https://open.spotify.com/track/2cHNZSK2N5vXkTXN4UyNck"
+    },
+    {
+      "album": {
         "name": "RAGER",
         "url": "https://open.spotify.com/album/1IPV7ZuBVzIDw7AQqa4faj"
       },
@@ -55450,7 +55540,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 193410,
       "name": "Romantyk",
       "url": "https://open.spotify.com/track/74te2i3XdO19EQ5IKVUwzl"
@@ -58693,6 +58783,24 @@
     },
     {
       "album": {
+        "name": "SIZE PLUS",
+        "url": "https://open.spotify.com/album/1UjK9Fu5rKQYLQEXzU3Tyf"
+      },
+      "artists": [
+        {
+          "name": "JOVI",
+          "url": "https://open.spotify.com/artist/5Jxu9swDBvujY5CFpm2Ug3"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190789,
+      "name": "SIZE PLUS",
+      "url": "https://open.spotify.com/track/4jr6ezWwabhc7HolTUEv2S"
+    },
+    {
+      "album": {
         "name": "\u015awi\u0119ta Krowa",
         "url": "https://open.spotify.com/album/7HFmeBFXouB8qRJnF3DBbd"
       },
@@ -60537,6 +60645,24 @@
     },
     {
       "album": {
+        "name": "Sp\u0142ywaj",
+        "url": "https://open.spotify.com/album/71DVJckvQX1sykhVCZqPjr"
+      },
+      "artists": [
+        {
+          "name": "Patrycja Krzyczman",
+          "url": "https://open.spotify.com/artist/6o28utkI0NEACC95AlqMB1"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "Sp\u0142ywaj",
+      "url": "https://open.spotify.com/track/2cS3G3ieY2MT5cPN8CDNMO"
+    },
+    {
+      "album": {
         "name": "Stacja",
         "url": "https://open.spotify.com/album/0lYz4UHGbLQNoQ5lkROSff"
       },
@@ -61054,7 +61180,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 218000,
       "name": "STOP",
       "url": "https://open.spotify.com/track/3013kbrUL77NILb88oviXr"
@@ -61964,7 +62090,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 317537,
       "name": "syreny",
       "url": "https://open.spotify.com/track/4szhqxE9Bf3rsPumS3MRA5"
@@ -65204,6 +65330,24 @@
       "duration_ms": 213948,
       "name": "The Hearing (Writing's On The Wall)",
       "url": "https://open.spotify.com/track/6XucpaFJkeHEa3fus6eXtC"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/4f7XxKi1YKl5ha4yAH48Ke"
+      },
+      "artists": [
+        {
+          "name": "babyhats",
+          "url": "https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341803,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/5jpSNQkBsF8mXaCgJFeto3"
     },
     {
       "album": {
@@ -70912,7 +71056,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 108415,
       "name": "w_moim_ma\u0142ym_pokoju.mp3",
       "url": "https://open.spotify.com/track/4nbYIpyJ2Np7exXt7TGV0R"

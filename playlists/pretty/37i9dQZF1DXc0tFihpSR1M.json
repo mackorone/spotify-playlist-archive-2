@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Dagny",
-  "num_followers": 87502,
+  "num_followers": 87503,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,18 @@
     {
       "added_at": "2026-06-11 22:01:00",
       "album": {
-        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 213241,
-      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
       "added_at": "2026-06-11 22:01:00",
@@ -615,18 +611,22 @@
     {
       "added_at": "2026-06-11 22:01:00",
       "album": {
-        "name": "Mr. Know It All",
-        "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 198425,
-      "name": "Mr. Know It All",
-      "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
       "added_at": "2026-06-11 22:01:00",

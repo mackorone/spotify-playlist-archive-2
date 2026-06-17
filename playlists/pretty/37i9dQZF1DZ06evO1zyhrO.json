@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104329,
+  "num_followers": 104332,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAADjveigvuFhEQPaYBgzRoo9",
+  "snapshot_id": "ai9AgAAAAAC9KcyKORotm57ZHXjztLVZ",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 205478,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ishq Hai (This is Love) [From \"Mismatched, Season 3\"]",
         "url": "https://open.spotify.com/album/24zM8Ez9aPPiDScXVXSH5K"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 146001,
       "name": "Ishq Hai (This is Love) - From \"Mismatched, Season 3\"",
       "url": "https://open.spotify.com/track/53PHY7P6XrgX6YdPxJAhvO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 205478,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Like This",
-        "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
-      },
-      "artists": [
-        {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Nothing Like This",
-      "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Following My Intuition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
@@ -571,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nothing Like This",
+        "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Nothing Like This",
+      "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Time Is Now (Expanded Edition)",
         "url": "https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 192893,
       "name": "Heartline",
       "url": "https://open.spotify.com/track/60RZ7d1D4DeEdtzkjXrp77"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 126009,
       "name": "Lately Remix (feat. Craig David)",
       "url": "https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abracadabra (feat. Craig David)",
+        "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Abracadabra (feat. Craig David)",
+      "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Woman Trouble",
         "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
       },
@@ -691,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slicker than Your Average",
         "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
@@ -723,30 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addicted (Radio Edit)",
-        "url": "https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs"
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
       "artists": [
         {
-          "name": "DJ Assad",
-          "url": "https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC"
-        },
-        {
-          "name": "Mohombi",
-          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
-        },
-        {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Greg Parys",
-          "url": "https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV"
         }
       ],
-      "duration_ms": 214970,
-      "name": "Addicted - Radio Edit",
-      "url": "https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v"
+      "duration_ms": 242173,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
     },
     {
       "added_at": null,
@@ -780,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 216573,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
+      "duration_ms": 214840,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL"
     },
     {
       "added_at": null,
@@ -803,6 +795,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Addicted (Radio Edit)",
+        "url": "https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs"
+      },
+      "artists": [
+        {
+          "name": "DJ Assad",
+          "url": "https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC"
+        },
+        {
+          "name": "Mohombi",
+          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Greg Parys",
+          "url": "https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV"
+        }
+      ],
+      "duration_ms": 214970,
+      "name": "Addicted - Radio Edit",
+      "url": "https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
       },
@@ -819,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abracadabra (feat. Craig David)",
-        "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
-      },
-      "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Abracadabra (feat. Craig David)",
-      "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Signed Sealed Delivered",
         "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
       },
@@ -848,9 +848,25 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 214840,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL"
+      "duration_ms": 216573,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
       "duration_ms": 204800,
       "name": "My Heart's Been Waiting for You - feat. Duvall",
       "url": "https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
     },
     {
       "added_at": null,

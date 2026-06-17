@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svenska punkklassiker och hardcore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,633 likes - 140 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,636 likes - 140 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 52 | [Med munnen full av hat](https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h) | [Vet Hut](https://open.spotify.com/artist/1hYSAZUsXHo5io3lCKRIXs) | [Med munnen full av hat](https://open.spotify.com/album/5cC3X7yrOQOTmdqqZYRSb3) | 2:51 |
 | 53 | [Vem fan är liberal?](https://open.spotify.com/track/1f07uOacf7BpsHyzBsvDMm) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Vem fan är liberal?](https://open.spotify.com/album/3nS0eCqVJu74EghUIJOMKE) | 2:58 |
 | 54 | [Hatar dig ändå](https://open.spotify.com/track/1LEIcs4cZtLJ32MbiC1owp) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Hatar dig ändå](https://open.spotify.com/album/6wz5C9g5rdVI0fSnhTvnVK) | 2:39 |
-| 55 | [Stockholms bästa band](https://open.spotify.com/track/1fecBg16RMBCaBDOM2mKJc) | [INTENSIVEN](https://open.spotify.com/artist/1p0EQ3biZsVtQBmjmMBymr) | [Stockholms bästa band](https://open.spotify.com/album/3ocY1J8pZDpn6pwT5uI3n8) | 3:38 |
-| 56 | [Låt dom brinna](https://open.spotify.com/track/4FzIbuIVlRWjcb27PUtjqm) | [Slaveriet](https://open.spotify.com/artist/3yCXFddAsqxzxRlSbkm43L) | [Ett småskaligt krig](https://open.spotify.com/album/730Lj8aZVdswCX0sLaqNNb) | 2:18 |
+| 55 | [Låt dom brinna](https://open.spotify.com/track/4FzIbuIVlRWjcb27PUtjqm) | [Slaveriet](https://open.spotify.com/artist/3yCXFddAsqxzxRlSbkm43L) | [Ett småskaligt krig](https://open.spotify.com/album/730Lj8aZVdswCX0sLaqNNb) | 2:18 |
+| 56 | [Stockholms bästa band](https://open.spotify.com/track/1fecBg16RMBCaBDOM2mKJc) | [INTENSIVEN](https://open.spotify.com/artist/1p0EQ3biZsVtQBmjmMBymr) | [Stockholms bästa band](https://open.spotify.com/album/3ocY1J8pZDpn6pwT5uI3n8) | 3:38 |
 | 57 | [När broar bränns](https://open.spotify.com/track/3AUZ76y1Sg7dsuyVvkgXO5) | [Hata Som Lejon](https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw) | [När broar bränns](https://open.spotify.com/album/1QmuGtosgz3jMsbw4Zhxxh) | 2:31 |
 | 58 | [Modets Klappträn](https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ) | [Total Apati](https://open.spotify.com/artist/3gzEJGALMIHxyjYm0Q5Eg4) | [Att Ni Inte Ser...](https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1) | 2:51 |
 | 59 | [Ta ställning](https://open.spotify.com/track/3GENhjdodAEroiioaU01Fv) | [Krigsstigen](https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC) | [Samling i särklass](https://open.spotify.com/album/3ToAC3pLqmeHGRBTBmEK9S) | 2:43 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 89 | [PMS](https://open.spotify.com/track/4vMdTNE0Gt4mwM09MTrliJ) | [Urarta](https://open.spotify.com/artist/3ZCPn906v26k3HPjZTimW0) | [PMS](https://open.spotify.com/album/4tfg7hsFQcyO48nbwTXbEY) | 1:03 |
 | 90 | [Grisarna och snuten](https://open.spotify.com/track/0mYtygCVUIGTRuPT7F3NEJ) | [Bödel](https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa) | [Välkommen till avrättningen](https://open.spotify.com/album/5hHmpAQgoVUHeSpymWnWGK) | 1:48 |
 | 91 | [Fattigdom suger!](https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:21 |
-| 92 | [Pop & Våld](https://open.spotify.com/track/1PDEjC3h2SPCkYHasBAnda) | [DÖDSÖGONBLICKET](https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU) | [Pop & Våld](https://open.spotify.com/album/39wTLSo15d9G8bi3getVhI) | 1:36 |
-| 93 | [Lamotten is nådd](https://open.spotify.com/track/0Ne2ltkBiEHWx2CqBj9t09) | [Headons](https://open.spotify.com/artist/5ILHTFZeVJHlBFC2MkbPe8) | [Bäst före 16\-10\-2014](https://open.spotify.com/album/33RtuRWy4kXhzg6tsqGy7E) | 1:08 |
-| 94 | [Du E Plast](https://open.spotify.com/track/1j4OXmGlWv9dlaS9u5htdt) | [City Saints](https://open.spotify.com/artist/3OqJ3cRfFxPVKATChVmrho), [Christer "Blomman" Blomgren](https://open.spotify.com/artist/3zadbGPA3eib5aidFnvzen) | [Du E Plast](https://open.spotify.com/album/6Wp0WRKdyr5osrASK5A0r4) | 1:21 |
+| 92 | [Du E Plast](https://open.spotify.com/track/1j4OXmGlWv9dlaS9u5htdt) | [City Saints](https://open.spotify.com/artist/3OqJ3cRfFxPVKATChVmrho), [Christer "Blomman" Blomgren](https://open.spotify.com/artist/3zadbGPA3eib5aidFnvzen) | [Du E Plast](https://open.spotify.com/album/6Wp0WRKdyr5osrASK5A0r4) | 1:21 |
+| 93 | [Pop & Våld](https://open.spotify.com/track/1PDEjC3h2SPCkYHasBAnda) | [DÖDSÖGONBLICKET](https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU) | [Pop & Våld](https://open.spotify.com/album/39wTLSo15d9G8bi3getVhI) | 1:36 |
+| 94 | [Lamotten is nådd](https://open.spotify.com/track/0Ne2ltkBiEHWx2CqBj9t09) | [Headons](https://open.spotify.com/artist/5ILHTFZeVJHlBFC2MkbPe8) | [Bäst före 16\-10\-2014](https://open.spotify.com/album/33RtuRWy4kXhzg6tsqGy7E) | 1:08 |
 | 95 | [Tunneln](https://open.spotify.com/track/3IE3ejZvxHNZ1U02OqzWrD) | [Fruktansvärld](https://open.spotify.com/artist/3PMulePujdYBmQK4oVYxDO) | [Sisyfos](https://open.spotify.com/album/0lrUafceSqRFy8BLlsl8zk) | 3:02 |
 | 96 | [Tid\-övertid](https://open.spotify.com/track/3bYTorXoefvnMoVpFLYMHn) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tid\-övertid](https://open.spotify.com/album/6mZtFPUxeQ0VUDyuADt2Wa) | 2:48 |
 | 97 | [Perfektion](https://open.spotify.com/track/2BC87opiqN4nkYnzUdEwzR) | [Siken för Helvete](https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw) | [Perfektion](https://open.spotify.com/album/4j9ASlDUrwhNnDU9LVXWXR) | 1:41 |
@@ -141,12 +141,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 131 | [Leviatan](https://open.spotify.com/track/0ycZqaqz68u8u7nYLUdQaE) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 2:15 |
 | 132 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 |
 | 133 | [Revolt](https://open.spotify.com/track/1VwFou4F5pU4ABwqytvOHB) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Revolt](https://open.spotify.com/album/23JQxqGj0Xva3gm0Vx48g8) | 2:41 |
-| 134 | [Välja väg](https://open.spotify.com/track/1goDUIiHZzz05oJl7XFMHO) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Välja väg/Dubbelt så mycket hälften så bra](https://open.spotify.com/album/6eJyOfEpdLsiJqBmgN26nH) | 2:39 |
+| 134 | [Konflikthantering 101](https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Konflikthantering 101](https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4) | 2:45 |
 | 135 | [Se på dig själv](https://open.spotify.com/track/6eJPUL0vQnyPejEDOVQ1C7) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 0:53 |
 | 136 | [Betongbarn](https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kaos & Skrål 85\-87](https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq) | 2:51 |
 | 137 | [Slåss som en tjej](https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Slåss som en tjej](https://open.spotify.com/album/0SIAtm0xtnqLdNipxYtRxZ) | 2:33 |
 | 138 | [Mer av mig](https://open.spotify.com/track/2RBChJ7EzoyxsUepxuwQf1) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Kryptonit](https://open.spotify.com/album/702ww4VpbJHTtgd4alAOzg) | 3:03 |
-| 139 | [Konflikthantering 101](https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Konflikthantering 101](https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4) | 2:45 |
+| 139 | [Välja väg](https://open.spotify.com/track/1goDUIiHZzz05oJl7XFMHO) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Välja väg/Dubbelt så mycket hälften så bra](https://open.spotify.com/album/6eJyOfEpdLsiJqBmgN26nH) | 2:39 |
 | 140 | [Patriarkatet](https://open.spotify.com/track/5qhAF20De3Qh3EOUORPPYE) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 3:10 |
 
 Snapshot ID: `AAAAADvvBdqU+3+4VCioptDEREYpNRSq`

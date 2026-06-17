@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Capsula
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,655 likes - 65 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,666 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 24 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 |
 | 25 | [Semáforo](https://open.spotify.com/track/1Nn7sJLkzaWrbtW6WuifT8) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Vanguart](https://open.spotify.com/album/5k6JkVcDqhyXyghf8hPBmX) | 3:49 |
 | 26 | [Começa Tudo Outra Vez](https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Quatro Cantos de Um Mundo Redondo](https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB) | 3:28 |
-| 27 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |
-| 28 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
+| 27 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
+| 28 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |
 | 29 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 |
 | 30 | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Bleeding Heart \(Acoustic \- Live At Opera de Arame\)](https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO) | 5:39 |
 | 31 | [Não Diga Nada](https://open.spotify.com/track/1T1xneWDmxbb9rcgB0Svz8) | [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Não Diga Nada](https://open.spotify.com/album/3kf71hYy9zqknjwKGyi2mj) | 4:10 |
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 35 | [Quanto Tempo Demora Um Mês](https://open.spotify.com/track/64kByFEamIW6sVECquQlRm) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quanto Tempo Demora Um Mês](https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8) | 3:30 |
 | 36 | [Não Somos Mais](https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt) | [Matheus Torres](https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy) | [Não Somos Mais](https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ) | 4:10 |
 | 37 | [Eu](https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D) | [Pato Fu](https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631), [Orquestra Ouro Preto](https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt) | [Rotorquestra de Liquidificafu](https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa) | 3:27 |
-| 38 | [Nada Mudou](https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Nada Mudou](https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr) | 3:16 |
-| 39 | [Estrela Misteriosa](https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Uma Estrela Misteriosa](https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W) | 7:06 |
+| 38 | [Estrela Misteriosa](https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Uma Estrela Misteriosa](https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W) | 7:06 |
+| 39 | [Nada Mudou](https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Nada Mudou](https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr) | 3:16 |
 | 40 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 |
 | 41 | [Eu não sou mais o mesmo](https://open.spotify.com/track/7ggCFNp07eR7nfpIbuHZQi) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Eu não sou mais o mesmo](https://open.spotify.com/album/0FRCbWvGvqxHWhcnxLu0DF) | 2:07 |
-| 42 | [Outro Mundo, Outro Lugar](https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Outro Mundo, Outro Lugar](https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl) | 3:46 |
-| 43 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
+| 42 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
+| 43 | [Outro Mundo, Outro Lugar](https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Outro Mundo, Outro Lugar](https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl) | 3:46 |
 | 44 | [Te Beijei](https://open.spotify.com/track/33w69xKoZqw9SZBjH0t8Mj) | [Yahoo](https://open.spotify.com/artist/29bYY1WyOuJ3Z2jxYhT7kM) | [Te Beijei](https://open.spotify.com/album/5KWtMye0hULoCq2CZ5DBDP) | 4:14 |
 | 45 | [A Noite Toda](https://open.spotify.com/track/41FfVrQ3Nt8BKHMFybQUkl) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [MANAUERO \(Deluxe\)](https://open.spotify.com/album/1mTkjgLURoKKK4Wvm1vzbi) | 3:18 |
 | 46 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |

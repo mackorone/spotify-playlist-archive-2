@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > Voor boslucht, koffie en kalmte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,112 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,110 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 41 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 |
 | 42 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
 | 43 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 |
-| 44 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
-| 45 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 |
+| 44 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 |
+| 45 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
 | 46 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 47 | [Stolen Valor](https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Stolen Valor / Leash](https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0) | 2:33 |
 | 48 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
-| 49 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
-| 50 | [happiness \- live](https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [happiness \(live\)](https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0) | 3:28 |
+| 49 | [happiness \- live](https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [happiness \(live\)](https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0) | 3:28 |
+| 50 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
 
 Snapshot ID: `AAAAAFV3tm1bmNW+66XFL1wrEAIYxvNK`

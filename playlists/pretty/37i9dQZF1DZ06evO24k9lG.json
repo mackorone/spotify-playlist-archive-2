@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 64490,
+  "num_followers": 64496,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAtQbPU+nF7Uzx+kkv7T7BX",
+  "snapshot_id": "ai9AgAAAAABn4YPOpkRGIUJnZyyC8hTG",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 303413,
-      "name": "Dif\u00edcil de Igualar",
-      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+      "duration_ms": 276640,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/2aRFBt9T9HrNAjP5pwl8wd"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 276640,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/2aRFBt9T9HrNAjP5pwl8wd"
+      "duration_ms": 303413,
+      "name": "Dif\u00edcil de Igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
       "duration_ms": 284160,
       "name": "Te Har\u00e9 Feliz",
       "url": "https://open.spotify.com/track/4Con9ddUgt05U6Ea5QY0tC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 296840,
+      "name": "No Me Resignare",
+      "url": "https://open.spotify.com/track/0bmLUt1Gt466W82eREpJsH"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 296840,
-      "name": "No Me Resignare",
-      "url": "https://open.spotify.com/track/0bmLUt1Gt466W82eREpJsH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Por Lo Alto",
         "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "Dejate Atrapar",
-      "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 279475,
       "name": "No Puedo Olvidarla",
       "url": "https://open.spotify.com/track/1fbGlN6KJzmelg4tCSs2ck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 280413,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/6S4mHl2osunAmz5vx928tH"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Nuestro",
-        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 280413,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/6S4mHl2osunAmz5vx928tH"
+      "duration_ms": 292333,
+      "name": "Dejate Atrapar",
+      "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
     },
     {
       "added_at": null,

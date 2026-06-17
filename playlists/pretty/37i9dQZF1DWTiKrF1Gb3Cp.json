@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 251781,
+  "num_followers": 251833,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Proyecto X",
-        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "Proyecto X",
-      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "Contando",
         "url": "https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 191515,
       "name": "Contando",
       "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "Proyecto X",
+        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "Proyecto X",
+      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
         "name": "Gallos Y Caballos",
         "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 158543,
       "name": "Gallos Y Caballos",
       "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1923,30 +1923,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Antrax",
-        "url": "https://open.spotify.com/album/0YWzujtA6XZwQqHQuWMEnB"
-      },
-      "artists": [
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        },
-        {
-          "name": "Jimmy Guzman",
-          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
-        },
-        {
-          "name": "Dj Young Mty",
-          "url": "https://open.spotify.com/artist/2HCGmdpckXTE4WNTAFEzA8"
-        }
-      ],
-      "duration_ms": 162002,
-      "name": "Antrax",
-      "url": "https://open.spotify.com/track/47rbXVaDwAfPrKolyEWWfT"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "Me Ilumin\u00e9",
         "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
       },
@@ -1967,6 +1943,30 @@
       "duration_ms": 138720,
       "name": "Me Ilumin\u00e9",
       "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "Antrax",
+        "url": "https://open.spotify.com/album/0YWzujtA6XZwQqHQuWMEnB"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        },
+        {
+          "name": "Dj Young Mty",
+          "url": "https://open.spotify.com/artist/2HCGmdpckXTE4WNTAFEzA8"
+        }
+      ],
+      "duration_ms": 162002,
+      "name": "Antrax",
+      "url": "https://open.spotify.com/track/47rbXVaDwAfPrKolyEWWfT"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 206645,
+      "name": "7",
+      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
         "name": "A La Fokin Orden",
         "url": "https://open.spotify.com/album/3Yen5AxeDLl8NX7J2ma1JH"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 185523,
       "name": "A La Fokin Orden",
       "url": "https://open.spotify.com/track/5I3g6hftosFiHUih2o0cXs"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 206645,
-      "name": "7",
-      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
     },
     {
       "added_at": "2026-05-29 06:00:17",

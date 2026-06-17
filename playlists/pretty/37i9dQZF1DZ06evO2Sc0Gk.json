@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21397,
+  "num_followers": 21400,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAD8zWZiMCBstfZw3wplTLq9",
+  "snapshot_id": "ai9AgAAAAAAU5Lbu8o+hMAFCHR7lBGys",
   "tracks": [
     {
       "added_at": null,
@@ -419,30 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Life Is Eazi",
-      "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Day You Will Understand",
         "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 150000,
       "name": "Baby I'm Jealous",
       "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Life Is Eazi",
+      "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
     },
     {
       "added_at": null,
@@ -1003,22 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F1 The Album",
-        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 173149,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -1043,22 +1027,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariana",
-        "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
+        "name": "F1 The Album",
+        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
       },
       "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 148153,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
+      "duration_ms": 173149,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 109747,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
     }
   ],
   "unique_name": "This Is Mr Eazi",

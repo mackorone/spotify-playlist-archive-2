@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 23.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 24.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -730,7 +730,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
@@ -1294,6 +1294,24 @@
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+    },
+    {
+      "album": {
+        "name": "BANGBANGBANG",
+        "url": "https://open.spotify.com/album/0qH4jwehlxPZ1iujCmcBaX"
+      },
+      "artists": [
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132186,
+      "name": "BANGBANGBANG",
+      "url": "https://open.spotify.com/track/2V8HuXQLm9RaHJdfGLYnym"
     },
     {
       "album": {
@@ -3403,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "album": {
         "name": "Eau de Toilette 2",
         "url": "https://open.spotify.com/album/1QGMHR1zNJlWbQbxbhCYmv"
       },
@@ -4491,6 +4527,24 @@
     },
     {
       "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "album": {
         "name": "Virt\u00fc\u00f6z",
         "url": "https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ"
       },
@@ -4532,7 +4586,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -5078,7 +5132,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 159973,
       "name": "Heute Nacht",
       "url": "https://open.spotify.com/track/7BMTrcMg18YKFup0ekBWxw"
@@ -5096,7 +5150,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
@@ -5183,6 +5237,28 @@
     },
     {
       "album": {
+        "name": "Hmm Hmm",
+        "url": "https://open.spotify.com/album/4BSjWZT7pKxnnBmRx7mbk2"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150933,
+      "name": "Hmm Hmm",
+      "url": "https://open.spotify.com/track/1xxxitscTjYchdDrtaJgbW"
+    },
+    {
+      "album": {
         "name": "HOKUS POKUS",
         "url": "https://open.spotify.com/album/1AWAuL3lkGaH7ZbelmJKrO"
       },
@@ -5234,7 +5310,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -5410,6 +5486,24 @@
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
       "album": {
@@ -6049,6 +6143,42 @@
     },
     {
       "album": {
+        "name": "KAYIP PERSONA",
+        "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Kay\u0131p Kalp",
+      "url": "https://open.spotify.com/track/3H4aYDeSswC31fSOWJtWdg"
+    },
+    {
+      "album": {
+        "name": "Kein Limit",
+        "url": "https://open.spotify.com/album/2USNOEiTSgYcb6T280EN2O"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121295,
+      "name": "Kein Limit",
+      "url": "https://open.spotify.com/track/2gBarw6vh2Mq2AzY9ya3CQ"
+    },
+    {
+      "album": {
         "name": "Kein Zur\u00fcck",
         "url": "https://open.spotify.com/album/7z17rZnKqCVKwlZnxOWemA"
       },
@@ -6200,7 +6330,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 146043,
       "name": "KOKOSNUSS",
       "url": "https://open.spotify.com/track/1Wt0okU2AQCphxQ8PE9b5V"
@@ -6280,6 +6410,24 @@
       "duration_ms": 305226,
       "name": "K\u00f6lsche Jung",
       "url": "https://open.spotify.com/track/6v3Rzc8reAqhJKURPWzpfR"
+    },
+    {
+      "album": {
+        "name": "KAYIP PERSONA",
+        "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160639,
+      "name": "K\u0131rg\u0131n\u0131m",
+      "url": "https://open.spotify.com/track/2CTeRSttI3Jwx7gj4egqKe"
     },
     {
       "album": {
@@ -7250,7 +7398,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 210093,
       "name": "Memories (feat. Kid Cudi)",
       "url": "https://open.spotify.com/track/7fLzbEOBOae9lUnOwr7Tse"
@@ -7308,7 +7456,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -7501,6 +7649,24 @@
     },
     {
       "album": {
+        "name": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) [Party Version]",
+        "url": "https://open.spotify.com/album/5rukMAUVOrBJldBp9s71OH"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194028,
+      "name": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+      "url": "https://open.spotify.com/track/0xrjwh7fhJ9KmpoTWcazQW"
+    },
+    {
+      "album": {
         "name": "MON FR\u00c8RE",
         "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
       },
@@ -7600,7 +7766,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -8244,7 +8410,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 191062,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/46pK7XhpU1xGsuyy2lJXGx"
@@ -9436,7 +9602,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 190693,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/7037bX3jdaUWUAXL12CHGy"
@@ -10190,7 +10356,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 155516,
       "name": "Spring",
       "url": "https://open.spotify.com/track/1gYhY6lBUobvFCB5klYJkL"
@@ -10404,7 +10570,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 93235,
       "name": "Superhelden",
       "url": "https://open.spotify.com/track/2atD9qfo7yZKfT70Iv2Jxn"
@@ -10796,7 +10962,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 127000,
       "name": "Testarossa",
       "url": "https://open.spotify.com/track/0hLCuNZyCRHeEodQqr0dWi"
@@ -11480,6 +11646,28 @@
       "duration_ms": 252865,
       "name": "TRAPPER'S LULLABY",
       "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
+    },
+    {
+      "album": {
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202881,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
     },
     {
       "album": {
@@ -12194,7 +12382,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 267354,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/57RHMnLMQx8Qz5V6c0E8dF"
@@ -13270,6 +13458,28 @@
       "duration_ms": 190963,
       "name": "Zusammen",
       "url": "https://open.spotify.com/track/0ksYR0NiRkbtIUOKPqsVVC"
+    },
+    {
+      "album": {
+        "name": "KAYIP PERSONA",
+        "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        },
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240782,
+      "name": "\u00c7ok G\u00fczel G\u00fcl\u00fcyorsun",
+      "url": "https://open.spotify.com/track/7rsrUU3OGXQwTHWWMZwlw8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,167 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,171 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 5 | [REVENGE](https://open.spotify.com/track/6Ti0pYsxkmjTWjot5SazAc) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [The Claimant / REVENGE](https://open.spotify.com/album/3KVlhgQwopf7gh5VCsRLb0) | 2:48 |
 | 6 | [Drop](https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Drop](https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E) | 2:28 |
 | 7 | [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 |
-| 8 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
+| 8 | [Frontiers](https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Frontiers](https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C) | 2:36 |
 | 9 | [My Fan](https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 |
-| 10 | [Frontiers](https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Frontiers](https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C) | 2:36 |
+| 10 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 11 | [WORK HARD](https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORK HARD](https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ) | 2:53 |
 | 12 | [ちゅだい \- Chxxai](https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [LEGION](https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw) | 1:39 |
 | 13 | [HATERS](https://open.spotify.com/track/5fgglJEebJkxZ9K2WXl9n9) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [UNTIL](https://open.spotify.com/album/4fgxqE5qY4QFwtOiA4TaWJ) | 2:17 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 39 | [YW](https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [YW](https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms) | 2:28 |
 | 40 | [Katsushika](https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX), [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Katsushika](https://open.spotify.com/album/51zBaQpAdiAWxRP0pA1R0f) | 2:11 |
 | 41 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 |
-| 42 | [27CLUB](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |
-| 43 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
+| 42 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
+| 43 | [27CLUB](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |
 | 44 | [DEATH NOTE](https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [NEMLAND](https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j) | [DEATH NOTE](https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW) | 2:54 |
 | 45 | [For Real \(feat\. Fuji Taito & SIMON\)](https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8) | 3:17 |
 | 46 | [BRAND NEW](https://open.spotify.com/track/1d4bUyO0JCNvuwaycbYUG8) | [₩](https://open.spotify.com/artist/5QkamTXwLqr5Ja8RCiu3XF), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [YamieZimmer](https://open.spotify.com/artist/7aqyXIegZ72uUh7d1AXR3z) | [BRAND NEW](https://open.spotify.com/album/5JYgaLjiX0ozaQctcGsf5A) | 2:50 |

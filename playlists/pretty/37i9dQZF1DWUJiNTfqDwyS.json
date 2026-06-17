@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 392073,
+  "num_followers": 392075,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
-        "name": "The Fate of Ophelia",
-        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 217862,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
-    },
-    {
-      "added_at": "2026-03-20 16:45:24",
-      "album": {
         "name": "Three Dollar Bill, Y'all $",
         "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 146480,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+    },
+    {
+      "added_at": "2026-03-20 16:45:24",
+      "album": {
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 217862,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
     },
     {
       "added_at": "2026-03-20 16:45:24",

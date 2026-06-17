@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Asha Banks
 
-1,061 songs - 2 day 10 hr 21 min
+1,062 songs - 2 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [everyone at this party](https://open.spotify.com/track/43klOCoUcqtkNWCqQQvh9W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 2:48 | 2022-04-08 | 2023-01-05 |
 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 | 2023-07-31 | 2023-11-07 |
 | [Everything](https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:48 | 2025-07-25 | 2025-11-18 |
+| [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 | 2026-06-12 |  |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2024-08-12 | 2024-09-14 |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2021-12-17 | 2023-04-01 |
 | [Eyes Closed \- Piano Version](https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-28 | 2023-08-05 |
@@ -910,7 +911,7 @@
 | [the reason i hate home](https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [the reason i hate home](https://open.spotify.com/album/60w9GszHHtExusXvbenVKz) | 2:43 | 2022-05-13 | 2022-07-28 |
 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 | 2025-08-05 |  |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 |  |
-| [The Summer I Turned Pretty](https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [The Summer I Turned Pretty](https://open.spotify.com/album/6tL6m2hNIeWTf4JD3PyTnC) | 3:13 | 2026-02-20 |  |
+| [The Summer I Turned Pretty](https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [The Summer I Turned Pretty](https://open.spotify.com/album/6tL6m2hNIeWTf4JD3PyTnC) | 3:13 | 2026-02-20 | 2026-06-17 |
 | [The Trauma and The Pleasure](https://open.spotify.com/track/4UOTmg9TBVTUibdKnPYzKt) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX) | [If We Were a Film, We'd Be a Sad One](https://open.spotify.com/album/4b3xIi8eyBNWbrIAkX7GoA) | 3:13 | 2021-12-17 | 2022-03-26 |
 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-04-10 |  |
 | [The Way a Heart Breaks](https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:51 | 2025-10-24 |  |

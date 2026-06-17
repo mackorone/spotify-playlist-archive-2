@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,126 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,158 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 43 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 |
 | 44 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 4:47 |
 | 45 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 |
-| 46 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
-| 47 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
+| 46 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
+| 47 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
 | 48 | [La Triste Despedida](https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif) | [Grupo Ju\-Juy](https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m) | [Un Monton De Estrellas](https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH) | 4:43 |
 | 49 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
 | 50 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 98 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
 | 99 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
 | 100 | [El Reo Ausente](https://open.spotify.com/track/6feUE7Z9pGHfCHbh6EOA0j) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Desafiando Estilos](https://open.spotify.com/album/2REmS5o5mh0QWNuZa6WGhs) | 5:49 |
-| 101 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
-| 102 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
+| 101 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
+| 102 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
 | 103 | [Mi Cucu](https://open.spotify.com/track/22FB6hM6aonuPuVzBQYRcx) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [La Sonora Dinamita Tributo a: Lucho Argain Vol\. 1](https://open.spotify.com/album/48nbvAUIvwhn49b7ZwF9A4) | 3:54 |
 | 104 | [Como Decirte Adios](https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:27 |
 | 105 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |

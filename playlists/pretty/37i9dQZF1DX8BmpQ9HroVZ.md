@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,636 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,690 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 99 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 |
 | 100 | [Top Fella](https://open.spotify.com/track/4x8JsInrhf0yWYFRpF4vRz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Top Fella](https://open.spotify.com/album/2cMd5j7BCLo7xnZwVpzq3D) | 3:21 |
 
-Snapshot ID: `AAAAAET54Q3x7Q1h6Iuzxng7jy7/yGwc`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`

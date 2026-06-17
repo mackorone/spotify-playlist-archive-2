@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: H//PE Princess)",
+  "description": "Future K-Pop hits! (Cover: Rothy)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -7340,7 +7340,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 147467,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R"
@@ -7655,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "Don't Be",
+        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Don't Be",
+      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
+    },
+    {
+      "album": {
         "name": "DON'T FIGHT THE FEELING - Special Album",
         "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
       },
@@ -7966,6 +7984,24 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "album": {
+        "name": "Dream With Us",
+        "url": "https://open.spotify.com/album/1MKVIZSSI1346mVoBiLAy1"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dream With Us",
+      "url": "https://open.spotify.com/track/4MNxZZl9iyLRvz9n1kHSEg"
     },
     {
       "album": {
@@ -13813,6 +13849,24 @@
     },
     {
       "album": {
+        "name": "Reborn Rookie (Original Soundtrack) Part.3",
+        "url": "https://open.spotify.com/album/7IjidLYHgj1VuH9wscihlQ"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "I'm Runnin'",
+      "url": "https://open.spotify.com/track/2vluiB8ZeEfy7k9Shb4hpl"
+    },
+    {
+      "album": {
         "name": "I'm Still Here",
         "url": "https://open.spotify.com/album/6rK6woUcQOXxJQWBWhMlUt"
       },
@@ -18300,6 +18354,24 @@
       "duration_ms": 224252,
       "name": "Midnight Blue (Donation Project)",
       "url": "https://open.spotify.com/track/1cBdno4f4aTiDTtVPCK4nH"
+    },
+    {
+      "album": {
+        "name": "Midnight Ticket",
+        "url": "https://open.spotify.com/album/7FNdRutxzbPKEY0gqgcwUW"
+      },
+      "artists": [
+        {
+          "name": "JUN. K",
+          "url": "https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "Midnight Ticket",
+      "url": "https://open.spotify.com/track/7LcuBn3FGUgqbzoUvpY9e3"
     },
     {
       "album": {
@@ -27214,7 +27286,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 183000,
       "name": "TA TA",
       "url": "https://open.spotify.com/track/6pW5jh7hSuv4rNdmmeovmp"
@@ -30302,7 +30374,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 168000,
       "name": "WAY 2 U",
       "url": "https://open.spotify.com/track/4FsqRuZd7lPLSKGqy8skuS"
@@ -31850,7 +31922,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 166999,
       "name": "Yarrr",
       "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"

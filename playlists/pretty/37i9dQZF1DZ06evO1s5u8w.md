@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,078 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,099 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 23 | [Houses in Motion \- 2005 Remaster](https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:33 |
 | 24 | [The Lady Don't Mind \- 2005 Remaster](https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 3:58 |
 | 25 | [Swamp \- 2005 Remaster](https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:13 |
-| 26 | [Psycho Killer \(Acoustic Version\) \[feat\. Arthur Russell\] \- 2024 Remaster](https://open.spotify.com/track/6KrIQLaIYptiYdB9GwAlpv) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Talking Heads: 77 \(Super Deluxe Edition\) \[2024 Remaster\]](https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan) | 4:17 |
+| 26 | [Love Goes to a Building on Fire \- 2024 Remaster](https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads: 77 \(Super Deluxe Edition\) \[2024 Remaster\]](https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan) | 2:58 |
 | 27 | [Thank You for Sending Me an Angel \- Live](https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 2:09 |
 | 28 | [New Feeling](https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77](https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S) | 3:09 |
 | 29 | [Making Flippy Floppy \- 2005 Remaster](https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:54 |
-| 30 | [Love Goes to a Building on Fire \- 2024 Remaster](https://open.spotify.com/track/5VsO85ebJvpZlMy5bKtWJZ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads: 77 \(Super Deluxe Edition\) \[2024 Remaster\]](https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan) | 2:58 |
+| 30 | [Psycho Killer \(Acoustic Version\) \[feat\. Arthur Russell\] \- 2024 Remaster](https://open.spotify.com/track/6KrIQLaIYptiYdB9GwAlpv) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Talking Heads: 77 \(Super Deluxe Edition\) \[2024 Remaster\]](https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan) | 4:17 |
 | 31 | [The Big Country](https://open.spotify.com/track/1YoRuPU8F05eVcSjiAEq7r) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 5:30 |
 | 32 | [The Great Curve \- 2005 Remaster](https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 6:27 |
 | 33 | [Found a Job \- Live](https://open.spotify.com/track/7rWq4710VbhYigwobjNwni) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1s5u8w.md) - [plain]
 | 49 | [Love for Sale \- 2005 Remaster](https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [True Stories](https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM) | 4:31 |
 | 50 | [Memories Can't Wait \- 2005 Remaster](https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:30 |
 
-Snapshot ID: `ai3vAAAAAAB1Zx3AFT0YCrgMm58YHx22`
+Snapshot ID: `ai9AgAAAAADfFvelX4M8d+Ex1enL1vMq`

@@ -1,6 +1,6 @@
 {
   "description": "sunny days, happy people ",
-  "num_followers": 109978,
+  "num_followers": 109989,
   "original_name": "summer songs",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-06-10 15:13:58",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
-    },
-    {
-      "added_at": "2026-06-10 15:13:58",
-      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 298940,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
+    },
+    {
+      "added_at": "2026-06-10 15:13:58",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "added_at": "2026-06-10 15:13:58",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-06-10 15:13:58",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+    },
+    {
+      "added_at": "2026-06-10 15:13:58",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
-    },
-    {
-      "added_at": "2026-06-10 15:13:58",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2026-06-10 15:13:58",

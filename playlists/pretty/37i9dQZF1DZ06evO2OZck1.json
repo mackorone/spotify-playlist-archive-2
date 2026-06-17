@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 55250,
+  "num_followers": 55249,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACG3qhu1igY2b3ditboGJes",
+  "snapshot_id": "ai9AgAAAAAAOr++qDP00UZIMYnjTGr8k",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "saisyu jinrui",
-      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MANINGEN",
         "url": "https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 137136,
       "name": "Neraiuchi - 50th anniversary special cover",
       "url": "https://open.spotify.com/track/2747l2vCNws9AxvFQzOBrh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "saisyu jinrui",
+      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "wakaranai",
+      "url": "https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free Yourself feat. ATARASHII GAKKO!",
         "url": "https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 213500,
       "name": "Free Yourself feat. ATARASHII GAKKO!",
       "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "wakaranai",
-      "url": "https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1"
     },
     {
       "added_at": null,

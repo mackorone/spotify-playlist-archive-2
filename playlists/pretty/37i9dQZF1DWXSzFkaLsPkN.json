@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- Dhruv Visvanath\n",
-  "num_followers": 134736,
+  "num_followers": 134738,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,30 @@
     {
       "added_at": "2026-06-12 06:51:19",
       "album": {
-        "name": "Banda Kaam Ka",
-        "url": "https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t"
+        "name": "Finding Her (Female Version)",
+        "url": "https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL"
       },
       "artists": [
         {
-          "name": "Chaar Diwaari",
-          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
         },
         {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
         }
       ],
-      "duration_ms": 248947,
-      "name": "Banda Kaam Ka",
-      "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
+      "duration_ms": 206735,
+      "name": "Finding Her (Female Version) (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT"
     },
     {
       "added_at": "2026-06-12 06:51:19",
@@ -291,30 +299,22 @@
     {
       "added_at": "2026-06-12 06:51:19",
       "album": {
-        "name": "Finding Her (Female Version)",
-        "url": "https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL"
+        "name": "Banda Kaam Ka",
+        "url": "https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t"
       },
       "artists": [
         {
-          "name": "Tanishka Bahl",
-          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
         },
         {
-          "name": "Kushagra",
-          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
-        },
-        {
-          "name": "Bharath",
-          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
-        },
-        {
-          "name": "Saaheal",
-          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
         }
       ],
-      "duration_ms": 206735,
-      "name": "Finding Her (Female Version) (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT"
+      "duration_ms": 248947,
+      "name": "Banda Kaam Ka",
+      "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
     },
     {
       "added_at": "2026-06-12 06:51:19",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-06-12 06:51:19",
       "album": {
-        "name": "Tujhi Mein",
-        "url": "https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Tujhi Mein",
-      "url": "https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt"
-    },
-    {
-      "added_at": "2026-06-12 06:51:19",
-      "album": {
         "name": "Yeh Duniya Jala Do",
         "url": "https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 230443,
       "name": "Yeh Duniya Jala Do",
       "url": "https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg"
+    },
+    {
+      "added_at": "2026-06-12 06:51:19",
+      "album": {
+        "name": "Tujhi Mein",
+        "url": "https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Tujhi Mein",
+      "url": "https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt"
     },
     {
       "added_at": "2026-06-12 06:51:19",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-06-12 06:51:19",
       "album": {
-        "name": "With You (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC"
-      },
-      "artists": [
-        {
-          "name": "Bhoomi",
-          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
-        },
-        {
-          "name": "Naaz",
-          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
-        }
-      ],
-      "duration_ms": 144923,
-      "name": "With You (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N"
-    },
-    {
-      "added_at": "2026-06-12 06:51:19",
-      "album": {
         "name": "Sajna Ve",
         "url": "https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 175269,
       "name": "Sajna Ve",
       "url": "https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn"
+    },
+    {
+      "added_at": "2026-06-12 06:51:19",
+      "album": {
+        "name": "With You (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        }
+      ],
+      "duration_ms": 144923,
+      "name": "With You (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N"
     },
     {
       "added_at": "2026-06-12 06:51:19",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-06-12 06:51:19",
       "album": {
-        "name": "Pata",
-        "url": "https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A"
-      },
-      "artists": [
-        {
-          "name": "Akash Kaushal",
-          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Tujhsa Na Koi",
-      "url": "https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0"
-    },
-    {
-      "added_at": "2026-06-12 06:51:19",
-      "album": {
         "name": "Maan Jao",
         "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
+    },
+    {
+      "added_at": "2026-06-12 06:51:19",
+      "album": {
+        "name": "Pata",
+        "url": "https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tujhsa Na Koi",
+      "url": "https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0"
     },
     {
       "added_at": "2026-06-12 06:51:19",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-06-12 06:51:19",
       "album": {
-        "name": "Zulfein",
-        "url": "https://open.spotify.com/album/0QLo84H5SAMrfwo6t1pkeS"
-      },
-      "artists": [
-        {
-          "name": "Mehul Mahesh",
-          "url": "https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD"
-        },
-        {
-          "name": "Dj AYnik",
-          "url": "https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk"
-        }
-      ],
-      "duration_ms": 198831,
-      "name": "Zulfein",
-      "url": "https://open.spotify.com/track/6bwIkFBUUMG7upgPoVlTHt"
-    },
-    {
-      "added_at": "2026-06-12 06:51:19",
-      "album": {
         "name": "Tu hi hai",
         "url": "https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ"
       },
@@ -1451,6 +1431,22 @@
       "duration_ms": 187959,
       "name": "Tu hi hai",
       "url": "https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e"
+    },
+    {
+      "added_at": "2026-06-12 06:51:19",
+      "album": {
+        "name": "Marammat",
+        "url": "https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "duration_ms": 269160,
+      "name": "3am Thoughts",
+      "url": "https://open.spotify.com/track/347wKqohKOnydV7bsloEQf"
     }
   ],
   "unique_name": "hIndies",

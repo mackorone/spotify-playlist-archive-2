@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,093 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,125 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 18 | [Pideme la Luna](https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 2:47 |
 | 19 | [A Chillar a otra parte](https://open.spotify.com/track/63rF4Hy9aUdzDGjfAWXBZJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Frente a Frente](https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH) | 3:33 |
 | 20 | [No Quiero Perderte](https://open.spotify.com/track/3kuQmp8Y0DNBjGAgawhnT8) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/7dsHqJqqvS4IY7XMAfk4pG) | 2:39 |
-| 21 | [Que Chulada \- En Vivo](https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:02 |
+| 21 | [Paz En Este Amor \- En Vivo](https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:30 |
 | 22 | [NO VOLVERE \- En Vivo desde Los Ángeles](https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:33 |
 | 23 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:22 |
 | 24 | [Los 5 Pesos](https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 4:05 |
-| 25 | [Paz En Este Amor \- En Vivo](https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:30 |
+| 25 | [Que Chulada \- En Vivo](https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:02 |
 | 26 | [El Don Nadie \- En Vivo](https://open.spotify.com/track/3AxzKzoESCwJcwFFpXlQNE) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 3:00 |
 | 27 | [Tatuajes](https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:35 |
 | 28 | [Yo Soy El Pirata](https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Yo Soy El Pirata](https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh) | 2:48 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 41 | [Alto y Piel Morena](https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:22 |
 | 42 | [Aliados del tiempo \- En Vivo](https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 4:14 |
 | 43 | [El Piyi](https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 |
-| 44 | [Hello Kitty](https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Hello Kitty](https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq) | 2:38 |
-| 45 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 |
-| 46 | [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:54 |
+| 44 | [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:54 |
+| 45 | [Hello Kitty](https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Hello Kitty](https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq) | 2:38 |
+| 46 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 |
 | 47 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
 | 48 | [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 |
 | 49 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
 | 50 | [La Hija Del Señor](https://open.spotify.com/track/2DMb5Q3RcI8fR12AKbtMPH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Calmados y No Dejados](https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d) | 3:13 |
 
-Snapshot ID: `ai3vAAAAAACvkFebImCKB+5glg6+8myg`
+Snapshot ID: `ai9AgAAAAAB0KUhOtop4NOKqAsAaX9/W`

@@ -1,6 +1,6 @@
 {
   "description": "Beyond titles, beyond genre. Cover: GENER8ION",
-  "num_followers": 198821,
+  "num_followers": 198806,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-06-12 11:25:16",
       "album": {
-        "name": "Lucky Again",
-        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
-    },
-    {
-      "added_at": "2026-06-12 11:25:16",
-      "album": {
         "name": "PUNK ROCKY",
         "url": "https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 235344,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
+    {
+      "added_at": "2026-06-12 11:25:16",
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2026-06-12 11:25:16",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-12 11:25:16",
       "album": {
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Doctrine of Love",
-      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
-    },
-    {
-      "added_at": "2026-06-12 11:25:16",
-      "album": {
         "name": "choke enough",
         "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 198587,
       "name": "blade bird",
       "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
+    },
+    {
+      "added_at": "2026-06-12 11:25:16",
+      "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "added_at": "2026-06-12 11:25:16",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-06-12 11:25:16",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+        "name": "This Is The World (I Made It For You) / Nice Day",
+        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+      "duration_ms": 281786,
+      "name": "This Is The World (I Made It For You)",
+      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
     },
     {
       "added_at": "2026-06-12 11:25:16",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-06-12 11:25:16",
       "album": {
-        "name": "This Is The World (I Made It For You) / Nice Day",
-        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 281786,
-      "name": "This Is The World (I Made It For You)",
-      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "added_at": "2026-06-12 11:25:16",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-06-12 11:25:16",
       "album": {
-        "name": "Hardy (feat. Clairo)",
-        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
-      },
-      "artists": [
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Hardy (feat. Clairo)",
-      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
-    },
-    {
-      "added_at": "2026-06-12 11:25:16",
-      "album": {
         "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
         "url": "https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 244149,
       "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
       "url": "https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7"
+    },
+    {
+      "added_at": "2026-06-12 11:25:16",
+      "album": {
+        "name": "Hardy (feat. Clairo)",
+        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Hardy (feat. Clairo)",
+      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
     },
     {
       "added_at": "2026-06-12 11:25:16",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-06-12 11:25:16",
       "album": {
-        "name": "Knife In The Heart",
-        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 177592,
-      "name": "Knife In The Heart",
-      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
-    },
-    {
-      "added_at": "2026-06-12 11:25:16",
-      "album": {
         "name": "Jean",
         "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 184481,
       "name": "Earth, Wind & California",
       "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
+    },
+    {
+      "added_at": "2026-06-12 11:25:16",
+      "album": {
+        "name": "Knife In The Heart",
+        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 177592,
+      "name": "Knife In The Heart",
+      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
     },
     {
       "added_at": "2026-06-12 11:25:16",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-12 11:25:16",
       "album": {
-        "name": "petal rock black",
-        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 258228,
-      "name": "ear to the cocoon",
-      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
-    },
-    {
-      "added_at": "2026-06-12 11:25:16",
-      "album": {
         "name": "Human Happens / Paint Me A Picture",
         "url": "https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 243053,
       "name": "Human Happens",
       "url": "https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl"
+    },
+    {
+      "added_at": "2026-06-12 11:25:16",
+      "album": {
+        "name": "petal rock black",
+        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 258228,
+      "name": "ear to the cocoon",
+      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
     },
     {
       "added_at": "2026-06-12 11:25:16",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2026-06-12 11:25:16",
       "album": {
-        "name": "Irish Goodbye",
-        "url": "https://open.spotify.com/album/5RozyWyrAciRz9ldUZXCAE"
+        "name": "Death of Love",
+        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
       },
       "artists": [
         {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        },
-        {
-          "name": "Kae Tempest",
-          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Irish Goodbye (feat. Kae Tempest)",
-      "url": "https://open.spotify.com/track/6Qyvf0qxn2TDOxHLdsfhUw"
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
     }
   ],
   "unique_name": "UNTITLED",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 
 > This is Zolita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,163 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,165 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 | 40 | [Retrograde](https://open.spotify.com/track/2MLtYl74hh8UBf1lbiDI0P) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 0:34 |
 | 41 | [Spotless](https://open.spotify.com/track/2mqLJT1iTLvcPNlDalHLUe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:41 |
 
-Snapshot ID: `ai3vAAAAAADqnrlU0MMld2c0vV8L+jUR`
+Snapshot ID: `ai9AgAAAAADJGnxY4AxnKa/6joMk4WDV`

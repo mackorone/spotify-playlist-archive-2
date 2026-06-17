@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 34653,
+  "num_followers": 34660,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "EELS",
+        "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "duration_ms": 213904,
+      "name": "Van Goes",
+      "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "My Drummer's Girlfriend",
         "url": "https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 157029,
       "name": "My Drummer's Girlfriend",
       "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "All You Embrace",
-        "url": "https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Giant's Despair",
-      "url": "https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "EELS",
-        "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
+        "name": "All You Embrace",
+        "url": "https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL"
       },
       "artists": [
         {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
         }
       ],
-      "duration_ms": 213904,
-      "name": "Van Goes",
-      "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+      "duration_ms": 220920,
+      "name": "Giant's Despair",
+      "url": "https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ONE TULIP//",
-        "url": "https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "ONE TULIP//",
-      "url": "https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 176805,
       "name": "Cave In",
       "url": "https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ONE TULIP//",
+        "url": "https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "ONE TULIP//",
+      "url": "https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
-      },
-      "artists": [
-        {
-          "name": "Honeyglaze",
-          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
-        }
-      ],
-      "duration_ms": 165510,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Self Doubt",
         "url": "https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "duration_ms": 165510,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Lustre",
         "url": "https://open.spotify.com/album/4476oK9dDwXluywz166CT1"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 224849,
       "name": "Ahead Of Myself",
       "url": "https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "The Gloss",
+        "url": "https://open.spotify.com/album/35wgHb6XLVqxx9PuQmM6KD"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "duration_ms": 226286,
+      "name": "Keys Down If You Stay",
+      "url": "https://open.spotify.com/track/473rb6T2uVDA5VJ3AOxlQy"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1047,22 +1063,6 @@
       "duration_ms": 230984,
       "name": "Heavy Pour",
       "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "The Gloss",
-        "url": "https://open.spotify.com/album/35wgHb6XLVqxx9PuQmM6KD"
-      },
-      "artists": [
-        {
-          "name": "Cola",
-          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
-        }
-      ],
-      "duration_ms": 226286,
-      "name": "Keys Down If You Stay",
-      "url": "https://open.spotify.com/track/473rb6T2uVDA5VJ3AOxlQy"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q´Lokura, Lauta & Amigo de Artistas
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,043 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,051 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 69 | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS) | 4:24 |
 | 70 | [EL FEDERAL](https://open.spotify.com/track/7DBHPA2wipmntvOlNJqRYG) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0) | [LA MONA JIMÉNEZ / Zapada EN VIVO en UN POCO DE RUIDO !](https://open.spotify.com/album/5rRNC7LQg92nq8Kk5hmxCZ) | 2:32 |
 | 71 | [Que Ganas De No Verte Nunca Más \- En Vivo](https://open.spotify.com/track/2DbId26BELztSnlKG5nUl8) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Que Ganas De No Verte Nunca Más \(En Vivo\)](https://open.spotify.com/album/7EiH2AQ1XUYTekQYChiO77) | 2:40 |
-| 72 | [Esperando](https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF) | [Walter Romero](https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad) | [Libre al Fin](https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb) | 4:06 |
-| 73 | [Sofia](https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Nuevo Tiempo](https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ) | 2:16 |
+| 72 | [Sofia](https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Nuevo Tiempo](https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ) | 2:16 |
+| 73 | [Esperando](https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF) | [Walter Romero](https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad) | [Libre al Fin](https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb) | 4:06 |
 | 74 | [Por Ese Hombre \- En Vivo](https://open.spotify.com/track/0S33HwsUNnsCay68WOcHbS) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Luz Paisio](https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Por Ese Hombre \(En Vivo\)](https://open.spotify.com/album/0BtiuO6dlmwCn5ZNLC1XI0) | 4:02 |
 | 75 | [Que vamos a hacer](https://open.spotify.com/track/0RoDskw52POnJ1fobpMCXU) | [Luz Paisio](https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Que vamos a hacer](https://open.spotify.com/album/0l96oWIf9OqaJI7EhsEoRR) | 2:56 |
 | 76 | [Hoy Tengo Ganas De Ti \- En Vivo](https://open.spotify.com/track/4tQeo7f8JqtqEzJVBnHoC0) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Hoy Tengo Ganas De Ti \(En Vivo\)](https://open.spotify.com/album/2IJ2N2neAcUv9zndezucuP) | 4:04 |

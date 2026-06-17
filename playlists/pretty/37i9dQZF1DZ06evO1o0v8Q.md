@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,111 likes - 36 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,131 likes - 36 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 35 | [The Dream](https://open.spotify.com/track/04jmrsQI3WUHaUTZ6sZ6eM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:43 |
 | 36 | [Pushing Me Away](https://open.spotify.com/track/2lko49bKOuj6hsh7byOXIz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:12 |
 
-Snapshot ID: `ai3vAAAAAABNXlJuD/6nDv9lvZCW8G/H`
+Snapshot ID: `ai9AgAAAAACktRTaPGRp9aPQgD28phkC`

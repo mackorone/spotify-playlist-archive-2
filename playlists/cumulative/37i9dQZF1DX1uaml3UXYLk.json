@@ -374,7 +374,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 168684,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/3hrhpILY93No6cah04pTq4"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 127090,
       "name": "Airwaves",
       "url": "https://open.spotify.com/track/11Tv1YCBNDHcQQd0vhKgbi"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 260398,
       "name": "Buenos Aires Bound",
       "url": "https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 147169,
       "name": "Cobalite",
       "url": "https://open.spotify.com/track/61BpdYOTzGUWJDsBI0dgYw"
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 185556,
       "name": "Daily Routine",
       "url": "https://open.spotify.com/track/148cKiMKKgS98w6hQHniGD"
@@ -3538,7 +3538,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 176851,
       "name": "Dive",
       "url": "https://open.spotify.com/track/1ddIcTrSdJZupgrYcfPeV8"
@@ -3725,6 +3725,24 @@
     },
     {
       "album": {
+        "name": "Draw",
+        "url": "https://open.spotify.com/album/73pKI5823AlbG5yxdcfIRV"
+      },
+      "artists": [
+        {
+          "name": "Palm Club",
+          "url": "https://open.spotify.com/artist/1q2QW8MMcFBOiqSh1AS5iv"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109473,
+      "name": "Draw",
+      "url": "https://open.spotify.com/track/62ZGc4SuoNiOzxQIOsxqG0"
+    },
+    {
+      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/1zrOeJ3VQK13SVFMdkt4Vr"
       },
@@ -3866,6 +3884,24 @@
       "duration_ms": 212142,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/5ssUr3AOt2Y1KeJ9IdNjcd"
+    },
+    {
+      "album": {
+        "name": "Early Afternoon",
+        "url": "https://open.spotify.com/album/08QVp1UPr9PTOEE57FvLBI"
+      },
+      "artists": [
+        {
+          "name": "Sun Mirage",
+          "url": "https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Early Afternoon",
+      "url": "https://open.spotify.com/track/356APnfMoxwOLqcfJDbJXL"
     },
     {
       "album": {
@@ -4705,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "Garden Off Hours",
+        "url": "https://open.spotify.com/album/7Dfc7iRyu1GRMqF5RSZ7ek"
+      },
+      "artists": [
+        {
+          "name": "Satin Air",
+          "url": "https://open.spotify.com/artist/43v3IXb6BvcstQ0ITYMT0r"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148909,
+      "name": "Garden Off Hours",
+      "url": "https://open.spotify.com/track/2j022IfZXw68TmyyBLdNc2"
+    },
+    {
+      "album": {
         "name": "Lampuka 002",
         "url": "https://open.spotify.com/album/2ihoDpND1PA5HjpQ05Q16U"
       },
@@ -4998,7 +5052,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 136870,
       "name": "Glisten",
       "url": "https://open.spotify.com/track/3TOqtuy7L6LiMokG289AXD"
@@ -5052,7 +5106,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 179964,
       "name": "Glowing Skyline",
       "url": "https://open.spotify.com/track/3dOJoGoX686rDrFnjiYtqn"
@@ -5160,7 +5214,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 167565,
       "name": "Got It",
       "url": "https://open.spotify.com/track/2WEFQ6Kzv5xYESusk6ep6U"
@@ -5344,7 +5398,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 152659,
       "name": "Hard to Forget",
       "url": "https://open.spotify.com/track/2Olk9hRPF4PMV6ymZoBY9a"
@@ -5362,7 +5416,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 131092,
       "name": "Haven",
       "url": "https://open.spotify.com/track/7dFxH93eSYwUvhhXRv2yoM"
@@ -5488,7 +5542,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 152346,
       "name": "Hideout",
       "url": "https://open.spotify.com/track/3FHwRoXwNekPQ1tek89VxL"
@@ -5506,7 +5560,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 136293,
       "name": "high life",
       "url": "https://open.spotify.com/track/2FSx5IGIgDDz1AzHdAfKcF"
@@ -5524,7 +5578,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 147063,
       "name": "Higher Than We've Been",
       "url": "https://open.spotify.com/track/4MCoF79Tm9ajUIifhNJe4I"
@@ -6116,7 +6170,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 169970,
       "name": "In Flow",
       "url": "https://open.spotify.com/track/48Zk5GtAjm2TYyAzJt7Y5R"
@@ -6746,7 +6800,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 168654,
       "name": "Lagoon Lights",
       "url": "https://open.spotify.com/track/7JffrW7u30xua6V1nsBeZF"
@@ -7016,7 +7070,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 135929,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/3ZbtMwxCbNLiAm84ZR3H0Z"
@@ -7434,7 +7488,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 185409,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/23KzQmQmRrNyfZ2ZjXy4J9"
@@ -7632,7 +7686,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 136991,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/7rZk0rG501GgHtuBLG8B2H"
@@ -7816,6 +7870,24 @@
       "duration_ms": 157903,
       "name": "Mediterranean",
       "url": "https://open.spotify.com/track/1BiAFJqtyHts9QcpzQ0GMu"
+    },
+    {
+      "album": {
+        "name": "Meet Again",
+        "url": "https://open.spotify.com/album/2huijMBzmXHf85ybgGY6rq"
+      },
+      "artists": [
+        {
+          "name": "Aurora Wave",
+          "url": "https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162541,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/4oPQH6ozIQ01AeFpMl9BMt"
     },
     {
       "album": {
@@ -9789,6 +9861,24 @@
     },
     {
       "album": {
+        "name": "Playa",
+        "url": "https://open.spotify.com/album/4frBLAxZaqkgAlBCbSEmdV"
+      },
+      "artists": [
+        {
+          "name": "Nelvita",
+          "url": "https://open.spotify.com/artist/5V3TWBqxSeIr2NcvPMketf"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172050,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/4vSkX2FMUl3627RMEZPhDj"
+    },
+    {
+      "album": {
         "name": "playful mornings",
         "url": "https://open.spotify.com/album/2ZCYylSfAL4Dpu57cA5Y6Z"
       },
@@ -10574,7 +10664,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 141467,
       "name": "Retrocation",
       "url": "https://open.spotify.com/track/4nIsTgi29Dq5Ezf0zozalF"
@@ -10700,7 +10790,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 167288,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/44R0qPQLOnP7eDBlzwzF0g"
@@ -10718,7 +10808,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 175545,
       "name": "Rising Higher",
       "url": "https://open.spotify.com/track/5UQJY2DKNKUxpeFmXi2c3d"
@@ -10884,7 +10974,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 136810,
       "name": "Running Back",
       "url": "https://open.spotify.com/track/33NVII9U78nFQsTiXZRPfC"
@@ -10924,6 +11014,24 @@
       "duration_ms": 196000,
       "name": "Safari",
       "url": "https://open.spotify.com/track/2sVWZpx2SYdy5zsCbNt93g"
+    },
+    {
+      "album": {
+        "name": "Saffron Skies",
+        "url": "https://open.spotify.com/album/1ukws5sdVV50ZsKLYLLyNN"
+      },
+      "artists": [
+        {
+          "name": "Rosa Mar",
+          "url": "https://open.spotify.com/artist/5VNtJiJyaL8vMt56CUonoL"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Saffron Skies",
+      "url": "https://open.spotify.com/track/2cMrKW9myIJtybx9ZIooHk"
     },
     {
       "album": {
@@ -11432,7 +11540,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 154736,
       "name": "Serene Waves",
       "url": "https://open.spotify.com/track/73WEbDUWwi131nFtG4a5Xt"
@@ -12416,7 +12524,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 145000,
       "name": "Starter",
       "url": "https://open.spotify.com/track/02pLjUmpp5pctB8HIqpxuL"
@@ -12830,7 +12938,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 184076,
       "name": "Sunset Warehouse",
       "url": "https://open.spotify.com/track/2k8eYGsgcVA5PrjMn5fRzP"
@@ -12978,6 +13086,24 @@
       "duration_ms": 126942,
       "name": "Sushi",
       "url": "https://open.spotify.com/track/7dV4vTLupVPwiniVh9TnI8"
+    },
+    {
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/4ixSzrxSTpLqQtmEa7Z3aL"
+      },
+      "artists": [
+        {
+          "name": "Albu",
+          "url": "https://open.spotify.com/artist/4gztB2wNt82ZZEQ0rd5JaH"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/265EO7G2RPNYcyA5RfgtRg"
     },
     {
       "album": {
@@ -13306,7 +13432,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 181386,
       "name": "The dance between souls",
       "url": "https://open.spotify.com/track/0ktpaWdJ1pBu9sxDV1weno"
@@ -13490,7 +13616,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 211710,
       "name": "The Mystery",
       "url": "https://open.spotify.com/track/1FFQVTvsaDznVBWyqHPq4P"
@@ -14334,7 +14460,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 198688,
       "name": "VERTIGO",
       "url": "https://open.spotify.com/track/56pHv4fNZpu0qXyVzZepm9"
@@ -15004,7 +15130,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 166496,
       "name": "Yelp Of Joy",
       "url": "https://open.spotify.com/track/6Seljh4IAei5RBKEIDhZ1w"

@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-396 songs - 1 day 4 hr 30 min
+397 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bin](https://open.spotify.com/track/3glw2vbGfpq3aDJ575ZT6n) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Bin](https://open.spotify.com/album/2b2Ld9mFZHvl4iyEpJlXkP) | 2:24 | 2025-05-02 | 2026-02-04 |
 | [Bird Ambience](https://open.spotify.com/track/5Ni3isgTBDXTr0lUXmoER1) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS) | 7:28 | 2022-01-07 | 2025-02-11 |
 | [birefringence](https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [prism](https://open.spotify.com/album/6PhqghpzBPmBEfpC0hb4tZ) | 4:23 | 2022-01-07 | 2025-12-03 |
+| [Birthday](https://open.spotify.com/track/1II9DVsIgfpTlOAKEW1uo3) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [PON](https://open.spotify.com/album/4iJuZL0LJgvFnbzze5WaBz) | 1:42 | 2026-06-12 |  |
 | [BLACKOUT](https://open.spotify.com/track/2Q8fiL6AW0rKMnCjOr9HTC) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [TEAM](https://open.spotify.com/album/3IT0wDe6Yu4cWELJWMqRzW) | 8:01 | 2025-12-02 |  |
 | [Bleu](https://open.spotify.com/track/5IlAse1O3cxM6nduPpAcSK) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Bleu/Flicker](https://open.spotify.com/album/2yz0Zi7id37u4813CUhnB3) | 2:10 | 2024-11-30 | 2024-12-15 |
 | [Blink](https://open.spotify.com/track/0Bc4abgrOxonETzZupd4BE) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:44 | 2022-12-30 | 2023-08-19 |
@@ -269,7 +270,7 @@
 | [Resurrection](https://open.spotify.com/track/3MxQrZEQwypKCEGsv9eGgh) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [In The Mists of Time](https://open.spotify.com/album/3ae6LKSL28JtEMhuReJHZn) | 4:48 | 2024-07-26 |  |
 | [rings of saturn](https://open.spotify.com/track/7efaQLKB2gUcxA3YLsTQKP) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:44 | 2022-02-18 | 2025-09-24 |
 | [round\-scape](https://open.spotify.com/track/2H86tYKKSQgoUE8NTY8tMb) | [AOKI,hayato](https://open.spotify.com/artist/0Ay3UgLC46WQQkzxv3So2Q) | [round\-scape](https://open.spotify.com/album/22J5X68tveFMszAhHCZmrQ) | 30:00 | 2026-01-31 |  |
-| [S\_lowl Melancolic](https://open.spotify.com/track/37Jy5BoONDGV5sv7CZl5AN) | [Taeji Sawai](https://open.spotify.com/artist/36rvY7yVojHB2246EG0LV5) | [As Planetary Dreams](https://open.spotify.com/album/6i9E09MCJ0M3v5oxFFzms6) | 3:15 | 2024-08-08 |  |
+| [S\_lowl Melancolic](https://open.spotify.com/track/37Jy5BoONDGV5sv7CZl5AN) | [Taeji Sawai](https://open.spotify.com/artist/36rvY7yVojHB2246EG0LV5) | [As Planetary Dreams](https://open.spotify.com/album/6i9E09MCJ0M3v5oxFFzms6) | 3:15 | 2024-08-08 | 2026-06-17 |
 | [SAKU](https://open.spotify.com/track/533TZP8RSOvLW5aydnvfRp) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 5:45 | 2024-03-07 | 2025-01-25 |
 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 | 2022-12-30 | 2024-04-19 |
 | [Sea \- Roméo Poirier Rework](https://open.spotify.com/track/3XYZajjpjRFg2H2RJ1K9pY) | [Kumi Takahara](https://open.spotify.com/artist/061SWysWFkpgQ2h5Q3oaK5), [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG) | [See\-Through Remixes](https://open.spotify.com/album/34R46SN6KOHMqcTJP0HSXV) | 3:22 | 2022-01-07 |  |

@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34623,
+  "num_followers": 34627,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Quando le canzoni finiscono",
+        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
+      },
+      "artists": [
+        {
+          "name": "Carlo Corallo",
+          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
+        },
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        }
+      ],
+      "duration_ms": 238043,
+      "name": "Un giardino",
+      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "1000 Smiles",
         "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
       },
@@ -1171,26 +1191,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Quando le canzoni finiscono",
-        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
-      },
-      "artists": [
-        {
-          "name": "Carlo Corallo",
-          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
-        },
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
-        }
-      ],
-      "duration_ms": 238043,
-      "name": "Un giardino",
-      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "New Game Plus",
         "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "The Jazzness",
         "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 248089,
       "name": "Ripartire Da Zero 2025",
       "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+      },
+      "artists": [
+        {
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+        }
+      ],
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 241966,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
-      },
-      "artists": [
-        {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
-        }
-      ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -1751,26 +1735,18 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Nidi di Note",
-        "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
       },
       "artists": [
         {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        },
-        {
-          "name": "Sonia Peana",
-          "url": "https://open.spotify.com/artist/2rOegNhB7nuLzLis8vWQhK"
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
         }
       ],
-      "duration_ms": 194638,
-      "name": "Inizi\u00f2",
-      "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1799,6 +1775,30 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Nidi di Note",
+        "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Sonia Peana",
+          "url": "https://open.spotify.com/artist/2rOegNhB7nuLzLis8vWQhK"
+        }
+      ],
+      "duration_ms": 194638,
+      "name": "Inizi\u00f2",
+      "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Meridian",
         "url": "https://open.spotify.com/album/4Xih1E9StG9RV8UjQ2DDET"
       },
@@ -1811,6 +1811,22 @@
       "duration_ms": 150755,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/7o8dtA8TSGnOhshs9HPYyV"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1831,22 +1847,6 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2026-05-21 22:02:54",

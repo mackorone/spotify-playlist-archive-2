@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 722916,
+  "num_followers": 722973,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAD+f75kJvPiyvm9Qour11Mo",
+  "snapshot_id": "ai9AgAAAAABWu1J7k0wGKbq5ENK/J8TR",
   "tracks": [
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurts 2B Human",
-        "url": "https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 188120,
-      "name": "Love Me Anyway (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/4Kmp7D3Gg95xv5dzg2mPMq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 200893,
       "name": "ghost in my guitar (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurts 2B Human",
+        "url": "https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "Love Me Anyway (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/4Kmp7D3Gg95xv5dzg2mPMq"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Scalopoly
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,450 likes - 32 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,447 likes - 32 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 13 | [Lazy in Love](https://open.spotify.com/track/5m1u64yULFnrZDJv3OxbUJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL) | [Lazy in Love](https://open.spotify.com/album/2GV9QMfaQ2JTN6xl6QFc7K) | 3:21 |
 | 14 | [Corak Di Balik Debu](https://open.spotify.com/track/2QyZG0qi1M6467e9PGBvRz) | [FILM.](https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8) | [Corak Di Balik Debu](https://open.spotify.com/album/3HB1oBjTjZ9q4fx0EF0re2) | 4:08 |
 | 15 | [Fell 4 U](https://open.spotify.com/track/3qDtbaTYpjUQLL1fFxfCMU) | [Alika](https://open.spotify.com/artist/3cOIvAvtcVtmNwwfrjNLv5) | [Fell 4 U](https://open.spotify.com/album/27z8BF4Cv4E7IbJF8s0B4y) | 3:24 |
-| 16 | [Am I Loving You Alone?](https://open.spotify.com/track/6eEbetfobV9JUj4Sgt7gIJ) | [The Midnight Darlings](https://open.spotify.com/artist/29ZcdXy5acg93KoOG4ZJ8V) | [Am I Loving You Alone?](https://open.spotify.com/album/4JiJysyBHufvbmgeiDwfZR) | 3:23 |
+| 16 | [Am I Loving You Alone?](https://open.spotify.com/track/6eEbetfobV9JUj4Sgt7gIJ) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Am I Loving You Alone?](https://open.spotify.com/album/4JiJysyBHufvbmgeiDwfZR) | 3:23 |
 | 17 | [Tongkat Sihir](https://open.spotify.com/track/5hglczcbronGeycPEHydKy) | [Katyana](https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz) | [Tongkat Sihir](https://open.spotify.com/album/1CGd5Oxx5E7UKNAUlSXBQB) | 2:51 |
 | 18 | [Ok Not To Be Ok](https://open.spotify.com/track/6kCA2XMmaMhbXzvZC2MzBn) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk) | [Humanoid Heart](https://open.spotify.com/album/0dFsMYOJCh20Fk6tvxUcDe) | 3:12 |
 | 19 | [Firasat, firasat](https://open.spotify.com/track/3wC1IzAsZ2oU3cBmWvoapV) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [Firasat, firasat](https://open.spotify.com/album/4WfuSM1TGebLfhHSIiCNyw) | 3:35 |

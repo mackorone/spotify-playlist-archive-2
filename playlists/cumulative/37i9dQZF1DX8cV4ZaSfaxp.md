@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-429 songs - 1 day 2 hr 27 min
+430 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Funny \(feat\. Grizzly\)](https://open.spotify.com/track/7guQtXNYn2E9LMyjUyiywZ) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1), [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Funny](https://open.spotify.com/album/5K09zjcvZTSsZU3UnBILvf) | 3:37 | 2022-06-09 | 2022-06-29 |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2022-05-11 | 2023-06-04 |
 | [Game Over](https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:38 | 2022-05-11 | 2023-01-11 |
-| [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 | 2025-07-03 |  |
+| [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 | 2025-07-03 | 2026-06-17 |
 | [Give Me The Light](https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V) | 3:10 | 2022-09-05 | 2024-04-19 |
 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 | 2022-07-22 | 2022-11-03 |
 | [Give Me The Light 불을 밝혀줘](https://open.spotify.com/track/0uJYbZ0tNOLrxncyLTOObR) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/3pyxq9x3nrxr2EdHwu6Lof) | 3:10 | 2022-05-11 | 2022-07-29 |
@@ -277,6 +277,7 @@
 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 | 2022-05-11 | 2024-09-16 |
 | [Night in Seoul 서울의 밤](https://open.spotify.com/track/7B60bTjpCvzBrtjk6K9pgU) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.2 선데이서울 Ep.2](https://open.spotify.com/album/5YlbVC3cUATzMOm3whGIGX) | 3:54 | 2022-05-11 | 2022-07-27 |
 | [Night Rather Than Day](https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Eclipse](https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy) | 3:18 | 2022-06-09 |  |
+| [No more dancing in the moonlight](https://open.spotify.com/track/1325GX7fRoExaiZnSRDOiC) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [No more dancing in the moonlight](https://open.spotify.com/album/1US7fNWe3CR3arZmaeMAOm) | 2:57 | 2026-06-16 |  |
 | [Not Yours](https://open.spotify.com/track/6F8NVcYbERkpD3TlkYYVm4) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:03 | 2022-07-04 | 2022-07-07 |
 | [Number 1](https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:22 | 2022-07-22 | 2024-04-19 |
 | [Number 1](https://open.spotify.com/track/2GGzUBEJE1dN2PHrf7neS7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/6rOL2mghTfDyx5CY0eU1Dn) | 3:22 | 2022-05-11 | 2022-07-17 |

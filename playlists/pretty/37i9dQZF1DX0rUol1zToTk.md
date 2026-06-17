@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rUol1zToTk.md) - [plain]
 
 > The classics and deep cuts you probably downloaded from the golden era of the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,057 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,089 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rUol1zToTk.md) - [plain]
 | 94 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day \(Int'l Version\)](https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM) | 4:55 |
 | 95 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 |
 | 96 | [If I Can't](https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:16 |
-| 97 | [Beggin \(original version\)](https://open.spotify.com/track/1XyL3J7eTTKnxRZAM3LqIT) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [So Dark The Con Of Man](https://open.spotify.com/album/6c4eRgfN8nr9qN1IlXMckp) | 3:36 |
-| 98 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
-| 99 | [Smile](https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:16 |
+| 97 | [Smile](https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:16 |
+| 98 | [Beggin \(original version\)](https://open.spotify.com/track/1XyL3J7eTTKnxRZAM3LqIT) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [So Dark The Con Of Man](https://open.spotify.com/album/6c4eRgfN8nr9qN1IlXMckp) | 3:36 |
+| 99 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
 | 100 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 4:24 |
 
 Snapshot ID: `AAAAANT+hSFHfx/eRsFscPTHJLU7kQJx`

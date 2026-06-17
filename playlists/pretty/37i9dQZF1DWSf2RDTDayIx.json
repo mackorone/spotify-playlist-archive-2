@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2483969,
+  "num_followers": 2484069,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "All For Love",
-        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
-      },
-      "artists": [
-        {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Young Again",
         "url": "https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 196190,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "All For Love",
+        "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
+      },
+      "artists": [
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
+        "name": "Wahejo",
+        "url": "https://open.spotify.com/album/5Ah7Urq5kw7C9wtw0sSnRQ"
       },
       "artists": [
         {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
         }
       ],
-      "duration_ms": 230465,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
+      "duration_ms": 145781,
+      "name": "Wahejo",
+      "url": "https://open.spotify.com/track/1QSZ1UM7skGd6gpNKAf42v"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Wahejo",
-        "url": "https://open.spotify.com/album/5Ah7Urq5kw7C9wtw0sSnRQ"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/06YNty6N97umwjZFABQnvn"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
         }
       ],
-      "duration_ms": 145781,
-      "name": "Wahejo",
-      "url": "https://open.spotify.com/track/1QSZ1UM7skGd6gpNKAf42v"
+      "duration_ms": 230465,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "Come Back 2 Me",
         "url": "https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 193564,
       "name": "Come Back 2 Me",
       "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "True Desire",
-        "url": "https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w"
-      },
-      "artists": [
-        {
-          "name": "George Reid",
-          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
-        },
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 155660,
-      "name": "True Desire",
-      "url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "Lucky (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 127380,
       "name": "Lucky (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "True Desire",
+        "url": "https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w"
+      },
+      "artists": [
+        {
+          "name": "George Reid",
+          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 155660,
+      "name": "True Desire",
+      "url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 285786,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -1887,18 +1903,18 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
+        "name": "Mydnight",
+        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
       },
       "artists": [
         {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         }
       ],
-      "duration_ms": 285786,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
+      "duration_ms": 213706,
+      "name": "Our Home",
+      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -1919,22 +1935,6 @@
       "duration_ms": 239542,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Mydnight",
-        "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Our Home",
-      "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "JOY (By My Side)",
         "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
       },
@@ -2103,6 +2087,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "START UP A RUMOUR",
         "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
       },
@@ -2115,26 +2115,6 @@
       "duration_ms": 200207,
       "name": "START UP A RUMOUR",
       "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4iVzhfADLoMgbTb4EIMPVF"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "RAHH",
-          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
-        }
-      ],
-      "duration_ms": 177167,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2159,6 +2139,26 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4iVzhfADLoMgbTb4EIMPVF"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "duration_ms": 177167,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
       },
@@ -2179,26 +2179,6 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "heaven in your arms",
-        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 248415,
-      "name": "heaven in your arms",
-      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
         "name": "All Day (feat. Non\u00f4)",
         "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 182653,
       "name": "All Day (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
+        "name": "heaven in your arms",
+        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 248415,
+      "name": "heaven in your arms",
+      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
+    },
+    {
+      "added_at": "2026-06-08 19:50:59",
+      "album": {
         "name": "Good Feeling",
         "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
       },
@@ -2463,22 +2479,6 @@
       "duration_ms": 169440,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
-    },
-    {
-      "added_at": "2026-06-08 19:50:59",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2599,26 +2599,22 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Take It",
-        "url": "https://open.spotify.com/album/4LcgxmRpL6JlZiE0LjMWAd"
+        "name": "Zou bisou bisou",
+        "url": "https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe"
       },
       "artists": [
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
         },
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        },
-        {
-          "name": "MALARKEY",
-          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
+          "name": "Gillian Hills",
+          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
         }
       ],
-      "duration_ms": 151935,
-      "name": "Take It",
-      "url": "https://open.spotify.com/track/7MEGnPUY4dLQz3gvY212jM"
+      "duration_ms": 147857,
+      "name": "Zou bisou bisou",
+      "url": "https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM"
     },
     {
       "added_at": "2026-06-08 19:50:59",
@@ -2643,22 +2639,26 @@
     {
       "added_at": "2026-06-08 19:50:59",
       "album": {
-        "name": "Zou bisou bisou",
-        "url": "https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe"
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/4LcgxmRpL6JlZiE0LjMWAd"
       },
       "artists": [
         {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
         },
         {
-          "name": "Gillian Hills",
-          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        },
+        {
+          "name": "MALARKEY",
+          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
         }
       ],
-      "duration_ms": 147857,
-      "name": "Zou bisou bisou",
-      "url": "https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM"
+      "duration_ms": 151935,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/7MEGnPUY4dLQz3gvY212jM"
     },
     {
       "added_at": "2026-06-08 19:50:59",

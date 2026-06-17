@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Sollyy",
+  "description": "The best new music by independent artists and labels. Cover: Millie Atlas",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -8760,7 +8760,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 146214,
       "name": "Blue",
       "url": "https://open.spotify.com/track/73Jgmr6Vtjmc8o2OZ4wZIj"
@@ -30945,6 +30945,24 @@
     },
     {
       "album": {
+        "name": "HABIT",
+        "url": "https://open.spotify.com/album/0ZV1MqyzKffbSPBBj9rOYC"
+      },
+      "artists": [
+        {
+          "name": "Millie Atlas",
+          "url": "https://open.spotify.com/artist/12gLtwJ2Anu18fHcsxfGRC"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "HABIT",
+      "url": "https://open.spotify.com/track/4jmSlQSgcmT5uByjwz2wWI"
+    },
+    {
+      "album": {
         "name": "Holding Pattern",
         "url": "https://open.spotify.com/album/5QtjSD5s65FbCSkqSl7oMe"
       },
@@ -34498,7 +34516,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 232871,
       "name": "how long do we have?",
       "url": "https://open.spotify.com/track/5uMiXdFstZimMCbj2zhv2h"
@@ -35602,7 +35620,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 212307,
       "name": "I Need A Room",
       "url": "https://open.spotify.com/track/2lg7UaXJIbiMTb5p0J5fko"
@@ -36320,7 +36338,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 155052,
       "name": "I Would",
       "url": "https://open.spotify.com/track/2whHR5vaxtciVUKN4lyJI1"
@@ -66337,6 +66355,24 @@
     },
     {
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/5iM0v0QMmaXo0CgNOiTx7J"
+      },
+      "artists": [
+        {
+          "name": "sunbleached",
+          "url": "https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215435,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5ebpFvMuxCpqkMb3KqWSWX"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/0kn8MwDxV9a5SUA6FBagr1"
       },
@@ -68486,6 +68522,24 @@
       "duration_ms": 135724,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/1gwRiU3xxw6OLmQX0cSLPH"
+    },
+    {
+      "album": {
+        "name": "Spiders",
+        "url": "https://open.spotify.com/album/1yCvyXDSSfx8l11wvfJDPn"
+      },
+      "artists": [
+        {
+          "name": "Trophy Wyfe",
+          "url": "https://open.spotify.com/artist/6wIZ4daFx49ebqoHMkYlfm"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256799,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/5EoIK57x7sJBb88exsyc6R"
     },
     {
       "album": {
@@ -74840,6 +74894,24 @@
       "duration_ms": 218536,
       "name": "Those Days Are Over",
       "url": "https://open.spotify.com/track/0I9tMEnJzW5jme9jbpvmND"
+    },
+    {
+      "album": {
+        "name": "Those Shoes You March In",
+        "url": "https://open.spotify.com/album/3btukouxREZhGoK1qOtQqj"
+      },
+      "artists": [
+        {
+          "name": "Gigi.",
+          "url": "https://open.spotify.com/artist/076peJS0fCHNUQy5HOwqxS"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140922,
+      "name": "Those Shoes You March In",
+      "url": "https://open.spotify.com/track/7rj1HpQkIwyYkwoYxSotCb"
     },
     {
       "album": {

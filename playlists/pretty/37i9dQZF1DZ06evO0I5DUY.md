@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,562 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,596 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 13 | [Nomas Las Mujeres Quedan](https://open.spotify.com/track/5HzKotagepRiIhC0af8EqB) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Hijo del Palenque](https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY) | 3:09 |
 | 14 | [Dimas de Leon](https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:52 |
 | 15 | [La Tragedia de Rosita](https://open.spotify.com/track/1jG0m4TKRb7ipRXhHnUzXR) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7) | 3:12 |
-| 16 | [Desprecio](https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:40 |
-| 17 | [Las Tres Mujeres](https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiración Norteña](https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR) | 3:03 |
-| 18 | [El Pata de Palo](https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:16 |
+| 16 | [Las Tres Mujeres](https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiración Norteña](https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR) | 3:03 |
+| 17 | [El Pata de Palo](https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:16 |
+| 18 | [Desprecio](https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:40 |
 | 19 | [Polvo Maldito](https://open.spotify.com/track/7kVJEGxq80CLA3f1YRUAP1) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:45 |
 | 20 | [Cosas del Ayer](https://open.spotify.com/track/19mX627iFZeXidj0akB9aT) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:52 |
 | 21 | [El Caballo Jovero](https://open.spotify.com/track/3KAakRayZHiDzdOwQqRzdG) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [20 Norteñas Los Cadetes De Linares](https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz) | 3:15 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 25 | [El Retorno de Chito Cano](https://open.spotify.com/track/3q7NL8PxuVOKxUw2aNQs88) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:08 |
 | 26 | [Tu Vida No Me Importa](https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:23 |
 | 27 | [Pueblito](https://open.spotify.com/track/11G2XuECCiQaRLyFmQh0rG) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [20 Norteñas Los Cadetes De Linares](https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz) | 3:35 |
-| 28 | [Cielo Azul Cielo Nublado](https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:00 |
-| 29 | [Eran Cuatro de a Caballo](https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q) | 3:05 |
-| 30 | [Rezando Por Ella](https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:36 |
-| 31 | [El Muchacho y el Potro](https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:13 |
+| 28 | [Eran Cuatro de a Caballo](https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q) | 3:05 |
+| 29 | [Cielo Azul Cielo Nublado](https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [30 Cadetazos](https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8) | 2:00 |
+| 30 | [El Muchacho y el Potro](https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:13 |
+| 31 | [Rezando Por Ella](https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:36 |
 | 32 | [Que Seas Dichosa](https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:29 |
 | 33 | [El Rogón](https://open.spotify.com/track/1vGwqa4aF0mp3a8YddIpGV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Rogón](https://open.spotify.com/album/6fvDNjvBwBtoZottzuSF2F) | 2:47 |
 | 34 | [Lamberto Quintero](https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Despedida con Mariachi](https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [Menos Que Nada](https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:45 |
 | 50 | [Sonora y Sus Ojos Negros](https://open.spotify.com/track/3kO70lSqCm8dAEWYmVgNpf) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [14 Kilates De Oro, Vol\. 2](https://open.spotify.com/album/5u8BsG7MUQo4TR3mYitKwl) | 2:58 |
 
-Snapshot ID: `ai3vAAAAAADyTYL6u9QgissYaONtEzq0`
+Snapshot ID: `ai9AgAAAAACbbwk2s++g5I9T+QP6zTFJ`

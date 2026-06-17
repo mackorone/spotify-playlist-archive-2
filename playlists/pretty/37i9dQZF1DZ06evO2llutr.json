@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 666012,
+  "num_followers": 666359,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAX7UC1l4O/0pY1AD/FQJi1",
+  "snapshot_id": "ai9AgAAAAAC4u0VjktsBQ/xNdkPtPQE2",
   "tracks": [
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+        "name": "Bowery (feat. Kings of Leon)",
+        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+      "duration_ms": 215720,
+      "name": "Bowery (feat. Kings of Leon)",
+      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
       "added_at": null,
@@ -527,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Madeline (feat. Gabriella Rose)",
         "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 145146,
       "name": "Madeline (feat. Gabriella Rose)",
       "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bowery (feat. Kings of Leon)",
-        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 215720,
-      "name": "Bowery (feat. Kings of Leon)",
-      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
       "added_at": null,

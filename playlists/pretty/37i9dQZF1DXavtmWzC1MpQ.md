@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,045 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,042 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 14 | [Sleepy Rain Noise](https://open.spotify.com/track/0lyKoc6Batb1kDGCtw6pdF) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Sleepy Rain Noise](https://open.spotify.com/album/2C9n2yEhA1q6kCjHl0evqu) | 2:50 |
 | 15 | [Woodland Drops](https://open.spotify.com/track/6yHL4GvpL9m5JqToTuG014) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Woodland Drops](https://open.spotify.com/album/716VqOhfwuYQ8dwRpudU2d) | 2:18 |
 | 16 | [Natural Forest Quiet](https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Natural Forest Quiet](https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q) | 2:28 |
-| 17 | [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 |
-| 18 | [Riverlight Through Leaves](https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Riverlight Through Leaves](https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV) | 3:01 |
+| 17 | [Riverlight Through Leaves](https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Riverlight Through Leaves](https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV) | 3:01 |
+| 18 | [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 |
 | 19 | [Rain in the Andorran Forest](https://open.spotify.com/track/7BOmtKLiQX5yqk2Qji1X03) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Soothing Rain Songs](https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg) | 3:07 |
 | 20 | [Forest Rain](https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Peaceful Rain Recordings](https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM) | 2:50 |
 | 21 | [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 29 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
 | 30 | [The Millpond XI](https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond XI](https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh) | 2:05 |
 | 31 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
-| 32 | [Chill Waves & Wind in Leaves](https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 4:01 |
-| 33 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
+| 32 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
+| 33 | [Chill Waves & Wind in Leaves](https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 4:01 |
 | 34 | [Trópico](https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 3:04 |
 | 35 | [Singing Birds by the Stream](https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 2:55 |
 | 36 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 44 | [Sleepy Stream XIII](https://open.spotify.com/track/1iGgsgW34vp3wnl1LL0ybf) | [Mill Pond](https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7) | [Sleepy Stream XIII](https://open.spotify.com/album/4HOPK4G0nBdZwZ6oVTIWrl) | 1:55 |
 | 45 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 |
 | 46 | [Suburban Forest Rain 1](https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:18 |
-| 47 | [Green Until Morning](https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt) | [The Long Nap](https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU) | [Green Until Morning](https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn) | 2:04 |
-| 48 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
+| 47 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
+| 48 | [Green Until Morning](https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt) | [The Long Nap](https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU) | [Green Until Morning](https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn) | 2:04 |
 | 49 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 |
 | 50 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
 

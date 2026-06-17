@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de mayo 2026. Cover: Rels B",
-  "num_followers": 1558821,
+  "num_followers": 1558685,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-05-29 21:30:24",
       "album": {
-        "name": "Rojo Rub\u00ed",
-        "url": "https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Rojo Rub\u00ed",
-      "url": "https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI"
-    },
-    {
-      "added_at": "2026-05-29 21:30:24",
-      "album": {
         "name": "Ricky y Mau",
         "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 140844,
       "name": "aiaiaiaiai",
       "url": "https://open.spotify.com/track/3ZIUbesQtBxDi4Dl46u2bl"
+    },
+    {
+      "added_at": "2026-05-29 21:30:24",
+      "album": {
+        "name": "Rojo Rub\u00ed",
+        "url": "https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Rojo Rub\u00ed",
+      "url": "https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI"
     },
     {
       "added_at": "2026-05-29 21:30:24",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-29 21:30:24",
       "album": {
-        "name": "venus & romeo",
-        "url": "https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 123045,
-      "name": "venus & romeo",
-      "url": "https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n"
-    },
-    {
-      "added_at": "2026-05-29 21:30:24",
-      "album": {
         "name": "Seadoo",
         "url": "https://open.spotify.com/album/7nT9N003PTCWvNdx4KxwYM"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 160000,
       "name": "Seadoo",
       "url": "https://open.spotify.com/track/0J1j75w9TvUqvPCyWMR3Jw"
+    },
+    {
+      "added_at": "2026-05-29 21:30:24",
+      "album": {
+        "name": "venus & romeo",
+        "url": "https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 123045,
+      "name": "venus & romeo",
+      "url": "https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n"
     }
   ],
   "unique_name": "Lo mejor del mes",

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Philippines.",
-  "num_followers": 1559847,
+  "num_followers": 1559956,
   "original_name": "Top 50 - Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "McN4sAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "McTKMAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Kalapastangan",
         "url": "https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Since Day One",
         "url": "https://open.spotify.com/album/5mLe2QlFKmqeKJb6W4aJZI"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4yzDFThA5Xd1s9aZzwyxCk"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Pag-Ibig ay Kanibalismo II",
         "url": "https://open.spotify.com/album/2T523YMzbCSM86LYZDCZLI"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/410fyfFghBsxNu45LiNJ24"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Panaginip",
-        "url": "https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI"
-      },
-      "artists": [
-        {
-          "name": "nicole",
-          "url": "https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp"
-        }
-      ],
-      "duration_ms": 317077,
-      "name": "Panaginip",
-      "url": "https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Libu-Libong Buwan (Uuwian)",
         "url": "https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe"
@@ -93,39 +77,23 @@
       "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "Andalucia",
-        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+        "name": "Panaginip",
+        "url": "https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI"
       },
       "artists": [
         {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+          "name": "nicole",
+          "url": "https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp"
         }
       ],
-      "duration_ms": 207920,
-      "name": "Kabisado",
-      "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
+      "duration_ms": 317077,
+      "name": "Panaginip",
+      "url": "https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Lifetime (Reimagined)",
-        "url": "https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 277894,
-      "name": "Lifetime (Reimagined)",
-      "url": "https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
@@ -141,7 +109,39 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Kabisado",
+      "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "Lifetime (Reimagined)",
+        "url": "https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "Lifetime (Reimagined)",
+      "url": "https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -173,23 +173,7 @@
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Silakbo",
-        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 237692,
-      "name": "Multo",
-      "url": "https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/2dWmk1bspTUprZWi1ybGf7"
@@ -209,7 +193,7 @@
       "url": "https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Halik Sobrang Diin Pt. 2",
         "url": "https://open.spotify.com/album/5PsAEPorOXjYT3QmvlpQKP"
@@ -233,7 +217,7 @@
       "url": "https://open.spotify.com/track/7dfdFXTFrHUfsS6ff6RQgb"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
@@ -249,7 +233,23 @@
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "Silakbo",
+        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 237692,
+      "name": "Multo",
+      "url": "https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Tahanan",
         "url": "https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
@@ -281,39 +281,7 @@
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 226283,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
@@ -329,7 +297,23 @@
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Isa lang",
         "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
@@ -345,7 +329,23 @@
       "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 226283,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Palayo Sa Mundo",
         "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Silakbo",
         "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
@@ -397,43 +397,7 @@
       "url": "https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Saksi Ang Langit",
-        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 259058,
-      "name": "Saksi Ang Langit",
-      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Dominga",
         "url": "https://open.spotify.com/album/51CwI0l4c4cDHLfAESx3qW"
@@ -453,39 +417,43 @@
       "url": "https://open.spotify.com/track/4WCvw9BKw3xNYuMhDMI7iV"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl"
+        "name": "Saksi Ang Langit",
+        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
       },
       "artists": [
         {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
         }
       ],
-      "duration_ms": 349750,
-      "name": "Mundo",
-      "url": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw"
+      "duration_ms": 259058,
+      "name": "Saksi Ang Langit",
+      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "Ayoko Maging Kaibigan",
-        "url": "https://open.spotify.com/album/4Ys1gxmMQim8Zay3p9UNhf"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
       },
       "artists": [
         {
-          "name": "kiddotin",
-          "url": "https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 166129,
-      "name": "Ayoko Maging Kaibigan",
-      "url": "https://open.spotify.com/track/6AIACiACh45NhUyAWKwqql"
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -501,7 +469,39 @@
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "Ayoko Maging Kaibigan",
+        "url": "https://open.spotify.com/album/4Ys1gxmMQim8Zay3p9UNhf"
+      },
+      "artists": [
+        {
+          "name": "kiddotin",
+          "url": "https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL"
+        }
+      ],
+      "duration_ms": 166129,
+      "name": "Ayoko Maging Kaibigan",
+      "url": "https://open.spotify.com/track/6AIACiACh45NhUyAWKwqql"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "Capacities",
+        "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
+      },
+      "artists": [
+        {
+          "name": "Up Dharma Down",
+          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
+        }
+      ],
+      "duration_ms": 222446,
+      "name": "Tadhana",
+      "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Moolah",
         "url": "https://open.spotify.com/album/6P6HlYKePGlHFy9pVeBNNS"
@@ -521,39 +521,39 @@
       "url": "https://open.spotify.com/track/26DXCOVx8HiHooG0RveKEn"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "Capacities",
-        "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl"
       },
       "artists": [
         {
-          "name": "Up Dharma Down",
-          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
         }
       ],
-      "duration_ms": 222446,
-      "name": "Tadhana",
-      "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
+      "duration_ms": 349750,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "Driftstar",
-        "url": "https://open.spotify.com/album/0i4ZN9hKhb9sSM9ovAoZG4"
+        "name": "Janice",
+        "url": "https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6"
       },
       "artists": [
         {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
         }
       ],
-      "duration_ms": 171868,
-      "name": "Driftstar",
-      "url": "https://open.spotify.com/track/4FuM2scDnJbWn6Az9UQ6aD"
+      "duration_ms": 235161,
+      "name": "Janice",
+      "url": "https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "For Princesses, By Thieves (O Mga Awit ng Hiraya Para sa Guni-guning Sinta)",
         "url": "https://open.spotify.com/album/3vnLVB3AJ8MMiSgGN01Dtd"
@@ -569,39 +569,7 @@
       "url": "https://open.spotify.com/track/0jByCc9MS4p34rE3o9Cdmw"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 217869,
-      "name": "begged",
-      "url": "https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 246410,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/0TMmGHybMKtsjBBEmwXHkF"
@@ -617,71 +585,7 @@
       "url": "https://open.spotify.com/track/4x2PkqSLtuwv53hLqq4GiY"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Unti-Unti",
-        "url": "https://open.spotify.com/album/22DhzsGO72BgYKAAXFGsyb"
-      },
-      "artists": [
-        {
-          "name": "Up Dharma Down",
-          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
-        }
-      ],
-      "duration_ms": 283825,
-      "name": "Unti-Unti",
-      "url": "https://open.spotify.com/track/0DdC92EziGIEN6j7kTCKQX"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "Soapdish Reloaded",
-        "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
-      },
-      "artists": [
-        {
-          "name": "Soapdish",
-          "url": "https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "Tensionado",
-      "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Grandma",
         "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
@@ -697,23 +601,39 @@
       "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+        "name": "Driftstar",
+        "url": "https://open.spotify.com/album/0i4ZN9hKhb9sSM9ovAoZG4"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
         }
       ],
-      "duration_ms": 223013,
-      "name": "honeybee",
-      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
+      "duration_ms": 171868,
+      "name": "Driftstar",
+      "url": "https://open.spotify.com/track/4FuM2scDnJbWn6Az9UQ6aD"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z"
@@ -729,23 +649,39 @@
       "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "TAKE ALL THE LOVE",
-        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 206181,
-      "name": "TAKE ALL THE LOVE",
-      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "Unti-Unti",
+        "url": "https://open.spotify.com/album/22DhzsGO72BgYKAAXFGsyb"
+      },
+      "artists": [
+        {
+          "name": "Up Dharma Down",
+          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
+        }
+      ],
+      "duration_ms": 283825,
+      "name": "Unti-Unti",
+      "url": "https://open.spotify.com/track/0DdC92EziGIEN6j7kTCKQX"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "Ipagdadamot Kita",
         "url": "https://open.spotify.com/album/4iM2r1bgQ2XqHDVVCyKyyF"
@@ -773,39 +709,55 @@
       "url": "https://open.spotify.com/track/4F1lbAADITrGQaHh0F6g58"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "LAB SONGS NG MGA TANGA",
-        "url": "https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs"
+        "name": "TAKE ALL THE LOVE",
+        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
       },
       "artists": [
         {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 186577,
-      "name": "What if I miss you for the rest of my life?",
-      "url": "https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN"
+      "duration_ms": 206181,
+      "name": "TAKE ALL THE LOVE",
+      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "Janice",
-        "url": "https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6"
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
       },
       "artists": [
         {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 235161,
-      "name": "Janice",
-      "url": "https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V"
+      "duration_ms": 246410,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
@@ -816,12 +768,12 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 193848,
-      "name": "less",
-      "url": "https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO"
+      "duration_ms": 217869,
+      "name": "begged",
+      "url": "https://open.spotify.com/track/2duvkmcQAezPigFEGlERuA"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -837,10 +789,26 @@
       "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
     },
     {
-      "added_at": "2026-06-15 14:19:24",
+      "added_at": "2026-06-16 17:22:15",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "LAB SONGS NG MGA TANGA",
+        "url": "https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs"
+      },
+      "artists": [
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "duration_ms": 186577,
+      "name": "What if I miss you for the rest of my life?",
+      "url": "https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
       "artists": [
         {
@@ -848,9 +816,41 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 193848,
+      "name": "less",
+      "url": "https://open.spotify.com/track/16xRAbH0vI3iKvDEhWQ4ZO"
+    },
+    {
+      "added_at": "2026-06-16 17:22:15",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
     }
   ],
   "unique_name": "Top 50 - Philippines",

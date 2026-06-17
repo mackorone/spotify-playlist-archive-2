@@ -6521,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Dil Bebaak",
+        "url": "https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL"
+      },
+      "artists": [
+        {
+          "name": "Dev Arijit",
+          "url": "https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399108,
+      "name": "Dil Bebaak",
+      "url": "https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S"
+    },
+    {
+      "album": {
         "name": "Dil Behkaaye",
         "url": "https://open.spotify.com/album/2WginyYdZBd5opfBW38Cy0"
       },
@@ -20688,7 +20706,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 165619,
       "name": "Pahaad",
       "url": "https://open.spotify.com/track/416l6p2QFJUceAZcLGuXom"

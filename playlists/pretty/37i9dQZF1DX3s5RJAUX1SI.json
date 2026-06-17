@@ -1,6 +1,6 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 203545,
+  "num_followers": 203588,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 142440,
-      "name": "Peca de Bonita",
-      "url": "https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "En Vivo EP, Vol. 1 (En vivo)",
         "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 228545,
       "name": "Te Apuesto - En vivo",
       "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "Peca de Bonita",
+      "url": "https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU"
     },
     {
       "added_at": "2024-10-23 17:24:42",

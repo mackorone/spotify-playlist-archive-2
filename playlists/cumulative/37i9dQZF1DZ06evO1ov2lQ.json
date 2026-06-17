@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Shenzhou",
+        "url": "https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465626,
+      "name": "Ancient Campfire",
+      "url": "https://open.spotify.com/track/0ms5MzrJBudHOw5PpsphpI"
+    },
+    {
+      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 304586,
       "name": "Antennaria",
       "url": "https://open.spotify.com/track/5ypp9xJW7yp3f2yC10gHEh"
@@ -330,6 +348,24 @@
     {
       "album": {
         "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/10VIuwTOJBJy22e4INZbE0"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "As Weird as the Elfin Lights",
+      "url": "https://open.spotify.com/track/2acdYxDitKA80W4su8rHP7"
+    },
+    {
+      "album": {
+        "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
       "artists": [
@@ -340,7 +376,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 234440,
       "name": "As Weird as the Elfin Lights",
       "url": "https://open.spotify.com/track/4phMb8e5oT4WMQImLQyUWD"
@@ -358,7 +394,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 364855,
       "name": "Audax",
       "url": "https://open.spotify.com/track/6C0nkWPzu43Bbiq9cTJzxY"
@@ -2106,7 +2142,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 318577,
       "name": "Mir",
       "url": "https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j"
@@ -2758,7 +2794,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 473840,
       "name": "Silene",
       "url": "https://open.spotify.com/track/6l7ouzm1yKyTNaOKe87imj"
@@ -3108,7 +3144,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 534430,
       "name": "The Shield",
       "url": "https://open.spotify.com/track/5dmviv6oMhKDHSUiI2AX0a"

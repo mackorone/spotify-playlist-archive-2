@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,118 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,077 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 61 | [River Wider](https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [River Wider](https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD) | 3:15 |
 | 62 | [Love At Your Convenience](https://open.spotify.com/track/5RmYeDWwImW4OC63UQsbG0) | [The Ghost of Paul Revere](https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG) | [Love At Your Convenience](https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt) | 3:33 |
 | 63 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
-| 64 | [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 |
-| 65 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
-| 66 | [The Records Were Ours](https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [The Records Were Ours](https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9) | 3:05 |
-| 67 | [Set the World on Fire](https://open.spotify.com/track/5mbcjmw6eqXlSSRHGxEjkG) | [Early Morning Rebel](https://open.spotify.com/artist/0EY2klOFCGNWO2gc3k9AhQ) | [Set the World on Fire](https://open.spotify.com/album/7C6GRyldUPFVCh4QfoqNiP) | 2:45 |
+| 64 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
+| 65 | [Drive You Home](https://open.spotify.com/track/6DKqCfULlm9Fa7Cb9E8daQ) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Drive You Home](https://open.spotify.com/album/5N626BClwWdlR9Ks3vOgRX) | 3:00 |
+| 66 | [Set the World on Fire](https://open.spotify.com/track/5mbcjmw6eqXlSSRHGxEjkG) | [Early Morning Rebel](https://open.spotify.com/artist/0EY2klOFCGNWO2gc3k9AhQ) | [Set the World on Fire](https://open.spotify.com/album/7C6GRyldUPFVCh4QfoqNiP) | 2:45 |
+| 67 | [The Records Were Ours](https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [The Records Were Ours](https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9) | 3:05 |
 | 68 | [Soul In Mind](https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Soul In Mind](https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS) | 3:36 |
 | 69 | [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 |
 | 70 | [Feel Like Going Home \(OurVinyl Sessions\)](https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [OurVinyl \| Blues & Soul](https://open.spotify.com/artist/3QTmoHSM0ZWDboz5qjjigZ) | [Miko Marks \| OurVinyl Sessions](https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR) | 4:41 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 86 | [Outwit the Devil](https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Already Dead](https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM) | 3:04 |
 | 87 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 |
 | 88 | [Joni](https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Joni](https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9) | 2:55 |
-| 89 | [Looking for Love](https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 3:39 |
-| 90 | [99.9%](https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [99.9%](https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ) | 2:49 |
+| 89 | [99.9%](https://open.spotify.com/track/24rE4xbH7mCWVpI2zy76HW) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [99.9%](https://open.spotify.com/album/6H157SVqv2Ghl6VvgGEwaZ) | 2:49 |
+| 90 | [Looking for Love](https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm) | 3:39 |
 | 91 | [I Shouldn't Go Anywhere](https://open.spotify.com/track/0nZitUFjpGHGpsi317SJFM) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 3:43 |
-| 92 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 |
-| 93 | [Desert Queen](https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Desert Queen](https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI) | 4:42 |
-| 94 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
+| 92 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
+| 93 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 |
+| 94 | [Desert Queen](https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Desert Queen](https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI) | 4:42 |
 | 95 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 |
 | 96 | [Heavy Metal Heart](https://open.spotify.com/track/5lLImAUUwxvZgR5ttivI7M) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 4:32 |
-| 97 | [Sedona](https://open.spotify.com/track/2kG5litgxXvx6ZRgwO1v7W) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt) | 3:59 |
-| 98 | [Strangers](https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:13 |
-| 99 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 |
+| 97 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 |
+| 98 | [Sedona](https://open.spotify.com/track/2kG5litgxXvx6ZRgwO1v7W) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt) | 3:59 |
+| 99 | [Strangers](https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:13 |
 | 100 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
 
 Snapshot ID: `AAAAAMhdH3TSyTDwmGLBtbRCxwfvgq16`

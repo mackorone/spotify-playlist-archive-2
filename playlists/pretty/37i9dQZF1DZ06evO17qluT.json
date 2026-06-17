@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 107786,
+  "num_followers": 107831,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAqE7qhPjpJljosfo1fgCSH",
+  "snapshot_id": "ai9AgAAAAAAK1e0zgq2p7p7sthGsLvKy",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Caminhos",
+      "url": "https://open.spotify.com/track/1cLYvKsm34lAPyhNKY7HZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Antes dos Gigantes Chegarem, Vol. 2",
         "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 227093,
       "name": "Almas",
       "url": "https://open.spotify.com/track/2nOaBepWvTS9HdZ25YYode"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 167999,
-      "name": "Caminhos",
-      "url": "https://open.spotify.com/track/1cLYvKsm34lAPyhNKY7HZ0"
     },
     {
       "added_at": null,
@@ -807,34 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes dos Gigantes Chegarem, Vol. 2",
-        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
-        }
-      ],
-      "duration_ms": 305002,
-      "name": "Antes dos Gigantes Chegarem",
-      "url": "https://open.spotify.com/track/6Q2NfBPqVv0AVYGSHyG3gX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
@@ -859,6 +831,34 @@
       "duration_ms": 309618,
       "name": "Quadros",
       "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
+        }
+      ],
+      "duration_ms": 305002,
+      "name": "Antes dos Gigantes Chegarem",
+      "url": "https://open.spotify.com/track/6Q2NfBPqVv0AVYGSHyG3gX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fabiana Sinfrônio
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,887 likes - 80 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,905 likes - 80 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 30 | [Processo \- Ao Vivo em Salvador](https://open.spotify.com/track/2z0bVsgogc37nPMOblrjaU) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Processo \(Ao Vivo em Salvador\)](https://open.spotify.com/album/525yOeLPhKZ0roNgjZpEHW) | 4:31 |
 | 31 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
 | 32 | [Canção dos Redimidos \- Ao Vivo](https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Canção dos Redimidos \(Ao Vivo\)](https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ) | 6:53 |
-| 33 | [Santo para Sempre \- Ao Vivo](https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Santo pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr) | 5:27 |
-| 34 | [Esse Vento Vai Passar \- Studio Session](https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Esse Vento Vai Passar \(Studio Session\)](https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9) | 5:19 |
+| 33 | [Esse Vento Vai Passar \- Studio Session](https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Esse Vento Vai Passar \(Studio Session\)](https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9) | 5:19 |
+| 34 | [Santo para Sempre \- Ao Vivo](https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Santo pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr) | 5:27 |
 | 35 | [O Senhor é o Meu Pastor \- Ao Vivo](https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Senhor é o Meu Pastor \(Ao Vivo\)](https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx) | 6:21 |
 | 36 | [Me Atraiu \(Reimagined\)](https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Reimagined\)](https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR) | 4:24 |
 | 37 | [Seu Amor Dura Para Sempre \(Bonus Track\) \- Ao Vivo](https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Ao Vivo na Ópera de Arame \(Deluxe Edition\)](https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP) | 6:52 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 59 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
 | 60 | [Santo \- Ao Vivo](https://open.spotify.com/track/0uXHdrHWe2bY686YKpVqF2) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/1RyOM2VBjuXp7PAwuhiMJS) | 9:39 |
 | 61 | [Meu Redentor Vive \(Ao Vivo\)](https://open.spotify.com/track/357ctAsekqjuFD2ag2sQZE) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Meu Redentor Vive \(Ao Vivo\)](https://open.spotify.com/album/5PkaM3Gze2nfHhp1bRIRyz) | 5:28 |
-| 62 | [Em Todo Tempo](https://open.spotify.com/track/3uz5amJdM3nDuhEeypgMVH) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Em Todo Tempo](https://open.spotify.com/album/1j6lyZyzjIAKn4B6xhNpUu) | 6:00 |
-| 63 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |
+| 62 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |
+| 63 | [Em Todo Tempo](https://open.spotify.com/track/3uz5amJdM3nDuhEeypgMVH) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Em Todo Tempo](https://open.spotify.com/album/1j6lyZyzjIAKn4B6xhNpUu) | 6:00 |
 | 64 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
 | 65 | [Eu Mais Deus \- Ao Vivo](https://open.spotify.com/track/2Ivq3QTLrQwqP9WOzJkUB6) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Mais Deus \(Ao Vivo\)](https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX) | 6:59 |
 | 66 | [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 |

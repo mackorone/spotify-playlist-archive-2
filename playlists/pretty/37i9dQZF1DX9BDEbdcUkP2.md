@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 
 > The songs of the 1960s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,090 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,235 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 57 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:19 |
 | 58 | [Mony Mony](https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Mony Mony](https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt) | 2:54 |
 | 59 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
-| 60 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
-| 61 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
+| 60 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
+| 61 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 62 | [I Will Follow Him](https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac) | [Peggy March](https://open.spotify.com/artist/5EVZqrbIyEYGGite2sMhDk) | [I Will Follow Him](https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg) | 2:28 |
 | 63 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
 | 64 | [Save the Last Dance for Me](https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:34 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 66 | [Walk Like a Man](https://open.spotify.com/track/4C76SOnBa9eQDwOwe11hPz) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Big Girls Don't Cry and 12 Other Hits](https://open.spotify.com/album/21nYbsqCxRcKE1gOB9f98a) | 2:17 |
 | 67 | [Shakin' All Over](https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I) | [Johnny Kidd & The Pirates](https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ) | [The Complete Johnny Kidd Vol 1 & 2](https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1) | 2:21 |
 | 68 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 |
-| 69 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
-| 70 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 |
+| 69 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 |
+| 70 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 71 | [It's Now or Never](https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 3:14 |
 | 72 | [Sunshine Superman](https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 3:15 |
 | 73 | [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 |

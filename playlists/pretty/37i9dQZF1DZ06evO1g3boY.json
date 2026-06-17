@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174452,
+  "num_followers": 174456,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAD2DZCknYM0HctNe25VeaJZ",
+  "snapshot_id": "ai9AgAAAAABlTo1jmEpQReAbfNVsPLXj",
   "tracks": [
     {
       "added_at": null,
@@ -16,7 +16,7 @@
       },
       "artists": [
         {
-          "name": "MC Guime",
+          "name": "MC Guim\u00ea",
           "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
         },
         {
@@ -1071,30 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Oi Compadre - Ao Vivo",
-      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Sou a Mar\u00e9 Viva",
         "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 274145,
       "name": "Manifesto (feat. Lenine & Emicida)",
       "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Oi Compadre - Ao Vivo",
+      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
     }
   ],
   "unique_name": "This Is Emicida",

@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 73866,
+  "num_followers": 73903,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABngvCKooO31aul+4psXU/p",
+  "snapshot_id": "ai9AgAAAAAAU9WDMxvuNYeSLmTDPWzu7",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "That's A Mistake",
+      "url": "https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Mind If I Do (Deluxe)",
         "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 243033,
       "name": "I Just Need You",
       "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "That's A Mistake",
-      "url": "https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU"
     },
     {
       "added_at": null,

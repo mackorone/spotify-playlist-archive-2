@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 347177,
+  "num_followers": 347189,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAABNEvjmm06vLtjk+oYC40H4",
+  "snapshot_id": "ai9AgAAAAADvZ5+p2dh3mkiBEggUuE8i",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos de Colecci\u00f3n, Vol.1",
-        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Pilares de Cristal",
-      "url": "https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez Con Banda Brava",
         "url": "https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 212613,
       "name": "Rigo Coria",
       "url": "https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos de Colecci\u00f3n, Vol.1",
+        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Pilares de Cristal",
+      "url": "https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA"
     },
     {
       "added_at": null,

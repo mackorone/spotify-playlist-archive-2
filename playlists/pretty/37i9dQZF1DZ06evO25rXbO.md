@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,326 likes - 46 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,485 likes - 46 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 41 | [Fire Flies](https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:53 |
 | 42 | [Strobelite \(feat\. Peven Everett\)](https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:32 |
 | 43 | [Désolé \(feat\. Fatoumata Diawara\) \- Extended Version](https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 5:33 |
-| 44 | [Kansas](https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:08 |
+| 44 | [Magic City](https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:59 |
 | 45 | [Pac\-Man \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:12 |
-| 46 | [Magic City](https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:59 |
+| 46 | [Kansas](https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:08 |
 
-Snapshot ID: `ai3vAAAAAADm0GjdpwNhAu5/RREzndkU`
+Snapshot ID: `ai9AgAAAAABU5EvNnjwrb40BdfxWT9cj`

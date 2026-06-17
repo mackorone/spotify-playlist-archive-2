@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,738 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,023 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 25 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 |
 | 26 | [Can You Feel It](https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Double Vision](https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL) | 4:11 |
 | 27 | [Read Between the Lines](https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:22 |
-| 28 | [Beaches](https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Beaches](https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5) | 3:47 |
-| 29 | [Touch](https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 3:46 |
+| 28 | [Touch](https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 3:46 |
+| 29 | [Beaches](https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Beaches](https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5) | 3:47 |
 | 30 | [Ocean Way](https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 5:03 |
 | 31 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 |
 | 32 | [Do not disturb](https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Do not disturb](https://open.spotify.com/album/4RG39enCANdnjbagkDndcp) | 2:59 |
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 37 | [Whisper](https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Whisper](https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g) | 4:16 |
 | 38 | [Catnap](https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 5:03 |
 | 39 | [Déjà Vu](https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Playin' Favorites](https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH) | 4:29 |
-| 40 | [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 |
-| 41 | [I'll Be Waiting](https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Sudden Burst Of Energy](https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj) | 4:47 |
+| 40 | [I'll Be Waiting](https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Sudden Burst Of Energy](https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj) | 4:47 |
+| 41 | [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 |
 | 42 | [All Night](https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 5:25 |
 | 43 | [Old School](https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 4:26 |
-| 44 | [Because of You](https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:44 |
-| 45 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 |
+| 44 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 |
+| 45 | [Because of You](https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:44 |
 | 46 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |
 | 47 | [Let's Get It Started](https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Creations the Album, Pt\. 1](https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI) | 6:16 |
 | 48 | [Marseille](https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Traveler](https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO) | 5:11 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 51 | [Always Thinkin' Of You](https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 4:09 |
 | 52 | [Rozil](https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:29 |
 | 53 | [Love To All](https://open.spotify.com/track/3JixMzROP010wvqclHnxr2) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Listen](https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL) | 5:08 |
-| 54 | [Pacific Breeze](https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Nelson Braxton](https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:44 |
-| 55 | [Pineapple](https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam) | [Three Peats](https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco) | [Pineapple](https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx) | 3:36 |
+| 54 | [Pineapple](https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam) | [Three Peats](https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco) | [Pineapple](https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx) | 3:36 |
+| 55 | [Pacific Breeze](https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Nelson Braxton](https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:44 |
 | 56 | [Isabella](https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 5:24 |
 | 57 | [Miss Bane](https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 4:51 |
 | 58 | [Big Jon](https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [Big Jon](https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo) | 3:50 |

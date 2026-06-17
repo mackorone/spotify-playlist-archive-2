@@ -4,7 +4,7 @@
 
 > Brenn! on the cover :\)
 
-824 songs - 2 day 1 hr 45 min
+825 songs - 2 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-12 | 2025-01-18 |
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2023-10-13 | 2026-02-21 |
 | [scratch](https://open.spotify.com/track/73W3LkcxKvzCJ2vthJXk7M) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [Pigeons & Planes Presents: See You Next Year 3](https://open.spotify.com/album/1LjkpcxdrqE8mSDghyhlwu) | 2:43 | 2026-05-15 |  |
+| [Secret Language](https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Secret Language](https://open.spotify.com/album/5O70O8co709tMC46LDb8uF) | 3:53 | 2026-06-16 |  |
 | [Secrets](https://open.spotify.com/track/6HVr7aL6ZqGMO2gknTCZf7) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/4xXu2XeAwIcAUIRcd2Fj1U) | 4:12 | 2023-10-06 | 2024-03-16 |
 | [See You Later, I'm Gone](https://open.spotify.com/track/79jGv17PjfApMbrMCrZ0OV) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [See You Later, I'm Gone](https://open.spotify.com/album/4shbHhHop8TtPbbZAnfyeZ) | 4:31 | 2026-05-08 |  |
 | [September](https://open.spotify.com/track/0xahPNJVFHGMEFxu9kergk) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [September](https://open.spotify.com/album/2MUnPlYdNix2siWwPa22eo) | 3:09 | 2023-10-06 | 2024-03-16 |

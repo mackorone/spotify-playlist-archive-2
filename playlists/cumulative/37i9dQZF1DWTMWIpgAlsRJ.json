@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164188,
+      "name": "Bury Me Alive",
+      "url": "https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
       },
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC"

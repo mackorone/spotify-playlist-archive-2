@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > The Indie highlights of 2011\. Cover: AWOLNATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,444 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,464 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 83 | [Limit To Your Love](https://open.spotify.com/track/3GjLiydribpGA0Qs6WmXXV) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/5InSs4GSvxTAsLIIzZ3otl) | 4:36 |
 | 84 | [Featherstone](https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:49 |
 | 85 | [Amor Fati](https://open.spotify.com/track/60KqmTYKZzSElJidL2U2o1) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/6GUrNxKQG0pUt9umzAPdLv) | 4:26 |
-| 86 | [Kaputt](https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND) | 6:17 |
-| 87 | [Candles](https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:53 |
-| 88 | [Rivers and Roads](https://open.spotify.com/track/4fN0dQGDaV4Hg7Gd7mBOE0) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:44 |
-| 89 | [Do You Remember](https://open.spotify.com/track/78tJyvCFFvl3b0jqdj2EUO) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [It All Starts With One](https://open.spotify.com/album/4AuXrnTPEQheuq7r9WJHjo) | 3:12 |
-| 90 | [Shake, Shake, Shake](https://open.spotify.com/track/197IjFuW5x1q3VazxmWQJQ) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/4T56NnPsWvFAcpJWyPAJa1) | 2:43 |
-| 91 | [Perth](https://open.spotify.com/track/7km8eBZqlTKiqlgdl2Zk5u) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 4:22 |
-| 92 | [Landfill](https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:23 |
-| 93 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
+| 86 | [Shake, Shake, Shake](https://open.spotify.com/track/197IjFuW5x1q3VazxmWQJQ) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/4T56NnPsWvFAcpJWyPAJa1) | 2:43 |
+| 87 | [Landfill](https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:23 |
+| 88 | [Minnesota, WI](https://open.spotify.com/track/7CLa6x8HlyEcgZhZcADRNO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 3:52 |
+| 89 | [Kaputt](https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND) | 6:17 |
+| 90 | [Rivers and Roads](https://open.spotify.com/track/4fN0dQGDaV4Hg7Gd7mBOE0) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:44 |
+| 91 | [Do You Remember](https://open.spotify.com/track/78tJyvCFFvl3b0jqdj2EUO) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [It All Starts With One](https://open.spotify.com/album/4AuXrnTPEQheuq7r9WJHjo) | 3:12 |
+| 92 | [Candles](https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:53 |
+| 93 | [Perth](https://open.spotify.com/track/7km8eBZqlTKiqlgdl2Zk5u) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 4:22 |
 | 94 | [How Deep Is Your Love?](https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [How Deep Is Your Love?](https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf) | 6:27 |
-| 95 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
-| 96 | [Minnesota, WI](https://open.spotify.com/track/7CLa6x8HlyEcgZhZcADRNO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 3:52 |
+| 95 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
+| 96 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
 | 97 | [Hello My Old Heart](https://open.spotify.com/track/5wLBkpEwHIlNZJaeh0s7bR) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hello's](https://open.spotify.com/album/6AOSZgozxbKKHlpvmtoxV5) | 4:16 |
 | 98 | [East Harlem](https://open.spotify.com/track/3QaM3srTDYXfPKmBf9ZYMU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz) | 3:58 |
-| 99 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
-| 100 | [Need You Now](https://open.spotify.com/track/3TjGopIWapEoeWfRsHFRjs) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Zonoscope](https://open.spotify.com/album/4JTBXeHQ3n6koQtMxnWLJu) | 6:09 |
+| 99 | [Towers](https://open.spotify.com/track/5TGv36v9A0AsLq1xJrNs5V) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 3:08 |
+| 100 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
 
 Snapshot ID: `AAAAAI0gdjzmpLEM/xroOROfwxqYofFB`

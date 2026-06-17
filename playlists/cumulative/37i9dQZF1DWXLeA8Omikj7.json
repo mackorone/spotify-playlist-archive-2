@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 263200,
       "name": "1 18. 13 1 14 5 18. 11 15 26 8",
       "url": "https://open.spotify.com/track/71352qWlxI4t5Wj3YsVvAR"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 466363,
       "name": "Alignment, Orbits",
       "url": "https://open.spotify.com/track/3jNC3jInwASrXxGV9s2IaC"
@@ -6360,6 +6360,28 @@
       "duration_ms": 316190,
       "name": "Everything In Its Right Place",
       "url": "https://open.spotify.com/track/4hIjfcWeaUIg5JIgFsqyXj"
+    },
+    {
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/0zyxBwUhBX4cSfOB5qN3mU"
+      },
+      "artists": [
+        {
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+        },
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524992,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/7IjhVHhJ6RcKCfcaYjIBwD"
     },
     {
       "album": {
@@ -18294,6 +18316,24 @@
       "duration_ms": 200786,
       "name": "Strength From Inside",
       "url": "https://open.spotify.com/track/3MC9nswECDn5zuqkFQG1sB"
+    },
+    {
+      "album": {
+        "name": "Stucco",
+        "url": "https://open.spotify.com/album/3G69y7gGZAsW3v4mEnqpEs"
+      },
+      "artists": [
+        {
+          "name": "DJ Plead",
+          "url": "https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg"
+        }
+      ],
+      "date_added": "2026-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Stucco",
+      "url": "https://open.spotify.com/track/560L6IO6A8iixbYlpHztzQ"
     },
     {
       "album": {

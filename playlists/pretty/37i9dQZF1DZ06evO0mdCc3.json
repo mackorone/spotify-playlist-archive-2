@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16381,
+  "num_followers": 16386,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACigi3ATO64W4fp6hJTuDAJ",
+  "snapshot_id": "ai9AgAAAAAA9Fq3UTdgfHeQbEJVzRUVm",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 204004,
-      "name": "Funeral For Yesterday",
-      "url": "https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv"
+      "duration_ms": 171773,
+      "name": "We Are The Lamb",
+      "url": "https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "We Are The Lamb",
-      "url": "https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funeral For Yesterday",
         "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
       },
@@ -548,9 +532,25 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 191024,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec"
+      "duration_ms": 204004,
+      "name": "Funeral For Yesterday",
+      "url": "https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "I've Failed You",
+      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 131853,
-      "name": "I've Failed You",
-      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
+      "duration_ms": 191024,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec"
     },
     {
       "added_at": null,
@@ -615,6 +615,38 @@
       "duration_ms": 172334,
       "name": "Brackish (Live)",
       "url": "https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,
@@ -651,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funeral For Yesterday",
         "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 194027,
       "name": "Will To Live",
       "url": "https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,

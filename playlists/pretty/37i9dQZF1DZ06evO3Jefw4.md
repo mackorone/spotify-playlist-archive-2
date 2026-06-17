@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,204 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,273 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 6 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 |
 | 7 | [Harleys In Hawaii](https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:05 |
 | 8 | [Unconditionally](https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:48 |
-| 9 | [Hot N Cold](https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 3:40 |
+| 9 | [Thinking Of You](https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8) | 4:06 |
 | 10 | [Firework](https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 |
 | 11 | [Part Of Me](https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:36 |
 | 12 | [Roar](https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:43 |
-| 13 | [Thinking Of You](https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8) | 4:06 |
+| 13 | [Hot N Cold](https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 3:40 |
 | 14 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 | 15 | [E.T.](https://open.spotify.com/track/4z8ssgZfs5TzKiO8HaGWXO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:26 |
 | 16 | [Chained To The Rhythm](https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:57 |
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 22 | [If We Ever Meet Again \(Featuring Katy Perry\)](https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Shock Value II](https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H) | 4:52 |
 | 23 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:12 |
 | 24 | [E.T.](https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:49 |
-| 25 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
-| 26 | [STARSTRUKK \(feat\. Katy Perry\)](https://open.spotify.com/track/1hBM2D1ULT3aeKuddSwPsK) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Matt Squire](https://open.spotify.com/artist/3Pk9L2rUT7wj7queJvrlp5) | [WANT \(Deluxe\)](https://open.spotify.com/album/10xgy5KkSpP3prnygQmFoN) | 3:22 |
-| 27 | [365](https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [365](https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA) | 3:01 |
-| 28 | [Thinking Of You \- Acoustic Version](https://open.spotify.com/track/6Xrw10Wcr1PmLXHvJkTxFO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Thinking Of You](https://open.spotify.com/album/10yPrx37K92cz5vrWBR9gA) | 4:51 |
-| 29 | [Rise](https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Rise](https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK) | 3:23 |
-| 30 | [Birthday](https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 |
-| 31 | [WONDER](https://open.spotify.com/track/1nJNqdhKLx2LF01wAtkH8j) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:24 |
+| 25 | [STARSTRUKK \(feat\. Katy Perry\)](https://open.spotify.com/track/1hBM2D1ULT3aeKuddSwPsK) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Matt Squire](https://open.spotify.com/artist/3Pk9L2rUT7wj7queJvrlp5) | [WANT \(Deluxe\)](https://open.spotify.com/album/10xgy5KkSpP3prnygQmFoN) | 3:22 |
+| 26 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
+| 27 | [WONDER](https://open.spotify.com/track/1nJNqdhKLx2LF01wAtkH8j) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:24 |
+| 28 | [365](https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [365](https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA) | 3:01 |
+| 29 | [Thinking Of You \- Acoustic Version](https://open.spotify.com/track/6Xrw10Wcr1PmLXHvJkTxFO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Thinking Of You](https://open.spotify.com/album/10yPrx37K92cz5vrWBR9gA) | 4:51 |
+| 30 | [Rise](https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Rise](https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK) | 3:23 |
+| 31 | [Birthday](https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 |
 | 32 | [Con Calma \- Remix](https://open.spotify.com/track/4au7FRcgZzChASRYu279xH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma \(Remix\)](https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB) | 3:01 |
 | 33 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 |
 | 34 | [Swish Swish](https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 49 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
 | 50 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
 
-Snapshot ID: `ai3vAAAAAADo3W43qDU4NYu5JuSWci62`
+Snapshot ID: `ai9AgAAAAAAKy0UBvnWJMsoQ3+6A9w+7`

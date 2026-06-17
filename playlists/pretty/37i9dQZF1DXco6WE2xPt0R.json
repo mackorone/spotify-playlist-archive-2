@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127832,
+  "num_followers": 127827,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "AAAAAKk8AHFL9olAygb/0hGglpnBx43b",
   "tracks": [
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 186112,
-      "name": "Shoulda Never (feat. USHER)",
-      "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
-    },
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 223666,
       "name": "All That Matters (with Leon Thomas & AZ Chike)",
       "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 186112,
+      "name": "Shoulda Never (feat. USHER)",
+      "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Want Love",
-        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 200791,
-      "name": "Want Love",
-      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 228842,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "Want Love",
+        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 200791,
+      "name": "Want Love",
+      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Die For This",
-        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Die For This",
-      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
         "name": "Forgive To Forget",
         "url": "https://open.spotify.com/album/5cvv3xLqA1vyxf4mGMfO27"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 188424,
       "name": "TOW",
       "url": "https://open.spotify.com/track/2uhInkIfAyWSLpRTwFTldW"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 310809,
-      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
-      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -751,6 +735,22 @@
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 310809,
+      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
+      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
         }
       ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+      "duration_ms": 178085,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
-        "name": "Distant Lover",
-        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
       "artists": [
         {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 178085,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
+      "duration_ms": 225298,
+      "name": "He Will Follow You With His Eyes",
+      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -1095,22 +1111,6 @@
       "duration_ms": 178716,
       "name": "When You Know",
       "url": "https://open.spotify.com/track/0oY74qutz2kdv3mUGthTIX"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 225298,
-      "name": "He Will Follow You With His Eyes",
-      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
     },
     {
       "added_at": "2026-05-22 03:01:25",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-05-22 03:01:25",
       "album": {
+        "name": "Falling or flying",
+        "url": "https://open.spotify.com/album/1hWYt17game3yX5FEa3O7M"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/7uiBtN7MLqQfaclC74DX3J"
+    },
+    {
+      "added_at": "2026-05-22 03:01:25",
+      "album": {
         "name": "Where Love Grows",
         "url": "https://open.spotify.com/album/5lzP8FF6iJ02BZbtcZSnki"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 194233,
       "name": "Love Like This (feat. Phonte & Carmen Rodgers)",
       "url": "https://open.spotify.com/track/7mWAiYyAwKuH2rSmMbmtj6"
-    },
-    {
-      "added_at": "2026-05-22 03:01:25",
-      "album": {
-        "name": "Falling or flying",
-        "url": "https://open.spotify.com/album/1hWYt17game3yX5FEa3O7M"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Falling or flying",
-      "url": "https://open.spotify.com/track/7uiBtN7MLqQfaclC74DX3J"
     },
     {
       "added_at": "2026-05-22 03:01:25",

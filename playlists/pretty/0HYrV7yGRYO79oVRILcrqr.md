@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,843 likes - 146 songs - 9 hr 23 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,844 likes - 150 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,5 +154,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 144 | [Se Fue, Se Fue](https://open.spotify.com/track/0EBgZkRvCbFsHs92iwLU9U) | [The Killing Floors](https://open.spotify.com/artist/3OlsTjvSJp2bUAV3n8vQ9p) | [The Killing Floors](https://open.spotify.com/album/3byCWpzeu4CIXgXu99ghmr) | 2:16 |
 | 145 | [Three Good Motown Puns](https://open.spotify.com/track/52YlgRaJn2bzOeasVwQ1Sr) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Three Good Motown Puns](https://open.spotify.com/album/0rHNfIKgzKZPMRlg57Qfj5) | 3:16 |
 | 146 | [Future \#1 \- 2026 Remix](https://open.spotify.com/track/2koZXrV4sFHisAwTR36H6s) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Future \#1 \(2026 Remix\)](https://open.spotify.com/album/1QshWiDT9xENuvx0yyeVYa) | 3:21 |
+| 147 | [Back 40](https://open.spotify.com/track/0iaNSdzQj8xsukNbny7g5Y) | [PICKLE JUICE](https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS) | [The Whiteroom](https://open.spotify.com/album/5guju2jxu3skCcJqbijGHN) | 3:07 |
+| 148 | [She Calls Me](https://open.spotify.com/track/1iDu1uRfjqlW4Cqt78zAfm) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [She Calls Me](https://open.spotify.com/album/1KN6GFe9o8fOAJDs9EgPV3) | 5:34 |
+| 149 | [La buena estrella](https://open.spotify.com/track/0Ss2sEPUTuebKRm3ar3ow1) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [La buena estrella](https://open.spotify.com/album/3daVrAsJMotf1Yst8qGRC2) | 4:02 |
+| 150 | [What If I told you ?](https://open.spotify.com/track/5p9tGySB7Rd3fvDLAEHvhE) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [What If I told you ?](https://open.spotify.com/album/1FPaYkXAZG65aGw9G4AOzJ) | 5:41 |
 
-Snapshot ID: `AAALuLyAj92GZWXECN9YJoc6mlK5OLoq`
+Snapshot ID: `AAALvGSTbyi++b5pBelayzZhY7I2+BuU`

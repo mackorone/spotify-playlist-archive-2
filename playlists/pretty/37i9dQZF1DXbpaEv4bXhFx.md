@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,192 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,191 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 10 | [You, Clouds, Rain](https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:25 |
 | 11 | [It's Raining](https://open.spotify.com/track/0x3tMyh5OmG7wG4aEq6Xgt) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:33 |
 | 12 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
-| 13 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:05 |
-| 14 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 |
+| 13 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 |
+| 14 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:05 |
 | 15 | [On Rainy Days \(2021\)](https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [On Rainy Days \(2021\)](https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8) | 3:50 |
 | 16 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 |
 | 17 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 34 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 |
 | 35 | [I’ll Hold You Tight](https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [Destined with You \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK) | 3:35 |
 | 36 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
-| 37 | [My Ceiling Disappeared](https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:35 |
-| 38 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 |
+| 37 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 |
+| 38 | [My Ceiling Disappeared](https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:35 |
 | 39 | [빗소리 \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [음악 캠핑 갈래?](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 |
 | 40 | [With an Umbrella \(feat\. EZ Kim\)](https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Burn the Memory](https://open.spotify.com/album/4NFH1QhM6z05Fprr997SDW) | 3:31 |
 | 41 | [Salt Rain](https://open.spotify.com/track/21Zxpp28GSLJIsQujNDQxy) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Chawool](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:36 |

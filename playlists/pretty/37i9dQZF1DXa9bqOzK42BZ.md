@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,808 likes - 102 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,851 likes - 102 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

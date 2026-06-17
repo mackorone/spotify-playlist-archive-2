@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,940 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,953 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,19 +43,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 33 | [El Breve Espacio en Que No Estas](https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Querido Pablo](https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh) | 4:02 |
 | 34 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 |
 | 35 | [Ser humano](https://open.spotify.com/track/2uaF06GGCnO7HzLIHkQqQC) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [Ser humano](https://open.spotify.com/album/5fZ1i6lPNfkaTjd7OZQpHn) | 4:18 |
-| 36 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
-| 37 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
-| 38 | [Quién Me Ha Robado el Mes de Abril](https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [El Hombre Del Traje Gris](https://open.spotify.com/album/0Hf59j4braIFrtH0rFXjwZ) | 4:57 |
-| 39 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
+| 36 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
+| 37 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
+| 38 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
+| 39 | [Quién Me Ha Robado el Mes de Abril](https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [El Hombre Del Traje Gris](https://open.spotify.com/album/0Hf59j4braIFrtH0rFXjwZ) | 4:57 |
 | 40 | [Aunque tú no lo sepas](https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1) | [Enrique Urquijo y Los problemas](https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT) | [Desde Que No Nos Vemos](https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN) | 2:24 |
-| 41 | [Contigo](https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Luna nueva](https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd) | 3:59 |
-| 42 | [Hoy Ten Miedo De Mi](https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Con Cierto Aire a Ti](https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA) | 2:58 |
+| 41 | [Hoy Ten Miedo De Mi](https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Con Cierto Aire a Ti](https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA) | 2:58 |
+| 42 | [Contigo](https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Luna nueva](https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd) | 3:59 |
 | 43 | [Yo no soy esa](https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 2:32 |
 | 44 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
 | 45 | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn) | 6:30 |
 | 46 | [Comiendote a Besos](https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Con Derecho A...](https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA) | 4:01 |
-| 47 | [Carta urgente \(feat\. Abel Pintos\)](https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [8 Lunas](https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll) | 4:20 |
-| 48 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 |
+| 47 | [Siete Vidas](https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Cosas Mias](https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT) | 4:02 |
+| 48 | [Carta urgente \(feat\. Abel Pintos\)](https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [8 Lunas](https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll) | 4:20 |
 | 49 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 1:50 |
 | 50 | [La vida es más compleja de lo que parece](https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 3:08 |
 | 51 | [La Puerta Violeta](https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:22 |

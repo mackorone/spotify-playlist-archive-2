@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1267230,
+  "num_followers": 1267239,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAB6GxIfId7Bu3K9/YMXRiWV",
+  "snapshot_id": "ai9AgAAAAAALBSeaznECfiumv+unjILB",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Innocence (Deluxe)",
-        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Every Breaking Wave",
-      "url": "https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 193520,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Every Breaking Wave",
+      "url": "https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 278053,
-      "name": "Song For Hal",
-      "url": "https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 254200,
       "name": "XXX. FEAT. U2.",
       "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 278053,
+      "name": "Song For Hal",
+      "url": "https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 317466,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/5zAoWUlW6Te34M8n8d3VTy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 227173,
       "name": "Ordinary Love - Extraordinary Mix",
       "url": "https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 317466,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/5zAoWUlW6Te34M8n8d3VTy"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 221373,
-      "name": "Even Better Than The Real Thing",
-      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
+      "duration_ms": 349213,
+      "name": "So Cruel",
+      "url": "https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 349213,
-      "name": "So Cruel",
-      "url": "https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H"
+      "duration_ms": 221373,
+      "name": "Even Better Than The Real Thing",
+      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
     },
     {
       "added_at": null,

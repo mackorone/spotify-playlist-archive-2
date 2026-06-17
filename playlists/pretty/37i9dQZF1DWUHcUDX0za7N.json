@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
-  "num_followers": 82761,
+  "num_followers": 82815,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,26 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
+        "name": "Ijoba",
+        "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Ijoba",
+      "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
       },
@@ -459,22 +479,6 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
         "name": "Dear God",
         "url": "https://open.spotify.com/album/3WlgPk9gJBgxb8NrsZXUnv"
       },
@@ -487,6 +491,22 @@
       "duration_ms": 226666,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/6N93363KAGUQFviDFAmuhz"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -507,26 +527,6 @@
       "duration_ms": 218181,
       "name": "Uzo Ano",
       "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
-        "name": "Ijoba",
-        "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Ijoba",
-      "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
         "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
         "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 209142,
       "name": "Oku",
       "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 170475,
-      "name": "Rules Of Life",
-      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
-      },
-      "artists": [
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 211885,
-      "name": "Moviestar",
-      "url": "https://open.spotify.com/track/4kmGiR8yUvjlf94arvTFLy"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
         "name": "FLAKO",
         "url": "https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 174117,
       "name": "FLAKO",
       "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
+      },
+      "artists": [
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 211885,
+      "name": "Moviestar",
+      "url": "https://open.spotify.com/track/4kmGiR8yUvjlf94arvTFLy"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -971,22 +971,22 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
+        "name": "Many People",
+        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
         }
       ],
-      "duration_ms": 189677,
-      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
+      "duration_ms": 175448,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "Many People",
-        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
+        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
         }
       ],
-      "duration_ms": 175448,
-      "name": "Many People",
-      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
+      "duration_ms": 189677,
+      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
-        "name": "Nkemakonam",
-        "url": "https://open.spotify.com/album/6tM7bFxHXIZutthoWSzILr"
-      },
-      "artists": [
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 239673,
-      "name": "Nkemakonam",
-      "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 137892,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
+        "name": "Nkemakonam",
+        "url": "https://open.spotify.com/album/6tM7bFxHXIZutthoWSzILr"
+      },
+      "artists": [
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 239673,
+      "name": "Nkemakonam",
+      "url": "https://open.spotify.com/track/1khlKmZCPvi0chULb23vWU"
     },
     {
       "added_at": "2026-06-12 00:01:45",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-06-12 00:01:45",
       "album": {
+        "name": "BORN TO BE GREAT",
+        "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 173559,
+      "name": "BORN TO BE GREAT",
+      "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
+    },
+    {
+      "added_at": "2026-06-12 00:01:45",
+      "album": {
         "name": "OBT (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 170526,
       "name": "OBT (feat. BhadBoi OML)",
       "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
-    },
-    {
-      "added_at": "2026-06-12 00:01:45",
-      "album": {
-        "name": "BORN TO BE GREAT",
-        "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 173559,
-      "name": "BORN TO BE GREAT",
-      "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
     },
     {
       "added_at": "2026-06-12 00:01:45",

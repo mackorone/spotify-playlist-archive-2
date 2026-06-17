@@ -1,6 +1,6 @@
 {
   "description": "A  blend of J-pop to soundtrack your perfect matcha moment.",
-  "num_followers": 23796,
+  "num_followers": 23867,
   "original_name": "Matcha J-Pop",
   "owner": {
     "name": "Spotify",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-05-08 10:04:33",
       "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
+    },
+    {
+      "added_at": "2026-05-08 10:04:33",
+      "album": {
         "name": "melt bitter",
         "url": "https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 308146,
       "name": "\u3072\u307e\u308f\u308a\u306e\u7d04\u675f",
       "url": "https://open.spotify.com/track/45jGOHwYKgsRYbAJ8DR61d"
-    },
-    {
-      "added_at": "2026-05-08 10:04:33",
-      "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-05-08 10:04:33",

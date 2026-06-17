@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1246468,
+  "num_followers": 1246589,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-11-20 11:28:56",
       "album": {
-        "name": "Sergio El Bailador",
-        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Sergio el Bailador",
-      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
-    },
-    {
-      "added_at": "2025-11-20 11:28:56",
-      "album": {
         "name": "Un Sentimiento",
         "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 203933,
       "name": "El Bomb\u00f3n",
       "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
+    },
+    {
+      "added_at": "2025-11-20 11:28:56",
+      "album": {
+        "name": "Sergio El Bailador",
+        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Sergio el Bailador",
+      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
     },
     {
       "added_at": "2025-11-20 11:28:56",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-11-20 11:28:56",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
-        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/0FuqABgi0bD219B12xC7Hn"
-    },
-    {
-      "added_at": "2025-11-20 11:28:56",
-      "album": {
         "name": "Para Siempre (20) Exitos",
         "url": "https://open.spotify.com/album/6Vhn8eayljHTmBrptRb9IB"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 276813,
       "name": "Yo Soy Tu Maestro",
       "url": "https://open.spotify.com/track/760Gu5DFBFjADZq5HvCHrR"
+    },
+    {
+      "added_at": "2025-11-20 11:28:56",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/0FuqABgi0bD219B12xC7Hn"
     }
   ],
   "unique_name": "100% Cumbia",

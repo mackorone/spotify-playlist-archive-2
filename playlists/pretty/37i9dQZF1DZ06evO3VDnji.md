@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,805 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,816 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 45 | [Soledad](https://open.spotify.com/track/37mVNCGhOvnjFJ2wQFnNjq) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 4:02 |
 | 46 | [¿QUÉ SUCEDIÓ?](https://open.spotify.com/track/0RO1LmzydqUm7bNLJFiBQo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA DELUXE](https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU) | 4:19 |
 | 47 | [DIME BB](https://open.spotify.com/track/3fGP6nB0UHONOm3PPl6Oqc) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 2:40 |
-| 48 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 |
+| 48 | [HOUSE OF LUX 2](https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 2:25 |
 | 49 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 |
-| 50 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
+| 50 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 |
 
-Snapshot ID: `ai3vAAAAAADH3R0QB0S8d0MwJNY6wa6n`
+Snapshot ID: `ai9AgAAAAACgToYiexQGdwC61NDZ93hL`

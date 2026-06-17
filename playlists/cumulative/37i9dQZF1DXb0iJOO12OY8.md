@@ -4,7 +4,7 @@
 
 > Heia Norge 🇳🇴⚽️🏟️
 
-239 songs - 11 hr 3 min
+241 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [De vil se](https://open.spotify.com/track/4N48lc8wbF6abPhrVyvGiG) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [De vil se](https://open.spotify.com/album/5S7DOGdQyzK2L8vaygEiC8) | 2:20 | 2025-01-16 | 2025-04-04 |
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-18 | 2026-05-29 |
 | [Deja Vu](https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Deja Vu](https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50) | 3:21 | 2025-07-24 | 2025-10-26 |
+| [DET BESTE JEG VET](https://open.spotify.com/track/4QmRpc6tbmlv7ySHyHjVyB) | [KASTEL](https://open.spotify.com/artist/5vrhRQvEWHTO8gPHB4OwN6), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [DET BESTE JEG VET](https://open.spotify.com/album/7iw7oL0VfgjmyZwYw94kui) | 2:55 | 2026-06-16 |  |
 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 | 2025-06-26 | 2026-05-29 |
 | [Dette er livet \(feat\. OnklP\)](https://open.spotify.com/track/07i2PdaFfEclgdsnT4WKEk) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6) | [Dette er livet \(feat\. OnklP\)](https://open.spotify.com/album/5SrPHNFUtPbv5RgRlRe61v) | 2:38 | 2025-06-26 | 2025-08-06 |
 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 | 2025-12-05 |
@@ -177,7 +178,7 @@
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-15 | 2024-08-30 |
 | [Ring meg opp](https://open.spotify.com/track/6CNjrSMafnMTIDqklY7F99) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Ring meg opp](https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P) | 2:12 | 2024-09-19 | 2024-12-08 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-06-27 | 2026-05-29 |
-| [Run It Up](https://open.spotify.com/track/0ANz6ln4aPmnmZLzPz7Zb7) | [Carew](https://open.spotify.com/artist/2teqa2WUJYcNlfrtcpgxrB), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Run It Up](https://open.spotify.com/album/0mNEGhM09RqeU8FwDRJzcL) | 2:17 | 2026-06-12 |  |
+| [Run It Up](https://open.spotify.com/track/0ANz6ln4aPmnmZLzPz7Zb7) | [Carew](https://open.spotify.com/artist/2teqa2WUJYcNlfrtcpgxrB), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Run It Up](https://open.spotify.com/album/0mNEGhM09RqeU8FwDRJzcL) | 2:17 | 2026-06-12 | 2026-06-17 |
 | [Run It Up](https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Run It Up](https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1) | 2:27 | 2024-10-17 | 2026-05-29 |
 | [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 | 2025-07-31 | 2025-10-03 |
 | [Røde Rubin](https://open.spotify.com/track/0Pdi9usvND947TMv869DmN) | [Plaza](https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ) | [Røde Rubin](https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI) | 2:36 | 2024-06-27 | 2024-09-24 |
@@ -234,6 +235,7 @@
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2024-06-27 | 2025-04-20 |
 | [Vestkantvilla](https://open.spotify.com/track/3SHHJUbeOcqef74LsHVkM9) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Vestkantvilla](https://open.spotify.com/album/6hHY52SUkdHlv8tHeckjAX) | 1:52 | 2025-06-19 | 2025-08-08 |
 | [Vi heier på vårt lille land](https://open.spotify.com/track/3GiuNkNyJIY80035FKGqJP) | [Ståles menn](https://open.spotify.com/artist/7jdPqVIVJ9kb4u4JT5v3VX), [Andreas Gjefle](https://open.spotify.com/artist/0Bu6xDBv66W7kMNQf9Gs9d) | [Alt for Norge / Vi heier på vårt lille land](https://open.spotify.com/album/6Qg9Bgr5pZT9BT0ufN2Ms7) | 2:42 | 2026-05-28 |  |
+| [Vikingblod](https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co) | [Oljeberget](https://open.spotify.com/artist/2fpiU89XxYeTRcnPtuEBip), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Vikingblod](https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1) | 2:42 | 2026-06-16 |  |
 | [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-01-16 | 2025-10-14 |
 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 | 2024-06-27 | 2026-05-29 |
 | [VIS MEG DIN VERDEN](https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-10-24 | 2026-02-13 |

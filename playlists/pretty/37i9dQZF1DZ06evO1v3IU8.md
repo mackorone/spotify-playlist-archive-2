@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 
 > This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367,306 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367,337 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 34 | [La Mejor Versión De Mí](https://open.spotify.com/track/36V82ZTiFqW21W8UTzkloN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 2:48 |
 | 35 | [Tu Perfume](https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Perfume](https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM) | 2:54 |
 | 36 | [Se Podria Decir](https://open.spotify.com/track/5VbucfTj1hPH1Kpvs6uLqy) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:24 |
-| 37 | [Pensé En Ti](https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pensé En Ti](https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe) | 2:32 |
-| 38 | [De Ti Enamorado](https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 3:25 |
+| 37 | [De Ti Enamorado](https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 3:25 |
+| 38 | [Pensé En Ti](https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pensé En Ti](https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe) | 2:32 |
 | 39 | [Me Gusta Tu Vieja](https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:07 |
 | 40 | [Es Tuyo Mi Amor](https://open.spotify.com/track/3Tshb8DCw7TEdnNMJc8Yuw) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 2:57 |
 | 41 | [Nos Extraño \(En Vivo\)](https://open.spotify.com/track/0mCdGgntnPIE6RWueVSwyV) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 49 | [No Me Pidas Un Tiempo](https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [No Me Pidas Un Tiempo](https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol) | 3:14 |
 | 50 | [Me Cansé](https://open.spotify.com/track/3m9Kp9oZxrCQYDeaqBfWsz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:43 |
 
-Snapshot ID: `ai3vAAAAAACU+QWtVQVOgZVI8xZH03/f`
+Snapshot ID: `ai9AgAAAAADTZnOfQ+og8K+vwXpcZA9D`

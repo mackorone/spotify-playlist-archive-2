@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Tianyao Lyu
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,361 likes - 95 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,342 likes - 95 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

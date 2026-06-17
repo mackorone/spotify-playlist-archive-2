@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,108 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,111 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 11 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 | 12 | [Bien Te Va \- Remix](https://open.spotify.com/track/1PeITRaQFJKNiktyS5Va5C) | [Nyquest](https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH), [fedesttar](https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy), [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [Sobrepensar](https://open.spotify.com/album/79MhWLoHmjfJNeYGervTt5) | 2:38 |
 | 13 | [No Estoy](https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [No Estoy](https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL) | 1:53 |
-| 14 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 |
-| 15 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
+| 14 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
+| 15 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 |
 | 16 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 |
 | 17 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |
 | 18 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 57 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 |
 | 58 | [X Ti Lo Digo](https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [X Ti Lo Digo](https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM) | 3:11 |
 | 59 | [Chakaleo](https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI) | [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Chakaleo](https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz) | 3:03 |
-| 60 | [Más Papel](https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7) | [Axel Guerra](https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo), [Castro Angel](https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr) | [Más Papel](https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1) | 2:32 |
+| 60 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 
 Snapshot ID: `AAAAABE69jK4HKFjcNEnfNirvojHFFSa`

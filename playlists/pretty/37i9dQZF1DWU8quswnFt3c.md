@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,417 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,229 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 14 | [Deedar De](https://open.spotify.com/track/5SCpszC2xg7sF0S6PE3TL1) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Krishna](https://open.spotify.com/artist/5qG25VRsnLdydJTj1VGZSk) | [Dus](https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX) | 4:25 |
 | 15 | [Wish I Didn't](https://open.spotify.com/track/2qX8A5UFLm1cKUuB229jl3) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:29 |
 | 16 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
-| 17 | [Carry the Weight](https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator \(Deluxe\)](https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr) | 3:09 |
-| 18 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
+| 17 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
+| 18 | [Carry the Weight](https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator \(Deluxe\)](https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr) | 3:09 |
 | 19 | [Perdón si no te llamé](https://open.spotify.com/track/6ro7G0r7NwAGpg1ooa8hIi) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Perdón si no te llamé](https://open.spotify.com/album/4ZU0IrkV79sXI6RmXlshbX) | 2:49 |
 | 20 | [陪你到這](https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [陪你到這](https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz) | 3:52 |
 | 21 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 43 | [Amour Propre](https://open.spotify.com/track/0YviyT90HZHpGqLQDfif2b) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 3:29 |
 | 44 | [深宵便利愛](https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [深宵便利愛](https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ) | 3:19 |
 | 45 | [Berlin](https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:23 |
-| 46 | [Sigui](https://open.spotify.com/track/5i0JVsQOIwqn9LKP29YXh3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Sigui](https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD) | 3:17 |
-| 47 | [Upside Down](https://open.spotify.com/track/71WYq0Dq4VWatUIFDW0jvz) | [SHINJIRO ATAE](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [THIS IS HOW I AM](https://open.spotify.com/album/4GIIgSveSyls13q824SdUy) | 3:02 |
-| 48 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
-| 49 | [ordinary love song](https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Acrobat](https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0) | 2:28 |
+| 46 | [Upside Down](https://open.spotify.com/track/71WYq0Dq4VWatUIFDW0jvz) | [SHINJIRO ATAE](https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF) | [THIS IS HOW I AM](https://open.spotify.com/album/4GIIgSveSyls13q824SdUy) | 3:02 |
+| 47 | [Sigui](https://open.spotify.com/track/5i0JVsQOIwqn9LKP29YXh3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Sigui](https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD) | 3:17 |
+| 48 | [ordinary love song](https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Acrobat](https://open.spotify.com/album/1VLxDl8t4mVEhcyInmnSH0) | 2:28 |
+| 49 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
 | 50 | [setidaknya aku telah mencoba](https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [setidaknya aku telah mencoba](https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn) | 2:54 |
 
 Snapshot ID: `AAAAAFR//jQboCTVaG1D6gMBCho9QyOv`

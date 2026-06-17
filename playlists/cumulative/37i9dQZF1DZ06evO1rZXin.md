@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 7 min
+126 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [El Noah, Noah](https://open.spotify.com/track/4yRDlfMcaAnS10mvjGoxek) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:55 | 2022-08-04 | 2022-08-06 |
 | [El Pobre Caminante](https://open.spotify.com/track/2vqfVIK1VuEGVwoRxnGDWM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:37 | 2024-06-09 | 2025-12-26 |
 | [El Pobre Caminante](https://open.spotify.com/track/7jYexhqsm6ZpasdPFVn4rO) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:39 | 2022-06-02 | 2022-06-04 |
-| [El Tirador](https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:11 | 2022-06-01 |  |
+| [El Tirador](https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:11 | 2022-06-01 | 2026-06-17 |
 | [El Toro Moro](https://open.spotify.com/track/0tJZt6q1eHD7qFcPpRnZ1d) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:24 | 2024-06-18 | 2025-10-02 |
 | [El Toro Moro](https://open.spotify.com/track/3dK0G4fedpTO1yJ7z4WiZk) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 | 2022-06-01 | 2024-06-18 |
 | [El Ultimo Rodeo](https://open.spotify.com/track/41BavIqhW0j16R7w6QCYEg) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:14 | 2022-06-01 | 2023-03-18 |
@@ -113,6 +113,7 @@
 | [Recuerdos](https://open.spotify.com/track/6IqFKEgroCXz9dBWXz3qUe) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [De Tuba Y Acordeon](https://open.spotify.com/album/2L5CrSYs1TPtMi6SebSk0P) | 2:53 | 2022-06-01 | 2023-06-09 |
 | [Regalo Equivocado](https://open.spotify.com/track/757k8ihiJpyRpEYPdY9yk9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Regalo Equivocado](https://open.spotify.com/album/6JOATRxZMwB5ynab1lbmca) | 3:38 | 2023-12-24 | 2023-12-30 |
 | [Rock y Banda](https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 | 2022-06-01 | 2026-03-28 |
+| [Rock y Banda](https://open.spotify.com/track/4LKI5igzAwYmoI6dpIG4yV) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h) | 3:37 | 2026-06-17 |  |
 | [Sangre Mexicana](https://open.spotify.com/track/21AQG7xtw9UdHTH8Yy6pGN) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:07 | 2022-06-01 | 2023-06-09 |
 | [Se Suicidó Un Asesino](https://open.spotify.com/track/7rOmlSpOz4c2NGVGmGuGiA) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 2:55 | 2024-06-04 | 2024-06-07 |
 | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/track/31da0q3cqam9HPhatn9C9A) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Si No Estás Tú \(Black Is Black\)](https://open.spotify.com/album/2ROfbD4W4CGTbpNvmX3r9T) | 3:04 | 2024-03-23 | 2025-08-05 |

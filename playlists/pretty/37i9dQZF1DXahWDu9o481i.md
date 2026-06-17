@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Alvaro Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,997 likes - 63 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,037 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 15 | [Return To Bhibo](https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Return To Bhibo](https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc) | 2:37 |
 | 16 | [Motion Party \(Remix\)](https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Motion Party \(Remix\)](https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ) | 2:36 |
 | 17 | [Smoke](https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Smoke](https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe) | 2:30 |
-| 18 | [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 |
-| 19 | [Mad About It](https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Mad About It](https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR) | 2:37 |
+| 18 | [Mad About It](https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Mad About It](https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR) | 2:37 |
+| 19 | [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 |
 | 20 | [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 |
 | 21 | [White Flag](https://open.spotify.com/track/2CuM7FRomNSgZVF6QV5uLo) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [White Flag](https://open.spotify.com/album/7gKMZSHTgUjLN32eMPFeXa) | 2:34 |
 | 22 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 54 | [JACKIE'S BACK](https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8) | [ASHMOOR](https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8) | [JACKIE'S BACK](https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI) | 2:39 |
 | 55 | [Stoner Music](https://open.spotify.com/track/6CRcnYpkrVGZ4rCOskOelE) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Stoner Music](https://open.spotify.com/album/2TjTiFkPnKmjWg5xaJT3OA) | 1:58 |
 | 56 | [Long Gone](https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Long Gone](https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN) | 3:44 |
-| 57 | [So True](https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [So True](https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt) | 2:43 |
-| 58 | [Sekete](https://open.spotify.com/track/2PqPTeBqrzY3dEHie9rSvU) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Swordman Kitala](https://open.spotify.com/artist/58JJJyz6aYl9nRkTWSzH1c) | [Sekete](https://open.spotify.com/album/1vFPEZJWV5hNVsaMORHPi1) | 3:04 |
+| 57 | [Sekete](https://open.spotify.com/track/2PqPTeBqrzY3dEHie9rSvU) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Swordman Kitala](https://open.spotify.com/artist/58JJJyz6aYl9nRkTWSzH1c) | [Sekete](https://open.spotify.com/album/1vFPEZJWV5hNVsaMORHPi1) | 3:04 |
+| 58 | [So True](https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [So True](https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt) | 2:43 |
 | 59 | [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 |
-| 60 | [Under the Same Sky](https://open.spotify.com/track/062Rh6vIMkwEuksiWF6sKC) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [Under the Same Sky](https://open.spotify.com/album/3t7pBbQPmteNiZnpbBrK77) | 3:14 |
-| 61 | [Makwande](https://open.spotify.com/track/2R1HELgpU9wWWGDkM4upw5) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5) | [Loud Bloom](https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL) | 5:30 |
+| 60 | [Makwande](https://open.spotify.com/track/2R1HELgpU9wWWGDkM4upw5) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5) | [Loud Bloom](https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL) | 5:30 |
+| 61 | [Under the Same Sky](https://open.spotify.com/track/062Rh6vIMkwEuksiWF6sKC) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [Under the Same Sky](https://open.spotify.com/album/3t7pBbQPmteNiZnpbBrK77) | 3:14 |
 | 62 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
 | 63 | [Hangzhou Flower Garden](https://open.spotify.com/track/0pKlK8Xm9bxFd5jP5Z9Urm) | [Devin Daniels](https://open.spotify.com/artist/4HPiRHS9kbeZNlSFPC7gWu), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [VS.](https://open.spotify.com/album/1kpRXxbunFUJU5GZkRqYEG) | 6:48 |
 

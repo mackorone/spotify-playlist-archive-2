@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166377,
+  "num_followers": 166372,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 191018,
-      "name": "Qu\u00e9 Pasar\u00eda...",
-      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 162995,
+      "name": "Bluest Flame",
+      "url": "https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Changes (Live From Villa Park) Back To The Beginning (feat. Nuno Bettencourt, Frank Bello, Adam Wakeman, II)",
         "url": "https://open.spotify.com/album/2mbhC8oNvDt3KCM4kY37Ky"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 340359,
       "name": "Changes (Live From Villa Park) Back To The Beginning (feat. Nuno Bettencourt, Frank Bello, Adam Wakeman, II)",
       "url": "https://open.spotify.com/track/5yriBaBAgiRDoTVVWazMuv"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 162995,
-      "name": "Bluest Flame",
-      "url": "https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 408690,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 225763,
       "name": "Wholeheartedly (with Ty Dolla $ign & 6LACK)",
       "url": "https://open.spotify.com/track/314sW8ZsMHGiYkn2fAOW9e"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Songs Of A Lost World",
-        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 408690,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
     },
     {
       "added_at": "2025-11-12 17:50:29",

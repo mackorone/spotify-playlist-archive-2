@@ -12958,7 +12958,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -26026,7 +26026,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 206360,
       "name": "Hava Nagila",
       "url": "https://open.spotify.com/track/0FRwqcOhrijgeT4yJHyoVC"
@@ -31114,7 +31114,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -34799,6 +34799,24 @@
     },
     {
       "album": {
+        "name": "Like Like Hollywood",
+        "url": "https://open.spotify.com/album/4IK9LF9ffoDZAOcw8cQCJ2"
+      },
+      "artists": [
+        {
+          "name": "Hierarchy of the Cave Mutants Records",
+          "url": "https://open.spotify.com/artist/6cXrVplk7cBistHqipFe3a"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Like Like Hollywood",
+      "url": "https://open.spotify.com/track/5GxIR2yvmCu26gdqtZ1JKF"
+    },
+    {
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/0VsprqLdVTHu0dMmJW3kHq"
       },
@@ -35030,6 +35048,24 @@
       "duration_ms": 202183,
       "name": "Little Freak",
       "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
+    },
+    {
+      "album": {
+        "name": "Little Light",
+        "url": "https://open.spotify.com/album/4wswFMBs1aeGKbwU0yTbdD"
+      },
+      "artists": [
+        {
+          "name": "Ruebi",
+          "url": "https://open.spotify.com/artist/0M7Fjef4dLBwOI6Akb8kh9"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Little Light",
+      "url": "https://open.spotify.com/track/7hvgu0BmSQoqnIt0tkBdHt"
     },
     {
       "album": {
@@ -36028,7 +36064,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "LOVE YOU",
       "url": "https://open.spotify.com/track/0SYGJCm9PpTvO7g14EZQex"
@@ -36806,7 +36842,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 240100,
       "name": "maggots for brains",
       "url": "https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI"
@@ -37456,7 +37492,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -40926,7 +40962,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -41668,7 +41704,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 153779,
       "name": "m\u00e9li-m\u00e9lo",
       "url": "https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE"
@@ -42814,7 +42850,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 191402,
       "name": "No Mesmo Lugar",
       "url": "https://open.spotify.com/track/1mdW2ieN6VWyoIQxJIlzuT"
@@ -45108,7 +45144,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -50824,7 +50860,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -55770,7 +55806,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 131563,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
@@ -60404,7 +60440,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -60762,7 +60798,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -69601,6 +69637,40 @@
     },
     {
       "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179640,
+      "name": "\u00c0 l'aise",
+      "url": "https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo"
+    },
+    {
+      "album": {
         "name": "Chambre 140 (Part.1)",
         "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
       },
@@ -69890,7 +69960,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 202708,
       "name": "\u0e0a\u0e49\u0e32\u0e0a\u0e49\u0e32 (CHA CHA)",
       "url": "https://open.spotify.com/track/2885sIcSfF5cDdPv70x3l5"

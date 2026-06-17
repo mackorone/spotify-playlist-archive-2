@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 213726,
+  "num_followers": 213741,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAuivBQaJ8oM4He7FdCpDXJ",
+  "snapshot_id": "ai9AgAAAAABPSvIHbTd/4Sd44mHhDasF",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "Eras T\u00fa",
-      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Origen Y Esencia",
         "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 233586,
       "name": "El Anhelo de Mi Voz",
       "url": "https://open.spotify.com/track/60dUV3Tt4lpU5ghaIIFKA6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Eras T\u00fa",
+      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soplando Vida",
+        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Brilla",
+      "url": "https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encontrarme Contigo",
         "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 255960,
       "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
       "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soplando Vida",
-        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Brilla",
-      "url": "https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86"
     }
   ],
   "unique_name": "This Is Jes\u00fas Adri\u00e1n Romero",

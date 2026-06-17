@@ -2,9 +2,9 @@
 
 ### [Transcend](https://open.spotify.com/playlist/37i9dQZF1DWViyN2b86Qnu)
 
-> Incredible tracks from trans, non\-binary, and gender\-fluid artists\. Cover: Beverly Glenn\-Copeland, Sam Smith
+> Incredible tracks from trans, non\-binary, and gender\-fluid artists\. Cover: Beverly Glenn\-Copeland
 
-307 songs - 17 hr 26 min
+310 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [angel rock](https://open.spotify.com/track/32njoCIl5eqq3rv12cS588) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [angel rock](https://open.spotify.com/album/2NboJlXBlKcA1Cx2i5kNOS) | 3:24 | 2021-10-05 | 2023-01-24 |
 | [Ava Gardner](https://open.spotify.com/track/4aa9ieeEzzXVwbzN5rqb97) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Ava Gardner](https://open.spotify.com/album/5JH6bZ2dUP82VeLsWnAXI5) | 2:53 | 2024-03-30 |  |
 | [Baby Back](https://open.spotify.com/track/2Yg9vhkhktou9eADbsxF2L) | [Randa](https://open.spotify.com/artist/2XwPmktVwkeMCmxtpd3EKL) | [Baby Back](https://open.spotify.com/album/5LNSjHFDjAubP4JrdvSheE) | 2:50 | 2022-02-20 | 2023-01-24 |
-| [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 | 2024-03-30 |  |
+| [Backseat Girl](https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0rsCXQ9QyrLaTc2a5fvsZR) | 6:00 | 2024-03-30 | 2026-06-17 |
 | [BAD](https://open.spotify.com/track/2fv6RtYYHCg4qdlAAXePkM) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [BAD](https://open.spotify.com/album/6fLH6vOljGjdAygO4qJ9PA) | 2:38 | 2024-05-31 |  |
 | [BASHBACK!](https://open.spotify.com/track/24OAMfjRPl2lgUmnfXdcqD) | [Freddie](https://open.spotify.com/artist/6AiidoqL85n3AcQhXvrkoK) | [BASHBACK!](https://open.spotify.com/album/0f4Gd8ulc5hE6BLow3w4Ea) | 1:33 | 2021-10-05 | 2023-04-01 |
 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 | 2023-05-30 | 2024-03-31 |
@@ -67,10 +67,11 @@
 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 | 2021-10-05 | 2022-07-15 |
 | [Cuero](https://open.spotify.com/track/6VylQ9FYNpKX2buDhXOql0) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Cuero](https://open.spotify.com/album/1WhwBtpQcnsbwwIvte1ORf) | 2:45 | 2024-03-30 |  |
 | [Cuntelectual](https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 2:11 | 2024-03-30 |  |
+| [Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:50 | 2026-06-16 |  |
 | [Danke Schoen](https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71) | 2:38 | 2023-02-17 | 2024-03-31 |
 | [Darkness \(Lonelyspeck remix\)](https://open.spotify.com/track/2IJsJMnFJtMzj6oeN23g1R) | [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Urdata](https://open.spotify.com/album/6i6yQB0bedTRrDOEZ3hxwn) | 2:22 | 2022-07-14 | 2023-04-01 |
 | [Darkness \(Lonelyspeck remix\)](https://open.spotify.com/track/58oFYXpLyrZIZWVmHaCxzp) | [Katie Dey](https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Urdata](https://open.spotify.com/album/4qRxDvzoIZKNuv6FgYno6v) | 2:22 | 2021-10-05 | 2022-07-29 |
-| [Day After A Night With U](https://open.spotify.com/track/3DcA0YYvdn4UE4kRsJT2XF) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/7dmFfEthXGsbthYMQCcrNG) | 5:59 | 2024-03-31 |  |
+| [Day After A Night With U](https://open.spotify.com/track/3DcA0YYvdn4UE4kRsJT2XF) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/7dmFfEthXGsbthYMQCcrNG) | 5:59 | 2024-03-31 | 2026-06-17 |
 | [Day After A Night With U](https://open.spotify.com/track/3K2fuhmE5ZS7gL717nJGlN) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Day After A Night With U / Stars & Water](https://open.spotify.com/album/4nUTzJAy2s8e9TLt3f0mMx) | 5:59 | 2024-03-30 | 2024-04-19 |
 | [deadname](https://open.spotify.com/track/4GDoSxigoOM1wRsCOXfWar) | [Peach Rings](https://open.spotify.com/artist/5UGmBYowEIxtN1QFckaXPj) | [October Again](https://open.spotify.com/album/7oddffjRwjL82BQ13lZsA6) | 4:04 | 2022-03-04 | 2024-03-31 |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-02-17 | 2023-04-01 |
@@ -95,7 +96,7 @@
 | [Fantasy](https://open.spotify.com/track/2VsXHMPqxlNSiBxGpnTonj) | [Hybrid Rose](https://open.spotify.com/artist/6g9srM4oiVgpBWWeo7646l) | [Fantasy](https://open.spotify.com/album/77EOOYgfbCXuim4DMwmTCL) | 3:55 | 2022-04-13 | 2024-03-22 |
 | [Fantasy](https://open.spotify.com/track/4DJ1QpsMgTZ39mXvEXCwPb) | [Hybrid Rose](https://open.spotify.com/artist/6g9srM4oiVgpBWWeo7646l) | [HyperKunt](https://open.spotify.com/album/4HyrGoQqRNPfrTeELl7uP0) | 3:55 | 2023-09-14 | 2024-03-31 |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2021-10-05 | 2023-02-18 |
-| [Flirting with Her](https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:50 | 2024-03-30 |  |
+| [Flirting with Her](https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:50 | 2024-03-30 | 2026-06-17 |
 | [Flor de piel](https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Flor de piel](https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu) | 2:35 | 2023-03-31 | 2024-03-31 |
 | [Fly High](https://open.spotify.com/track/6UXeq2SPZ8M5DqHX5v86wf) | [Miss Blanks](https://open.spotify.com/artist/7xPJDMuqW0ITwWQ4gGNxup) | [Fly High](https://open.spotify.com/album/2i5v1MxdbmDS5uoi2Ootnr) | 2:41 | 2021-10-05 | 2022-04-14 |
 | [Foi Mal](https://open.spotify.com/track/3HyDXfYR2Q4y3kc9UnjAuJ) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA PT1](https://open.spotify.com/album/3vd866Wmu5RHmtuKk0YoCZ) | 2:45 | 2021-10-05 | 2023-04-01 |
@@ -167,6 +168,7 @@
 | [let them know they're on your mind](https://open.spotify.com/track/4vnGPRXFANbpqKfhBYuntT) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [little vice](https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl) | 3:43 | 2024-03-30 | 2024-06-01 |
 | [Let Yourself Go!](https://open.spotify.com/track/7f2cK2TS5SL2yqsJgqMwV1) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Dreams Of A Dancefloor EP](https://open.spotify.com/album/5nQWnGTyv8hPti6XkHKdZ4) | 4:43 | 2023-09-14 | 2024-03-31 |
 | [Life Goes On](https://open.spotify.com/track/20iykucq4850X9MMIm7PBY) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:38 | 2021-10-05 | 2022-02-21 |
+| [Light Of The Heavens](https://open.spotify.com/track/42VTCKgALNn0JY0dbHK7N6) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Light Of The Heavens](https://open.spotify.com/album/08Pga6zM9YGDM5iQDAK2wu) | 7:21 | 2026-06-16 |  |
 | [Lili](https://open.spotify.com/track/38zhkcKqpewDo3MrMF2G0E) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 4:19 | 2023-03-31 | 2024-03-31 |
 | [Limited Edition](https://open.spotify.com/track/3H8CEn5xN6Wjo7NJPukcsx) | [Simona Castricum](https://open.spotify.com/artist/0eNPmXReFLJMJVh1sJ1SIv) | [Limited Edition](https://open.spotify.com/album/5dZuzZiVVhZXMoJXMXv6LH) | 4:42 | 2023-05-30 | 2024-03-31 |
 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/3aWWm6V15SPqSgdxtyRM2I) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:41 | 2023-01-23 | 2023-04-01 |
@@ -282,6 +284,7 @@
 | [The Art Of Starting Over](https://open.spotify.com/track/0Xnczz6WOco9RiC6NyPsat) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 2:47 | 2022-02-20 | 2023-01-24 |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-03-30 | 2025-05-31 |
 | [The Future is Female](https://open.spotify.com/track/4QRqYAX5SP1DmXESnxanmr) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Voices](https://open.spotify.com/album/5l9seKsDpX6RCaJrPDTfKF) | 3:55 | 2021-10-05 | 2022-02-21 |
+| [The Peace](https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 2:49 | 2026-06-16 |  |
 | [THE WAY IT WAS](https://open.spotify.com/track/094rsWrIFSy88FRwqOTXFZ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:17 | 2022-02-20 | 2022-09-16 |
 | [THE WAY IT WAS](https://open.spotify.com/track/0XSfuhUFGOsEDjZX9I4BYN) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:17 | 2022-07-14 | 2023-01-24 |
 | [THE WAY IT WAS](https://open.spotify.com/track/4wRZZAoBoLXpG9BvMrQSQI) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN : vol 2](https://open.spotify.com/album/3fUEakbFshQVhPIvdKnguJ) | 3:17 | 2022-07-14 | 2022-11-13 |

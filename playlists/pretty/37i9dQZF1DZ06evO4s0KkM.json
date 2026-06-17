@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 126657,
+  "num_followers": 126658,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAfeJ2vZbpdg3QDkLCJxloN",
+  "snapshot_id": "ai9AgAAAAAA3EL7RUxm1LAqPqUN2VUGB",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Loud, Sing Proud",
-        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "The Gauntlet",
-      "url": "https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 153600,
       "name": "Boys on the Docks",
       "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "The Gauntlet",
+      "url": "https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Meanest of Times (Limited Edition)",
+        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "God Willing",
+      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The People (Expanded Edition)",
         "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest of Times (Limited Edition)",
-        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "God Willing",
-      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 231655,
       "name": "Queen Of Suffolk County",
       "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 173897,
-      "name": "The Big Man",
-      "url": "https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS"
     },
     {
       "added_at": null,
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New England Forever",
-        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 191415,
-      "name": "Always By My Side",
-      "url": "https://open.spotify.com/track/11DE0wxMteUTBf7e6OfQkE"
+      "duration_ms": 173897,
+      "name": "The Big Man",
+      "url": "https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 205613,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New England Forever",
+        "url": "https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 191415,
+      "name": "Always By My Side",
+      "url": "https://open.spotify.com/track/11DE0wxMteUTBf7e6OfQkE"
     },
     {
       "added_at": null,

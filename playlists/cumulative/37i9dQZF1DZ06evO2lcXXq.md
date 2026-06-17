@@ -4,7 +4,7 @@
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 44 min
+89 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Inevitable](https://open.spotify.com/track/7l4u4dXMdXo88bq7pgbmgo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 2:40 | 2024-06-12 | 2024-06-22 |
 | [Inherited](https://open.spotify.com/track/0YZ2M06JWJKYFanYCZfXLQ) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:08 | 2026-02-25 |  |
 | [Interlude \#2](https://open.spotify.com/track/2gP165raFMuizgrUh5ymNG) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 0:53 | 2025-10-05 | 2026-02-27 |
-| [It Is Well](https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [North Point Music: Beginnings](https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA) | 4:10 | 2023-03-10 |  |
+| [It Is Well](https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [North Point Music: Beginnings](https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA) | 4:10 | 2023-03-10 | 2026-06-17 |
+| [It Is Well](https://open.spotify.com/track/3tL3RBw97ctKUpOuEkvBfI) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Beginnings](https://open.spotify.com/album/5fq1eSTkR1SnwZj5fJGBHB) | 4:10 | 2026-06-17 |  |
 | [Kaleidoscope Jesus](https://open.spotify.com/track/0djgZ44VjoYzAk67eMLBLk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:54 | 2024-06-23 |  |
 | [Let It Be A Hallelujah](https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Let It Be A Hallelujah](https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc) | 3:58 | 2025-08-03 |  |
 | [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 | 2023-03-13 | 2025-12-03 |

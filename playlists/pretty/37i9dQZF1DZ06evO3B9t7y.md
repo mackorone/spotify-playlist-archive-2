@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,361 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,537 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 36 | [En Otra Vida \- Con Carin Leon](https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [En Otra Vida \- Con Carin Leon](https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ) | 2:30 |
 | 37 | [Doliendo Bastante](https://open.spotify.com/track/1HRXCIvIgKbNMNu9qZQuP0) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:45 |
 | 38 | [Guaro \(Remix\)](https://open.spotify.com/track/5sMHuOIvtsSuFZafTcF19Q) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq) | 3:42 |
-| 39 | [Como De Sol A Sol](https://open.spotify.com/track/74yeYD6XNdGWGb2FeihqCa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 2:02 |
-| 40 | [⁠1](https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:39 |
+| 39 | [⁠1](https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:39 |
+| 40 | [Como De Sol A Sol](https://open.spotify.com/track/74yeYD6XNdGWGb2FeihqCa) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 2:02 |
 | 41 | [Ruca](https://open.spotify.com/track/7lTzzQWLu79UVztchgFAMR) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:01 |
 | 42 | [De Compas](https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:45 |
 | 43 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 49 | [Entregame Tu Amor \(En Vivo\)](https://open.spotify.com/track/1lqFHuu7RlnccwOMMpL0oB) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 4:41 |
 | 50 | [Otra como tú \(feat\. Carín León\)](https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 4:21 |
 
-Snapshot ID: `ai3vAAAAAABQ21eMNYrNPSNaE3HMkKt0`
+Snapshot ID: `ai9AgAAAAACIk7I3nvT/WwGgXMnip0yT`

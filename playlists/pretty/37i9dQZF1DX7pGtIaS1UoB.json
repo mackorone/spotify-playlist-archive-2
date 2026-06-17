@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 101600,
+  "num_followers": 101597,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 177757,
-      "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u624d\u83ef\u63db\u6843\u82b1",
         "url": "https://open.spotify.com/album/2zlOVnOj1NYHYqXVt5FlaD"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 217346,
       "name": "\u9760\u5f88\u8fd1",
       "url": "https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 177757,
+      "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u5b98\u5ba3",
-        "url": "https://open.spotify.com/album/13B0fljkWc7JaiSm3M3J4R"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u970f",
-          "url": "https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4"
-        }
-      ],
-      "duration_ms": 169301,
-      "name": "\u5b98\u5ba3",
-      "url": "https://open.spotify.com/track/2PJdqbmvMlwmvCKvXbS0x3"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u7f8e\u4e3d\u7684\u59b3",
         "url": "https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u5b98\u5ba3",
+        "url": "https://open.spotify.com/album/13B0fljkWc7JaiSm3M3J4R"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u970f",
+          "url": "https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4"
+        }
+      ],
+      "duration_ms": 169301,
+      "name": "\u5b98\u5ba3",
+      "url": "https://open.spotify.com/track/2PJdqbmvMlwmvCKvXbS0x3"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
-        "url": "https://open.spotify.com/album/1yjQxzd6YjofGhkGWUIoi5"
-      },
-      "artists": [
-        {
-          "name": "E1and",
-          "url": "https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
-      "url": "https://open.spotify.com/track/1gRipfNXBzH6NeAMvDCuUG"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u505a\u6211\u7684\u8c93",
         "url": "https://open.spotify.com/album/0KjE00V0E6lIsqCbsr7Ukv"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 234315,
       "name": "\u505a\u6211\u7684\u8c93",
       "url": "https://open.spotify.com/track/51XbIeW3UFnpXuJu8gMwK5"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
+        "url": "https://open.spotify.com/album/1yjQxzd6YjofGhkGWUIoi5"
+      },
+      "artists": [
+        {
+          "name": "E1and",
+          "url": "https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "\u7d66\u6211\u4e00\u652f\u821e\u7684\u6642\u9593",
+      "url": "https://open.spotify.com/track/1gRipfNXBzH6NeAMvDCuUG"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
-      },
-      "artists": [
-        {
-          "name": "\u7126\u9081\u5947",
-          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
-        }
-      ],
-      "duration_ms": 250857,
-      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u6211\u559c\u6b61\u4f60",
         "url": "https://open.spotify.com/album/2TbRtoKHcCkt39yb9JBnC6"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 195088,
       "name": "\u6211\u559c\u6b61\u4f60",
       "url": "https://open.spotify.com/track/75EBF5dwgU2w0u4IJtdUI5"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
+      },
+      "artists": [
+        {
+          "name": "\u7126\u9081\u5947",
+          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
+        }
+      ],
+      "duration_ms": 250857,
+      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u6211\u597d\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq"
-      },
-      "artists": [
-        {
-          "name": "\u9ec3\u633a\u744b",
-          "url": "https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u6211\u597d\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u72c2\u611b",
         "url": "https://open.spotify.com/album/33dS3v5pgBdFFdWa19ItzC"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 176000,
       "name": "LIKE IT LOVE IT",
       "url": "https://open.spotify.com/track/2P4cC5FsYLCA5iP6AHZfQG"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u611b\u5b58\u5728",
+        "url": "https://open.spotify.com/album/7zd08ApPXJVrg7bXitxz0f"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u552f\u6953",
+          "url": "https://open.spotify.com/artist/4I6CD3b2KblXRnARGKESwk"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "\u8f49\u89d2\u90a3\u500b\u5973\u5b69 - \u96fb\u8996\u5287\u300e\u5e78\u798f\u9078\u64c7\u984c\u300f\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/0DVNe65MMU4hduuKbBl1HK"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

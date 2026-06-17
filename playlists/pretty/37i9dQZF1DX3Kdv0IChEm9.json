@@ -1,6 +1,6 @@
 {
   "description": "100% cl\u00e1ssicos.",
-  "num_followers": 527416,
+  "num_followers": 527564,
   "original_name": "EDM Hits",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Alors on danse - Radio Edit",
+      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 271426,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Alors on danse - Radio Edit",
-      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "added_at": "2025-01-16 12:30:53",

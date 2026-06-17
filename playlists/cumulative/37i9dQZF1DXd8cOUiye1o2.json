@@ -6487,6 +6487,32 @@
     },
     {
       "album": {
+        "name": "Hua",
+        "url": "https://open.spotify.com/album/70IMPBS1XurUjhRdpxGfYs"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Rocky Khanna",
+          "url": "https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC"
+        },
+        {
+          "name": "Elnaaz Norouzi",
+          "url": "https://open.spotify.com/artist/59l92FFLwKblV1LHUHYw43"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Hua",
+      "url": "https://open.spotify.com/track/7EYRZa6Grck3cCnIEaXLBn"
+    },
+    {
+      "album": {
         "name": "Hum Bas Tere Hain (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5OgC71a6cTPxXm8bM6d7rY"
       },
@@ -7210,8 +7236,8 @@
           "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
         },
         {
-          "name": "Nargis",
-          "url": "https://open.spotify.com/artist/1jzTY2BnWg0xYsBC8RLBIP"
+          "name": "Nargis Teji",
+          "url": "https://open.spotify.com/artist/6rgek99Mjy548jM7aQpBnd"
         },
         {
           "name": "Pooja Tiwari",
@@ -9086,12 +9112,12 @@
       },
       "artists": [
         {
-          "name": "Arjun Iyer",
-          "url": "https://open.spotify.com/artist/5cJfXcI6GTlvjvebwaLEL0"
-        },
-        {
           "name": "Mohit Chauhan",
           "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Arjun Iyer",
+          "url": "https://open.spotify.com/artist/5cJfXcI6GTlvjvebwaLEL0"
         },
         {
           "name": "Christina Andrew",
@@ -9518,6 +9544,32 @@
       "duration_ms": 195107,
       "name": "Kitaab",
       "url": "https://open.spotify.com/track/3lYTzqjJbt9TZAibX8DHO2"
+    },
+    {
+      "album": {
+        "name": "Kitni Gardi Hai (From \"Baby Do Die Do\")",
+        "url": "https://open.spotify.com/album/7GJS4q1YqJ4TNVADOkepJV"
+      },
+      "artists": [
+        {
+          "name": "Arjun Iyer",
+          "url": "https://open.spotify.com/artist/5cJfXcI6GTlvjvebwaLEL0"
+        },
+        {
+          "name": "Christina Andrew",
+          "url": "https://open.spotify.com/artist/6hcmtgDkLhVZ9YuCNMEWRK"
+        },
+        {
+          "name": "WB Sam",
+          "url": "https://open.spotify.com/artist/6oAaxgzg4p9slYVAQ9ZN6Z"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133916,
+      "name": "Kitni Gardi Hai (From \"Baby Do Die Do\")",
+      "url": "https://open.spotify.com/track/5Tc24e8EFwXuFQ7P29viTH"
     },
     {
       "album": {
@@ -10448,7 +10500,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 192157,
       "name": "Mai Na Jaau",
       "url": "https://open.spotify.com/track/3cUpK2czLuOB9BhwBu4LYM"
@@ -11244,7 +11296,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 311046,
       "name": "Mere Humnava",
       "url": "https://open.spotify.com/track/4CebC3MMdxo6LN9urwbTwu"
@@ -12626,7 +12678,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 260307,
       "name": "O Meri Jaan",
       "url": "https://open.spotify.com/track/0vtMRus9nwsu42SsJmVaJK"
@@ -14174,7 +14226,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 186802,
       "name": "Raaz Hai",
       "url": "https://open.spotify.com/track/3qqQlPFCrKjGv66QHUaHbk"
@@ -18495,6 +18547,24 @@
     },
     {
       "album": {
+        "name": "Tum Sa Sahi",
+        "url": "https://open.spotify.com/album/7b7Lec3DOFhzvqIVCfCma4"
+      },
+      "artists": [
+        {
+          "name": "ABHiBERG",
+          "url": "https://open.spotify.com/artist/06BOR0mTjma0Mr0SamYZFq"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237120,
+      "name": "Tum Sa Sahi",
+      "url": "https://open.spotify.com/track/4znhpx2xQD55srafOa8OWR"
+    },
+    {
+      "album": {
         "name": "Tum Se",
         "url": "https://open.spotify.com/album/6Uvvd29SK7zATTBKFRs5mD"
       },
@@ -18510,6 +18580,32 @@
       "duration_ms": 232875,
       "name": "Tum Se",
       "url": "https://open.spotify.com/track/1QNI17b6WjGs8WEfjYMwep"
+    },
+    {
+      "album": {
+        "name": "Tum Yun Mile Ho",
+        "url": "https://open.spotify.com/album/052pSKybwSyiymo8WlFzqR"
+      },
+      "artists": [
+        {
+          "name": "Reet Talwar",
+          "url": "https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153124,
+      "name": "Tum Yun Mile Ho",
+      "url": "https://open.spotify.com/track/7w6sxU9PQT8nJYzqGswOvM"
     },
     {
       "album": {

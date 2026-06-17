@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Nandy
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,576 likes - 59 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,634 likes - 59 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

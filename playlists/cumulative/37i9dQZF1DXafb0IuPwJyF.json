@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u306a\u3068\u308a",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: M!LK",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 165454,
       "name": "3XL",
       "url": "https://open.spotify.com/track/2wPyVJ04PfumGZQ5bJEVVj"
@@ -3746,7 +3746,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 296912,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
@@ -5071,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "Fiction Love",
+        "url": "https://open.spotify.com/album/3ZidxFfbp2Ug4rmqyMMVvu"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195673,
+      "name": "Fiction Love",
+      "url": "https://open.spotify.com/track/7FsaBZwRNWlXVCIgI2QMqL"
+    },
+    {
+      "album": {
         "name": "Fifty's map \uff5e\u304a\u3068\u306a\u306e\u5730\u56f3",
         "url": "https://open.spotify.com/album/2T1C7BX29tDn1rQNtYMnpn"
       },
@@ -6136,6 +6154,24 @@
       "duration_ms": 211800,
       "name": "GOD LOVES YOU feat. AKLO & JP THE WAVY",
       "url": "https://open.spotify.com/track/2BVG9eKQ3KFwoXcPCQH1TC"
+    },
+    {
+      "album": {
+        "name": "No.\u2161",
+        "url": "https://open.spotify.com/album/1AvzdhBuqE4wGroSc978Sj"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215032,
+      "name": "GOD_i",
+      "url": "https://open.spotify.com/track/0burgYTcpItZGiRjvWhJjM"
     },
     {
       "album": {
@@ -7994,7 +8030,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 230453,
       "name": "IDOLPOWER",
       "url": "https://open.spotify.com/track/5LP9UNPCIkgHkh7x1AMHnw"
@@ -8392,7 +8428,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 202052,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
@@ -8594,7 +8630,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 235946,
       "name": "JANE DOE",
       "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
@@ -12126,7 +12162,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 221800,
       "name": "No Epilogue",
       "url": "https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX"
@@ -13328,7 +13364,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 262840,
       "name": "Prema",
       "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
@@ -13520,6 +13556,24 @@
       "duration_ms": 180638,
       "name": "PUMP! feat.chelmico",
       "url": "https://open.spotify.com/track/4qpy0cXQehWHQCNNpMvijC"
+    },
+    {
+      "album": {
+        "name": "Puppet",
+        "url": "https://open.spotify.com/album/1ERh69jnQLIhxEj1Apzk09"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219152,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/2Ajohj72RQn88gA37KbnN8"
     },
     {
       "album": {
@@ -18410,7 +18464,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 186240,
       "name": "Update ME",
       "url": "https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH"
@@ -21788,7 +21842,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 199612,
       "name": "\u3088\u3042\u3051\u306e\u3046\u305f - Yoake no uta",
       "url": "https://open.spotify.com/track/5EiVeDviICNBtdhZwGxp0Z"
@@ -25528,7 +25582,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 191044,
       "name": "\u30dd\u30eb\u30bf\u30fc\u30ac\u30a4\u30b9\u30c8",
       "url": "https://open.spotify.com/track/0qfSmp12gevzvvD3FqaBMP"
@@ -25784,7 +25838,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-17",
       "duration_ms": 189854,
       "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
@@ -28153,6 +28207,24 @@
     },
     {
       "album": {
+        "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
+        "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264520,
+      "name": "\u58f0",
+      "url": "https://open.spotify.com/track/0Jle4qljtCRPsg1b1YV0gJ"
+    },
+    {
+      "album": {
         "name": "\u5909\u308f\u308a\u3086\u304f\u5b63\u7bc0",
         "url": "https://open.spotify.com/album/6thgLBzZtseSIAoz2W1W5k"
       },
@@ -28544,6 +28616,24 @@
       "duration_ms": 170315,
       "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
       "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
+    },
+    {
+      "album": {
+        "name": "\u597d\u304d\u3059\u304e\u3066\u6ec5\uff01",
+        "url": "https://open.spotify.com/album/0MKOqrmzENfaB1FpkZjHp7"
+      },
+      "artists": [
+        {
+          "name": "M!LK",
+          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "\u597d\u304d\u3059\u304e\u3066\u6ec5\uff01",
+      "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
     },
     {
       "album": {
@@ -29062,7 +29152,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 252722,
       "name": "\u602a\u7363",
       "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
@@ -31194,6 +31284,24 @@
       "duration_ms": 213693,
       "name": "\u706f\u3092\u8b77\u308b",
       "url": "https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD"
+    },
+    {
+      "album": {
+        "name": "\u70cf - Raven",
+        "url": "https://open.spotify.com/album/77lHr1rXYAkLjOVkcSXLGH"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248494,
+      "name": "\u70cf - Raven",
+      "url": "https://open.spotify.com/track/5Ij88F5dK7yib1RoNA8wGV"
     },
     {
       "album": {
@@ -33545,6 +33653,24 @@
     },
     {
       "album": {
+        "name": "\u967d\u708e",
+        "url": "https://open.spotify.com/album/1ms0BcyuRXWh5Lx0Py9DWT"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251019,
+      "name": "\u967d\u708e",
+      "url": "https://open.spotify.com/track/3akvArdA47vH3ENrd1Ni2L"
+    },
+    {
+      "album": {
         "name": "\u96a3\u3067",
         "url": "https://open.spotify.com/album/41Btt7aJSTuiB83xuibMT7"
       },
@@ -33798,7 +33924,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"

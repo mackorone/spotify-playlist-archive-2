@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Jonathan Personne
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,745 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,748 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

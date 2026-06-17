@@ -1,6 +1,6 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1425829,
+  "num_followers": 1425963,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Hi, It's Me",
-        "url": "https://open.spotify.com/album/5eKuModdAdZRmc51241r4D"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 167317,
-      "name": "STUPID (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "The Hunger Games: Catching Fire (Original Motion Picture Soundtrack / Deluxe Version)",
         "url": "https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC"
       },
@@ -1575,22 +1555,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Play with Fire (feat. Yacht Money)",
-        "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
+        "name": "Hi, It's Me",
+        "url": "https://open.spotify.com/album/5eKuModdAdZRmc51241r4D"
       },
       "artists": [
         {
-          "name": "Sam Tinnesz",
-          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         },
         {
-          "name": "Yacht Money",
-          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 180690,
-      "name": "Play with Fire (feat. Yacht Money)",
-      "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
+      "duration_ms": 167317,
+      "name": "STUPID (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1639,6 +1619,26 @@
       "duration_ms": 211643,
       "name": "Gladiator",
       "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Play with Fire (feat. Yacht Money)",
+        "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
+      },
+      "artists": [
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        },
+        {
+          "name": "Yacht Money",
+          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+        }
+      ],
+      "duration_ms": 180690,
+      "name": "Play with Fire (feat. Yacht Money)",
+      "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
     },
     {
       "added_at": "2024-04-26 04:00:00",

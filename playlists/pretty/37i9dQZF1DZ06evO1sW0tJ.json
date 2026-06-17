@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 1842,
+  "num_followers": 1847,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAAkJ520+rGO/HgiSSDSfazy",
+  "snapshot_id": "ai9AgAAAAABPsN5K1M2mSV2mMatek3lc",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
-        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
       },
       "artists": [
         {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        },
-        {
           "name": "Clara Schumann",
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Trois romances op.11 Andante",
-      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
+      "duration_ms": 335000,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
       "duration_ms": 51486,
       "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 1",
       "url": "https://open.spotify.com/track/4vdYhdbjUvExe0zKS7PVp0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
-        }
-      ],
-      "duration_ms": 335000,
-      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
-      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
     },
     {
       "added_at": null,
@@ -368,9 +348,29 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         }
       ],
-      "duration_ms": 543306,
-      "name": "Trois romances op.11 Andante-Allegro passionate",
-      "url": "https://open.spotify.com/track/6D6lIDPzXAz1kL5PwlakiM"
+      "duration_ms": 174640,
+      "name": "Trois romances op.11 Andante",
+      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
+        }
+      ],
+      "duration_ms": 307733,
+      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/5h3hOSzD1wn5Kasf9QiLEQ"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
+        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
+        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
       },
       "artists": [
         {
@@ -408,13 +408,33 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
         }
       ],
-      "duration_ms": 307733,
-      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
-      "url": "https://open.spotify.com/track/5h3hOSzD1wn5Kasf9QiLEQ"
+      "duration_ms": 305706,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/1EpgYZP6ytXTxDupr0gfza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
+        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 543306,
+      "name": "Trois romances op.11 Andante-Allegro passionate",
+      "url": "https://open.spotify.com/track/6D6lIDPzXAz1kL5PwlakiM"
     },
     {
       "added_at": null,
@@ -443,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
-        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 305706,
-      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
-      "url": "https://open.spotify.com/track/1EpgYZP6ytXTxDupr0gfza"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 70585,
       "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 6",
       "url": "https://open.spotify.com/track/0hEdWzRxXUdgUT3whyRoCl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
-        }
-      ],
-      "duration_ms": 465160,
-      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
-      "url": "https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py"
     },
     {
       "added_at": null,
@@ -523,6 +503,26 @@
       "duration_ms": 631906,
       "name": "Piano Concerto in A Minor, Op. 7: III. Finale. Allegro non troppo",
       "url": "https://open.spotify.com/track/2nuMDKqYbDnaAK6pqkYwz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
+        }
+      ],
+      "duration_ms": 465160,
+      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
+      "url": "https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
-        }
-      ],
-      "duration_ms": 663133,
-      "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/4A6eSx3diStwvHxkfs9YBO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
         "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 628133,
       "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1iDvTbEI7goxi0frO50MyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
+        }
+      ],
+      "duration_ms": 663133,
+      "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/4A6eSx3diStwvHxkfs9YBO"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quatre Pi\u00e8ces fugitives, Op. 15 (Nr 1 Larghetto)",
-        "url": "https://open.spotify.com/album/27nuasQV8GloG3AWhhYWsl"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Martin Malto",
-          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "Quatre Pi\u00e8ces fugitives, Op. 15 - Nr 1 Larghetto",
-      "url": "https://open.spotify.com/track/7M69Cbc3KVNd5m3Z1wvJVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
         "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 737973,
       "name": "Variations op.20",
       "url": "https://open.spotify.com/track/2uspxzx6IIEmDrqu2FVNl2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quatre Pi\u00e8ces fugitives, Op. 15 (Nr 1 Larghetto)",
+        "url": "https://open.spotify.com/album/27nuasQV8GloG3AWhhYWsl"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Martin Malto",
+          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Quatre Pi\u00e8ces fugitives, Op. 15 - Nr 1 Larghetto",
+      "url": "https://open.spotify.com/track/7M69Cbc3KVNd5m3Z1wvJVV"
     },
     {
       "added_at": null,

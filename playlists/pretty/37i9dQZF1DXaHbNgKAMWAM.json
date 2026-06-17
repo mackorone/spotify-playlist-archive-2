@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20754,
+  "num_followers": 20758,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 237030,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "TRUST ME",
         "url": "https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 172306,
       "name": "LA SOL MI",
       "url": "https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 237030,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "GOOD BOY (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv"
-      },
-      "artists": [
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "Love will find a way",
-      "url": "https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "We'll shine brighter than any other stars (From \"soundtrack#1\" [Original Soundtrack])",
         "url": "https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 229466,
       "name": "We'll shine brighter than any other stars",
       "url": "https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "GOOD BOY (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Love will find a way",
+      "url": "https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o"
     },
     {
       "added_at": "2026-04-21 03:38:48",

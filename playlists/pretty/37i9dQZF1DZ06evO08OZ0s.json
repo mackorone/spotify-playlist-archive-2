@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACRTzpBzeyq2kKsXEHkK2qp",
+  "snapshot_id": "ai9AgAAAAAB5dkoZWkE/x39WpoqSmBP5",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chemical Love",
+        "url": "https://open.spotify.com/album/3d3DI7Pa0sAwOowS30eODY"
+      },
+      "artists": [
+        {
+          "name": "Poylow",
+          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 126490,
+      "name": "Chemical Love",
+      "url": "https://open.spotify.com/track/47Bej2ql7So2t7oRJhcMKy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Remedy",
         "url": "https://open.spotify.com/album/16KynkMBKXCg4XW8kRn62M"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 205182,
       "name": "Selfish (feat. Kelli-Leigh & YOU)",
       "url": "https://open.spotify.com/track/0sbfgeGucib89oZVphmISx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chemical Love",
-        "url": "https://open.spotify.com/album/3d3DI7Pa0sAwOowS30eODY"
-      },
-      "artists": [
-        {
-          "name": "Poylow",
-          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 126490,
-      "name": "Chemical Love",
-      "url": "https://open.spotify.com/track/47Bej2ql7So2t7oRJhcMKy"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/1lzcX94a7KQAHpNotjgrf6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/10m3j296mJ1gPyTtGZ3G7H"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 162234,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/5t4K9H8VjZ8yVeqQTYRWED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/1lzcX94a7KQAHpNotjgrf6"
     },
     {
       "added_at": null,
@@ -1047,22 +1047,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Yes",
-        "url": "https://open.spotify.com/album/5w2EftFnoXlJf6LCTa3hdf"
+        "name": "Can't Dance",
+        "url": "https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy"
       },
       "artists": [
         {
-          "name": "Krystal Roxx",
-          "url": "https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0"
-        },
-        {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "Art Bastian",
+          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
         }
       ],
-      "duration_ms": 210303,
-      "name": "Say Yes - Radio Edit",
-      "url": "https://open.spotify.com/track/7pIOrIvj89Z0fpjQwLZ1Ky"
+      "duration_ms": 166080,
+      "name": "Can't Dance - Club Radio Edit",
+      "url": "https://open.spotify.com/track/2DgETob6WjdoytobSj4uXe"
     }
   ],
   "unique_name": "This Is Kelli-Leigh",

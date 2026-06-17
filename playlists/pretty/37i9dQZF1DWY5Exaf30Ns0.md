@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 
 > compare, prenda el asador que hoy juega mi selección 🇲🇽⚽️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,318,836 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,318,855 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 53 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
 | 54 | [No Te Vayas](https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:26 |
 | 55 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
-| 56 | [Hermosa Experiencia](https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10º Aniversario](https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk) | 2:33 |
-| 57 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
+| 56 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
+| 57 | [Hermosa Experiencia](https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10º Aniversario](https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk) | 2:33 |
 | 58 | [Leña de pirul](https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 2:47 |
 | 59 | [Para Olvidarme De Ti](https://open.spotify.com/track/0XsIp0gnpgz4RkwjBjnu9B) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Fuego Contra Fuego](https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3) | 2:59 |
 | 60 | [Ojitos de Golondrina](https://open.spotify.com/track/3xxVPMCnMoHZhsQlxRztno) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Lo Que La Gente Estaba Esperando](https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm) | 3:16 |

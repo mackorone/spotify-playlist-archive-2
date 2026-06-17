@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,917 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,938 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 53 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 |
 | 54 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
 | 55 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 |
-| 56 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
-| 57 | [Crazily](https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Crazily](https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k) | 2:29 |
+| 56 | [Crazily](https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Crazily](https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k) | 2:29 |
+| 57 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
 | 58 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 |
 | 59 | [STINGY](https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [STINGY](https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V) | 3:40 |
 | 60 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 74 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 |
 | 75 | [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 |
 | 76 | [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 |
-| 77 | [Celine](https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Celine](https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt) | 3:01 |
-| 78 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
+| 77 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
+| 78 | [Celine](https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Celine](https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt) | 3:01 |
 | 79 | [4AM IN MONTPARNASSE](https://open.spotify.com/track/6MNXS2m92WC3CqQbjGHzNV) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [NSE](https://open.spotify.com/artist/55b6kN2JxVjfSA9KeqPvNB) | [4AM IN MONTPARNASSE](https://open.spotify.com/album/3dOQhR3xaAI4pWFrwtry0G) | 2:57 |
 | 80 | [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 |
 

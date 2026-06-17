@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-286 songs - 20 hr 49 min
+287 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,13 +131,14 @@
 | [心願便利貼](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [命中注定我愛你 \(電視原聲帶\)](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 | 2024-02-19 | 2024-03-19 |
 | [快樂崇拜](https://open.spotify.com/track/1Z7y14vSg1Vv772geRfiAN) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0), [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [Wu Ha](https://open.spotify.com/album/4iTeGtAOrglcpzYxhmO9Le) | 3:25 | 2024-02-05 | 2024-09-02 |
 | [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 | 2025-02-17 |  |
-| [思念是一種病](https://open.spotify.com/track/5JaPBs2aQjEfLwM5kVb4jq) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt), [蔡健雅](https://open.spotify.com/artist/2kddrh4vYO09lJ4yqu5hFv) | [OK](https://open.spotify.com/album/25kMDfOmyzEEz7xzL05tOD) | 4:15 | 2024-05-13 |  |
+| [思念是一種病](https://open.spotify.com/track/5JaPBs2aQjEfLwM5kVb4jq) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt), [蔡健雅](https://open.spotify.com/artist/2kddrh4vYO09lJ4yqu5hFv) | [OK](https://open.spotify.com/album/25kMDfOmyzEEz7xzL05tOD) | 4:15 | 2024-05-13 | 2026-06-17 |
 | [恋人未满](https://open.spotify.com/track/1R4nUHJeX005LSpuRakYBD) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [女生宿舍](https://open.spotify.com/album/0MDu8tWIgFWgriPq5NrLoE) | 4:36 | 2024-01-22 | 2024-02-20 |
 | [情歌](https://open.spotify.com/track/5oL7vOxCz2eJKAX6G4Yluh) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [別再為他流淚](https://open.spotify.com/album/46aInqxgXj0syC9RlTghlj) | 4:20 | 2025-02-17 |  |
 | [情非得已](https://open.spotify.com/track/4KBegMBVyHsfC7fPOztTzV) | [Harlem Yu](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) | [海嘯](https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN) | 4:33 | 2025-05-05 |  |
 | [惡作劇](https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:46 | 2024-01-15 |  |
 | [想太多](https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:36 | 2024-10-14 |  |
 | [意猶未盡](https://open.spotify.com/track/15EndpMgcVbrlo89ddQ3Rh) | [William So](https://open.spotify.com/artist/2oK5cSlJAH5s2Kx5e1zcvh), [李彩樺](https://open.spotify.com/artist/5h9F17xJHRZuG0tHc1Qd3l) | [悲傷止步](https://open.spotify.com/album/2avuc4ydaSbKeWz4PcNryL) | 4:05 | 2024-09-16 | 2024-10-14 |
+| [愛 請問怎麼走](https://open.spotify.com/track/2mqHMawyHWU5B5f2wA299P) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [天生歌姬](https://open.spotify.com/album/2V5Kj9W4gcN44senRcoCAV) | 4:26 | 2026-02-09 |  |
 | [愛\*轉角](https://open.spotify.com/track/1TFGynJGpBUBJBoH4AO26g) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [SPESHOW](https://open.spotify.com/album/13QwA3KOFuFzsK9dyE7n7K) | 4:53 | 2024-01-22 | 2024-02-20 |
 | [愛一直閃亮](https://open.spotify.com/track/0PpjWheZ4Dsb3j8OYuXXnM) | [羅美玲](https://open.spotify.com/artist/5B1AaSUIE8FWo6ERw95rLP) | [紅色向日葵](https://open.spotify.com/album/5AxN5TmnZg7OqallJp7Yk5) | 4:04 | 2024-12-09 | 2025-01-06 |
 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 | 2024-03-04 | 2024-04-02 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 325194,
+  "num_followers": 325212,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAAC/hT5v4VrvaPrR55MACrUA",
+  "snapshot_id": "ai9AgAAAAABNOUwTbeop40YUVTDFSUrG",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Leave",
+        "url": "https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loving You / Don't Let Me Go",
         "url": "https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j"
       },
@@ -483,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Leave",
-        "url": "https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
       "artists": [
         {
@@ -492,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 130909,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW"
+      "duration_ms": 191992,
+      "name": "Where Did I Go?",
+      "url": "https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
       "duration_ms": 192800,
       "name": "Greatest Gift (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 191992,
-      "name": "Where Did I Go?",
-      "url": "https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALIK",
-        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Myself (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Myself (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx"
     },
     {
       "added_at": null,

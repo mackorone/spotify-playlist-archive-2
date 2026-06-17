@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Sofie Royer
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,407 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,378 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Flicker \(Faro\)](https://open.spotify.com/track/2OZrgf8j8yC67YQfYfLk70) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm), [Kinnship](https://open.spotify.com/artist/58fzPwxNFw1Ae500uB038l) | [Flicker \(Faro\)](https://open.spotify.com/album/7z5m5BzxgYFOuKDd459k4L) | 3:04 |
 | 75 | [Miss You](https://open.spotify.com/track/4eGcrNAqxDKhwhfeumOocb) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Miss You](https://open.spotify.com/album/5agURY1TW55LXQ8nFYq5HB) | 3:04 |
 
-Snapshot ID: `AAAAAPYDln8Ni/9DrXP6ITt4HiYuj90F`
+Snapshot ID: `AAAAAPVE2mXGpbmaCB+wO2UWw9pbyjFn`

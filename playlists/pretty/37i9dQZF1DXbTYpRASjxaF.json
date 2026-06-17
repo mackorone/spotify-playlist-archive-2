@@ -1,12 +1,12 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: MD Chefe, Maru2D, NandaTsunami\n",
-  "num_followers": 135016,
+  "num_followers": 135021,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMCt9oMa/kgYcpfSn2TCnAF+ML5",
+  "snapshot_id": "AAAAAHv/IhmZqeGkJ+aW2O7jeJpw6ZsR",
   "tracks": [
     {
       "added_at": "2026-06-08 19:55:50",
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-06-08 19:55:50",
       "album": {
+        "name": "MIXTAPE - BIG G",
+        "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 134736,
+      "name": "CORA\u00c7\u00c3O TATUADO",
+      "url": "https://open.spotify.com/track/6Sn3XT0E6OgXeIsdh605ra"
+    },
+    {
+      "added_at": "2026-06-08 19:55:50",
+      "album": {
         "name": "Mentiras pro KayG",
         "url": "https://open.spotify.com/album/7bx8HbegrAyZtelJIDAK94"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 195555,
       "name": "Mentiras pro kayg",
       "url": "https://open.spotify.com/track/7AKo34ACJn6fAdmHNOPdHV"
-    },
-    {
-      "added_at": "2026-06-08 19:55:50",
-      "album": {
-        "name": "MIXTAPE - BIG G",
-        "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 134736,
-      "name": "CORA\u00c7\u00c3O TATUADO",
-      "url": "https://open.spotify.com/track/6Sn3XT0E6OgXeIsdh605ra"
     },
     {
       "added_at": "2026-06-08 19:55:50",
@@ -1103,34 +1103,6 @@
     {
       "added_at": "2026-06-08 19:55:50",
       "album": {
-        "name": "In\u00fatil",
-        "url": "https://open.spotify.com/album/0wa8RlIicoS5JdpyA60GmG"
-      },
-      "artists": [
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "Ryam Beatz",
-          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
-        },
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "DESTRAVALT",
-          "url": "https://open.spotify.com/artist/29IVf7WBMdBDnuI2wuwaiB"
-        }
-      ],
-      "duration_ms": 174867,
-      "name": "In\u00fatil",
-      "url": "https://open.spotify.com/track/3McdMPShOzbysLvMIreGaq"
-    },
-    {
-      "added_at": "2026-06-08 19:55:50",
-      "album": {
         "name": "B\u00caN\u00c7\u00c3OS OU MALDI\u00c7\u00d5ES",
         "url": "https://open.spotify.com/album/31BmAGV92vMcjD8hwvPBUo"
       },
@@ -1155,6 +1127,34 @@
       "duration_ms": 141333,
       "name": "PRE SS\u00c3O",
       "url": "https://open.spotify.com/track/0Of8oYzJxw1oVNnNReoWJb"
+    },
+    {
+      "added_at": "2026-06-08 19:55:50",
+      "album": {
+        "name": "In\u00fatil",
+        "url": "https://open.spotify.com/album/0wa8RlIicoS5JdpyA60GmG"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Ryam Beatz",
+          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
+        },
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "DESTRAVALT",
+          "url": "https://open.spotify.com/artist/29IVf7WBMdBDnuI2wuwaiB"
+        }
+      ],
+      "duration_ms": 174867,
+      "name": "In\u00fatil",
+      "url": "https://open.spotify.com/track/3McdMPShOzbysLvMIreGaq"
     },
     {
       "added_at": "2026-06-08 19:55:50",

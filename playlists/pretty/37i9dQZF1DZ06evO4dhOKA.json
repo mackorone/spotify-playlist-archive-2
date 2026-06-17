@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70125,
+  "num_followers": 70132,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai3vAAAAAACoKXAfeP79zG81F6YmE1L/",
+  "snapshot_id": "ai9AgAAAAABZRU7qHStOyb/t83sdo0om",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Corrido De Los P\u00e9rez",
-      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta El After (En Vivo)",
         "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
@@ -643,26 +627,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
-        "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
       "artists": [
         {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Corrido De Los P\u00e9rez",
+      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+      },
+      "artists": [
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 234827,
-      "name": "El Rey De Mil Coronas (EN VIVO DESDE EL DOMO CARE)",
-      "url": "https://open.spotify.com/track/2VdAtyS9bdUUfZYV0rePEw"
+      "duration_ms": 165960,
+      "name": "A Punto de Marcharme",
+      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
     },
     {
       "added_at": null,
@@ -691,18 +683,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+        "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
+        "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
       },
       "artists": [
         {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 165960,
-      "name": "A Punto de Marcharme",
-      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
+      "duration_ms": 234827,
+      "name": "El Rey De Mil Coronas (EN VIVO DESDE EL DOMO CARE)",
+      "url": "https://open.spotify.com/track/2VdAtyS9bdUUfZYV0rePEw"
     },
     {
       "added_at": null,
@@ -843,18 +843,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
-        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
       "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 193813,
-      "name": "Baraja de Oro",
-      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
+      "duration_ms": 170352,
+      "name": "Sabor De Enga\u00f1o (En Vivo)",
+      "url": "https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K"
     },
     {
       "added_at": null,
@@ -883,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 134000,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 170352,
-      "name": "Sabor De Enga\u00f1o (En Vivo)",
-      "url": "https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K"
     },
     {
       "added_at": null,

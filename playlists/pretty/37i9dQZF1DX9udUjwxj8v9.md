@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,596 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,592 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 11 | [Raiz de Todo Bem \- Ao Vivo](https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Saulo Ao Vivo](https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk) | 3:25 |
 | 12 | [Dorival](https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr) | [Academia da Berlinda](https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC) | [Nada Sem Ela](https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44) | 5:06 |
 | 13 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
-| 14 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
-| 15 | [Vai Sacudir, Vai Abalar](https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk) | [Cheiro de Amor](https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs) | [É Demais Meu Rei!!!](https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t) | 4:06 |
+| 14 | [Vai Sacudir, Vai Abalar](https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk) | [Cheiro de Amor](https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs) | [É Demais Meu Rei!!!](https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t) | 4:06 |
+| 15 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
 | 16 | [Haja Amor](https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46) | [Luiz Caldas](https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh) | [Lá Vem O Guarda](https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l) | 3:35 |
 | 17 | [Vai Passar](https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG) | 6:11 |
 | 18 | [Deusa do amor \- Ao vivo](https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,276 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,272 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 58 | [Me Gusta](https://open.spotify.com/track/2grcaP2t5eJpDv4YhOuMWn) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Nuevo Hotel Miranda!](https://open.spotify.com/album/4di9h6Igl1rbd0xtZfsyD6) | 2:37 |
 | 59 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 |
 | 60 | [Formal](https://open.spotify.com/track/639VMIRyWgnlaklcGMMQjU) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Manda La Plena Moh](https://open.spotify.com/album/6wJ61YVrC8GtqMWziylvsW) | 2:35 |
-| 61 | [Alma](https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Alma](https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0) | 2:25 |
-| 62 | [samaná](https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [samaná](https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR) | 2:40 |
+| 61 | [samaná](https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [samaná](https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR) | 2:40 |
+| 62 | [Alma](https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Alma](https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0) | 2:25 |
 | 63 | [AyMami](https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [AyMami](https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7) | 2:44 |
 | 64 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 |
 | 65 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |

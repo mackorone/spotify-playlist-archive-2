@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,551 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,551 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 45 | [Old Tom Bombadil \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 3:10 |
 | 46 | [Clementine \(feat\. Richard Rankin & Sophie Skelton\)](https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Richard Rankin](https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ), [Sophie Skelton](https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 1:45 |
 | 47 | [The Key to Lallybroch](https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 7:09 |
-| 48 | [Percy Jackson and the Olympians \(Season 2 Theme\)](https://open.spotify.com/track/2KBYU1it0E77OQixoXqztq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Percy Jackson and the Olympians: Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/1NMTLznBXQWex0NA9hpEk4) | 2:18 |
+| 48 | [Echoes of an Old Life \(From "God of War" Soundtrack\)](https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:44 |
 | 49 | [Forgiveness Takes an Age](https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 2:40 |
-| 50 | [The Fiery Cross \(feat\. Griogair Labhruidh\)](https://open.spotify.com/track/0iejrWjPMGrGNzQrGaEzrY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Griogair](https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 9:06 |
+| 50 | [Murtagh's Oath](https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 3:48 |
 
-Snapshot ID: `ai3vAAAAAADElC6uGZlVkQ33AEZfFCJc`
+Snapshot ID: `ai9AgAAAAAAhNcQ1DHopee19d+fG4dsD`
