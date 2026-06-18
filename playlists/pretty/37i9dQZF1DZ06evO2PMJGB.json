@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264768,
+  "num_followers": 264756,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAAMgfVvd66qe+uAvWQ9yFFk",
+  "snapshot_id": "ajCSAAAAAAAh+2bojaewQz4LP62NZ9e4",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virado No Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180755,
-      "name": "Mem\u00f3rias - Ao Vivo",
-      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 164521,
       "name": "N\u00e3o Me Provoca",
       "url": "https://open.spotify.com/track/1xFMviPJFR4mPRRxQbadpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virado No Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 180755,
+      "name": "Mem\u00f3rias - Ao Vivo",
+      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
     },
     {
       "added_at": null,

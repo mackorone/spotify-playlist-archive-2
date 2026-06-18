@@ -1,13 +1,69 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Hemang",
-  "num_followers": 61671,
+  "description": "The best new music by independent artists and labels in India. Cover - abhii, Vagish",
+  "num_followers": 61683,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMilghTTtXkyoYpNm2cf4AubgsaY",
+  "snapshot_id": "AAAAADhd6leVgtpXn8YXW1T9rbO9AdKU",
   "tracks": [
+    {
+      "added_at": "2026-06-17 07:30:17",
+      "album": {
+        "name": "Baanki",
+        "url": "https://open.spotify.com/album/4pCRkrpzJyooK8paZBpjED"
+      },
+      "artists": [
+        {
+          "name": "abhii",
+          "url": "https://open.spotify.com/artist/32mzdjLFFFILBACaPK4ukU"
+        },
+        {
+          "name": "Vagish",
+          "url": "https://open.spotify.com/artist/50WxrZvt7bdXQLYnnUGhOv"
+        }
+      ],
+      "duration_ms": 200276,
+      "name": "Baanki",
+      "url": "https://open.spotify.com/track/0zZMDbpjcrRyoq5vBen567"
+    },
+    {
+      "added_at": "2026-06-17 07:30:17",
+      "album": {
+        "name": "Dil Bebaak",
+        "url": "https://open.spotify.com/album/3Y1jMY8AXZyU7gv8VaRDGL"
+      },
+      "artists": [
+        {
+          "name": "Dev Arijit",
+          "url": "https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6"
+        }
+      ],
+      "duration_ms": 399108,
+      "name": "Dil Bebaak",
+      "url": "https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S"
+    },
+    {
+      "added_at": "2026-06-17 07:30:17",
+      "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/2XbfrsmO0Qr1CCcjC1hSt9"
+      },
+      "artists": [
+        {
+          "name": "Mausiq",
+          "url": "https://open.spotify.com/artist/17mFWGPyG2CbbDv1WSJZVS"
+        },
+        {
+          "name": "Udit Saxena",
+          "url": "https://open.spotify.com/artist/69BwX40UDcRRhksPIX43q5"
+        }
+      ],
+      "duration_ms": 261130,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/7Fc5fY2wmMncjpSvrQjAPL"
+    },
     {
       "added_at": "2026-06-10 07:30:05",
       "album": {
@@ -23,6 +79,22 @@
       "duration_ms": 202230,
       "name": "Darr",
       "url": "https://open.spotify.com/track/0J9cayYWTt38N0vxhxWdih"
+    },
+    {
+      "added_at": "2026-06-10 07:30:05",
+      "album": {
+        "name": "Bepanah",
+        "url": "https://open.spotify.com/album/0Wm2kJdSfu890poEoQYvPQ"
+      },
+      "artists": [
+        {
+          "name": "Eden's Echo",
+          "url": "https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Bepanah",
+      "url": "https://open.spotify.com/track/6qDUnZ8ciH2je4EE8v6O5v"
     },
     {
       "added_at": "2026-06-10 07:30:05",
@@ -43,22 +115,6 @@
       "duration_ms": 196000,
       "name": "Tu Na Aayi",
       "url": "https://open.spotify.com/track/5gsovysICg6TJVRUf0ZM16"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
-        "name": "Bepanah",
-        "url": "https://open.spotify.com/album/0Wm2kJdSfu890poEoQYvPQ"
-      },
-      "artists": [
-        {
-          "name": "Eden's Echo",
-          "url": "https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Bepanah",
-      "url": "https://open.spotify.com/track/6qDUnZ8ciH2je4EE8v6O5v"
     },
     {
       "added_at": "2026-06-10 07:30:05",
@@ -111,22 +167,6 @@
       "duration_ms": 227637,
       "name": "How Do I Love?",
       "url": "https://open.spotify.com/track/7b6A3dnfqJPZoAInvbnrI1"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
-        "name": "Oba",
-        "url": "https://open.spotify.com/album/2CmDSY9Eglr8uTBFi5DYpF"
-      },
-      "artists": [
-        {
-          "name": "Imna Yaden",
-          "url": "https://open.spotify.com/artist/0CcmQrW17ymOeBWkgvg1vR"
-        }
-      ],
-      "duration_ms": 261412,
-      "name": "Oba",
-      "url": "https://open.spotify.com/track/4eckcb7lW7atOL4fsvXFgk"
     },
     {
       "added_at": "2026-06-10 07:30:05",
@@ -243,6 +283,22 @@
       "duration_ms": 238060,
       "name": "Jaadu",
       "url": "https://open.spotify.com/track/1NBX56ecthn8ARL9rps0BC"
+    },
+    {
+      "added_at": "2026-06-10 07:30:05",
+      "album": {
+        "name": "Oba",
+        "url": "https://open.spotify.com/album/2CmDSY9Eglr8uTBFi5DYpF"
+      },
+      "artists": [
+        {
+          "name": "Imna Yaden",
+          "url": "https://open.spotify.com/artist/0CcmQrW17ymOeBWkgvg1vR"
+        }
+      ],
+      "duration_ms": 261412,
+      "name": "Oba",
+      "url": "https://open.spotify.com/track/4eckcb7lW7atOL4fsvXFgk"
     },
     {
       "added_at": "2026-06-10 07:30:05",
@@ -755,22 +811,6 @@
     {
       "added_at": "2026-06-10 07:30:05",
       "album": {
-        "name": "Nainan Mein Chhabi",
-        "url": "https://open.spotify.com/album/77rpMPXAoQzSEOvjDFg4Dk"
-      },
-      "artists": [
-        {
-          "name": "Shruti Bujarbaruah",
-          "url": "https://open.spotify.com/artist/6VqinjdkW7wPrf94a982RC"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Nainan Mein Chhabi",
-      "url": "https://open.spotify.com/track/1hLwCJhyg7CsqavvDKfWkH"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
         "name": "Mohe Rang Banaa Lo",
         "url": "https://open.spotify.com/album/64fVQUQntNXsHxRCv3oeHK"
       },
@@ -835,22 +875,6 @@
     {
       "added_at": "2026-06-10 07:30:05",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/48ZwmhOam4a4VktRzo5oL4"
-      },
-      "artists": [
-        {
-          "name": "Janki Maheshwar",
-          "url": "https://open.spotify.com/artist/7rlucARG4vewlHI4YByHRf"
-        }
-      ],
-      "duration_ms": 152726,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4IW56DopaPOjcIfLwALBi2"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
         "name": "Saiyaan Ji",
         "url": "https://open.spotify.com/album/3MRep8SqAbCk4HsC0iDAgw"
       },
@@ -891,22 +915,6 @@
       "duration_ms": 192500,
       "name": "Kiski Khata",
       "url": "https://open.spotify.com/track/2s5f7ouN7DtFZXGmNFb9tJ"
-    },
-    {
-      "added_at": "2026-06-10 07:30:05",
-      "album": {
-        "name": "Rehne De",
-        "url": "https://open.spotify.com/album/1QnXEL8RScLeljf4KsC4V3"
-      },
-      "artists": [
-        {
-          "name": "Mudit Bhatt",
-          "url": "https://open.spotify.com/artist/4a0fOJcFKtWZI9U7JYVRzL"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "Rehne De",
-      "url": "https://open.spotify.com/track/6i6ubBeUcw9BbgqehBpgYi"
     }
   ],
   "unique_name": "Fresh Finds India",

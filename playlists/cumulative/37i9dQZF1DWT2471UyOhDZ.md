@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Bleachers
 
-444 songs - 1 day 4 hr 43 min
+445 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Ice Cold](https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:30 | 2024-07-18 | 2025-02-16 |
 | [Iceberg](https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:17 | 2025-09-04 |  |
 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 | 2025-02-07 |  |
+| [Illinois Again](https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Illinois Again](https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN) | 3:56 | 2026-06-12 |  |
 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 | 2025-05-08 | 2025-07-03 |
 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-06 | 2026-06-07 |
 | [Infinity Peaking](https://open.spotify.com/track/54k6mnmbMRJ25Z2AY4C32F) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Infinity Peaking](https://open.spotify.com/album/1UZaE72xUgScFlEuBWKRWC) | 5:41 | 2025-01-17 | 2025-02-08 |
@@ -410,7 +411,7 @@
 | [Tina](https://open.spotify.com/track/7uFif00qArtq2USCkQEGac) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [More](https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6) | 3:32 | 2025-06-06 |  |
 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 | 2024-06-14 | 2024-11-01 |
 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 | 2025-10-02 |  |
-| [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 | 2025-05-30 |  |
+| [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 | 2025-05-30 | 2026-06-18 |
 | [Top Shelf](https://open.spotify.com/track/731pNCNomcFeK334hwlADK) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [Top Shelf](https://open.spotify.com/album/55mWKI0CDfU5v0qoBQWqfh) | 3:01 | 2024-11-15 | 2025-01-17 |
 | [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-03-21 | 2025-06-07 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-06 | 2024-10-18 |

@@ -371,6 +371,22 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 214404,
+      "name": "Fcuk!",
+      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
         "name": "Take Me Dancing",
         "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 135866,
       "name": "fire",
       "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 214404,
-      "name": "Fcuk!",
-      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 207307,
-      "name": "As I Am",
-      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
         "name": "Playgrounds In Ruins (Deluxe)",
         "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 157540,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "As I Am",
+      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
         "name": "Young Bones",
         "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
@@ -847,22 +831,6 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/1R3EjJGIb07JMWgV2snQwB"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "One Eighty",
-      "url": "https://open.spotify.com/track/0c2AISXmKyxzeXjw0csxfr"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
         "name": "Caught",
         "url": "https://open.spotify.com/album/2BL51vTtCfJwkZ32pdQzTA"
       },
@@ -875,6 +843,38 @@
       "duration_ms": 190593,
       "name": "Caught",
       "url": "https://open.spotify.com/track/60F4PkVYMwIE74a9ssuWJl"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/1R3EjJGIb07JMWgV2snQwB"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "One Eighty",
+      "url": "https://open.spotify.com/track/0c2AISXmKyxzeXjw0csxfr"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "I LIKE YOU",
-        "url": "https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB"
-      },
-      "artists": [
-        {
-          "name": "Melicious",
-          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
-        }
-      ],
-      "duration_ms": 156387,
-      "name": "I LIKE YOU",
-      "url": "https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 199125,
       "name": "Let Myself Go",
       "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
+        "name": "I LIKE YOU",
+        "url": "https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB"
+      },
+      "artists": [
+        {
+          "name": "Melicious",
+          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "I LIKE YOU",
+      "url": "https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 188337,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
         "name": "Valse \u00e0 Demi",
         "url": "https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR"
       },
@@ -1011,38 +1027,6 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "Will You Take Me As I Am?",
-        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 199983,
-      "name": "Take me as i am",
-      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
-        "name": "Moved On",
-        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
-      },
-      "artists": [
-        {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
-        }
-      ],
-      "duration_ms": 188337,
-      "name": "Moved On",
-      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 164851,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
+        "name": "Will You Take Me As I Am?",
+        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 199983,
+      "name": "Take me as i am",
+      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "Chiara",
-        "url": "https://open.spotify.com/album/03IhA1ZKrQZYCtC1E1aq0q"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
       },
       "artists": [
         {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 207028,
-      "name": "Chiara",
-      "url": "https://open.spotify.com/track/13SDcvkayQJdSgTUmTbrfe"
+      "duration_ms": 162929,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
+        "name": "Chiara",
+        "url": "https://open.spotify.com/album/03IhA1ZKrQZYCtC1E1aq0q"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
         }
       ],
-      "duration_ms": 162929,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
+      "duration_ms": 207028,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/13SDcvkayQJdSgTUmTbrfe"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "Million de Mois",
-        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 177376,
-      "name": "Million de Mois",
-      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 190000,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
+        "name": "Million de Mois",
+        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 177376,
+      "name": "Million de Mois",
+      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "Durch die Nacht",
-        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "Durch die Nacht",
-      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
         "name": "I've Got Everything",
         "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 181891,
       "name": "I've Got Everything",
       "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
+        "name": "Durch die Nacht",
+        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "homemade dynamite",
-        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
-      },
-      "artists": [
-        {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
-        }
-      ],
-      "duration_ms": 209415,
-      "name": "homemade dynamite",
-      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
-    },
-    {
-      "added_at": "2026-06-11 22:01:36",
-      "album": {
         "name": "oxygen",
         "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "Bermuda",
-        "url": "https://open.spotify.com/album/6ccE00W6zKDviVkprH2FQ3"
+        "name": "homemade dynamite",
+        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
       },
       "artists": [
         {
-          "name": "Gabriel Benedek",
-          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
         }
       ],
-      "duration_ms": 136376,
-      "name": "Bermuda",
-      "url": "https://open.spotify.com/track/3s0RC9ooiAWDXUL7AyXS38"
+      "duration_ms": 209415,
+      "name": "homemade dynamite",
+      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -1583,6 +1567,22 @@
       "duration_ms": 164089,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
+    },
+    {
+      "added_at": "2026-06-11 22:01:36",
+      "album": {
+        "name": "Bermuda",
+        "url": "https://open.spotify.com/album/6ccE00W6zKDviVkprH2FQ3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "duration_ms": 136376,
+      "name": "Bermuda",
+      "url": "https://open.spotify.com/track/3s0RC9ooiAWDXUL7AyXS38"
     },
     {
       "added_at": "2026-06-11 22:01:36",
@@ -1639,18 +1639,26 @@
     {
       "added_at": "2026-06-11 22:01:36",
       "album": {
-        "name": "Insecurities",
-        "url": "https://open.spotify.com/album/5kq1VoKzUp0A3hPW02g9VF"
+        "name": "redwhite (Offical Swiss Women\u2019s National Team Song)",
+        "url": "https://open.spotify.com/album/09GIdZLuPhRNZAJIuIW2yr"
       },
       "artists": [
         {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+          "name": "LOU KAENA",
+          "url": "https://open.spotify.com/artist/69Tf6ABMtbfliXm4FHNhUH"
+        },
+        {
+          "name": "Soukey",
+          "url": "https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
         }
       ],
-      "duration_ms": 149400,
-      "name": "Insecurities",
-      "url": "https://open.spotify.com/track/57DgKi0pW0lqzPZXRp8lEA"
+      "duration_ms": 206200,
+      "name": "redwhite (Offical Swiss Women\u2019s National Team Song)",
+      "url": "https://open.spotify.com/track/4BkvyubYBez4o0uHGkhE71"
     }
   ],
   "unique_name": "Swiss Made",

@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 303207,
+  "num_followers": 303214,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 212346,
       "name": "Burn It to the Ground",
       "url": "https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Handwritten (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Oh No!!!",
         "url": "https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 215035,
       "name": "Oh No!!!",
       "url": "https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Handwritten (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Shot In The Dark",
-        "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 185131,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Life Support / Ms. Supernova",
         "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 191493,
       "name": "Life Support",
       "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Shot In The Dark",
+        "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 185131,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "What Does Your Soul Look Like",
-        "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
-      },
-      "artists": [
-        {
-          "name": "Wayside",
-          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
-        }
-      ],
-      "duration_ms": 204499,
-      "name": "Parallax Error",
-      "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "What Does Your Soul Look Like",
+        "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
+      },
+      "artists": [
+        {
+          "name": "Wayside",
+          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
+        }
+      ],
+      "duration_ms": 204499,
+      "name": "Parallax Error",
+      "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
     },
     {
       "added_at": "2024-12-03 09:27:47",

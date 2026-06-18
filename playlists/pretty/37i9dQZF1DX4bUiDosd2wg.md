@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,942 likes - 215 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,959 likes - 215 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 69 | [좋은사람 Joeunsaram](https://open.spotify.com/track/5LdZ6uPgR2UOPlOXQ94TnL) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Time\-Honored Voice](https://open.spotify.com/album/1W0hjumEB6L0KzUaRf13Ps) | 3:56 |
 | 70 | [I Love You](https://open.spotify.com/track/0T2RSnMpCakH6OcLQOrBiz) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Uncontrollably Fond OST Part.9](https://open.spotify.com/album/4aab6GVMX7A42SXDAPDyu4) | 4:08 |
 | 71 | [보고싶다 \(From\. "드라마 천국의 계단"\)](https://open.spotify.com/track/2ES5x2KyfEeyplKPW0hkA5) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [인연](https://open.spotify.com/album/4tNYcoG7KmE4toxCvnHKQA) | 4:03 |
-| 72 | [Dropping the Tears](https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Dropping the Tears](https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol) | 4:17 |
+| 72 | [Dropping the Tears](https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Dropping the Tears](https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol) | 4:18 |
 | 73 | [사랑합니다...](https://open.spotify.com/track/0RWpk45QZEh3l3LcM6TL7q) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/29lW1m95zcPPIhqkyzL0La) | 3:48 |
 | 74 | [By My Side](https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [Descendants Of The Sun Pt.8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5j0E7LsU7fWPc2UAfG7pdl) | 3:46 |
 | 75 | [Difficult Words to Tell You](https://open.spotify.com/track/00R5Y53kifCg8XMkMu9VQ2) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Crazy for You](https://open.spotify.com/album/0elA3F3PRa68MMFk6YsmpI) | 4:08 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 97 | [다 줄꺼야 I Will Give You Everything \(Acoustic Version\)](https://open.spotify.com/track/26QUZCxA3UXZOgNsi850kF) | [조규만 Cho Kyu Man](https://open.spotify.com/artist/6cB39lVDhkU6jN8MUiKzfq) | [다 줄거야 I Will Give You Everything](https://open.spotify.com/album/2Ew4i9TjQCbXLJtcZq0MHA) | 4:04 |
 | 98 | [사랑보다 깊은 상처](https://open.spotify.com/track/6gAnaNgYUXcFXIfFrV88p7) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/4za0GMxinuMP0B1B504Qyv) | 4:21 |
 | 99 | [In Front Of Your House](https://open.spotify.com/track/0rViDA4QiHTkYuzxYUEe9n) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [HIM](https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9) | 4:02 |
-| 100 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
+| 100 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:26 |
 | 101 | [Timeless](https://open.spotify.com/track/5S8ziOuddVgwWiNKlTovwE) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [SG Wanna Be+](https://open.spotify.com/album/3NW9WfRGNUe3bPyide3i8U) | 3:59 |
 | 102 | [Memory Of The Wind](https://open.spotify.com/track/7k5iu5vr7IEW3BdSgwY9mw) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle Of My Soul](https://open.spotify.com/album/7M4SHsmPs6QAqu9aIYJOPx) | 5:08 |
 | 103 | [I can't go to Shinchon](https://open.spotify.com/track/7GcWRHZZVmZmMJZht8TZSz) | [The Postmen](https://open.spotify.com/artist/0Q9OOK3JOdq1VJj31uhRJL) | [I can't go to Shinchon](https://open.spotify.com/album/0Nw1gRzmw5dF4uuGrXX6nw) | 3:45 |

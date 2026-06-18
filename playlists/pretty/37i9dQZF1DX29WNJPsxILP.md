@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Emiway Bantai
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,819 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,845 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 60 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
 | 61 | [Terey papa](https://open.spotify.com/track/7vIXP7osY1jcyIpX9hCeLt) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g) | [Naala Paar](https://open.spotify.com/album/1Wyju7Q67NoXso8hBrBvCB) | 3:04 |
 | 62 | [Mast](https://open.spotify.com/track/5o3STtBAtkeqPBw69ZUZWs) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Mast](https://open.spotify.com/album/3FfJhcVHUd5lZJjOE5wi37) | 2:35 |
-| 63 | [Shameless](https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Shameless](https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn) | 2:21 |
+| 63 | [Shameless](https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h), [Sachin Bali](https://open.spotify.com/artist/5ivOxsmqSgKhcq8jCHEMCB) | [Shameless](https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn) | 2:21 |
 | 64 | [Buss Down](https://open.spotify.com/track/6iimPfgGSNCtpSs0oALaX5) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Yours Truly](https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU) | 3:04 |
 | 65 | [Laying Low](https://open.spotify.com/track/1CADvUV2bCufzrTvjNadmF) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [Laying Low](https://open.spotify.com/album/7nQrnBnkXx1BUTM5Qa4te7) | 2:27 |
 | 66 | [Killa Klassic](https://open.spotify.com/track/5Cx1RreO5b55pn3yLPbDI6) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP) | [Killa Klassic](https://open.spotify.com/album/0ZEUspN1PZNO1mBAi2z0FD) | 2:55 |

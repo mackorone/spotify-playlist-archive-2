@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-234 songs - 11 hr 47 min
+235 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [FASHO](https://open.spotify.com/track/3VPad6p3YPcZW6s7K00yUZ) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [THA STREETS VOL 1](https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr) | 2:45 | 2024-09-24 | 2024-10-28 |
 | [FASHO](https://open.spotify.com/track/3nRF4GMXhR76qgxNNdVMbB) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FASHO](https://open.spotify.com/album/3czDNbQY3T12tazXEzn5JQ) | 2:45 | 2024-06-03 | 2024-08-18 |
 | [Feel Bad \(feat\. G Herbo\)](https://open.spotify.com/track/3vopZj6osuP21LtAmCUTJs) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I NEVER GAVE AF](https://open.spotify.com/album/5U0od07DPyVqElA9cbO364) | 2:54 | 2025-09-28 | 2025-10-12 |
+| [Feel This](https://open.spotify.com/track/2QJXBol7qzL8PuNSCaR9W7) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly For My Fans 2.0](https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd) | 2:54 | 2026-06-18 |  |
 | [Feel This](https://open.spotify.com/track/2XZu4fjdBW6NuLUCsBMy9M) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:54 | 2023-05-24 | 2023-11-11 |
 | [Feet On Land](https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Feet On Land](https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ) | 2:32 | 2025-10-26 |  |
 | [Flashbacks \(with Jeremih\)](https://open.spotify.com/track/3s01d9z41qw037YXOPlQqd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:53 | 2022-10-28 | 2023-03-25 |
@@ -183,7 +184,7 @@
 | [Splash \(feat\. G Herbo\) \- Remix](https://open.spotify.com/track/0Z1mK0Xc3aAwK0zhPI5FAi) | [Omelly](https://open.spotify.com/artist/3D7OGBAsUAB3NQzSXzZgAw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Swaggyono](https://open.spotify.com/artist/2eth98H0ggjeX0fPe1Aqvn) | [Splash \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/album/0ERwio7WSesVTeLLmPyYfr) | 3:15 | 2026-05-07 | 2026-05-13 |
 | [Splat](https://open.spotify.com/track/6gDEcdPBV7aB5S5KFouT6x) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:24 | 2024-09-09 | 2024-12-01 |
 | [Statement](https://open.spotify.com/track/79lRUyyy0iwWRkbFFNJ95S) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Statement](https://open.spotify.com/album/5VAilvKAeXaLbgfQAFIDeQ) | 2:20 | 2022-10-28 | 2024-07-24 |
-| [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 | 2025-04-16 |  |
+| [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 | 2025-04-16 | 2026-06-18 |
 | [Still On Dat \(with G Herbo\)](https://open.spotify.com/track/2H3TOpfPnM8dAgSyd7YaQg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 3:22 | 2026-01-28 | 2026-04-18 |
 | [Stone Cold \(feat\. G Herbo\)](https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Not One Of Them](https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6) | 3:16 | 2026-02-11 | 2026-05-06 |
 | [Stress Relief \(with G Herbo\)](https://open.spotify.com/track/3furL4HLywxNWxxfTB7wVJ) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Stress Relief \(with G Herbo\)](https://open.spotify.com/album/6AGBXSBIDKCAuRYZIXOBMi) | 2:40 | 2022-10-28 | 2023-08-05 |

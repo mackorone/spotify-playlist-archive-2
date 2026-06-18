@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 ### [KITSUNÉ SUMMER VIBES \(2026\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
-> To travel between house, deep house and positive vibes !
+> To travel between house, deep house and positive vibes for summer !
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,631 likes - 54 songs - 3 hr 10 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,629 likes - 54 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 53 | [I Know](https://open.spotify.com/track/75TCFoLDgCDSRRwIYaOWMd) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Upercent](https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq) | [I Know](https://open.spotify.com/album/0sTmh3EYuqjLvcBMwawB1U) | 3:25 |
 | 54 | [Firme Forte e Fiel](https://open.spotify.com/track/7gjdw7zbEnF9gdlpl1IKxO) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1) | [Firme Forte e Fiel](https://open.spotify.com/album/0fYFC3erF1QvqIRtFz1zgu) | 3:46 |
 
-Snapshot ID: `AAANB6hfe6BKPy+NW6X+ftQui2p6B/DO`
+Snapshot ID: `AAANCLPzzoEOgGHyJlCTsq5+W3SWwj6d`

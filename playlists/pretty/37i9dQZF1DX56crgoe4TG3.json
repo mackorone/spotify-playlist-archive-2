@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285613,
+  "num_followers": 285609,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "(Don't Fear) The Reaper",
+        "url": "https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 315345,
       "name": "Southern Cross",
       "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "(Don't Fear) The Reaper",
-        "url": "https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r"
-      },
-      "artists": [
-        {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "The Very Best Yet (The Very Best Yet Version)",
+        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moonshiners Bluegrass Band",
+          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
+        }
+      ],
+      "duration_ms": 218091,
+      "name": "Can't Feel My Face - The Very Best Yet Version",
+      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 184687,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "The Very Best Yet (The Very Best Yet Version)",
-        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
-      },
-      "artists": [
-        {
-          "name": "The Hillbilly Moonshiners Bluegrass Band",
-          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
-        }
-      ],
-      "duration_ms": 218091,
-      "name": "Can't Feel My Face - The Very Best Yet Version",
-      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Royals (Bluegrass Cover)",
-        "url": "https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Grass Players",
-          "url": "https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X"
-        }
-      ],
-      "duration_ms": 396714,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "The New Modern Hymns",
         "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 226901,
       "name": "American Tune",
       "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Royals (Bluegrass Cover)",
+        "url": "https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Grass Players",
+          "url": "https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X"
+        }
+      ],
+      "duration_ms": 396714,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Wagon Wheel",
-        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 433563,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "He Called Me Baby",
         "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 279198,
       "name": "He Called Me Baby",
       "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Wagon Wheel",
+        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 433563,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "If I Needed You",
-        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
-      },
-      "artists": [
-        {
-          "name": "Admiral Radio",
-          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
-        }
-      ],
-      "duration_ms": 203416,
-      "name": "If I Needed You",
-      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Break on Through (To the Other Side)",
         "url": "https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 215600,
       "name": "Break on Through (To the Other Side)",
       "url": "https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "If I Needed You",
+        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
+      },
+      "artists": [
+        {
+          "name": "Admiral Radio",
+          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+        }
+      ],
+      "duration_ms": 203416,
+      "name": "If I Needed You",
+      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Love Is Alive",
-        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
-      },
-      "artists": [
-        {
-          "name": "Shar Carillo",
-          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
-        },
-        {
-          "name": "Loke",
-          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
-        }
-      ],
-      "duration_ms": 243789,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Guess I'm Doing Fine",
         "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 280441,
       "name": "Guess I'm Doing Fine",
       "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
+      },
+      "artists": [
+        {
+          "name": "Shar Carillo",
+          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
+        },
+        {
+          "name": "Loke",
+          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
+        }
+      ],
+      "duration_ms": 243789,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
     },
     {
       "added_at": "2026-02-04 05:00:53",

@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3310,
+  "num_followers": 3309,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAAYGaIqBxC2GKTwU0wdJJaI",
+  "snapshot_id": "ajCSAAAAAAA1Q32bw2KpYczVMpkq4l4P",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "semi-auto",
+        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Guadalupe Estrada",
+          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "semi-auto",
+      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -639,50 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "semi-auto",
-        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Guadalupe Estrada",
-          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "semi-auto",
-      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "420 in London",
-        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "420 in London",
-      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUCY",
         "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 251128,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "420 in London",
+        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "420 in London",
+      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
     },
     {
       "added_at": null,

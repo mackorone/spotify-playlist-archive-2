@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 108377,
+  "num_followers": 108397,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
+        "name": "Amar Duele",
+        "url": "https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2"
+      },
+      "artists": [
+        {
+          "name": "Falete",
+          "url": "https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt"
+    },
+    {
+      "added_at": "2025-03-13 23:00:12",
+      "album": {
         "name": "Gracias A Vosotros",
         "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 225512,
       "name": "Lagrimas Negras (with Diego \"El Cigala\")",
       "url": "https://open.spotify.com/track/2pg2VDBleQisqlEEkdJM5q"
-    },
-    {
-      "added_at": "2025-03-13 23:00:12",
-      "album": {
-        "name": "Amar Duele",
-        "url": "https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2"
-      },
-      "artists": [
-        {
-          "name": "Falete",
-          "url": "https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt"
     },
     {
       "added_at": "2025-03-13 23:00:12",

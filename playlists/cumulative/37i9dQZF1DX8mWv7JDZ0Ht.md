@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Rod Melim
 
-946 songs - 1 day 23 hr 19 min
+947 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [BALANÇO](https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BALANÇO](https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx) | 2:16 | 2026-03-27 | 2026-06-03 |
 | [Barco de Papel](https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv), [Breno Duarte](https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG) | [Maré Alta](https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR) | 3:06 | 2025-07-11 |  |
 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 | 2022-08-26 | 2023-01-28 |
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Barulho Das Ondas](https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Barulho Das Ondas](https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6) | 3:28 | 2025-07-25 | 2025-10-04 |
 | [Bebê](https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Bebê](https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT) | 2:53 | 2024-09-20 | 2024-12-21 |
 | [Beija\-me](https://open.spotify.com/track/5Jmolq9XN50Zv1Qc7g3Pbr) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Beija\-me](https://open.spotify.com/album/1aXkJXS54W9l4ormaGbdRe) | 3:06 | 2025-12-05 | 2026-05-01 |
@@ -817,7 +818,7 @@
 | [Te dizer que sim.](https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Te dizer que sim.](https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO) | 2:30 | 2023-04-14 | 2023-08-26 |
 | [Te Encontrar](https://open.spotify.com/track/4FMR4rG8hQINwhL3pwNqoX) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [Te Encontrar](https://open.spotify.com/album/1aTqCkWeRFEngYnG3xj9xq) | 3:02 | 2024-05-17 | 2024-06-08 |
 | [Te espero ou fujo?](https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Te espero ou fujo?](https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr) | 2:14 | 2024-09-06 | 2025-05-14 |
-| [te quero sem final](https://open.spotify.com/track/3KhIaL5rfQFfl2t5K65jN6) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [te quero sem final](https://open.spotify.com/album/7f5EwAe0O71eZf6JAt0UZI) | 1:55 | 2025-06-13 |  |
+| [te quero sem final](https://open.spotify.com/track/3KhIaL5rfQFfl2t5K65jN6) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [te quero sem final](https://open.spotify.com/album/7f5EwAe0O71eZf6JAt0UZI) | 1:55 | 2025-06-13 | 2026-06-18 |
 | [Te Ver Superar](https://open.spotify.com/track/6jv4iTAifiW8IQfWQkBAjK) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Te Ver Superar](https://open.spotify.com/album/4gYeHMeI7uSLxlNpCUifvO) | 3:44 | 2024-08-16 | 2024-09-06 |
 | [te vi dançando](https://open.spotify.com/track/0hbq06tcjbkgyd9d8VAVF8) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [te vi dançando](https://open.spotify.com/album/1P6D17mWvF91GTPlQDCdEP) | 1:18 | 2023-06-09 | 2023-07-08 |
 | [te vi dançando](https://open.spotify.com/track/2LlRU1DN8gqAfbO2bY6Ksd) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [te vi dançando](https://open.spotify.com/album/6jmUBWpF6tz9FzhBqx1ceO) | 1:18 | 2022-12-02 | 2023-06-15 |

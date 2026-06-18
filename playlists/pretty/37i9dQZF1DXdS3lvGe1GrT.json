@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Ivy Knight",
-  "num_followers": 98527,
+  "num_followers": 98548,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGCe4XGtKuaea/SFWhtHA9bp0FJ0",
+  "snapshot_id": "AAAAAIuog/Oq/1wNQAycAoUk6lGpqIi8",
   "tracks": [
+    {
+      "added_at": "2026-06-17 18:25:45",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/7xc8qjSipCIqZoBfHuj7X4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/17SgupYV5TDPCZtF4wHdHC"
+    },
     {
       "added_at": "2026-06-10 16:10:25",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 158000,
       "name": "bonnie",
       "url": "https://open.spotify.com/track/3hXOSZvFqjUTb3kuxokcfp"
+    },
+    {
+      "added_at": "2026-06-17 18:25:45",
+      "album": {
+        "name": "Needle",
+        "url": "https://open.spotify.com/album/6M3LywIlKcworsIiIp0pa5"
+      },
+      "artists": [
+        {
+          "name": "Lia Juno",
+          "url": "https://open.spotify.com/artist/7n9lO4WwmeJPLBJ5NFXPoe"
+        }
+      ],
+      "duration_ms": 215718,
+      "name": "Needle",
+      "url": "https://open.spotify.com/track/6vj1PhVCk44hnaUw6igQkn"
     },
     {
       "added_at": "2026-06-10 16:10:25",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/5gfHOVYnO8aJ6RLSFIfxvW"
     },
     {
+      "added_at": "2026-06-17 18:25:45",
+      "album": {
+        "name": "If This Is The End",
+        "url": "https://open.spotify.com/album/2ZyHeH8F9mmnhV5Fcbr4nU"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "duration_ms": 221292,
+      "name": "If This Is The End",
+      "url": "https://open.spotify.com/track/3kFUML1xNLa91hI9EMRkrq"
+    },
+    {
       "added_at": "2026-06-10 16:10:25",
       "album": {
         "name": "Leaver",
@@ -55,6 +103,22 @@
       "duration_ms": 194764,
       "name": "Regretter",
       "url": "https://open.spotify.com/track/66wXwbAyFAB0O0sHRpjkX1"
+    },
+    {
+      "added_at": "2026-06-17 18:25:45",
+      "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/7jybbuLKuMYLfHayEbR3gc"
+      },
+      "artists": [
+        {
+          "name": "Caroline Culver",
+          "url": "https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0"
+        }
+      ],
+      "duration_ms": 192843,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/1W5f9cOuGV3lU2pNtfSC4z"
     },
     {
       "added_at": "2026-06-10 16:10:25",
@@ -87,6 +151,22 @@
       "duration_ms": 185848,
       "name": "Sarah Waiting in the Car",
       "url": "https://open.spotify.com/track/7Ag75m1s3ktxU6QBGABu3S"
+    },
+    {
+      "added_at": "2026-06-17 18:25:45",
+      "album": {
+        "name": "The Next Man Who Loves Me",
+        "url": "https://open.spotify.com/album/0CXfY8E1oxKuSjyLs8t9CN"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Egan",
+          "url": "https://open.spotify.com/artist/5g9xNMf6SWEDBP6y190eS8"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Hurt a Little",
+      "url": "https://open.spotify.com/track/3AYlj0ZEflUDbck52aGcoc"
     },
     {
       "added_at": "2026-06-10 16:10:25",
@@ -183,6 +263,22 @@
       "duration_ms": 216840,
       "name": "Dove or the Devil",
       "url": "https://open.spotify.com/track/2qxYFnVKHQQf30SFa5VsWl"
+    },
+    {
+      "added_at": "2026-06-17 18:25:45",
+      "album": {
+        "name": "Strawberry Rhinestone",
+        "url": "https://open.spotify.com/album/6pHHgfdtht4v9TAgDxE9WM"
+      },
+      "artists": [
+        {
+          "name": "Two Runner",
+          "url": "https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg"
+        }
+      ],
+      "duration_ms": 259450,
+      "name": "Strawberry Rhinestone",
+      "url": "https://open.spotify.com/track/7BAcAmm4hyKhd2sgZjSjdS"
     },
     {
       "added_at": "2026-06-10 16:10:25",
@@ -1111,102 +1207,6 @@
       "duration_ms": 168389,
       "name": "Torpor",
       "url": "https://open.spotify.com/track/1hJaRe3VnckiLHn73ABng1"
-    },
-    {
-      "added_at": "2026-04-08 16:00:07",
-      "album": {
-        "name": "Your Side Of The Moon",
-        "url": "https://open.spotify.com/album/3Uk4QTcXscdX6n78NC8WZ5"
-      },
-      "artists": [
-        {
-          "name": "Ryann Ross",
-          "url": "https://open.spotify.com/artist/4LlusKGPaCxnefSJFNulY6"
-        }
-      ],
-      "duration_ms": 249306,
-      "name": "Your Side Of The Moon",
-      "url": "https://open.spotify.com/track/5jRi5oRKtafH4U1EerxQOp"
-    },
-    {
-      "added_at": "2026-04-01 16:00:36",
-      "album": {
-        "name": "Ordinary People",
-        "url": "https://open.spotify.com/album/1tUSb6E4Bu5pPZXtan35s7"
-      },
-      "artists": [
-        {
-          "name": "Spirit Ghost",
-          "url": "https://open.spotify.com/artist/4f7XztJfBDaGyL2sib68es"
-        }
-      ],
-      "duration_ms": 266694,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/5DF9jTzaO76nnOwgaWIw6g"
-    },
-    {
-      "added_at": "2026-04-01 16:00:36",
-      "album": {
-        "name": "Big Machine",
-        "url": "https://open.spotify.com/album/56svbyQy7C9Wr1Ul1hpCpS"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Kemplay",
-          "url": "https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ"
-        }
-      ],
-      "duration_ms": 176323,
-      "name": "Big Machine",
-      "url": "https://open.spotify.com/track/64OQZBi3pOfJaoZH99yDis"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Mama, My Heart Is Achin'",
-        "url": "https://open.spotify.com/album/06uAi42XtPri4UzaL7usrT"
-      },
-      "artists": [
-        {
-          "name": "Girl In The Year Above",
-          "url": "https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7"
-        }
-      ],
-      "duration_ms": 225610,
-      "name": "Mama, My Heart Is Achin'",
-      "url": "https://open.spotify.com/track/6tVk7AVFvAa5oSj2YEoB6W"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/6W0OJwruftgimcKiuLXHD5"
-      },
-      "artists": [
-        {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4pARZ3HOdh6HkLSdWorqpG"
-    },
-    {
-      "added_at": "2026-03-11 17:52:44",
-      "album": {
-        "name": "dog with a bone",
-        "url": "https://open.spotify.com/album/3c14lJapQ31AQxcjn5k6pR"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 200060,
-      "name": "dog with a bone",
-      "url": "https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD"
     }
   ],
   "unique_name": "Fresh Finds Folk",

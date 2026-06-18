@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: 6LACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,528 likes - 101 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,506 likes - 101 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

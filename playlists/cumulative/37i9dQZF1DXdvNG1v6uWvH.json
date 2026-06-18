@@ -144394,7 +144394,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 184202,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe"
@@ -190244,6 +190244,28 @@
       "duration_ms": 154146,
       "name": "The Morning Sun",
       "url": "https://open.spotify.com/track/5j3c3iXhV0JVI6wz6iJXI8"
+    },
+    {
+      "album": {
+        "name": "The Most Beautiful Lovesong",
+        "url": "https://open.spotify.com/album/5ASHu5CVD0O9p5zYK7apBs"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        },
+        {
+          "name": "Toussaint Chiza",
+          "url": "https://open.spotify.com/artist/1wc53bAOil4C5PxhoT08dA"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243356,
+      "name": "The Most Beautiful Lovesong",
+      "url": "https://open.spotify.com/track/02SzelvEOwaq1YD1UtqjQh"
     },
     {
       "album": {

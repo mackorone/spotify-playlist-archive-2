@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 118467,
+  "num_followers": 118529,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,22 @@
     {
       "added_at": "2026-06-12 04:01:33",
       "album": {
-        "name": "CHICA 305",
-        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         }
       ],
-      "duration_ms": 188085,
-      "name": "CHICA 305",
-      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
       "added_at": "2026-06-12 04:01:33",
@@ -979,22 +979,22 @@
     {
       "added_at": "2026-06-12 04:01:33",
       "album": {
-        "name": "Buscando Money",
-        "url": "https://open.spotify.com/album/2dJSAvaObagSOskW5umnny"
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Buscando Money",
-      "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
     },
     {
       "added_at": "2026-06-12 04:01:33",
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2026-06-12 04:01:33",
       "album": {
-        "name": "Mi Gentee EP",
-        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
-      },
-      "artists": [
-        {
-          "name": "Chinonegro",
-          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
-        }
-      ],
-      "duration_ms": 208782,
-      "name": "Mi Gentee",
-      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
-        "name": "Kiki",
-        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
-      },
-      "artists": [
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 180109,
-      "name": "Kiki",
-      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
-    },
-    {
-      "added_at": "2026-06-12 04:01:33",
-      "album": {
         "name": "Maracuya",
         "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
@@ -1671,6 +1639,22 @@
       "duration_ms": 170476,
       "name": "Maracuya",
       "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Mi Gentee EP",
+        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
+      },
+      "artists": [
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        }
+      ],
+      "duration_ms": 208782,
+      "name": "Mi Gentee",
+      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
     },
     {
       "added_at": "2026-06-12 04:01:33",
@@ -1691,6 +1675,22 @@
       "duration_ms": 170953,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2026-06-12 04:01:33",
+      "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 180109,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
     },
     {
       "added_at": "2026-06-12 04:01:33",

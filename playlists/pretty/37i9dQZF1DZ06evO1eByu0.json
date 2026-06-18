@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162705,
+  "num_followers": 162702,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABnyJZBwrO4ydS4M0kd3wXk",
+  "snapshot_id": "ajCSAAAAAACLpw+FOdHBuzb408N0dVsT",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 394924,
+      "name": "Te Adorar \u00e9 o Meu Prazer",
+      "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aline Barros e Cia",
         "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 202106,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Som de Adoradores",
-        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 394924,
-      "name": "Te Adorar \u00e9 o Meu Prazer",
-      "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 178329,
-      "name": "A Dan\u00e7a do Quaquito",
-      "url": "https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caminho de Milagres",
         "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 259366,
       "name": "Vou Te Alegrar",
       "url": "https://open.spotify.com/track/3Y5ofuQLJolVcXYjCmoeSA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 178329,
+      "name": "A Dan\u00e7a do Quaquito",
+      "url": "https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 153205,
-      "name": "Crian\u00e7a de Jesus",
-      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
+      "duration_ms": 177818,
+      "name": "Louvar \u00e9 Bom Demais",
+      "url": "https://open.spotify.com/track/52bR6NwdMWJUc8rXuWwxjh"
     }
   ],
   "unique_name": "This Is Aline Barros",

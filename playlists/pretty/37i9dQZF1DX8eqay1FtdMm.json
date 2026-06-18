@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kassy(\ucf00\uc774\uc2dc)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 415334,
+  "num_followers": 415320,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-06-04 01:55:44",
       "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
+    },
+    {
+      "added_at": "2026-06-04 01:55:44",
+      "album": {
         "name": "Bird On The Edge",
         "url": "https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 170000,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
-    },
-    {
-      "added_at": "2026-06-04 01:55:44",
-      "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
-      },
-      "artists": [
-        {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
     },
     {
       "added_at": "2026-06-04 01:55:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-04 01:55:44",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2026-06-04 01:55:44",
-      "album": {
         "name": "I Miss You So Much",
         "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 216813,
       "name": "I Miss You So Much",
       "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
+    },
+    {
+      "added_at": "2026-06-04 01:55:44",
+      "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2026-06-04 01:55:44",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-04 01:55:44",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "I'll Always Be With You",
-      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
-    },
-    {
-      "added_at": "2026-06-04 01:55:44",
-      "album": {
         "name": "WAW",
         "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 223546,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+    },
+    {
+      "added_at": "2026-06-04 01:55:44",
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "I'll Always Be With You",
+      "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
     },
     {
       "added_at": "2026-06-04 01:55:44",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-06-04 01:55:44",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2026-06-04 01:55:44",
-      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2026-06-04 01:55:44",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     },
     {
       "added_at": "2026-06-04 01:55:44",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-06-04 01:55:44",
       "album": {
-        "name": "OFF THE MAP",
-        "url": "https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU"
-      },
-      "artists": [
-        {
-          "name": "Kim Sung Kyu",
-          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "When I think about you",
-      "url": "https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5"
-    },
-    {
-      "added_at": "2026-06-04 01:55:44",
-      "album": {
         "name": "Trip: Tape #01",
         "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2026-06-04 01:55:44",
       "album": {
-        "name": "SUZUME",
-        "url": "https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx"
+        "name": "OFF THE MAP",
+        "url": "https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU"
       },
       "artists": [
         {
-          "name": "Song Sohee",
-          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
         }
       ],
-      "duration_ms": 233000,
-      "name": "SUZUME",
-      "url": "https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we"
+      "duration_ms": 274000,
+      "name": "When I think about you",
+      "url": "https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5"
     },
     {
       "added_at": "2026-06-04 01:55:44",
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2026-06-04 01:55:44",
       "album": {
-        "name": "YOUNHA Studio Live Album 'MINDSET'",
-        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
+        "name": "SUZUME",
+        "url": "https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx"
       },
       "artists": [
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
         }
       ],
-      "duration_ms": 331600,
-      "name": "Kaze",
-      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
+      "duration_ms": 233000,
+      "name": "SUZUME",
+      "url": "https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we"
     },
     {
       "added_at": "2026-06-04 01:55:44",
@@ -1631,6 +1615,22 @@
       "duration_ms": 170533,
       "name": "17",
       "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+    },
+    {
+      "added_at": "2026-06-04 01:55:44",
+      "album": {
+        "name": "YOUNHA Studio Live Album 'MINDSET'",
+        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "Kaze",
+      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
     },
     {
       "added_at": "2026-06-04 01:55:44",
@@ -1667,18 +1667,22 @@
     {
       "added_at": "2026-06-04 01:55:44",
       "album": {
-        "name": "I Can't Help It",
-        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
       "artists": [
         {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        },
+        {
+          "name": "JEON MI DO",
+          "url": "https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX"
         }
       ],
-      "duration_ms": 224480,
-      "name": "I Can't Help It (Prod. Jungkey)",
-      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
+      "duration_ms": 226480,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
     }
   ],
   "unique_name": "v o K a l",

@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 191380,
+  "num_followers": 191408,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "Along the Lethe",
+        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
+      },
+      "artists": [
+        {
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Harm",
+      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "Nterini - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 231923,
       "name": "Nterini - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
-        "name": "Along the Lethe",
-        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
-      },
-      "artists": [
-        {
-          "name": "Beacon",
-          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Harm",
-      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Be Loved",
-        "url": "https://open.spotify.com/album/6AqdBFxzWYGO0OSeU8AnJG"
-      },
-      "artists": [
-        {
-          "name": "Kuzco",
-          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
-        }
-      ],
-      "duration_ms": 253214,
-      "name": "Be Loved",
-      "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "Be Loved",
+        "url": "https://open.spotify.com/album/6AqdBFxzWYGO0OSeU8AnJG"
+      },
+      "artists": [
+        {
+          "name": "Kuzco",
+          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
+        }
+      ],
+      "duration_ms": 253214,
+      "name": "Be Loved",
+      "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Try Repeat",
-        "url": "https://open.spotify.com/album/1iY0JUvqD7aDzc6x0VXEqc"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Hart",
-          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Try Repeat",
-      "url": "https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Lazy",
         "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 265378,
       "name": "In the Hills",
       "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Try Repeat",
+        "url": "https://open.spotify.com/album/1iY0JUvqD7aDzc6x0VXEqc"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Try Repeat",
+      "url": "https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 382767,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "19-6 Paris",
         "url": "https://open.spotify.com/album/4joXEYLxWU6CDTjPBWmNbK"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 272353,
       "name": "19-6 Paris",
       "url": "https://open.spotify.com/track/1gCf5UhZ7J5Ca4raMR9kE3"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 382767,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz"
     },
     {
       "added_at": "2026-04-03 04:00:50",

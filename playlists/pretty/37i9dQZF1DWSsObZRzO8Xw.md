@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,410 likes - 130 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,458 likes - 130 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 16 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 |
 | 17 | [Dogs and Ducks](https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [Dogs and Ducks](https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz) | 2:41 |
 | 18 | [Quiet](https://open.spotify.com/track/4llDF3RuBQYj2nkjTCJY4w) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 4:53 |
-| 19 | [Elm](https://open.spotify.com/track/3f27mtLKBWGcGC5VXbMNji) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
-| 20 | [Objets de Vertu](https://open.spotify.com/track/3ykYzbCnEmzzZfDrxSQQtK) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Kismet](https://open.spotify.com/album/2wTmoV4HbOxx1l1a6nogAm) | 3:31 |
+| 19 | [Objets de Vertu](https://open.spotify.com/track/3ykYzbCnEmzzZfDrxSQQtK) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Kismet](https://open.spotify.com/album/2wTmoV4HbOxx1l1a6nogAm) | 3:31 |
+| 20 | [Elm](https://open.spotify.com/track/3f27mtLKBWGcGC5VXbMNji) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
 | 21 | [Climbing a Wall](https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi) | [Floral](https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k) | [Floral EP](https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr) | 3:39 |
 | 22 | [Electronic Girl](https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW) | [Chinese Football](https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk) | [Here comes a new challenger!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7) | 5:10 |
 | 23 | [ascending faster than before \- ACT I : The Beginning](https://open.spotify.com/track/4KWDXp5vKg3P2hco4WxFE1) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [ascending faster than before \- ACT I : The Beginning](https://open.spotify.com/album/2ccIhRAvomOmM8DP5YGrzq) | 3:33 |
 | 24 | [Chevalier Bulltoe](https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww) | [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Home Alone](https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U) | 3:32 |
 | 25 | [potage](https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [potage](https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu) | 4:06 |
-| 26 | [Open Closed Open](https://open.spotify.com/track/6DTCPf9Etdq5tPnU58mzGK) | [pennines](https://open.spotify.com/artist/2ngVUQofGnl0VfpvM0uE0y) | [First CD](https://open.spotify.com/album/1PMqOoj1Z3A4F6bOvHU20L) | 4:26 |
-| 27 | [Teleblister](https://open.spotify.com/track/0JQgWfYZJRgi6Xge4Qv7Cb) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
+| 26 | [Teleblister](https://open.spotify.com/track/0JQgWfYZJRgi6Xge4Qv7Cb) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
+| 27 | [Open Closed Open](https://open.spotify.com/track/6DTCPf9Etdq5tPnU58mzGK) | [pennines](https://open.spotify.com/artist/2ngVUQofGnl0VfpvM0uE0y) | [First CD](https://open.spotify.com/album/1PMqOoj1Z3A4F6bOvHU20L) | 4:26 |
 | 28 | [Semper Augustus 永恒的奥古斯都](https://open.spotify.com/track/0G9slHEyeAOmLnC2ub7yCw) | [Fayzz](https://open.spotify.com/artist/3ZY9K4EgThtyd66T3156Tt) | [Days Gone](https://open.spotify.com/album/5Y6c45Zme1R0FiEce3Z6c0) | 5:01 |
 | 29 | [If I Sit Still, Maybe I'll Get Out of Here](https://open.spotify.com/track/4pA7Q39tKh9k7NPjNGkMh2) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [This Town Needs Guns](https://open.spotify.com/album/4HIu9GFo8liRyJnUu6ex6U) | 6:02 |
 | 30 | [Parametric](https://open.spotify.com/track/4Z9Re6GbbmInDsT8s1pIp7) | [Shaw](https://open.spotify.com/artist/7aZ3TdPafhahG42XQSyaIl) | [Book of Patterns](https://open.spotify.com/album/2zb8LN5IwRouu6etkH75sJ) | 4:48 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 40 | [Little Bubble, Where You Going?](https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx) | [Piglet](https://open.spotify.com/artist/7eMopflZIkcPF4refj6MNU) | [Lava Land](https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM) | 4:57 |
 | 41 | [Fire Back About Your New Baby's Sex](https://open.spotify.com/track/01VhYbUIdJABCY4Ceupxbn) | [Don Caballero](https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C) | [American Don](https://open.spotify.com/album/3y1aPtqR1BkUXAaOUoDCRo) | 4:43 |
 | 42 | [Pineapple](https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Friends](https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1) | 2:55 |
-| 43 | [Natural Light](https://open.spotify.com/track/0iPyZ5pGwkxllI4LmqmkBF) | [Of Two Minds](https://open.spotify.com/artist/0rtQWH4Rk1eqXt0hih66sL) | [Natural Light](https://open.spotify.com/album/5qCQglnOmuu5RSLtyReSko) | 3:57 |
-| 44 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
+| 43 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
+| 44 | [Natural Light](https://open.spotify.com/track/0iPyZ5pGwkxllI4LmqmkBF) | [Of Two Minds](https://open.spotify.com/artist/0rtQWH4Rk1eqXt0hih66sL) | [Natural Light](https://open.spotify.com/album/5qCQglnOmuu5RSLtyReSko) | 3:57 |
 | 45 | [Echolocation](https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Installation](https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO) | 3:54 |
 | 46 | [Raft Easily](https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r) | [Rooftops](https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6) | [A Forest of Polarity](https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o) | 3:37 |
 | 47 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Saint Clair
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,409 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,419 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Sunshine](https://open.spotify.com/track/2xpYx5IBYjLbApxEORAWsp) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Sunshine](https://open.spotify.com/album/1k76QxrouaepTbU0204IQX) | 3:27 |
 | 50 | [Marsh](https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Marsh](https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo) | 2:54 |
 
-Snapshot ID: `AAAAAMX3pQTygOadMEkMW57Gsq+7zuyV`
+Snapshot ID: `AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts`

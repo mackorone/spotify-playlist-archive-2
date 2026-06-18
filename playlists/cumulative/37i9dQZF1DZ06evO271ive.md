@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-136 songs - 6 hr 20 min
+137 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO) | 2:43 | 2023-11-10 | 2025-05-18 |
 | [I Love My Nickel](https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I Love My Nickel](https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM) | 2:04 | 2023-11-10 | 2025-03-12 |
 | [I Might \(feat\. Summer Walker\)](https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 | 2023-12-13 | 2026-01-15 |
-| [If You Want It](https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [If You Want It](https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0) | 3:02 | 2025-12-28 |  |
+| [If You Want It](https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [If You Want It](https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0) | 3:02 | 2025-12-28 | 2026-06-18 |
+| [If You Want It](https://open.spotify.com/track/2w7eSCgQr9mZ7u2FUfkRnv) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 3:02 | 2026-06-18 |  |
 | [Is You Coo](https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Is You Coo](https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu) | 2:31 | 2025-09-27 | 2026-03-21 |
 | [It Bitches](https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 2:49 | 2026-04-20 |  |
 | [It's My Birthday](https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:27 | 2024-08-13 | 2026-04-21 |

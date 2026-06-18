@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118005,
+  "num_followers": 118007,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAB6vfF7Fn5QWOQt2EHU2T/t",
+  "snapshot_id": "ajCSAAAAAABN3NavMQQt4hO+OWXF3Fqv",
   "tracks": [
     {
       "added_at": null,
@@ -100,7 +100,7 @@
       "added_at": null,
       "album": {
         "name": "CUANDO NADIE LA VE",
-        "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
+        "url": "https://open.spotify.com/album/1h5M7sW3OD57E1p6rS2Be6"
       },
       "artists": [
         {
@@ -114,7 +114,7 @@
       ],
       "duration_ms": 146417,
       "name": "CUANDO NADIE LA VE",
-      "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
+      "url": "https://open.spotify.com/track/0RDFRCTbMo7QVLRgyPk7QF"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Nueva Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
-      },
-      "artists": [
-        {
-          "name": "Somos 3",
-          "url": "https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Mi Nueva Versi\u00f3n",
-      "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novedad",
         "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 209157,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Nueva Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
+      },
+      "artists": [
+        {
+          "name": "Somos 3",
+          "url": "https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Mi Nueva Versi\u00f3n",
+      "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
     },
     {
       "added_at": null,

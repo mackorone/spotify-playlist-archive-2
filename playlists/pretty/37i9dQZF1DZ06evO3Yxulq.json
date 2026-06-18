@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACm3XRnxw/mVCTU6ygFQXOM",
+  "snapshot_id": "ajCSAAAAAADtw8VbQ2tcwrXmm9DnNKEf",
   "tracks": [
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 287533,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Desmayes Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0njQsUgKgj9UeIv9iYGTAk"
-      },
-      "artists": [
-        {
-          "name": "Edgar Lira",
-          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 344125,
-      "name": "En Ti Confiar\u00e9",
-      "url": "https://open.spotify.com/track/4kh7H6xAMpYLZNqo7TRtiR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corriente / Un D\u00eda A La Vez (Medley)",
         "url": "https://open.spotify.com/album/4HGdkSc64Tg2l1T061A3iR"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 231742,
       "name": "Corriente / Un D\u00eda A La Vez (Medley)",
       "url": "https://open.spotify.com/track/7eReRSzohm05KEZ1RFBGV5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Desmayes Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0njQsUgKgj9UeIv9iYGTAk"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 344125,
+      "name": "En Ti Confiar\u00e9",
+      "url": "https://open.spotify.com/track/4kh7H6xAMpYLZNqo7TRtiR"
     }
   ],
   "unique_name": "This Is Christine D'Clario",

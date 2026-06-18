@@ -1,6 +1,6 @@
 {
   "description": "The Ultimate EA SPORTS FC USA Playlist: bringing together the sounds of the USA in celebration of The World's Game. Curated specially for you.",
-  "num_followers": 395024,
+  "num_followers": 395013,
   "original_name": "EA SPORTS FC Ultimate Mix: USA",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-06-12 10:00:24",
       "album": {
+        "name": "SMILE! :D",
+        "url": "https://open.spotify.com/album/7qx3Q51nfQvkEHIREiTRCO"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/1ggsR5kCepKTW4F64bCFdV"
+    },
+    {
+      "added_at": "2026-06-12 10:00:24",
+      "album": {
         "name": "The Hillbillies",
         "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 204800,
       "name": "The Hillbillies",
       "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
-    },
-    {
-      "added_at": "2026-06-12 10:00:24",
-      "album": {
-        "name": "SMILE! :D",
-        "url": "https://open.spotify.com/album/7qx3Q51nfQvkEHIREiTRCO"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 237567,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/1ggsR5kCepKTW4F64bCFdV"
     },
     {
       "added_at": "2026-06-12 10:00:24",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-06-12 10:00:24",
       "album": {
+        "name": "Supermodel",
+        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Are You What You Want to Be?",
+      "url": "https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6"
+    },
+    {
+      "added_at": "2026-06-12 10:00:24",
+      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
-    },
-    {
-      "added_at": "2026-06-12 10:00:24",
-      "album": {
-        "name": "Supermodel",
-        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 270693,
-      "name": "Are You What You Want to Be?",
-      "url": "https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6"
     },
     {
       "added_at": "2026-06-12 10:00:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-06-12 10:00:24",
       "album": {
-        "name": "Wrong Time",
-        "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
-      },
-      "artists": [
-        {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
-        }
-      ],
-      "duration_ms": 170387,
-      "name": "Wrong Time",
-      "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
-    },
-    {
-      "added_at": "2026-06-12 10:00:24",
-      "album": {
         "name": "EDNA",
         "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
       },
@@ -763,6 +747,38 @@
       "duration_ms": 185080,
       "name": "Princess Cuts (feat. Young T & Bugsey)",
       "url": "https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd"
+    },
+    {
+      "added_at": "2026-06-12 10:00:24",
+      "album": {
+        "name": "Wrong Time",
+        "url": "https://open.spotify.com/album/3a6or8qwEaFtPZFhEWVOTQ"
+      },
+      "artists": [
+        {
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+        }
+      ],
+      "duration_ms": 170387,
+      "name": "Wrong Time",
+      "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"
+    },
+    {
+      "added_at": "2026-06-12 10:00:24",
+      "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 164188,
+      "name": "Bury Me Alive",
+      "url": "https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ"
     },
     {
       "added_at": "2026-06-12 10:00:24",
@@ -803,22 +819,6 @@
       "duration_ms": 238440,
       "name": "Aquamarine (feat. Michael Kiwanuka)",
       "url": "https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr"
-    },
-    {
-      "added_at": "2026-06-12 10:00:24",
-      "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 164188,
-      "name": "Bury Me Alive",
-      "url": "https://open.spotify.com/track/3sm9P6PgKzatTgyiyj0IzQ"
     },
     {
       "added_at": "2026-06-12 10:00:24",

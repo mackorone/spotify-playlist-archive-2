@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12838,
+  "num_followers": 12840,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACicWk5hnOtnk/nTxNe3gLv",
+  "snapshot_id": "ajCSAAAAAAADbWJbSFpegka7zm/sFlRn",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Be Good to You",
-        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 276093,
-      "name": "Time Will Take Care of Everything",
-      "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
+      "duration_ms": 263200,
+      "name": "The Girl From Ipanema - Live",
+      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
     },
     {
       "added_at": null,
@@ -348,15 +348,15 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 272413,
-      "name": "If I Coulda, Woulda, Shoulda",
-      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
+      "duration_ms": 231653,
+      "name": "Not the Staying Kind",
+      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Plays Bossa Nova",
-        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 263200,
-      "name": "The Girl From Ipanema - Live",
-      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
+      "duration_ms": 276093,
+      "name": "Time Will Take Care of Everything",
+      "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Not the Staying Kind",
-      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
+      "duration_ms": 272413,
+      "name": "If I Coulda, Woulda, Shoulda",
+      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "duration_ms": 357040,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brotherman!: Lou Rawls Sings His Hits",
         "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 163813,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stormy Monday",
-        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        },
-        {
-          "name": "Les McCann",
-          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
-        }
-      ],
-      "duration_ms": 357040,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lou Rawls - The Very Best Of",
-        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "Wind Beneath My Wings - Single Version",
-      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tobacco Road",
         "url": "https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lou Rawls - The Very Best Of",
+        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "Wind Beneath My Wings - Single Version",
+      "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 291173,
       "name": "You Are",
       "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lou Rawls - The Very Best Of",
-        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "That Would Do It for Me",
-      "url": "https://open.spotify.com/track/018N2ZUUruZrwLHPDtuwj0"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 184026,
       "name": "A Lover's Question",
       "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lou Rawls - The Very Best Of",
+        "url": "https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "That Would Do It for Me",
+      "url": "https://open.spotify.com/track/018N2ZUUruZrwLHPDtuwj0"
     },
     {
       "added_at": null,

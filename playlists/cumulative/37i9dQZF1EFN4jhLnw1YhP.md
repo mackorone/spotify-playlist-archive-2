@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 6 hr 56 min
+115 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Let Me Tell You](https://open.spotify.com/track/4gjYZVAqK4v4ln0iSBl4uC) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [The One / Let Me Tell You](https://open.spotify.com/album/5vN8glAgbs4UOwbzd8bhuY) | 4:21 | 2025-10-27 |  |
 | [Like Home](https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Like Home](https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4) | 3:11 | 2025-10-27 |  |
 | [Lonely](https://open.spotify.com/track/0JrbZwJPfWMXTZW68jzyR2) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:10 | 2026-02-20 |  |
+| [Love Me or Lie](https://open.spotify.com/track/5K4krJb4vQolazcqYgFbHb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Love Me or Lie](https://open.spotify.com/album/7sRcLXHqMQ5OpgsiffvD4X) | 2:21 | 2026-06-17 |  |
 | [Lullaby](https://open.spotify.com/track/4uvDD1w3zySeYBtfHiHSrA) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Supernal Dawn](https://open.spotify.com/album/4vdHr2Rv5zSPZslTpz0MyQ) | 4:02 | 2025-10-27 |  |
 | [MAGNETIC](https://open.spotify.com/track/7GZzsSkIXMgqJl0TxYDPRz) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [DAY ONE](https://open.spotify.com/album/4X2k3NS469qBJXhGY02jAl) | 3:02 | 2026-02-20 |  |
 | [Making Time](https://open.spotify.com/track/4hIj1YNfEdcYnYawKK0eYd) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:31 | 2025-10-27 |  |

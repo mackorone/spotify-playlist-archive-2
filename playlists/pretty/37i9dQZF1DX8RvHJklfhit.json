@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 228291,
+  "num_followers": 228348,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 213186,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Verano Panor\u00e1mico",
-        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 127704,
-      "name": "That's Playa",
-      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 231973,
       "name": "Missed Connection",
       "url": "https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Verano Panor\u00e1mico",
+        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 127704,
+      "name": "That's Playa",
+      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
     },
     {
       "added_at": "2024-07-12 18:08:37",

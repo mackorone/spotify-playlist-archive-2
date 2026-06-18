@@ -1,6 +1,6 @@
 {
   "description": "After all, we are all siblings. Cover: Marbles",
-  "num_followers": 37003,
+  "num_followers": 37006,
   "original_name": "mantap vibes",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
-        "name": "bergema sampai selamanya",
-        "url": "https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 198567,
-      "name": "bergema sampai selamanya",
-      "url": "https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe"
-    },
-    {
-      "added_at": "2026-06-12 05:34:30",
-      "album": {
         "name": "Bunga Maaf",
         "url": "https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 252349,
       "name": "Bunga Maaf",
       "url": "https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv"
+    },
+    {
+      "added_at": "2026-06-12 05:34:30",
+      "album": {
+        "name": "bergema sampai selamanya",
+        "url": "https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 198567,
+      "name": "bergema sampai selamanya",
+      "url": "https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe"
     },
     {
       "added_at": "2026-06-12 05:34:30",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
+        "name": "2001x",
+        "url": "https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN"
+      },
+      "artists": [
+        {
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
+        }
+      ],
+      "duration_ms": 204149,
+      "name": "2001x",
+      "url": "https://open.spotify.com/track/7EkTXoaED7peReoRytElSi"
+    },
+    {
+      "added_at": "2026-06-12 05:34:30",
+      "album": {
         "name": "Takkan Terulang",
         "url": "https://open.spotify.com/album/69QQUogmI0SK2GGjMSjEnN"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 228851,
       "name": "Sempurnanya Aku",
       "url": "https://open.spotify.com/track/0JfmPdTQbvJpD6ngsCLgR5"
-    },
-    {
-      "added_at": "2026-06-12 05:34:30",
-      "album": {
-        "name": "2001x",
-        "url": "https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN"
-      },
-      "artists": [
-        {
-          "name": "Adrian Khalif",
-          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
-        }
-      ],
-      "duration_ms": 204149,
-      "name": "2001x",
-      "url": "https://open.spotify.com/track/7EkTXoaED7peReoRytElSi"
     },
     {
       "added_at": "2026-06-12 05:34:30",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
-        "name": "Nafas",
-        "url": "https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN"
-      },
-      "artists": [
-        {
-          "name": "Dipha Barus",
-          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
-        },
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Nafas",
-      "url": "https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs"
-    },
-    {
-      "added_at": "2026-06-12 05:34:30",
-      "album": {
         "name": "Tanpa Cinta",
         "url": "https://open.spotify.com/album/5FZVotW2jvhK31tvGSCKHz"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 255327,
       "name": "Tanpa Cinta",
       "url": "https://open.spotify.com/track/3CSFXGhoR8C9kBF90xhIXG"
+    },
+    {
+      "added_at": "2026-06-12 05:34:30",
+      "album": {
+        "name": "Nafas",
+        "url": "https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN"
+      },
+      "artists": [
+        {
+          "name": "Dipha Barus",
+          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
+        },
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Nafas",
+      "url": "https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs"
     },
     {
       "added_at": "2026-06-12 05:34:30",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
-        "name": "Keliling",
-        "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
-      },
-      "artists": [
-        {
-          "name": "Farrel Hilal",
-          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
-        }
-      ],
-      "duration_ms": 179225,
-      "name": "Keliling",
-      "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
-    },
-    {
-      "added_at": "2026-06-12 05:34:30",
-      "album": {
         "name": "Salahi Aku (Ku Jatuh Cinta Lagi)",
         "url": "https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 235784,
       "name": "Salahi Aku (Ku Jatuh Cinta Lagi)",
       "url": "https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4"
+    },
+    {
+      "added_at": "2026-06-12 05:34:30",
+      "album": {
+        "name": "Keliling",
+        "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "duration_ms": 179225,
+      "name": "Keliling",
+      "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
     },
     {
       "added_at": "2026-06-12 05:34:30",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
-        "name": "shoot",
-        "url": "https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "shoot",
-      "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
-    },
-    {
-      "added_at": "2026-06-12 05:34:30",
-      "album": {
         "name": "Sumpah Mati",
         "url": "https://open.spotify.com/album/123f6H1A6X8scJKFvt1Zy8"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 240034,
       "name": "Sumpah Mati",
       "url": "https://open.spotify.com/track/1JPKV0sdQihvEIzXoZxIB6"
+    },
+    {
+      "added_at": "2026-06-12 05:34:30",
+      "album": {
+        "name": "shoot",
+        "url": "https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "shoot",
+      "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
     },
     {
       "added_at": "2026-06-12 05:34:30",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
-        "name": "centyl",
-        "url": "https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF"
-      },
-      "artists": [
-        {
-          "name": "Naykilla",
-          "url": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Raga",
-      "url": "https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9"
-    },
-    {
-      "added_at": "2026-06-12 05:34:30",
-      "album": {
         "name": "Sumpah Mati",
         "url": "https://open.spotify.com/album/0ymaEZjGF1TmSvLRBSfO4h"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 208970,
       "name": "Sumpah Mati",
       "url": "https://open.spotify.com/track/5YxTyB77VRg3aul5gwv19Y"
+    },
+    {
+      "added_at": "2026-06-12 05:34:30",
+      "album": {
+        "name": "centyl",
+        "url": "https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF"
+      },
+      "artists": [
+        {
+          "name": "Naykilla",
+          "url": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Raga",
+      "url": "https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9"
     },
     {
       "added_at": "2026-06-12 05:34:30",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
+        "name": "10 Menit Untuk Selamanya",
+        "url": "https://open.spotify.com/album/5cV4r5GpL0DAYk31qbzKk5"
+      },
+      "artists": [
+        {
+          "name": "Paul Aro",
+          "url": "https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB"
+        }
+      ],
+      "duration_ms": 244537,
+      "name": "10 Menit Untuk Selamanya",
+      "url": "https://open.spotify.com/track/5SLVY1sGV2keqf7lnphHZU"
+    },
+    {
+      "added_at": "2026-06-12 05:34:30",
+      "album": {
         "name": "Sebatas Mimpi",
         "url": "https://open.spotify.com/album/7i0hFkyqprLGxZu5uVGEnY"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
-        "name": "10 Menit Untuk Selamanya",
-        "url": "https://open.spotify.com/album/5cV4r5GpL0DAYk31qbzKk5"
+        "name": "Jagat Rasa",
+        "url": "https://open.spotify.com/album/7hlS6Qo6pkJJhTj4hlOa5G"
       },
       "artists": [
         {
-          "name": "Paul Aro",
-          "url": "https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB"
+          "name": "Samuel Cipta",
+          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
         }
       ],
-      "duration_ms": 244537,
-      "name": "10 Menit Untuk Selamanya",
-      "url": "https://open.spotify.com/track/5SLVY1sGV2keqf7lnphHZU"
+      "duration_ms": 217464,
+      "name": "Jagat Rasa",
+      "url": "https://open.spotify.com/track/7hdbQm5MDOGozVSmrHm8Mw"
     },
     {
       "added_at": "2026-06-12 05:34:30",
@@ -1615,22 +1631,6 @@
       "duration_ms": 251298,
       "name": "Menunggumu Sampai Akhir Hidup",
       "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
-    },
-    {
-      "added_at": "2026-06-12 05:34:30",
-      "album": {
-        "name": "Jagat Rasa",
-        "url": "https://open.spotify.com/album/7hlS6Qo6pkJJhTj4hlOa5G"
-      },
-      "artists": [
-        {
-          "name": "Samuel Cipta",
-          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
-        }
-      ],
-      "duration_ms": 217464,
-      "name": "Jagat Rasa",
-      "url": "https://open.spotify.com/track/7hdbQm5MDOGozVSmrHm8Mw"
     },
     {
       "added_at": "2026-06-12 05:34:30",
@@ -1711,18 +1711,22 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/6McnIPXNodbUnO0PMHwFho"
+        "name": "Sumpah Mati",
+        "url": "https://open.spotify.com/album/2hH7D6CvioEk90A0NyLJgL"
       },
       "artists": [
         {
-          "name": "Tenxi",
-          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+          "name": "Rio Lahskart",
+          "url": "https://open.spotify.com/artist/6yfTEQrgBQZCBETSWbGdfZ"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
         }
       ],
-      "duration_ms": 136951,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/6HEcXkTRvZSE5zeCqcl88A"
+      "duration_ms": 220649,
+      "name": "Sumpah Mati",
+      "url": "https://open.spotify.com/track/4WIh0MLodej2ts8EDBhLGU"
     },
     {
       "added_at": "2026-06-12 05:34:30",
@@ -1743,6 +1747,22 @@
     {
       "added_at": "2026-06-12 05:34:30",
       "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6McnIPXNodbUnO0PMHwFho"
+      },
+      "artists": [
+        {
+          "name": "Tenxi",
+          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+        }
+      ],
+      "duration_ms": 136951,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/6HEcXkTRvZSE5zeCqcl88A"
+    },
+    {
+      "added_at": "2026-06-12 05:34:30",
+      "album": {
         "name": "Berusaha di Bawah Hujan",
         "url": "https://open.spotify.com/album/2D2escw6RwZriL7Ia8EB05"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 205778,
       "name": "Berusaha di Bawah Hujan",
       "url": "https://open.spotify.com/track/5Oe6NDPYBHcQapkke8fsWn"
-    },
-    {
-      "added_at": "2026-06-12 05:34:30",
-      "album": {
-        "name": "Sumpah Mati",
-        "url": "https://open.spotify.com/album/2hH7D6CvioEk90A0NyLJgL"
-      },
-      "artists": [
-        {
-          "name": "Rio Lahskart",
-          "url": "https://open.spotify.com/artist/6yfTEQrgBQZCBETSWbGdfZ"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Sumpah Mati",
-      "url": "https://open.spotify.com/track/4WIh0MLodej2ts8EDBhLGU"
     }
   ],
   "unique_name": "mantap vibes",

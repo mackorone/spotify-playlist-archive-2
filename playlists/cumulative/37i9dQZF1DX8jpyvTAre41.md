@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Slow Pulp
 
-1,871 songs - 4 day 9 hr 18 min
+1,872 songs - 4 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1288,6 +1288,7 @@
 | [PURGE ft\. Siiickbrain](https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PURGE ft\. Siiickbrain](https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1) | 2:37 | 2022-04-01 | 2022-04-07 |
 | [Push and Shove](https://open.spotify.com/track/2YK8RnQAEHgpgNk8yXi1VC) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Push and Shove](https://open.spotify.com/album/3FijYSpdP7dLFv4JzFbyrr) | 2:31 | 2022-03-04 | 2022-04-02 |
 | [Queen Of Nothing](https://open.spotify.com/track/5S03UZD1PCeuXyBWZ9Ugml) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Queen of Nothing](https://open.spotify.com/album/6EU1TLfLxJ9pGLD66Gy8aB) | 3:01 | 2025-12-12 | 2026-03-07 |
+| [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/track/4t2iBQXTof6BoWCIxkgFF1) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/album/2BdQsMhZDuxilUo1mG12OK) | 4:00 | 2026-06-12 |  |
 | [Rabbit Run \- From the "Caught Stealing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1uA4NmAjuQIaM2hcOzftFx) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Caught Stealing Movie](https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo) | [Rabbit Run \(From the "Caught Stealing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39PWEXZY2QbMCp1f31mPmL) | 3:46 | 2025-08-01 | 2025-09-19 |
 | [Rags](https://open.spotify.com/track/412DgnJV3OyVDSC62kSMgO) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Rags](https://open.spotify.com/album/3caDFJoWMdSlWjPDtEghOh) | 2:48 | 2025-03-28 | 2025-07-26 |
 | [Rain, Hearts And Fire](https://open.spotify.com/track/7p1npRNbFIXcYcNc02K2rm) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here \(Deluxe\)](https://open.spotify.com/album/5548ROx9ZxjJ2iXCq9DLI6) | 3:35 | 2024-11-08 | 2024-12-14 |

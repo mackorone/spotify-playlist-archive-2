@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3925,
+  "num_followers": 3926,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABsNbcfDGBLnaHVzD+GbdiB",
+  "snapshot_id": "ajCSAAAAAAC2d0eQOn3SwXTND1N63F9I",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HERSKIII",
+        "url": "https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 120774,
+      "name": "HERSKIII",
+      "url": "https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bitch Duh feat. BIA (Remix)",
         "url": "https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 172235,
       "name": "Bitch Duh feat. BIA (Remix)",
       "url": "https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERSKIII",
-        "url": "https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 120774,
-      "name": "HERSKIII",
-      "url": "https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "incua (special edition)",
-        "url": "https://open.spotify.com/album/1NJuOCEopoGxavyU2T0Y7t"
-      },
-      "artists": [
-        {
-          "name": "Destiny Briona",
-          "url": "https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "special - remix",
-      "url": "https://open.spotify.com/track/2KSyX260gogr0jfAupg4OQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raw Btch",
         "url": "https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 161705,
       "name": "Raw Btch",
       "url": "https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "incua (special edition)",
+        "url": "https://open.spotify.com/album/1NJuOCEopoGxavyU2T0Y7t"
+      },
+      "artists": [
+        {
+          "name": "Destiny Briona",
+          "url": "https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "special - remix",
+      "url": "https://open.spotify.com/track/2KSyX260gogr0jfAupg4OQ"
     },
     {
       "added_at": null,

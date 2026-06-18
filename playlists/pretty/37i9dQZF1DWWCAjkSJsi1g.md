@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,179 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,192 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 71 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |
 | 72 | [Beautiful Girls \- Radio Edit](https://open.spotify.com/track/4Tf94tAHtlQxjbeeyU3y7C) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/3xNkswNSrzwSAIb6qleRrA) | 3:45 |
 | 73 | [Tipsy \- Radio Mix](https://open.spotify.com/track/2lVDc57IMK6nypg2iuEWVR) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Tipsy](https://open.spotify.com/album/5Woeg9DhPiMTP0MwKRqT0t) | 4:03 |
-| 74 | [Sweet Like Chocolate \(Radio Edit\)](https://open.spotify.com/track/3IFVskDtdJTwAZ0I8HGvoO) | [Shanks & Bigfoot](https://open.spotify.com/artist/2HdJwHponT4dLmV57ry159) | [Sweet Like Chocolate](https://open.spotify.com/album/1PZubkPoodI7JEON9ljzOC) | 3:30 |
-| 75 | [It Wasn't Me](https://open.spotify.com/track/0ec2YqaLnasKAES0iWMmhy) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [The Boombastic Collection \- Best Of Shaggy \(International Version\)](https://open.spotify.com/album/0JFoLERkkPF0TMg5XnMjDs) | 3:47 |
+| 74 | [It Wasn't Me](https://open.spotify.com/track/0ec2YqaLnasKAES0iWMmhy) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [The Boombastic Collection \- Best Of Shaggy \(International Version\)](https://open.spotify.com/album/0JFoLERkkPF0TMg5XnMjDs) | 3:47 |
+| 75 | [Sweet Like Chocolate \(Radio Edit\)](https://open.spotify.com/track/3IFVskDtdJTwAZ0I8HGvoO) | [Shanks & Bigfoot](https://open.spotify.com/artist/2HdJwHponT4dLmV57ry159) | [Sweet Like Chocolate](https://open.spotify.com/album/1PZubkPoodI7JEON9ljzOC) | 3:30 |
 | 76 | [Teardrops \(Flava 7" Mix\)](https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ) | [Lovestation](https://open.spotify.com/artist/3LRRdfXOYGIcwLviuwDIf1) | [Teardrops](https://open.spotify.com/album/6AJuYuamYUyOkn34HJ2kH6) | 3:46 |
 | 77 | [Bootylicious](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 3:27 |
 | 78 | [Dilemma](https://open.spotify.com/track/18vdhCWxqPohnPwicDi3Xr) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/1kh5XByhI0DDWV7m9kddr0) | 4:49 |

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 381961,
+  "num_followers": 382004,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 290250,
       "name": "Muda os Planos - Ao Vivo",
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/63SgNZhriYWjvXiCIH9fui"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        },
-        {
-          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Escape - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2muJIyYeYKUv0cAQvoPKWK"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
         "name": "Doce Presen\u00e7a",
         "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 247104,
       "name": "Doce Presen\u00e7a",
       "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
+        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/63SgNZhriYWjvXiCIH9fui"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
+        {
+          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Escape - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2muJIyYeYKUv0cAQvoPKWK"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Sala De Estar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "K\u00e9sia Soares",
+          "url": "https://open.spotify.com/artist/1kFQW1pOLiBkqK9Lu8Wook"
+        }
+      ],
+      "duration_ms": 260579,
+      "name": "Sala De Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Medley Ac\u00fastico: Pra Sempre Vou Te Amar Jesus / Dna de Maria (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bpS7bdLRXW7NIVNQOLJCW"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 248000,
       "name": "Quero Mais - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Sala De Estar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3nHyV7DRqfVWaM4gD6v1SJ"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "K\u00e9sia Soares",
-          "url": "https://open.spotify.com/artist/1kFQW1pOLiBkqK9Lu8Wook"
-        }
-      ],
-      "duration_ms": 260579,
-      "name": "Sala De Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0yNgKCiVR2GHwgv2qIU6hq"
     },
     {
       "added_at": "2026-03-13 19:15:18",

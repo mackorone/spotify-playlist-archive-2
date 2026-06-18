@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72788,
+  "num_followers": 72800,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,18 @@
     {
       "added_at": "2026-06-12 03:01:44",
       "album": {
-        "name": "Fiquei assim",
-        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
       },
       "artists": [
         {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
         }
       ],
-      "duration_ms": 218662,
-      "name": "Fiquei assim",
-      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
+      "duration_ms": 279412,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
     },
     {
       "added_at": "2026-06-12 03:01:44",
@@ -291,6 +287,26 @@
     {
       "added_at": "2026-06-12 03:01:44",
       "album": {
+        "name": "Fiquei assim",
+        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 218662,
+      "name": "Fiquei assim",
+      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
+    },
+    {
+      "added_at": "2026-06-12 03:01:44",
+      "album": {
         "name": "Dissolu\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 179586,
       "name": "Compartilhando o c\u00e9u",
       "url": "https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag"
-    },
-    {
-      "added_at": "2026-06-12 03:01:44",
-      "album": {
-        "name": "Apaixonado",
-        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
-      },
-      "artists": [
-        {
-          "name": "Thiago Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
-        }
-      ],
-      "duration_ms": 279412,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
     },
     {
       "added_at": "2026-06-12 03:01:44",
@@ -379,18 +379,22 @@
     {
       "added_at": "2026-06-12 03:01:44",
       "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+        "name": "Abre Alas",
+        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
       "artists": [
         {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         }
       ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+      "duration_ms": 311811,
+      "name": "Abre Alas",
+      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
     },
     {
       "added_at": "2026-06-12 03:01:44",
@@ -411,22 +415,18 @@
     {
       "added_at": "2026-06-12 03:01:44",
       "album": {
-        "name": "Abre Alas",
-        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
       "artists": [
         {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
         }
       ],
-      "duration_ms": 311811,
-      "name": "Abre Alas",
-      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-06-12 03:01:44",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-06-12 03:01:44",
       "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
+    },
+    {
+      "added_at": "2026-06-12 03:01:44",
+      "album": {
         "name": "LAR",
         "url": "https://open.spotify.com/album/17HW9qCYB9V3WBBDQgEgUQ"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 172653,
       "name": "Tudo o Que Sou",
       "url": "https://open.spotify.com/track/0pc7uFEfMbjbU8KIQdTfU0"
-    },
-    {
-      "added_at": "2026-06-12 03:01:44",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2026-06-12 03:01:44",

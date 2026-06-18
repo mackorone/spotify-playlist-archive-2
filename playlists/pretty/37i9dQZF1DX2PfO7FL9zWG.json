@@ -1,6 +1,6 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 78607,
+  "num_followers": 78620,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "Paint Horse",
+        "url": "https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "Paint Horse",
-        "url": "https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 191182,
-      "name": "John Came Home",
-      "url": "https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek"
     },
     {
       "added_at": "2025-02-14 17:00:13",

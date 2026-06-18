@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 927,
+  "num_followers": 931,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAD8Q+kuTF4zCdXQPq45wT9F2O/kZj9",
+  "snapshot_id": "AAAD9r8azLA0HZ0O4OZo538T2NhK5ll5",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -927,6 +927,86 @@
       "duration_ms": 271000,
       "name": "Surfing to Nowhere",
       "url": "https://open.spotify.com/track/6PN45BwdFZexnyNNPWkxyg"
+    },
+    {
+      "added_at": "2026-06-17 12:10:15",
+      "album": {
+        "name": "Nie mehr halbe Wege",
+        "url": "https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T"
+      },
+      "artists": [
+        {
+          "name": "Voltwechsel",
+          "url": "https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j"
+        }
+      ],
+      "duration_ms": 205936,
+      "name": "Nie mehr halbe Wege",
+      "url": "https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K"
+    },
+    {
+      "added_at": "2026-06-17 12:14:17",
+      "album": {
+        "name": "The Percoats Are Coming(Dead Friends Diss)",
+        "url": "https://open.spotify.com/album/4PQEIaZWpsHTM0jOWjr3jL"
+      },
+      "artists": [
+        {
+          "name": "Liam the Brand",
+          "url": "https://open.spotify.com/artist/1wG2iQogJTU0avTSSx5p3t"
+        }
+      ],
+      "duration_ms": 178651,
+      "name": "The Percoats Are Coming(Dead Friends Diss)",
+      "url": "https://open.spotify.com/track/4K8TxP3EyZdLTMg50BUeId"
+    },
+    {
+      "added_at": "2026-06-17 12:17:01",
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/4ptWnwJL8v7UJLAcAgr9Bl"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/6pUnpsCM1fvQrQsNxboHfZ"
+    },
+    {
+      "added_at": "2026-06-17 12:19:21",
+      "album": {
+        "name": "Idontwantit",
+        "url": "https://open.spotify.com/album/6fD0HfZ8Vb2bIIsdGHP99i"
+      },
+      "artists": [
+        {
+          "name": "Sean Blu",
+          "url": "https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx"
+        }
+      ],
+      "duration_ms": 140318,
+      "name": "Idontwantit",
+      "url": "https://open.spotify.com/track/1EPdqwp61Fc9OPHD1QW2kl"
+    },
+    {
+      "added_at": "2026-06-17 12:19:53",
+      "album": {
+        "name": "Melbourne Cat",
+        "url": "https://open.spotify.com/album/0acC0pSJGsYNirxkfWlOxK"
+      },
+      "artists": [
+        {
+          "name": "Jack Dahlqvist",
+          "url": "https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI"
+        }
+      ],
+      "duration_ms": 258484,
+      "name": "Melbourne Cat",
+      "url": "https://open.spotify.com/track/72cmQI7HC2RNIKeGbKUPNH"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

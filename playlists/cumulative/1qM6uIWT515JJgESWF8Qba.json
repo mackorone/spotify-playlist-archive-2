@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Freefalling",
+        "url": "https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Shack",
+          "url": "https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Freefalling",
+      "url": "https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ"
+    },
+    {
+      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/5ZprKugGTao6b6K1EnF84S"
       },

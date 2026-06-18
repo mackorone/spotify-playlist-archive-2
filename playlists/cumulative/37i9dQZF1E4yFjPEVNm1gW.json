@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Cuo Zay, Ken Carson and more",
+  "description": "With Yeat, Cuo Zay, Autumn! and more",
   "name": "Taewitdak Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "Rifferent 2",
+        "url": "https://open.spotify.com/album/3adaiFx0vsDv3GfHacDGsU"
+      },
+      "artists": [
+        {
+          "name": "JG Riff",
+          "url": "https://open.spotify.com/artist/50K3YxeJMeQ0W8aMswmpHE"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "2 Much Drugz",
+      "url": "https://open.spotify.com/track/1PNSzfh6E5g01Mq5w6MtzA"
+    },
     {
       "album": {
         "name": "Therapeutic Deluxe (2nd Session)",
@@ -130,7 +148,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 240000,
       "name": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
       "url": "https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei"
@@ -166,7 +184,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 142013,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/7JZyUe08HBXocrXFTS23Lg"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -616,7 +634,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 133815,
       "name": "Bowls In The Underworld",
       "url": "https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr"
@@ -3138,7 +3156,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -3156,7 +3174,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 138017,
       "name": "P!NK GUN",
       "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
@@ -3702,7 +3720,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 113418,
       "name": "Slay3d",
       "url": "https://open.spotify.com/track/54Sa4mrJAHcdFLUO1dlC6G"
@@ -3957,6 +3975,28 @@
     },
     {
       "album": {
+        "name": "Strings Attached (feat. TopOppGen)",
+        "url": "https://open.spotify.com/album/2DbbTP4zBmi1IdI0RkEbmd"
+      },
+      "artists": [
+        {
+          "name": "AZIEDOESNTEXIST",
+          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
+        },
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107716,
+      "name": "Strings Attached (feat. TopOppGen)",
+      "url": "https://open.spotify.com/track/1alCfXLwNUcZcpDCmtJQ9x"
+    },
+    {
+      "album": {
         "name": "Teen Angst",
         "url": "https://open.spotify.com/album/4EqJbvtHup3H77oSenkCDh"
       },
@@ -4128,7 +4168,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
@@ -4602,10 +4642,28 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 102870,
       "name": "We Don't Care",
       "url": "https://open.spotify.com/track/4KKo6OKDUak3by5jgC2crB"
+    },
+    {
+      "album": {
+        "name": "Where Ya At Max",
+        "url": "https://open.spotify.com/album/4g8ebMA7ezNCWbemBuQqMi"
+      },
+      "artists": [
+        {
+          "name": "Ayerp Archive",
+          "url": "https://open.spotify.com/artist/2V3RmEtxQ9xhMkfTmnLvpa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151401,
+      "name": "Where Ya At Max",
+      "url": "https://open.spotify.com/track/771ihvk0W4LWBBIlLfiXEB"
     },
     {
       "album": {

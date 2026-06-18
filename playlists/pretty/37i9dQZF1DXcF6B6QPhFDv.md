@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| Cover: Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,224,951 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,224,504 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 17 | [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 |
 | 18 | [That's Me](https://open.spotify.com/track/0ivNXNBIslaG7LeLfFaQ0T) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [That's Me](https://open.spotify.com/album/0OFePaI594VRdvqQETTPBn) | 2:11 |
 | 19 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 |
-| 20 | [Punching the Flowers](https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Punching the Flowers](https://open.spotify.com/album/7M1MydZE4a34uIo3iQrthu) | 3:11 |
+| 20 | [Punching the Flowers](https://open.spotify.com/track/2CrCSUqCi4m4iDexkklvmN) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [I Built You A Tower](https://open.spotify.com/album/4D1zUsXw30DbfOqY1gVsfT) | 3:11 |
 | 21 | [Cult of Celebrity](https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Cult of Celebrity](https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm) | 2:13 |
 | 22 | [Jesus Head](https://open.spotify.com/track/0n4R5ruv5gh6p3ZD4VtZKz) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [COLD 2 THE TOUCH](https://open.spotify.com/album/2FPvnCC5H66sUAnNSgQ7hK) | 3:12 |
 | 23 | [Dance In The USA](https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Dance In The USA](https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg) | 2:59 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 33 | [CAN YOU FEEL IT](https://open.spotify.com/track/1UsjO2e3GW7mYpdWXyJ7AN) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [CAN YOU FEEL IT](https://open.spotify.com/album/0YdzgeVCQZum2GdEGkarQb) | 3:03 |
 | 34 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
 | 35 | [White Horses](https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 4:29 |
-| 36 | [Highs and Lows](https://open.spotify.com/track/2jqYwfkkbi9c4nTsRap9RL) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Highs and Lows](https://open.spotify.com/album/5nYfSJY34atP95u6wGEUNw) | 3:43 |
-| 37 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 |
+| 36 | [Highs and Lows](https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Highs and Lows](https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld) | 3:43 |
+| 37 | [Parachute](https://open.spotify.com/track/5iALdwbhnUHa8zGStA3h1J) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 3:40 |
 | 38 | [No Fear](https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:38 |
 | 39 | [American Porn](https://open.spotify.com/track/0QE33yF9DCM0rqG5kVCKKA) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 3:42 |
 | 40 | [Boat Garage](https://open.spotify.com/track/4iMztkHIUoyrc5budQ1fOk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Boat Garage](https://open.spotify.com/album/0SUMGjHajl25ox0yApi0DK) | 2:59 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 43 | [Restless](https://open.spotify.com/track/51KaHmxJMv3AdbLohb6woO) | [untitled](https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx) | [Restless](https://open.spotify.com/album/3qVPWXNRQol9jACnhVrLVk) | 2:53 |
 | 44 | [Burning Out](https://open.spotify.com/track/3075JUjtjJ2mGuy7eoOea2) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Burning Out](https://open.spotify.com/album/0jaqIbGbS0cFqRlHlqjGDB) | 3:18 |
 | 45 | [Grey Guitar](https://open.spotify.com/track/32cShRFoAaiBBbaKWaOqB6) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/2PomJEqfBluQI4uE6hPQEJ) | 2:13 |
-| 46 | [Still Around](https://open.spotify.com/track/0SnkdXrItQac8cBIkCYCd1) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/4myypnSDFC6PrjZRDYcBaC) | 3:24 |
+| 46 | [Still Around](https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:24 |
 | 47 | [I'll Let You Finish](https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [I'll Let You Finish](https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L) | 3:54 |
 | 48 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
 | 49 | [Lunch Money](https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Lunch Money](https://open.spotify.com/album/5d1OI49ZAH9m7aOICesn0G) | 3:36 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 70 | [Fake ID](https://open.spotify.com/track/5gynEmNec4YKPE1FqFsaWT) | [XCOMM](https://open.spotify.com/artist/5cpYeQPUGJh6KsQhnd6P8T) | [Fake ID](https://open.spotify.com/album/3j0l6G5egPLj01Lta0LCJX) | 2:06 |
 | 71 | [Jet Lag Mouth](https://open.spotify.com/track/3A9jHzBMp27j4dZJ9m1nQJ) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Jet Lag Mouth](https://open.spotify.com/album/5g1C2O5oYIV2rBknUh7cuN) | 2:32 |
 | 72 | [Kind of Girl I Am](https://open.spotify.com/track/2vmbWXnyrmCLI1usekZIEX) | [Trophy Wife](https://open.spotify.com/artist/7HcbQJiChdkCTU40v2tsvc) | [Kind of Girl I Am](https://open.spotify.com/album/18XwneodQZqn7N1we8ybgo) | 2:23 |
-| 73 | [Waiting To Know](https://open.spotify.com/track/3COerH8qeZERHv69TypVPT) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Waiting To Know](https://open.spotify.com/album/09UUsrLflP1LU7GxcI1zr7) | 2:56 |
+| 73 | [Waiting To Know](https://open.spotify.com/track/7zZSpzhovJFLtjrX7KSz7P) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [What's Left Now?](https://open.spotify.com/album/06cs9heiNyqq8voYtnDnzF) | 2:56 |
 | 74 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 |
 | 75 | [Jilt](https://open.spotify.com/track/5uPk6VJ4VdkYnaFJwJf6cr) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Jilt](https://open.spotify.com/album/6p12kJx1ZMg3e7yWIBif6F) | 4:43 |
 

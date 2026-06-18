@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Lô Borges
 
-1,204 songs - 2 day 22 hr 11 min
+1,205 songs - 2 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Banho de Folhas](https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Banho de Folhas](https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R) | 3:51 | 2024-10-04 | 2025-10-04 |
 | [Banho Maria](https://open.spotify.com/track/0cScxB1Ymzyq4xNMCACz2T) | [Clara & Flaira](https://open.spotify.com/artist/2HU7yNOUZ8YmwAdeGaJ2KT), [Flaira Ferro](https://open.spotify.com/artist/3gmFXyR7bHc8wQW3y6c2UI) | [Banho Maria](https://open.spotify.com/album/5XlGLQPexv2b0SAGycuz4r) | 4:48 | 2022-08-26 | 2022-09-03 |
 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 | 2022-06-24 | 2023-02-23 |
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Bate Folha](https://open.spotify.com/track/1IpGf2o9ltmwBCmoZIAHjM) | [Neila Kadhí](https://open.spotify.com/artist/47HGZbxX41Scp2vCevPIwP) | [Bate Folha](https://open.spotify.com/album/6nN1gMK31AKWMf974PHkIV) | 3:12 | 2022-07-15 | 2022-07-23 |
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/3e8kgXoSaW5MQkpjSw9nYk) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mil Coisas Invisíveis](https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y) | 2:46 | 2022-08-11 | 2022-08-27 |
 | [Bebê](https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Bebê](https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT) | 2:53 | 2024-09-20 | 2024-10-12 |
@@ -1103,7 +1104,7 @@
 | [Tristonho](https://open.spotify.com/track/3A8nX2ZPhiIeg673BWSRr1) | [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Tristonho](https://open.spotify.com/album/5CBxmCi4daAXeCQWtZcPCR) | 4:56 | 2022-04-08 | 2022-04-21 |
 | [Troco Tudo](https://open.spotify.com/track/3vT0bYuBxPIbZxfqKTvHsh) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Todas Elas](https://open.spotify.com/album/39vSWTqfZUoXfJBIm6U2eg) | 4:05 | 2025-05-16 | 2026-04-11 |
 | [Três](https://open.spotify.com/track/5NkFAh88iCq7PULpgNoBuv) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Três](https://open.spotify.com/album/2rs1t4jW9OQB4ESpTs8tMV) | 3:42 | 2022-07-15 | 2022-10-08 |
-| [Tua](https://open.spotify.com/track/7mQd6u3LBfpiRme11Pa4Yr) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Tua](https://open.spotify.com/album/3zutfiNwGhY1TtHsChMzIT) | 2:45 | 2026-05-29 |  |
+| [Tua](https://open.spotify.com/track/7mQd6u3LBfpiRme11Pa4Yr) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Tua](https://open.spotify.com/album/3zutfiNwGhY1TtHsChMzIT) | 2:45 | 2026-05-29 | 2026-06-18 |
 | [Tua Mania](https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI) | [Jona Poeta](https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL) | [Tua Mania](https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv) | 3:26 | 2023-09-02 | 2023-10-07 |
 | [Tudo Bateu](https://open.spotify.com/track/73V4hpSoL889KOpT22uO49) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Tudo Bateu](https://open.spotify.com/album/2JPBsl0RmL0koMHG8hzE3Z) | 3:48 | 2022-02-01 | 2022-04-16 |
 | [Tudo Maré](https://open.spotify.com/track/578lk0KGacSMilzFXofE2L) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Tudo Maré](https://open.spotify.com/album/0cXPOyHcHeHGmmqnnMbSsB) | 4:02 | 2024-11-01 | 2025-03-08 |

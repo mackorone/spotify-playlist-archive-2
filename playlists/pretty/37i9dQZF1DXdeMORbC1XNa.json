@@ -1,6 +1,6 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: NSG",
-  "num_followers": 321015,
+  "num_followers": 321019,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2026-06-05 14:55:46",
       "album": {
-        "name": "JO\u0178A",
-        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 221885,
-      "name": "VA LOIN",
-      "url": "https://open.spotify.com/track/4y4vmSwPS2nj5Q3CmBWEsX"
-    },
-    {
-      "added_at": "2026-06-05 14:55:46",
-      "album": {
         "name": "Baddies",
         "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 207403,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
+    },
+    {
+      "added_at": "2026-06-05 14:55:46",
+      "album": {
+        "name": "JO\u0178A",
+        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 221885,
+      "name": "VA LOIN",
+      "url": "https://open.spotify.com/track/4y4vmSwPS2nj5Q3CmBWEsX"
     },
     {
       "added_at": "2026-06-05 14:55:46",

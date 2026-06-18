@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752 likes - 210 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 753 likes - 210 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 154 | [buzzin](https://open.spotify.com/track/4gwQdnkAHy5WTrKaTWS1o8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 3:35 |
 | 155 | [Symphony](https://open.spotify.com/track/0DmnKmJpwUnHZHStMyJZkN) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS), [Teddy Jackson](https://open.spotify.com/artist/77kaHO7hihRt7OyrspYSdd) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:37 |
 | 156 | [Los chicos del club](https://open.spotify.com/track/7oxTWs901TZXAAgGzrf9j8) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:29 |
-| 157 | [Nearsight \[SID\]](https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa) | 4:18 |
-| 158 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
+| 157 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
+| 158 | [Nearsight \[SID\]](https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa) | 4:18 |
 | 159 | [Help Myself](https://open.spotify.com/track/73Q1cq5YHpqZHrhOE21lhW) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 3:33 |
 | 160 | [Thirst \- EP Version](https://open.spotify.com/track/66YWmARKaVgVYW7ZVPCQUM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 2:56 |
 | 161 | [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 |
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 172 | [Keep You Close](https://open.spotify.com/track/11dHX8VXt8oRJRSgiTYVxR) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 3:33 |
 | 173 | [Morning After](https://open.spotify.com/track/6iykpl5QF9TmSYXr62dbTf) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 3:06 |
 | 174 | [Don't Play Pretend](https://open.spotify.com/track/2h2xz9EWgGASYWSv3mSpBU) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Broken Perfection](https://open.spotify.com/album/5LHftTy5Aqf2pk3ut49Y6g) | 3:07 |
-| 175 | [Mad in Love](https://open.spotify.com/track/6HYEyEv1J30JSAjtMNIR3q) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:06 |
-| 176 | [Because Of Me](https://open.spotify.com/track/1RXNLByngQMjFp5nKjtgNa) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [BANA](https://open.spotify.com/album/3duEXG68pXzlRmbeL5PYRD) | 2:25 |
+| 175 | [Because Of Me](https://open.spotify.com/track/1RXNLByngQMjFp5nKjtgNa) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [BANA](https://open.spotify.com/album/3duEXG68pXzlRmbeL5PYRD) | 2:25 |
+| 176 | [Mad in Love](https://open.spotify.com/track/6HYEyEv1J30JSAjtMNIR3q) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:06 |
 | 177 | [Alone](https://open.spotify.com/track/3VieUTeRgHhHSgizhHOaRW) | [CaRter](https://open.spotify.com/artist/5sXPLn0XElTS3Aq0STgm4H) | [Alone](https://open.spotify.com/album/0XBsTxjqhwqQFpwf5GvaYg) | 3:33 |
 | 178 | [24 Hours](https://open.spotify.com/track/6EZ1Row0FVGVrTpvNmsqVo) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 3:21 |
 | 179 | [Harley's Outro](https://open.spotify.com/track/2pY4gqUNyRh1O2sZXn1BKq) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 0:52 |
@@ -203,8 +203,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 193 | [Un Momento](https://open.spotify.com/track/6tzLIT9jFxFAORt8P24tPX) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:43 |
 | 194 | [Compromise](https://open.spotify.com/track/6mRGj9VfMKhZ5dz2COmIyy) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 3:16 |
 | 195 | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/track/5uPoubTLkvcCMy7VfqZZPi) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/album/08yGUFP2pDEh8gqeUqPY4W) | 2:39 |
-| 196 | [Sunflower](https://open.spotify.com/track/7DiWZv7tJAap0oWz8yMQpT) | [ONY9RMX](https://open.spotify.com/artist/087ZBrJyDhTGPwPsOFXXqj) | [Ultimate Bass Boosted: Slap House Remixes, Vol\. 2](https://open.spotify.com/album/77IPG1tOh4LYFhXqVxmukP) | 2:40 |
-| 197 | [True Colors](https://open.spotify.com/track/2QmLWxA1wy1Si2uojYby1q) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [True Colors](https://open.spotify.com/album/2bxIY0usnXnh7MCdEhMCL5) | 3:39 |
+| 196 | [True Colors](https://open.spotify.com/track/2QmLWxA1wy1Si2uojYby1q) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [True Colors](https://open.spotify.com/album/2bxIY0usnXnh7MCdEhMCL5) | 3:39 |
+| 197 | [Sunflower](https://open.spotify.com/track/7DiWZv7tJAap0oWz8yMQpT) | [ONY9RMX](https://open.spotify.com/artist/087ZBrJyDhTGPwPsOFXXqj) | [Ultimate Bass Boosted: Slap House Remixes, Vol\. 2](https://open.spotify.com/album/77IPG1tOh4LYFhXqVxmukP) | 2:40 |
 | 198 | [Japon](https://open.spotify.com/track/3sRXcjvBl5L7vhaZyc1dj9) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Japon](https://open.spotify.com/album/4k7yAgOLUdeNQkUCEqDlgv) | 2:50 |
 | 199 | [Break You Off](https://open.spotify.com/track/5nvA0Ik12GYl9MABxACVAh) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [.WAV Theory](https://open.spotify.com/album/0529AOnY3HoL4NvAf2kthD) | 3:23 |
 | 200 | [Change Up](https://open.spotify.com/track/61jLXGxuebyVnYYtCeGiOz) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/5aj5iLqyaw0TiahHhpZoCh) | 2:50 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 209 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 210 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcUaEAAAAACsNdhtvtI1+52V/Hsc9Rhc`
+Snapshot ID: `AcUfsAAAAADhANCau8b6GQAMVFG4WIor`

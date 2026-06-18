@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 38729,
+  "num_followers": 38736,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADk5nVhimDIRFbfdlMsisZ0",
+  "snapshot_id": "ajCSAAAAAABfOvLL7lt3alO6B73+ZvI0",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 271131,
+      "name": "F.A.V.O.R",
+      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+        "name": "Boycott",
+        "url": "https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 271131,
-      "name": "F.A.V.O.R",
-      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
+      "duration_ms": 339733,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
     },
     {
       "added_at": null,
@@ -751,42 +767,6 @@
       "duration_ms": 202117,
       "name": "Melodies From Heaven (feat. Maryanne J. George, Chandler Moore)",
       "url": "https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boycott",
-        "url": "https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 339733,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 388586,
-      "name": "Give Me (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
     },
     {
       "added_at": null,
@@ -819,6 +799,26 @@
       "duration_ms": 406983,
       "name": "Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname)",
       "url": "https://open.spotify.com/track/2AgnbuzvnfPvq1sAYNB4pj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 388586,
+      "name": "Give Me (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
     },
     {
       "added_at": null,

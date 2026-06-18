@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 123497,
+  "num_followers": 123512,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "THIS IS THE DAY",
-        "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
-      },
-      "artists": [
-        {
-          "name": "Vintage Worship",
-          "url": "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
-        },
-        {
-          "name": "Joshua Seller",
-          "url": "https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli"
-        }
-      ],
-      "duration_ms": 224081,
-      "name": "THIS IS THE DAY",
-      "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "So Blessed",
         "url": "https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 196862,
       "name": "So Blessed",
       "url": "https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "THIS IS THE DAY",
+        "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
+      },
+      "artists": [
+        {
+          "name": "Vintage Worship",
+          "url": "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
+        },
+        {
+          "name": "Joshua Seller",
+          "url": "https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli"
+        }
+      ],
+      "duration_ms": 224081,
+      "name": "THIS IS THE DAY",
+      "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
     },
     {
       "added_at": "2026-04-17 07:08:56",

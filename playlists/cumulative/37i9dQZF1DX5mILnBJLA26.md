@@ -2,7 +2,7 @@
 
 ### [AMAPIANO GROOVES](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves right now\. Mixes available on Premium\. Cover: TxC
+> The biggest Amapiano singles making waves right now\. Mixes available on Premium\. Cover: Sam Deep
 
 1,567 songs - 6 day 20 hr 8 min
 

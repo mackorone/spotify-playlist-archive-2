@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132685,
+  "num_followers": 132684,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAC092bxJt471pTyPyXq4RCd",
+  "snapshot_id": "ajCSAAAAAABP4nVNKUA+WCGnDeLRY4v+",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jerusal\u00e9m e Eu",
+        "url": "https://open.spotify.com/album/4lpegfZbd6uJKDqA0FOThC"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 313306,
+      "name": "Jerusal\u00e9m e Eu",
+      "url": "https://open.spotify.com/track/3F21le2cG4FwJFS0UVBBvM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Com os Olhos da F\u00e9",
         "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 419263,
       "name": "Maranata (Vem Emanuel) (Ao Vivo)",
       "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jerusal\u00e9m e Eu",
-        "url": "https://open.spotify.com/album/4lpegfZbd6uJKDqA0FOThC"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 313306,
-      "name": "Jerusal\u00e9m e Eu",
-      "url": "https://open.spotify.com/track/3F21le2cG4FwJFS0UVBBvM"
     },
     {
       "added_at": null,

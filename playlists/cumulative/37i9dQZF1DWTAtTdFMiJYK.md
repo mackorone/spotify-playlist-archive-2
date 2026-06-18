@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: JBABE
 
-436 songs - 1 day 0 hr 26 min
+437 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 | 2023-03-20 | 2023-11-25 |
 | [internet friends](https://open.spotify.com/track/7eGJxi6rL5Z0p7yQKJD8ID) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [internet friends](https://open.spotify.com/album/7h2qB3e507wkDaa3syS7l5) | 3:14 | 2022-02-08 | 2022-02-25 |
 | [Ishaare](https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 2:47 | 2025-08-10 | 2025-11-12 |
+| [Isharey](https://open.spotify.com/track/7CLYyEz0QhDevkWyJ33MhW) | [AtharvaMusic](https://open.spotify.com/artist/689wgdJ8FExzGjaiehjfTS), [Shubham J](https://open.spotify.com/artist/6jlSVPIRWryMStqD58e63r) | [Isharey](https://open.spotify.com/album/2xvDzxgUsM6IPnAfR9G16I) | 2:32 | 2026-06-17 |  |
 | [Ishq Ke Sheher Mein](https://open.spotify.com/track/79IhwHGuF3XLbzZQuGPmWs) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue) | [Ishq Ke Sheher Mein](https://open.spotify.com/album/14LTcY8KKrT8VZTC5KkUK0) | 3:01 | 2022-03-21 | 2022-11-10 |
 | [Ishq X Ranjha](https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo) | [Khotu Kharkhada](https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ) | [Ishq X Ranjha](https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6) | 2:31 | 2026-02-10 |  |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-07-03 | 2024-06-22 |
@@ -431,7 +432,7 @@
 | [Yaadein](https://open.spotify.com/track/559lQBU46ePjxVXS9cNsmW) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Yaadein](https://open.spotify.com/album/2G5NDAUQru6BAMBN8s1eGG) | 4:41 | 2022-04-10 | 2023-08-30 |
 | [Yaar Mila Ve](https://open.spotify.com/track/19W1YDKQCyS9smMP48fQMy) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Yaar Mila Ve](https://open.spotify.com/album/2ltIposF0mekHiEUsYBulf) | 2:31 | 2024-10-03 | 2025-02-11 |
 | [Yahan](https://open.spotify.com/track/4yq61v0vaI2MpifznBCpBh) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Yahan](https://open.spotify.com/album/4NVB7RqJMhWow5gY1oBCdd) | 4:02 | 2022-03-16 | 2023-02-04 |
-| [Ye SUBAH](https://open.spotify.com/track/68Kq0B0ZdM6c00puZv1HwQ) | [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0) | [Ye SUBAH](https://open.spotify.com/album/3uXDLXxjHTcpj48rXarsHu) | 3:49 | 2026-04-10 |  |
+| [Ye SUBAH](https://open.spotify.com/track/68Kq0B0ZdM6c00puZv1HwQ) | [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0) | [Ye SUBAH](https://open.spotify.com/album/3uXDLXxjHTcpj48rXarsHu) | 3:49 | 2026-04-10 | 2026-06-18 |
 | [Ye Teri Meri Kahani](https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg) | 3:21 | 2022-08-08 | 2024-06-22 |
 | [Ye Teri Meri Kahani](https://open.spotify.com/track/5c8xIMIlYXLQSDe9d6mspG) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0gtYx8U7lO414NoJPk70aQ) | 3:21 | 2024-01-24 | 2024-04-19 |
 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2024-01-10 | 2026-02-06 |

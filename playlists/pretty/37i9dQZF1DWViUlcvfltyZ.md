@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 cover: Brucherò nei pascoli
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,618 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,617 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 2 | [Una Magia più forte della Morte](https://open.spotify.com/track/2XotgGguBhOonM5xwve1kU) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Non Dico Addio](https://open.spotify.com/album/7EUZlDEUsYtNAQVhwWOWJZ) | 3:20 |
 | 3 | [guerrilla](https://open.spotify.com/track/6u27XZezH7efSRvQkQYH1K) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [guerrilla](https://open.spotify.com/album/0hqO1ZuUvtDl7AycMEyC8p) | 2:09 |
 | 4 | [Le tue dita ferme](https://open.spotify.com/track/6Oc19Mr1LOsLpeGijtdWAU) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [La mia stella aggressiva si nasconde nelle virgole e nei punti](https://open.spotify.com/album/6UXP2nbjsFsFBqB8dKKlFt) | 2:55 |
-| 5 | [Porno intermezzo](https://open.spotify.com/track/723ED9Den2KesJSvA4iFA7) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [Satura](https://open.spotify.com/album/1ioDndTB0K5VhWYsNIKj5q) | 2:32 |
-| 6 | [Matador](https://open.spotify.com/track/7sC6znYWJHJkWLFkvIZTCX) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [t’ amango](https://open.spotify.com/album/5cAT5HRLD002iI3fpffv2j) | 3:54 |
-| 7 | [Il molo degli Inglesi](https://open.spotify.com/track/7jImJTbZYgHMilqt9BPN3D) | [Pallida Cavtat](https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa) | [Il molo degli Inglesi](https://open.spotify.com/album/3pT7K1qxaLddN7khup2QAl) | 4:16 |
-| 8 | [Batticuore](https://open.spotify.com/track/1sMFpkgaqYtmOgHjUxIcQ5) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Batticuore](https://open.spotify.com/album/230jhJTJmk2vrA2MH7cNyf) | 3:02 |
-| 9 | [Rifugio](https://open.spotify.com/track/4KRBxpRyEEXAkUmmznY0OF) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Terre Rare](https://open.spotify.com/album/1rdC7pskTVcEMixP00WREq) | 4:02 |
-| 10 | [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 |
+| 5 | [Matador](https://open.spotify.com/track/7sC6znYWJHJkWLFkvIZTCX) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [t’ amango](https://open.spotify.com/album/5cAT5HRLD002iI3fpffv2j) | 3:54 |
+| 6 | [Il molo degli Inglesi](https://open.spotify.com/track/7jImJTbZYgHMilqt9BPN3D) | [Pallida Cavtat](https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa) | [Il molo degli Inglesi](https://open.spotify.com/album/3pT7K1qxaLddN7khup2QAl) | 4:16 |
+| 7 | [Batticuore](https://open.spotify.com/track/1sMFpkgaqYtmOgHjUxIcQ5) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Batticuore](https://open.spotify.com/album/230jhJTJmk2vrA2MH7cNyf) | 3:02 |
+| 8 | [Rifugio](https://open.spotify.com/track/4KRBxpRyEEXAkUmmznY0OF) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Terre Rare](https://open.spotify.com/album/1rdC7pskTVcEMixP00WREq) | 4:02 |
+| 9 | [Resta Con Me](https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Resta Con Me](https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj) | 3:10 |
+| 10 | [Porno intermezzo](https://open.spotify.com/track/723ED9Den2KesJSvA4iFA7) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [Satura](https://open.spotify.com/album/1ioDndTB0K5VhWYsNIKj5q) | 2:32 |
 | 11 | [Workaholica](https://open.spotify.com/track/2GlzeqRjGgXm11AQrSNNTL) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [Workaholica](https://open.spotify.com/album/2YXvKMBKpBnayRPGIF83Fm) | 3:16 |
 | 12 | [Ambiguità \(Così strafatta di coriandoli\)](https://open.spotify.com/track/3kTzXPQnnyb05VWBhTjxXM) | [Le Vibrazioni](https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX) | [Ambiguità \(Così strafatta di coriandoli\)](https://open.spotify.com/album/30TuKgk3GCfh45rNnZ1q52) | 3:03 |
 | 13 | [Claudio Bisio](https://open.spotify.com/track/2hsDZQS3jz3z6CIIouNEnc) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [t’ amango](https://open.spotify.com/album/5cAT5HRLD002iI3fpffv2j) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [Gestire La Rabbia](https://open.spotify.com/track/6YD1QI9vBV6eWrX9lsEa4D) | [Grandi Raga](https://open.spotify.com/artist/5loTEXentPIJLRmZ06bzQr) | [Gestire La Rabbia](https://open.spotify.com/album/0fyey4mEyy7PgYntWdLhUT) | 3:45 |
 | 100 | [Intanto](https://open.spotify.com/track/15TePy6cQan8RcDpg3abxX) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Temporale](https://open.spotify.com/album/3YvK53OYLxnvacEkwJ4yP4) | 2:53 |
 
-Snapshot ID: `AAAAAL7+to6KD2vqk3whCmGX1p3kls1P`
+Snapshot ID: `AAAAAOJt1csqlYRD1x46BV3iaKYzg05X`

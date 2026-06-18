@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAB00F2Z0Bn2QvA9BEjJYkVp",
+  "snapshot_id": "ajCSAAAAAACmewAiu5p4zMlVSsqGwCmt",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a8\u30c7\u30f3",
-        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
+        "name": "innocent starter",
+        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 237693,
-      "name": "\u7d42\u672b\u306e\u30e9\u30d6\u30bd\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt"
+      "duration_ms": 281133,
+      "name": "innocent starter",
+      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "innocent starter",
-        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
+        "name": "\u30a8\u30c7\u30f3",
+        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 281133,
-      "name": "innocent starter",
-      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
+      "duration_ms": 237693,
+      "name": "\u7d42\u672b\u306e\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 324586,
+      "name": "BRAVE PHOENIX",
+      "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ULTIMATE DIAMOND",
         "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
       },
@@ -371,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYBRID UNIVERSE",
-        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+        "name": "ALIVE&KICKING",
+        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
       },
       "artists": [
         {
@@ -380,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 324586,
-      "name": "BRAVE PHOENIX",
-      "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
+      "duration_ms": 250506,
+      "name": "Take a shot",
+      "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
     },
     {
       "added_at": null,
@@ -419,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROCKBOUND NEIGHBORS",
-        "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "Synchrogazer-Aufwachen Form-",
-      "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CONTEMPORARY EMOTION",
         "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
       },
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ROCKBOUND NEIGHBORS",
+        "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 321666,
+      "name": "Synchrogazer-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEVER SURRENDER",
         "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 232653,
       "name": "\u5606\u304d\u306e\u83ef",
       "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALIVE&KICKING",
-        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Take a shot",
-      "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "\u8ff7\u5bae\u30d0\u30bf\u30d5\u30e9\u30a4-diverse-",
+      "url": "https://open.spotify.com/track/1LYKl6K1sZ1u2f4uNZcxKz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BRIGHT STREAM",
         "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 251400,
       "name": "BRIGHT STREAM",
       "url": "https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "\u8ff7\u5bae\u30d0\u30bf\u30d5\u30e9\u30a4-diverse-",
-      "url": "https://open.spotify.com/track/1LYKl6K1sZ1u2f4uNZcxKz"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "COSMIC LOVE",
+      "url": "https://open.spotify.com/track/6gOz3Iy7Ue6t9Ja3dj7RSb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GREAT ACTIVITY",
         "url": "https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW"
       },
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+        "name": "THE MUSEUM",
+        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 270200,
-      "name": "COSMIC LOVE",
-      "url": "https://open.spotify.com/track/6gOz3Iy7Ue6t9Ja3dj7RSb"
+      "duration_ms": 304653,
+      "name": "Crystal Letter",
+      "url": "https://open.spotify.com/track/0FpBLHKbdH5Porm3DTGtSc"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM",
-        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 304653,
-      "name": "Crystal Letter",
-      "url": "https://open.spotify.com/track/0FpBLHKbdH5Porm3DTGtSc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trickster",
         "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq"
       },
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANNONBALL RUNNING",
-        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+        "name": "ALIVE&KICKING",
+        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
       },
       "artists": [
         {
@@ -700,57 +700,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 260201,
-      "name": "DAYBREAKERS",
-      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CONTEMPORARY EMOTION",
-        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/3d3eZn4cR6QBC5SaeLb1td"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STARTING NOW!",
-        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 306985,
-      "name": "\u604b\u60f3\u82b1\u706b",
-      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GREAT ACTIVITY",
-        "url": "https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "\u30a2\u30aa\u30a4\u30a4\u30ed",
-      "url": "https://open.spotify.com/track/3mKwGzwOgXZAWffWfgnSAo"
+      "duration_ms": 306960,
+      "name": "Tears' Night",
+      "url": "https://open.spotify.com/track/4nThEOVRP7V6B2Mmok9K6x"
     },
     {
       "added_at": null,
@@ -780,15 +732,15 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 254760,
-      "name": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/1py3RFQLg5uoI79r6vsvL2"
+      "duration_ms": 224040,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/3d3eZn4cR6QBC5SaeLb1td"
     },
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE&KICKING",
-        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
+        "name": "GREAT ACTIVITY",
+        "url": "https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW"
       },
       "artists": [
         {
@@ -796,9 +748,57 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 306960,
-      "name": "Tears' Night",
-      "url": "https://open.spotify.com/track/4nThEOVRP7V6B2Mmok9K6x"
+      "duration_ms": 263360,
+      "name": "\u30a2\u30aa\u30a4\u30a4\u30ed",
+      "url": "https://open.spotify.com/track/3mKwGzwOgXZAWffWfgnSAo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STARTING NOW!",
+        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 306985,
+      "name": "\u604b\u60f3\u82b1\u706b",
+      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 260201,
+      "name": "DAYBREAKERS",
+      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONTEMPORARY EMOTION",
+        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 254760,
+      "name": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/1py3RFQLg5uoI79r6vsvL2"
     },
     {
       "added_at": null,

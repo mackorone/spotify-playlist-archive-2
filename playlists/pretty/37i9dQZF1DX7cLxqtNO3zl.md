@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,315 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,320 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 18 | [Mayya Mayya](https://open.spotify.com/track/1YyCkF4HECCrkMcNn1hKBm) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Mariam Toller](https://open.spotify.com/artist/1Uj4ZC05yoQLa2oDVJVSbw), [Keerthi Sagathia](https://open.spotify.com/artist/0ESWSdsAB8QDp2eA4ES2Er) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KUhs5DCSDhq6V1AcgjXab) | 6:02 |
 | 19 | [Paagal](https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paagal](https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW) | 2:51 |
 | 20 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
-| 21 | [Ishqam](https://open.spotify.com/track/7FcQRdlqMvAKmQH1SXCk1s) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Ali Quli Mirza](https://open.spotify.com/artist/5tCVWAczftmj4Ca9p6RJmj) | [Ishqam](https://open.spotify.com/album/5cfRTFNk7GosgMcMyUzTJy) | 3:14 |
-| 22 | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb) | 4:04 |
+| 21 | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb) | 4:04 |
+| 22 | [Ishqam](https://open.spotify.com/track/7FcQRdlqMvAKmQH1SXCk1s) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Ali Quli Mirza](https://open.spotify.com/artist/5tCVWAczftmj4Ca9p6RJmj) | [Ishqam](https://open.spotify.com/album/5cfRTFNk7GosgMcMyUzTJy) | 3:14 |
 | 23 | [Dil Bechara](https://open.spotify.com/track/4UJkUnfEEL8B2JZ1OQfYOO) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 2:43 |
 | 24 | [The Naari Naari Song \(From "Made in China"\)](https://open.spotify.com/track/0VhKdIMXZ3INkyDoIyPy5l) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [The Naari Naari Song \(From "Made in China"\)](https://open.spotify.com/album/6C6MkQFaFZpyMnH5aVdqqL) | 3:17 |
 | 25 | [Habibi](https://open.spotify.com/track/1oqb2byqglKfTr4TEvLtGZ) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 4:51 |

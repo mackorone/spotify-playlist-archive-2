@@ -11225,6 +11225,24 @@
     },
     {
       "album": {
+        "name": "Paadha Poora Mullana",
+        "url": "https://open.spotify.com/album/4f7AABY75haxAY3TptOpAg"
+      },
+      "artists": [
+        {
+          "name": "Barath Raghavan",
+          "url": "https://open.spotify.com/artist/43HCkTQHPfGoRk8wHrslvj"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "Paadha Poora Mullana",
+      "url": "https://open.spotify.com/track/3Y9vPRgjzU583wVV90KS1R"
+    },
+    {
+      "album": {
         "name": "Paal Nila",
         "url": "https://open.spotify.com/album/5CauH88kJTq4TEQZrYezbe"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 232 songs - 12 hr 9 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 235 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,5 +240,8 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 230 | [Naomi](https://open.spotify.com/track/2YSdjfaZVGB09ZnUZNjrhp) | [Faint Images of the Radio Sky](https://open.spotify.com/artist/63BRCSvVdohSDgSUm19bPb) | [Itching Through the Permafrost](https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY) | 4:55 |
 | 231 | [Que Rico Verte](https://open.spotify.com/track/7Hd0u6WIyHSXi2cs5PDASF) | [Migue Ceballos](https://open.spotify.com/artist/2J1JjCZxLNmw8CRKADx9qe) | [Que Rico Verte](https://open.spotify.com/album/5NmOzGqm9FbRSsBYIjo5u6) | 2:05 |
 | 232 | [Clark Wiley](https://open.spotify.com/track/01CtaVwVYP0BP0vVEyMB8T) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 2:56 |
+| 233 | [The Devil's Dance](https://open.spotify.com/track/3jcf6pjhEb0BQOxHvpw3yN) | [exane](https://open.spotify.com/artist/3xiDuqFFBBd87BgYeLFGcl) | [The Devil's Dance](https://open.spotify.com/album/5DoCb8eHtyz2JOvmQV6NrK) | 1:25 |
+| 234 | [Deadly Bargain](https://open.spotify.com/track/2GcKDv6tEGW1It3WTTxbxQ) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 3:35 |
+| 235 | [I Have Myself](https://open.spotify.com/track/3OVsKTZCyeQOWMsa5rvxMN) | [Brave The Storm](https://open.spotify.com/artist/6DPd6AkhKbj2qYKHULOU77), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Taste Oblivion](https://open.spotify.com/album/4KCvc2u5cOguYmwFFdxfP5) | 3:07 |
 
-Snapshot ID: `AAAV7jwa/uXGTS7cnPmb+7ulIefZWqfr`
+Snapshot ID: `AAAV8StrJfP/dscftSP3nRGsz4ZAurX8`

@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1228195,
+  "num_followers": 1228221,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAA2hwdOah7SHaYKjScx3VB0",
+  "snapshot_id": "ajCSAAAAAACNAQEgWOjsFaCcpdboxqJl",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
         "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "That's Life",
-      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Nice 'n' Easy - Remastered 1999",
-      "url": "https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 187360,
       "name": "My Way Of Life",
       "url": "https://open.spotify.com/track/0Sc8AsDTBeZFWg8K9tMARE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Nice 'n' Easy - Remastered 1999",
+      "url": "https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 171066,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
     },
     {
       "added_at": null,

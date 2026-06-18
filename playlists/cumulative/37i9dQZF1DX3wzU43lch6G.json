@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "C\u00fcmlemize",
+        "url": "https://open.spotify.com/album/615tYYbx6XrhyR3eeIQeTk"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcjver",
+          "url": "https://open.spotify.com/artist/1ULbsZ7MDzQU9k0wGzPXp9"
+        }
+      ],
+      "date_added": "2025-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266031,
+      "name": "Seversin",
+      "url": "https://open.spotify.com/track/29hf1lugMH7g6X8IrfCMAq"
+    },
+    {
+      "album": {
         "name": "Sevmek Y\u00fcz\u00fcnden",
         "url": "https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL"
       },
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 243632,
       "name": "Teker Teker",
       "url": "https://open.spotify.com/track/04x2DO5e8XDhjYvenuFRHp"

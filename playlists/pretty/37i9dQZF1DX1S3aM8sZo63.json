@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Los 2 de la S en portada \ud83d\udcf8",
-  "num_followers": 1078587,
+  "num_followers": 1078542,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,18 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 180750,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+      "duration_ms": 190773,
+      "name": "H\u00e1blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1447,22 +1443,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/1nFpuA8baOSvdt0iRIA9IE"
       },
@@ -1475,6 +1455,22 @@
       "duration_ms": 176764,
       "name": "Suspiros",
       "url": "https://open.spotify.com/track/2evmCe9rkk8do11scsJ0Xa"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1511,6 +1507,22 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 180083,
+      "name": "Las Edades - En Vivo",
+      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
         "name": "Naturalita",
         "url": "https://open.spotify.com/album/0gngiOzOmm4SEVKDHXpVUh"
       },
@@ -1531,22 +1543,6 @@
       "duration_ms": 183516,
       "name": "Naturalita",
       "url": "https://open.spotify.com/track/6uVXyLrhgveo67VbraCd9T"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 180083,
-      "name": "Las Edades - En Vivo",
-      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -1891,22 +1887,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Nacimos Pa' Ser Historia",
-        "url": "https://open.spotify.com/album/2ugVjmD8o9P4Gyn4mfVF8z"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 177445,
-      "name": "Ranchero Enamorado",
-      "url": "https://open.spotify.com/track/4wQCG04ViRJEzTK8BQIvTQ"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "Muero Sin Ti",
         "url": "https://open.spotify.com/album/1cMVq3vzO29T5pgdBm9LAk"
       },
@@ -1919,6 +1899,22 @@
       "duration_ms": 164917,
       "name": "Muero Sin Ti",
       "url": "https://open.spotify.com/track/7xoJTQoNra0grcha2DwiMi"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Nacimos Pa' Ser Historia",
+        "url": "https://open.spotify.com/album/2ugVjmD8o9P4Gyn4mfVF8z"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 177445,
+      "name": "Ranchero Enamorado",
+      "url": "https://open.spotify.com/track/4wQCG04ViRJEzTK8BQIvTQ"
     },
     {
       "added_at": "2026-05-29 06:00:29",
@@ -2075,22 +2071,6 @@
     {
       "added_at": "2026-05-29 06:00:29",
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Tu Eterno Enamorado",
-      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
-    },
-    {
-      "added_at": "2026-05-29 06:00:29",
-      "album": {
         "name": "Situaciones",
         "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
       },
@@ -2103,6 +2083,22 @@
       "duration_ms": 233706,
       "name": "De Uno Y De Todos Los Modos - Version Bolero",
       "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
+    },
+    {
+      "added_at": "2026-05-29 06:00:29",
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
     }
   ],
   "unique_name": "Banda Rom\u00e1ntica",

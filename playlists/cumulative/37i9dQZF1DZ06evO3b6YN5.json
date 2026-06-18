@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "Amor Compartido",
+        "url": "https://open.spotify.com/album/5iNKAEiXpsvzu1Q9NyoVSy"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159266,
+      "name": "Parada del Bus",
+      "url": "https://open.spotify.com/track/5y7canQKRa5VpBBx2QnC6j"
+    },
+    {
+      "album": {
         "name": "El Show Debe Continuar",
         "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
       },

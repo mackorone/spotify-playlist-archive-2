@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 3109,
+  "num_followers": 3110,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABMeoWW+KYEDIfN7lkjC41P",
+  "snapshot_id": "ajCSAAAAAABDz39DvzqrdZO/vY/VHrow",
   "tracks": [
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/3AGYCI89BqoyYTpU881c5S"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 198093,
-      "name": "I Just Want You Around",
-      "url": "https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw"
+      "duration_ms": 213000,
+      "name": "Mr. Mellow",
+      "url": "https://open.spotify.com/track/5uxjTGHkByx9LCZHo1TXiz"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Love",
-        "url": "https://open.spotify.com/album/3AGYCI89BqoyYTpU881c5S"
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Mr. Mellow",
-      "url": "https://open.spotify.com/track/5uxjTGHkByx9LCZHo1TXiz"
+      "duration_ms": 198093,
+      "name": "I Just Want You Around",
+      "url": "https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spam Musubi Song",
-        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 140010,
-      "name": "Spam Musubi Song",
-      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spam Musubi Song",
+        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 140010,
+      "name": "Spam Musubi Song",
+      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haters (Remix)",
         "url": "https://open.spotify.com/album/5AXqdEnnL69bGBt4DOUxQX"
       },
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "We Make It Look Easy",
+      "url": "https://open.spotify.com/track/3Fq59TNyANNaRzAKnAwcdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easier (Jr Blender RMX)",
         "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 198779,
       "name": "Easier - Jr Blender RMX",
       "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "We Make It Look Easy",
-      "url": "https://open.spotify.com/track/3Fq59TNyANNaRzAKnAwcdQ"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 226185,
-      "name": "Walk on Water",
-      "url": "https://open.spotify.com/track/05FJsUh3xeLPhSSKJO0Aut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 187376,
       "name": "Riddles",
       "url": "https://open.spotify.com/track/67QiUOzzs498guvlXmRxYW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/3o1F1OpqXLylXn1CI1OngQ"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 226185,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/05FJsUh3xeLPhSSKJO0Aut"
     },
     {
       "added_at": null,

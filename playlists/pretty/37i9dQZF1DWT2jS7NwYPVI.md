@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,836 likes - 130 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,816 likes - 130 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

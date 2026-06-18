@@ -2,7 +2,7 @@
 
 ### [Campiranas y Sierreñas](https://open.spotify.com/playlist/37i9dQZF1DWYNz9xcyse7Z)
 
-> Cruzando cerros y arroyos con el legado musical que dejó la sierra\. Miguel y Miguel en portada.
+> Cruzando cerros y arroyos con el legado musical que dejó la sierra\. Ariel Camacho en portada.
 
 212 songs - 11 hr 30 min
 

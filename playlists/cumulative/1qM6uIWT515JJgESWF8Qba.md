@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-261 songs - 16 hr 21 min
+262 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [FMU Make Me Cry](https://open.spotify.com/track/5hsVJlvCBvfwtSdL7IS8A4) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2) | [Scattered Memories](https://open.spotify.com/album/3LdurMICJIuXrQkipmVRw1) | 2:00 | 2025-11-04 | 2025-12-28 |
 | [Fragile Prism](https://open.spotify.com/track/4Kc2BR20xmeJpN2FQuClKp) | [Aurora Rising](https://open.spotify.com/artist/5ynYRfVl7ZsgRkFBhNOT9f) | [Fragile Prism](https://open.spotify.com/album/1kTkMQGBdJIakc60LY1PBK) | 3:23 | 2026-04-20 | 2026-05-19 |
 | [Frange](https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Frange](https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U) | 3:23 | 2026-06-01 |  |
+| [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 | 2026-06-18 |  |
 | [Fugaz](https://open.spotify.com/track/3dzGcbIkdeQqwbHCOnv4h5) | [Lirium](https://open.spotify.com/artist/0A5pTrUZAtZ9tl2TSySp3d) | [Fugaz](https://open.spotify.com/album/5ZprKugGTao6b6K1EnF84S) | 5:19 | 2025-11-06 | 2025-12-28 |
 | [GAMEOVER](https://open.spotify.com/track/13B4x0OnPzcjiQ5LbjZIfo) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Houseless](https://open.spotify.com/album/6tmGczmutrm2vYRt4y7lvB) | 4:02 | 2025-10-27 | 2025-12-28 |
 | [Get Back In Line](https://open.spotify.com/track/6srGXpJEg7N3RcNm11BzLD) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 4:06 | 2026-03-04 | 2026-04-01 |

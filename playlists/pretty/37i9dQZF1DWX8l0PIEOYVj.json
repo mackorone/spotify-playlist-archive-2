@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 featuring Adventure Club",
-  "num_followers": 474687,
+  "num_followers": 474669,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "Air (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 160021,
-      "name": "Air (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
         "name": "Keep U Warm (ft. Jordan Shaw)",
         "url": "https://open.spotify.com/album/1G72BOFuFqlonKRSvzxHyK"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 222857,
       "name": "Keep U Warm (ft. Jordan Shaw)",
       "url": "https://open.spotify.com/track/15OBV0oLTxJvXQtIhBSOCZ"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
+        "name": "Air (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 160021,
+      "name": "Air (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/00jC8qEFU0xnbNQpfD8g9X"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        }
-      ],
-      "duration_ms": 165650,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/5xMSUgWj8cLs6MKw2B297Y"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
         "name": "Heaven Feels Like",
         "url": "https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 203636,
       "name": "Heaven Feels Like",
       "url": "https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/00jC8qEFU0xnbNQpfD8g9X"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        }
+      ],
+      "duration_ms": 165650,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/5xMSUgWj8cLs6MKw2B297Y"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "The Shadow Realm",
-        "url": "https://open.spotify.com/album/6APpd11qDPfXsVAWoEL2Or"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "baby blue",
-          "url": "https://open.spotify.com/artist/6DdWFOHTfxcBOLTHMrKpAN"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Empty Space (Without You Pt.2)",
-      "url": "https://open.spotify.com/track/1PTGyb8weMv3LAoeet3qm4"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
         "name": "Broken Hearted (feat. Julia Church)",
         "url": "https://open.spotify.com/album/4YzBqD277ZTx7qtXI1wwSp"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 212276,
       "name": "Broken Hearted (feat. Julia Church)",
       "url": "https://open.spotify.com/track/6cmYMueidIP3Q2vLDrJWrv"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
+        "name": "The Shadow Realm",
+        "url": "https://open.spotify.com/album/6APpd11qDPfXsVAWoEL2Or"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "baby blue",
+          "url": "https://open.spotify.com/artist/6DdWFOHTfxcBOLTHMrKpAN"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Empty Space (Without You Pt.2)",
+      "url": "https://open.spotify.com/track/1PTGyb8weMv3LAoeet3qm4"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4ioTFZoD68Bv2NZ7Buc1sK"
-      },
-      "artists": [
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Crystal Skies",
-          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
-        },
-        {
-          "name": "Stefan PVDS",
-          "url": "https://open.spotify.com/artist/3E2x6EOf4JvJp2gnxjYO6j"
-        }
-      ],
-      "duration_ms": 245620,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1ZUrALbNfZICVqHINAcofo"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
         "name": "A Better World",
         "url": "https://open.spotify.com/album/5WfRc0e7iFhENKMyD8jOxO"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 230068,
       "name": "A Better World",
       "url": "https://open.spotify.com/track/7MARy6sJ24UhLfbEsVs7a0"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4ioTFZoD68Bv2NZ7Buc1sK"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "Stefan PVDS",
+          "url": "https://open.spotify.com/artist/3E2x6EOf4JvJp2gnxjYO6j"
+        }
+      ],
+      "duration_ms": 245620,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1ZUrALbNfZICVqHINAcofo"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "ONLY U",
-        "url": "https://open.spotify.com/album/2iC0Lz84LpIc9nnczntdpe"
-      },
-      "artists": [
-        {
-          "name": "Leondis",
-          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "ONLY U",
-      "url": "https://open.spotify.com/track/3z8lgTFjOCnNhfdo2yUeSJ"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 196233,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
+        "name": "ONLY U",
+        "url": "https://open.spotify.com/album/2iC0Lz84LpIc9nnczntdpe"
+      },
+      "artists": [
+        {
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "ONLY U",
+      "url": "https://open.spotify.com/track/3z8lgTFjOCnNhfdo2yUeSJ"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -2063,6 +2063,26 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 206047,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
         "name": "Escape (feat. Lilly Ahlberg)",
         "url": "https://open.spotify.com/album/7v7d7AEWvKt5RMXg94MknR"
       },
@@ -2087,26 +2107,6 @@
       "duration_ms": 208125,
       "name": "Escape (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/1oDlQ0JGgXfXTWWrtmdOku"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 206047,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -2191,30 +2191,6 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "Here's To Hope",
-        "url": "https://open.spotify.com/album/3OKG40YRnB3mpXBoLRRZqj"
-      },
-      "artists": [
-        {
-          "name": "Orlost",
-          "url": "https://open.spotify.com/artist/5yN3pUpcQ7tlvYX8fr8bhy"
-        },
-        {
-          "name": "UNDEFYND",
-          "url": "https://open.spotify.com/artist/71RXcyQVb3RTCvESEn4Rmy"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Here's To Hope",
-      "url": "https://open.spotify.com/track/6AmJIwAsOu4xZlKLADcobh"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
         "name": "Say It To Me",
         "url": "https://open.spotify.com/album/0IW0P8EwWWs0SoYP8apyK3"
       },
@@ -2239,22 +2215,26 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "Shark (ILLENIUM 2014 Remix)",
-        "url": "https://open.spotify.com/album/3YtfxpDQVIdWyjLCilq1Q1"
+        "name": "Here's To Hope",
+        "url": "https://open.spotify.com/album/3OKG40YRnB3mpXBoLRRZqj"
       },
       "artists": [
         {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "Orlost",
+          "url": "https://open.spotify.com/artist/5yN3pUpcQ7tlvYX8fr8bhy"
         },
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "UNDEFYND",
+          "url": "https://open.spotify.com/artist/71RXcyQVb3RTCvESEn4Rmy"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
         }
       ],
-      "duration_ms": 307200,
-      "name": "Shark - ILLENIUM 2014 Remix",
-      "url": "https://open.spotify.com/track/4ogWtNQ8YN3NEhLzx9eqnq"
+      "duration_ms": 212500,
+      "name": "Here's To Hope",
+      "url": "https://open.spotify.com/track/6AmJIwAsOu4xZlKLADcobh"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -2271,6 +2251,26 @@
       "duration_ms": 222000,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
+        "name": "Shark (ILLENIUM 2014 Remix)",
+        "url": "https://open.spotify.com/album/3YtfxpDQVIdWyjLCilq1Q1"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Shark - ILLENIUM 2014 Remix",
+      "url": "https://open.spotify.com/track/4ogWtNQ8YN3NEhLzx9eqnq"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
         "name": "Otherside Of You",
         "url": "https://open.spotify.com/album/7HFD2ZMSlkWH8PGKnJXLDw"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 221250,
       "name": "Otherside Of You",
       "url": "https://open.spotify.com/track/3VEr7bswZsSZXZK5HvQo8b"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -2747,26 +2747,6 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "Ellowyn",
-        "url": "https://open.spotify.com/album/4YqVaLHc9gho26oNaUMdTS"
-      },
-      "artists": [
-        {
-          "name": "With L\u00f8ve",
-          "url": "https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm"
-        },
-        {
-          "name": "Hvnnibvl",
-          "url": "https://open.spotify.com/artist/7vTVlsNH3dt1nn4TMkRQIN"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Ellowyn",
-      "url": "https://open.spotify.com/track/4bYhgOsuIUukEhEh2UfL0R"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/5Jpu4lho05hT7fScnpfJvX"
       },
@@ -2831,6 +2811,26 @@
       "duration_ms": 193655,
       "name": "Not Enough - SLICK x 808GONG Remix",
       "url": "https://open.spotify.com/track/0DF9kBDai7faBp2jBVDjyL"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
+        "name": "Ellowyn",
+        "url": "https://open.spotify.com/album/4YqVaLHc9gho26oNaUMdTS"
+      },
+      "artists": [
+        {
+          "name": "With L\u00f8ve",
+          "url": "https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm"
+        },
+        {
+          "name": "Hvnnibvl",
+          "url": "https://open.spotify.com/artist/7vTVlsNH3dt1nn4TMkRQIN"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Ellowyn",
+      "url": "https://open.spotify.com/track/4bYhgOsuIUukEhEh2UfL0R"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -2995,26 +2995,6 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
-        "name": "Before We Say Goodbye",
-        "url": "https://open.spotify.com/album/4700dcBAB51SCGMQR79bEW"
-      },
-      "artists": [
-        {
-          "name": "GhostDragon",
-          "url": "https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O"
-        },
-        {
-          "name": "Trella",
-          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Before We Say Goodbye",
-      "url": "https://open.spotify.com/track/0Ew01g0wdjESoidUYRfWW6"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/46bnObxinMvPMfuvTZ5hQr"
       },
@@ -3031,6 +3011,26 @@
       "duration_ms": 186885,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7CSmSTEKY5eKPqQY3ClZfV"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
+        "name": "Before We Say Goodbye",
+        "url": "https://open.spotify.com/album/4700dcBAB51SCGMQR79bEW"
+      },
+      "artists": [
+        {
+          "name": "GhostDragon",
+          "url": "https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Before We Say Goodbye",
+      "url": "https://open.spotify.com/track/0Ew01g0wdjESoidUYRfWW6"
     },
     {
       "added_at": "2026-06-12 16:19:37",
@@ -3091,6 +3091,26 @@
     {
       "added_at": "2026-06-12 16:19:37",
       "album": {
+        "name": "Say Goodbye (222)",
+        "url": "https://open.spotify.com/album/3127bd67i6VeqoFjNQnBmu"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Years Of War",
+          "url": "https://open.spotify.com/artist/5gHjQSPGgcU4cM87YWCJxt"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Say Goodbye (222)",
+      "url": "https://open.spotify.com/track/0SYnZPQT7n7XBFZKIpTBHR"
+    },
+    {
+      "added_at": "2026-06-12 16:19:37",
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0"
       },
@@ -3111,26 +3131,6 @@
       "duration_ms": 219633,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef"
-    },
-    {
-      "added_at": "2026-06-12 16:19:37",
-      "album": {
-        "name": "Say Goodbye (222)",
-        "url": "https://open.spotify.com/album/3127bd67i6VeqoFjNQnBmu"
-      },
-      "artists": [
-        {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
-        },
-        {
-          "name": "Years Of War",
-          "url": "https://open.spotify.com/artist/5gHjQSPGgcU4cM87YWCJxt"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Say Goodbye (222)",
-      "url": "https://open.spotify.com/track/0SYnZPQT7n7XBFZKIpTBHR"
     }
   ],
   "unique_name": "Bass Lounge",

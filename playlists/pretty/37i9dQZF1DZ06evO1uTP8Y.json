@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 14375,
+  "num_followers": 14401,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACiuVhR7nGucoBO3PDvZjw/",
+  "snapshot_id": "ajCSAAAAAADsG5WhnqfqbaVthWUBYeJD",
   "tracks": [
     {
       "added_at": null,
@@ -143,54 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gaslight 101",
-        "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 179036,
-      "name": "Gaslight 101",
-      "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "London Summers",
-      "url": "https://open.spotify.com/track/43JEzpUepmETKeTwqLWauB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soh-Soh (DJ Maphorisa & Xduppy Mix)",
-        "url": "https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/30nn36X7wfesAGAkvGero4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
       },
@@ -211,6 +163,54 @@
       "duration_ms": 227266,
       "name": "Anxious (feat. Odeal & Wizkid)",
       "url": "https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Summer That Saved Me",
+        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "London Summers",
+      "url": "https://open.spotify.com/track/43JEzpUepmETKeTwqLWauB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gaslight 101",
+        "url": "https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 179036,
+      "name": "Gaslight 101",
+      "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soh-Soh (DJ Maphorisa & Xduppy Mix)",
+        "url": "https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/30nn36X7wfesAGAkvGero4"
     },
     {
       "added_at": null,

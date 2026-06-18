@@ -2,7 +2,7 @@
 
 ### [KITSUNÉ SUMMER VIBES \(2026\)](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
-> To travel between house, deep house and positive vibes !
+> To travel between house, deep house and positive vibes for summer !
 
 214 songs - 12 hr 34 min
 

@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Cotton",
+        "url": "https://open.spotify.com/album/5Mtmv7PjVAPSikP9ZOWFzj"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232933,
+      "name": "Blackberry Marmalade",
+      "url": "https://open.spotify.com/track/2ReQhdiEjqsBsReDy1bHjX"
+    },
+    {
+      "album": {
         "name": "More Chaos",
         "url": "https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 139860,
       "name": "Blue Devil",
       "url": "https://open.spotify.com/track/6eTweWBgIkPzPfiqs7l2E3"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 173320,
       "name": "CRUSH (with Travis Scott)",
       "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
@@ -3468,6 +3486,24 @@
       "duration_ms": 222374,
       "name": "Girls Need Love (with Drake) - Remix",
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
+    },
+    {
+      "album": {
+        "name": "Lil Herb: Lil Heroin Edition",
+        "url": "https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140768,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/61j87rRrHwgiLTlDQDOhFP"
     },
     {
       "album": {
@@ -5550,7 +5586,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 231303,
       "name": "Momma Don't Worry (feat. Future, Lil Baby)",
       "url": "https://open.spotify.com/track/6pHiM8b3nWPHCl2riM2465"
@@ -5572,6 +5608,28 @@
       "duration_ms": 143147,
       "name": "Motion God",
       "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
+    },
+    {
+      "album": {
+        "name": "Kodak The Blessing",
+        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "G Thugg",
+          "url": "https://open.spotify.com/artist/07gfosp4umnedbY4PmP8KG"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265639,
+      "name": "Move (feat. G Thugg)",
+      "url": "https://open.spotify.com/track/3p5s3c8vx7TY8mIUfDIaDh"
     },
     {
       "album": {
@@ -6498,7 +6556,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 132380,
       "name": "OWA OWA",
       "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
@@ -7214,6 +7272,28 @@
       "duration_ms": 142227,
       "name": "real feel",
       "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
+    },
+    {
+      "album": {
+        "name": "Real Hustla (ft. GloRilla)",
+        "url": "https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148108,
+      "name": "Real Hustla (ft. GloRilla)",
+      "url": "https://open.spotify.com/track/01lRLiKslwD7pzTa9PqvND"
     },
     {
       "album": {
@@ -9202,7 +9282,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 124137,
       "name": "Typa",
       "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
@@ -9386,6 +9466,24 @@
       "duration_ms": 131900,
       "name": "Wanna Come Thru",
       "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/2zM4efpzYYCpldnfbt69o3"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143102,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0NRjs5XncJ8oAosU85EdG8"
     },
     {
       "album": {

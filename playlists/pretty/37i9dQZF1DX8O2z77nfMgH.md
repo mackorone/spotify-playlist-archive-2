@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Cultura Profética
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,136 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,017 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flaca](https://open.spotify.com/track/12QOz99BmQf6niecivifM7) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [En bucle](https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u) | 4:15 |
 | 2 | [Gané](https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Gané](https://open.spotify.com/album/2XnvAhJy0R6qJT6GVYhKuZ) | 4:20 |
-| 3 | [HAPPY ��](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY ��](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
+| 3 | [HAPPY 🪽](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY 🪽](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
 | 4 | [Lead](https://open.spotify.com/track/3V4usyrZPXdaff3xy3l7Ow) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Lead](https://open.spotify.com/album/0DpOpfxdXPeYtFzc9sinTH) | 2:17 |
 | 5 | [Godzila \- W Sound 09](https://open.spotify.com/track/3H8XilnD0LdRkT7RChDDUS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Godzila \(W Sound 09\)](https://open.spotify.com/album/5eRPFOY3oXbS25ok1yXON7) | 3:00 |
 | 6 | [Isla Viva](https://open.spotify.com/track/6DWbguJJtZ6OoGUgcfr1By) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Isla Viva](https://open.spotify.com/album/41mlpezVzn8RJHIu9kIYG8) | 3:26 |

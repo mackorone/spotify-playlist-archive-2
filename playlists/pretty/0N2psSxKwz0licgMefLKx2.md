@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 ### [2026 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kalsey Kulyk
+> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Taylor Swift
 
 [uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,190 likes - 83 songs - 4 hr 27 min
 
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 82 | [Land](https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Land](https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr) | 3:23 |
 | 83 | [When You Know You Know](https://open.spotify.com/track/32sIMbP91MRYwlQ92UfYZL) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Somewhere in a Small Town](https://open.spotify.com/album/5Ia42Ht7CTQSy5LCUVtgSc) | 2:57 |
 
-Snapshot ID: `AAAm9TBDtdlj8ZUgvtFbF68U7xobkoEG`
+Snapshot ID: `AAAm+GMgO9JOPFBZNo2SCxeEjxGe3PQP`

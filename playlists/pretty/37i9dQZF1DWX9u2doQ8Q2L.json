@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 394651,
+  "num_followers": 394653,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-06-12 14:11:08",
       "album": {
-        "name": "Make It Out Alive",
-        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+        "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
+        "url": "https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 209799,
-      "name": "Make It Out Alive",
-      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+      "duration_ms": 201251,
+      "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
+      "url": "https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV"
     },
     {
       "added_at": "2026-06-12 14:11:08",
@@ -479,18 +479,18 @@
     {
       "added_at": "2026-06-12 14:11:08",
       "album": {
-        "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
-        "url": "https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG"
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 201251,
-      "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
-      "url": "https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV"
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "added_at": "2026-06-12 14:11:08",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-06-12 14:11:08",
       "album": {
-        "name": "WORK HARD",
-        "url": "https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 173604,
-      "name": "WORK HARD",
-      "url": "https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV"
-    },
-    {
-      "added_at": "2026-06-12 14:11:08",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 231345,
       "name": "\u7d2b\u967d\u82b1",
       "url": "https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W"
+    },
+    {
+      "added_at": "2026-06-12 14:11:08",
+      "album": {
+        "name": "WORK HARD",
+        "url": "https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 173604,
+      "name": "WORK HARD",
+      "url": "https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV"
     },
     {
       "added_at": "2026-06-12 14:11:08",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-06-12 14:11:08",
       "album": {
+        "name": "Crunchy",
+        "url": "https://open.spotify.com/album/73HFi6LgowgPUgDyiQbQY4"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 214860,
+      "name": "Crunchy",
+      "url": "https://open.spotify.com/track/3micqfC9Do9RNjfKXrgXJn"
+    },
+    {
+      "added_at": "2026-06-12 14:11:08",
+      "album": {
         "name": "\u7d75\u753b / \u3053\u305f\u3048\u3042\u308f\u305b",
         "url": "https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ"
       },
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2026-06-12 14:11:08",
       "album": {
-        "name": "Crunchy",
-        "url": "https://open.spotify.com/album/73HFi6LgowgPUgDyiQbQY4"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 214860,
-      "name": "Crunchy",
-      "url": "https://open.spotify.com/track/3micqfC9Do9RNjfKXrgXJn"
-    },
-    {
-      "added_at": "2026-06-12 14:11:08",
-      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-06-12 14:11:08",
       "album": {
-        "name": "The 1",
-        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 191717,
-      "name": "The 1",
-      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
-    },
-    {
-      "added_at": "2026-06-12 14:11:08",
-      "album": {
         "name": "GALA",
         "url": "https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 227175,
       "name": "GALA",
       "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
+    },
+    {
+      "added_at": "2026-06-12 14:11:08",
+      "album": {
+        "name": "The 1",
+        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 191717,
+      "name": "The 1",
+      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
     },
     {
       "added_at": "2026-06-12 14:11:08",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-06-12 14:11:08",
       "album": {
+        "name": "\u58f0",
+        "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 263983,
+      "name": "\u58f0",
+      "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
+    },
+    {
+      "added_at": "2026-06-12 14:11:08",
+      "album": {
         "name": "0.0000%",
         "url": "https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 242920,
       "name": "\u6708\u9762\u7740\u9678\u8a08\u753b - Moon Landing Plan",
       "url": "https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc"
-    },
-    {
-      "added_at": "2026-06-12 14:11:08",
-      "album": {
-        "name": "\u58f0",
-        "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 263983,
-      "name": "\u58f0",
-      "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
     },
     {
       "added_at": "2026-06-12 14:11:08",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-06-12 14:11:08",
       "album": {
-        "name": "Love seeker",
-        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Love seeker",
-      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
-    },
-    {
-      "added_at": "2026-06-12 14:11:08",
-      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2026-06-12 14:11:08",
+      "album": {
+        "name": "Love seeker",
+        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "Love seeker",
+      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
     },
     {
       "added_at": "2026-06-12 14:11:08",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-06-12 14:11:08",
       "album": {
+        "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
+        "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
+      "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
+    },
+    {
+      "added_at": "2026-06-12 14:11:08",
+      "album": {
         "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
-    },
-    {
-      "added_at": "2026-06-12 14:11:08",
-      "album": {
-        "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
-        "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
-      "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
     },
     {
       "added_at": "2026-06-12 14:11:08",

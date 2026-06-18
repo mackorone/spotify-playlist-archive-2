@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 375553,
+  "num_followers": 375601,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAACy5s6R19KoSGnW0JyQcLB",
+  "snapshot_id": "ajCSAAAAAABNT/sV/e/sDp6XiIXtkH0K",
   "tracks": [
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167968,
+      "name": "Cham\u00e1n",
+      "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EP",
         "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 110828,
       "name": "Tu No Eres Lo Que Quer\u00eda",
       "url": "https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Stop The Magic",
-        "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 182634,
-      "name": "El Pickles",
-      "url": "https://open.spotify.com/track/24QFCrOqc9XKHO1gXBtQwG"
     }
   ],
   "unique_name": "This Is Grupo Marca Registrada",

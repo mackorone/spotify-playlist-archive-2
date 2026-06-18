@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "Holo Arirang",
+        "url": "https://open.spotify.com/album/4HCKxSDJVY36KCho3n7taQ"
+      },
+      "artists": [
+        {
+          "name": "Byun Jin-Sub",
+          "url": "https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7"
+        },
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269864,
+      "name": "Holo Arirang (feat. Jung In)",
+      "url": "https://open.spotify.com/track/1mKeIseZ3mp0AY22Exs7hn"
+    },
+    {
+      "album": {
         "name": "HUNGTARYOUNG",
         "url": "https://open.spotify.com/album/7ofqJ6xXjve1PQggxUyMgl"
       },

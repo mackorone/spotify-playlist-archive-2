@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Big Sean, HUGEL, Scott Storch
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,783 likes - 84 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,804 likes - 84 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

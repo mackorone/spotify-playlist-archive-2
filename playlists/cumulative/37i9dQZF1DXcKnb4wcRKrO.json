@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6IMrIkxx8O9gJxyDweTlqE"
+      },
+      "artists": [
+        {
+          "name": "Gaston",
+          "url": "https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149590,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1DDbGjCrqbLoaFPrTj0gAS"
+    },
+    {
+      "album": {
         "name": "Fork In The Road",
         "url": "https://open.spotify.com/album/3mj2fvDOR4pEgGLsXeZGpK"
       },
@@ -3082,7 +3100,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 221557,
       "name": "Orchid Design Studio",
       "url": "https://open.spotify.com/track/16kIzUJrZAFdrJwS7FG9c3"
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 208653,
       "name": "Palmeiras",
       "url": "https://open.spotify.com/track/6TzfLnIEEARemHC3ABqNwY"
@@ -3227,6 +3245,32 @@
     },
     {
       "album": {
+        "name": "please hold",
+        "url": "https://open.spotify.com/album/3J0pMUKiCeGMk0nh0oAruJ"
+      },
+      "artists": [
+        {
+          "name": "house red",
+          "url": "https://open.spotify.com/artist/6SheSUxv8x6bB5Dn8lIWlp"
+        },
+        {
+          "name": "MiQu",
+          "url": "https://open.spotify.com/artist/29W9ZWOCIj7enyZFe3IUbE"
+        },
+        {
+          "name": "muscato",
+          "url": "https://open.spotify.com/artist/1F6tBDXjLyv3jmoonckbvR"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122347,
+      "name": "please hold",
+      "url": "https://open.spotify.com/track/21mIgzDEPx1du5sWpWCrtN"
+    },
+    {
+      "album": {
         "name": "pupillin",
         "url": "https://open.spotify.com/album/3Rv6eB0O629XFUyFFiQZ7n"
       },
@@ -3242,7 +3286,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 136271,
       "name": "pupillin",
       "url": "https://open.spotify.com/track/5vmFLRhUGSyK5CI7NI2t0g"
@@ -3662,6 +3706,24 @@
       "duration_ms": 162043,
       "name": "Smooth Sax",
       "url": "https://open.spotify.com/track/2EjaunL4CDiTFDJwWKuopa"
+    },
+    {
+      "album": {
+        "name": "Softness",
+        "url": "https://open.spotify.com/album/1yIhdpco5D15oJJJ1vcSiX"
+      },
+      "artists": [
+        {
+          "name": "Bootie Grove",
+          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195360,
+      "name": "Softness",
+      "url": "https://open.spotify.com/track/7HDjCC1p2jfjgVsGBlqBdL"
     },
     {
       "album": {

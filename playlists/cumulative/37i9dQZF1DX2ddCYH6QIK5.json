@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Freundlich, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Bambita, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 173538,
       "name": "8 PM",
       "url": "https://open.spotify.com/track/791QbSKeaIGJNSN29rHw4U"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 163803,
       "name": "Alles so sch\u00f6n aufgebaut",
       "url": "https://open.spotify.com/track/3i63QWWzM1hBGXopqzHpxL"
@@ -8980,7 +8980,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 141950,
       "name": "Fassade",
       "url": "https://open.spotify.com/track/0v5zo1sbZU6Cu6L6NcQI72"
@@ -12450,7 +12450,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 305267,
       "name": "holy",
       "url": "https://open.spotify.com/track/7jS7fvxmn1nZV3vCpgcuzz"
@@ -14011,6 +14011,28 @@
     },
     {
       "album": {
+        "name": "insomnia",
+        "url": "https://open.spotify.com/album/1Khf59iiljxaHZiiqR3tqm"
+      },
+      "artists": [
+        {
+          "name": "Fabio D\u2018Ambrosio",
+          "url": "https://open.spotify.com/artist/4jbaNItPyWhg5O9sa5SYKx"
+        },
+        {
+          "name": "blue friend",
+          "url": "https://open.spotify.com/artist/052QHH0e04tuBG9Ik6E5q0"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "insomnia",
+      "url": "https://open.spotify.com/track/556JHaI9fS5doFhKcZTmHz"
+    },
+    {
+      "album": {
         "name": "Insufficiently Prepared",
         "url": "https://open.spotify.com/album/58WVureEUyFUUzJHZKh98K"
       },
@@ -14649,6 +14671,24 @@
     },
     {
       "album": {
+        "name": "Kaltblut",
+        "url": "https://open.spotify.com/album/6F2WmbKGPC2NQCtogZe2rY"
+      },
+      "artists": [
+        {
+          "name": "Bambita",
+          "url": "https://open.spotify.com/artist/5VRTu30WwBk1CacbGruYWT"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Kaltblut",
+      "url": "https://open.spotify.com/track/7FBPhx8xt7R5iKPUpO1omc"
+    },
+    {
+      "album": {
         "name": "Kalter Rauch",
         "url": "https://open.spotify.com/album/5tY9nXBuvKrvO8ViaHqcqS"
       },
@@ -14880,6 +14920,24 @@
       "duration_ms": 226658,
       "name": "Keine Bewegung",
       "url": "https://open.spotify.com/track/50CELGRHg9DlDXIRXjykxt"
+    },
+    {
+      "album": {
+        "name": "Keine Helden",
+        "url": "https://open.spotify.com/album/62QEwWRa9cg4ku7eDpbySC"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfKind",
+          "url": "https://open.spotify.com/artist/7mo1NcmfdlXRh3GCLNCJp7"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185061,
+      "name": "Keine Helden",
+      "url": "https://open.spotify.com/track/4kTeTCpvtKrN1A0iKc7y9E"
     },
     {
       "album": {
@@ -16318,7 +16376,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 289256,
       "name": "Lippenstift",
       "url": "https://open.spotify.com/track/2YsaM87TAqggQIhrJW2LYm"
@@ -18061,6 +18119,24 @@
     },
     {
       "album": {
+        "name": "Motion Picture",
+        "url": "https://open.spotify.com/album/1V72lGjSgicvXxQxlrGmSP"
+      },
+      "artists": [
+        {
+          "name": "Bash Tru",
+          "url": "https://open.spotify.com/artist/5oWRLCmK9UyklFF9qI8jkt"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247976,
+      "name": "Motion Picture",
+      "url": "https://open.spotify.com/track/7os4HIaa4YdpXeM3MtE31j"
+    },
+    {
+      "album": {
         "name": "Motorola",
         "url": "https://open.spotify.com/album/39r2qwtznLXOFLYSh2aNOx"
       },
@@ -19274,7 +19350,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 131042,
       "name": "npc talk",
       "url": "https://open.spotify.com/track/5ZubwUxKPSTBF7Rdm4LKpJ"
@@ -20718,6 +20794,24 @@
       "duration_ms": 185225,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/4C1yb5GEZU5XOWpOLDcxIg"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/7eagf7g19KPdYFY1xJ0nuI"
+      },
+      "artists": [
+        {
+          "name": "LEETA",
+          "url": "https://open.spotify.com/artist/6eLZ1tLEyLhDR6eRuIRu21"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217008,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/7uHCD7w9bq0SV6E8XU6EBq"
     },
     {
       "album": {
@@ -30774,6 +30868,28 @@
       "duration_ms": 191546,
       "name": "Zwanzig",
       "url": "https://open.spotify.com/track/1y44G2ZAxPKjmjmIYUfSCq"
+    },
+    {
+      "album": {
+        "name": "zwischen den zeilen",
+        "url": "https://open.spotify.com/album/1cIJp4op1jOmO58pp9JIDd"
+      },
+      "artists": [
+        {
+          "name": "shuco",
+          "url": "https://open.spotify.com/artist/1H8AkHgSoncaFDKUAebvCX"
+        },
+        {
+          "name": "robeltobel",
+          "url": "https://open.spotify.com/artist/6XEiAwmpNHuvAoKhsLmaHw"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "zwischen den zeilen",
+      "url": "https://open.spotify.com/track/1Mw75qbn2W6Il6agoj1lHS"
     },
     {
       "album": {

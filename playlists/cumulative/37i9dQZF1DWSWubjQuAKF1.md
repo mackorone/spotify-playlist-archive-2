@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Natalia Marczuk
 
-876 songs - 1 day 18 hr 47 min
+877 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 | 2025-08-27 |
 | [Bez Ciebie](https://open.spotify.com/track/3HdQwGJ9gbYCH2YwqatNoR) | [Berie](https://open.spotify.com/artist/2hUbI0ebOh5Aq8QS1XB54r) | [Bez Ciebie](https://open.spotify.com/album/46XHKQ8GBkUoHoTugf8pjo) | 3:18 | 2025-03-06 | 2025-03-14 |
 | [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 | 2025-09-23 | 2026-02-02 |
+| [Bez porównań](https://open.spotify.com/track/2SRLhPy43D13cVR4qewxy2) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Bez porównań](https://open.spotify.com/album/1MjltZhGjBpiaALMeN9t8p) | 2:51 | 2026-06-11 |  |
 | [Bez siebie](https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Bez siebie](https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p) | 2:58 | 2025-08-26 | 2025-12-14 |
 | [BEZ STRESU](https://open.spotify.com/track/38Jen8MKWIwtRDOhbxFCzG) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Rumak](https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [LATARNIE WSZĘDZIE DAWNO ZGASŁY](https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL) | 4:16 | 2025-12-18 | 2026-04-03 |
 | [Bez szans](https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk) | [Wojtek Stefanowski](https://open.spotify.com/artist/54TNNqTljkBCh8TkJt6DIu) | [Bez szans](https://open.spotify.com/album/5IYt2n6hbMk5fVwiFA66df) | 2:40 | 2024-06-28 | 2024-08-23 |
@@ -589,7 +590,7 @@
 | [posłuszny](https://open.spotify.com/track/3RKy5uSxKjUglMJTe0M4XA) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [posłuszny](https://open.spotify.com/album/2T9sDbInfrwjVzrJTOpL3U) | 2:31 | 2025-04-10 | 2025-04-18 |
 | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/track/6rtWXq2m5h3j1iHf7YDUg0) | [Marianna Kniat](https://open.spotify.com/artist/4msYBkpUbynxMz8FgyQxiX) | [pov: nie dostaliśmy więcej czasu / płaszcz.](https://open.spotify.com/album/4IGAhWMLqLbCNUkJvqvEH3) | 3:33 | 2025-01-23 | 2025-02-23 |
 | [Powiedz](https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Powiedz](https://open.spotify.com/album/42EQ6jPw9iIQuymNrrXxSq) | 2:03 | 2024-09-27 | 2025-01-24 |
-| [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 | 2026-04-17 |  |
+| [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 | 2026-04-17 | 2026-06-18 |
 | [Pozwól mi czuć](https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Pozwól mi czuć](https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P) | 3:20 | 2026-02-05 | 2026-05-01 |
 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 | 2026-02-12 | 2026-05-24 |
 | [PRAY](https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [PRAY](https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ) | 2:45 | 2025-01-16 | 2025-03-21 |

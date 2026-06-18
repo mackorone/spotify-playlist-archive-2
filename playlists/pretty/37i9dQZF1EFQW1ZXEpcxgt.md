@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363 likes - 148 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 364 likes - 148 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 39 | [Hide My Gun \(Feat\. HARDY\)](https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:40 |
 | 40 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 |
 | 41 | [Dirty Work](https://open.spotify.com/track/53TW0KEB3fqduUfwf0LO9P) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Dirty Work](https://open.spotify.com/album/6JSiQ8b11L6AzCVtFmbcH1) | 3:07 |
-| 42 | [Pull\-Up](https://open.spotify.com/track/1nxwzEdLLtvk3KmEwPdSnr) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/6YGzNQqE7DjyJ0Q3RdhkKA) | 3:06 |
-| 43 | [Had It](https://open.spotify.com/track/6bsYXpygQTDRO48RtDRhGP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq) | 3:19 |
+| 42 | [Had It](https://open.spotify.com/track/6bsYXpygQTDRO48RtDRhGP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq) | 3:19 |
+| 43 | [Pull\-Up](https://open.spotify.com/track/1nxwzEdLLtvk3KmEwPdSnr) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/6YGzNQqE7DjyJ0Q3RdhkKA) | 3:06 |
 | 44 | [No Love Allowed](https://open.spotify.com/track/2fv47VVvysXZPpT7xsdg7b) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:09 |
 | 45 | [Here It Is \(feat\. Chris Brown\)](https://open.spotify.com/track/0lQ08hbjK1umHjCYvUrmCp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:12 |
 | 46 | [Burn \(feat\. Big Sean\)](https://open.spotify.com/track/1tv6IvWoOilhj0XbBoVVMo) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:36 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 114 | [Weekend Behavior](https://open.spotify.com/track/6Ds1x8qOzlq3tBH12W7WPi) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Cuban Jesus](https://open.spotify.com/album/5qK4ZzsOUh7d0zD42r01ao) | 3:39 |
 | 115 | [We're Not Friends](https://open.spotify.com/track/4v9L9xPXgoZnYoI204IBrE) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:50 |
 | 116 | [Solo](https://open.spotify.com/track/37CtAzYl5Ci5y5wPEEcHFU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:53 |
-| 117 | [Again](https://open.spotify.com/track/3uqwJF9yjcOrzY3weJqxU3) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:22 |
-| 118 | [Never Do](https://open.spotify.com/track/5cMUMHAhMIgqSS8NNw5G6r) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Never Do](https://open.spotify.com/album/6240ajzU2Mcccqe6dCr3Yl) | 1:58 |
+| 117 | [Never Do](https://open.spotify.com/track/5cMUMHAhMIgqSS8NNw5G6r) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Never Do](https://open.spotify.com/album/6240ajzU2Mcccqe6dCr3Yl) | 1:58 |
+| 118 | [Again](https://open.spotify.com/track/3uqwJF9yjcOrzY3weJqxU3) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:22 |
 | 119 | [Police](https://open.spotify.com/track/5XOJEIGtUSSl1AxIBLZkhp) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:02 |
 | 120 | [Meaningless](https://open.spotify.com/track/41VUrlXNQ7Mbwv8jdsVCRs) | [Philmon Lee](https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG) | [706](https://open.spotify.com/album/79zG8H3ljW0GGiS6tmDPqP) | 2:57 |
 | 121 | [Comfort Me](https://open.spotify.com/track/3XoAsVgJYuKboiaY7njdPd) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [10\-18](https://open.spotify.com/album/04AEJ2LgvsgEIVWcnu6enG) | 3:48 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 147 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 148 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcUaEAAAAAAR9EKBwxeXZkXPMxZmibmU`
+Snapshot ID: `AcUfsAAAAACL0l9W/QY+3LkQ4KYh8ihK`

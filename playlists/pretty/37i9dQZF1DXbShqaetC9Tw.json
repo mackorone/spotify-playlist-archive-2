@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 146970,
+  "num_followers": 146966,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "3:33",
-        "url": "https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 161766,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 241765,
       "name": "Cigarette (Feat. Tablo, MISO)",
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 161766,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "My blue wavy room",
-        "url": "https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr"
-      },
-      "artists": [
-        {
-          "name": "Redoor",
-          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
-        }
-      ],
-      "duration_ms": 229854,
-      "name": "Blue rain",
-      "url": "https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 239002,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "My blue wavy room",
+        "url": "https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "duration_ms": 229854,
+      "name": "Blue rain",
+      "url": "https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "Marigold Tapes",
-        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 209685,
-      "name": "flight",
-      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "dear me,",
         "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 261705,
       "name": "bath",
       "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "Marigold Tapes",
+        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 209685,
+      "name": "flight",
+      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 233958,
       "name": "boy",
       "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "\ub85c\ub9e8\uc2a4\ub294 \ubcc4\ucc45\ubd80\ub85d OST Part.1",
-        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30",
-      "url": "https://open.spotify.com/track/4SPZfnF7tn4Sfcv3iTjKCu"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 223141,
       "name": "Moon, 12:04am",
       "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "\ub85c\ub9e8\uc2a4\ub294 \ubcc4\ucc45\ubd80\ub85d OST Part.1",
+        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/4SPZfnF7tn4Sfcv3iTjKCu"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -543,22 +543,6 @@
       "duration_ms": 153686,
       "name": "nvrmnd",
       "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
-        "name": "How could I say",
-        "url": "https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 160146,
-      "name": "How could I say",
-      "url": "https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -607,6 +591,22 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
+        "name": "How could I say",
+        "url": "https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 160146,
+      "name": "How could I say",
+      "url": "https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
+        "name": "Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'",
+        "url": "https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "The Night\u2019s Window",
+      "url": "https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
-        "name": "Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'",
-        "url": "https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "The Night\u2019s Window",
-      "url": "https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2"
     },
     {
       "added_at": "2026-04-01 10:59:09",

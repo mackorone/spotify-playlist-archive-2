@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Opus Kink",
-  "num_followers": 295456,
+  "num_followers": 295467,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Something Worth Waiting For",
-        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG"
-      },
-      "artists": [
-        {
-          "name": "Friko",
-          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
-        }
-      ],
-      "duration_ms": 204123,
-      "name": "Still Around",
-      "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "Erasure",
         "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
       },
@@ -683,18 +667,34 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Prevail",
-        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
+        "name": "We're Gonna Be Okay",
+        "url": "https://open.spotify.com/album/7bsWF5EJ5oMXtDS4SubL3X"
       },
       "artists": [
         {
-          "name": "Mouth Ulcers",
-          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
+          "name": "Dari Bay",
+          "url": "https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC"
         }
       ],
-      "duration_ms": 194885,
-      "name": "Prevail",
-      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
+      "duration_ms": 258500,
+      "name": "We're Gonna Be Okay",
+      "url": "https://open.spotify.com/track/3mUjvYCQXsbiloF2b2IHt0"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Something Worth Waiting For",
+        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 204123,
+      "name": "Still Around",
+      "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
+        "name": "Prevail",
+        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
+      },
+      "artists": [
+        {
+          "name": "Mouth Ulcers",
+          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
+        }
+      ],
+      "duration_ms": 194885,
+      "name": "Prevail",
+      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
         "name": "On the Intricate Inner Workings of the System",
         "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "We're Gonna Be Okay",
-        "url": "https://open.spotify.com/album/7bsWF5EJ5oMXtDS4SubL3X"
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt"
       },
       "artists": [
         {
-          "name": "Dari Bay",
-          "url": "https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC"
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
         }
       ],
-      "duration_ms": 258500,
-      "name": "We're Gonna Be Okay",
-      "url": "https://open.spotify.com/track/3mUjvYCQXsbiloF2b2IHt0"
+      "duration_ms": 203293,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -763,22 +779,6 @@
       "duration_ms": 238223,
       "name": "In My Pocket",
       "url": "https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
-        "name": "Wash Away",
-        "url": "https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Wash Away",
-      "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/2LiZAbuWsNgtEbwvJlZz19"
+      },
+      "artists": [
+        {
+          "name": "Cashier",
+          "url": "https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf"
+        }
+      ],
+      "duration_ms": 219810,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
         "name": "POSTINDUSTRIAL HOMETOWN BLUES",
         "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 272800,
       "name": "One More Trip Around The Sun",
       "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
-        "name": "Like I Do",
-        "url": "https://open.spotify.com/album/2LiZAbuWsNgtEbwvJlZz19"
-      },
-      "artists": [
-        {
-          "name": "Cashier",
-          "url": "https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf"
-        }
-      ],
-      "duration_ms": 219810,
-      "name": "Like I Do",
-      "url": "https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
+        "name": "Glass and Bones",
+        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
+      },
+      "artists": [
+        {
+          "name": "Makthaverskan",
+          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
+        }
+      ],
+      "duration_ms": 227129,
+      "name": "Won't Wait",
+      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/3ZieMQ5LqL6d6F9i4tEMBJ"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Glass and Bones",
-        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
-      },
-      "artists": [
-        {
-          "name": "Makthaverskan",
-          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
-        }
-      ],
-      "duration_ms": 227129,
-      "name": "Won't Wait",
-      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "Fundraiser",
         "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 219305,
       "name": "Fundraiser",
       "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 177975,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Bingo",
-        "url": "https://open.spotify.com/album/3KJdGZlx71PwUAIDYcvaSi"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
       },
       "artists": [
         {
-          "name": "La S\u00e9curit\u00e9",
-          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 209946,
-      "name": "Bingo",
-      "url": "https://open.spotify.com/track/1RgoyUyNhlDMX9FCb3f3Nt"
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
+        "name": "Bingo",
+        "url": "https://open.spotify.com/album/3KJdGZlx71PwUAIDYcvaSi"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/1RgoyUyNhlDMX9FCb3f3Nt"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 208935,
       "name": "The Best Tears of Your Life",
       "url": "https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/46AHcZ5qg9wiXaTOyOQoTD"
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
       },
       "artists": [
         {
-          "name": "How Much Art",
-          "url": "https://open.spotify.com/artist/588xSD6VuBMAZf1xqf6qPy"
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
         }
       ],
-      "duration_ms": 176430,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg"
+      "duration_ms": 190533,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/46AHcZ5qg9wiXaTOyOQoTD"
+      },
+      "artists": [
+        {
+          "name": "How Much Art",
+          "url": "https://open.spotify.com/artist/588xSD6VuBMAZf1xqf6qPy"
+        }
+      ],
+      "duration_ms": 176430,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
         "name": "Unbloom",
         "url": "https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "The Clip",
-        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
-      },
-      "artists": [
-        {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "Barn Boiler",
-      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "Feu de garde",
         "url": "https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 230679,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "The Clip",
+        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "Barn Boiler",
+      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Cool Job",
-        "url": "https://open.spotify.com/album/18RQPFDmUjqqf64v87muCa"
-      },
-      "artists": [
-        {
-          "name": "Telehealth",
-          "url": "https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX"
-        }
-      ],
-      "duration_ms": 117160,
-      "name": "Cool Job",
-      "url": "https://open.spotify.com/track/06kKHELGsUCf40WjytjBa7"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "O, My Love",
         "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 178006,
       "name": "O, My Love",
       "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Cool Job",
+        "url": "https://open.spotify.com/album/18RQPFDmUjqqf64v87muCa"
+      },
+      "artists": [
+        {
+          "name": "Telehealth",
+          "url": "https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX"
+        }
+      ],
+      "duration_ms": 117160,
+      "name": "Cool Job",
+      "url": "https://open.spotify.com/track/06kKHELGsUCf40WjytjBa7"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "Might See You There",
-        "url": "https://open.spotify.com/album/7w3o65IXUt3HoFGCdygub3"
-      },
-      "artists": [
-        {
-          "name": "Weird Nightmare",
-          "url": "https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc"
-        }
-      ],
-      "duration_ms": 122104,
-      "name": "Might See You There",
-      "url": "https://open.spotify.com/track/0W5mNFQb72i90dPhGaMcy3"
-    },
-    {
-      "added_at": "2026-05-01 04:03:04",
-      "album": {
         "name": "Worst Kept Secret",
         "url": "https://open.spotify.com/album/0vooFeuwJvhHSWVGAJHnrj"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 258200,
       "name": "Worst Kept Secret",
       "url": "https://open.spotify.com/track/6R5QSwgDHQ3PymVA8EQitD"
+    },
+    {
+      "added_at": "2026-05-01 04:03:04",
+      "album": {
+        "name": "Might See You There",
+        "url": "https://open.spotify.com/album/7w3o65IXUt3HoFGCdygub3"
+      },
+      "artists": [
+        {
+          "name": "Weird Nightmare",
+          "url": "https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc"
+        }
+      ],
+      "duration_ms": 122104,
+      "name": "Might See You There",
+      "url": "https://open.spotify.com/track/0W5mNFQb72i90dPhGaMcy3"
     },
     {
       "added_at": "2026-05-01 04:03:04",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2026-05-01 04:03:04",
       "album": {
-        "name": "16/25",
-        "url": "https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9"
+        "name": "Warmer Than Gold",
+        "url": "https://open.spotify.com/album/6jcG87zWQZGizrTR4QuJ6Y"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "GUV",
+          "url": "https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw"
         }
       ],
-      "duration_ms": 151246,
-      "name": "16/25",
-      "url": "https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk"
+      "duration_ms": 230813,
+      "name": "Warmer Than Gold",
+      "url": "https://open.spotify.com/track/77k6ZdVPouIPhxCOQyVNDQ"
     }
   ],
   "unique_name": "Noisy",

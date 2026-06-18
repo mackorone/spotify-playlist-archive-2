@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen, ahora en video\. Sólo para usuarios Premium\. BLAIR en portada.
 
-231 songs - 13 hr 52 min
+232 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 | 2025-02-07 | 2025-02-13 |
 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 | 2025-02-12 | 2026-05-30 |
 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/2iPaUU7QA953Vup7SWKMrL) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 | 2025-02-12 | 2026-05-30 |
+| [Quiéreme o Ándate \- En Vivo Equal Day MX 2026](https://open.spotify.com/track/1vmPID43N54wOsmlxSZG4l) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Quiéreme o Ándate \(En Vivo Equal Day MX 2026\)](https://open.spotify.com/album/3EpTLYJESuLnzZErpIOgIn) | 3:38 | 2026-06-17 |  |
 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2025-02-07 | 2025-02-13 |
 | [RABIA DEL CORAZÓN \- EQUAL en vivo Casa Spotify Buenos Aires](https://open.spotify.com/track/2OqlRKlYFRKZ2z4HY8BrK5) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [RABIA DEL CORAZÓN \(EQUAL en vivo Casa Spotify Buenos Aires\)](https://open.spotify.com/album/7b1Ar0ICrCmaBJVK4HZkb9) | 4:00 | 2026-05-29 |  |
 | [Rey Sin Reina](https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:30 | 2025-02-07 | 2025-02-13 |

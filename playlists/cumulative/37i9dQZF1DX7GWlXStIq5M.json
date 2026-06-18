@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 142926,
       "name": "AMOR PROIBIDO",
       "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
@@ -2858,6 +2858,24 @@
       "duration_ms": 154500,
       "name": "Banquete",
       "url": "https://open.spotify.com/track/0ofvSx2IL3cPEqonyjBk85"
+    },
+    {
+      "album": {
+        "name": "Matchola - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172779,
+      "name": "BARRIL DOBRADO - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
     },
     {
       "album": {

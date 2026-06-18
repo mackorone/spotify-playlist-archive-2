@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1482754,
+  "num_followers": 1482778,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-06-12 21:58:57",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
-    },
-    {
-      "added_at": "2026-06-12 21:58:57",
-      "album": {
         "name": "On 2nite",
         "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 158848,
       "name": "On 2nite",
       "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
+    },
+    {
+      "added_at": "2026-06-12 21:58:57",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2026-06-12 21:58:57",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-06-12 21:58:57",
       "album": {
-        "name": "HBU",
-        "url": "https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 248391,
-      "name": "HBU",
-      "url": "https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM"
-    },
-    {
-      "added_at": "2026-06-12 21:58:57",
-      "album": {
         "name": "FADE",
         "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 178205,
       "name": "FADE",
       "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
+    },
+    {
+      "added_at": "2026-06-12 21:58:57",
+      "album": {
+        "name": "HBU",
+        "url": "https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 248391,
+      "name": "HBU",
+      "url": "https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM"
     },
     {
       "added_at": "2026-06-12 21:58:57",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-06-12 21:58:57",
       "album": {
+        "name": "Don't Wanna Go Home (feat. Henry Camamile)",
+        "url": "https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Henry Camamile",
+          "url": "https://open.spotify.com/artist/3F51YwK7ZvWbmxaBj8qAoB"
+        }
+      ],
+      "duration_ms": 157717,
+      "name": "Don't Wanna Go Home (feat. Henry Camamile)",
+      "url": "https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX"
+    },
+    {
+      "added_at": "2026-06-12 21:58:57",
+      "album": {
         "name": "Stomp Your Feet",
         "url": "https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 210580,
       "name": "Stomp Your Feet",
       "url": "https://open.spotify.com/track/494lD6w8j07gDMub1UFd07"
-    },
-    {
-      "added_at": "2026-06-12 21:58:57",
-      "album": {
-        "name": "Don't Wanna Go Home (feat. Henry Camamile)",
-        "url": "https://open.spotify.com/album/1Vs2Q4ghAOsjUiTQoGDBAn"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Henry Camamile",
-          "url": "https://open.spotify.com/artist/3F51YwK7ZvWbmxaBj8qAoB"
-        }
-      ],
-      "duration_ms": 157717,
-      "name": "Don't Wanna Go Home (feat. Henry Camamile)",
-      "url": "https://open.spotify.com/track/6CAiFxfsp5qIOYs5m7kSZX"
     },
     {
       "added_at": "2026-06-12 21:58:57",
@@ -1351,6 +1351,26 @@
       "duration_ms": 201379,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
+    },
+    {
+      "added_at": "2026-06-12 21:58:57",
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 164423,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
     },
     {
       "added_at": "2026-06-12 21:58:57",
@@ -1535,26 +1555,6 @@
     {
       "added_at": "2026-06-12 21:58:57",
       "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 164423,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
-    },
-    {
-      "added_at": "2026-06-12 21:58:57",
-      "album": {
         "name": "For The Soul",
         "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
       },
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2026-06-12 21:58:57",
       "album": {
+        "name": "Bite Down",
+        "url": "https://open.spotify.com/album/4nyDDuVwF54WlDiJ5sZzIZ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Bite Down",
+      "url": "https://open.spotify.com/track/4sCBDKHWDP3cBYrJW3fDzO"
+    },
+    {
+      "added_at": "2026-06-12 21:58:57",
+      "album": {
         "name": "like JENNIE",
         "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2026-06-12 21:58:57",
       "album": {
-        "name": "Bite Down",
-        "url": "https://open.spotify.com/album/4nyDDuVwF54WlDiJ5sZzIZ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Bite Down",
-      "url": "https://open.spotify.com/track/4sCBDKHWDP3cBYrJW3fDzO"
-    },
-    {
-      "added_at": "2026-06-12 21:58:57",
-      "album": {
         "name": "whatever you do",
         "url": "https://open.spotify.com/album/332Ale8JZU0KaSGjoL3aXY"
       },
@@ -1799,22 +1799,6 @@
       "duration_ms": 210014,
       "name": "whatever you do",
       "url": "https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R"
-    },
-    {
-      "added_at": "2026-06-12 21:58:57",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/4KQwLxOFOK8dXsBS1aDU0e"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 222249,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/3d7kMkIJe0bt4NDOdaoC69"
     },
     {
       "added_at": "2026-06-12 21:58:57",
@@ -1843,22 +1827,18 @@
     {
       "added_at": "2026-06-12 21:58:57",
       "album": {
-        "name": "Through The Pain (feat. Pozer)",
-        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/4KQwLxOFOK8dXsBS1aDU0e"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Pozer",
-          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 180520,
-      "name": "Through The Pain (feat. Pozer)",
-      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
+      "duration_ms": 222249,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/3d7kMkIJe0bt4NDOdaoC69"
     },
     {
       "added_at": "2026-06-12 21:58:57",
@@ -1875,6 +1855,26 @@
       "duration_ms": 186776,
       "name": "Work Your Body",
       "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
+    },
+    {
+      "added_at": "2026-06-12 21:58:57",
+      "album": {
+        "name": "Through The Pain (feat. Pozer)",
+        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Through The Pain (feat. Pozer)",
+      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
     },
     {
       "added_at": "2026-06-12 21:58:57",
@@ -2027,22 +2027,18 @@
     {
       "added_at": "2026-06-12 21:58:57",
       "album": {
-        "name": "CELEBRATION (Sara Landry Remix)",
-        "url": "https://open.spotify.com/album/0wti1ZxzH9QwP4J4DJaYMq"
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/4lJuvmioRCQCHahAemAGzs"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         }
       ],
-      "duration_ms": 261538,
-      "name": "CELEBRATION (Sara Landry Remix)",
-      "url": "https://open.spotify.com/track/6wU5RtdPK5Gp3qwUa987Ty"
+      "duration_ms": 138328,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/5pIOX4Fy3CXEdvs6Yp8roU"
     }
   ],
   "unique_name": "Beast Mode Dance",

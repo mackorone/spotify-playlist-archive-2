@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 
 > Start your morning with a mix of new and classic songs to keep you singing all day long!
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,160 likes - 100 songs - 5 hr 46 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,152 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 | 99 | [Go](https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Born In The Echoes](https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6) | 4:20 |
 | 100 | [AHEAD BY A CENTURY](https://open.spotify.com/track/7FVG3onyy9GbhysR3sREKy) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR), [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [AHEAD BY A CENTURY](https://open.spotify.com/album/1a73bXVGwFTlNCuL2Bqrwd) | 3:27 |
 
-Snapshot ID: `AAAee5PejaV8MApPbKskVVUd7cSrZqEH`
+Snapshot ID: `AAAefTmycgZL5eXrxLoOekkn9MK+3Tlh`

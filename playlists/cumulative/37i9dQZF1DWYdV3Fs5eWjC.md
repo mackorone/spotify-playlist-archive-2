@@ -4,7 +4,7 @@
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: Durand Bernarr
 
-239 songs - 12 hr 53 min
+240 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2021-02-26 |  |
 | [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-06-02 | 2023-10-06 |
 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 | 2021-08-03 | 2023-03-18 |
-| [Fatal](https://open.spotify.com/track/2UnBCuQtiwlV6oMuix8vi5) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [FatalAttraction](https://open.spotify.com/album/1wQzK1Wp22pzqyKQsMqYau) | 3:27 | 2026-06-12 |  |
+| [Fatal](https://open.spotify.com/track/2UnBCuQtiwlV6oMuix8vi5) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [FatalAttraction](https://open.spotify.com/album/1wQzK1Wp22pzqyKQsMqYau) | 3:27 | 2026-06-12 | 2026-06-18 |
 | [Fatty Acid](https://open.spotify.com/track/4SFFhWS513mwrr8up8nSFe) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Blue Dream](https://open.spotify.com/album/7yDq7lYlhTJS5JkESBNcXS) | 3:43 | 2020-06-01 | 2022-07-28 |
 | [feels like love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [feels like love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 | 2026-06-12 |  |
 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 | 2022-05-31 | 2026-06-13 |
@@ -163,6 +163,7 @@
 | [New Brighton \(feat\. ANOHNI\)](https://open.spotify.com/track/2YThnoRP3m072ODjiWiaN6) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [New Brighton \(feat\. ANOHNI\)](https://open.spotify.com/album/0BAdhekfVcLtO9LbQHvzSy) | 3:19 | 2020-10-23 | 2022-07-27 |
 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 | 2025-05-07 |  |
 | [Nitevision](https://open.spotify.com/track/5z9Odpd6Dxm4E59hVyXUSS) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Pamputtae](https://open.spotify.com/artist/3qu3PIngYcX3SzOVcNGSTF) | [Nitevision](https://open.spotify.com/album/5y8xwWSEoJKTC0HrMBbNBH) | 2:13 | 2022-05-31 | 2022-07-27 |
+| [Not So Sweet](https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Not So Sweet](https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux) | 3:55 | 2026-06-12 |  |
 | [Ocean Eyes](https://open.spotify.com/track/1HxXq8uBgSy8Yg1vicBVTe) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Ocean Eyes](https://open.spotify.com/album/0GBQupF71RGHBKTR4w7e7m) | 3:23 | 2021-02-26 | 2022-07-29 |
 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2023-10-05 |  |
 | [On My Mind](https://open.spotify.com/track/7700T9tYeO5NdTBnLNlGEI) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [On My Mind](https://open.spotify.com/album/06l4Kfsm6hDRVGbHseECRv) | 3:17 | 2021-06-11 | 2022-07-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu sedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1209510,
+  "num_followers": 1209514,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-05-01 01:20:26",
       "album": {
-        "name": "The Special One",
-        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
-      },
-      "artists": [
-        {
-          "name": "Yovie & Nuno",
-          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Menjaga Hati",
-      "url": "https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH"
-    },
-    {
-      "added_at": "2026-05-01 01:20:26",
-      "album": {
         "name": "penjaga hati",
         "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 260346,
       "name": "penjaga hati",
       "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
+    },
+    {
+      "added_at": "2026-05-01 01:20:26",
+      "album": {
+        "name": "The Special One",
+        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Menjaga Hati",
+      "url": "https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH"
     },
     {
       "added_at": "2026-05-01 01:20:26",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-01 01:20:26",
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 202950,
-      "name": "Langit Abu-Abu",
-      "url": "https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O"
-    },
-    {
-      "added_at": "2026-05-01 01:20:26",
-      "album": {
         "name": "Tak Segampang Itu",
         "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 231100,
       "name": "Tak Segampang Itu",
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
+    },
+    {
+      "added_at": "2026-05-01 01:20:26",
+      "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 202950,
+      "name": "Langit Abu-Abu",
+      "url": "https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O"
     },
     {
       "added_at": "2026-05-01 01:20:26",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 297151,
+  "num_followers": 297173,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADsuQVtiJ7PkRPwDtKypUSQ",
+  "snapshot_id": "ajCSAAAAAAA/aVn5UOl++OPo1Tcz2wBD",
   "tracks": [
     {
       "added_at": null,
@@ -192,7 +192,7 @@
       "added_at": null,
       "album": {
         "name": "5",
-        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
       "artists": [
         {
@@ -202,7 +202,7 @@
       ],
       "duration_ms": 257733,
       "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
+      "url": "https://open.spotify.com/track/2zee8Zcesqwnnwliw2Jy8M"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama Said (Deluxe)",
-        "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 289880,
-      "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
-      "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 237466,
       "name": "Fields Of Joy",
       "url": "https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama Said (Deluxe)",
+        "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 289880,
+      "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
+      "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
     },
     {
       "added_at": null,

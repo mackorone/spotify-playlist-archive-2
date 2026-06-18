@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11551,
+  "num_followers": 11558,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAAhNcQ1DHopee19d+fG4dsD",
+  "snapshot_id": "ajCSAAAAAABPwJwjvpIgwvjS7ISTsz8w",
   "tracks": [
     {
       "added_at": null,
@@ -355,42 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Megan Richards",
-          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
-        }
-      ],
-      "duration_ms": 128556,
-      "name": "This Wandering Day",
-      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Castle Leoch",
-      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -411,6 +375,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Castle Leoch",
+      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Megan Richards",
+          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
+        }
+      ],
+      "duration_ms": 128556,
+      "name": "This Wandering Day",
+      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
       },
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 203266,
-      "name": "Elrond Half-elven",
-      "url": "https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve"
+      "duration_ms": 167400,
+      "name": "Bronwyn and Arondir",
+      "url": "https://open.spotify.com/track/67q04cfjHsRTvGMgy34SkC"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 167400,
-      "name": "Bronwyn and Arondir",
-      "url": "https://open.spotify.com/track/67q04cfjHsRTvGMgy34SkC"
+      "duration_ms": 203266,
+      "name": "Elrond Half-elven",
+      "url": "https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "The New Fraser's Ridge",
+      "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 154560,
       "name": "Godzilla Main Title",
       "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 177066,
-      "name": "The New Fraser's Ridge",
-      "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Sons of Sparta (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0FYsyYhHOFkqGUUqPR6e5e"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 239474,
       "name": "Across the Sea and Sky (feat. Raya Yarbrough)",
       "url": "https://open.spotify.com/track/5VDT7x8lqbBLnCslmcLTxi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War Sons of Sparta (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 199274,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n"
     },
     {
       "added_at": null,
@@ -672,13 +672,17 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Benjamin Walker",
-          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
+          "name": "Rory Kinnear",
+          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
+        },
+        {
+          "name": "Daniel Weyman",
+          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
         }
       ],
-      "duration_ms": 198872,
-      "name": "Golden Leaves (feat. Benjamin Walker)",
-      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
+      "duration_ms": 139988,
+      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
+      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
     },
     {
       "added_at": null,
@@ -748,33 +752,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Rory Kinnear",
-          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
-        },
-        {
-          "name": "Daniel Weyman",
-          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
+          "name": "Benjamin Walker",
+          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
         }
       ],
-      "duration_ms": 139988,
-      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
-      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 465093,
-      "name": "As Long as We Both Shall Live",
-      "url": "https://open.spotify.com/track/0NbIAlLKDucvQNtH5Jutny"
+      "duration_ms": 198872,
+      "name": "Golden Leaves (feat. Benjamin Walker)",
+      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 204666,
       "name": "Brianna and Roger Theme",
       "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 465093,
+      "name": "As Long as We Both Shall Live",
+      "url": "https://open.spotify.com/track/0NbIAlLKDucvQNtH5Jutny"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "duration_ms": 429440,
+      "name": "The Key to Lallybroch",
+      "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 105106,
       "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
       "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Raya Yarbrough",
-          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
-        }
-      ],
-      "duration_ms": 429440,
-      "name": "The Key to Lallybroch",
-      "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
     },
     {
       "added_at": null,
@@ -907,18 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Murtagh's Oath",
-      "url": "https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV"
+      "duration_ms": 215880,
+      "name": "Charge of the Highland Cattle",
+      "url": "https://open.spotify.com/track/1cmoHziGJcSbOkJ8jw83C3"
     }
   ],
   "unique_name": "This Is Bear McCreary",

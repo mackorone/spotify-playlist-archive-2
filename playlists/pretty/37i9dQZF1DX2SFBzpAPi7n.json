@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: YongYong(\uc6a9\uc6a9)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 250796,
+  "num_followers": 250776,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-06-12 03:53:54",
       "album": {
-        "name": "DEAR.",
-        "url": "https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Flowering",
-      "url": "https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V"
-    },
-    {
-      "added_at": "2026-06-12 03:53:54",
-      "album": {
         "name": "FLY HIGH PROJECT #2 'Rooftop'",
         "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2026-06-12 03:53:54",
       "album": {
-        "name": "I\u2019ll Never Love Again",
-        "url": "https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN"
+        "name": "DEAR.",
+        "url": "https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm"
       },
       "artists": [
         {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
         }
       ],
-      "duration_ms": 225000,
-      "name": "I'll Never Love Again",
-      "url": "https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI"
+      "duration_ms": 251293,
+      "name": "Flowering",
+      "url": "https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V"
     },
     {
       "added_at": "2026-06-12 03:53:54",
@@ -611,6 +595,22 @@
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
+    },
+    {
+      "added_at": "2026-06-12 03:53:54",
+      "album": {
+        "name": "I\u2019ll Never Love Again",
+        "url": "https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "I'll Never Love Again",
+      "url": "https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI"
     },
     {
       "added_at": "2026-06-12 03:53:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-12 03:53:54",
       "album": {
-        "name": "AMNESIA",
-        "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
-    },
-    {
-      "added_at": "2026-06-12 03:53:54",
-      "album": {
         "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
         "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 202026,
       "name": "Dear",
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
+    },
+    {
+      "added_at": "2026-06-12 03:53:54",
+      "album": {
+        "name": "AMNESIA",
+        "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
     },
     {
       "added_at": "2026-06-12 03:53:54",

@@ -25203,6 +25203,24 @@
     },
     {
       "album": {
+        "name": "Allt sem \u00fe\u00fa \u00e1tt",
+        "url": "https://open.spotify.com/album/1W1DK9Hu5dFTEol3gmwnVB"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217570,
+      "name": "Hli\u00f0 vi\u00f0 hli\u00f0",
+      "url": "https://open.spotify.com/track/1rjRlp4DObTiVHGnoCuKQ4"
+    },
+    {
+      "album": {
         "name": "Hluti af m\u00e9r",
         "url": "https://open.spotify.com/album/4ngZRk86aKqmzEPH3PAAYW"
       },
@@ -28106,7 +28124,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 203000,
       "name": "I Was Made To Find You",
       "url": "https://open.spotify.com/track/5EgtiSbjiTfCEgyr04rRGW"
@@ -33146,7 +33164,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -37124,7 +37142,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 206000,
       "name": "Miss You - Bonus Track",
       "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
@@ -47840,7 +47858,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 234010,
       "name": "Sautj\u00e1ndi j\u00fan\u00ed",
       "url": "https://open.spotify.com/track/3AUvWRvTByGIhn3GMF9BKo"
@@ -53214,7 +53232,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 212655,
       "name": "Sumari\u00f0",
       "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"
@@ -54044,7 +54062,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 255744,
       "name": "Syneta",
       "url": "https://open.spotify.com/track/6R3KhcWMLBRMU7jGWVKIUm"
@@ -57144,7 +57162,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 234166,
       "name": "Til \u00ed allt, Pt. III",
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"

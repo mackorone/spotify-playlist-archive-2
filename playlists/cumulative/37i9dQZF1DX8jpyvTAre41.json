@@ -23653,6 +23653,28 @@
     },
     {
       "album": {
+        "name": "R.I.P. (feat. Skylar Grey)",
+        "url": "https://open.spotify.com/album/2BdQsMhZDuxilUo1mG12OK"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240109,
+      "name": "R.I.P. (feat. Skylar Grey)",
+      "url": "https://open.spotify.com/track/4t2iBQXTof6BoWCIxkgFF1"
+    },
+    {
+      "album": {
         "name": "Rabbit Run (From the \"Caught Stealing\" Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/39PWEXZY2QbMCp1f31mPmL"
       },

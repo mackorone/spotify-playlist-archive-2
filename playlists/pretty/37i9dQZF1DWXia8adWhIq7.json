@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112743,
+  "num_followers": 112747,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -407,30 +407,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "A Melhor Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
-      },
-      "artists": [
-        {
-          "name": "Coral Teen Cap",
-          "url": "https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Victoria Niza",
-          "url": "https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6"
-        }
-      ],
-      "duration_ms": 230727,
-      "name": "A Melhor Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 231575,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "A Melhor Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
+      },
+      "artists": [
+        {
+          "name": "Coral Teen Cap",
+          "url": "https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Victoria Niza",
+          "url": "https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6"
+        }
+      ],
+      "duration_ms": 230727,
+      "name": "A Melhor Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Festa no Deserto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 227717,
-      "name": "Festa no Deserto - Ao Vivo",
-      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Teu Amor Me Consome",
         "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 226187,
       "name": "Teu Amor Me Consome",
       "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "Festa no Deserto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 227717,
+      "name": "Festa no Deserto - Ao Vivo",
+      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
         "name": "Teu V\u00f4o",
         "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 192000,
       "name": "Teu V\u00f4o",
       "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Enganoso Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
-      },
-      "artists": [
-        {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
-        }
-      ],
-      "duration_ms": 190023,
-      "name": "Enganoso Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Me Leva Al\u00e9m",
         "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 215061,
       "name": "Me Leva Al\u00e9m",
       "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "Enganoso Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "duration_ms": 190023,
+      "name": "Enganoso Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
     },
     {
       "added_at": "2026-04-10 17:16:27",

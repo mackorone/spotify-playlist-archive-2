@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Nilüfer ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,035 likes - 119 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,021 likes - 119 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 111 | [Bile Bile](https://open.spotify.com/track/55w3r524rMlASsAIF7VzOq) | [Can Köymen](https://open.spotify.com/artist/29ta5Necgm0pZUqs2lDEP6) | [Bile Bile](https://open.spotify.com/album/0EKOXr5gYg32eDpe5EbGwD) | 2:35 |
 | 112 | [No Entienden \(Anlamazlar\) \- Spanish Version](https://open.spotify.com/track/7CIMq4etnPyzMgwENKMHIJ) | [Jülide](https://open.spotify.com/artist/2jORWiqkOfzfaNL0FPbH5w) | [No Entienden \(Anlamazlar\) \[Spanish Version\]](https://open.spotify.com/album/3C7ZqnT5ehGdP8QmIDU7Qo) | 3:22 |
 | 113 | [MOLLY GREEN](https://open.spotify.com/track/62XJ5M53r0HQ8cxOhVur4q) | [mertohguap](https://open.spotify.com/artist/6nLseSRBFRlrBcTb0nEvtS), [SOULJAH](https://open.spotify.com/artist/4twe3Bnk0okPnyUSoIpiB1), [Mali Green](https://open.spotify.com/artist/3E7p63bZatO9VnLcaCKUvB), [Wyldren](https://open.spotify.com/artist/0buLFsFtNSkgkLFqUX1Op6) | [MOLLY GREEN](https://open.spotify.com/album/7gzl6nyuY7TmgeQmyqHqsO) | 2:17 |
-| 114 | [Tanrım](https://open.spotify.com/track/3QWqThW9Zb5yYVEOum17ot) | [Gülbakan](https://open.spotify.com/artist/0LrYyJMKxH4S3hfztmMblU) | [Tanrım](https://open.spotify.com/album/2tI3CSlfyWSLcCwd5XsdHP) | 2:17 |
+| 114 | [Tanrım](https://open.spotify.com/track/3QWqThW9Zb5yYVEOum17ot) | [Gülbakan](https://open.spotify.com/artist/0LrYyJMKxH4S3hfztmMblU), [Malkovic](https://open.spotify.com/artist/16lf5qEbhm18KLJK4wU9zM) | [Tanrım](https://open.spotify.com/album/2tI3CSlfyWSLcCwd5XsdHP) | 2:17 |
 | 115 | [leech](https://open.spotify.com/track/5a0xJrvAWjKGEW0Cph9QdB) | [nazire](https://open.spotify.com/artist/5yq1O1yuIoimW9QFYk4Pop) | [leech](https://open.spotify.com/album/6jTB3Oxwv8Vs50DndX5jQL) | 2:46 |
 | 116 | [Tatlım](https://open.spotify.com/track/0POJZtGyobtrr6CakcXvAt) | [Serkan Can](https://open.spotify.com/artist/70buS6EC9KzaQWlkNtaEZz) | [Tatlım](https://open.spotify.com/album/2pJpfb2QpDMN6J7DNm1haj) | 2:38 |
 | 117 | [ELA](https://open.spotify.com/track/0eUlFtooUjmwCizjeOBWaY) | [Adler](https://open.spotify.com/artist/5ITjBIX4ovVXyspBNRM9KR), [Lami](https://open.spotify.com/artist/5V9DCSxcVep57RMyCfL2TP) | [ELA](https://open.spotify.com/album/3bxu0YSasF7WLqdIrUvNu5) | 2:14 |

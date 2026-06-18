@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAD1FaGhNlfLm9XgLHDazMTw",
+  "snapshot_id": "ajCSAAAAAABLr/u3ZdcPV5xJyrcUY9nR",
   "tracks": [
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZyZy",
-        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        }
-      ],
-      "duration_ms": 149833,
-      "name": "ZyZy",
-      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FZND DNV",
         "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
       },
@@ -819,6 +799,46 @@
       "duration_ms": 134400,
       "name": "FZND DNV",
       "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ZyZy",
+        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 149833,
+      "name": "ZyZy",
+      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diva Pop",
+        "url": "https://open.spotify.com/album/22F3kRQ6X5pKSfHe1WM207"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "Diva Pop",
+      "url": "https://open.spotify.com/track/6Ry9PISedNt3UF8g6oYiP3"
     },
     {
       "added_at": null,
@@ -847,22 +867,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diva Pop",
-        "url": "https://open.spotify.com/album/22F3kRQ6X5pKSfHe1WM207"
+        "name": "Dona de Mim (Novela)",
+        "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
       },
       "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
         }
       ],
-      "duration_ms": 152275,
-      "name": "Diva Pop",
-      "url": "https://open.spotify.com/track/6Ry9PISedNt3UF8g6oYiP3"
+      "duration_ms": 151737,
+      "name": "Dona de Mim - Novela",
+      "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
     },
     {
       "added_at": null,
@@ -911,30 +935,6 @@
       "duration_ms": 414703,
       "name": "Poetisas no Topo 4",
       "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dona de Mim (Novela)",
-        "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 151737,
-      "name": "Dona de Mim - Novela",
-      "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
     },
     {
       "added_at": null,
@@ -995,6 +995,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dif\u00edcil De Amar",
+        "url": "https://open.spotify.com/album/7gWMmfxYPhUYvlzbpdFHDi"
+      },
+      "artists": [
+        {
+          "name": "MG CDD",
+          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Jay V",
+          "url": "https://open.spotify.com/artist/2A8zEwhig47jnD4MEUsS1L"
+        },
+        {
+          "name": "BAMMA",
+          "url": "https://open.spotify.com/artist/4CJC8fEelNd3OXoiJEzV2a"
+        }
+      ],
+      "duration_ms": 313823,
+      "name": "Dif\u00edcil De Amar",
+      "url": "https://open.spotify.com/track/6JnTVrSnN6p6Tp6j93xkfa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agi Igual Homem",
         "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
       },
@@ -1047,38 +1079,6 @@
       "duration_ms": 163720,
       "name": "Milhas",
       "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dif\u00edcil De Amar",
-        "url": "https://open.spotify.com/album/7gWMmfxYPhUYvlzbpdFHDi"
-      },
-      "artists": [
-        {
-          "name": "MG CDD",
-          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Jay V",
-          "url": "https://open.spotify.com/artist/2A8zEwhig47jnD4MEUsS1L"
-        },
-        {
-          "name": "BAMMA",
-          "url": "https://open.spotify.com/artist/4CJC8fEelNd3OXoiJEzV2a"
-        }
-      ],
-      "duration_ms": 313823,
-      "name": "Dif\u00edcil De Amar",
-      "url": "https://open.spotify.com/track/6JnTVrSnN6p6Tp6j93xkfa"
     },
     {
       "added_at": null,
@@ -1207,6 +1207,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
+        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cara Ideal",
         "url": "https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS"
       },
@@ -1231,26 +1255,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
-        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
+        "name": "Tormento",
+        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
       },
       "artists": [
         {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 171500,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
+      "duration_ms": 198454,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
     },
     {
       "added_at": null,
@@ -1283,30 +1307,6 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tormento",
-        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        },
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 198454,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
     },
     {
       "added_at": null,

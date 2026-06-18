@@ -3833,6 +3833,24 @@
     },
     {
       "album": {
+        "name": "Illinois Again",
+        "url": "https://open.spotify.com/album/46ogyvsglHfzceKTtzcbNN"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236223,
+      "name": "Illinois Again",
+      "url": "https://open.spotify.com/track/2VjZpK6FAhMxfJwBDMBeij"
+    },
+    {
+      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH"
       },
@@ -7456,7 +7474,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 381560,
       "name": "Tomorrow is Perfect",
       "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"

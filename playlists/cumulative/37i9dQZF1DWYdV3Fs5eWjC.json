@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 207567,
       "name": "Fatal",
       "url": "https://open.spotify.com/track/2UnBCuQtiwlV6oMuix8vi5"
@@ -3000,6 +3000,24 @@
       "duration_ms": 133000,
       "name": "Nitevision",
       "url": "https://open.spotify.com/track/5z9Odpd6Dxm4E59hVyXUSS"
+    },
+    {
+      "album": {
+        "name": "Not So Sweet",
+        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235088,
+      "name": "Not So Sweet",
+      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
     },
     {
       "album": {

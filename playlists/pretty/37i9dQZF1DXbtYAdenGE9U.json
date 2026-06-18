@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 796644,
+  "num_followers": 796873,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI+vEYPI4ruI+OhFf4EPQWMxcP6+",
+  "snapshot_id": "AAAAAA89xC5GCEY8D4V1RrvGNEcQUD62",
   "tracks": [
     {
       "added_at": "2024-07-23 09:55:55",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Gouryella",
-        "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
-      },
-      "artists": [
-        {
-          "name": "Gouryella",
-          "url": "https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Gouryella",
-      "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Seven Cities",
         "url": "https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 211333,
       "name": "Seven Cities - Solarstone's Atlantis Mix",
       "url": "https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Gouryella",
+        "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
+      },
+      "artists": [
+        {
+          "name": "Gouryella",
+          "url": "https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Gouryella",
+      "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
     },
     {
       "added_at": "2024-07-23 09:55:55",

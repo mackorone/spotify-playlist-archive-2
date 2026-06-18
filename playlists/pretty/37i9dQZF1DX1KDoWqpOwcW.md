@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > Una playlist a la Diabla en compañía de Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,548 likes - 54 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,546 likes - 54 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2099,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "God Complex (English Version)",
+        "url": "https://open.spotify.com/album/6qHpH3kwhtwkkzvgm4QQpw"
+      },
+      "artists": [
+        {
+          "name": "Dandi Di",
+          "url": "https://open.spotify.com/artist/7jQ6NB8cADOyoiWfgPZtpN"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Aura - English Version",
+      "url": "https://open.spotify.com/track/6wvfDe4LYeoNyEAXmCN3CC"
+    },
+    {
+      "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
       },
@@ -8840,7 +8858,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -19774,7 +19792,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
@@ -19810,7 +19828,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 300893,
       "name": "Smells Like Teen Spirit - Remastered",
       "url": "https://open.spotify.com/track/0gucTLf7trAf37Ua1uAyAu"
@@ -30568,7 +30586,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 149343,
       "name": "\u0417\u041f\u041f\u041f",
       "url": "https://open.spotify.com/track/4mOL5V2LZzDhAxmsHvjZzv"
@@ -36416,7 +36434,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 164921,
       "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
@@ -37310,7 +37328,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 119575,
       "name": "\u0440\u0430\u0441\u043f\u044f\u0442\u044c",
       "url": "https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8"
@@ -43492,7 +43510,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 188475,
       "name": "\u0406\u041a\u041e\u041d\u0410",
       "url": "https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA"

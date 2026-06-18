@@ -3143,6 +3143,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9reme o \u00c1ndate (En Vivo Equal Day MX 2026)",
+        "url": "https://open.spotify.com/album/3EpTLYJESuLnzZErpIOgIn"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218986,
+      "name": "Qui\u00e9reme o \u00c1ndate - En Vivo Equal Day MX 2026",
+      "url": "https://open.spotify.com/track/1vmPID43N54wOsmlxSZG4l"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
       },

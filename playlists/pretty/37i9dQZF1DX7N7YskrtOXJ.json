@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 126295,
+  "num_followers": 126321,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Mentirosa Remix",
         "url": "https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 179405,
       "name": "Mentirosa Remix",
       "url": "https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Moral Distra\u00edda",
+        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
+      },
+      "artists": [
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Pero Qu\u00e9 Necesidad",
         "url": "https://open.spotify.com/album/1EIHsa3Y9KYnOUaGkxeL4w"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 190736,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/2LIP7t0gZhQjTJM7iGMZqR"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Moral Distra\u00edda",
-        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
-      },
-      "artists": [
-        {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "El Men\u00fa",
-      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "La Pulguita",
+        "url": "https://open.spotify.com/album/5O7TbpfVOsXwwrlzzbNn0X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Luna Negra",
+          "url": "https://open.spotify.com/artist/0PSpkNWjWHFMnJ0Usmh24e"
+        }
+      ],
+      "duration_ms": 212369,
+      "name": "La Pulguita",
+      "url": "https://open.spotify.com/track/6SHfjjiY8RrykTskKG0kkr"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/0p7JA2rxmDu7K4J2Wf7QPI"
       },
@@ -1359,8 +1375,8 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+        "name": "Adi\u00f3s Amor / Oye Mujer",
+        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
       },
       "artists": [
         {
@@ -1368,25 +1384,9 @@
           "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "La Pulguita",
-        "url": "https://open.spotify.com/album/5O7TbpfVOsXwwrlzzbNn0X"
-      },
-      "artists": [
-        {
-          "name": "Grupo Luna Negra",
-          "url": "https://open.spotify.com/artist/0PSpkNWjWHFMnJ0Usmh24e"
-        }
-      ],
-      "duration_ms": 212369,
-      "name": "La Pulguita",
-      "url": "https://open.spotify.com/track/6SHfjjiY8RrykTskKG0kkr"
+      "duration_ms": 407573,
+      "name": "Adi\u00f3s Amor / Oye Mujer",
+      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Adi\u00f3s Amor / Oye Mujer",
-        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 407573,
-      "name": "Adi\u00f3s Amor / Oye Mujer",
-      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Sigo Enamorado de Ti",
         "url": "https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 171400,
       "name": "Sigo Enamorado de Ti",
       "url": "https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
+        }
+      ],
+      "duration_ms": 421026,
+      "name": "Solo por Ella / Ya Te Olvide - Mujer",
+      "url": "https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Otro D\u00eda M\u00e1s",
         "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 202342,
       "name": "Otro D\u00eda M\u00e1s",
       "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alegria",
-          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
-        }
-      ],
-      "duration_ms": 421026,
-      "name": "Solo por Ella / Ya Te Olvide - Mujer",
-      "url": "https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Somos Parte de Tu Vida",
         "url": "https://open.spotify.com/album/6t4VfXgbfFiQ32V69loQ5K"
       },
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Qui\u00e9reme",
         "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 224960,
       "name": "Haciendo el Amor",
       "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Cumbia para Rato",
+        "url": "https://open.spotify.com/album/7Jl4Q9zZJVhy3RKXtbR7ZZ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Gato",
+          "url": "https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO"
+        }
+      ],
+      "duration_ms": 205331,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/0TsxuYmpzm17gyWG0luJS1"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1731,26 +1747,6 @@
       "duration_ms": 175694,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Adi\u00f3s Amor",
-        "url": "https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 259910,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/367069JY6QWPaCJM21OVBC"
     }
   ],
   "unique_name": "Cumbias para carretear",

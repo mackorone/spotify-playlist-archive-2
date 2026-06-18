@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAA33z6qT8tGRz+3xj1x5a9w",
+  "snapshot_id": "ajCSAAAAAABGbRGeZ5KBcPobbW8UtviU",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 227472,
-      "name": "9:48 PM",
-      "url": "https://open.spotify.com/track/223x7DngLVmS223tTaGdmV"
+      "duration_ms": 209000,
+      "name": "1:17 PM",
+      "url": "https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 327887,
-      "name": "Will O Wisp",
-      "url": "https://open.spotify.com/track/6Nk16b0mopM3PzzCRmBnRN"
+      "duration_ms": 276266,
+      "name": "Shadow Spots",
+      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
     },
     {
       "added_at": null,
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 209000,
-      "name": "1:17 PM",
-      "url": "https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3"
+      "duration_ms": 97000,
+      "name": "6:33 AM",
+      "url": "https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 276266,
-      "name": "Shadow Spots",
-      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
+      "duration_ms": 327887,
+      "name": "Will O Wisp",
+      "url": "https://open.spotify.com/track/6Nk16b0mopM3PzzCRmBnRN"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 209700,
-      "name": "Water / Earth",
-      "url": "https://open.spotify.com/track/1pnZHkdiCLlsIQ7Tb9KuUr"
+      "duration_ms": 160000,
+      "name": "Earth / Earth",
+      "url": "https://open.spotify.com/track/51JXFYjuemyyf0LOYSyJtm"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 97000,
-      "name": "6:33 AM",
-      "url": "https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s"
+      "duration_ms": 227472,
+      "name": "9:48 PM",
+      "url": "https://open.spotify.com/track/223x7DngLVmS223tTaGdmV"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Earth / Earth",
-      "url": "https://open.spotify.com/track/51JXFYjuemyyf0LOYSyJtm"
+      "duration_ms": 182454,
+      "name": "Fire / Water",
+      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 182454,
-      "name": "Fire / Water",
-      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
+      "duration_ms": 209700,
+      "name": "Water / Earth",
+      "url": "https://open.spotify.com/track/1pnZHkdiCLlsIQ7Tb9KuUr"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
       "duration_ms": 66000,
       "name": "You Have 3 New Telepathic Messages",
       "url": "https://open.spotify.com/track/3FMu8kzYmpw7pw84FcJY7y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recent Futures",
-        "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 381120,
-      "name": "Santa Ana Wind Burn",
-      "url": "https://open.spotify.com/track/6kFiQFLoxhBexCDquCFqlc"
     }
   ],
   "unique_name": "This Is Celia Hollander",

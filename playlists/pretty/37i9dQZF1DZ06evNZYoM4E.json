@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108606,
+  "num_followers": 108611,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADYhGCQ027aRk50xjn/1g03",
+  "snapshot_id": "ajCSAAAAAAAoVdLbfyM02DPGUtX5X1MN",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "'t Rode Licht",
-      "url": "https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samen Met Dr\u00e9",
         "url": "https://open.spotify.com/album/5iwfn6LrS7wwhuMLn16io3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 241493,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/4AQnXdOq7ChjMhibKrKne1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "'t Rode Licht",
+      "url": "https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "Zomer",
-      "url": "https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N Vriend",
         "url": "https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 297333,
       "name": "'n Vriend",
       "url": "https://open.spotify.com/track/08uynYGHmW0iPtuiQkrQM5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "Zomer",
+      "url": "https://open.spotify.com/track/1C9vjvS6R8Qj8coU2Ifz6m"
     },
     {
       "added_at": null,

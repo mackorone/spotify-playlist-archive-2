@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,248 songs - 2 day 21 hr 23 min
+1,249 songs - 2 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,6 +689,7 @@
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
 | [Mindbreak](https://open.spotify.com/track/6EP8jgwI9FS3qEEfNC6idl) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Mindbreak](https://open.spotify.com/album/21Cj0g82RnutbkJdlrwTkD) | 3:33 | 2023-03-31 | 2023-06-24 |
 | [Mindbreak \- Freaks & Geeks Remix](https://open.spotify.com/track/7q8Rg7XlkzCVgGpA7XUgTZ) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Mindbreak \(Freaks & Geeks Remix\)](https://open.spotify.com/album/1xr3mw21gzDxHL0G94jT4O) | 3:36 | 2023-12-13 | 2024-03-27 |
+| [Mine](https://open.spotify.com/track/64L1sPpYqPRz5hrV0tw4DJ) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [Mine](https://open.spotify.com/album/2yNQqnLlFhN1hIltm6tDAC) | 3:21 | 2026-06-17 |  |
 | [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 | 2023-02-08 | 2023-04-28 |
 | [Mirror](https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Mirror](https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ) | 4:09 | 2022-10-07 | 2022-12-09 |
 | [Mirror Of Erised](https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Mirror Of Erised](https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH) | 3:46 | 2022-08-19 | 2022-11-01 |

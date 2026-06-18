@@ -1,29 +1,13 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 46204,
+  "num_followers": 46216,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACxOqzlXVe5x40pDvlXa81+",
+  "snapshot_id": "ajCSAAAAAACWRfKZ0DK15T6uWcdMIYCt",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 106533,
-      "name": "Yale",
-      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 184375,
       "name": "ss",
       "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 106533,
+      "name": "Yale",
+      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
     },
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 141031,
+      "name": "overseas",
+      "url": "https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the acronym (with Destroy Lonely)",
         "url": "https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 147495,
       "name": "the acronym (with Destroy Lonely)",
       "url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 141031,
-      "name": "overseas",
-      "url": "https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 230923,
-      "name": "Blakk Rokkstar",
-      "url": "https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 128000,
       "name": "mewtwo",
       "url": "https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 230923,
+      "name": "Blakk Rokkstar",
+      "url": "https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO"
     },
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Fell In Love (with Ken Carson)",
+      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Chaos",
         "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 219428,
       "name": "Off The Meter (with Playboi Carti & Destroy Lonely)",
       "url": "https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 173195,
-      "name": "Fell In Love (with Ken Carson)",
-      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
     },
     {
       "added_at": null,

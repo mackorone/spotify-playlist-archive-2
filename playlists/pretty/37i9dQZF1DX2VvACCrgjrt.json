@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Disco Lines",
-  "num_followers": 1312927,
+  "num_followers": 1312926,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/3CapV3APaBIJKtg65nbefT"
     },
     {
+      "added_at": "2026-05-15 15:18:31",
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/7CnlupDtx0fe7Z1ZZ9MbqR"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 183998,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Night In Detroit (feat. Fedde Le Grand)",
@@ -1371,22 +1387,6 @@
       "duration_ms": 166356,
       "name": "Night In Detroit (feat. Fedde Le Grand)",
       "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
-    },
-    {
-      "added_at": "2026-05-15 15:18:31",
-      "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/7CnlupDtx0fe7Z1ZZ9MbqR"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 183998,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Rock My World",
+        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Puku",
+          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Rock My World",
+      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Gimme That Money",
         "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
       },
@@ -1655,26 +1675,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Rock My World",
-        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Puku",
-          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Rock My World",
-      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
@@ -1691,6 +1691,26 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Count On You",
+        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 165923,
+      "name": "Count On You",
+      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
     },
     {
       "added_at": "2026-04-17 04:02:12",
@@ -1715,26 +1735,6 @@
       "duration_ms": 140770,
       "name": "Fotopaparazzi",
       "url": "https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Count On You",
-        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Sian-Lee",
-          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
-        }
-      ],
-      "duration_ms": 165923,
-      "name": "Count On You",
-      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1817,6 +1817,22 @@
       "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
     },
     {
+      "added_at": "2026-04-10 04:02:08",
+      "album": {
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 204242,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Animal",
@@ -1835,22 +1851,6 @@
       "duration_ms": 193655,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
-      "added_at": "2026-04-10 04:02:08",
-      "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 204242,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
     },
     {
       "added_at": "2026-05-15 15:18:31",
@@ -1969,6 +1969,26 @@
       "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
+      "added_at": "2026-01-16 05:00:37",
+      "album": {
+        "name": "REAL FRIENDS",
+        "url": "https://open.spotify.com/album/4MnzdVaQ9KPWMvnY1KT0BE"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "BROSA",
+          "url": "https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR"
+        }
+      ],
+      "duration_ms": 140567,
+      "name": "REAL FRIENDS",
+      "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
+    },
+    {
       "added_at": "2026-04-03 04:01:48",
       "album": {
         "name": "SHE TOXIC",
@@ -2003,26 +2023,6 @@
       "duration_ms": 183500,
       "name": "Tease",
       "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
-    },
-    {
-      "added_at": "2026-01-16 05:00:37",
-      "album": {
-        "name": "REAL FRIENDS",
-        "url": "https://open.spotify.com/album/4MnzdVaQ9KPWMvnY1KT0BE"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "BROSA",
-          "url": "https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR"
-        }
-      ],
-      "duration_ms": 140567,
-      "name": "REAL FRIENDS",
-      "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2137,6 +2137,22 @@
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
     },
     {
+      "added_at": "2026-05-22 04:01:19",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 145036,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Healing",
@@ -2159,22 +2175,6 @@
       "duration_ms": 179537,
       "name": "Healing",
       "url": "https://open.spotify.com/track/0LPcQK0wDigAqAkgs939cK"
-    },
-    {
-      "added_at": "2026-05-22 04:01:19",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
-      },
-      "artists": [
-        {
-          "name": "MARTA",
-          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
-        }
-      ],
-      "duration_ms": 145036,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
     },
     {
       "added_at": "2026-02-13 05:00:34",
@@ -2349,6 +2349,26 @@
       "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
     },
     {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/05T2g3242GDiDlifEdfSju"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Thomas Anthony",
+          "url": "https://open.spotify.com/artist/2Kipffvr3gbA2BpMFe0RsI"
+        }
+      ],
+      "duration_ms": 208636,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/26ymYN71kHUlWnK7i3xP3i"
+    },
+    {
       "added_at": "2026-05-22 04:01:19",
       "album": {
         "name": "Keep On Dancing",
@@ -2369,24 +2389,24 @@
       "url": "https://open.spotify.com/track/41I6VRCOvauu53kjGvNoAy"
     },
     {
-      "added_at": "2026-03-06 05:00:10",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/05T2g3242GDiDlifEdfSju"
+        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
+        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
       },
       "artists": [
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "Thomas Anthony",
-          "url": "https://open.spotify.com/artist/2Kipffvr3gbA2BpMFe0RsI"
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
         }
       ],
-      "duration_ms": 208636,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/26ymYN71kHUlWnK7i3xP3i"
+      "duration_ms": 167633,
+      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
+      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
     },
     {
       "added_at": "2026-05-01 04:01:35",
@@ -2415,34 +2435,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Crazy Shit",
-        "url": "https://open.spotify.com/album/6LaysU1FWbAmOSO0MlvHsZ"
+        "name": "Sweating",
+        "url": "https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F"
       },
       "artists": [
         {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        }
-      ],
-      "duration_ms": 213234,
-      "name": "Crazy Shit",
-      "url": "https://open.spotify.com/track/5ju7hV8Kb2p2loZz9WyOWv"
-    },
-    {
-      "added_at": "2026-04-17 04:02:12",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3"
-      },
-      "artists": [
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
         }
       ],
-      "duration_ms": 185625,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb"
+      "duration_ms": 207425,
+      "name": "Sweating",
+      "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
     }
   ],
   "unique_name": "Nasty Bits",

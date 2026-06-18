@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,825 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,857 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 72 | [Seize the Day](https://open.spotify.com/track/1gqPcliPEmNXSOi7Vvr95e) | [The Mendenhall Experiment](https://open.spotify.com/artist/1i5khuFFnwuwwDwWbwbyLL) | [Seize the Day \- Single](https://open.spotify.com/album/35t5Xqrz49iF8M7fieKVRs) | 3:50 |
 | 73 | [Nocturnal](https://open.spotify.com/track/3q1PFPjwZqBRsZKAknXCxz) | [Frontstreet](https://open.spotify.com/artist/4o29o81D4SvbqRZ6GAt06n) | [Bad Habit / Nocturnal](https://open.spotify.com/album/5S7ssOrPoEbSscAOFwespN) | 4:40 |
 | 74 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
-| 75 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
+| 75 | [Last Day Tomorrow](https://open.spotify.com/track/74LY9jrPXcPbuwbmwMaGr9) | [Dieversity](https://open.spotify.com/artist/1dBNntMm92gQYc4I0fERkI) | [Last Day: Tomorrow](https://open.spotify.com/album/30Unv5UigVjmAVrsTuO77J) | 4:38 |
 
 Snapshot ID: `AAAAAKwZjRHd2snUnxhZJ1SW5Gfpqy+P`

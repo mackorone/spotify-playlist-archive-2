@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 BLAIR",
-  "num_followers": 279554,
+  "num_followers": 279546,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-06-12 03:00:30",
       "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
-    },
-    {
-      "added_at": "2026-06-12 03:00:30",
-      "album": {
         "name": "el cielo",
         "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 188671,
       "name": "el cielo",
       "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
+    },
+    {
+      "added_at": "2026-06-12 03:00:30",
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "added_at": "2026-06-12 03:00:30",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-12 03:00:30",
       "album": {
-        "name": "Calambre",
-        "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 240315,
-      "name": "BUENOS AIRES",
-      "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
-    },
-    {
-      "added_at": "2026-06-12 03:00:30",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
+    },
+    {
+      "added_at": "2026-06-12 03:00:30",
+      "album": {
+        "name": "Calambre",
+        "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 240315,
+      "name": "BUENOS AIRES",
+      "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
     },
     {
       "added_at": "2026-06-12 03:00:30",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-06-12 03:00:30",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+    },
+    {
+      "added_at": "2026-06-12 03:00:30",
+      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
-    },
-    {
-      "added_at": "2026-06-12 03:00:30",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2026-06-12 03:00:30",
@@ -1811,22 +1811,22 @@
     {
       "added_at": "2026-06-12 03:00:30",
       "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+        "name": "No Ha Parado De Llover",
+        "url": "https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU"
       },
       "artists": [
         {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         },
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Sebasti\u00e1n Yatra",
+          "url": "https://open.spotify.com/artist/5pht7tKXc1DYyYVmqkYejt"
         }
       ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+      "duration_ms": 245209,
+      "name": "No Ha Parado De Llover (with Sebasti\u00e1n Yatra)",
+      "url": "https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv"
     },
     {
       "added_at": "2026-06-12 03:00:30",
@@ -1847,22 +1847,22 @@
     {
       "added_at": "2026-06-12 03:00:30",
       "album": {
-        "name": "No Ha Parado De Llover",
-        "url": "https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU"
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
         },
         {
-          "name": "Sebasti\u00e1n Yatra",
-          "url": "https://open.spotify.com/artist/5pht7tKXc1DYyYVmqkYejt"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 245209,
-      "name": "No Ha Parado De Llover (with Sebasti\u00e1n Yatra)",
-      "url": "https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv"
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2026-06-12 03:00:30",

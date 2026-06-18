@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103964,
+  "num_followers": 103961,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADsJ/a7/GAiwLXKmf9GGDBB",
+  "snapshot_id": "ajCSAAAAAAD2oFyBk77DXPbMR9XXWIm0",
   "tracks": [
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+      "duration_ms": 182787,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 182787,
-      "name": "Nadie Es Indispensable",
-      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
       "duration_ms": 161314,
       "name": "Empezar de Cero",
       "url": "https://open.spotify.com/track/5XsZdVYMjs2DM6ODdbGnHV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 249974,
+      "name": "Me Va A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80"
     },
     {
       "added_at": null,
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 249974,
-      "name": "Me Va A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80"
+      "duration_ms": 226618,
+      "name": "El Barco",
+      "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 195000,
       "name": "Merecemos Perdonarnos (En Vivo)",
       "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226618,
-      "name": "El Barco",
-      "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 180800,
       "name": "Pena Negra",
       "url": "https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
     },
     {
       "added_at": null,
@@ -879,6 +863,22 @@
       "duration_ms": 157638,
       "name": "Menos Mal Que Me Quer\u00edas",
       "url": "https://open.spotify.com/track/16faE40K81K0I9WvK5GAbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
     },
     {
       "added_at": null,

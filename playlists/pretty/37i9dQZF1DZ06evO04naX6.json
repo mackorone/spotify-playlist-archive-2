@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 179944,
+  "num_followers": 179968,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAC3W7O6HYbE05WjjQ4vQtGD",
+  "snapshot_id": "ajCSAAAAAAA2C1mIKIQvKqBS3N9htXt3",
   "tracks": [
     {
       "added_at": null,
@@ -823,42 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonita (Remix)",
-        "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 322906,
-      "name": "Bonita - Remix",
-      "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alta Jerarquia (El Patr\u00f3n)",
         "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
       },
@@ -903,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 105491,
-      "name": "Bailame - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -939,6 +887,58 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 105491,
+      "name": "Bailame - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonita (Remix)",
+        "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 322906,
+      "name": "Bonita - Remix",
+      "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
     },
     {
       "added_at": null,

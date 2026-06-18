@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Harsha Vardhan
 
-802 songs - 1 day 21 hr 26 min
+803 songs - 1 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Ottikita \(01\)](https://open.spotify.com/track/4QyhVCxgAhugXPfzxilA0Q) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Ottikita \(01\)](https://open.spotify.com/album/4owBfV36cG7NOD9JnXd1SK) | 2:45 | 2026-02-26 |  |
 | [Ovvoru Ponnukkum \- DEAFFROGS RECORDS](https://open.spotify.com/track/7f8jsmd782N8XsqUwk9fV2) | [Voltage B](https://open.spotify.com/artist/1sPbhUJNlDdgq2x9r4if18) | [Ovvoru Ponnukkum \(DEAFFROGS RECORDS\)](https://open.spotify.com/album/4FqX3n33fZ6QbXhd7H9wRV) | 3:19 | 2024-02-23 | 2024-03-09 |
 | [Oye WiFi](https://open.spotify.com/track/4OJlaha9SL0hg2T71TrajY) | [MV Renju](https://open.spotify.com/artist/3FF68P1H15lpkam4dm9u9V), [Maguvi](https://open.spotify.com/artist/2W6PplXI1Za8fhlceez0V3) | [Oye WiFi](https://open.spotify.com/album/5ISe0jUvgvW0oL4cUfHpfv) | 5:42 | 2024-07-25 | 2024-09-19 |
+| [Paadha Poora Mullana](https://open.spotify.com/track/3Y9vPRgjzU583wVV90KS1R) | [Barath Raghavan](https://open.spotify.com/artist/43HCkTQHPfGoRk8wHrslvj) | [Paadha Poora Mullana](https://open.spotify.com/album/4f7AABY75haxAY3TptOpAg) | 3:13 | 2026-06-17 |  |
 | [Paal Nila](https://open.spotify.com/track/0I0p29zNDsgavfgxUwjzC0) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Shilvi Sharon](https://open.spotify.com/artist/0CF2xFxAubE3okREUvLY1g) | [Paal Nila](https://open.spotify.com/album/5CauH88kJTq4TEQZrYezbe) | 3:01 | 2024-08-30 | 2024-09-21 |
 | [Paarthale Pathikichu](https://open.spotify.com/track/6CDBGXl3iFpcI19aucjIv5) | [Naveed Rehman](https://open.spotify.com/artist/7iJepRkB92sBPs7Z8IGpuq) | [Paarthale Pathikichu](https://open.spotify.com/album/2Io8UHL52heJPiEXFxAHrg) | 2:48 | 2026-03-26 |  |
 | [Paatha Edathila](https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ) | [808Krshna](https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Adesh Krishna](https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK) | [Paatha Edathila](https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya) | 3:12 | 2026-01-30 | 2026-04-10 |

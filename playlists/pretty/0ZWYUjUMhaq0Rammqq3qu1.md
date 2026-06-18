@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > A genre\-spanning celebration of queer joy, disco divinity, heartbreak, reinvention, and dancefloor liberation, Pride 2026 is built for the runway, the rooftop, the afterparty, the ride home, and beyond, with global icons, glitter\-soaked anthems, and full\-volume self\-expression at every turn\. 🌈
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 111,367 likes - 57 songs - 3 hr 51 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 111,344 likes - 57 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

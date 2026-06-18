@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Ana Mena con Lola Indigo, DELLAFUENTE, Olivia Rodrigo y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,936 likes - 71 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,947 likes - 71 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 6 | [PLO PLO](https://open.spotify.com/track/0bXXvhAhIVZ85wCd8aKqZa) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [PLO PLO](https://open.spotify.com/album/5TTxRgyrLUjShv6V8gi08a) | 3:22 |
 | 7 | [UVA](https://open.spotify.com/track/32J4IaXWBhYUSWkH1mVAfN) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [MILLITO](https://open.spotify.com/album/4sM9en2HVm09baxTpvBKH0) | 3:05 |
 | 8 | [Se Le Ve](https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [Se Le Ve](https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7) | 2:39 |
-| 9 | [HAPPY ��](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY ��](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
+| 9 | [HAPPY 🪽](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY 🪽](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
 | 10 | [PIENXA EN MI](https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 2:53 |
 | 11 | [El verano sabe mejor](https://open.spotify.com/track/2MGhnm503cjByMmiodQVpG) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [El verano sabe mejor](https://open.spotify.com/album/77NcnG1fZoUsYdyGMwnWyy) | 2:20 |
 | 12 | [Godzila \- W Sound 09](https://open.spotify.com/track/3H8XilnD0LdRkT7RChDDUS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Godzila \(W Sound 09\)](https://open.spotify.com/album/5eRPFOY3oXbS25ok1yXON7) | 3:00 |

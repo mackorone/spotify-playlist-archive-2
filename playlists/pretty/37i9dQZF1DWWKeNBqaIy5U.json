@@ -1,6 +1,6 @@
 {
   "description": "The gentle sound of some of the greatest voices and instrumentalists in Jazz. Your Jazz dinner soundtrack. ",
-  "num_followers": 87167,
+  "num_followers": 87177,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 276266,
+      "name": "Under A Blanket Of Blue",
+      "url": "https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
         "name": "A Jazz Portrait Of Frank Sinatra",
         "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 211079,
       "name": "Mystic Moonlight Groove",
       "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 276266,
-      "name": "Under A Blanket Of Blue",
-      "url": "https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -547,22 +547,18 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+        "name": "Blue Notes in the Afternoon",
+        "url": "https://open.spotify.com/album/6EmURthZGIJ8AGIpQSPkof"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+          "name": "Red Brick Lane",
+          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
         }
       ],
-      "duration_ms": 209933,
-      "name": "I'm Lost",
-      "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
+      "duration_ms": 185287,
+      "name": "Blue Notes in the Afternoon",
+      "url": "https://open.spotify.com/track/6A3G2dwkman6zLHncJxJGG"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -583,18 +579,22 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Blue Notes in the Afternoon",
-        "url": "https://open.spotify.com/album/6EmURthZGIJ8AGIpQSPkof"
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
       "artists": [
         {
-          "name": "Red Brick Lane",
-          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 185287,
-      "name": "Blue Notes in the Afternoon",
-      "url": "https://open.spotify.com/track/6A3G2dwkman6zLHncJxJGG"
+      "duration_ms": 209933,
+      "name": "I'm Lost",
+      "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/0EjdDvcwBTbnzU84bUdfSS"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "The Golden Hour",
-      "url": "https://open.spotify.com/track/3Oix5aCSmnkLIVZVB63tzm"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "For You, For Me, Forevermore",
         "url": "https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 199400,
       "name": "Everything I Love",
       "url": "https://open.spotify.com/track/0oyC1bC2cla2ZKL6majqbh"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/0EjdDvcwBTbnzU84bUdfSS"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "The Golden Hour",
+      "url": "https://open.spotify.com/track/3Oix5aCSmnkLIVZVB63tzm"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Blue Midnight",
+        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
         }
       ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+      "duration_ms": 189134,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Blue Midnight",
-        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
       "artists": [
         {
-          "name": "James Leeluck",
-          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 189134,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Brass/Trio",
-        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/5uDPYrht89D3qNCmR2Slco"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 411666,
       "name": "Autumn In New York - Live",
       "url": "https://open.spotify.com/track/0J2J0CdJOfwAtVBeF8MyEK"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Brass/Trio",
+        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/391jzZNqMz98LcEPFQuBvr"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 364506,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/391jzZNqMz98LcEPFQuBvr"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Una Mas",
         "url": "https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 309266,
       "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
+        "name": "Promenade With You",
+        "url": "https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "duration_ms": 220403,
+      "name": "Promenade With You",
+      "url": "https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
         "name": "The Voice That Is!",
         "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 356133,
       "name": "Walkin' Out Blues",
       "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
-        "name": "Promenade With You",
-        "url": "https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY"
-      },
-      "artists": [
-        {
-          "name": "Trio Rosa",
-          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
-        }
-      ],
-      "duration_ms": 220403,
-      "name": "Promenade With You",
-      "url": "https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH"
     },
     {
       "added_at": "2026-05-25 14:17:25",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-05-25 14:17:25",
       "album": {
-        "name": "Blues Caravan",
-        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich And His Sextet",
-          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Late Date",
-      "url": "https://open.spotify.com/track/4uPSrtreVDAqWGUk0lxJMu"
-    },
-    {
-      "added_at": "2026-05-25 14:17:25",
-      "album": {
         "name": "Each Fall To Spring",
         "url": "https://open.spotify.com/album/4pZHRclLtA56ij2xPa4obi"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 231610,
       "name": "Each Fall To Spring",
       "url": "https://open.spotify.com/track/0jPV9bDPhYqsMQP0rIDGms"
+    },
+    {
+      "added_at": "2026-05-25 14:17:25",
+      "album": {
+        "name": "Blues Caravan",
+        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich And His Sextet",
+          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+        }
+      ],
+      "duration_ms": 308946,
+      "name": "Late Date",
+      "url": "https://open.spotify.com/track/4uPSrtreVDAqWGUk0lxJMu"
     },
     {
       "added_at": "2026-05-25 14:17:25",

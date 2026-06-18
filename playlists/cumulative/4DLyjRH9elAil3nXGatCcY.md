@@ -4,7 +4,7 @@
 
 > 
 
-559 songs - 1 day 12 hr 24 min
+563 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Carnal Desire](https://open.spotify.com/track/19GWsgJMNzXMIoDVI0cSG9) | [GHOST DATA](https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf) | [The Occulus Occult](https://open.spotify.com/album/55KBxtYKk2WcvS9Z0DQDq7) | 5:10 | 2025-10-15 |  |
 | [Catch The Fact Outro](https://open.spotify.com/track/7qHUeGoQolNlk2CtWoeMrJ) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 1:45 | 2025-10-15 |  |
 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 | 2026-06-11 |  |
+| [Changes](https://open.spotify.com/track/5NolEMcA7mmw27vpyzvzIT) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 3:38 | 2026-06-18 |  |
 | [Channel 43 \- Radio Edit](https://open.spotify.com/track/2m9ryxnEcVoQNr22KRxe09) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Channel 43](https://open.spotify.com/album/6GTPauuGqd0apuW1moW6dD) | 3:04 | 2021-01-26 |  |
 | [Charm](https://open.spotify.com/track/2m3q3eYGTbxemT6sTPRyYZ) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [Puniden](https://open.spotify.com/artist/6hkzCzhcViV4L5Pp6QHNKy) | [Charm](https://open.spotify.com/album/0iSf8MvH9ZqirnFWCWHGno) | 3:16 | 2020-03-11 |  |
 | [Chasing Clouds](https://open.spotify.com/track/4Iw6e5hL3ynmUNV2tgClHL) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Chasing Clouds](https://open.spotify.com/album/7CoTWbM9UG0H6HjMEDIYJe) | 3:37 | 2021-04-08 |  |
@@ -113,6 +114,7 @@
 | [DEAD FLOWERS](https://open.spotify.com/track/3w7z4dBOVFXwNbS0xfD3ow) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:01 | 2025-10-15 |  |
 | [DeLorean](https://open.spotify.com/track/5ZCPjGhpJzcgBSLD3Kqnxu) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [VISTA](https://open.spotify.com/album/1OYR2IdjQLe4lggwqPORMP) | 6:16 | 2025-10-15 |  |
 | [Demon's Rave](https://open.spotify.com/track/1qwrgQiR7Lb5YdPvTCz6Q0) | [Hommarju](https://open.spotify.com/artist/76V0LQ9DlR2N5tcn0ZworW) | [Demon's Rave](https://open.spotify.com/album/72uUdHAqkQXsgGjy8gdqUL) | 2:21 | 2020-03-11 |  |
+| [Dessert](https://open.spotify.com/track/0mxoXsr14ILAYcXZBMJcOs) | [Dawin](https://open.spotify.com/artist/46GXASE9LHzyssNqKOInUu) | [Dessert](https://open.spotify.com/album/0o4z4FBdj8ydhzcKyy62os) | 3:30 | 2026-06-18 |  |
 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 | 2022-05-09 |  |
 | [Digital Bath](https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:15 | 2025-10-15 |  |
 | [DIGITAL CONGLOMERATE](https://open.spotify.com/track/1Nat6ZHMEBx1WXFh0eN4mf) | [Louverture](https://open.spotify.com/artist/60Utw3CGxdt08eHHZGJNON), [Nintendo.Grl](https://open.spotify.com/artist/2DaBoladQQKDpGPYjv0pWK), [Rusty Fawkes](https://open.spotify.com/artist/73EvVK08gWGQO0hcdHbENT), [BungoTaiga](https://open.spotify.com/artist/1iobD9TPh75BA2SfZTVmkG) | [CYBERPOP](https://open.spotify.com/album/4sKHwxKItuvETvuz98w0I5) | 3:30 | 2024-08-16 |  |
@@ -157,6 +159,7 @@
 | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/track/2CwUy8aMNWAislPr58fDvI) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 3:20 | 2022-05-09 |  |
 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2025-10-15 |  |
 | [feel my conscious](https://open.spotify.com/track/3ieBkimIklucRN170iXOJb) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M) | [dreamless wanderer](https://open.spotify.com/album/2vbGHex4BR5d1UwWBjiAKe) | 6:59 | 2020-04-05 |  |
+| [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 | 2026-06-18 |  |
 | [Felt Sentient, Might Delete](https://open.spotify.com/track/2VPTHw9JuKllNruQR0NpVT) | [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6), [Projekt Melody](https://open.spotify.com/artist/68FnSiPe0TzZLtTFfDKwFo) | [Lost in Her Virtual Eyes](https://open.spotify.com/album/3YgEDVLBPl7dH9yAinVavK) | 4:45 | 2025-10-15 |  |
 | [Final Form](https://open.spotify.com/track/6nUXH6o7OXDVykgwAtIIFU) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [The Return](https://open.spotify.com/album/1HxsSJHTqeUxDoKN26h8pB) | 3:36 | 2022-05-09 |  |
 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 | 2025-10-15 |  |
@@ -425,6 +428,7 @@
 | [SHUT UP AND EXPLODE](https://open.spotify.com/track/3fD5HVFpDIAQ0tsPTFPDPl) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [EXPOSED](https://open.spotify.com/album/1GQrtz4NfTvyTbbjyH19dr) | 3:37 | 2022-05-09 |  |
 | [Signal from the Noise](https://open.spotify.com/track/4K6Ns8QEIQJ8UH9QHEoFRS) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 9:02 | 2025-10-15 |  |
 | [Silicon Tare](https://open.spotify.com/track/05vajmV6LbINFD5fGBS9my) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Silicon Tare](https://open.spotify.com/album/1f4CWU2GxNA2LeTPOSp1RS) | 4:02 | 2020-03-11 |  |
+| [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 | 2026-06-18 |  |
 | [SKATE](https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:42 | 2022-05-09 |  |
 | [Sky](https://open.spotify.com/track/39t1ISou2bdPjW5lvAXbsX) | [Trifect](https://open.spotify.com/artist/0TIGDhG2md2oyRrYK2bSPQ) | [Sky](https://open.spotify.com/album/795GHZx4AsLPwfn9wLXnsP) | 3:59 | 2020-03-11 |  |
 | [Skynut](https://open.spotify.com/track/106TwDyBbxAWeNBsHM3XMH) | [The Gentle Men](https://open.spotify.com/artist/3EYR1xDK06J61ois35DHbS) | [Skynut](https://open.spotify.com/album/000Ok2jIbYSMb16yzbAZrV) | 4:18 | 2020-08-25 |  |

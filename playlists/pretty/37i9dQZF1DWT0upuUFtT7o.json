@@ -1,29 +1,13 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Rian Brazil",
-  "num_followers": 256489,
+  "num_followers": 256496,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN50rzooI7ZxRQQJS3qcBaiBIpMt",
+  "snapshot_id": "AAAAAFVokGxf2i4aIqwoy4iQqJfSnVnF",
   "tracks": [
-    {
-      "added_at": "2026-06-10 16:09:57",
-      "album": {
-        "name": "Petrol",
-        "url": "https://open.spotify.com/album/6XVReo02T5qkrGrPdjuSUs"
-      },
-      "artists": [
-        {
-          "name": "Shye01",
-          "url": "https://open.spotify.com/artist/1yQ06dHVyba0CHgMAiNS58"
-        }
-      ],
-      "duration_ms": 121418,
-      "name": "Justice",
-      "url": "https://open.spotify.com/track/2clie3tcvcFlpeSQbnhkyh"
-    },
     {
       "added_at": "2026-06-10 16:09:57",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 158784,
       "name": "Tracksuit",
       "url": "https://open.spotify.com/track/5uYIouXXqHxc8G8fVavWq2"
+    },
+    {
+      "added_at": "2026-06-17 21:21:13",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3pWZJXOudRfL2qtYKmUf8H"
+      },
+      "artists": [
+        {
+          "name": "kelz",
+          "url": "https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw"
+        }
+      ],
+      "duration_ms": 258012,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2iJ36oE7tZqSL8A4Md0mWU"
     },
     {
       "added_at": "2026-05-27 04:00:16",
@@ -57,20 +57,116 @@
       "url": "https://open.spotify.com/track/32TOQ5loDzoipxm7qLgkv3"
     },
     {
-      "added_at": "2026-06-10 16:09:57",
+      "added_at": "2026-06-17 21:21:13",
       "album": {
-        "name": "2027",
-        "url": "https://open.spotify.com/album/2M4SnKRBwairBEwY7lQT57"
+        "name": "buttercup",
+        "url": "https://open.spotify.com/album/24u8S8yWPezu70hemgvdp0"
       },
       "artists": [
         {
-          "name": "venus mae",
-          "url": "https://open.spotify.com/artist/3fFWuyLT7JFtW4fOd1YI3o"
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
         }
       ],
-      "duration_ms": 147770,
-      "name": "2027",
-      "url": "https://open.spotify.com/track/4UC6rVu31qAgIDy6NZRU6K"
+      "duration_ms": 270226,
+      "name": "buttercup",
+      "url": "https://open.spotify.com/track/2tyG8HDeoOQpN5XHwB0e96"
+    },
+    {
+      "added_at": "2026-06-17 21:21:13",
+      "album": {
+        "name": "ELEGY",
+        "url": "https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8"
+      },
+      "artists": [
+        {
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "AN ELEPHANT NEVER FORGETS",
+      "url": "https://open.spotify.com/track/5KiIH8xcGoBdpj7oUJHjDH"
+    },
+    {
+      "added_at": "2026-06-17 21:21:13",
+      "album": {
+        "name": "for once",
+        "url": "https://open.spotify.com/album/3RtuTFCCcvfwfwpxl2Ejhg"
+      },
+      "artists": [
+        {
+          "name": "Baileyrp",
+          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "for once",
+      "url": "https://open.spotify.com/track/28Gw3YgKmd5hFftDJv3ktx"
+    },
+    {
+      "added_at": "2026-06-17 21:21:13",
+      "album": {
+        "name": "Tastes Like",
+        "url": "https://open.spotify.com/album/08hISP1omTAoTnfpLIjyJQ"
+      },
+      "artists": [
+        {
+          "name": "Lockimara",
+          "url": "https://open.spotify.com/artist/6drdBXL5XPxCQnOdBz6rJx"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Tastes Like",
+      "url": "https://open.spotify.com/track/250iYG82IKXiN4vQ76CzbL"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "Petrol",
+        "url": "https://open.spotify.com/album/6XVReo02T5qkrGrPdjuSUs"
+      },
+      "artists": [
+        {
+          "name": "Shye01",
+          "url": "https://open.spotify.com/artist/1yQ06dHVyba0CHgMAiNS58"
+        }
+      ],
+      "duration_ms": 121418,
+      "name": "Justice",
+      "url": "https://open.spotify.com/track/2clie3tcvcFlpeSQbnhkyh"
+    },
+    {
+      "added_at": "2026-06-17 21:21:13",
+      "album": {
+        "name": "Love, I\u2019m Gonna Jump the Gap",
+        "url": "https://open.spotify.com/album/5yLA2gULxlGLguNgXmYbGn"
+      },
+      "artists": [
+        {
+          "name": "Monobloc",
+          "url": "https://open.spotify.com/artist/17UzuyF3fbCwsDfQIajIak"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "City",
+      "url": "https://open.spotify.com/track/2br4WKnhhxmfhHdx4DgoZL"
+    },
+    {
+      "added_at": "2026-06-17 21:21:13",
+      "album": {
+        "name": "Side On",
+        "url": "https://open.spotify.com/album/2TtRgcTgoO8lkzV3pt69Ic"
+      },
+      "artists": [
+        {
+          "name": "Ebbb",
+          "url": "https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW"
+        }
+      ],
+      "duration_ms": 230833,
+      "name": "Side On",
+      "url": "https://open.spotify.com/track/2dPPPVBWx0Kfofh3ql89E5"
     },
     {
       "added_at": "2026-06-10 16:09:57",
@@ -87,6 +183,54 @@
       "duration_ms": 171597,
       "name": "Gretchen",
       "url": "https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe"
+    },
+    {
+      "added_at": "2026-06-17 21:21:13",
+      "album": {
+        "name": "missin out",
+        "url": "https://open.spotify.com/album/6ihE2wUfwA60kFyJXzplBH"
+      },
+      "artists": [
+        {
+          "name": "Dori Valentine",
+          "url": "https://open.spotify.com/artist/3uS3Hqh4mAJgkucQlbDz0w"
+        }
+      ],
+      "duration_ms": 185850,
+      "name": "missin out",
+      "url": "https://open.spotify.com/track/3U9FVmRpGgHe7m54UN5J91"
+    },
+    {
+      "added_at": "2026-06-17 21:21:13",
+      "album": {
+        "name": "bike song",
+        "url": "https://open.spotify.com/album/0fbu9vTPsH04jlqaOXmVVj"
+      },
+      "artists": [
+        {
+          "name": "frank",
+          "url": "https://open.spotify.com/artist/0pCAo4FBQbbOARjAspt9uQ"
+        }
+      ],
+      "duration_ms": 163263,
+      "name": "bike song",
+      "url": "https://open.spotify.com/track/03uUSZQFMxWp1Q9lvSRTLo"
+    },
+    {
+      "added_at": "2026-06-10 16:09:57",
+      "album": {
+        "name": "2027",
+        "url": "https://open.spotify.com/album/2M4SnKRBwairBEwY7lQT57"
+      },
+      "artists": [
+        {
+          "name": "venus mae",
+          "url": "https://open.spotify.com/artist/3fFWuyLT7JFtW4fOd1YI3o"
+        }
+      ],
+      "duration_ms": 147770,
+      "name": "2027",
+      "url": "https://open.spotify.com/track/4UC6rVu31qAgIDy6NZRU6K"
     },
     {
       "added_at": "2026-06-10 16:09:57",
@@ -459,22 +603,6 @@
       "duration_ms": 184874,
       "name": "When It's Leaving",
       "url": "https://open.spotify.com/track/4DywkvVLSUQnJg21CfMqUU"
-    },
-    {
-      "added_at": "2026-04-22 16:16:37",
-      "album": {
-        "name": "can we just forget?",
-        "url": "https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG"
-      },
-      "artists": [
-        {
-          "name": "Baileyrp",
-          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
-        }
-      ],
-      "duration_ms": 283255,
-      "name": "can we just forget?",
-      "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
     },
     {
       "added_at": "2026-05-20 16:23:12",
@@ -1087,122 +1215,6 @@
       "duration_ms": 224418,
       "name": "Klouds Will Carry Me To Sleep",
       "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "Birding",
-        "url": "https://open.spotify.com/album/4LRV1hTTosrrR7cdWyqyJo"
-      },
-      "artists": [
-        {
-          "name": "deary",
-          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
-        }
-      ],
-      "duration_ms": 309947,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/2ipXB1iXNOVsNiAuWkTsY3"
-    },
-    {
-      "added_at": "2026-04-15 17:14:31",
-      "album": {
-        "name": "If We Could, Would We",
-        "url": "https://open.spotify.com/album/14isRFBuLjdXwuQXes0WXr"
-      },
-      "artists": [
-        {
-          "name": "Gracie and Rachel",
-          "url": "https://open.spotify.com/artist/4jKFMEVOa9uon9utRFsLLX"
-        }
-      ],
-      "duration_ms": 197720,
-      "name": "Myself Again",
-      "url": "https://open.spotify.com/track/3fpaarYQRRWIb3BiSM4Ffa"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "1LDK",
-        "url": "https://open.spotify.com/album/1yOAFtL7Oh7ymsA3zj8zGL"
-      },
-      "artists": [
-        {
-          "name": "1LDK",
-          "url": "https://open.spotify.com/artist/1USj21nwWPxhGoXmQ3BkrF"
-        }
-      ],
-      "duration_ms": 172379,
-      "name": "Second Choice",
-      "url": "https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs"
-    },
-    {
-      "added_at": "2026-03-18 17:42:54",
-      "album": {
-        "name": "Rockie",
-        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
-      },
-      "artists": [
-        {
-          "name": "Rockie Rode",
-          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
-        },
-        {
-          "name": "Samba Jean-Baptiste",
-          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
-    },
-    {
-      "added_at": "2026-04-15 17:14:31",
-      "album": {
-        "name": "Loose Tie",
-        "url": "https://open.spotify.com/album/0ufs5pD6K63SgrqOjFkF9T"
-      },
-      "artists": [
-        {
-          "name": "Mila Degray",
-          "url": "https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu"
-        }
-      ],
-      "duration_ms": 197328,
-      "name": "Loose Tie",
-      "url": "https://open.spotify.com/track/2nvhQYIsZGYQWAlO7NU0Ud"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "KookieCannibal",
-        "url": "https://open.spotify.com/album/7ygysUSDfyvk1ajHe139vp"
-      },
-      "artists": [
-        {
-          "name": "My Precious Bunny",
-          "url": "https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "KookieCannibal",
-      "url": "https://open.spotify.com/track/4cBvn41NnVmR7EZmbI18xW"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "some thing special",
-        "url": "https://open.spotify.com/album/6pdUSQwLYO1lce2tbv5NbT"
-      },
-      "artists": [
-        {
-          "name": "Rosacea boy",
-          "url": "https://open.spotify.com/artist/61YfdcpPNccLF3vgbHKKj1"
-        }
-      ],
-      "duration_ms": 172016,
-      "name": "some thing special",
-      "url": "https://open.spotify.com/track/5C1axVGQqPrmZMzFA7pE6R"
     }
   ],
   "unique_name": "Fresh Finds Indie",

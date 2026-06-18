@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK \- Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,057 likes - 86 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,065 likes - 86 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 17 | [Mysore Scene](https://open.spotify.com/track/6dQamSMR2TDsHYoSMrZZvb) | [Irfan Qureshi](https://open.spotify.com/artist/2tdPLV4fYx001QLlXimTBf) | [Mysore Scene](https://open.spotify.com/album/3ayFDNZ1CpDTdgEa9VacSp) | 3:29 |
 | 18 | [RODHNE](https://open.spotify.com/track/4D2Kf5W2cXbH5QYGfwhYYU) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [RODHNE](https://open.spotify.com/album/5JSoTwbYB3usoGJbHtXsPU) | 3:16 |
 | 19 | [Menace](https://open.spotify.com/track/0qPN8o1cxVZr8IlUKxIj5K) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA) | [Menace](https://open.spotify.com/album/068DUvPlsJwTz6WNo3IH2k) | 2:24 |
-| 20 | [Bhagyada Lakshmi Baramma](https://open.spotify.com/track/4L4KOOtknWmZpvrBrJHj5Y) | [Yuga Singun](https://open.spotify.com/artist/6TfrYmPdpQnfmDlPaxRJQ7) | [Bhagyada Lakshmi Baramma](https://open.spotify.com/album/3gLcN66uUZ3HbzgIrCeibz) | 5:50 |
+| 20 | [Bhagyada Lakshmi Baramma](https://open.spotify.com/track/4L4KOOtknWmZpvrBrJHj5Y) | [Yuga Singun](https://open.spotify.com/artist/6TfrYmPdpQnfmDlPaxRJQ7), [Sanjay Manickam](https://open.spotify.com/artist/3iDk43mQVlnnKhM97WofQk) | [Bhagyada Lakshmi Baramma](https://open.spotify.com/album/3gLcN66uUZ3HbzgIrCeibz) | 5:50 |
 | 21 | [Jackie](https://open.spotify.com/track/0lEoPX5L4n7z0uR5hAuQUX) | [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ) | [Jackie](https://open.spotify.com/album/6twlnoJaSTERleg8VUAzBl) | 2:24 |
 | 22 | [Nasheya Gungale](https://open.spotify.com/track/6EoyeB26hc06ENfKlCWv8C) | [Tanmay Gururaj](https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5) | [Nasheya Gungale](https://open.spotify.com/album/5UsjM4MjB0RwGEicjSOCX7) | 2:52 |
 | 23 | [Amma \- Kannada](https://open.spotify.com/track/20lUzsYKSSrVLt6G5DbeZT) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Amma \- Kannada](https://open.spotify.com/album/22o9iHfhR8xHZ0qTzfc3tu) | 5:24 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 32 | [Mouna Mathagide](https://open.spotify.com/track/29DCeCcblR6C1IfG9NW1cM) | [Nishada](https://open.spotify.com/artist/7qK4oglXTmjgWuZQOowdnI), [MAD\-D](https://open.spotify.com/artist/3UsL1DCgQGOJdiUfn80wCb), [Padani Tales](https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3) | [Mouna Mathagide](https://open.spotify.com/album/7dGzovEfszIyD4FQiSNaS5) | 2:19 |
 | 33 | [GODLY](https://open.spotify.com/track/0CXrAoAUipEKGI4YpdHCno) | [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4), [Raathee](https://open.spotify.com/artist/6hAV1GWoSJRkaRz8MGifQK) | [GODLY](https://open.spotify.com/album/4i1EpyQCnxCDu2Pfi1gBBf) | 3:11 |
 | 34 | [Let's go back \(The 90's song\)](https://open.spotify.com/track/3MfcZGo0CUwkbhF4dFWKVr) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Let's go back \(The 90's song\)](https://open.spotify.com/album/58thkzXHNVMFcl6cyq30Vb) | 2:38 |
-| 35 | [Heartinalli](https://open.spotify.com/track/6RBOUvGyjz2Kzm4XmHf605) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Ramachandran](https://open.spotify.com/artist/5fS0OA36uHvRKbLpHzPP61) | [Heartinalli](https://open.spotify.com/album/7d3AUemw6wKoRpO75Bjx5m) | 3:18 |
+| 35 | [Heartinalli](https://open.spotify.com/track/6RBOUvGyjz2Kzm4XmHf605) | [Achu](https://open.spotify.com/artist/3fVfMDaUQDB1EcS58Ryosr), [Ramachandran](https://open.spotify.com/artist/5fS0OA36uHvRKbLpHzPP61) | [Heartinalli](https://open.spotify.com/album/7d3AUemw6wKoRpO75Bjx5m) | 3:18 |
 | 36 | [Neenillade](https://open.spotify.com/track/11PNGnTBWaIx5qqgDlbb6H) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA) | [Neenillade](https://open.spotify.com/album/2SZC1GoG3tDwPLPbu22LVA) | 2:12 |
 | 37 | [Nood Bittirodhu](https://open.spotify.com/track/22TrmLbW2lee3co9dvjuw2) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Nood Bittirodhu](https://open.spotify.com/album/2dfYhmjNJQ9shUywUGgDng) | 2:18 |
 | 38 | [\#OooSHT \- Heart Break With Attitude](https://open.spotify.com/track/2Ly4JikvZ5J5IDxhFdtSTh) | [Prasanna Keshava KS](https://open.spotify.com/artist/5zuK2AlgiWjxncMUfWcI2O), [Ajith Keshava](https://open.spotify.com/artist/3bN8X7e50eYFGhuqctG5Te) | [\#OooSHT \- Heart Break With Attitude](https://open.spotify.com/album/1RxqTxs6gS4eFAS7cNcaw6) | 4:14 |

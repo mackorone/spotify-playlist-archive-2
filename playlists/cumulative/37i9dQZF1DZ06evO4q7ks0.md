@@ -4,7 +4,7 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 48 min
+93 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Joe](https://open.spotify.com/track/7ol1ASKne63N10YvJymAjy) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 3:21 | 2025-11-20 |  |
 | [Joe](https://open.spotify.com/track/6nk3R7cleqa2VFElieypE7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 3:21 | 2025-03-08 | 2025-11-14 |
 | [Just My Imagination](https://open.spotify.com/track/0f0k0OJ9VbaLHX4J1t2qUy) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:41 | 2025-03-08 |  |
-| [Liar](https://open.spotify.com/track/1ASMqs9x07lQPj4iMz46O3) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(The Complete Sessions 1991\-1993\)](https://open.spotify.com/album/3ySNx9AXPp4xdyU4WZ37NT) | 2:21 | 2025-03-08 |  |
+| [Liar](https://open.spotify.com/track/1ASMqs9x07lQPj4iMz46O3) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(The Complete Sessions 1991\-1993\)](https://open.spotify.com/album/3ySNx9AXPp4xdyU4WZ37NT) | 2:21 | 2025-03-08 | 2026-06-18 |
+| [Liar](https://open.spotify.com/track/4QMEggSeW9i4dJHYDtPKn7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Super Deluxe\)](https://open.spotify.com/album/11t5u8CpcC89l1zgqdqF5Z) | 2:23 | 2026-06-18 |  |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2025-03-08 | 2026-06-12 |
 | [Linger \- Acoustic Version](https://open.spotify.com/track/1nxebACXgKGhpB2DPs3qP0) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:55 | 2025-03-08 |  |
 | [Linger \- Remastered 2026](https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 4:34 | 2026-06-12 |  |

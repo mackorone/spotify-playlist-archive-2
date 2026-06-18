@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Angelina Mango e Marco Mengoni,  Olivia Rodrigo, ANOTR, Feid e Sfera Ebbasta, W Sound con J Balvin e Ovy On The Drums e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,933 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,928 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

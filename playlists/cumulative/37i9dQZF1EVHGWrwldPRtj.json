@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYHlfEDwnhiL>Frank Ocean</a>, <a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIYrggGM7CbrD>STELLA LEFTY</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a>, <a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a>, <a href=spotify:playlist:37i9dQZF1EIYHlfEDwnhiL>Frank Ocean</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 175346,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 254970,
       "name": "August (feat. MAVEL, Hang & TOCCHI)",
       "url": "https://open.spotify.com/track/36TXHVdLNwShOYy4lKA5xc"
@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 150672,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2S8geKIkrLbO4y6xTxvAVB"
@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 170859,
       "name": "Boston",
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
@@ -5394,7 +5394,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -6028,7 +6028,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -6494,7 +6494,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 115893,
       "name": "Fuck U & Love U",
       "url": "https://open.spotify.com/track/4kgSbWKaGDdUBIMSWrNDEh"
@@ -6942,7 +6942,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 206493,
       "name": "Good Enough (feat. kiki vivi lily)",
       "url": "https://open.spotify.com/track/7lMoBOkAkGiYvrdoOAvPNn"
@@ -9096,7 +9096,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
@@ -11052,7 +11052,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 255000,
       "name": "Made my day",
       "url": "https://open.spotify.com/track/4krgsevgl3SugkV8Xk8nrP"
@@ -14972,7 +14972,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -15034,7 +15034,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -18304,7 +18304,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
@@ -20746,7 +20746,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
@@ -21040,7 +21040,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 229553,
       "name": "\u30a6\u30a7\u30eb\u30c6\u30eb",
       "url": "https://open.spotify.com/track/4iYvEBKfRIKQLv39EEZeLi"
@@ -21094,7 +21094,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 269666,
       "name": "\u30ca\u30a4\u30c8\u30aa\u30f3\u30b6\u30d7\u30e9\u30cd\u30c3\u30c8",
       "url": "https://open.spotify.com/track/41GHAXwcqJcmP3Y1U4CoiJ"
@@ -21130,7 +21130,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 291880,
       "name": "\u30e1\u30eb\u30d8\u30f3\u3092\u6368\u3066\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/1GsZsgGcyDpE4MnGBgN6uo"
@@ -21278,7 +21278,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 277857,
       "name": "\u596e\u95d8\u4e2d",
       "url": "https://open.spotify.com/track/16dJ2CGA4xhADB8FPFNsF6"
@@ -21484,7 +21484,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 166062,
       "name": "\u6700\u7d42\u5217\u8eca",
       "url": "https://open.spotify.com/track/722798wG2NwsGCf6DwoyJy"
@@ -21600,7 +21600,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 249500,
       "name": "\u9053 -TAO-",
       "url": "https://open.spotify.com/track/2CkHKTRET1kCEaX3ZMCvab"

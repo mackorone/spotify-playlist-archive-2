@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Adira Suhaimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,598 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,588 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Doa Untuk Ibu](https://open.spotify.com/track/5SBhhXS1LcBbtYbeX5nbgk) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Doa Untuk Ibu](https://open.spotify.com/album/17rEuMQcQgjsh8a4mslzLs) | 4:26 |
 | 50 | [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 |
 
-Snapshot ID: `AAAAACrEbbdU30rMMi8rQ8PJZoGHLPoP`
+Snapshot ID: `AAAAAOIDNH84pzM9pLwj1MeM/DTfCpwY`

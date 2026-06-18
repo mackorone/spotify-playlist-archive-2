@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Carousel Casualties]. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [S3AN]. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -6883,6 +6883,24 @@
     },
     {
       "album": {
+        "name": "baby wag",
+        "url": "https://open.spotify.com/album/3T3Jg0flkHf4AKNUpRqASx"
+      },
+      "artists": [
+        {
+          "name": "Bad Indie Eye",
+          "url": "https://open.spotify.com/artist/1RnlvFVGPfQd9UxuI6RUQy"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177062,
+      "name": "baby wag",
+      "url": "https://open.spotify.com/track/6qb70sJZKVKyl98JheYIki"
+    },
+    {
+      "album": {
         "name": "Baby Wsp?",
         "url": "https://open.spotify.com/album/2z47j04Ed3VOUapX6CPRsc"
       },
@@ -7424,6 +7442,24 @@
       "duration_ms": 244758,
       "name": "Bahaghari",
       "url": "https://open.spotify.com/track/7xJjMt0BT6geI2LDPL5a54"
+    },
+    {
+      "album": {
+        "name": "Bahagya",
+        "url": "https://open.spotify.com/album/4xHpN7YcAzmbmHZnUJlERm"
+      },
+      "artists": [
+        {
+          "name": "Mariah Deborah",
+          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245833,
+      "name": "Bahagya",
+      "url": "https://open.spotify.com/track/526rzqbY2yTDMcnkF60iwC"
     },
     {
       "album": {
@@ -16471,6 +16507,24 @@
     },
     {
       "album": {
+        "name": "DI NA PARA",
+        "url": "https://open.spotify.com/album/2NgWAeUQaLnQJqLxnwPX7w"
+      },
+      "artists": [
+        {
+          "name": "Jemay Santiago",
+          "url": "https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "DI NA PARA",
+      "url": "https://open.spotify.com/track/2n1544Otlduh3md9QKUrtm"
+    },
+    {
+      "album": {
         "name": "di na saluhin",
         "url": "https://open.spotify.com/album/5OP4QmkZ8TOnixkzyaMshD"
       },
@@ -23140,6 +23194,28 @@
       "duration_ms": 203015,
       "name": "Ganyan",
       "url": "https://open.spotify.com/track/3HQMSgLdgo37JL7nq9GACE"
+    },
+    {
+      "album": {
+        "name": "GAP",
+        "url": "https://open.spotify.com/album/0wiSZx2nNrpgl0DBgFICdv"
+      },
+      "artists": [
+        {
+          "name": "Zombie Bleu",
+          "url": "https://open.spotify.com/artist/0CelpCXw05DJ5EH7893QRv"
+        },
+        {
+          "name": "Vladimir",
+          "url": "https://open.spotify.com/artist/0HX9dIEDmljnE3TdNRiMFW"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132151,
+      "name": "GAP",
+      "url": "https://open.spotify.com/track/1E3mQ0vrHxXPhju4NjGF0T"
     },
     {
       "album": {
@@ -37610,6 +37686,24 @@
       "duration_ms": 247000,
       "name": "LASING NA SA'YO",
       "url": "https://open.spotify.com/track/30ceUZfn5o5m0v2e0A4yEq"
+    },
+    {
+      "album": {
+        "name": "Laso",
+        "url": "https://open.spotify.com/album/7qY3V1G9WHlFiaFPwLqfBU"
+      },
+      "artists": [
+        {
+          "name": "Jamiela",
+          "url": "https://open.spotify.com/artist/5p1VVzsnhyultjNL7T6Wuu"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203558,
+      "name": "Laso",
+      "url": "https://open.spotify.com/track/6Vxt7u25zuY3djDnuRKbe4"
     },
     {
       "album": {
@@ -61291,6 +61385,24 @@
     },
     {
       "album": {
+        "name": "Save Our Love",
+        "url": "https://open.spotify.com/album/2HuFrYNh6j9pVo7Nyiahjd"
+      },
+      "artists": [
+        {
+          "name": "S3AN",
+          "url": "https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160935,
+      "name": "Save Our Love",
+      "url": "https://open.spotify.com/track/46zkArRxszr5jpq3Q2ziQq"
+    },
+    {
+      "album": {
         "name": "save us",
         "url": "https://open.spotify.com/album/4iEVo7WCX73CdhHjOorCgh"
       },
@@ -64672,6 +64784,24 @@
       "duration_ms": 201743,
       "name": "something's gotta give",
       "url": "https://open.spotify.com/track/54MUZWCm2O7UkS8Tk0FuV8"
+    },
+    {
+      "album": {
+        "name": "Somewhere Empty",
+        "url": "https://open.spotify.com/album/2M1nRTYTnjnQnryQ2CVHmK"
+      },
+      "artists": [
+        {
+          "name": "Run Like Lions",
+          "url": "https://open.spotify.com/artist/5Y8liPcItd76TrGxmTjveH"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190876,
+      "name": "Somewhere Empty",
+      "url": "https://open.spotify.com/track/6ZDo7hVTyRuKfJ2m11AzQe"
     },
     {
       "album": {
@@ -69980,6 +70110,24 @@
       "duration_ms": 200500,
       "name": "This Isn't Who I Am",
       "url": "https://open.spotify.com/track/1byJJ23tG6pB2UaS3j5sXP"
+    },
+    {
+      "album": {
+        "name": "thrift shop",
+        "url": "https://open.spotify.com/album/6SSVkUOkAFP5XKGN04Xh0R"
+      },
+      "artists": [
+        {
+          "name": "rez!",
+          "url": "https://open.spotify.com/artist/4Q5IUFBl0zFc52A3FXitjf"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96003,
+      "name": "thrift shop",
+      "url": "https://open.spotify.com/track/4shctApMVAPyraAAd0fsfX"
     },
     {
       "album": {

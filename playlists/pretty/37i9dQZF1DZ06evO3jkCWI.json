@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 201074,
+  "num_followers": 201116,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADeuBg6xD7/aj+NLn9GOH/f",
+  "snapshot_id": "ajCSAAAAAADu6B4eKeHVVvwL42x1rti/",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Dada La Quiero",
-        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 182786,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
+      "duration_ms": 219826,
+      "name": "Clave 7",
+      "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+        "name": "Ni Dada La Quiero",
+        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 219826,
-      "name": "Clave 7",
-      "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
+      "duration_ms": 182786,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "Puedes Irte",
+      "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9jate Llevar",
         "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 211706,
       "name": "En El \u00daltimo Rinc\u00f3n",
       "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "Puedes Irte",
-      "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Vete Con El",
-      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
+      "duration_ms": 186173,
+      "name": "Distancia Maldita",
+      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Distancia Maldita",
-      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+      "duration_ms": 168160,
+      "name": "Vete Con El",
+      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
     },
     {
       "added_at": null,

@@ -22424,7 +22424,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 225477,
       "name": "Kiss&Tell",
       "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
@@ -34662,6 +34662,24 @@
       "duration_ms": 161652,
       "name": "She's Just the Type of Girl",
       "url": "https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc"
+    },
+    {
+      "album": {
+        "name": "Shiny Stockings",
+        "url": "https://open.spotify.com/album/7uLkCFhxXT6373P8pulfLC"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180736,
+      "name": "Shiny Stockings",
+      "url": "https://open.spotify.com/track/6zAjGOsOHaM36lqI2z3xKU"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1091,
+  "num_followers": 1095,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGg1B2YkEKRAZltvRFut6KYKYKdCuV",
+  "snapshot_id": "AAAGhntRnBLXp8/0YcgK2XdYMrMxf+Ew",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1519,6 +1519,54 @@
       "duration_ms": 215573,
       "name": "Soul Shaker",
       "url": "https://open.spotify.com/track/455EZjFPWXNndPkm7IXAm3"
+    },
+    {
+      "added_at": "2026-06-18 02:09:06",
+      "album": {
+        "name": "The Whiteroom",
+        "url": "https://open.spotify.com/album/5guju2jxu3skCcJqbijGHN"
+      },
+      "artists": [
+        {
+          "name": "PICKLE JUICE",
+          "url": "https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS"
+        }
+      ],
+      "duration_ms": 187228,
+      "name": "Back 40",
+      "url": "https://open.spotify.com/track/0iaNSdzQj8xsukNbny7g5Y"
+    },
+    {
+      "added_at": "2026-06-18 02:16:45",
+      "album": {
+        "name": "Table for two",
+        "url": "https://open.spotify.com/album/51eiEwuzPoxAEIhYB7qtZQ"
+      },
+      "artists": [
+        {
+          "name": "Seven Streets",
+          "url": "https://open.spotify.com/artist/61zHO5qtdK8nvpi2aUQSiN"
+        }
+      ],
+      "duration_ms": 243459,
+      "name": "Table for two",
+      "url": "https://open.spotify.com/track/3MBEjrMog5LFLgbOFwgfDn"
+    },
+    {
+      "added_at": "2026-06-18 02:21:43",
+      "album": {
+        "name": "Freefalling",
+        "url": "https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Shack",
+          "url": "https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa"
+        }
+      ],
+      "duration_ms": 189295,
+      "name": "Freefalling",
+      "url": "https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 56716,
+  "num_followers": 56720,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACXFuPNKKSiVK9XtPEZLY3r",
+  "snapshot_id": "ajCSAAAAAADJc2dkKtIIlBPf/1mxML5F",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Great Thou Art - Spotify Single",
-        "url": "https://open.spotify.com/album/4qYJjN3CJviygsXChaHYSL"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 235438,
-      "name": "How Great Thou Art - Spotify Single",
-      "url": "https://open.spotify.com/track/3L9nwP3kwbpf8wkgfmVrdS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CeCe Winans Presents Pure Worship",
         "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 327215,
       "name": "How Great Is Our God/How Great Thou Art - Medley",
       "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Great Thou Art - Spotify Single",
+        "url": "https://open.spotify.com/album/4qYJjN3CJviygsXChaHYSL"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 235438,
+      "name": "How Great Thou Art - Spotify Single",
+      "url": "https://open.spotify.com/track/3L9nwP3kwbpf8wkgfmVrdS"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+        "name": "The Hymns",
+        "url": "https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 276866,
-      "name": "His Strength Is Perfect",
-      "url": "https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M"
+      "duration_ms": 253337,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/6XlUFokQc6VZMjdVyS2nv6"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hymns",
-        "url": "https://open.spotify.com/album/7puuDi8qVM3WqVW2gj1aC9"
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 253337,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/6XlUFokQc6VZMjdVyS2nv6"
+      "duration_ms": 276866,
+      "name": "His Strength Is Perfect",
+      "url": "https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Alone In The Presence",
-      "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting To Exhale",
         "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 266786,
       "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
       "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Alone In The Presence",
+      "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 635360,
-      "name": "King of Glory - Live",
-      "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purified",
         "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 210893,
       "name": "Pray",
       "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 635360,
+      "name": "King of Glory - Live",
+      "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
     },
     {
       "added_at": null,

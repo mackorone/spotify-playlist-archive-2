@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,892 likes - 54 songs - 2 hr 56 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,893 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 52 | [As Soon As I Get Home](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [As Soon As I Get Home](https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7) | 3:59 |
 | 53 | [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 |
 | 54 | [Macho](https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Macho](https://open.spotify.com/album/3UjAbo0BXxVm8YASitir9v) | 4:22 |
+| 55 | [Conspiracy](https://open.spotify.com/track/3nDoAQ4zaic4rCvTLnNISO) | [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [Conspiracy](https://open.spotify.com/album/7KgPv3FOzJlFGXk4tBrehJ) | 3:45 |
 
-Snapshot ID: `AAARq4ZO4BRSAHa/pYcPPYJioZBmpFyE`
+Snapshot ID: `AAARrFF0aB/QGiC6o1BNW0VdgaT/eIA1`

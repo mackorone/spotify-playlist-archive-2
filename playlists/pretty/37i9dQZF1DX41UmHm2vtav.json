@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 506539,
+  "num_followers": 506555,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,22 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+        "name": "Stolen Dance",
+        "url": "https://open.spotify.com/album/3B38bS8Sm5EOQlnrEWXbHh"
       },
       "artists": [
         {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
+      "duration_ms": 121846,
+      "name": "Stolen Dance",
+      "url": "https://open.spotify.com/track/2sOogpObLJpOmGAl21QpMD"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -187,22 +191,18 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "Stolen Dance",
-        "url": "https://open.spotify.com/album/3B38bS8Sm5EOQlnrEWXbHh"
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 121846,
-      "name": "Stolen Dance",
-      "url": "https://open.spotify.com/track/2sOogpObLJpOmGAl21QpMD"
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -247,6 +247,34 @@
       "duration_ms": 198867,
       "name": "Azul - Illusionize & Linkage Remix",
       "url": "https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa"
+    },
+    {
+      "added_at": "2026-06-08 14:22:53",
+      "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/6UvLhOcuUReZcUI1pb1MiU"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Brannco",
+          "url": "https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL"
+        },
+        {
+          "name": "Rodrigo Luca",
+          "url": "https://open.spotify.com/artist/0rfjTf0SkufosBwBlstrL6"
+        },
+        {
+          "name": "Izabelle",
+          "url": "https://open.spotify.com/artist/2Ktj3YHxooxKLdFWOCOHjG"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/6zPDwf03dl0pLRh9MTtxeb"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -299,30 +327,26 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/6UvLhOcuUReZcUI1pb1MiU"
+        "name": "Fica Tudo Bem (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         },
         {
-          "name": "Brannco",
-          "url": "https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Rodrigo Luca",
-          "url": "https://open.spotify.com/artist/0rfjTf0SkufosBwBlstrL6"
-        },
-        {
-          "name": "Izabelle",
-          "url": "https://open.spotify.com/artist/2Ktj3YHxooxKLdFWOCOHjG"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         }
       ],
-      "duration_ms": 251612,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/6zPDwf03dl0pLRh9MTtxeb"
+      "duration_ms": 174125,
+      "name": "Fica Tudo Bem - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -351,26 +375,22 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "Fica Tudo Bem (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
+        "name": "Pumped up Kicks (feat. Joy Corporation)",
+        "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "Joy Corporation",
+          "url": "https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc"
         }
       ],
-      "duration_ms": 174125,
-      "name": "Fica Tudo Bem - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+      "duration_ms": 342360,
+      "name": "Pumped up Kicks (feat. Joy Corporation)",
+      "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -419,26 +439,6 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "Pumped up Kicks (feat. Joy Corporation)",
-        "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Joy Corporation",
-          "url": "https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "Pumped up Kicks (feat. Joy Corporation)",
-      "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
-    },
-    {
-      "added_at": "2026-06-08 14:22:53",
-      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
       },
@@ -483,6 +483,30 @@
       "duration_ms": 197419,
       "name": "Algum Ritmo - Remix",
       "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+    },
+    {
+      "added_at": "2026-06-08 14:22:53",
+      "album": {
+        "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
+        "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        },
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
+      "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -543,30 +567,6 @@
     {
       "added_at": "2026-06-08 14:22:53",
       "album": {
-        "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
-        "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
-        },
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
-      "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
-    },
-    {
-      "added_at": "2026-06-08 14:22:53",
-      "album": {
         "name": "Descobridor dos Sete Mares: Remix",
         "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
       },
@@ -603,6 +603,26 @@
       "duration_ms": 241823,
       "name": "Paradise - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
+    },
+    {
+      "added_at": "2026-06-08 14:22:53",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
     },
     {
       "added_at": "2026-06-08 14:22:53",
@@ -647,26 +667,6 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
-    },
-    {
-      "added_at": "2026-06-08 14:22:53",
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
     },
     {
       "added_at": "2026-06-08 14:22:53",

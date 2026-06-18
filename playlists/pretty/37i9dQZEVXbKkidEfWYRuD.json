@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Ukraine.",
-  "num_followers": 40506,
+  "num_followers": 40521,
   "original_name": "Top 50 - Ukraine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "McTKMAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "McYZWAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u042d\u041a\u0421\u041f\u041e\u041d\u0410\u0422",
-        "url": "https://open.spotify.com/album/0BIiHMRz0JW5ZcDnht0Fbh"
-      },
-      "artists": [
-        {
-          "name": "MIA BOYKA",
-          "url": "https://open.spotify.com/artist/7lC9GiVHVMSIGt7yCQS0U5"
-        }
-      ],
-      "duration_ms": 98769,
-      "name": "\u042d\u041a\u0421\u041f\u041e\u041d\u0410\u0422",
-      "url": "https://open.spotify.com/track/4Madyc0e7wYv1W8KllxuS8"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u0441\u043f\u043e\u043a\u0443\u0441\u043b\u0438\u0432\u0430",
         "url": "https://open.spotify.com/album/2ylnLPDS2p7uuX4bJg1wFT"
@@ -41,23 +25,7 @@
       "url": "https://open.spotify.com/track/68KvH33avv12vQopmu3EdG"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0415\u043d\u043a\u0430\u0440\u0430\u043f\u0456\u0441\u0442\u0430",
-        "url": "https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq"
-      },
-      "artists": [
-        {
-          "name": "Drevo",
-          "url": "https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "\u0415\u043d\u043a\u0430\u0440\u0430\u043f\u0456\u0441\u0442\u0430",
-      "url": "https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u0421\u043c\u0430\u0440\u0430\u0433\u0434\u043e\u0432\u0435 \u043d\u0435\u0431\u043e",
         "url": "https://open.spotify.com/album/1rKN15if8zlJbuBVyKb6fw"
@@ -73,7 +41,7 @@
       "url": "https://open.spotify.com/track/29qDVTQqe4jWIiPzQcQOev"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -89,39 +57,23 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
-        "name": "\u0441\u0430\u0443\u043d\u0434\u043a\u043b\u0430\u0443\u0434 \u043f\u0430\u043a",
-        "url": "https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw"
+        "name": "\u042d\u041a\u0421\u041f\u041e\u041d\u0410\u0422",
+        "url": "https://open.spotify.com/album/0BIiHMRz0JW5ZcDnht0Fbh"
       },
       "artists": [
         {
-          "name": "\u0443\u0440\u0430\u043b \u0433\u0430\u0439\u0441\u0438\u043d",
-          "url": "https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm"
+          "name": "MIA BOYKA",
+          "url": "https://open.spotify.com/artist/7lC9GiVHVMSIGt7yCQS0U5"
         }
       ],
-      "duration_ms": 102258,
-      "name": "\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0430\u044f \u0432\u043e\u0439\u043d\u0430",
-      "url": "https://open.spotify.com/track/51hYk2CuUoZPd003ENH5lO"
+      "duration_ms": 98769,
+      "name": "\u042d\u041a\u0421\u041f\u041e\u041d\u0410\u0422",
+      "url": "https://open.spotify.com/track/4Madyc0e7wYv1W8KllxuS8"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0424\u0430\u043d\u0430\u0442",
-        "url": "https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa"
-      },
-      "artists": [
-        {
-          "name": "Alena Omargalieva",
-          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
-        }
-      ],
-      "duration_ms": 198774,
-      "name": "\u0424\u0430\u043d\u0430\u0442",
-      "url": "https://open.spotify.com/track/6WWFDQv2Fv4sVkvchrQPDu"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u043c\u0430\u043a",
         "url": "https://open.spotify.com/album/6Mc1Q37tOs8wb8kUMuoea3"
@@ -141,7 +93,103 @@
       "url": "https://open.spotify.com/track/710sisBawnKCYRhKiee7BI"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0441\u0430\u0443\u043d\u0434\u043a\u043b\u0430\u0443\u0434 \u043f\u0430\u043a",
+        "url": "https://open.spotify.com/album/3vvHeN07ySuHHcubVvhgyw"
+      },
+      "artists": [
+        {
+          "name": "\u0443\u0440\u0430\u043b \u0433\u0430\u0439\u0441\u0438\u043d",
+          "url": "https://open.spotify.com/artist/6CGetCSvhKrqmeKnsaI4Bm"
+        }
+      ],
+      "duration_ms": 102258,
+      "name": "\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u0430\u044f \u0432\u043e\u0439\u043d\u0430",
+      "url": "https://open.spotify.com/track/51hYk2CuUoZPd003ENH5lO"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0415\u043d\u043a\u0430\u0440\u0430\u043f\u0456\u0441\u0442\u0430",
+        "url": "https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq"
+      },
+      "artists": [
+        {
+          "name": "Drevo",
+          "url": "https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg"
+        }
+      ],
+      "duration_ms": 178421,
+      "name": "\u0415\u043d\u043a\u0430\u0440\u0430\u043f\u0456\u0441\u0442\u0430",
+      "url": "https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0424\u0430\u043d\u0430\u0442",
+        "url": "https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa"
+      },
+      "artists": [
+        {
+          "name": "Alena Omargalieva",
+          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
+        }
+      ],
+      "duration_ms": 198774,
+      "name": "\u0424\u0430\u043d\u0430\u0442",
+      "url": "https://open.spotify.com/track/6WWFDQv2Fv4sVkvchrQPDu"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 (\u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb)",
+        "url": "https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2"
+      },
+      "artists": [
+        {
+          "name": "Alena Omargalieva",
+          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 - \u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb",
+      "url": "https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293802,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "8 \u043c\u0438\u043b\u044f",
         "url": "https://open.spotify.com/album/3YnW0b8cZDhpCoBi0uI0Y6"
@@ -161,39 +209,7 @@
       "url": "https://open.spotify.com/track/67llqAFIyR6d6JMjDImDyU"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293802,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -209,103 +225,7 @@
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "Dark Disco",
-        "url": "https://open.spotify.com/album/7Hq8LBMrhMHlhmNe9Z0Azd"
-      },
-      "artists": [
-        {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
-        }
-      ],
-      "duration_ms": 213442,
-      "name": "Dark Disco",
-      "url": "https://open.spotify.com/track/3fsxkZeWu1EVSr9XcPtHkQ"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "Come Over",
-        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 178603,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "VLONE",
-        "url": "https://open.spotify.com/album/1DTDHhEOXDSTbeyOgSuZou"
-      },
-      "artists": [
-        {
-          "name": "FACE",
-          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
-        }
-      ],
-      "duration_ms": 191921,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/1IqRoFm0NHj23m8L1CMqw2"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 (\u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb)",
-        "url": "https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2"
-      },
-      "artists": [
-        {
-          "name": "Alena Omargalieva",
-          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 - \u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb",
-      "url": "https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
@@ -321,23 +241,71 @@
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
-        "name": "\u041a\u0430\u043a \u0438\u0441\u043f\u043e\u0440\u0442\u0438\u0442\u044c \u0432\u0435\u0447\u0435\u0440\u0438\u043d\u043a\u0443?",
-        "url": "https://open.spotify.com/album/2JvSSXtfGp3QIv1VWxIr4J"
+        "name": "Dark Disco",
+        "url": "https://open.spotify.com/album/7Hq8LBMrhMHlhmNe9Z0Azd"
       },
       "artists": [
         {
-          "name": "CUPSIZE",
-          "url": "https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO"
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
         }
       ],
-      "duration_ms": 128764,
-      "name": "\u042e\u0440\u0430, \u042e\u0440\u0430",
-      "url": "https://open.spotify.com/track/60rhfD30Cpfj4SY5A7ft4Z"
+      "duration_ms": 213442,
+      "name": "Dark Disco",
+      "url": "https://open.spotify.com/track/3fsxkZeWu1EVSr9XcPtHkQ"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "VLONE",
+        "url": "https://open.spotify.com/album/1DTDHhEOXDSTbeyOgSuZou"
+      },
+      "artists": [
+        {
+          "name": "FACE",
+          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
+        }
+      ],
+      "duration_ms": 191921,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/1IqRoFm0NHj23m8L1CMqw2"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
+        "url": "https://open.spotify.com/album/3IRl9zHBgbbVLGzGm6hoj3"
+      },
+      "artists": [
+        {
+          "name": "FI\u0407NKA",
+          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
+      "url": "https://open.spotify.com/track/77Uw5Wkdm8oHS8wkfscyyd"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u0411\u0406\u0422 \u0422\u0420\u0415\u041c\u0411\u0406\u0422",
         "url": "https://open.spotify.com/album/7zQqGhAv8NAo9ip1xLTCbj"
@@ -353,27 +321,55 @@
       "url": "https://open.spotify.com/track/72O13xbRNI6TcTbeCIPRV5"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
-        "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
-        "url": "https://open.spotify.com/album/0BmyRTUEewRBYZdsplUvS2"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "IVAN LIULENOV",
-          "url": "https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs"
-        },
-        {
-          "name": "DAMNITSKYI",
-          "url": "https://open.spotify.com/artist/2tINyC1X6DKYjo4SG0W0Gl"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 185061,
-      "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
-      "url": "https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u041a\u0430\u043a \u0438\u0441\u043f\u043e\u0440\u0442\u0438\u0442\u044c \u0432\u0435\u0447\u0435\u0440\u0438\u043d\u043a\u0443?",
+        "url": "https://open.spotify.com/album/2JvSSXtfGp3QIv1VWxIr4J"
+      },
+      "artists": [
+        {
+          "name": "CUPSIZE",
+          "url": "https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO"
+        }
+      ],
+      "duration_ms": 128764,
+      "name": "\u042e\u0440\u0430, \u042e\u0440\u0430",
+      "url": "https://open.spotify.com/track/60rhfD30Cpfj4SY5A7ft4Z"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
@@ -393,39 +389,7 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0410\u0444\u0438\u043d\u0438",
-        "url": "https://open.spotify.com/album/51n7THK4a91U6S6QJDpqFs"
-      },
-      "artists": [
-        {
-          "name": "FI\u0407NKA",
-          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "\u0410\u0444\u0438\u043d\u0438",
-      "url": "https://open.spotify.com/track/0wcmkRMI8LXdwo33vu8onJ"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0436\u0438\u0432\u0443-\u0432\u0456\u0434\u0441\u0442\u0443\u043a\u0443\u0454",
-        "url": "https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ"
-      },
-      "artists": [
-        {
-          "name": "Nikow",
-          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
-        }
-      ],
-      "duration_ms": 191815,
-      "name": "\u044f\u043a\u0449\u043e \u0446\u0435 \u043d\u0435 \u043f\u043e-\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u044c\u043e\u043c\u0443",
-      "url": "https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u0410 \u041c\u043e\u0436\u0435 \u0422\u0438 \u041c\u0435\u043d\u0435 \u041f\u043e\u043b\u044e\u0431\u0438\u0448",
         "url": "https://open.spotify.com/album/2fJYqzFFmf1grlFiXFzSJQ"
@@ -445,135 +409,23 @@
       "url": "https://open.spotify.com/track/570TQDUDsuaWNxWObiAriC"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg"
+        "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
+        "url": "https://open.spotify.com/album/7HXkCIiNdcCjPTvDCP9Vi0"
       },
       "artists": [
         {
-          "name": "FACE",
-          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
+          "name": "Parfeniuk",
+          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
         }
       ],
-      "duration_ms": 169130,
-      "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
-      "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
+      "duration_ms": 150583,
+      "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
+      "url": "https://open.spotify.com/track/4w4qGjcvOgsYRyO4x9Ci0U"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0437 \u043c\u0456\u0441\u0442\u043e\u043c",
-        "url": "https://open.spotify.com/album/0SdlYluxB8YEal8KI3o2qV"
-      },
-      "artists": [
-        {
-          "name": "Nikow",
-          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
-        }
-      ],
-      "duration_ms": 179307,
-      "name": "\u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0437 \u043c\u0456\u0441\u0442\u043e\u043c",
-      "url": "https://open.spotify.com/track/7tpk93TWrPZy6etiJSU8Bv"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "KIDSCRY2DAY",
-        "url": "https://open.spotify.com/album/17VXPSQGscJVeoCKpWqNW6"
-      },
-      "artists": [
-        {
-          "name": "ONDA ANDAR",
-          "url": "https://open.spotify.com/artist/2gGvBjb55mnnbQO2gNQSLo"
-        }
-      ],
-      "duration_ms": 172972,
-      "name": "sleep mode",
-      "url": "https://open.spotify.com/track/2kPuQ8BYGdJglM9aFX9pA0"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
-        "url": "https://open.spotify.com/album/5UUNGzQKrshegeUbS5ImBa"
-      },
-      "artists": [
-        {
-          "name": "\u041d\u0456\u043a\u0456\u0442\u0430 \u041a\u0456\u0441\u0435\u043b\u044c\u043e\u0432",
-          "url": "https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp"
-        }
-      ],
-      "duration_ms": 260181,
-      "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
-      "url": "https://open.spotify.com/track/43noEylZwDyaobqGHPhKw2"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
-        "url": "https://open.spotify.com/album/3IRl9zHBgbbVLGzGm6hoj3"
-      },
-      "artists": [
-        {
-          "name": "FI\u0407NKA",
-          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
-      "url": "https://open.spotify.com/track/77Uw5Wkdm8oHS8wkfscyyd"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
-        "url": "https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt"
-      },
-      "artists": [
-        {
-          "name": "Domiy",
-          "url": "https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV"
-        }
-      ],
-      "duration_ms": 152184,
-      "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
-      "url": "https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0422\u0432\u043e\u044f \u043c\u0430\u043c\u0430",
-        "url": "https://open.spotify.com/album/4gHUv0NkLqMImT9g7gGj0s"
-      },
-      "artists": [
-        {
-          "name": "\u0410\u043d\u043d\u0430 \u0422\u0440\u0456\u043d\u0447\u0435\u0440",
-          "url": "https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "\u0422\u0432\u043e\u044f \u043c\u0430\u043c\u0430",
-      "url": "https://open.spotify.com/track/58XH7RaJKOPCvqDIHP3N9X"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u041d\u0435 \u0441\u043a\u043b\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
         "url": "https://open.spotify.com/album/1e043cqReHkbrPd6VRLNTN"
@@ -589,39 +441,39 @@
       "url": "https://open.spotify.com/track/2Vv2butM4lUAJFcQJusFof"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
-        "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
-        "url": "https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6"
+        "name": "\u0436\u0438\u0432\u0443-\u0432\u0456\u0434\u0441\u0442\u0443\u043a\u0443\u0454",
+        "url": "https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ"
       },
       "artists": [
         {
-          "name": "Max Korzh",
-          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+          "name": "Nikow",
+          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
         }
       ],
-      "duration_ms": 174344,
-      "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
-      "url": "https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I"
+      "duration_ms": 191815,
+      "name": "\u044f\u043a\u0449\u043e \u0446\u0435 \u043d\u0435 \u043f\u043e-\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u044c\u043e\u043c\u0443",
+      "url": "https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
-        "name": "\u0411\u043e\u0436\u0435, \u044f \u0432\u043a\u043e\u0445\u0430\u043b\u0430\u0441\u044f",
-        "url": "https://open.spotify.com/album/3ZpsZTCAm4QxRcWC5JaqDY"
+        "name": "12",
+        "url": "https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg"
       },
       "artists": [
         {
-          "name": "SKYLERR",
-          "url": "https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg"
+          "name": "FACE",
+          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
         }
       ],
-      "duration_ms": 177656,
-      "name": "\u0411\u043e\u0436\u0435, \u044f \u0432\u043a\u043e\u0445\u0430\u043b\u0430\u0441\u044f",
-      "url": "https://open.spotify.com/track/7DpVqdnyRcgxxgnyJX4qsh"
+      "duration_ms": 169130,
+      "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
+      "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u0410\u0420\u0425\u0415\u0422\u0418\u041f\u0418",
         "url": "https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj"
@@ -641,7 +493,7 @@
       "url": "https://open.spotify.com/track/7JZs5hNCz4be2sJxaLIy5l"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
@@ -661,7 +513,123 @@
       "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0410\u0444\u0438\u043d\u0438",
+        "url": "https://open.spotify.com/album/51n7THK4a91U6S6QJDpqFs"
+      },
+      "artists": [
+        {
+          "name": "FI\u0407NKA",
+          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "\u0410\u0444\u0438\u043d\u0438",
+      "url": "https://open.spotify.com/track/0wcmkRMI8LXdwo33vu8onJ"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
+        "url": "https://open.spotify.com/album/0BmyRTUEewRBYZdsplUvS2"
+      },
+      "artists": [
+        {
+          "name": "IVAN LIULENOV",
+          "url": "https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs"
+        },
+        {
+          "name": "DAMNITSKYI",
+          "url": "https://open.spotify.com/artist/2tINyC1X6DKYjo4SG0W0Gl"
+        }
+      ],
+      "duration_ms": 185061,
+      "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
+      "url": "https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
+        "url": "https://open.spotify.com/album/5UUNGzQKrshegeUbS5ImBa"
+      },
+      "artists": [
+        {
+          "name": "\u041d\u0456\u043a\u0456\u0442\u0430 \u041a\u0456\u0441\u0435\u043b\u044c\u043e\u0432",
+          "url": "https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp"
+        }
+      ],
+      "duration_ms": 260181,
+      "name": "\u0412\u0456\u0432\u0442\u0430\u0440",
+      "url": "https://open.spotify.com/track/43noEylZwDyaobqGHPhKw2"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
+        "url": "https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "duration_ms": 174344,
+      "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
+      "url": "https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0437 \u043c\u0456\u0441\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/0SdlYluxB8YEal8KI3o2qV"
+      },
+      "artists": [
+        {
+          "name": "Nikow",
+          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
+        }
+      ],
+      "duration_ms": 179307,
+      "name": "\u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0437 \u043c\u0456\u0441\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/7tpk93TWrPZy6etiJSU8Bv"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "God Complex (English Version)",
+        "url": "https://open.spotify.com/album/6qHpH3kwhtwkkzvgm4QQpw"
+      },
+      "artists": [
+        {
+          "name": "Dandi Di",
+          "url": "https://open.spotify.com/artist/7jQ6NB8cADOyoiWfgPZtpN"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Aura - English Version",
+      "url": "https://open.spotify.com/track/6wvfDe4LYeoNyEAXmCN3CC"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
@@ -681,39 +649,7 @@
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/3DZeuEffO8K1EOhEHGGpzi"
-      },
-      "artists": [
-        {
-          "name": "\u041a\u0430\u0436\u0430\u043d\u043d\u0430",
-          "url": "https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/4OsrioxJWwFpcu4a8t4nOs"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
-        "url": "https://open.spotify.com/album/7HXkCIiNdcCjPTvDCP9Vi0"
-      },
-      "artists": [
-        {
-          "name": "Parfeniuk",
-          "url": "https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C"
-        }
-      ],
-      "duration_ms": 150583,
-      "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
-      "url": "https://open.spotify.com/track/4w4qGjcvOgsYRyO4x9Ci0U"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
         "url": "https://open.spotify.com/album/3OzWTanaiFd8jyfF6E9PRq"
@@ -729,23 +665,103 @@
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
-        "name": "SLIME",
-        "url": "https://open.spotify.com/album/0eyy6mYeDddAxpPFOzVtuJ"
+        "name": "\u0422\u0432\u043e\u044f \u043c\u0430\u043c\u0430",
+        "url": "https://open.spotify.com/album/4gHUv0NkLqMImT9g7gGj0s"
       },
       "artists": [
         {
-          "name": "FACE",
-          "url": "https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3"
+          "name": "\u0410\u043d\u043d\u0430 \u0422\u0440\u0456\u043d\u0447\u0435\u0440",
+          "url": "https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E"
         }
       ],
-      "duration_ms": 164921,
-      "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
-      "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
+      "duration_ms": 159374,
+      "name": "\u0422\u0432\u043e\u044f \u043c\u0430\u043c\u0430",
+      "url": "https://open.spotify.com/track/58XH7RaJKOPCvqDIHP3N9X"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0406\u041a\u041e\u041d\u0410",
+        "url": "https://open.spotify.com/album/6r2JCnjEAjg1A3VBXIznqb"
+      },
+      "artists": [
+        {
+          "name": "IVAN LIULENOV",
+          "url": "https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs"
+        }
+      ],
+      "duration_ms": 188475,
+      "name": "\u0406\u041a\u041e\u041d\u0410",
+      "url": "https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "KIDSCRY2DAY",
+        "url": "https://open.spotify.com/album/17VXPSQGscJVeoCKpWqNW6"
+      },
+      "artists": [
+        {
+          "name": "ONDA ANDAR",
+          "url": "https://open.spotify.com/artist/2gGvBjb55mnnbQO2gNQSLo"
+        }
+      ],
+      "duration_ms": 172972,
+      "name": "sleep mode",
+      "url": "https://open.spotify.com/track/2kPuQ8BYGdJglM9aFX9pA0"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u0411\u043e\u0436\u0435, \u044f \u0432\u043a\u043e\u0445\u0430\u043b\u0430\u0441\u044f",
+        "url": "https://open.spotify.com/album/3ZpsZTCAm4QxRcWC5JaqDY"
+      },
+      "artists": [
+        {
+          "name": "SKYLERR",
+          "url": "https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "\u0411\u043e\u0436\u0435, \u044f \u0432\u043a\u043e\u0445\u0430\u043b\u0430\u0441\u044f",
+      "url": "https://open.spotify.com/track/7DpVqdnyRcgxxgnyJX4qsh"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
+        "url": "https://open.spotify.com/album/3oGtx27ntFDx4Z5lxEkIMt"
+      },
+      "artists": [
+        {
+          "name": "Domiy",
+          "url": "https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV"
+        }
+      ],
+      "duration_ms": 152184,
+      "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
+      "url": "https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/3DZeuEffO8K1EOhEHGGpzi"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u0436\u0430\u043d\u043d\u0430",
+          "url": "https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/4OsrioxJWwFpcu4a8t4nOs"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u041e\u043b\u0454\u0433",
         "url": "https://open.spotify.com/album/6lOzQGmj0BlD3fz5YDY3o2"
@@ -761,7 +777,23 @@
       "url": "https://open.spotify.com/track/40y6wpbyTXB2DGzaBrLC7f"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
+      "album": {
+        "name": "Nevermind (30th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 300893,
+      "name": "Smells Like Teen Spirit - Remastered",
+      "url": "https://open.spotify.com/track/0gucTLf7trAf37Ua1uAyAu"
+    },
+    {
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "\u041c\u0443\u0436\u0447\u0438\u043d\u0430",
         "url": "https://open.spotify.com/album/7foKLOtJJYeTYcO8Jrt8zF"
@@ -777,43 +809,23 @@
       "url": "https://open.spotify.com/track/2oMasfMjnLEF6JpRDtD1rF"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
+        "name": "\u0437\u0430\u0441\u0442\u0430\u0432\u044c \u043c\u0435\u043d\u044f \u043f\u043b\u0430\u043a\u0430\u0442\u044c",
+        "url": "https://open.spotify.com/album/30cAXP9iph7hbTDn0pvNy2"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "CUPSIZE",
+          "url": "https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
+      "duration_ms": 149343,
+      "name": "\u0417\u041f\u041f\u041f",
+      "url": "https://open.spotify.com/track/4mOL5V2LZzDhAxmsHvjZzv"
     },
     {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "Born In The Echoes",
-        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 260696,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
+      "added_at": "2026-06-17 15:09:10",
       "album": {
         "name": "LIFESTYLE",
         "url": "https://open.spotify.com/album/6TcNSUxf3HK0OGAQxfIOjB"
@@ -827,30 +839,6 @@
       "duration_ms": 134188,
       "name": "\u041d\u0443 \u0438 \u0447\u0451?",
       "url": "https://open.spotify.com/track/6Un1gJPIWzyRwOtmL4E0Jt"
-    },
-    {
-      "added_at": "2026-06-16 17:22:16",
-      "album": {
-        "name": "\u0440\u0430\u0441\u043f\u044f\u0442\u044c",
-        "url": "https://open.spotify.com/album/3hzcccGZBceumBuBtCNP6P"
-      },
-      "artists": [
-        {
-          "name": "greyrock",
-          "url": "https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB"
-        },
-        {
-          "name": "tewiq",
-          "url": "https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L"
-        },
-        {
-          "name": "madk1d",
-          "url": "https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt"
-        }
-      ],
-      "duration_ms": 119575,
-      "name": "\u0440\u0430\u0441\u043f\u044f\u0442\u044c",
-      "url": "https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8"
     }
   ],
   "unique_name": "Top 50 - Ukraine",

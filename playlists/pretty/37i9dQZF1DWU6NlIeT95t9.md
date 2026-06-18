@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future of Pakistani music ♥️ Cover: Murtaza Qizilbash
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,457 likes - 82 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,465 likes - 82 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 81 | [Fiqr Na Karo](https://open.spotify.com/track/4LAS8j4UMbzX0hnZVUJDZ0) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Fiqr Na Karo](https://open.spotify.com/album/7B5gIstmMrODjIn32kUFVO) | 3:39 |
 | 82 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 |
 
-Snapshot ID: `AAAAAL3ifIR2DNkpF9G+jKbAghHb4WUw`
+Snapshot ID: `AAAAAGI43/YdYUD2MzcAH07JsMz1mxAu`

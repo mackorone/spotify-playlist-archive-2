@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 
 > We’re fired up\. Celebrate the new season of FX’s The Bear with music from the series\. All episodes now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,269 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,316 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 | 168 | [Don't Blame Steve](https://open.spotify.com/track/4g2JxFqa1hjOy1L2jDUqc6) | [Serengeti](https://open.spotify.com/artist/5F3fDx84RYnmx0FGZeRtSF) | [Kenny Dennis and Perculators](https://open.spotify.com/album/5IX8sI71YmVkYE4wd1C6LY) | 3:07 |
 | 169 | [Via Chicago](https://open.spotify.com/track/58nPDufBVhMa2bT8G59CzS) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 5:33 |
 | 170 | [Animal \- Remastered](https://open.spotify.com/track/2EzaNI2kE2AoBfJ8mRZLSJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 2:48 |
-| 171 | [Ajai Finale](https://open.spotify.com/track/7MxwTgUvbNNoOuftMEBr41) | [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [Serengeti](https://open.spotify.com/artist/5F3fDx84RYnmx0FGZeRtSF) | [Ajai](https://open.spotify.com/album/6GxPfQqYT05ncrAIvyjwRY) | 3:44 |
+| 171 | [Ajai Finale](https://open.spotify.com/track/7MxwTgUvbNNoOuftMEBr41) | [Serengeti](https://open.spotify.com/artist/5F3fDx84RYnmx0FGZeRtSF) | [Ajai](https://open.spotify.com/album/6GxPfQqYT05ncrAIvyjwRY) | 3:44 |
 | 172 | [Have You Seen Me Lately?](https://open.spotify.com/track/1v6ilQqdsgXHXzSj0Qvkzn) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Recovering The Satellites](https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP) | 4:08 |
 | 173 | [Saint Dominic's Preview \- Live](https://open.spotify.com/track/12PuItwsnNqZO87hEiobEV) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [..It's Too Late to Stop Now...Volume I](https://open.spotify.com/album/7ycOIZnRNdpnAEaHXZwah4) | 6:17 |
 | 174 | [Saints](https://open.spotify.com/track/3XQZbu3ujvI0TZgDS5afdQ) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 2:32 |

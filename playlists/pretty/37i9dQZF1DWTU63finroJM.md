@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,911 likes - 41 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,912 likes - 41 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 10 | [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 |
 | 11 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
 | 12 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
-| 13 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
-| 14 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
+| 13 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
+| 14 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
 | 15 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 | 16 | [nos keremos tanto](https://open.spotify.com/track/3DrkXhBUf9p5vftXG0E1mS) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:33 |
 | 17 | [Porteira Fechada \- Ao Vivo](https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:58 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 30 | [Cowboy Mouth](https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Cowboy Mouth](https://open.spotify.com/album/2AqkGAoflreArNrZQVQMCL) | 3:29 |
 | 31 | [1000 Kali Sakit](https://open.spotify.com/track/0uzE4bSVct5gjrLaGaWuT7) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [1000 Kali Sakit](https://open.spotify.com/album/22otPjlpE1GtHzxphsmSDy) | 4:04 |
 | 32 | [Lagu Healing Kita](https://open.spotify.com/track/6gwq7zQvoyqm3jOkwXKcMd) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Lagu Healing Kita](https://open.spotify.com/album/7B6oz3qkogH2Xy2kKCDTkZ) | 3:32 |
-| 33 | [BEB](https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [KBIR](https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:23 |
+| 33 | [angel in disguise](https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [angel in disguise](https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P) | 3:28 |
 | 34 | [Confidence](https://open.spotify.com/track/6nvG4xm7xrTFeHOQkbOEj1) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Confidence](https://open.spotify.com/album/6Wi1VvGkKgSuZLD5cXVBpK) | 3:08 |
-| 35 | [angel in disguise](https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [angel in disguise](https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P) | 3:28 |
+| 35 | [BEB](https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [KBIR](https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:23 |
 | 36 | [PICKY PICKY](https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY PICKY](https://open.spotify.com/album/5ALLCCDEVDdmmuSDeNE1ZW) | 2:08 |
 | 37 | [Pink Bape Lighter](https://open.spotify.com/track/2lbkDitLQPRbsA60vkwzMA) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/40Yge9bScgv155F1FmE68B) | 2:40 |
 | 38 | [最後一次浪費 \(抒情版\)](https://open.spotify.com/track/4pCz05SvW63BsYVWZNIJst) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [最後一次浪費 \(抒情版\)](https://open.spotify.com/album/2J3Xk0CGqReOLvVYinYNmo) | 2:19 |

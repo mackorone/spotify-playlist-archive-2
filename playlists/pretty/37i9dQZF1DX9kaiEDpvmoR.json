@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93950,
+  "num_followers": 93946,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-06-15 07:08:36",
       "album": {
-        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
-        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
-      },
-      "artists": [
-        {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Pappa kommer inte hem",
-      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
-    },
-    {
-      "added_at": "2026-06-15 07:08:36",
-      "album": {
         "name": "\u00c4r det h\u00e4r det \u00e4r party",
         "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 202011,
       "name": "\u00c4r det h\u00e4r det \u00e4r party",
       "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
+    },
+    {
+      "added_at": "2026-06-15 07:08:36",
+      "album": {
+        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
+        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Pappa kommer inte hem",
+      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
     },
     {
       "added_at": "2026-06-15 07:08:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-06-15 07:08:36",
       "album": {
-        "name": "Hj\u00e4rnsp\u00f6ken",
-        "url": "https://open.spotify.com/album/5cDNdPjGB4JA26VNlee1vW"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 170924,
-      "name": "Hj\u00e4rnsp\u00f6ken",
-      "url": "https://open.spotify.com/track/1oy1YNVgdi8b6TqWwkVXBP"
-    },
-    {
-      "added_at": "2026-06-15 07:08:36",
-      "album": {
         "name": "Sciura",
         "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2026-06-15 07:08:36",
       "album": {
+        "name": "Hj\u00e4rnsp\u00f6ken",
+        "url": "https://open.spotify.com/album/5cDNdPjGB4JA26VNlee1vW"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 170924,
+      "name": "Hj\u00e4rnsp\u00f6ken",
+      "url": "https://open.spotify.com/track/1oy1YNVgdi8b6TqWwkVXBP"
+    },
+    {
+      "added_at": "2026-06-15 07:08:36",
+      "album": {
         "name": "Tillbaka",
         "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 211233,
       "name": "Tillbaka",
       "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
-    },
-    {
-      "added_at": "2026-06-15 07:08:36",
-      "album": {
-        "name": "Bara mellan oss",
-        "url": "https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn"
-      },
-      "artists": [
-        {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
-        }
-      ],
-      "duration_ms": 221833,
-      "name": "Bara mellan oss",
-      "url": "https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h"
     },
     {
       "added_at": "2026-06-15 07:08:36",
@@ -759,6 +743,22 @@
       "duration_ms": 233026,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
+    },
+    {
+      "added_at": "2026-06-15 07:08:36",
+      "album": {
+        "name": "Bara mellan oss",
+        "url": "https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 221833,
+      "name": "Bara mellan oss",
+      "url": "https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h"
     },
     {
       "added_at": "2026-06-15 07:08:36",
@@ -895,18 +895,18 @@
     {
       "added_at": "2026-06-15 07:08:36",
       "album": {
-        "name": "jaywalking",
-        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+        "name": "Dansa p\u00e5 min grav (2026 version)",
+        "url": "https://open.spotify.com/album/4cYbbUpyWqmU8LD72qXqQO"
       },
       "artists": [
         {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
         }
       ],
-      "duration_ms": 170818,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
+      "duration_ms": 227068,
+      "name": "Dansa p\u00e5 min grav - (2026 version)",
+      "url": "https://open.spotify.com/track/4tVmwNcAHYvVDj5BUrxyrb"
     },
     {
       "added_at": "2026-06-15 07:08:36",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-06-15 07:08:36",
       "album": {
+        "name": "jaywalking",
+        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 170818,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
+    },
+    {
+      "added_at": "2026-06-15 07:08:36",
+      "album": {
         "name": "RANSOMS",
         "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 183278,
       "name": "RANSOMS",
       "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
-    },
-    {
-      "added_at": "2026-06-15 07:08:36",
-      "album": {
-        "name": "Dansa p\u00e5 min grav (2026 version)",
-        "url": "https://open.spotify.com/album/4cYbbUpyWqmU8LD72qXqQO"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 227068,
-      "name": "Dansa p\u00e5 min grav - (2026 version)",
-      "url": "https://open.spotify.com/track/4tVmwNcAHYvVDj5BUrxyrb"
     },
     {
       "added_at": "2026-06-15 07:08:36",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-06-15 07:08:36",
       "album": {
+        "name": "Nu \u00e4r det sommar",
+        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "duration_ms": 187604,
+      "name": "Nu \u00e4r det sommar",
+      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
+    },
+    {
+      "added_at": "2026-06-15 07:08:36",
+      "album": {
         "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
         "url": "https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 197454,
       "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
       "url": "https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t"
-    },
-    {
-      "added_at": "2026-06-15 07:08:36",
-      "album": {
-        "name": "Nu \u00e4r det sommar",
-        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "duration_ms": 187604,
-      "name": "Nu \u00e4r det sommar",
-      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
     },
     {
       "added_at": "2026-06-15 07:08:36",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-06-15 07:08:36",
       "album": {
-        "name": "If I Ever Lose My Temper",
-        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
-      },
-      "artists": [
-        {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "If I Ever Lose My Temper",
-      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
-    },
-    {
-      "added_at": "2026-06-15 07:08:36",
-      "album": {
         "name": "Prinsessa",
         "url": "https://open.spotify.com/album/4GumTSRgywolC98wanKLun"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 241000,
       "name": "Prinsessa",
       "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
+    },
+    {
+      "added_at": "2026-06-15 07:08:36",
+      "album": {
+        "name": "If I Ever Lose My Temper",
+        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "If I Ever Lose My Temper",
+      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
     },
     {
       "added_at": "2026-06-15 07:08:36",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-06-15 07:08:36",
       "album": {
-        "name": "I Rock My Country",
-        "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "I Rock My Country",
-      "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
-    },
-    {
-      "added_at": "2026-06-15 07:08:36",
-      "album": {
         "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
         "url": "https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 169800,
       "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
       "url": "https://open.spotify.com/track/03XQ0RP1cqrLxvWnyZlofm"
+    },
+    {
+      "added_at": "2026-06-15 07:08:36",
+      "album": {
+        "name": "I Rock My Country",
+        "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "I Rock My Country",
+      "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
     },
     {
       "added_at": "2026-06-15 07:08:36",
@@ -1363,6 +1363,22 @@
       "duration_ms": 255386,
       "name": "Svindlande h\u00f6jder",
       "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
+    },
+    {
+      "added_at": "2026-06-15 07:08:36",
+      "album": {
+        "name": "Midsommarafton igen",
+        "url": "https://open.spotify.com/album/4DEwW9MuZa1XLkc2FXa4b3"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Midsommarafton igen",
+      "url": "https://open.spotify.com/track/7do8KbnUYU4BbwUzW3tjnG"
     },
     {
       "added_at": "2026-06-15 07:08:36",
@@ -1459,22 +1475,6 @@
       "duration_ms": 214712,
       "name": "Older",
       "url": "https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw"
-    },
-    {
-      "added_at": "2026-06-15 07:08:36",
-      "album": {
-        "name": "Aster, atlas",
-        "url": "https://open.spotify.com/album/1hFzEB9BFfUxnSlZtEiurd"
-      },
-      "artists": [
-        {
-          "name": "Sara Parkman",
-          "url": "https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Tre hj\u00e4rtan",
-      "url": "https://open.spotify.com/track/3L2rFytbqORYicZmWVAigP"
     }
   ],
   "unique_name": "Aktuellt",

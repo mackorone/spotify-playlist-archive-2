@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: The Avalanches",
-  "num_followers": 138037,
+  "num_followers": 138040,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Divine Feelings",
-        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 208176,
-      "name": "Divine Feelings",
-      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "Walk a Straight Line",
         "url": "https://open.spotify.com/album/76fPezEx4UhZ7Tmh4Suefn"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 247000,
       "name": "Walk a Straight Line",
       "url": "https://open.spotify.com/track/0KplVgxoofAxkihR8wOG54"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "Divine Feelings",
+        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 208176,
+      "name": "Divine Feelings",
+      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
+        "name": "Giving Up Air",
+        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 287411,
+      "name": "Giving Up Air",
+      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
         "name": "boy that's loving you",
         "url": "https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 214000,
       "name": "Holy Grail",
       "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
-        "name": "Giving Up Air",
-        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 287411,
-      "name": "Giving Up Air",
-      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "In Twos",
-        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 166897,
-      "name": "In Twos",
-      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/7wjgGvAcDs9eGvAS2jQRKJ"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/4nuw7DBPuiNHGSeUqkAEb4"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
-        "name": "Tu Coraz\u00f3n (Your Heart)",
-        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Tu Coraz\u00f3n (Your Heart)",
-      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -975,6 +955,26 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
         "name": "If That Makes Sense",
         "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "Karaoke Bar",
         "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 204467,
       "name": "Karaoke Bar",
       "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "A PERFECT WORLD",
-        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "A PERFECT WORLD",
-      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "wraith",
         "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 245892,
       "name": "summer in december",
       "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "A PERFECT WORLD",
+        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "A PERFECT WORLD",
+      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 166711,
-      "name": "Kickboxer",
-      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "Ya Mind",
         "url": "https://open.spotify.com/album/7E3ERGTaf5FONAOpHmgDO5"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 192000,
       "name": "Ya Mind",
       "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 166711,
+      "name": "Kickboxer",
+      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "Honora",
         "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 262653,
       "name": "Wichita Lineman (feat. Nick Cave)",
       "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1355,22 +1355,6 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
-        "name": "These Arms",
-        "url": "https://open.spotify.com/album/0wlMUld5GFdP9oLIMMd5om"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "These Arms",
-      "url": "https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
+        "name": "These Arms",
+        "url": "https://open.spotify.com/album/0wlMUld5GFdP9oLIMMd5om"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "These Arms",
+      "url": "https://open.spotify.com/track/1xcBiYE5Jt8fynhe9ehVKt"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
         "name": "MOLLY",
         "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/6Eu72RHqQLK1ToCmBmhDAC"
-      },
-      "artists": [
-        {
-          "name": "Wade Forster",
-          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
-        }
-      ],
-      "duration_ms": 364117,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/7tWZuWDD6ddy3oxImHjF4l"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "Ask That God",
         "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "I Love You Out Loud",
-        "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/6Eu72RHqQLK1ToCmBmhDAC"
       },
       "artists": [
         {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
         }
       ],
-      "duration_ms": 213023,
-      "name": "I Love You Out Loud",
-      "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
+      "duration_ms": 364117,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/7tWZuWDD6ddy3oxImHjF4l"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1499,6 +1483,22 @@
       "duration_ms": 290802,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "I Love You Out Loud",
+        "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 213023,
+      "name": "I Love You Out Loud",
+      "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "LIFE KEEPS GOING",
-        "url": "https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 219204,
-      "name": "LIFE KEEPS GOING",
-      "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "gossip",
         "url": "https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
+        "name": "LIFE KEEPS GOING",
+        "url": "https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 219204,
+      "name": "LIFE KEEPS GOING",
+      "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "VERTICAL WORLDS",
-        "url": "https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G"
-      },
-      "artists": [
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
-        }
-      ],
-      "duration_ms": 195371,
-      "name": "VERTICAL WORLDS",
-      "url": "https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z"
-    },
-    {
-      "added_at": "2026-06-11 14:01:26",
-      "album": {
         "name": "Some Kinda Heaven",
         "url": "https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 204507,
       "name": "Some Kinda Heaven",
       "url": "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
+    },
+    {
+      "added_at": "2026-06-11 14:01:26",
+      "album": {
+        "name": "VERTICAL WORLDS",
+        "url": "https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 195371,
+      "name": "VERTICAL WORLDS",
+      "url": "https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Miss You In The Morning",
-        "url": "https://open.spotify.com/album/3ctTWJYKS5XsVacC6s5O8R"
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/6Vm6inhzAgOMOCi1LRcXCY"
       },
       "artists": [
         {
-          "name": "Lane Pittman",
-          "url": "https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 205128,
-      "name": "Miss You In The Morning",
-      "url": "https://open.spotify.com/track/07o5o1HfjMhEZBouOED4GZ"
+      "duration_ms": 211233,
+      "name": "East Village",
+      "url": "https://open.spotify.com/track/5LiP68DZdXab2WX8EcWREO"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "SORRY! CRASH!",
-        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
+        "name": "Miss You In The Morning",
+        "url": "https://open.spotify.com/album/3ctTWJYKS5XsVacC6s5O8R"
       },
       "artists": [
         {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+          "name": "Lane Pittman",
+          "url": "https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ"
         }
       ],
-      "duration_ms": 189680,
-      "name": "SORRY! CRASH!",
-      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
+      "duration_ms": 205128,
+      "name": "Miss You In The Morning",
+      "url": "https://open.spotify.com/track/07o5o1HfjMhEZBouOED4GZ"
     },
     {
       "added_at": "2026-06-11 14:01:26",
@@ -1711,22 +1711,18 @@
     {
       "added_at": "2026-06-11 14:01:26",
       "album": {
-        "name": "Between Us",
-        "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
+        "name": "SORRY! CRASH!",
+        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Femi Koleoso",
-          "url": "https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V"
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
         }
       ],
-      "duration_ms": 197122,
-      "name": "It Never Ends",
-      "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
+      "duration_ms": 189680,
+      "name": "SORRY! CRASH!",
+      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
     }
   ],
   "unique_name": "Turn Up Aus",

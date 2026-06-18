@@ -2,9 +2,9 @@
 
 ### [RADAR México](https://open.spotify.com/playlist/37i9dQZF1DXbpJNWtkXDpL)
 
-> Descubre el futuro de las música en México en compañía de iza tkm
+> Descubre el futuro de la música en México en compañía de iza tkm
 
-540 songs - 1 day 3 hr 49 min
+541 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [MTY](https://open.spotify.com/track/3fT8Xnj4T4gtKUSmIPXZL6) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [MTY](https://open.spotify.com/album/1F5BssS4Z96oE0U7kn1U97) | 2:10 | 2025-06-10 | 2026-04-18 |
 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 | 2021-10-01 | 2022-05-12 |
 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 | 2022-05-13 | 2023-04-19 |
+| [Muñeco de alambre](https://open.spotify.com/track/3RgxAfdUDE9wgYguGOga0P) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C) | [juanito](https://open.spotify.com/album/42Qod5kfH3Njcz2sjCPoIF) | 2:38 | 2026-06-18 |  |
 | [My Love](https://open.spotify.com/track/4KmnnsobuU6kmhmdsR5qPl) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [My Love](https://open.spotify.com/album/3anKkRkQCaPcQV1jYxM42V) | 4:33 | 2022-05-13 | 2022-07-15 |
 | [MÁS GRACIOSA QUE BONITA](https://open.spotify.com/track/3YAsxAtR7Nal7y52tU1xSQ) | [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO) | [MÁS GRACIOSA QUE BONITA](https://open.spotify.com/album/7KhxkgQGNAuvt57nkXCyLV) | 2:41 | 2025-10-03 | 2026-04-18 |
 | [Más Tarde \(Remix\)](https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR) | 3:26 | 2022-05-13 | 2023-02-28 |

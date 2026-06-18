@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 60400,
+  "num_followers": 60420,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 160866,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Yori yori",
-        "url": "https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF"
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
       "artists": [
         {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Yori yori",
-      "url": "https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx"
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+        "name": "THEY LOVE ME",
+        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+      "duration_ms": 134482,
+      "name": "THEY LOVE ME",
+      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -391,18 +391,38 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "THEY LOVE ME",
-        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 134482,
-      "name": "THEY LOVE ME",
-      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Yori yori",
+        "url": "https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Yori yori",
+      "url": "https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -435,38 +455,18 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+        "name": "ON YOU",
+        "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Timi Dre",
+          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
         }
       ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
-        "name": "Romeo and juliet",
-        "url": "https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 151725,
-      "name": "Romeo and juliet",
-      "url": "https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni"
+      "duration_ms": 192000,
+      "name": "ON YOU",
+      "url": "https://open.spotify.com/track/349C06rq0Yg8EHiP3kySIR"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "ON YOU",
-        "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
-      },
-      "artists": [
-        {
-          "name": "Timi Dre",
-          "url": "https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "ON YOU",
-      "url": "https://open.spotify.com/track/349C06rq0Yg8EHiP3kySIR"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 218947,
       "name": "Despacito (feat. FOLA)",
       "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Romeo and juliet",
+        "url": "https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 151725,
+      "name": "Romeo and juliet",
+      "url": "https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -731,6 +731,26 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
         "name": "Go Crazy",
         "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 149126,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
-        "name": "Till The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Till The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -855,46 +855,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "DEARLY",
-        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 181495,
-      "name": "DEARLY",
-      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
-        "name": "Gaddem",
-        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Gaddem",
-      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "Call Me (feat. Tu Musica)",
         "url": "https://open.spotify.com/album/7KGGOyDqwiIvmKIMwDQolX"
       },
@@ -923,6 +883,46 @@
       "duration_ms": 150000,
       "name": "Call Me (feat. Tu Musica)",
       "url": "https://open.spotify.com/track/0AaelNpgby0eOH8Z6QvBbd"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Gaddem",
+        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Gaddem",
+      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "DEARLY",
+        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 181495,
+      "name": "DEARLY",
+      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Namipa",
-        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 141521,
-      "name": "Namipa",
-      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "Hug",
         "url": "https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi"
       },
@@ -1067,6 +1047,26 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
+        "name": "Namipa",
+        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 141521,
+      "name": "Namipa",
+      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
         "name": "High Spirit",
         "url": "https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 169678,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Backyard Party",
+        "url": "https://open.spotify.com/album/4rWd483TmUL1Av92BrRJjh"
+      },
+      "artists": [
+        {
+          "name": "Eli Jae",
+          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
+        }
+      ],
+      "duration_ms": 171262,
+      "name": "Backyard Party",
+      "url": "https://open.spotify.com/track/0Jn7TnPVZAswFmQQWQ8V3N"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1123,22 +1139,6 @@
       "duration_ms": 149333,
       "name": "Crazily",
       "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
-        "name": "Backyard Party",
-        "url": "https://open.spotify.com/album/4rWd483TmUL1Av92BrRJjh"
-      },
-      "artists": [
-        {
-          "name": "Eli Jae",
-          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
-        }
-      ],
-      "duration_ms": 171262,
-      "name": "Backyard Party",
-      "url": "https://open.spotify.com/track/0Jn7TnPVZAswFmQQWQ8V3N"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Ring",
-      "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
@@ -1351,18 +1331,22 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Blame On Me",
-        "url": "https://open.spotify.com/album/4SMLSrqBkE01ysiHQ3kV6z"
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
       },
       "artists": [
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 155972,
-      "name": "Blame On Me",
-      "url": "https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr"
+      "duration_ms": 155866,
+      "name": "Ring",
+      "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
+        "name": "Blame On Me",
+        "url": "https://open.spotify.com/album/4SMLSrqBkE01ysiHQ3kV6z"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 155972,
+      "name": "Blame On Me",
+      "url": "https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
         "name": "ITEM VII",
         "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 130515,
       "name": "Greatest Lover",
       "url": "https://open.spotify.com/track/38S8k9EHmKUXUI6R2KZzDV"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
-        "name": "Available",
-        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 159444,
-      "name": "Available",
-      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "South South Romance: After Hours",
-        "url": "https://open.spotify.com/album/2NTNbpQJ74m3GCAK7812ui"
+        "name": "Available",
+        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
       },
       "artists": [
         {
-          "name": "Tmaro",
-          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
         }
       ],
-      "duration_ms": 128166,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/6gwRyjLzdn1992RpT6sUdb"
+      "duration_ms": 159444,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1459,6 +1443,22 @@
       "duration_ms": 155094,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "South South Romance: After Hours",
+        "url": "https://open.spotify.com/album/2NTNbpQJ74m3GCAK7812ui"
+      },
+      "artists": [
+        {
+          "name": "Tmaro",
+          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
+        }
+      ],
+      "duration_ms": 128166,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6gwRyjLzdn1992RpT6sUdb"
     },
     {
       "added_at": "2026-06-12 00:01:50",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-06-12 00:01:50",
       "album": {
-        "name": "Sorry I'm Busy",
-        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 142709,
-      "name": "Sorry I'm Busy",
-      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
-    },
-    {
-      "added_at": "2026-06-12 00:01:50",
-      "album": {
         "name": "numero",
         "url": "https://open.spotify.com/album/6VbnEZlNrGnRD3Jml0UyPV"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 147878,
       "name": "numero",
       "url": "https://open.spotify.com/track/06CMmOHVZXX6zJoZBZcBE6"
+    },
+    {
+      "added_at": "2026-06-12 00:01:50",
+      "album": {
+        "name": "Sorry I'm Busy",
+        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 142709,
+      "name": "Sorry I'm Busy",
+      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
     }
   ],
   "unique_name": "AfroBae",

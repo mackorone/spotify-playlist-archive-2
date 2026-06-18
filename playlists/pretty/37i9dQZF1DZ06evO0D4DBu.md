@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,137 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,136 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 38 | [Still Get Chanel \(feat\. Chance The Rapper\)](https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 3:19 |
 | 39 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:53 |
 | 40 | [Do You Remember](https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 3:56 |
-| 41 | [I Might Need Security](https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [I Might Need Security](https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8) | 4:00 |
-| 42 | [Wraith](https://open.spotify.com/track/73mjPiWQcaOQdfzXvNt1IT) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/1hXe7FuboEW7ZfbCxX9g6M) | 2:27 |
+| 41 | [Wraith](https://open.spotify.com/track/73mjPiWQcaOQdfzXvNt1IT) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/1hXe7FuboEW7ZfbCxX9g6M) | 2:27 |
+| 42 | [I Might Need Security](https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [I Might Need Security](https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8) | 4:00 |
 | 43 | [Tree \(feat\. Lil Wayne & Smino\)](https://open.spotify.com/track/58nLLDEP28jLGbqbGZD7OB) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:27 |
 | 44 | [Girls @ \(feat\. Chance the Rapper\)](https://open.spotify.com/track/5p7sELomeqtq9ypH3VeVH1) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [iiiDrops](https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd) | 3:32 |
 | 45 | [Best Life \(feat\. Chance The Rapper\)](https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [I Love You \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Love Letter To You 4 \(Deluxe\)](https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9) | 3:49 |
 | 50 | [The Man Who Has Everything](https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu) | 3:38 |
 
-Snapshot ID: `ai9AgAAAAADhQBr6tp90t8i2NsUAWvYi`
+Snapshot ID: `ajCSAAAAAACQKsjXTlBW+vglYIM9mBTL`

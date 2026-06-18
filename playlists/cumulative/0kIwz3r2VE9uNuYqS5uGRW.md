@@ -4,7 +4,7 @@
 
 > 
 
-225 songs - 11 hr 46 min
+228 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Cueca Vermelha](https://open.spotify.com/track/0psQlXBy3LAWiYGcg2Vz6Y) | [Marcos Yury Dieper](https://open.spotify.com/artist/2NgqmdXxP8paU9uQWL3btf) | [Cueca Vermelha](https://open.spotify.com/album/4hJlPnSql0scw26e7qr0l4) | 3:30 | 2025-06-22 |  |
 | [Cuentame](https://open.spotify.com/track/1ofaTXh8Vp8j8JDjFkcvoN) | [J MART](https://open.spotify.com/artist/4U5QlsisiFasO599Hn5rTK) | [Cuentame](https://open.spotify.com/album/5aPjoYmj0AuOvC3pg6Xzrv) | 1:48 | 2025-08-17 |  |
 | [dangerose](https://open.spotify.com/track/2OLJ7bMkW54MYfD6BprIx0) | [Ebonii](https://open.spotify.com/artist/5GgTzAqlQ9YkISvrWN4x7e), [Alektra](https://open.spotify.com/artist/5wBJh4LU47mXERWr0DsR2Q), [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [elixir remixes](https://open.spotify.com/album/6W7i36tGCQu1MYkKZuW9KL) | 2:54 | 2026-06-13 |  |
+| [Deadly Bargain](https://open.spotify.com/track/2GcKDv6tEGW1It3WTTxbxQ) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 3:35 | 2026-06-17 |  |
 | [Delorean](https://open.spotify.com/track/0ipu6uwgDaq38JeXheuO2R) | [Tokyo Killa](https://open.spotify.com/artist/44HYvFdD06IqOhCBXawbtz) | [Delorean](https://open.spotify.com/album/4TlN1FUusLJskg7Sl5HOwg) | 3:12 | 2026-03-27 |  |
 | [Desahogo](https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Desahogo](https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz) | 3:20 | 2026-03-19 |  |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2025-12-10 |  |
@@ -94,6 +95,7 @@
 | [I Don't Know](https://open.spotify.com/track/1Nj7VD921R98sjuMK3jMWM) | [Zerener](https://open.spotify.com/artist/2NPVYQkv6uPyD6QsFlbZH5) | [I Don't Know](https://open.spotify.com/album/4JwIlUXBAfiajBuobasvFl) | 3:42 | 2025-04-07 |  |
 | [i don't want to waste your time](https://open.spotify.com/track/0pzN3BuKIw2pXNQndYn4kN) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [if june was a person](https://open.spotify.com/album/6Nm96HpjoRZGJjpaimqfM4) | 4:53 | 2026-05-06 |  |
 | [I DON´T WANNA WORK](https://open.spotify.com/track/3L3BwVldv7DV7Htk4BHHMd) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [I DON´T WANNA WORK](https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3) | 2:59 | 2025-10-30 |  |
+| [I Have Myself](https://open.spotify.com/track/3OVsKTZCyeQOWMsa5rvxMN) | [Brave The Storm](https://open.spotify.com/artist/6DPd6AkhKbj2qYKHULOU77), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Taste Oblivion](https://open.spotify.com/album/4KCvc2u5cOguYmwFFdxfP5) | 3:07 | 2026-06-17 |  |
 | [I Hope](https://open.spotify.com/track/3dI1YkpKCJMj2tlZFWPxXE) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Hope](https://open.spotify.com/album/3gVWMKoHvzr5UjyH59oB6A) | 3:20 | 2025-08-07 |  |
 | [I Kill Spiders](https://open.spotify.com/track/2jrMjstPcrgWx9ZUIV8qmW) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [I Kill Spiders](https://open.spotify.com/album/3rwRrvZIMD9kyc5y1qUbP8) | 3:41 | 2025-09-29 |  |
 | [I love you, but I can't let you go](https://open.spotify.com/track/41FkGXbt9gack4Z9GOtmC1) | [Ida Elisabeth](https://open.spotify.com/artist/3sEXUMg9WvdpLcKSsn1zkZ) | [white hearts stain easily](https://open.spotify.com/album/3H6t0wm5nfjUyLq26sfBIB) | 2:59 | 2026-03-13 |  |
@@ -201,6 +203,7 @@
 | [talk](https://open.spotify.com/track/1d9xyrASfsD0edthqvHbpL) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [talk](https://open.spotify.com/album/6gVHNh3J56BQdaqO5cSCKF) | 3:36 | 2026-04-02 |  |
 | [That One Girl](https://open.spotify.com/track/77uc3YwRFqWcTJX9GquTMw) | [Pablo Santana](https://open.spotify.com/artist/40g1dctGAaTqem3oED2j8l) | [That One Girl](https://open.spotify.com/album/0p9Ckyg7TybvPbE5vgvAux) | 2:13 | 2025-03-12 |  |
 | [The Climb](https://open.spotify.com/track/0HKxgYyUTgSGkY8hPCEXIf) | [Richard Green](https://open.spotify.com/artist/5ZMNSlmvEo9xyBSCK7yK1w) | [The Climb](https://open.spotify.com/album/1RiFybPic6zBZ3viZ6B3Nf) | 4:58 | 2026-06-03 |  |
+| [The Devil's Dance](https://open.spotify.com/track/3jcf6pjhEb0BQOxHvpw3yN) | [exane](https://open.spotify.com/artist/3xiDuqFFBBd87BgYeLFGcl) | [The Devil's Dance](https://open.spotify.com/album/5DoCb8eHtyz2JOvmQV6NrK) | 1:25 | 2026-06-17 |  |
 | [The Fish That Never Went To Mauritius](https://open.spotify.com/track/7nWnAKibNLSktV18hn0vuZ) | [Jonny Hiley](https://open.spotify.com/artist/0Uhg2uDTQsgfuxzFlq4MKO) | [The Fish That Never Went To Mauritius](https://open.spotify.com/album/2jyvwXJ7yl4xEkgVtYI6lv) | 5:04 | 2026-06-14 |  |
 | [The Good, The Bad and The Electric](https://open.spotify.com/track/06lGeazjV3Il8dEtfRo7Jd) | [Chance the Closer](https://open.spotify.com/artist/2N8BKNbDpSuVVZNHKvQN40) | [The Good, The Bad and The Electric](https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a) | 3:12 | 2025-12-21 |  |
 | [The Goonies Are Good Enough](https://open.spotify.com/track/27VOni0i9mmss8Hc5fchnG) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [The Goonies Are Good Enough](https://open.spotify.com/album/3zp4sH0nh9faKVLurq1JGY) | 2:33 | 2026-05-06 |  |

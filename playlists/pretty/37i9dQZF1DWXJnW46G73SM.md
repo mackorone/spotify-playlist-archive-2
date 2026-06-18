@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي صبري
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,776 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,813 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 93 | [فانز ويجز](https://open.spotify.com/track/0myIkZFauSARND6gPOwFxC) | [ABOHEIF OG](https://open.spotify.com/artist/0Lujy9z5AUL3ul70bTtATy) | [فانز ويجز](https://open.spotify.com/album/39mdNIPCnX5sOylmD7jfP2) | 2:08 |
 | 94 | [Khatem](https://open.spotify.com/track/1w6mPvHNGNEZak2BG3rmde) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [Sahar El Layaly](https://open.spotify.com/album/56gWCUI6fu5HsJ8G613ogP) | 2:22 |
 
-Snapshot ID: `AAAAACvvvu1iWfJTKl0pNzgjhHmGJlWV`
+Snapshot ID: `AAAAAOC94IhyzxYZ2gTnWNp/kNWNe0sp`

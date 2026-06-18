@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 244127,
+  "num_followers": 244137,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADagSLyQlidvFlKcH50J+R+",
+  "snapshot_id": "ajCSAAAAAAA7T+E9A0/VERnvKjIDPIaG",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Disco de Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Perfecta - Versi\u00f3n con Julieta Venegas",
-      "url": "https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 225680,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Disco de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Perfecta - Versi\u00f3n con Julieta Venegas",
+      "url": "https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Historia",
+        "url": "https://open.spotify.com/album/6ZUTwvLWMi29QUubkloBPk"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Mismo Amor",
+      "url": "https://open.spotify.com/track/5imWOqJtc9fRIGBixyFy1G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La L\u00ednea",
         "url": "https://open.spotify.com/album/4IPQrzEH9rpoxHL6x0Zh6V"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 191426,
       "name": "La L\u00ednea",
       "url": "https://open.spotify.com/track/5nBElDk2lS45s4JXcQjMps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/6ZUTwvLWMi29QUubkloBPk"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Mismo Amor",
-      "url": "https://open.spotify.com/track/5imWOqJtc9fRIGBixyFy1G"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,803 likes - 72 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,809 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 7 | [チューインガム](https://open.spotify.com/track/4P9qLxmlCkKw1xOQ08tf2f) | [THREEE](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa), [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [チューインガム](https://open.spotify.com/album/4Nr1LGB1ONObmYWXDAZAMZ) | 3:57 |
 | 8 | [火種](https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [火種](https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5) | 3:24 |
 | 9 | [Wind's Anthem \(feat\. suis From Yorushika\)](https://open.spotify.com/track/1xjyjzvD6l7nCHMySQrgVc) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Wind's Anthem \(feat\. suis From Yorushika\)](https://open.spotify.com/album/3bIY6ZyJs190WknnUMIKFp) | 3:42 |
-| 10 | [イ三](https://open.spotify.com/track/1LCyQXGVdKh0UBjXhnxSdr) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [イ三](https://open.spotify.com/album/2tfrYZS9JfRYZfME1K1PEg) | 2:15 |
-| 11 | [間人間](https://open.spotify.com/track/0yNQwwEmuMnLz5WekZzo1j) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形藻土](https://open.spotify.com/album/5BmBdOh7Q78sz2TWLtRmF5) | 4:04 |
-| 12 | [BLUE MOON](https://open.spotify.com/track/0SKSjL22ps9UPlBx5ClTGi) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BLUE MOON](https://open.spotify.com/album/18CXSP7SAugNUkIgahOj9I) | 3:23 |
-| 13 | [チョイス](https://open.spotify.com/track/2JRlA3YNghHoLKVEdotV69) | [NAME.O](https://open.spotify.com/artist/3MTuaPQH5wgzIGkPQMBqRL) | [チョイス](https://open.spotify.com/album/4k0crXawaF3i7vKN0eRcMY) | 4:19 |
-| 14 | [Honne Hone](https://open.spotify.com/track/75VwX3zRPDIM6X1tQBhwMb) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Hashimero](https://open.spotify.com/artist/20vmA7VQLggHpR49avTPA9) | [Honne Hone](https://open.spotify.com/album/7gf2EX5gW5RgPWV4LcLsXo) | 2:41 |
-| 15 | [学園戦線](https://open.spotify.com/track/4x49CYdjm1m26BWJqzCZh7) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [深愛](https://open.spotify.com/album/0aUXM0nLDNQcgtSgCvmG3g) | 3:28 |
-| 16 | [ブレインロット](https://open.spotify.com/track/1C1skAeFtnguXNlCYRQoCr) | [東京真中](https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K) | [ブレインロット](https://open.spotify.com/album/1JLclTNvD2eXpJ0BiJXmpy) | 2:02 |
+| 10 | [ブレインロット](https://open.spotify.com/track/1C1skAeFtnguXNlCYRQoCr) | [東京真中](https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K) | [ブレインロット](https://open.spotify.com/album/1JLclTNvD2eXpJ0BiJXmpy) | 2:02 |
+| 11 | [イ三](https://open.spotify.com/track/1LCyQXGVdKh0UBjXhnxSdr) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [イ三](https://open.spotify.com/album/2tfrYZS9JfRYZfME1K1PEg) | 2:15 |
+| 12 | [間人間](https://open.spotify.com/track/0yNQwwEmuMnLz5WekZzo1j) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形藻土](https://open.spotify.com/album/5BmBdOh7Q78sz2TWLtRmF5) | 4:04 |
+| 13 | [BLUE MOON](https://open.spotify.com/track/0SKSjL22ps9UPlBx5ClTGi) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BLUE MOON](https://open.spotify.com/album/18CXSP7SAugNUkIgahOj9I) | 3:23 |
+| 14 | [チョイス](https://open.spotify.com/track/2JRlA3YNghHoLKVEdotV69) | [NAME.O](https://open.spotify.com/artist/3MTuaPQH5wgzIGkPQMBqRL) | [チョイス](https://open.spotify.com/album/4k0crXawaF3i7vKN0eRcMY) | 4:19 |
+| 15 | [Honne Hone](https://open.spotify.com/track/75VwX3zRPDIM6X1tQBhwMb) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Hashimero](https://open.spotify.com/artist/20vmA7VQLggHpR49avTPA9) | [Honne Hone](https://open.spotify.com/album/7gf2EX5gW5RgPWV4LcLsXo) | 2:41 |
+| 16 | [学園戦線](https://open.spotify.com/track/4x49CYdjm1m26BWJqzCZh7) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [深愛](https://open.spotify.com/album/0aUXM0nLDNQcgtSgCvmG3g) | 3:28 |
 | 17 | [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/track/6Cl7zIrLFYuHhu4iR5zTK1) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [NanahoshiKangengakudan](https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo) | [Ash＆Ember \(feat\. LiSA, ナナホシ管弦楽団\)](https://open.spotify.com/album/6KkZytxXWIr5t9d45H1bih) | 3:25 |
 | 18 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 |
 | 19 | [Haru Ni Mau](https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Haru Ni Mau](https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn) | 3:58 |
@@ -71,14 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 61 | [∞](https://open.spotify.com/track/7olHNAShCKuprnod2HTE7d) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [Revealia](https://open.spotify.com/album/6666VNjty3uJMTbMiD6bAu) | 3:58 |
 | 62 | [いのちのパレヱド](https://open.spotify.com/track/0IerodT2kkmffBh02FflGJ) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [いのちのパレヱド](https://open.spotify.com/album/1rVMxPiU2H6GVFLEmZV695) | 2:49 |
 | 63 | [月に向かって撃て](https://open.spotify.com/track/2aQpmTVc26tkNVChUYzZcS) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [月に向かって撃て](https://open.spotify.com/album/5aZz8n89Y0VpdCEioB05NS) | 3:13 |
-| 64 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
-| 65 | [ディスクローズ・フリック](https://open.spotify.com/track/6XAJz6Anhuc2qQZugXQYnr) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [ディスクローズ・フリック](https://open.spotify.com/album/4wl7R1Ac5WlvcKq6a2R29s) | 2:52 |
-| 66 | [NEW DAYS](https://open.spotify.com/track/4e8AQFUM6HRNT97pySfvHR) | [KMNZ](https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz) | [KMNCULTURE](https://open.spotify.com/album/0034RJKaIQVPPA581qxaif) | 3:26 |
-| 67 | [ニーナ](https://open.spotify.com/track/5DU5qGldp4ric2hh7uaSAq) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ニーナ](https://open.spotify.com/album/249nOY1BznaT6oqsEFRbFT) | 3:44 |
-| 68 | [感情御中](https://open.spotify.com/track/45vacCRo9gHtfkN19QG8yZ) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [美辞学](https://open.spotify.com/album/4V0DjuDLtElbKX6WTUxvgV) | 2:55 |
-| 69 | [パステルレイン](https://open.spotify.com/track/6LgbWb24tqwQYOz2LznkMD) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ガールズブルー・ハッピーサッド](https://open.spotify.com/album/4zJnne9ViG9kIR8o8AntfK) | 3:32 |
-| 70 | [心魔](https://open.spotify.com/track/05KjbfZrWBP27xFXNWS3cz) | [shido](https://open.spotify.com/artist/4tSq0ejyIRIzfZ6A8YvLqP) | [心魔](https://open.spotify.com/album/3Y01UySZkh6FaEYoGhqZxy) | 3:32 |
-| 71 | [ブレンデッド](https://open.spotify.com/track/6lVfp9lzMNf4BoiGzhAzqp) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [ECHO](https://open.spotify.com/album/1BoahMAN2p1qYHUENqSDXP) | 3:41 |
-| 72 | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/5QneXGb9baT7XSjqZvQdYl) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 3:50 |
+| 64 | [ディスクローズ・フリック](https://open.spotify.com/track/6XAJz6Anhuc2qQZugXQYnr) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [ディスクローズ・フリック](https://open.spotify.com/album/4wl7R1Ac5WlvcKq6a2R29s) | 2:52 |
+| 65 | [NEW DAYS](https://open.spotify.com/track/4e8AQFUM6HRNT97pySfvHR) | [KMNZ](https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz) | [KMNCULTURE](https://open.spotify.com/album/0034RJKaIQVPPA581qxaif) | 3:26 |
+| 66 | [ニーナ](https://open.spotify.com/track/5DU5qGldp4ric2hh7uaSAq) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ニーナ](https://open.spotify.com/album/249nOY1BznaT6oqsEFRbFT) | 3:44 |
+| 67 | [感情御中](https://open.spotify.com/track/45vacCRo9gHtfkN19QG8yZ) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [美辞学](https://open.spotify.com/album/4V0DjuDLtElbKX6WTUxvgV) | 2:55 |
+| 68 | [心魔](https://open.spotify.com/track/05KjbfZrWBP27xFXNWS3cz) | [shido](https://open.spotify.com/artist/4tSq0ejyIRIzfZ6A8YvLqP) | [心魔](https://open.spotify.com/album/3Y01UySZkh6FaEYoGhqZxy) | 3:32 |
+| 69 | [ブレンデッド](https://open.spotify.com/track/6lVfp9lzMNf4BoiGzhAzqp) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [ECHO](https://open.spotify.com/album/1BoahMAN2p1qYHUENqSDXP) | 3:41 |
+| 70 | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/5QneXGb9baT7XSjqZvQdYl) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 3:50 |
 
-Snapshot ID: `AAAAAJv+4fdE6oJwlUKhw2wxrNpxHi2P`
+Snapshot ID: `AAAAAJ4w6JMquzvC6QRPWA8quu8dcIeI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,276 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,293 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 20 | [Rich](https://open.spotify.com/track/4tNPvDMaT7GMv5pQQqkesB) | [ELI GABLE](https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY) | [Rich](https://open.spotify.com/album/6Da5S0GCQK9Ex5Nbud8ozV) | 3:11 |
 | 21 | [Grateful](https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Grateful](https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob) | 3:35 |
 | 22 | [Thank You For It All](https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thank You For It All](https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl) | 4:24 |
-| 23 | [That's How I Know](https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr) | [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [That's How I Know](https://open.spotify.com/album/2EikGiyM8b2kjcJD6CwEWU) | 3:39 |
-| 24 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 |
+| 23 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 |
+| 24 | [That's How I Know](https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr) | [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [That's How I Know](https://open.spotify.com/album/2EikGiyM8b2kjcJD6CwEWU) | 3:39 |
 | 25 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
 | 26 | [We Are Thankful](https://open.spotify.com/track/2q6bIMUzRF7XmCAFixpNpp) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [We Are Thankful](https://open.spotify.com/album/1KKYYSgmg5879WhTpgEqBq) | 4:27 |
 | 27 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Thank You \(feat\. MARTY\)](https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Thank You \(feat\. MARTY\)](https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T) | 3:22 |
 | 60 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 |
 | 61 | [Oh Give Thanks \- Live](https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7) | [Vincent Bohanan & SOV](https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk) | [Live in Chicago](https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ) | 5:29 |
-| 62 | [Thank You Lord \(He Did It All\) \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Strength \(feat\. John P\. Kee\)](https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT) | 5:14 |
-| 63 | [Thank You \- Live](https://open.spotify.com/track/5pctb5fQMqfncJqRRAMsRh) | [Mercy Culture Worship](https://open.spotify.com/artist/7qbjOkkH57gPl41xfR8RuI) | [Thank You \(Live\)](https://open.spotify.com/album/15wpZmn1wOJmDyS3dymey4) | 10:47 |
+| 62 | [Thank You \- Live](https://open.spotify.com/track/5pctb5fQMqfncJqRRAMsRh) | [Mercy Culture Worship](https://open.spotify.com/artist/7qbjOkkH57gPl41xfR8RuI) | [Thank You \(Live\)](https://open.spotify.com/album/15wpZmn1wOJmDyS3dymey4) | 10:47 |
+| 63 | [Thank You Lord \(He Did It All\) \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Strength \(feat\. John P\. Kee\)](https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT) | 5:14 |
 | 64 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 65 | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb) | 3:34 |
 | 66 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |

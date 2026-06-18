@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,149 songs - 3 day 2 hr 7 min
+1,150 songs - 3 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Drinking Song](https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Fish Eyes EP](https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp) | 3:14 | 2025-12-25 |  |
 | [Drive](https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:31 | 2022-06-16 | 2023-12-14 |
 | [Drone](https://open.spotify.com/track/3ZQpms23dgtgox86dd7eGV) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Time to Go Home](https://open.spotify.com/album/6qGYhu450Xc73YbNAVkM3U) | 4:33 | 2023-08-12 |  |
-| [drop dead](https://open.spotify.com/track/0yO9QD2Ga7eUzqnNYsSSPo) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:44 | 2026-06-12 |  |
+| [drop dead](https://open.spotify.com/track/0yO9QD2Ga7eUzqnNYsSSPo) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:44 | 2026-06-12 | 2026-06-18 |
 | [Drover](https://open.spotify.com/track/0FprsPFNEr74lZRbH49MMK) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 5:24 | 2025-03-20 | 2025-04-25 |
 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 | 2025-01-15 |  |
 | [Dumb Feeling](https://open.spotify.com/track/4HPd9WMnQqp3xXAOYeGexw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 3:10 | 2026-01-02 |  |
@@ -473,7 +473,7 @@
 | [I\. Deep Blue \(You Beat Me\)](https://open.spotify.com/track/43es6Mxw89bV0Yv0f1ZEon) | [William Brittelle](https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Rough Magic](https://open.spotify.com/album/5LCUG6zhXjBOUQm89nO81d) | 4:39 | 2024-01-29 |  |
 | [I\. Midnight Moon Pool \(Womb Of The Soul\)](https://open.spotify.com/track/0hIIMnXX29I6IoJiKKWmFp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6), [Jamal Shakeri](https://open.spotify.com/artist/3B193UMTjl6fyV4ShzC4ve), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:25 | 2024-11-22 |  |
 | [I\. The Sun](https://open.spotify.com/track/3shp7WxHTjIWGTPf3Pww7c) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [Mount Eerie](https://open.spotify.com/album/5qvuDzzdqHFID4IlUMGZcb) | 17:11 | 2024-10-14 |  |
-| [Icarus](https://open.spotify.com/track/66BoVWjtxH7RZRLLvQUnaq) | [Adeline](https://open.spotify.com/artist/2MUW8E2Dy6sWwo07cfWBzQ) | [Good TV](https://open.spotify.com/album/0DOKzE7LbAyYqTAyWq9qUF) | 4:03 | 2026-06-12 |  |
+| [Icarus](https://open.spotify.com/track/66BoVWjtxH7RZRLLvQUnaq) | [Adeline](https://open.spotify.com/artist/2MUW8E2Dy6sWwo07cfWBzQ) | [Good TV](https://open.spotify.com/album/0DOKzE7LbAyYqTAyWq9qUF) | 4:03 | 2026-06-12 | 2026-06-18 |
 | [Ice In My OJ](https://open.spotify.com/track/5mmnCxPS0eJIVySUDVNGsV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 2:11 | 2025-10-09 | 2025-10-23 |
 | [if im honest](https://open.spotify.com/track/0Fv07HimnYZTgDxoVkPt4t) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [somebody in hell loves you](https://open.spotify.com/album/73L8Gv41xHG3RYdhXoFggn) | 2:50 | 2025-01-06 |  |
 | [If Not Now, Then When?](https://open.spotify.com/track/1nkMRXPRGtwWGIfWaXt3na) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:50 | 2024-01-15 |  |
@@ -916,7 +916,7 @@
 | [State of the Nation](https://open.spotify.com/track/4FQVCrUvtl4yRJd5bWpupn) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 0:25 | 2023-03-24 | 2023-05-09 |
 | [Stereo Colour Cloud \(Shaman's Dream\)](https://open.spotify.com/track/2VQspDUq9kCe8L9aorXuH4) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 2:57 | 2023-12-31 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:26 | 2023-05-21 |  |
-| [stone bogus](https://open.spotify.com/track/6jE44IKmr7HzkCintxczLS) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Stone Bogus](https://open.spotify.com/album/63sy0WWNIH60kyLv1DSwSQ) | 2:34 | 2026-06-12 |  |
+| [stone bogus](https://open.spotify.com/track/6jE44IKmr7HzkCintxczLS) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Stone Bogus](https://open.spotify.com/album/63sy0WWNIH60kyLv1DSwSQ) | 2:34 | 2026-06-12 | 2026-06-18 |
 | [Stranded](https://open.spotify.com/track/4b6hzaWi80OeJtUwZ84ErD) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:28 | 2024-01-18 |  |
 | [Strash](https://open.spotify.com/track/3uBMB4pWWkOPM3XLxoG7E4) | [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm) | [Kleinmeister](https://open.spotify.com/album/7iLU32VjgscMWebg2Jtq5Q) | 4:56 | 2023-10-30 |  |
 | [Strawberry \(Probably\)](https://open.spotify.com/track/0QZ10VC3xe0IsUcWBejgtF) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Disposable Everything](https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc) | 3:57 | 2024-03-27 |  |
@@ -1152,6 +1152,7 @@
 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 | 2024-01-29 |  |
 | [★](https://open.spotify.com/track/1Xb5UAKg5OdTHkg48FdQou) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 9:57 | 2024-01-18 |  |
 | [ようこそ、夏の王国へ](https://open.spotify.com/track/2H7gT6zL5qSeAqTpfDqlWu) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [夏・全・開](https://open.spotify.com/album/1amISkdWujGVaDuLJPfDt9) | 4:01 | 2026-05-18 |  |
+| [太陽とダァリヤ\(2021 Remastered\)](https://open.spotify.com/track/1kVfpUDx3ofFV71kPQZYQx) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [WORLD STANDARD（2021 Remastered）](https://open.spotify.com/album/4MUXGPluCvXfqz943sE7Oc) | 3:48 | 2026-06-17 |  |
 | [忘れる女](https://open.spotify.com/track/4JnKSfRE4sM1LVHRwkDNEM) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 4:42 | 2025-12-31 |  |
 | [正しい街](https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:52 | 2024-07-02 |  |
 | [给抱着盒子的姑娘](https://open.spotify.com/track/5kpqZy4npLRTd8AEjkV6YH) | [宋冬野](https://open.spotify.com/artist/5aJFmaCc09jEz9ghzppUxo) | [安和桥北](https://open.spotify.com/album/4MTEs0gR5jeInhPAu5aZkD) | 2:05 | 2025-10-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 36048,
+  "num_followers": 36051,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADVUEfqqJVDxnSOeQlaKdqs",
+  "snapshot_id": "ajCSAAAAAACPcdcZ6Q/CU6lFgaELBFua",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feet On Land",
-        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 152658,
-      "name": "Feet On Land",
-      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to Fazoland",
         "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 179444,
       "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
       "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feet On Land",
+        "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 152658,
+      "name": "Feet On Land",
+      "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
     },
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chicken Talkin Bastard",
-        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
       },
       "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Ain't Easy",
-      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
+      "duration_ms": 128951,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
+        "name": "Chicken Talkin Bastard",
+        "url": "https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R"
       },
       "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 128951,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
+      "duration_ms": 215000,
+      "name": "Ain't Easy",
+      "url": "https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um"
     },
     {
       "added_at": null,
@@ -683,42 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kween",
-        "url": "https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM"
-      },
-      "artists": [
-        {
-          "name": "Young M.A",
-          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4Ie1m1bVHwTsw1EQ1Sc4Ic"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "1 Chance",
-      "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
@@ -739,6 +703,42 @@
       "duration_ms": 229035,
       "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
       "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "1 Chance",
+      "url": "https://open.spotify.com/track/1qP1VkM7SizqG5psiSeBkz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kween",
+        "url": "https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM"
+      },
+      "artists": [
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4Ie1m1bVHwTsw1EQ1Sc4Ic"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sadetra Son",
-        "url": "https://open.spotify.com/album/6EA0460EzIdx2eNP6qmmvL"
-      },
-      "artists": [
-        {
-          "name": "Montana 700",
-          "url": "https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 171176,
-      "name": "Motion (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/2VXh0JUDiwbgpuAOvS8kqZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -987,8 +967,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+        "name": "Sadetra Son",
+        "url": "https://open.spotify.com/album/6EA0460EzIdx2eNP6qmmvL"
+      },
+      "artists": [
+        {
+          "name": "Montana 700",
+          "url": "https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 171176,
+      "name": "Motion (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2VXh0JUDiwbgpuAOvS8kqZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strictly For My Fans 2.0",
+        "url": "https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 153329,
-      "name": "Still Dangerous",
-      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
+      "duration_ms": 174043,
+      "name": "Feel This",
+      "url": "https://open.spotify.com/track/2QJXBol7qzL8PuNSCaR9W7"
     }
   ],
   "unique_name": "This Is G Herbo",

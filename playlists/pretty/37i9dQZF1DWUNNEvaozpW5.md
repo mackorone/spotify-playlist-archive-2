@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Siloé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,596 likes - 120 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,599 likes - 120 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 52 | [Vulnerable \(feat\. Dani Fernández\)](https://open.spotify.com/track/2bN4zr5UMnLhdByPFxMwl6) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Vulnerable \(feat\. Dani Fernández\)](https://open.spotify.com/album/6uipZskshJV6txPUJrTFu2) | 3:13 |
 | 53 | [Y volar \(con los Caligaris\)](https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ahora o nunca](https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD) | 3:09 |
 | 54 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
-| 55 | [Dolor y Gloria](https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Dolor y Gloria](https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL) | 3:12 |
-| 56 | [Cuarenta Mil](https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Gigante](https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO) | 3:38 |
+| 55 | [Cuarenta Mil](https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Gigante](https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO) | 3:38 |
+| 56 | [Dolor y Gloria](https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Dolor y Gloria](https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL) | 3:12 |
 | 57 | [Búfalo](https://open.spotify.com/track/50CWGGcyq8U3NPYl9NeYHv) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Búfalo](https://open.spotify.com/album/4IoeA6uEqGsb10MVL6Dzt2) | 3:24 |
 | 58 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 |
 | 59 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
@@ -121,12 +121,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 111 | [Agradecido](https://open.spotify.com/track/4WfsIWwYMxMZhezMSUQZQW) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un Palo Al Agua \(20 Grandes Canciones\)](https://open.spotify.com/album/1XcBGMLrcNXMHukhrRNHCq) | 4:33 |
 | 112 | [Abrázame](https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Metamorfosis\. En Directo Desde El Teatro Arriaga](https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr) | 5:29 |
 | 113 | [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 |
-| 114 | [A mis 50](https://open.spotify.com/track/0DzGpuc4mhTkygWnY1aAXa) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [A mis 50](https://open.spotify.com/album/7pOiadUFsi28OFOJSl2L44) | 3:17 |
-| 115 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 |
+| 114 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 |
+| 115 | [A mis 50](https://open.spotify.com/track/0DzGpuc4mhTkygWnY1aAXa) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [A mis 50](https://open.spotify.com/album/7pOiadUFsi28OFOJSl2L44) | 3:17 |
 | 116 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 |
 | 117 | [Quiero tener tu presencia](https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:40 |
 | 118 | [Punto de Colisión](https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd) | [Vértize](https://open.spotify.com/artist/6B5OYEBpxHyPNZmEx3XSJz), [Poncho K](https://open.spotify.com/artist/4fi2id2V1djZTVkPBLwaUz) | [Punto de Colisión](https://open.spotify.com/album/5TgxyfEFys8acyZHPAi4w8) | 4:02 |
-| 119 | [Estado 03](https://open.spotify.com/track/29tQbUZC1rCxHP7QPBGphX) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Estado 03](https://open.spotify.com/album/0HXp4htATr4ntYfQ29mTsa) | 4:01 |
-| 120 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 |
+| 119 | [Mundo imperfecto](https://open.spotify.com/track/7hlytak131AgmPYe8JsYws) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Mundo imperfecto](https://open.spotify.com/album/3TLiYmIWEXBfGyLBRd9cud) | 3:08 |
+| 120 | [Estado 03](https://open.spotify.com/track/29tQbUZC1rCxHP7QPBGphX) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Estado 03](https://open.spotify.com/album/0HXp4htATr4ntYfQ29mTsa) | 4:01 |
 
 Snapshot ID: `AAAAAPdZcckqHJlTvecksFaJTNd3/Gk0`

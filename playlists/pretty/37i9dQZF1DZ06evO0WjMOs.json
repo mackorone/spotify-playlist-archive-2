@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 56213,
+  "num_followers": 56229,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABvqAtocLHdsiSDxgx+WCPz",
+  "snapshot_id": "ajCSAAAAAAByW73mSUuXtp0BB/lb1E11",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House of the Rising Sun",
-        "url": "https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 188281,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 194278,
       "name": "When The World Stopped Moving",
       "url": "https://open.spotify.com/track/7JgDvGmgeKcdM633G1XAo9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House of the Rising Sun",
+        "url": "https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 188281,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL"
     },
     {
       "added_at": null,

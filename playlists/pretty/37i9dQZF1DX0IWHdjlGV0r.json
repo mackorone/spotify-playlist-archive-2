@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tony Boy",
-  "num_followers": 129453,
+  "num_followers": 129459,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        }
-      ],
-      "duration_ms": 211840,
-      "name": "2% (feat. Frah Quintale)",
-      "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
         "name": "ASTRO",
         "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
       },
@@ -427,6 +407,26 @@
     {
       "added_at": "2026-06-11 23:01:05",
       "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "duration_ms": 211840,
+      "name": "2% (feat. Frah Quintale)",
+      "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
         "name": "RYAN TED",
         "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
       },
@@ -439,26 +439,6 @@
       "duration_ms": 137999,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/1uT82ueY3VgRkN30shACCj"
-    },
-    {
-      "added_at": "2026-06-11 23:01:05",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "NSTASIA",
-          "url": "https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "IL CIELO NELLA STANZA (feat. NSTASIA)",
-      "url": "https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad"
     },
     {
       "added_at": "2026-06-11 23:01:05",
@@ -483,6 +463,26 @@
       "duration_ms": 200000,
       "name": "IO T\u2019O GIUR\u2019 (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
+    },
+    {
+      "added_at": "2026-06-11 23:01:05",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "NSTASIA",
+          "url": "https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "IL CIELO NELLA STANZA (feat. NSTASIA)",
+      "url": "https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad"
     },
     {
       "added_at": "2026-06-11 23:01:05",

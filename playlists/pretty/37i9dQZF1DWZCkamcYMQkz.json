@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 523237,
+  "num_followers": 523404,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Way Out West (OJC Remaster)",
-        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "I'm an Old Cowhand",
-      "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "Three Little Words",
         "url": "https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5"
       },
@@ -435,18 +419,38 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+        "name": "Way Out West (OJC Remaster)",
+        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 343120,
+      "name": "I'm an Old Cowhand",
+      "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Cheek To Cheek: The Complete Duet Recordings",
+        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 104360,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/65O89M7GMB8pA88VyxxJm7"
+      "duration_ms": 191053,
+      "name": "Oops!",
+      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -487,22 +491,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "You Stepped Out Of A Dream",
         "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
       },
@@ -519,22 +507,34 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Cheek To Cheek: The Complete Duet Recordings",
-        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "The More I See You - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Oops!",
-      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
+      "duration_ms": 104360,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/65O89M7GMB8pA88VyxxJm7"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 407533,
-      "name": "The More I See You - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+      "duration_ms": 250280,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "The Duke: The Columbia Years (1927-1962)",
-        "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
+        "name": "Dippin'",
+        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 183693,
-      "name": "Don't Get Around Much Anymore",
-      "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
+      "duration_ms": 491293,
+      "name": "Recado Bossa Nova - Remastered 2005/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Dippin'",
-        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+        "name": "The Duke: The Columbia Years (1927-1962)",
+        "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 491293,
-      "name": "Recado Bossa Nova - Remastered 2005/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS"
+      "duration_ms": 183693,
+      "name": "Don't Get Around Much Anymore",
+      "url": "https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Count Basie Swings - Joe Williams Sings",
-        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Alright, Okay, You Win",
-      "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "You Can't Lose with the Blues",
         "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
       },
@@ -779,6 +759,22 @@
       "duration_ms": 315586,
       "name": "Wonder Why",
       "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 256160,
+      "name": "Hay Burner",
+      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -835,22 +831,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 256160,
-      "name": "Hay Burner",
-      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Count Basie Swings - Joe Williams Sings",
+        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Alright, Okay, You Win",
+      "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 110933,
-      "name": "It's A Big Wide Wonderful World",
-      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "Didn\u2019t I Tell You So?",
         "url": "https://open.spotify.com/album/2qf2P1TV4lOkK4wZ1wxNvu"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 266413,
       "name": "Didn\u2019t I Tell You So?",
       "url": "https://open.spotify.com/track/4ufNRAVcnb2PqUadnWhXDW"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 110933,
+      "name": "It's A Big Wide Wonderful World",
+      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "The Cat Walk",
         "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 453800,
       "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
-        "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Quintet",
-          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
-        },
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "I Hear Music - Remastered",
-      "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
       },
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
+        "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
+        "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
+      },
+      "artists": [
+        {
+          "name": "George Shearing Quintet",
+          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
+        },
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "I Hear Music - Remastered",
+      "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
         "name": "The Modern Sound Of Betty Carter",
         "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 116320,
       "name": "Jazz (Ain't Nothin' But Soul)",
       "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
-        "name": "Thedia",
-        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 303163,
-      "name": "Thedia",
-      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1251,6 +1235,22 @@
       "duration_ms": 316987,
       "name": "Two Fish - Alt Take",
       "url": "https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Thedia",
+        "url": "https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 303163,
+      "name": "Thedia",
+      "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
-        "name": "Dimples",
-        "url": "https://open.spotify.com/album/5cC7x4dTPPH5jPluPfPvKA"
-      },
-      "artists": [
-        {
-          "name": "Dida Pelled",
-          "url": "https://open.spotify.com/artist/0glvBhmWig9yQPSojyqhxe"
-        }
-      ],
-      "duration_ms": 211692,
-      "name": "Dimples",
-      "url": "https://open.spotify.com/track/0WvEPAbHsfTa3SSUXiRu3D"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
         "name": "Far Away Lands",
         "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 312626,
       "name": "A Dab Of This And That",
       "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
+        "name": "Dimples",
+        "url": "https://open.spotify.com/album/5cC7x4dTPPH5jPluPfPvKA"
+      },
+      "artists": [
+        {
+          "name": "Dida Pelled",
+          "url": "https://open.spotify.com/artist/0glvBhmWig9yQPSojyqhxe"
+        }
+      ],
+      "duration_ms": 211692,
+      "name": "Dimples",
+      "url": "https://open.spotify.com/track/0WvEPAbHsfTa3SSUXiRu3D"
     },
     {
       "added_at": "2026-05-29 09:14:40",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-05-29 09:14:40",
       "album": {
+        "name": "Blues Vaccine",
+        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "duration_ms": 360306,
+      "name": "Blues Vaccine",
+      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
+    },
+    {
+      "added_at": "2026-05-29 09:14:40",
+      "album": {
         "name": "Impressions of Evans",
         "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 268066,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
-    },
-    {
-      "added_at": "2026-05-29 09:14:40",
-      "album": {
-        "name": "Blues Vaccine",
-        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
-        }
-      ],
-      "duration_ms": 360306,
-      "name": "Blues Vaccine",
-      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
     },
     {
       "added_at": "2026-05-29 09:14:40",

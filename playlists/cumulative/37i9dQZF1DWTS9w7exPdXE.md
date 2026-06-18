@@ -4,7 +4,7 @@
 
 > Nederpop en Volkspop meezingers\. Cover: Samuel Welten \(<a href="spotify:artist:37i9dQZF1DXaxwXKCsImRe">RADAR BNLX</a>\-artiest\)
 
-126 songs - 6 hr 36 min
+127 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Gina](https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gina](https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi) | 3:38 | 2025-06-06 |  |
 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 | 2025-06-06 |  |
 | [Haal Alles Uit Het Leven](https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Haal Alles Uit Het Leven](https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a) | 2:58 | 2025-06-06 |  |
-| [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 | 2025-06-06 |  |
+| [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 | 2025-06-06 | 2026-06-18 |
 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/31kf5nGp5YIcbNgqtRTmib) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:10 | 2026-01-27 | 2026-02-23 |
 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 | 2025-06-06 |  |
 | [Helena 2.0](https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Helena 2.0](https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf) | 3:20 | 2025-06-06 |  |
@@ -76,6 +76,7 @@
 | [Kali \- Kali](https://open.spotify.com/track/4eyGhxR256IUS9BQbuGEGb) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali](https://open.spotify.com/album/3s4nZfdxoo3GdaRvQf2dqA) | 3:26 | 2025-12-10 | 2026-03-24 |
 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 | 2025-12-10 |  |
 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 | 2025-12-10 | 2026-03-11 |
+| [Kleine Vogel](https://open.spotify.com/track/5uqIZbI2Y5skxb6jzyY6TG) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/4WWwBl1fXwJ4SjOxE34eCp) | 3:04 | 2026-06-17 |  |
 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 | 2025-06-06 |  |
 | [Koning Van De Nacht](https://open.spotify.com/track/45GtO4MNJ7ZhTMnGqswDq2) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Koning Van De Nacht](https://open.spotify.com/album/5LYS3smWVyxcWYPus1mbuk) | 2:44 | 2025-06-06 | 2026-02-05 |
 | [Laat Me](https://open.spotify.com/track/76R6fJE47MpXBpAGjkj0Tf) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Ademloos](https://open.spotify.com/album/6qNdI3RbtbSXM7rmoCmHGy) | 2:55 | 2025-06-06 | 2026-01-28 |

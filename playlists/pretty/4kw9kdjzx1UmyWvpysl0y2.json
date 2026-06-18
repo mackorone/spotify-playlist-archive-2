@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123772,
+  "num_followers": 123757,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVefPQ+fPsZdqohSmI7wp4epqjruKd",
+  "snapshot_id": "AAAVeqym+6/D9KKvdDwJDLIYzu42FqNj",
   "tracks": [
+    {
+      "added_at": "2026-06-17 15:18:37",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/2yNQqnLlFhN1hIltm6tDAC"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Simona Shao",
+          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/64L1sPpYqPRz5hrV0tw4DJ"
+    },
     {
       "added_at": "2026-06-15 15:45:53",
       "album": {

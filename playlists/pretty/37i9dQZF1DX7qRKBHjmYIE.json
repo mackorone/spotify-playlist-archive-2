@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con RaiNao.",
-  "num_followers": 743844,
+  "num_followers": 743795,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "DUE\u00d1O DEL CIELO",
-        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 138926,
-      "name": "NIRVANA",
-      "url": "https://open.spotify.com/track/0s4LK91rXYM52FQiAI50x6"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "Canciones en Mi",
         "url": "https://open.spotify.com/album/4l7m9k9na3sm2sR3BYSTsE"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 142724,
       "name": "D\u00f3nde Est\u00e1s!",
       "url": "https://open.spotify.com/track/42hWyKlSWHMLPcvl8nkrfC"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 138926,
+      "name": "NIRVANA",
+      "url": "https://open.spotify.com/track/0s4LK91rXYM52FQiAI50x6"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "ALIENS",
-        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "ALIENS",
-      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr"
       },
@@ -847,18 +827,22 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "VETIVER Y AMARETTO",
-        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
       },
       "artists": [
         {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 242857,
-      "name": "VETIVER Y AMARETTO",
-      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
+      "duration_ms": 170805,
+      "name": "ALIENS",
+      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -899,6 +883,22 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
         "name": "La Noche Que No Hab\u00eda Uber",
         "url": "https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "no te vayas",
-        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
-      },
-      "artists": [
-        {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "no te vayas",
-      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "ma\u00f1ana, temprano",
         "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 211680,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
+        "name": "no te vayas",
+        "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "no te vayas",
+      "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "Mil Noches",
-        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 164584,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "tqm <3",
         "url": "https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 156426,
       "name": "tqm <3",
       "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
+        "name": "Mil Noches",
+        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 164584,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "Cenizas En El Desierto",
-        "url": "https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 204265,
-      "name": "Cenizas En El Desierto",
-      "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "ColdS3x",
         "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
+        "name": "Cenizas En El Desierto",
+        "url": "https://open.spotify.com/album/0EST70rsJHUzaSJEpcb32B"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 204265,
+      "name": "Cenizas En El Desierto",
+      "url": "https://open.spotify.com/track/4gAaHL8HR58hvHXrvSh5sY"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
         "name": "Mi Casita",
         "url": "https://open.spotify.com/album/1liyupp5i1sa8MR0epkUCr"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 249579,
       "name": "Mi Casita",
       "url": "https://open.spotify.com/track/5MQPlCMoRXxIg1waL0Keo8"
+    },
+    {
+      "added_at": "2026-05-29 18:58:50",
+      "album": {
+        "name": "PRISIONERO PERFECTO",
+        "url": "https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 204976,
+      "name": "PRISIONERO PERFECTO",
+      "url": "https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "PRISIONERO PERFECTO",
-        "url": "https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 204976,
-      "name": "PRISIONERO PERFECTO",
-      "url": "https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE"
-    },
-    {
-      "added_at": "2026-05-29 18:58:50",
-      "album": {
         "name": "06199",
         "url": "https://open.spotify.com/album/6sJilcDMJaudLckAxxMxON"
       },
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "otro d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
+        "name": "cruz",
+        "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
         }
       ],
-      "duration_ms": 151264,
-      "name": "otro d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
+      "duration_ms": 244356,
+      "name": "cruz",
+      "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
     },
     {
       "added_at": "2026-05-29 18:58:50",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2026-05-29 18:58:50",
       "album": {
-        "name": "cruz",
-        "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
+        "name": "otro d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
         }
       ],
-      "duration_ms": 244356,
-      "name": "cruz",
-      "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
+      "duration_ms": 151264,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
     },
     {
       "added_at": "2026-05-29 18:58:50",

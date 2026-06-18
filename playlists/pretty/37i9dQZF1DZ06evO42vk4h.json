@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4195,
+  "num_followers": 4196,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABPXp10MiJqOMth/Kj74EDK",
+  "snapshot_id": "ajCSAAAAAABqQCDV+oNYKmi6ndSFuI3u",
   "tracks": [
     {
       "added_at": null,
@@ -728,17 +728,37 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Mthunzi",
-          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
         },
         {
-          "name": "MaWhoo",
-          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Indlela - Radio Edit",
-      "url": "https://open.spotify.com/track/02VF0pEmhP3OcLLpruBQ1O"
+      "duration_ms": 412929,
+      "name": "Angeke - Club Mix",
+      "url": "https://open.spotify.com/track/535R2UPAt0DvRCqd4syeIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Akhiwe",
+        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Bayathetha",
+      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
     },
     {
       "added_at": null,
@@ -795,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akhiwe",
-        "url": "https://open.spotify.com/album/7iOIG58ngKhpw4ucTtYUFR"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Zonke",
-          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Bayathetha",
-      "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amandla",
         "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
       },
@@ -832,17 +832,17 @@
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
         },
         {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
         }
       ],
-      "duration_ms": 412929,
-      "name": "Angeke - Club Mix",
-      "url": "https://open.spotify.com/track/535R2UPAt0DvRCqd4syeIR"
+      "duration_ms": 197142,
+      "name": "Indlela - Radio Edit",
+      "url": "https://open.spotify.com/track/02VF0pEmhP3OcLLpruBQ1O"
     },
     {
       "added_at": null,
@@ -927,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sizophelelaphi",
-        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
       },
       "artists": [
         {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
         },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         }
       ],
-      "duration_ms": 259285,
-      "name": "Sizophelelaphi",
-      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
+      "duration_ms": 249983,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
     },
     {
       "added_at": null,
@@ -967,22 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagos to Jozi",
-        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+        "name": "Sizophelelaphi",
+        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
       },
       "artists": [
         {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
         },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         }
       ],
-      "duration_ms": 249983,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
+      "duration_ms": 259285,
+      "name": "Sizophelelaphi",
+      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
     },
     {
       "added_at": null,
@@ -1263,30 +1263,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pakinou (Remix)",
-        "url": "https://open.spotify.com/album/2fir7nH0x8BcWInU28seKW"
+        "name": "Next Gen",
+        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
       },
       "artists": [
-        {
-          "name": "REINE ABLAA",
-          "url": "https://open.spotify.com/artist/5zI8u3o0qt5REsgbywThko"
-        },
-        {
-          "name": "Adeba Konan",
-          "url": "https://open.spotify.com/artist/3c4MzIYdt28h4BgC5PCiHF"
-        },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+          "name": "Shane907",
+          "url": "https://open.spotify.com/artist/2JrN19KmNsyT3BWdEEbFeX"
+        },
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        },
+        {
+          "name": "Banzo SA",
+          "url": "https://open.spotify.com/artist/5aF7WmpeZdpOQbjowyM7m4"
+        },
+        {
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+        },
+        {
+          "name": "Mr Maker",
+          "url": "https://open.spotify.com/artist/3R7WFPYoKY0XnIOfVP5kfO"
         }
       ],
-      "duration_ms": 221415,
-      "name": "Pakinou - Remix",
-      "url": "https://open.spotify.com/track/55PRpaKqYP3iLMIKS6gADm"
+      "duration_ms": 237876,
+      "name": "Izitha (feat. Banzo SA, Ze2 & Mr Maker) - Radio Edit",
+      "url": "https://open.spotify.com/track/3y5lZAbp5wJbU36ZOkIoG0"
     }
   ],
   "unique_name": "This Is OSKIDO",

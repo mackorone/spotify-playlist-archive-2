@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12622,
+  "num_followers": 12625,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
-      },
-      "artists": [
-        {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "You Are Spring",
-      "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
-    },
-    {
-      "added_at": "2026-05-13 08:52:28",
-      "album": {
         "name": "A-TEEN Part. 2",
         "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 204942,
       "name": "I'II be your star",
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+    },
+    {
+      "added_at": "2026-05-13 08:52:28",
+      "album": {
+        "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
+      },
+      "artists": [
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "You Are Spring",
+      "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
+        "name": "Friends to Lovers",
+        "url": "https://open.spotify.com/album/3pQ3m6kI9K3N47rXgQkeNQ"
+      },
+      "artists": [
+        {
+          "name": "B.D.U",
+          "url": "https://open.spotify.com/artist/1SRmmtrnAo0UK0NUROJRjz"
+        }
+      ],
+      "duration_ms": 176203,
+      "name": "Friends to Lovers",
+      "url": "https://open.spotify.com/track/7mH3OUMmYMRUNW8kNXyKtU"
+    },
+    {
+      "added_at": "2026-05-13 08:52:28",
+      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2026-05-13 08:52:28",
       "album": {
-        "name": "Friends to Lovers",
-        "url": "https://open.spotify.com/album/3pQ3m6kI9K3N47rXgQkeNQ"
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90"
       },
       "artists": [
         {
-          "name": "B.D.U",
-          "url": "https://open.spotify.com/artist/1SRmmtrnAo0UK0NUROJRjz"
+          "name": "Wine Loop",
+          "url": "https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj"
         }
       ],
-      "duration_ms": 176203,
-      "name": "Friends to Lovers",
-      "url": "https://open.spotify.com/track/7mH3OUMmYMRUNW8kNXyKtU"
+      "duration_ms": 202546,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
     },
     {
       "added_at": "2026-05-13 08:52:28",
@@ -851,22 +867,6 @@
       "duration_ms": 213510,
       "name": "The spring you never knew (with Yoojongkwon)",
       "url": "https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk"
-    },
-    {
-      "added_at": "2026-05-13 08:52:28",
-      "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90"
-      },
-      "artists": [
-        {
-          "name": "Wine Loop",
-          "url": "https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
     }
   ],
   "unique_name": "\uc378 !",

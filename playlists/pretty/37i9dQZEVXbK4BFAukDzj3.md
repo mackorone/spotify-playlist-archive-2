@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,188 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,198 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 24 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 25 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
 | 26 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
-| 27 | [Punta cana \(feat\. ADF Antje, Trapmoneybiggie & Carel\)](https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Trapmoneybiggie](https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX) | [Punta cana \(feat\. ADF Antje, Trapmoneybiggie & Carel\)](https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf) | 2:26 |
+| 27 | [Punta cana \(feat\. ADF Antje, Trapmoneybiggie & Carel\)](https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Trapmoneybiggie](https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX) | [Punta cana \(feat\. ADF Antje, Trapmoneybiggie & Carel\)](https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf) | 2:28 |
 | 28 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 |
 | 29 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
 | 30 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
 | 50 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 |
 
-Snapshot ID: `McTKMAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `McYZWAAAAAAAAAAAAAAAAAAAAAAAAGVu`

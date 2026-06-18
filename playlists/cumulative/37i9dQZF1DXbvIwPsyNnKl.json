@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 159056,
       "name": "BOO!",
       "url": "https://open.spotify.com/track/1Z7Go4QX80DN2Gcs4lRtpt"
@@ -5669,6 +5669,28 @@
     },
     {
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/44L94PDQz4iu3sB1Ov62z0"
+      },
+      "artists": [
+        {
+          "name": "38 Senze",
+          "url": "https://open.spotify.com/artist/2yDkISNGmdv2AtZWLoWpnn"
+        },
+        {
+          "name": "CK YG",
+          "url": "https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2ARK16QTVv1gcwqCyInX5G"
+    },
+    {
+      "album": {
         "name": "Naglaho",
         "url": "https://open.spotify.com/album/79Csoc5khpXUFB5zsEtypi"
       },
@@ -5846,7 +5868,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 150927,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/58o4g28FBSvEGzWbnLkDBl"
@@ -6690,6 +6712,24 @@
       "duration_ms": 192000,
       "name": "Pwede Ba",
       "url": "https://open.spotify.com/track/4W0gc9ndREnXogNsOCirF9"
+    },
+    {
+      "album": {
+        "name": "Pwede Ba",
+        "url": "https://open.spotify.com/album/5xKt52EmiM8glPVWFY0YcG"
+      },
+      "artists": [
+        {
+          "name": "Matthaios",
+          "url": "https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Pwede Ba",
+      "url": "https://open.spotify.com/track/3X5xIgaLUNMHfApN8km3yi"
     },
     {
       "album": {

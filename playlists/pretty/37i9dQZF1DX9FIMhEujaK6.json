@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 669412,
+  "num_followers": 669618,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -739,30 +739,6 @@
     {
       "added_at": "2026-05-29 12:22:55",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
-      },
-      "artists": [
-        {
-          "name": "Across Boundaries",
-          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
-        },
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
-        }
-      ],
-      "duration_ms": 384007,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
-    },
-    {
-      "added_at": "2026-05-29 12:22:55",
-      "album": {
         "name": "Karibu",
         "url": "https://open.spotify.com/album/0q7npq36aBv8f5C2SZzhbJ"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 197619,
       "name": "Howl - Chill Mix",
       "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
+    },
+    {
+      "added_at": "2026-05-29 12:22:55",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
+      },
+      "artists": [
+        {
+          "name": "Across Boundaries",
+          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
+        },
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Locklead",
+          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+        }
+      ],
+      "duration_ms": 384007,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
     },
     {
       "added_at": "2026-05-29 12:22:55",
@@ -971,22 +971,18 @@
     {
       "added_at": "2026-05-29 12:22:55",
       "album": {
-        "name": "Not Enough",
-        "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
+        "name": "Have U",
+        "url": "https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h"
       },
       "artists": [
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Haile Supreme",
-          "url": "https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R"
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
         }
       ],
-      "duration_ms": 222534,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
+      "duration_ms": 161614,
+      "name": "Have U",
+      "url": "https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B"
     }
   ],
   "unique_name": "Ibiza Sunset",

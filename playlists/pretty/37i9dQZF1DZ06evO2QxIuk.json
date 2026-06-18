@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 374755,
+  "num_followers": 374778,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAD09c650Zs9DM2dzUiQIwAS",
+  "snapshot_id": "ajCSAAAAAABAF6sfN5h+cVMG7PlkcHAt",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head To The Sky",
-        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 311002,
-      "name": "Keep Your Head to the Sky",
-      "url": "https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv"
+      "duration_ms": 212484,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        "name": "Head To The Sky",
+        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 212484,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA"
+      "duration_ms": 311002,
+      "name": "Keep Your Head to the Sky",
+      "url": "https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Open Our Eyes",
-        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Mighty Mighty",
-      "url": "https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 316304,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/1TtWRtu117MTLAxM0LR7PY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Our Eyes",
+        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 183030,
+      "name": "Mighty Mighty",
+      "url": "https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Head To The Sky",
+        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 300017,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illumination",
         "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 276600,
       "name": "The Way You Move (feat. Kenny G)",
       "url": "https://open.spotify.com/track/39h3z023DlqOR9dFUqkVik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head To The Sky",
-        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 300017,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 277543,
+      "name": "I've Had Enough",
+      "url": "https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illumination",
         "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 467733,
       "name": "Show Me the Way (feat. Raphael Saadiq)",
       "url": "https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277543,
-      "name": "I've Had Enough",
-      "url": "https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo"
     },
     {
       "added_at": null,

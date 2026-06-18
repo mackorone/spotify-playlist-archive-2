@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 260496,
+  "num_followers": 260524,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 163559,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 198640,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 163559,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "talk to me",
-        "url": "https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b"
-      },
-      "artists": [
-        {
-          "name": "starfall",
-          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "talk to me",
-      "url": "https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "dishonesty",
         "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 179216,
       "name": "dishonesty",
       "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "talk to me",
+        "url": "https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "talk to me",
+      "url": "https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1303,6 +1303,50 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "sad face :(",
+        "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 208051,
+      "name": "sad face :(",
+      "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "the asia tour: blooming season ep",
+        "url": "https://open.spotify.com/album/5QPN39fT4yD5joAeXKWQam"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        },
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "duration_ms": 121795,
+      "name": "colors",
+      "url": "https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "my love my love my love",
         "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
       },
@@ -1339,50 +1383,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "the asia tour: blooming season ep",
-        "url": "https://open.spotify.com/album/5QPN39fT4yD5joAeXKWQam"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        },
-        {
-          "name": "John Michael Howell",
-          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
-        }
-      ],
-      "duration_ms": 121795,
-      "name": "colors",
-      "url": "https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
-        "name": "sad face :(",
-        "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 208051,
-      "name": "sad face :(",
-      "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "Space Shuttle No.8",
         "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
       },
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "stay with the ocean, i'll find you",
-        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+        "name": "Sexy Goodbye",
+        "url": "https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK"
       },
       "artists": [
         {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
         }
       ],
-      "duration_ms": 199380,
-      "name": "i hope my cat loves me",
-      "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
+      "duration_ms": 206293,
+      "name": "Sexy Goodbye",
+      "url": "https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "Sexy Goodbye",
-        "url": "https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK"
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
       },
       "artists": [
         {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
         }
       ],
-      "duration_ms": 206293,
-      "name": "Sexy Goodbye",
-      "url": "https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5"
+      "duration_ms": 199380,
+      "name": "i hope my cat loves me",
+      "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "For No Reason",
-        "url": "https://open.spotify.com/album/0YxfTVkwTEk8XiRyC6G2WQ"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
       "artists": [
         {
-          "name": "YA\u00d8",
-          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 195133,
-      "name": "For No Reason",
-      "url": "https://open.spotify.com/track/6AFUs8A7itwJ2BF0Q8xXnW"
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     }
   ],
   "unique_name": "tapioca",

@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 817647,
+  "num_followers": 817719,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Scars - Acoustic Version",
+      "url": "https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
         "name": "Ordinary Man (feat. Elton John)",
         "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 301730,
       "name": "Ordinary Man (feat. Elton John)",
       "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Scars - Acoustic Version",
-      "url": "https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M"
     },
     {
       "added_at": "2026-03-27 04:00:05",

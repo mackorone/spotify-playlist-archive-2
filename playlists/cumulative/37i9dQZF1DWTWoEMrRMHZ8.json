@@ -3077,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Matchola - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172779,
+      "name": "BARRIL DOBRADO - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
+    },
+    {
+      "album": {
         "name": "Bate Folha",
         "url": "https://open.spotify.com/album/6nN1gMK31AKWMf974PHkIV"
       },
@@ -22386,7 +22404,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 165543,
       "name": "Tua",
       "url": "https://open.spotify.com/track/7mQd6u3LBfpiRme11Pa4Yr"

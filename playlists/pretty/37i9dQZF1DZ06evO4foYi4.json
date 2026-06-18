@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55707,
+  "num_followers": 55719,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAA5nqJSh1VzZRfQLwEfz4r1",
+  "snapshot_id": "ajCSAAAAAAD+BnpiqCipY9hNmT/Q7bOS",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+        "name": "Tiempos Violentos (feat. Mon Laferte)",
+        "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
       },
       "artists": [
         {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 229960,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr"
+      "duration_ms": 237029,
+      "name": "Tiempos Violentos (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
     },
     {
       "added_at": null,
@@ -327,22 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Violentos (feat. Mon Laferte)",
-        "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 237029,
-      "name": "Tiempos Violentos (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
+      "duration_ms": 229960,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 233426,
-      "name": "Somebody Like Me",
-      "url": "https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Vincent (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 195893,
       "name": "Birth In Reverse",
       "url": "https://open.spotify.com/track/3v47tb6hvbeb3dVOgYZUfP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 233426,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/4AL1LM9QhlfRE7vwVsRbta"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actor",
         "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 181733,
       "name": "Laughing with a Mouth of Blood",
       "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "Down And Out Downtown",
-      "url": "https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Vincent (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 214653,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "Down And Out Downtown",
+      "url": "https://open.spotify.com/track/4htB9ArZCpquXlXnkKjAgk"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "My Baby Wants A Baby",
-      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actor",
         "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 135040,
       "name": "Actor Out of Work",
       "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "My Baby Wants A Baby",
+      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 476077,
+  "num_followers": 476032,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Weathervanes",
         "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 374834,
       "name": "This Ain't It",
       "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Passage Du Desir",
-        "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
-      },
-      "artists": [
-        {
-          "name": "Johnny Blue Skies",
-          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
-        },
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "Right Kind of Dream",
-      "url": "https://open.spotify.com/track/4bvsXc61sKgQ8eqrb6Mqhr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Statues in the Garden (Arras)",
         "url": "https://open.spotify.com/album/4Cf7oXjw0tqlDEdAqqOlLM"
       },
@@ -823,6 +803,26 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Passage Du Desir",
+        "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
+      },
+      "artists": [
+        {
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "Right Kind of Dream",
+      "url": "https://open.spotify.com/track/4bvsXc61sKgQ8eqrb6Mqhr"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "reason to live",
         "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Tried to Tell You",
-        "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 218602,
-      "name": "Tried to Tell You",
-      "url": "https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Aquatic Flowers",
         "url": "https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 228720,
       "name": "Complex",
       "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Tried to Tell You",
+        "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "Tried to Tell You",
+      "url": "https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Oh Dear Brother",
-        "url": "https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ"
-      },
-      "artists": [
-        {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Oh Dear Brother",
-      "url": "https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "River Wider",
         "url": "https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 195213,
       "name": "River Wider",
       "url": "https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Oh Dear Brother",
+        "url": "https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ"
+      },
+      "artists": [
+        {
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Oh Dear Brother",
+      "url": "https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
-      },
-      "artists": [
-        {
-          "name": "Breakfield",
-          "url": "https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl"
-        }
-      ],
-      "duration_ms": 215759,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 280826,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
+      },
+      "artists": [
+        {
+          "name": "Breakfield",
+          "url": "https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl"
+        }
+      ],
+      "duration_ms": 215759,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Starting from Scratch",
-        "url": "https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk"
-      },
-      "artists": [
-        {
-          "name": "Carl Broemel",
-          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
-        }
-      ],
-      "duration_ms": 189425,
-      "name": "Starting from Scratch",
-      "url": "https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "I'm Not There",
         "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 243706,
       "name": "I'm Not There",
       "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Starting from Scratch",
+        "url": "https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk"
+      },
+      "artists": [
+        {
+          "name": "Carl Broemel",
+          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
+        }
+      ],
+      "duration_ms": 189425,
+      "name": "Starting from Scratch",
+      "url": "https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
-      },
-      "artists": [
-        {
-          "name": "Willy Mason",
-          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Outwit the Devil",
-      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Ten Years of It",
         "url": "https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 209480,
       "name": "The Offer",
       "url": "https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
+      },
+      "artists": [
+        {
+          "name": "Willy Mason",
+          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Outwit the Devil",
+      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
     },
     {
       "added_at": "2025-02-07 05:00:32",

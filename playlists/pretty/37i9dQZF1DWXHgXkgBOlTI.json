@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: CASIOPEA",
-  "num_followers": 32979,
+  "num_followers": 32982,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "MELODICA",
-        "url": "https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3"
-      },
-      "artists": [
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        },
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        }
-      ],
-      "duration_ms": 400106,
-      "name": "Lamp (feat. Nujabes)",
-      "url": "https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU"
-    },
-    {
-      "added_at": "2026-04-28 15:00:59",
-      "album": {
         "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
         "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 427000,
       "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
       "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
+    },
+    {
+      "added_at": "2026-04-28 15:00:59",
+      "album": {
+        "name": "MELODICA",
+        "url": "https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3"
+      },
+      "artists": [
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        },
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        }
+      ],
+      "duration_ms": 400106,
+      "name": "Lamp (feat. Nujabes)",
+      "url": "https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "SET FREE",
-        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "The Piano",
-      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
-    },
-    {
-      "added_at": "2026-04-28 15:00:59",
-      "album": {
         "name": "Ordinary Landscape",
         "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 275000,
       "name": "Tailwind",
       "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
+    },
+    {
+      "added_at": "2026-04-28 15:00:59",
+      "album": {
+        "name": "SET FREE",
+        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "The Piano",
+      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
     },
     {
       "added_at": "2026-04-28 15:00:59",

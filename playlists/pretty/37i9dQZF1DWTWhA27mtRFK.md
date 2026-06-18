@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,052 likes - 65 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,132 likes - 65 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 주니\(JUNNY\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,446 likes - 53 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,459 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

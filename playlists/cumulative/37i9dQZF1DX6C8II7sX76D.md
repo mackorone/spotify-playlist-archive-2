@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-379 songs - 19 hr 18 min
+380 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-12-12 | 2024-08-24 |
 | [Groove District](https://open.spotify.com/track/7Kv0yPSr550uUxbAwAhH01) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Groove District](https://open.spotify.com/album/3eUt4sKIp5GiNSh6JyMN2s) | 3:06 | 2022-03-25 | 2022-07-29 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-09-06 | 2025-06-26 |
+| [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 3:08 | 2026-06-17 |  |
 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 | 2021-12-03 | 2022-07-29 |
 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 | 2021-12-03 | 2022-04-19 |
 | [Help I'm Alive \- BYNX Rework](https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn) | [Help I'm Alive \(BYNX Rework\)](https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f) | 2:49 | 2026-05-01 |  |
@@ -224,7 +225,7 @@
 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 | 2022-11-30 | 2023-08-07 |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-06-16 | 2024-01-01 |
 | [MIDNIGHT](https://open.spotify.com/track/2lCPDg2EWErPYdO3ItPUdH) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/0xOs1J6MzsKZpf2io1FoXG) | 2:02 | 2022-06-16 | 2022-07-29 |
-| [Mimosa 2000](https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [27 Anos Nacional](https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW) | 2:20 | 2025-11-07 |  |
+| [Mimosa 2000](https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [27 Anos Nacional](https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW) | 2:20 | 2025-11-07 | 2026-06-18 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-04 | 2023-10-12 |
 | [Miss You \- Bonus Track](https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 3:26 | 2023-10-11 | 2024-04-19 |
 | [moment](https://open.spotify.com/track/2JKIYl8KaAMzOR1dIzEO5f) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4X2vOIggOwcX7BFIH0xqng) | 2:09 | 2021-12-03 | 2022-07-29 |

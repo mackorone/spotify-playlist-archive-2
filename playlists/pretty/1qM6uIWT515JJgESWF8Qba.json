@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 481,
+  "num_followers": 483,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAB6p/w5a4FIA9pQagNwH2WUuJsJ3kO",
+  "snapshot_id": "AAAB60nBir9HUH6BvJd5JiyRh+VTPYOR",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -975,6 +975,22 @@
       "duration_ms": 208733,
       "name": "Anfang unsrer Zeit",
       "url": "https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4"
+    },
+    {
+      "added_at": "2026-06-18 02:21:51",
+      "album": {
+        "name": "Freefalling",
+        "url": "https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Shack",
+          "url": "https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa"
+        }
+      ],
+      "duration_ms": 189295,
+      "name": "Freefalling",
+      "url": "https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ"
     }
   ],
   "unique_name": "Local Rock Bands",

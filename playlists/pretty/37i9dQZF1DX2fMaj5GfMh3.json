@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste pop songs. Cover: Olivia Rodrigo",
-  "num_followers": 100828,
+  "num_followers": 100822,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABByeFMzfVnBvbH1HdCaB5aVhRfz",
+  "snapshot_id": "AAAAAFRteetwNQtmcXLn9nV+SdygzJ33",
   "tracks": [
     {
       "added_at": "2026-06-15 11:22:44",
@@ -107,6 +107,30 @@
       "duration_ms": 198961,
       "name": "Would I Be Friends With Me?",
       "url": "https://open.spotify.com/track/2j6JmvPcRQiQtF567Oii1N"
+    },
+    {
+      "added_at": "2026-06-15 11:22:44",
+      "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
     },
     {
       "added_at": "2026-06-15 11:22:44",
@@ -223,30 +247,6 @@
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG"
-    },
-    {
-      "added_at": "2026-06-15 11:22:44",
-      "album": {
-        "name": "ICONIC BY MISTAKE",
-        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        },
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 177982,
-      "name": "ICONIC BY MISTAKE",
-      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
     },
     {
       "added_at": "2026-06-15 11:22:44",

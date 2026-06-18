@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 174 songs - 9 hr 54 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 180 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,5 +182,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 172 | [There Used to Be a Fire](https://open.spotify.com/track/1YA0YSeMnotxz7bEhK1qoK) | [For What You Burn](https://open.spotify.com/artist/4QvZTSqwTEZ0YQZuOPOKI6) | [There Used to Be a Fire](https://open.spotify.com/album/2wcvsM79Pk3JxgOrQvfpMU) | 2:01 |
 | 173 | [Torpor](https://open.spotify.com/track/6KPZncjd2Xq9tBTm1dr3N2) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Torpor](https://open.spotify.com/album/2a4PWeRKFl4YQlBPhCB05B) | 4:22 |
 | 174 | [fun fiction](https://open.spotify.com/track/56uH5sVVh4rCJEd1k00ZqX) | [Kiey](https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd), [CeCe Trương](https://open.spotify.com/artist/0We6FybaRNC3InZwnhiH2J) | [fun fiction](https://open.spotify.com/album/6BN0EwEZ1QrC9aFplflHj9) | 3:15 |
+| 175 | [Sungaze](https://open.spotify.com/track/4DlDhEPAaErihQVRKxDnDt) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti), [Tent](https://open.spotify.com/artist/0Gv2DlvET0fQVJ8jqLx7RC) | [Sungaze](https://open.spotify.com/album/1qJa4l53pWcXMiCwhDmPwD) | 3:36 |
+| 176 | [FELLNASEN](https://open.spotify.com/track/3du4buw4F5gQxZMu7OmTBA) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [FELLNASEN](https://open.spotify.com/album/0zqBXyuHmgU2tjYM8FNChR) | 2:46 |
+| 177 | [At Night I Can't Sleep](https://open.spotify.com/track/5gxGfL5rscXXIAY2zNF5wt) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [At Night I Can't Sleep](https://open.spotify.com/album/50WuhpuI4vInZocWZepGNu) | 2:37 |
+| 178 | [Another Cold Night in Chile](https://open.spotify.com/track/4U9wAy7SZrFtLoddShRllT) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Another Cold Night in Chile](https://open.spotify.com/album/7CKnc19vPdvtaZg1x1WZZr) | 3:32 |
+| 179 | [End Of The Summer](https://open.spotify.com/track/3cIOmGrYqik3qicTEZ3wKC) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [End Of The Summer](https://open.spotify.com/album/4xAZ0YAtbwiRG5HLptgEdW) | 4:44 |
+| 180 | [Red](https://open.spotify.com/track/1nHbcuZgDFlzl3nSzyKDP8) | [Traibal](https://open.spotify.com/artist/4i0IuCytfQc31TpUfEkHDH) | [Red](https://open.spotify.com/album/29Pgnwt520inhPBgYzKOy4) | 2:35 |
 
-Snapshot ID: `AAAVLlyrjl/VjH7RdlaoDjC7KjrTwxpn`
+Snapshot ID: `AAAVNLd6hCdod+Mf/wbOvo3qyF3CZ6Uo`

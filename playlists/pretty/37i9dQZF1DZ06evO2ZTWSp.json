@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 476480,
+  "num_followers": 476452,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADgmQdT+r4AmWy3/g3proyj",
+  "snapshot_id": "ajCSAAAAAAByxrACTwBWz+xg1FtlMffw",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 174156,
+      "name": "Happy 2 Be",
+      "url": "https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AM I THE DRAMA?",
         "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 204360,
       "name": "What's Goin On (feat. Lizzo)",
       "url": "https://open.spotify.com/track/5RpGHqlGHRTGWzNPBKW08D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 174156,
-      "name": "Happy 2 Be",
-      "url": "https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq"
     },
     {
       "added_at": null,

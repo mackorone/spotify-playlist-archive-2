@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96304,
+  "num_followers": 96305,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADa3S6umBOcFOzXZY/y8RHc",
+  "snapshot_id": "ajCSAAAAAAATBReNeVhWnPxQvJ+AMG8Y",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm"
+        "name": "Trimski",
+        "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
       },
       "artists": [
         {
@@ -148,13 +148,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 119965,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws"
+      "duration_ms": 182673,
+      "name": "Trimski",
+      "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trimski",
-        "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm"
       },
       "artists": [
         {
@@ -188,13 +188,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 182673,
-      "name": "Trimski",
-      "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
+      "duration_ms": 119965,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man (2015)",
+        "url": "https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 259472,
+      "name": "The Man (2015)",
+      "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "88GLAM RELOADED",
         "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 185316,
       "name": "Bali",
       "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man (2015)",
-        "url": "https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 259472,
-      "name": "The Man (2015)",
-      "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
     },
     {
       "added_at": null,

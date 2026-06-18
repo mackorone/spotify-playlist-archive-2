@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAAvYpLvAEvzeq1ir7MCOAb1",
+  "snapshot_id": "ajCSAAAAAACxNN1vyvH2rxlZnt7dHrS6",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 246304,
-      "name": "Seven Sticks of Dynamite",
-      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
+      "duration_ms": 224759,
+      "name": "Found Atlas",
+      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 224759,
-      "name": "Found Atlas",
-      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
+      "duration_ms": 246304,
+      "name": "Seven Sticks of Dynamite",
+      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Are All Insane",
+        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "We Are All Insane",
+      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 241499,
       "name": "Take A Chance On Me (feat. Jewel)",
       "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Are All Insane",
-        "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "We Are All Insane",
-      "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 249212,
-      "name": "Flagpole Sitta (feat. Elohim)",
-      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Table for One (feat. Elohim)",
         "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 278867,
       "name": "Table for One (feat. Elohim)",
       "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 249212,
+      "name": "Flagpole Sitta (feat. Elohim)",
+      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
     },
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 241609,
       "name": "Maniac (feat. Conor Mason of Nothing But Thieves)",
       "url": "https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
     }
   ],
   "unique_name": "This Is AWOLNATION",

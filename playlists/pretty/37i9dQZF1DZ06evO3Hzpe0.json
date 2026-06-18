@@ -1,12 +1,12 @@
 {
   "description": "This is Carl Carlton. The essential tracks, all in one playlist.",
-  "num_followers": 837,
+  "num_followers": 839,
   "original_name": "This Is Carl Carlton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADklW/Q2YvYg8R9VMAEkyzi",
+  "snapshot_id": "ajCSAAAAAABEp/wf1ThaBv8OjIX3qWdA",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 251226,
-      "name": "This Feeling\u2019s Rated X-tra",
-      "url": "https://open.spotify.com/track/26roeqrOoh8x55Dhn0EK06"
+      "duration_ms": 242693,
+      "name": "Don\u2019t You Wanna Make Love",
+      "url": "https://open.spotify.com/track/07G0J1Z8SPfZeIAZWx1QXS"
     },
     {
       "added_at": null,
@@ -123,18 +123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Way Love",
-        "url": "https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF"
+        "name": "Classic Shit (feat. Darryl J)",
+        "url": "https://open.spotify.com/album/7KN7e2uelEcRvvo98TA0kD"
       },
       "artists": [
         {
+          "name": "BANKKNOT P",
+          "url": "https://open.spotify.com/artist/3vRcNA61txR7YLC01dUwoK"
+        },
+        {
           "name": "Carl Carlton",
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        },
+        {
+          "name": "Darryl J",
+          "url": "https://open.spotify.com/artist/4J4HwYBtMIjXShTzt68YrR"
         }
       ],
-      "duration_ms": 149606,
-      "name": "Three Way Love",
-      "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
+      "duration_ms": 192500,
+      "name": "Classic Shit (feat. Darryl J)",
+      "url": "https://open.spotify.com/track/7eGrNYTDoHQBEwbLRPpELk"
     },
     {
       "added_at": null,
@@ -148,9 +156,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 242693,
-      "name": "Don\u2019t You Wanna Make Love",
-      "url": "https://open.spotify.com/track/07G0J1Z8SPfZeIAZWx1QXS"
+      "duration_ms": 251226,
+      "name": "This Feeling\u2019s Rated X-tra",
+      "url": "https://open.spotify.com/track/26roeqrOoh8x55Dhn0EK06"
     },
     {
       "added_at": null,
@@ -187,26 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classic Shit (feat. Darryl J)",
-        "url": "https://open.spotify.com/album/7KN7e2uelEcRvvo98TA0kD"
+        "name": "Three Way Love",
+        "url": "https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF"
       },
       "artists": [
         {
-          "name": "BANKKNOT P",
-          "url": "https://open.spotify.com/artist/3vRcNA61txR7YLC01dUwoK"
-        },
-        {
           "name": "Carl Carlton",
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        },
-        {
-          "name": "Darryl J",
-          "url": "https://open.spotify.com/artist/4J4HwYBtMIjXShTzt68YrR"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Classic Shit (feat. Darryl J)",
-      "url": "https://open.spotify.com/track/7eGrNYTDoHQBEwbLRPpELk"
+      "duration_ms": 149606,
+      "name": "Three Way Love",
+      "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 208678,
-      "name": "Things Ain't Always Been This Good",
-      "url": "https://open.spotify.com/track/4AlHAYIdsSHoVBEFOiT9tT"
+      "duration_ms": 378907,
+      "name": "Spend the Night",
+      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 378907,
-      "name": "Spend the Night",
-      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
+      "duration_ms": 208678,
+      "name": "Things Ain't Always Been This Good",
+      "url": "https://open.spotify.com/track/4AlHAYIdsSHoVBEFOiT9tT"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 219615,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold On a Little Longer",
         "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 201962,
       "name": "Hold On a Little Longer",
       "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 237009,
+      "name": "Free Fine and 21",
+      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 219615,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One More Minute",
         "url": "https://open.spotify.com/album/3jndkU4mOLfouW54RprLar"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 281826,
       "name": "One More Minute",
       "url": "https://open.spotify.com/track/6INAA0Qx3PKl0Y74Vrv5qH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 237009,
-      "name": "Free Fine and 21",
-      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
     },
     {
       "added_at": null,
@@ -547,6 +547,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "La La Song",
+        "url": "https://open.spotify.com/album/7o6QHeec9l9hR3vfL7PmUZ"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "La La Song",
+      "url": "https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 247355,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hellhound On My Trail: Songs Of Robert Johnson",
         "url": "https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex"
       },
@@ -571,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+        "name": "Selected Grooves, Vol. 1 (Special House Beats Selection)",
+        "url": "https://open.spotify.com/album/1bdvbSFluDFHNOtXWijZSl"
       },
       "artists": [
         {
@@ -580,25 +612,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 247355,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La La Song",
-        "url": "https://open.spotify.com/album/7o6QHeec9l9hR3vfL7PmUZ"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "La La Song",
-      "url": "https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV"
+      "duration_ms": 192000,
+      "name": "Bring down - Foggy Day Mix",
+      "url": "https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 194621,
       "name": "Release Soul - Long Island Mix",
       "url": "https://open.spotify.com/track/1ZkDqpq8ak5GQapv9BNJVx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selected Grooves, Vol. 1 (Special House Beats Selection)",
-        "url": "https://open.spotify.com/album/1bdvbSFluDFHNOtXWijZSl"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bring down - Foggy Day Mix",
-      "url": "https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ"
     },
     {
       "added_at": null,

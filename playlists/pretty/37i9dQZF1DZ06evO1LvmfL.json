@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 478043,
+  "num_followers": 478195,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAAmP5iB1H/ER94tlMdbMiwA",
+  "snapshot_id": "ajCSAAAAAAA1w5MtjmrDtRoXMFtT1eD4",
   "tracks": [
     {
       "added_at": null,
@@ -438,15 +438,11 @@
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 147702,
-      "name": "Are You Even Real (feat. Giv\u0113on)",
-      "url": "https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH"
+      "duration_ms": 159068,
+      "name": "She Loves the Rain",
+      "url": "https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x"
     },
     {
       "added_at": null,
@@ -514,11 +510,15 @@
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 159068,
-      "name": "She Loves the Rain",
-      "url": "https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x"
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lose Control (Alt. Versions)",
-        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Lose Control - Piano Version",
-      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bed on Fire (with Ingrid Andress)",
         "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 228507,
       "name": "Bed on Fire (with Ingrid Andress)",
       "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lose Control (Alt. Versions)",
+        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Lose Control - Piano Version",
+      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
     },
     {
       "added_at": null,

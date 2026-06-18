@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62301,
+  "num_followers": 62308,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAB7H2pigEgb/XoM8wuWxeZD",
+  "snapshot_id": "ajCSAAAAAABrtLi2yupAQXnNiFQWRe6X",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Into It",
-        "url": "https://open.spotify.com/album/4Trti87I17wUxMIymbKcZG"
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
       },
       "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        },
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 216865,
-      "name": "Wildside - feat. Joan Jett",
-      "url": "https://open.spotify.com/track/1zaXFoTfjdNpZyMHnlWGSj"
+      "duration_ms": 207320,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/0B1ZjLUvqgUW4wWM7AvkHA"
     },
     {
       "added_at": null,
@@ -243,18 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
+        "name": "Dream Into It",
+        "url": "https://open.spotify.com/album/4Trti87I17wUxMIymbKcZG"
       },
       "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 207320,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/0B1ZjLUvqgUW4wWM7AvkHA"
+      "duration_ms": 216865,
+      "name": "Wildside - feat. Joan Jett",
+      "url": "https://open.spotify.com/track/1zaXFoTfjdNpZyMHnlWGSj"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 174146,
-      "name": "Victim of Circumstance",
-      "url": "https://open.spotify.com/track/1xLQkXYNUY4sequtLRmGYD"
+      "duration_ms": 148520,
+      "name": "(I'm Gonna) Run Away",
+      "url": "https://open.spotify.com/track/5xa98AOYx4nY4yj0MF9AFX"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 148520,
-      "name": "(I'm Gonna) Run Away",
-      "url": "https://open.spotify.com/track/5xa98AOYx4nY4yj0MF9AFX"
+      "duration_ms": 174146,
+      "name": "Victim of Circumstance",
+      "url": "https://open.spotify.com/track/1xLQkXYNUY4sequtLRmGYD"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Rebel, Rebel",
-      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 239600,
       "name": "Little Liar",
       "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Rebel, Rebel",
+      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+        "name": "First Sessions",
+        "url": "https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 182800,
-      "name": "I Love Playin' With Fire",
-      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
+      "duration_ms": 161066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Sessions",
-        "url": "https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 161066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1"
+      "duration_ms": 182800,
+      "name": "I Love Playin' With Fire",
+      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Tulane",
-      "url": "https://open.spotify.com/track/7eHhkn6a1MTFKw4NkY3V61"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
         "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 199080,
       "name": "I Love You Love Me Love",
       "url": "https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/7eHhkn6a1MTFKw4NkY3V61"
     },
     {
       "added_at": null,

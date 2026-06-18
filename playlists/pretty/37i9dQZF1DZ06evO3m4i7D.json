@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2161,
+  "num_followers": 2160,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACiJRxbxG1yb3Vqd/P1Pegt",
+  "snapshot_id": "ajCSAAAAAAAj8+EPTiuaKu05CfZind+O",
   "tracks": [
     {
       "added_at": null,
@@ -475,34 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindersiza",
-        "url": "https://open.spotify.com/album/7o29FGbEditAKnp7mZgJxB"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "El Abelito",
-          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 153239,
-      "name": "Kindersiza",
-      "url": "https://open.spotify.com/track/3XjL23bwxQPkyD0SkjSnVP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prendo Un Gallo",
         "url": "https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L"
       },
@@ -527,6 +499,34 @@
       "duration_ms": 142138,
       "name": "Prendo Un Gallo",
       "url": "https://open.spotify.com/track/272dYrwFE76Io6riUpLugS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindersiza",
+        "url": "https://open.spotify.com/album/7o29FGbEditAKnp7mZgJxB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 153239,
+      "name": "Kindersiza",
+      "url": "https://open.spotify.com/track/3XjL23bwxQPkyD0SkjSnVP"
     },
     {
       "added_at": null,
@@ -719,30 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dicen Que Soy Belic\u00f3n",
-        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Dicen Que Soy Belic\u00f3n",
-      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TFS",
         "url": "https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 187297,
       "name": "Tirando Flow Sesh #9",
       "url": "https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dicen Que Soy Belic\u00f3n",
+        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Dicen Que Soy Belic\u00f3n",
+      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
     },
     {
       "added_at": null,
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 147141,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
+      "duration_ms": 226330,
+      "name": "Como Jordan - En Vivo",
+      "url": "https://open.spotify.com/track/1yjQtocovqKgWlHUeW9pKW"
     },
     {
       "added_at": null,
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 226330,
-      "name": "Como Jordan - En Vivo",
-      "url": "https://open.spotify.com/track/1yjQtocovqKgWlHUeW9pKW"
+      "duration_ms": 147141,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
     },
     {
       "added_at": null,

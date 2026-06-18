@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 330398,
+  "num_followers": 330380,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "A Work of Art (feat. Shavo of System of a Down)",
+        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "SHAVO",
+          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "A Work of Art",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 263947,
       "name": "Slaughterhouse (feat. Bryan Garris)",
       "url": "https://open.spotify.com/track/2ClgEn1FZxchrqRZ04JZzj"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "A Work of Art (feat. Shavo of System of a Down)",
-        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "SHAVO",
-          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "A Work of Art",
-      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Scoring The End Of The World",
-        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 212082,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "The Silver Scream",
         "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 249746,
       "name": "The American Nightmare",
       "url": "https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 212082,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 140816,
-      "name": "superdeadfriends",
-      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "The Catalyst",
         "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 213666,
       "name": "Damnation Flame",
       "url": "https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 140816,
+      "name": "superdeadfriends",
+      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "This Heathen Land",
-        "url": "https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K"
-      },
-      "artists": [
-        {
-          "name": "Green Lung",
-          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
-        }
-      ],
-      "duration_ms": 198877,
-      "name": "Maxine (Witch Queen)",
-      "url": "https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
         "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Skeleton",
-        "url": "https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw"
+        "name": "This Heathen Land",
+        "url": "https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K"
       },
       "artists": [
         {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
         }
       ],
-      "duration_ms": 203550,
-      "name": "Skeleton",
-      "url": "https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3"
+      "duration_ms": 198877,
+      "name": "Maxine (Witch Queen)",
+      "url": "https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1311,6 +1295,22 @@
       "duration_ms": 362033,
       "name": "THRILLER",
       "url": "https://open.spotify.com/track/7LopZ3UNl7NoG7atKmrSII"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Skeleton",
+        "url": "https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 203550,
+      "name": "Skeleton",
+      "url": "https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3"
     },
     {
       "added_at": "2025-10-27 20:26:25",

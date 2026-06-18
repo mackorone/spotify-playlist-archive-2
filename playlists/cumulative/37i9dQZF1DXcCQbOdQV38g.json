@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Kleine Vogel",
+        "url": "https://open.spotify.com/album/4WWwBl1fXwJ4SjOxE34eCp"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184007,
+      "name": "Kleine Vogel",
+      "url": "https://open.spotify.com/track/5uqIZbI2Y5skxb6jzyY6TG"
+    },
+    {
+      "album": {
         "name": "Laat Me Lekker Leven",
         "url": "https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q"
       },
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 195454,
       "name": "Zwoele Zomernachten",
       "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"

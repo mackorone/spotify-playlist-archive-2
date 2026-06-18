@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Olivia Rodrigo, KALEO og mörgum fleiri!
 
-11,134 songs - 24 day 21 hr 40 min
+11,135 songs - 24 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7299,7 +7299,7 @@
 | [Over](https://open.spotify.com/track/2LE78eBACgoZ7sPDiI5Baa) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Over](https://open.spotify.com/album/52ELpJ7bgF9bKBjHlk1uhL) | 3:01 | 2026-04-24 | 2026-05-01 |
 | [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 | 2025-11-28 | 2025-12-05 |
 | [Over \(feat\. Tom Odell\)](https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Over](https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK) | 3:49 | 2026-01-16 | 2026-01-23 |
-| [Over Again](https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Over Again](https://open.spotify.com/album/6KPkzK2684tAy9Lgw0vTmX) | 3:04 | 2026-06-12 |  |
+| [Over Again](https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Over Again](https://open.spotify.com/album/6KPkzK2684tAy9Lgw0vTmX) | 3:04 | 2026-06-12 | 2026-06-18 |
 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-25 | 2024-11-01 |
 | [Over mitt lik \(feat\. Molly Hammar\)](https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Skulle Bare Visst](https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv) | 2:43 | 2024-06-07 | 2024-06-14 |
 | [Over The Edge](https://open.spotify.com/track/44L4GLz2t3mvuCefeTMrXp) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Over The Edge](https://open.spotify.com/album/1r9BSpMARHBwe04UL6gkIf) | 2:19 | 2024-10-04 | 2024-10-11 |
@@ -9621,6 +9621,7 @@
 | [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 | 2026-04-03 | 2026-04-10 |
 | [The Morning After](https://open.spotify.com/track/34BQsr0YrWVQWYq3aPWHJz) | [SUNDAYS](https://open.spotify.com/artist/7MjONNGSFluldBu4xa0gYy) | [Giant Formula](https://open.spotify.com/album/4i3CTKFUVgEQ8q3GMuuaEL) | 4:15 | 2024-05-10 | 2024-05-13 |
 | [The Morning Sun](https://open.spotify.com/track/5j3c3iXhV0JVI6wz6iJXI8) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0) | [The Morning Sun](https://open.spotify.com/album/2tSKHQyNzJS8TCb0jZpq6h) | 2:34 | 2024-06-21 | 2024-06-28 |
+| [The Most Beautiful Lovesong](https://open.spotify.com/track/02SzelvEOwaq1YD1UtqjQh) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp), [Toussaint Chiza](https://open.spotify.com/artist/1wc53bAOil4C5PxhoT08dA) | [The Most Beautiful Lovesong](https://open.spotify.com/album/5ASHu5CVD0O9p5zYK7apBs) | 4:03 | 2026-06-12 |  |
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-11-15 | 2024-11-22 |
 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/1jZvywRaT7pNoFMVvaLoP5) | [Briley King](https://open.spotify.com/artist/4UwsufbUC2DUrErjxW3XU6), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Night The Lights Went Out In Georgia](https://open.spotify.com/album/2Y3bfuOSg8kDUHvTlSPrPP) | 4:16 | 2025-10-03 | 2025-10-10 |
 | [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 | 2025-10-03 | 2025-10-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 32097,
+  "num_followers": 32110,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADuvvlD2zsPg5KffAMoDmib",
+  "snapshot_id": "ajCSAAAAAABNIt2KYMzyWscAJNo7GV5m",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ME PORTO BONITO",
-        "url": "https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "ME PORTO BONITO",
-      "url": "https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "y no te miento",
         "url": "https://open.spotify.com/album/0P0v8BqncsRNHX18MhxoEE"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 183265,
       "name": "y no te miento",
       "url": "https://open.spotify.com/track/0w0xbENXslPfLz28ihe1fV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ME PORTO BONITO",
+        "url": "https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "ME PORTO BONITO",
+      "url": "https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Amor Que Duele",
-      "url": "https://open.spotify.com/track/72YHWAFpp6PTXlHsJ5wocb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "130",
         "url": "https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 183637,
       "name": "130",
       "url": "https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Amor Que Duele",
+      "url": "https://open.spotify.com/track/72YHWAFpp6PTXlHsJ5wocb"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Nadie Va Llorar",
-        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195311,
-      "name": "Aqui Nadie Va Llorar",
-      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Cruz",
         "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173568,
       "name": "Una Cruz",
       "url": "https://open.spotify.com/track/7EI3NvlzFohsgu0C418aJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqui Nadie Va Llorar",
+        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195311,
+      "name": "Aqui Nadie Va Llorar",
+      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
     },
     {
       "added_at": null,

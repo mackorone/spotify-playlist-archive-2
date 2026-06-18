@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,937 likes - 43 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,952 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 17 | [Angaar Bhangar Nai Rr](https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1) | [Madhur Milind Shinde](https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J) | [Angar Bhangar Nay Rr \- Single](https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg) | 3:37 |
 | 18 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
 | 19 | [Pailwaan](https://open.spotify.com/track/0m2ka0jFqUkfv32FI990AS) | [Brahmaa](https://open.spotify.com/artist/1XkpRyYwCOXr1nUlVSE8KU), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Pailwaan](https://open.spotify.com/album/3Zea6Fd6xXSBYGD5C8ckRG) | 3:57 |
-| 20 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Vishnupriya](https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7), [Sai Patil](https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
-| 21 | [Zapuk Zupuk \(From "Zapuk Zupuk"\)](https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [PATYA THE DOC](https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0) | [Zapuk Zupuk \(From "Zapuk Zupuk"\)](https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n) | 2:34 |
+| 20 | [Zapuk Zupuk \(From "Zapuk Zupuk"\)](https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [PATYA THE DOC](https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0) | [Zapuk Zupuk \(From "Zapuk Zupuk"\)](https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n) | 2:34 |
+| 21 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Vishnupriya](https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7), [Sai Patil](https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 | 22 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 |
 | 23 | [Mauli Mauli](https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lai Bhari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX) | 5:05 |
 | 24 | [Kombdi Palali \- From "Jatra"](https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 5:06 |

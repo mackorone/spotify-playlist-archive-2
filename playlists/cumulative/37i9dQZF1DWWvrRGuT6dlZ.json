@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: YQ Tan. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: SONG NING. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -27761,6 +27761,24 @@
     },
     {
       "album": {
+        "name": "\u6bcf\u5929\u6bcf\u5929\u6bcf\u5929",
+        "url": "https://open.spotify.com/album/359YLfW3Rf8yNW0YrOTchg"
+      },
+      "artists": [
+        {
+          "name": "Fishe \u6797\u96ea\u4eea",
+          "url": "https://open.spotify.com/artist/1S5Crklk39qbdMVAbA4IwH"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248323,
+      "name": "\u6bcf\u5929\u6bcf\u5929\u6bcf\u5929",
+      "url": "https://open.spotify.com/track/25pYxF4SWEJGe3FO7ZfjDE"
+    },
+    {
+      "album": {
         "name": "\u6c92\u4eba\u544a\u8a34\u6211",
         "url": "https://open.spotify.com/album/70nXkaVUEQ8XVHK1NWyV2R"
       },
@@ -27978,6 +27996,24 @@
       "duration_ms": 208064,
       "name": "\u807d\u5f97\u5230\u55ce",
       "url": "https://open.spotify.com/track/0rGw63k8A0iQ47JP7PXUGX"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u6735",
+        "url": "https://open.spotify.com/album/0q96VkOgV6caIG4o5qCmWg"
+      },
+      "artists": [
+        {
+          "name": "SONG NING",
+          "url": "https://open.spotify.com/artist/0HSetAKLsr5qfFODMMZUvo"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "\u82b1\u6735",
+      "url": "https://open.spotify.com/track/4OS0pN7t6VxzuA0HSbTPBk"
     },
     {
       "album": {

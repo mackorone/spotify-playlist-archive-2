@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 83806,
+  "num_followers": 83847,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAAHLyFgFavwDHUIUuqfpJGX",
+  "snapshot_id": "ajCSAAAAAAAAb/FyqeAxxvb7bDht7S58",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good To Me",
+        "url": "https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3"
+      },
+      "artists": [
+        {
+          "name": "Mykfresh",
+          "url": "https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR"
+        },
+        {
+          "name": "2RawQua",
+          "url": "https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 208583,
+      "name": "Good To Me",
+      "url": "https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -707,30 +731,6 @@
       "duration_ms": 165114,
       "name": "TexUS - Intro",
       "url": "https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good To Me",
-        "url": "https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3"
-      },
-      "artists": [
-        {
-          "name": "Mykfresh",
-          "url": "https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR"
-        },
-        {
-          "name": "2RawQua",
-          "url": "https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 208583,
-      "name": "Good To Me",
-      "url": "https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O"
     },
     {
       "added_at": null,

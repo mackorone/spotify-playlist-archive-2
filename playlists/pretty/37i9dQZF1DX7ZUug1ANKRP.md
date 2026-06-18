@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,855,661 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,855,896 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Take A Step Back](https://open.spotify.com/track/3MDgnjyoPGEFYBxpM6v1ay) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Take A Step Back](https://open.spotify.com/album/1kjf9ZpkgUR4MT6zNEppSC) | 2:58 |
 | 50 | [Walked Away](https://open.spotify.com/track/1k7SaOwbrIuGJZGXhCnoi8) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Walked Away](https://open.spotify.com/album/6cvgQwNKooq6BRqkHwV05v) | 2:54 |
 
-Snapshot ID: `AAAAAGVBrS9z9I/vFRJeMLoxnNGlvLfx`
+Snapshot ID: `AAAAAA+k2kaP1oDhFjCSsfohnzdYBCsO`

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72496,
+  "num_followers": 72497,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAD7dsBk8IqM1vkvmDxpImfF",
+  "snapshot_id": "ajCSAAAAAABAbJISQj+3DaLYaV9/yLw7",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Move It (Rapidin)",
         "url": "https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Word On The Street",
-        "url": "https://open.spotify.com/album/5z28qI3AWcvMNydkR2yl0Z"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Dr. Chaii",
-          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
-        }
-      ],
-      "duration_ms": 162727,
-      "name": "Word On The Street",
-      "url": "https://open.spotify.com/track/0GOnuCVhVzwqo1YXX7X63C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sparks (Turn Off Your Mind) (Atmozfears & Audiotricz Remix)",
         "url": "https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 169404,
       "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
       "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Word On The Street",
+        "url": "https://open.spotify.com/album/5z28qI3AWcvMNydkR2yl0Z"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Dr. Chaii",
+          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
+        }
+      ],
+      "duration_ms": 162727,
+      "name": "Word On The Street",
+      "url": "https://open.spotify.com/track/0GOnuCVhVzwqo1YXX7X63C"
     },
     {
       "added_at": null,
@@ -651,6 +651,30 @@
       "duration_ms": 182192,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
     },
     {
       "added_at": null,
@@ -703,30 +727,6 @@
       "duration_ms": 180000,
       "name": "I Need You To Know",
       "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost In Light",
+        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Lost In Light",
+      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow Comes",
         "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 201250,
       "name": "Funky Bitz",
       "url": "https://open.spotify.com/track/0cte9r80XqyGs6sg1r1B4h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost In Light",
-        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Lost In Light",
-      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
     },
     {
       "added_at": null,

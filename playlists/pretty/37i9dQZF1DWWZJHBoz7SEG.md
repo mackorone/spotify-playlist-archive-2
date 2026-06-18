@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Quiero creer! Mon Laferte en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,589 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,478 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 10 | [Contigo Na Más \- Remix \(feat\. Ozuna, Hades66\)](https://open.spotify.com/track/4UjjHtqpIwH69uOlLc0VIY) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Contigo Na Más \- Remix \(feat\. Ozuna, Hades66\)](https://open.spotify.com/album/6vwUSUBR0Hly5NATwN0RnT) | 7:46 |
 | 11 | [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 |
 | 12 | [PIENXA EN MI](https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 2:53 |
-| 13 | [HAPPY ��](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY ��](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
+| 13 | [HAPPY 🪽](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY 🪽](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 |
 | 14 | [Isla Viva](https://open.spotify.com/track/6DWbguJJtZ6OoGUgcfr1By) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Isla Viva](https://open.spotify.com/album/41mlpezVzn8RJHIu9kIYG8) | 3:26 |
 | 15 | [Desde Que Te Tengo](https://open.spotify.com/track/1to9ZHrjZSyP6WevUoeNer) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Desde Que Te Tengo](https://open.spotify.com/album/2iZq4gNWUtijm5lZSQlUrQ) | 3:52 |
 | 16 | [Se Le Ve](https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [Se Le Ve](https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7) | 2:39 |

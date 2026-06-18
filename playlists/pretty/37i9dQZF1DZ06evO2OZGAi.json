@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACdj4OZNsF3fJKkCkdT4sZz",
+  "snapshot_id": "ajCSAAAAAADbJU/pijJpC/Aiy3KHAbU7",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 219840,
-      "name": "Blues Ciego",
-      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
+      "duration_ms": 221425,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 221425,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
+      "duration_ms": 188546,
+      "name": "Cambia Esa Cara",
+      "url": "https://open.spotify.com/track/1VHJvq2ErXqwF5C2vptRaa"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 188546,
-      "name": "Cambia Esa Cara",
-      "url": "https://open.spotify.com/track/1VHJvq2ErXqwF5C2vptRaa"
+      "duration_ms": 248784,
+      "name": "Los Finos",
+      "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Blues Ciego",
+      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Cuatro Paredes",
         "url": "https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 266020,
       "name": "Entre Cuatro Paredes",
       "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 248784,
-      "name": "Los Finos",
-      "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rutas",
-        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 256092,
-      "name": "Rutas",
-      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 136081,
       "name": "No S\u00e9 por Qu\u00e9",
       "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rutas",
+        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 256092,
+      "name": "Rutas",
+      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Salva Mi Mente",
-      "url": "https://open.spotify.com/track/7aLwfy4cq9U5b4GRThUacZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Dilo por M\u00ed",
-      "url": "https://open.spotify.com/track/2PCgkMqH1xERaQW3PstfF7"
+      "duration_ms": 261213,
+      "name": "Salva Mi Mente",
+      "url": "https://open.spotify.com/track/7aLwfy4cq9U5b4GRThUacZ"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 195758,
       "name": "Ella Es",
       "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Dilo por M\u00ed",
+      "url": "https://open.spotify.com/track/2PCgkMqH1xERaQW3PstfF7"
     },
     {
       "added_at": null,

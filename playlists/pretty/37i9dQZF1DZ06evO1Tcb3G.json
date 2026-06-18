@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 525356,
+  "num_followers": 525425,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACSfz5tAH4RBRn9HOxIIAvf",
+  "snapshot_id": "ajCSAAAAAADjfIUsplZKfM8f3x0vypeR",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
       "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 245106,
-      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
-      "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
+      "duration_ms": 314893,
+      "name": "Lover of the Light",
+      "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
     },
     {
       "added_at": null,
@@ -371,18 +363,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
       },
       "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 314893,
-      "name": "Lover of the Light",
-      "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
     },
     {
       "added_at": null,

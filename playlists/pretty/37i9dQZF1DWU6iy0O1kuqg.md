@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6iy0O1kuqg.md) - [plain]
 
 > ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Beto Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,757 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,775 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

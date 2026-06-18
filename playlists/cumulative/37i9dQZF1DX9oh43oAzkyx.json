@@ -8735,20 +8735,24 @@
     },
     {
       "album": {
-        "name": "Trauma Bond",
+        "name": "Trauma Bond (feat. Marching Crimson Pipers)",
         "url": "https://open.spotify.com/album/6svobbo5wMTqnZX9D62c80"
       },
       "artists": [
         {
           "name": "T.I.",
           "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Marching Crimson Pipers",
+          "url": "https://open.spotify.com/artist/24D3dDW0nd3SlK3YEpltJR"
         }
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163658,
-      "name": "Trauma Bond",
+      "name": "Trauma Bond (feat. Marching Crimson Pipers)",
       "url": "https://open.spotify.com/track/4FBweKWPMAJyqjOqwlaxN9"
     },
     {

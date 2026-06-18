@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 106592,
+  "num_followers": 106604,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACf1UWpWzqfBfwcp8bIFh+9",
+  "snapshot_id": "ajCSAAAAAABwnpuJHgSwTmmKZWO07iYD",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+        "name": "Spookie Coochie",
+        "url": "https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR"
       },
       "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 235206,
-      "name": "ROBBERY (feat. Doechii)",
-      "url": "https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0"
+      "duration_ms": 168620,
+      "name": "Spookie Coochie",
+      "url": "https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf"
     },
     {
       "added_at": null,
@@ -343,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spookie Coochie",
-        "url": "https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR"
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
       "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 168620,
-      "name": "Spookie Coochie",
-      "url": "https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf"
+      "duration_ms": 235206,
+      "name": "ROBBERY (feat. Doechii)",
+      "url": "https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Shit",
+      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EGYPT (Remix)",
         "url": "https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 165643,
       "name": "EGYPT - Remix",
       "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Shit",
-      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh The Places You\u2019ll Go",
-        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159380,
-      "name": "What's Your Name?",
-      "url": "https://open.spotify.com/track/3MLvQJFO1ofeMnrz5tS1RE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 217792,
       "name": "Phenomenal (feat. Doechii)",
       "url": "https://open.spotify.com/track/5iDrSIUAbuajDctFTGRRiR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh The Places You\u2019ll Go",
+        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159380,
+      "name": "What's Your Name?",
+      "url": "https://open.spotify.com/track/3MLvQJFO1ofeMnrz5tS1RE"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Universal Swamp Anthem",
+        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 151826,
+      "name": "Universal Swamp Anthem",
+      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 317257,
       "name": "Girls",
       "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universal Swamp Anthem",
-        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "Universal Swamp Anthem",
-      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
     },
     {
       "added_at": null,

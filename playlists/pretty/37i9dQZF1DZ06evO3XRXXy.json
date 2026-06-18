@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 153113,
+  "num_followers": 153139,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAAi0BDxEM+qdOzIYnKqLrc5",
+  "snapshot_id": "ajCSAAAAAACWDaeM7LBCj3vPWBJjbz3w",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 261866,
       "name": "How Could an Angel Break My Heart (with Toni Braxton)",
       "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classics In The Key Of G",
+        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Stranger On The Shore",
+      "url": "https://open.spotify.com/track/56YAQYJltZevVwJUNAlLxw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amore (Remastered)",
         "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 214572,
       "name": "Mi manchi",
       "url": "https://open.spotify.com/track/0czae8hEbfn2zSF5iKCZoE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classics In The Key Of G",
-        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Stranger On The Shore",
-      "url": "https://open.spotify.com/track/56YAQYJltZevVwJUNAlLxw"
     },
     {
       "added_at": null,

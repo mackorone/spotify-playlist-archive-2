@@ -25761,6 +25761,24 @@
     },
     {
       "album": {
+        "name": "SIGNAL VERDE",
+        "url": "https://open.spotify.com/album/3X2kYubAwODt2875Tj57zf"
+      },
+      "artists": [
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        }
+      ],
+      "date_added": "2026-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Lo Prendo",
+      "url": "https://open.spotify.com/track/7Bi2JkcnFmlI9uhgwIMJBR"
+    },
+    {
+      "album": {
         "name": "BAD HOP",
         "url": "https://open.spotify.com/album/3Xf7ckpqko5S1aJCa5RXtn"
       },
@@ -46650,24 +46668,6 @@
       "duration_ms": 247472,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88"
-    },
-    {
-      "album": {
-        "name": "SIGNAL VERDE",
-        "url": "https://open.spotify.com/album/3X2kYubAwODt2875Tj57zf"
-      },
-      "artists": [
-        {
-          "name": "AKLO",
-          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
-        }
-      ],
-      "date_added": "2026-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/7Bi2JkcnFmlI9uhgwIMJBR"
     },
     {
       "album": {

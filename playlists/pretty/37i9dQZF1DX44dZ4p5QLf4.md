@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: Latanya Alberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,851 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,867 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [You Make Me Wanna Be A Woman](https://open.spotify.com/track/6ys0jQHpDszud8CLQ7nnE0) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [You Make Me Wanna Be A Woman](https://open.spotify.com/album/3Iht7vpc2OKwPVMSTvQdqV) | 2:41 |
 | 80 | [Time](https://open.spotify.com/track/0yjjvSxMMXQFy91K3pyCiu) | [Ni Maxine](https://open.spotify.com/artist/60iNWYBsD9L0ucxpSbxpgS) | [Time](https://open.spotify.com/album/4ukPvTgCY4L2XNMtfKYVUH) | 4:30 |
 
-Snapshot ID: `AAAAAGLBUkjmemb4Y68xMPcfwf2vszkr`
+Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`

@@ -4,7 +4,7 @@
 
 > Grandes hits do BR e do 🌎 / Foto: Taylor Swift
 
-461 songs - 22 hr 55 min
+462 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Ballena](https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 3:20 | 2023-07-26 | 2024-02-21 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-05-20 | 2022-06-23 |
 | [Barbie](https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Barbie](https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL) | 3:12 | 2024-11-21 | 2026-01-27 |
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Barulhinho](https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Barulhinho](https://open.spotify.com/album/1gFplCaLXiRiMHccV2BrIv) | 2:49 | 2023-07-14 | 2023-09-28 |
 | [BEAT UP CHANEL$](https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:18 | 2026-04-02 |  |
 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 | 2025-08-11 | 2026-04-03 |

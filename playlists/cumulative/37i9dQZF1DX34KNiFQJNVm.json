@@ -41673,6 +41673,24 @@
     },
     {
       "album": {
+        "name": "Matchola - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172779,
+      "name": "BARRIL DOBRADO - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
+    },
+    {
+      "album": {
         "name": "Ningu\u00e9m T\u00e1 S\u00f3",
         "url": "https://open.spotify.com/album/1yox9486bIjcXseaXMZ7zf"
       },
@@ -164357,7 +164375,7 @@
     },
     {
       "album": {
-        "name": "HAPPY \ufffd\ufffd",
+        "name": "HAPPY \ud83e\udebd",
         "url": "https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk"
       },
       "artists": [
@@ -164370,7 +164388,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136007,
-      "name": "HAPPY \ufffd\ufffd",
+      "name": "HAPPY \ud83e\udebd",
       "url": "https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt"
     },
     {

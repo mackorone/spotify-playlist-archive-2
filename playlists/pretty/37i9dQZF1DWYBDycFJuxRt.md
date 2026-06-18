@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 米津玄師 \*👉 <a href="https://spice.eplus.jp/articles/346894">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,302 likes - 78 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,315 likes - 78 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 7 | [Puppet](https://open.spotify.com/track/2Ajohj72RQn88gA37KbnN8) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Puppet](https://open.spotify.com/album/1ERh69jnQLIhxEj1Apzk09) | 3:39 |
 | 8 | [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 |
 | 9 | [Hellmate](https://open.spotify.com/track/5ROZr0epf1xWoXxrNr4B3C) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Hellmate](https://open.spotify.com/album/1x2tgmkQZ5HTrTpZWFQw6e) | 2:47 |
-| 10 | [Track 4](https://open.spotify.com/track/7Bi2JkcnFmlI9uhgwIMJBR) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SIGNAL VERDE](https://open.spotify.com/album/3X2kYubAwODt2875Tj57zf) | 0:00 |
+| 10 | [Lo Prendo](https://open.spotify.com/track/7Bi2JkcnFmlI9uhgwIMJBR) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SIGNAL VERDE](https://open.spotify.com/album/3X2kYubAwODt2875Tj57zf) | 2:03 |
 | 11 | [PRIDE](https://open.spotify.com/track/52z8YyNZYlL7ZBDRjUvgX6) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [PRIDE](https://open.spotify.com/album/0EZ0LJtrp86OQC1CDYmP8B) | 3:52 |
 | 12 | [WASSUP \(feat\. NORIKIYO\)](https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Get Litty? \(Deluxe\)](https://open.spotify.com/album/6UMWTseCkEKRCrR5cJ8DYE) | 2:56 |
 | 13 | [翼の折れたエンジェル](https://open.spotify.com/track/03pAYCtkK1l7D8rQ5rvc89) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [翼の折れたエンジェル](https://open.spotify.com/album/4bjpKHTLJ2FtOlzrdXDL1d) | 4:02 |

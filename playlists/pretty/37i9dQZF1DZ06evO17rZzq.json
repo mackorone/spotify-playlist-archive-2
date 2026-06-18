@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACXj4s35ypiMmsWTT/Bxzh7",
+  "snapshot_id": "ajCSAAAAAAAgnpsfpfnYEEhcemdUcVtN",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dat Girl",
-        "url": "https://open.spotify.com/album/6BVqqZYdMGRuixm5myTorO"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 155839,
-      "name": "Dat Girl",
-      "url": "https://open.spotify.com/track/25Yec8hwjxT2YZbpSrDyBT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FCK GIRL SZN",
         "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
       },
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "Dat Girl",
+        "url": "https://open.spotify.com/album/6BVqqZYdMGRuixm5myTorO"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 188014,
-      "name": "Ms. Lick Back",
-      "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
+      "duration_ms": 155839,
+      "name": "Dat Girl",
+      "url": "https://open.spotify.com/track/25Yec8hwjxT2YZbpSrDyBT"
     },
     {
       "added_at": null,
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wet",
-        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
       "artists": [
         {
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 136980,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
+      "duration_ms": 188014,
+      "name": "Ms. Lick Back",
+      "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
     },
     {
       "added_at": null,
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 175819,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 203960,
       "name": "Netreba",
       "url": "https://open.spotify.com/track/0xIobPrJrJ9GyoCGZqs0uC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 175819,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 148471,
-      "name": "Toxic Chocolate",
-      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gas You Up (feat. Hunxho)",
         "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 171392,
       "name": "Gas You Up (feat. Hunxho)",
       "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 148471,
+      "name": "Toxic Chocolate",
+      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 150743,
-      "name": "Red Light Special (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "German Engineering Zwei",
         "url": "https://open.spotify.com/album/1essCNzwTRw1tv49AuOnG2"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 169186,
       "name": "What's Tea? - with Kaliii",
       "url": "https://open.spotify.com/track/05jGCR85ce49vONuaW97ms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2RcR9tY2ZkKnHVmZh5RIKh"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 150743,
+      "name": "Red Light Special (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/4Y0bW6Dc0XlY77kjuV6KkG"
     },
     {
       "added_at": null,

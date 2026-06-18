@@ -4,7 +4,7 @@
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 1 min
+67 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,12 @@
 | [Anakin's Dark Deeds](https://open.spotify.com/track/7E7lRhO18SHKnX3wzgp5kN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:04 | 2025-05-07 |  |
 | [Anakin's Theme](https://open.spotify.com/track/61ny12xki8cVUKP46nXp6Z) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 3:07 | 2026-05-07 | 2026-05-20 |
 | [Battle of the Heroes](https://open.spotify.com/track/1u3nu8fNWFua6mQjw4ReEt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 3:42 | 2025-04-18 |  |
+| [believe…](https://open.spotify.com/track/4vxRmWifWimhV46sVrALWZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Disclosure Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu) | 3:35 | 2026-06-18 |  |
 | [Buckbeak's Flight](https://open.spotify.com/track/3fr220xo6nu5ysW16DjsXi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 2:08 | 2025-04-18 |  |
 | [Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 2:44 | 2025-04-18 |  |
 | [Double Trouble](https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 1:37 | 2025-04-23 |  |
 | [Duel of the Fates](https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 4:14 | 2025-04-18 |  |
+| [empathy…](https://open.spotify.com/track/1MTGaIAQ1SsxZEDuB15sjL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Disclosure Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu) | 2:24 | 2026-06-18 |  |
 | [Entry into the Great Hall and the Banquet](https://open.spotify.com/track/0UDSwgomgI5bK1x1eYeBez) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:42 | 2025-04-18 |  |
 | [Fawkes Is Reborn](https://open.spotify.com/track/5yh0phgrkE0qQeWJs3x3hf) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 3:19 | 2025-04-18 |  |
 | [Fawkes the Phoenix](https://open.spotify.com/track/1m4ZjbibTvvmYIJyXAIuxv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 3:45 | 2025-04-18 |  |

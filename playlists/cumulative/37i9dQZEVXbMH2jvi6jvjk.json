@@ -4976,7 +4976,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 137647,
       "name": "B's On The Table (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
@@ -6992,7 +6992,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 360530,
       "name": "BELE",
       "url": "https://open.spotify.com/track/6oEHhZnufw9TNzvpACNGId"
@@ -7742,7 +7742,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -16710,7 +16710,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 308950,
       "name": "Ezohlala Nawe",
       "url": "https://open.spotify.com/track/7FUviW38N6A2UtkRnMkyKt"
@@ -23377,6 +23377,36 @@
     },
     {
       "album": {
+        "name": "The Trap Temptations",
+        "url": "https://open.spotify.com/album/5NbREtW6Pvn1U8ha72Pv5m"
+      },
+      "artists": [
+        {
+          "name": "Ruff",
+          "url": "https://open.spotify.com/artist/4MChJwJ4CmqZkLJVracqjh"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296470,
+      "name": "Ibandla",
+      "url": "https://open.spotify.com/track/6EpoJJIRPkO79fFZvGzSY6"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
       },
@@ -25584,7 +25614,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 237662,
       "name": "Isibaya Sikababa",
       "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
@@ -26194,6 +26224,40 @@
       "duration_ms": 240039,
       "name": "IVALENTINE (feat. Shenge wasehlalankosi)",
       "url": "https://open.spotify.com/track/42Z8LNtIBkHEMW5hguw0Fo"
+    },
+    {
+      "album": {
+        "name": "The Trap Temptations",
+        "url": "https://open.spotify.com/album/5NbREtW6Pvn1U8ha72Pv5m"
+      },
+      "artists": [
+        {
+          "name": "Ruff",
+          "url": "https://open.spotify.com/artist/4MChJwJ4CmqZkLJVracqjh"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+        },
+        {
+          "name": "Thabo Smol",
+          "url": "https://open.spotify.com/artist/4A5i801IA1L5zJcseTQIZC"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240978,
+      "name": "Ivangeli (feat. Thabo Smol)",
+      "url": "https://open.spotify.com/track/4VDX92SfCYEHKa2YrulMLl"
     },
     {
       "album": {
@@ -28370,6 +28434,24 @@
       "duration_ms": 509751,
       "name": "Khanya Njalo",
       "url": "https://open.spotify.com/track/6cOCBVXd40NIaEMKYnj1ry"
+    },
+    {
+      "album": {
+        "name": "Khanyisa (Live)",
+        "url": "https://open.spotify.com/album/0ZHWtUo9vUWXKlq9rJEvIT"
+      },
+      "artists": [
+        {
+          "name": "Phelelani Vox",
+          "url": "https://open.spotify.com/artist/2vYebOcIlOLhxckMpOzzFF"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277120,
+      "name": "Khanyisa - Live",
+      "url": "https://open.spotify.com/track/2gCiIWGtNa4r8TEFYcvex3"
     },
     {
       "album": {
@@ -37308,7 +37390,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 200830,
       "name": "National Treasures",
       "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
@@ -38760,7 +38842,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 264437,
       "name": "Ngixolele Mtanami",
       "url": "https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV"
@@ -40622,7 +40704,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 188971,
       "name": "Ola Sbali",
       "url": "https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV"
@@ -47556,7 +47638,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 278073,
       "name": "Sekuzolunga Mama",
       "url": "https://open.spotify.com/track/6W8CWNHx5yktT9EPIPBYFR"
@@ -53382,7 +53464,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"
@@ -64470,7 +64552,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 302298,
       "name": "Zwo's Prayer for the nation",
       "url": "https://open.spotify.com/track/66csxfTZOMwerz9xAQAF9t"

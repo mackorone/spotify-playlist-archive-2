@@ -1,6 +1,6 @@
 {
   "description": "young soundsss \ud83e\udd60",
-  "num_followers": 47176,
+  "num_followers": 47177,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -275,8 +275,8 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "Gav Det Et Skud",
-        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 176489,
-      "name": "Gav Det Et Skud",
-      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2026-06-11 22:02:13",
@@ -367,8 +367,8 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+        "name": "Gav Det Et Skud",
+        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+      "duration_ms": 176489,
+      "name": "Gav Det Et Skud",
+      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
     },
     {
       "added_at": "2026-06-11 22:02:13",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "En Stor Lykkelig Familie",
-        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
-      },
-      "artists": [
-        {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
-        }
-      ],
-      "duration_ms": 195777,
-      "name": "En Stor Lykkelig Familie",
-      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
-    },
-    {
-      "added_at": "2026-06-11 22:02:13",
-      "album": {
         "name": "Sweetheart",
         "url": "https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 168000,
       "name": "Bider Det I Mig",
       "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "En Stor Lykkelig Familie",
+        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 195777,
+      "name": "En Stor Lykkelig Familie",
+      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
     },
     {
       "added_at": "2026-06-11 22:02:13",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "Det sker alt for tit",
-        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 187422,
-      "name": "Det sker alt for tit",
-      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
-    },
-    {
-      "added_at": "2026-06-11 22:02:13",
-      "album": {
         "name": "Mandag Til Fredag",
         "url": "https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 173041,
       "name": "Folk Forsvinder",
       "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Det sker alt for tit",
+        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 187422,
+      "name": "Det sker alt for tit",
+      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
     },
     {
       "added_at": "2026-06-11 22:02:13",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
-    },
-    {
-      "added_at": "2026-06-11 22:02:13",
-      "album": {
         "name": "Kun for os",
         "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 200674,
       "name": "Kun for os",
       "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
     },
     {
       "added_at": "2026-06-11 22:02:13",
@@ -743,6 +743,46 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
+        "name": "Lille hus i Jylland (feat. Dahlin)",
+        "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
+      },
+      "artists": [
+        {
+          "name": "Albert Heath",
+          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
+        },
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+        }
+      ],
+      "duration_ms": 164805,
+      "name": "Lille hus i Jylland (feat. Dahlin)",
+      "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Jeg h\u00e5ber (feat. Mekdes)",
+        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 168469,
+      "name": "Jeg h\u00e5ber (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
         "name": "Barn Af Venedig",
         "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
       },
@@ -775,46 +815,6 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "Jeg h\u00e5ber (feat. Mekdes)",
-        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 168469,
-      "name": "Jeg h\u00e5ber (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
-    },
-    {
-      "added_at": "2026-06-11 22:02:13",
-      "album": {
-        "name": "Lille hus i Jylland (feat. Dahlin)",
-        "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
-      },
-      "artists": [
-        {
-          "name": "Albert Heath",
-          "url": "https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L"
-        },
-        {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
-        }
-      ],
-      "duration_ms": 164805,
-      "name": "Lille hus i Jylland (feat. Dahlin)",
-      "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
-    },
-    {
-      "added_at": "2026-06-11 22:02:13",
-      "album": {
         "name": "S\u00e6tter Alt P\u00e5 Spil",
         "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 197589,
       "name": "S\u00e6tter Alt P\u00e5 Spil",
       "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
-    },
-    {
-      "added_at": "2026-06-11 22:02:13",
-      "album": {
-        "name": "GUTWORK",
-        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
-      },
-      "artists": [
-        {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
       "added_at": "2026-06-11 22:02:13",
@@ -863,6 +847,22 @@
       "duration_ms": 191764,
       "name": "Forfra",
       "url": "https://open.spotify.com/track/4XWWYB5MDDdSJD0d2VMd9X"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
       "added_at": "2026-06-11 22:02:13",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
+        "name": "Starsound",
+        "url": "https://open.spotify.com/album/5LAbuBRSMKL4SvvCpRfvfd"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
+        }
+      ],
+      "duration_ms": 285530,
+      "name": "Starsound",
+      "url": "https://open.spotify.com/track/6upj4Ru7egNLAHExBhdgYp"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
         "name": "Bobler",
         "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "tense present",
-        "url": "https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT"
-      },
-      "artists": [
-        {
-          "name": "lucca",
-          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
-        }
-      ],
-      "duration_ms": 127992,
-      "name": "cool words",
-      "url": "https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb"
-    },
-    {
-      "added_at": "2026-06-11 22:02:13",
-      "album": {
         "name": "Verona",
         "url": "https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "tense present",
+        "url": "https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT"
+      },
+      "artists": [
+        {
+          "name": "lucca",
+          "url": "https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N"
+        }
+      ],
+      "duration_ms": 127992,
+      "name": "cool words",
+      "url": "https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb"
     },
     {
       "added_at": "2026-06-11 22:02:13",
@@ -1087,22 +1103,6 @@
       "duration_ms": 149271,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2GSY5xLQQdgBcbf04nlNm3"
-    },
-    {
-      "added_at": "2026-06-11 22:02:13",
-      "album": {
-        "name": "Starsound",
-        "url": "https://open.spotify.com/album/5LAbuBRSMKL4SvvCpRfvfd"
-      },
-      "artists": [
-        {
-          "name": "GB",
-          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
-        }
-      ],
-      "duration_ms": 285530,
-      "name": "Starsound",
-      "url": "https://open.spotify.com/track/6upj4Ru7egNLAHExBhdgYp"
     },
     {
       "added_at": "2026-06-11 22:02:13",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-06-11 22:02:13",
       "album": {
-        "name": "Et Sted p\u00e5 Vesterbro",
-        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
-      },
-      "artists": [
-        {
-          "name": "Augusta Schackinger",
-          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
-        }
-      ],
-      "duration_ms": 148521,
-      "name": "Et Sted p\u00e5 Vesterbro",
-      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
-    },
-    {
-      "added_at": "2026-06-11 22:02:13",
-      "album": {
         "name": "M\u00f8ntvask",
         "url": "https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 186964,
       "name": "M\u00f8ntvask",
       "url": "https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP"
+    },
+    {
+      "added_at": "2026-06-11 22:02:13",
+      "album": {
+        "name": "Et Sted p\u00e5 Vesterbro",
+        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
+      },
+      "artists": [
+        {
+          "name": "Augusta Schackinger",
+          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
+        }
+      ],
+      "duration_ms": 148521,
+      "name": "Et Sted p\u00e5 Vesterbro",
+      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
     }
   ],
   "unique_name": "ung kniv ",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47927,
+  "num_followers": 47942,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAD47+KwRVmN8BZe0e8fa9x4",
+  "snapshot_id": "ajCSAAAAAACaYNPJBjGwxdWpVdVAO6Qq",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+        "name": "Akelarre",
+        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
       },
       "artists": [
         {
@@ -708,13 +708,13 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Mimi",
-          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
         }
       ],
-      "duration_ms": 155904,
-      "name": "SI TE VAS",
-      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
+      "duration_ms": 202933,
+      "name": "Mujer Bruja",
+      "url": "https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akelarre",
-        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
       "artists": [
         {
@@ -764,13 +764,13 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
         }
       ],
-      "duration_ms": 202933,
-      "name": "Mujer Bruja",
-      "url": "https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7"
+      "duration_ms": 155904,
+      "name": "SI TE VAS",
+      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
     },
     {
       "added_at": null,

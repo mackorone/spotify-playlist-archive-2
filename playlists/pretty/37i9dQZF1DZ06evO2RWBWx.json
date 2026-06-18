@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 26490,
+  "num_followers": 26497,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACbdiM9ChPrVgLK5JSaiw9q",
+  "snapshot_id": "ajCSAAAAAADGvt2Kpzz7E7tn1xNzgIMm",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej"
+        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 239800,
-      "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg"
+      "duration_ms": 202181,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
     },
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/4fbM3eoX2dfgol6uYrh97X"
+        "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 202181,
-      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/1SXneGIyve0YOfscLf8Ucg"
+      "duration_ms": 239800,
+      "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/5scniruALOkj4WOg3xDHuR"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 217988,
-      "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/53NuLWR6rTIO2IqQ4x1Skx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u50d5\u3089\u3060",
         "url": "https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 198173,
       "name": "\u50d5\u3089\u3060",
       "url": "https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/5scniruALOkj4WOg3xDHuR"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 217988,
+      "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/53NuLWR6rTIO2IqQ4x1Skx"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soyokaze",
-        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 216417,
-      "name": "Soyokaze",
-      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 202373,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soyokaze",
+        "url": "https://open.spotify.com/album/153YmjTil9pifgOigfs315"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 216417,
+      "name": "Soyokaze",
+      "url": "https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "18",
+      "url": "https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wormhole / Yumi AraI",
         "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 232259,
       "name": "\u6587\u901a",
       "url": "https://open.spotify.com/track/7cZswqhGUHmoi7fsjstVQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "18",
-      "url": "https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7"
     },
     {
       "added_at": null,

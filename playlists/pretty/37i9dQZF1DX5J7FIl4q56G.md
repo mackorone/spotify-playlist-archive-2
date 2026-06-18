@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Chat Pile
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,087 likes - 151 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,093 likes - 151 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

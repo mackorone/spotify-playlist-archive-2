@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,005 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,007 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 3 | [Que Chulada](https://open.spotify.com/track/401D4uoDg8e2PmWLhXfic1) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Chulada](https://open.spotify.com/album/05y6633FW9WAlIsZR3Z7c6) | 2:38 |
 | 4 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
 | 5 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |
-| 6 | [CUANDO NADIE LA VE](https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [CUANDO NADIE LA VE](https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ) | 2:26 |
+| 6 | [CUANDO NADIE LA VE](https://open.spotify.com/track/0RDFRCTbMo7QVLRgyPk7QF) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [CUANDO NADIE LA VE](https://open.spotify.com/album/1h5M7sW3OD57E1p6rS2Be6) | 2:26 |
 | 7 | [Rosas](https://open.spotify.com/track/555N8dZTTSQwhzlS3jryxf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/0OIdc0aQSkDtXUuywx55OP) | 4:34 |
 | 8 | [Una Llamada Al Cielo](https://open.spotify.com/track/7q5rVPi26K2EfrY5GrYfqu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Una Llamada Al Cielo](https://open.spotify.com/album/7ag9j0bMqgDaL5oSlh0fZD) | 3:33 |
 | 9 | [Enloquecido](https://open.spotify.com/track/2xVS1tIdvTjMNZuam83uiX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv) | 3:32 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 14 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/0zF4ncyttvlP9whKdkEVlh) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5L6W0E2hMD2URy4uYbTOQh) | 2:57 |
 | 15 | [Serafin Zambada](https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt) | 2:08 |
 | 16 | [El Mochomo \(En vivo\)](https://open.spotify.com/track/3rBfXOCyxYSrvIq5LSc9h2) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD) | 2:42 |
-| 17 | [Mi Nueva Versión](https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Mi Nueva Versión](https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L) | 2:43 |
-| 18 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 |
+| 17 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 |
+| 18 | [Mi Nueva Versión](https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Mi Nueva Versión](https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L) | 2:43 |
 | 19 | [Nunca Me Quisiste](https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Quisiste](https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL) | 2:32 |
 | 20 | [Alumno Y Maestro](https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Alumno Y Maestro](https://open.spotify.com/album/3G37quZRXG46KePSj4uMat) | 2:59 |
 | 21 | [La Muchacha Del Salado "La Nicholette" \(En vivo\)](https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [El Rey Del Desierto](https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Rey Del Desierto](https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2) | 2:59 |
 | 50 | [La Sombra Del Sombrero \- En Vivo](https://open.spotify.com/track/1kyAxI5VF8BQ9rfL07QV75) | [Chuy Lopez](https://open.spotify.com/artist/6VwUtgHcDXb3cLnlIKidVM), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pisteando Entre Amigos \(En Vivo\)](https://open.spotify.com/album/6LX4xXXcu3GuO8mpMCwWKo) | 3:38 |
 
-Snapshot ID: `ai9AgAAAAAB6vfF7Fn5QWOQt2EHU2T/t`
+Snapshot ID: `ajCSAAAAAABN3NavMQQt4hO+OWXF3Fqv`

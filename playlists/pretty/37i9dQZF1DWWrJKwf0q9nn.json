@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update! Cover: ANOTR",
-  "num_followers": 156481,
+  "num_followers": 156476,
   "original_name": "New Dance 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANUsQ/1ibmEWKATiVrMAWEpZb7RY",
+  "snapshot_id": "AAAAAPkyTC6buvJ2AXlFv6o/i2Ixbnmw",
   "tracks": [
     {
       "added_at": "2026-06-11 22:01:32",
@@ -103,6 +103,70 @@
     {
       "added_at": "2026-06-11 22:01:32",
       "album": {
+        "name": "Come Back Tomorrow",
+        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "duration_ms": 202017,
+      "name": "Come Back Tomorrow",
+      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+    },
+    {
+      "added_at": "2026-06-11 22:01:32",
+      "album": {
+        "name": "Lovers On The Dancefloor",
+        "url": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 153088,
+      "name": "Lovers On The Dancefloor",
+      "url": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"
+    },
+    {
+      "added_at": "2026-06-11 22:01:32",
+      "album": {
+        "name": "Oh La La La",
+        "url": "https://open.spotify.com/album/4yDdj9OsTUdDnK4EytXsHq"
+      },
+      "artists": [
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "Tyson O'brien",
+          "url": "https://open.spotify.com/artist/0ipSB6Z9hk2SLLh07tLYNL"
+        },
+        {
+          "name": "2 Eivissa",
+          "url": "https://open.spotify.com/artist/3gkV8EZ8pE0eCwyLeUNwzE"
+        }
+      ],
+      "duration_ms": 141985,
+      "name": "Oh La La La",
+      "url": "https://open.spotify.com/track/28syhIeldEg7U53ey3NVMM"
+    },
+    {
+      "added_at": "2026-06-11 22:01:32",
+      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/1fNY3xOD9WUo98LE7WaUzu"
       },
@@ -187,26 +251,6 @@
       "duration_ms": 188729,
       "name": "Blow Your Whistle",
       "url": "https://open.spotify.com/track/4hGIQWbnx6IDi88FvcnHvC"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
-        "name": "Come Back Tomorrow",
-        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        }
-      ],
-      "duration_ms": 202017,
-      "name": "Come Back Tomorrow",
-      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
     },
     {
       "added_at": "2026-06-11 22:01:32",
@@ -607,50 +651,6 @@
       "duration_ms": 162346,
       "name": "The One",
       "url": "https://open.spotify.com/track/2nG2kgL2gTXd9s2RmD0u18"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
-        "name": "Lovers On The Dancefloor",
-        "url": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
-        }
-      ],
-      "duration_ms": 153088,
-      "name": "Lovers On The Dancefloor",
-      "url": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
-        "name": "Oh La La La",
-        "url": "https://open.spotify.com/album/4yDdj9OsTUdDnK4EytXsHq"
-      },
-      "artists": [
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "Tyson O'brien",
-          "url": "https://open.spotify.com/artist/0ipSB6Z9hk2SLLh07tLYNL"
-        },
-        {
-          "name": "2 Eivissa",
-          "url": "https://open.spotify.com/artist/3gkV8EZ8pE0eCwyLeUNwzE"
-        }
-      ],
-      "duration_ms": 141985,
-      "name": "Oh La La La",
-      "url": "https://open.spotify.com/track/28syhIeldEg7U53ey3NVMM"
     },
     {
       "added_at": "2026-06-11 22:01:32",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-06-11 22:01:32",
       "album": {
-        "name": "Like It",
-        "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 266923,
-      "name": "Like It",
-      "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG"
       },
@@ -1539,26 +1519,6 @@
       "duration_ms": 222978,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
-        "name": "Arp12",
-        "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        },
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 260053,
-      "name": "Arp12",
-      "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
     },
     {
       "added_at": "2026-06-11 22:01:32",
@@ -1611,30 +1571,6 @@
       "duration_ms": 187384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/2GS3OjCpGyUZUofoxhVDhq"
-      },
-      "artists": [
-        {
-          "name": "DJ Wout",
-          "url": "https://open.spotify.com/artist/4DoFxXS61UmzqXU629KVyK"
-        },
-        {
-          "name": "Pulsedriver",
-          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
-        },
-        {
-          "name": "Dave McCullen",
-          "url": "https://open.spotify.com/artist/063BhEDSgDltUGBDy0RYGJ"
-        }
-      ],
-      "duration_ms": 164142,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4rGypZLS5ihX5P6PHW91dn"
     },
     {
       "added_at": "2026-06-11 22:01:32",
@@ -1702,6 +1638,10 @@
         {
           "name": "Afro Bros",
           "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "GANGSTERDAM",
+          "url": "https://open.spotify.com/artist/0jJXWxOSee7d8M5C5QN11d"
         }
       ],
       "duration_ms": 165877,
@@ -1847,50 +1787,6 @@
     {
       "added_at": "2026-06-11 22:01:32",
       "album": {
-        "name": "It Ain't Safe (FENRIP)",
-        "url": "https://open.spotify.com/album/6UgNBTBU36IulNvfUrrHIk"
-      },
-      "artists": [
-        {
-          "name": "Fenrick",
-          "url": "https://open.spotify.com/artist/4xfKbQQytFl4LWMGe2v5P3"
-        },
-        {
-          "name": "DJ IP",
-          "url": "https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK"
-        }
-      ],
-      "duration_ms": 151945,
-      "name": "It Ain't Safe (FENRIP)",
-      "url": "https://open.spotify.com/track/2uvchqTMwW7gAgjuGVI2pj"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/1eAwTFl959hlcrLUN5s61k"
-      },
-      "artists": [
-        {
-          "name": "Naarly",
-          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
-        },
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        },
-        {
-          "name": "Romy Janssen",
-          "url": "https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/2d6hC7Uu13Pn1axD7LplmR"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
         "name": "Zone (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF"
       },
@@ -1971,22 +1867,6 @@
       "duration_ms": 136770,
       "name": "In My Head (Baby I'm Sorry)",
       "url": "https://open.spotify.com/track/0Sp97LfUi3M6hpnYzfBl12"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/2jQ51I82kUtGlS2hwIZJCn"
-      },
-      "artists": [
-        {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/03ywYxods3U9Go51LNZzzb"
     },
     {
       "added_at": "2026-06-11 22:01:32",
@@ -2103,26 +1983,6 @@
       "duration_ms": 199000,
       "name": "I Need It",
       "url": "https://open.spotify.com/track/3kv4DvfXRf8ZUROfIJFFuP"
-    },
-    {
-      "added_at": "2026-06-11 22:01:32",
-      "album": {
-        "name": "I look sh!t (and i\u2018m fine with it)",
-        "url": "https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg"
-      },
-      "artists": [
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 143478,
-      "name": "I look sh!t (and i\u2018m fine with it)",
-      "url": "https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"
     }
   ],
   "unique_name": "New Dance 2026",

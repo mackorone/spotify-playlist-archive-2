@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 122095,
+  "num_followers": 122144,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADIRr6DtL4DFnKxSWmRfO3O",
+  "snapshot_id": "ajCSAAAAAACsERyb9KkGk9hCzGTtYfQu",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Cosas del Amor",
-      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
+      "duration_ms": 168626,
+      "name": "Ya No Me Preguntes",
+      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 168626,
-      "name": "Ya No Me Preguntes",
-      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
+      "duration_ms": 199133,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serie Top Ten",
+        "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 173532,
+      "name": "El Licenciado",
+      "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 245653,
       "name": "Silueta De Cristal - En Vivo",
       "url": "https://open.spotify.com/track/1SjQxDn3wDuXejZrAP1PCT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serie Top Ten",
-        "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 173532,
-      "name": "El Licenciado",
-      "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
     },
     {
       "added_at": null,

@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 168331,
       "name": "Faithfully - Single Version",
       "url": "https://open.spotify.com/track/7FKO2mSmhkR9NzjXr82zpz"
@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Jesus All Along",
+        "url": "https://open.spotify.com/album/50KuvmjM6p8f7KpCZaKIQt"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217517,
+      "name": "Jesus All Along",
+      "url": "https://open.spotify.com/track/6ygb4K6OsLNgLcTea6yeql"
+    },
+    {
+      "album": {
         "name": "Jesus Cries",
         "url": "https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4"
       },
@@ -2354,6 +2372,24 @@
       "duration_ms": 199698,
       "name": "Looking For You",
       "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
+    },
+    {
+      "album": {
+        "name": "Heaven On My Mind",
+        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171612,
+      "name": "Lord It Feels Good",
+      "url": "https://open.spotify.com/track/3myYQwCxhcHbX1mASCXPgn"
     },
     {
       "album": {
@@ -2680,7 +2716,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 176929,
       "name": "Nothin' Sweeter",
       "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
@@ -2760,7 +2796,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 224001,
       "name": "Oh My Soul (Psalm 103) (with Cece Winans)",
       "url": "https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv"
@@ -2894,7 +2930,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 186122,
       "name": "Raised By Wolves",
       "url": "https://open.spotify.com/track/4XGnVuu6qADqak2OVPtngQ"
@@ -3442,7 +3478,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 276651,
       "name": "The Author",
       "url": "https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb"

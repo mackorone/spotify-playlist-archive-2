@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 740402,
+  "num_followers": 740491,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
+        "name": "Tuesday (feat. Danelle Sandoval)",
+        "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
+      },
+      "artists": [
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        },
+        {
+          "name": "Danelle Sandoval",
+          "url": "https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF"
+        }
+      ],
+      "duration_ms": 241874,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
         "name": "Say What",
         "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 181593,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
-        "name": "Tuesday (feat. Danelle Sandoval)",
-        "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
-      },
-      "artists": [
-        {
-          "name": "Burak Yeter",
-          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
-        },
-        {
-          "name": "Danelle Sandoval",
-          "url": "https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF"
-        }
-      ],
-      "duration_ms": 241874,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -2083,6 +2063,26 @@
       "duration_ms": 331935,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
         "name": "Forever And A Day",
         "url": "https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 166230,
       "name": "Forever And A Day",
       "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
-        "name": "Quiver",
-        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
-      },
-      "artists": [
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 181459,
-      "name": "Quiver",
-      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
     },
     {
       "added_at": "2026-04-24 04:00:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hà An Huy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,774 likes - 31 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,780 likes - 31 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 12 | [Vừa Tìm Thấy Đã Đánh Mất](https://open.spotify.com/track/3SH5tOnm2HMnxn12BAmJrP) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Vừa Tìm Thấy Đã Đánh Mất](https://open.spotify.com/album/03PWhd6BlD8YZ5G586VwUi) | 4:22 |
 | 13 | [Dù Cho Mai Về Sau \- Chọn Gì? Chọn ĐI! Version](https://open.spotify.com/track/5xlhJGf3H8ID3cxHYpPq6C) | [Chọn gì? Chọn đi!](https://open.spotify.com/artist/61ydMyohF67xBZmWSPA3YQ), [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau \(Chọn Gì? Chọn ĐI! Version\)](https://open.spotify.com/album/2C7brYSwWEvGyXuwwUM4IM) | 3:40 |
 | 14 | [Anh Sẽ Đến Khi Em Cần](https://open.spotify.com/track/1tXFYeTfktEY8AXhAHW7dh) | [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT) | [Anh Sẽ Đến Khi Em Cần](https://open.spotify.com/album/7MJHLIDJJz2iWwOgWD5iaa) | 3:45 |
-| 15 | [Xiêu Lòng Việt Nam](https://open.spotify.com/track/2HyVA0cYA8vB8xrUeMZ8XH) | [Ngô Kiến Huy](https://open.spotify.com/artist/7at0gkjCnhOBrxwQlJPJ4s), [Jun Phạm](https://open.spotify.com/artist/5bJcxnt5lkrDyKfPjtSBxP), [CONGB](https://open.spotify.com/artist/0n5wPsNoNc7w1bElyNzY4Z), [Ân Nhi](https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD) | [Xiêu Lòng Việt Nam](https://open.spotify.com/album/5FnNXGFP6Dgwxqoj6oBHZt) | 3:38 |
+| 15 | [Xiêu Lòng Việt Nam](https://open.spotify.com/track/2HyVA0cYA8vB8xrUeMZ8XH) | [Ngô Kiến Huy](https://open.spotify.com/artist/7at0gkjCnhOBrxwQlJPJ4s), [Jun Phạm](https://open.spotify.com/artist/5bJcxnt5lkrDyKfPjtSBxP), [CONGB](https://open.spotify.com/artist/0n5wPsNoNc7w1bElyNzY4Z) | [Xiêu Lòng Việt Nam](https://open.spotify.com/album/5FnNXGFP6Dgwxqoj6oBHZt) | 3:38 |
 | 16 | [Ôm anh khi em muốn khóc](https://open.spotify.com/track/64HUjsKpwtShUO5DUdsEyw) | [Quang Vinh](https://open.spotify.com/artist/0IMvyEWySP665zddlejaSm), [Bảo Thy](https://open.spotify.com/artist/4DPEUF2kY7kVrbXX4Zgu7S) | [Ôm anh khi em muốn khóc](https://open.spotify.com/album/4nlGdpnNU0OdN9hQaVJOYg) | 4:09 |
 | 17 | [Mộc Miên](https://open.spotify.com/track/4dACabuMfu8vKYNfyuhwWp) | [Chi Xê](https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ), [The Flob](https://open.spotify.com/artist/0u5ikKYYDO2XGyYjNGQRGf) | [Mộc Miên](https://open.spotify.com/album/1ouVNr4q1pgYDJKurRfmIw) | 3:51 |
 | 18 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 |

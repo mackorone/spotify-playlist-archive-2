@@ -4,7 +4,7 @@
 
 > Felipe Araújo, Panda o e os maiores hits do país\. O que tá bombando tá aqui.
 
-721 songs - 1 day 12 hr 7 min
+722 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Banquinho \- Ao Vivo](https://open.spotify.com/track/1RkyWVwtYMAChNGZYluilS) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Banquinho \(Ao Vivo\)](https://open.spotify.com/album/3MRWTCGrSm3qOvPurcEMvl) | 2:38 | 2024-12-19 | 2025-02-15 |
 | [Baqueado \- Ao Vivo](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação \(Ao Vivo\)](https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC) | 2:26 | 2025-06-20 |  |
 | [Barbie](https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Barbie](https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL) | 3:12 | 2024-10-24 | 2025-06-14 |
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Barulho Do Foguete \- Ao Vivo](https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:13 | 2023-09-14 | 2024-08-23 |
 | [Basiquinho \- Ao Vivo](https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Basiquinho \(Ao Vivo\)](https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ) | 2:44 | 2022-09-08 | 2023-02-24 |
 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 | 2026-03-27 |  |

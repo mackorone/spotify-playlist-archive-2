@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > Enjoy your favorite Disney tunes, including "Zoo" from Zootopia 2!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,077,484 likes - 124 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,077,521 likes - 124 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

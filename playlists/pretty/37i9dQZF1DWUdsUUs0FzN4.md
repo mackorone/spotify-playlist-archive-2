@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con GRTSCH hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,449 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,446 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 26 | [Uno De Eses Gatos](https://open.spotify.com/track/7yG955s3KEoDrJkx5qa3WY) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 2:45 |
 | 27 | [PERDIÉNDOME EN EL MOOD](https://open.spotify.com/track/0ItH0fsYJ9YLLf59nFLjtv) | [Félix Vestre](https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb) | [ITALO MIXTAPE](https://open.spotify.com/album/6LEuKXo8oyW8NIJ6kjgkkG) | 2:51 |
 | 28 | [CÓMO QUIERES](https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI) | [CÓMO QUIERES](https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r) | 3:12 |
-| 29 | [Deseo](https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D) | [Alanis Yuki](https://open.spotify.com/artist/78wDefnHex943QL32ggbx6) | [Deseo](https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB) | 1:48 |
-| 30 | [ESTO TAMBIEN ES REGGAETON MEXA](https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [\(\(\(REXX\)\)\)](https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw) | 2:28 |
+| 29 | [ESTO TAMBIEN ES REGGAETON MEXA](https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [\(\(\(REXX\)\)\)](https://open.spotify.com/album/4a4gi4zJPboFcefHJZwYBw) | 2:28 |
+| 30 | [Deseo](https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D) | [Alanis Yuki](https://open.spotify.com/artist/78wDefnHex943QL32ggbx6) | [Deseo](https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB) | 1:48 |
 | 31 | [Pupilas](https://open.spotify.com/track/2qJqelZWIDkwYbNhJeSYFg) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Pupilas](https://open.spotify.com/album/4o5oja6EsezIFPdwfZhV2e) | 3:12 |
 | 32 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 |
 | 33 | [No veo bien](https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 66 | [Mirando La Luna](https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Mirando La Luna](https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm) | 3:31 |
 | 67 | [NÃO TEM FIN \(garota fav\)](https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [HOTCORE](https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB) | 2:43 |
 | 68 | [cash cash](https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [T.V ADDICT](https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K) | 2:41 |
-| 69 | [Sola](https://open.spotify.com/track/185XLbN4M3fs4FrKSXCqHV) | [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG), [Moodjaas](https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3) | [Sola](https://open.spotify.com/album/1R9bScq7ygXuJDEbBvBaBv) | 2:27 |
-| 70 | [claroscuro](https://open.spotify.com/track/24LLhRHvhaCSnhgoxc9CA6) | [Noize](https://open.spotify.com/artist/2IzieP3siLRSSp0fpSArfK), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [claroscuro](https://open.spotify.com/album/4GD5Ef3IQRMcwF5cPNnESl) | 2:36 |
+| 69 | [claroscuro](https://open.spotify.com/track/24LLhRHvhaCSnhgoxc9CA6) | [Noize](https://open.spotify.com/artist/2IzieP3siLRSSp0fpSArfK), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [claroscuro](https://open.spotify.com/album/4GD5Ef3IQRMcwF5cPNnESl) | 2:36 |
+| 70 | [Sola](https://open.spotify.com/track/185XLbN4M3fs4FrKSXCqHV) | [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG), [Moodjaas](https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3) | [Sola](https://open.spotify.com/album/1R9bScq7ygXuJDEbBvBaBv) | 2:27 |
 | 71 | [Puta & Rock Anthem](https://open.spotify.com/track/5Kv2lXC0Ve1maYx8qAGjRw) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [Porque Quise DELUXE](https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm) | 2:06 |
 | 72 | [F MY X \(I'M A MESS\)](https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [DESDE EL COMA](https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR) | 2:03 |
 | 73 | [CUANDO LLUEVA](https://open.spotify.com/track/5iLFWbFDC4UVVNRHNhIqQE) | [Blo](https://open.spotify.com/artist/0KUh8oxldeWuZ8pKAvvet4) | [CUANDO LLUEVA](https://open.spotify.com/album/4wSnDrKuZ4JShcIO6QIXRe) | 3:01 |

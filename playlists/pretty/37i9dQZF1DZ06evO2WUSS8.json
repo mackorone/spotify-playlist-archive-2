@@ -1,33 +1,13 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 15210,
+  "num_followers": 15211,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABWq409Bt64VBqbM+4HYJ11",
+  "snapshot_id": "ajCSAAAAAADVIzXtJVnIcI3KTNo/Txhd",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Can - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5z3eABZTGbCCP4LxkuUGgN"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 198745,
-      "name": "You Can - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5svecfVLEL5h846S2Kfdn4"
-    },
     {
       "added_at": null,
       "album": {
@@ -784,17 +764,21 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
         },
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Sheila Maurice-Grey",
+          "url": "https://open.spotify.com/artist/6213qnwAKa0wEJBVXxfOdC"
         }
       ],
-      "duration_ms": 202466,
-      "name": "For Me (feat. Charlie Wilson)",
-      "url": "https://open.spotify.com/track/2L3HhDof9fD0EFI1KCMWef"
+      "duration_ms": 196594,
+      "name": "Nadi Balance (feat. Sheila Maurice-Grey)",
+      "url": "https://open.spotify.com/track/5Z7HHsnGoG99HMM8KXuxda"
     },
     {
       "added_at": null,
@@ -811,6 +795,26 @@
       "duration_ms": 329189,
       "name": "Jerusalema",
       "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Do Yourself",
+      "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
     },
     {
       "added_at": null,
@@ -907,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Do Yourself",
-      "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOPE!!",
         "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
       },
@@ -936,21 +920,17 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
         },
         {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        },
-        {
-          "name": "Sheila Maurice-Grey",
-          "url": "https://open.spotify.com/artist/6213qnwAKa0wEJBVXxfOdC"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 196594,
-      "name": "Nadi Balance (feat. Sheila Maurice-Grey)",
-      "url": "https://open.spotify.com/track/5Z7HHsnGoG99HMM8KXuxda"
+      "duration_ms": 202466,
+      "name": "For Me (feat. Charlie Wilson)",
+      "url": "https://open.spotify.com/track/2L3HhDof9fD0EFI1KCMWef"
     },
     {
       "added_at": null,
@@ -991,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
       },
@@ -1015,18 +1011,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Logozo",
-        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+        "name": "You Can - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5z3eABZTGbCCP4LxkuUGgN"
       },
       "artists": [
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 276840,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
+      "duration_ms": 198745,
+      "name": "You Can - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5svecfVLEL5h846S2Kfdn4"
     },
     {
       "added_at": null,
@@ -1135,26 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An African",
-        "url": "https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2"
-      },
-      "artists": [
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "An African",
-      "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fifa",
         "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 224071,
       "name": "The World Will Know",
       "url": "https://open.spotify.com/track/2cTSxcvyIXDwyorRLGpHFE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An African",
+        "url": "https://open.spotify.com/album/3Z7hDe1tt7ThkDD1ssyjH2"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "An African",
+      "url": "https://open.spotify.com/track/1jxVp3UVwaRwB4EgSAFnIf"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

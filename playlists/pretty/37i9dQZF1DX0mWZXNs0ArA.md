@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,729 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,583 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 31 | [FRI\(END\)S \(Sped Up\)](https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:03 |
 | 32 | [eyes don't lie sped up](https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:09 |
 | 33 | [Atlantis \- Extra Sped Up Version](https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Atlantis](https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk) | 3:10 |
-| 34 | [Obsessed \- Sped Up](https://open.spotify.com/track/6gYCc3olxE5YjnIoF5CouN) | [Six Dior](https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa) | [Obsessed \(Sped Up\)](https://open.spotify.com/album/21t6njcg8r0YOL51j9Hwbu) | 3:34 |
-| 35 | [Shootout \(Sped Up\)](https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Sped Up\)](https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr) | 4:02 |
+| 34 | [Shootout \(Sped Up\)](https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Sped Up\)](https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr) | 4:02 |
+| 35 | [Obsessed \- Sped Up](https://open.spotify.com/track/6gYCc3olxE5YjnIoF5CouN) | [Six Dior](https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa) | [Obsessed \(Sped Up\)](https://open.spotify.com/album/21t6njcg8r0YOL51j9Hwbu) | 3:34 |
 | 36 | [die \(sped up\)](https://open.spotify.com/track/56YnSY2VyWLJPijfrzK6Gc) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:30 |
 | 37 | [Paro \- Speed Up](https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro \(Speed Up\)](https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL) | 2:33 |
 | 38 | [Summertime Sadness \- Sped Up](https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Summertime Sadness \(Sped Up\)](https://open.spotify.com/album/29PibmV31F3q6DRVq7gzZc) | 3:17 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 96 | [Perfect Night \(Sped Up ver.\)](https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Remix\)](https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1) | 2:08 |
 | 97 | [if u think i'm pretty \- sped up](https://open.spotify.com/track/1E7s51zCgiSqJhHnFvonAI) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/1sfetA5cWBhbBdIP6qstHo) | 1:40 |
 | 98 | [Murder On The Dancefloor \- Sped Up Version](https://open.spotify.com/track/6AUEDH2zNt9Ssn0V9InxDk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Murder On The Dancefloor \(Edits\)](https://open.spotify.com/album/54Ch49X0yluaniJTOeMdZF) | 3:13 |
-| 99 | [Blue Valentine \(Sped Up Ver.\)](https://open.spotify.com/track/4LiufIB6RRB2VaxjEOcnGF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/6jy5700dqaCui8Wosnaaar) | 2:30 |
-| 100 | [Midnight Sun \- Sped Up](https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(+ more\)](https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1) | 2:51 |
+| 99 | [Midnight Sun \- Sped Up](https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(+ more\)](https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1) | 2:51 |
+| 100 | [Blue Valentine \(Sped Up Ver.\)](https://open.spotify.com/track/4LiufIB6RRB2VaxjEOcnGF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/6jy5700dqaCui8Wosnaaar) | 2:30 |
 
 Snapshot ID: `AAAAAPiHKWK8ByBnTarGuUWbme9mqnlo`

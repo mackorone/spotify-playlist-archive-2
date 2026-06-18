@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-231 songs - 20 hr 33 min
+232 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [To Ne Dikha Hai Kabhi](https://open.spotify.com/track/69GrvktEn2ezemVh4OYrvq) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 5:16 | 2021-12-01 | 2025-06-03 |
 | [Tose Lage Nain](https://open.spotify.com/track/2rLx3Y0yEjEGfO9ydhl7cw) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Tose Lage Nain](https://open.spotify.com/album/4zokBbgS5ZFgVjs3WFO6Pj) | 5:54 | 2024-02-14 |  |
 | [Tujhe Paake](https://open.spotify.com/track/7qzr9JjGm2jlTZbEeBv8D7) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Tujhe Paake](https://open.spotify.com/album/6peEDpmpRFAuu3u9noH7XR) | 6:41 | 2024-04-26 | 2024-08-30 |
-| [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5DG2W3WACSbK5yFA1WpUiN) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/1KhfQKzO0BjpwDupugvOkr) | 5:04 | 2024-03-19 |  |
+| [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5DG2W3WACSbK5yFA1WpUiN) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/1KhfQKzO0BjpwDupugvOkr) | 5:04 | 2024-03-19 | 2026-06-18 |
 | [Tum Itna Jo Muskura Rahe Ho](https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:21 | 2021-12-01 | 2023-05-16 |
 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 | 2021-12-01 | 2023-08-25 |
 | [Tumne Jo Kuchh Kaha](https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ) | [Dilip Parihar](https://open.spotify.com/artist/4vo1NxhrGB8Gw7pjP30EV9) | [Tumne Jo Kuchh Kaha](https://open.spotify.com/album/5xTkDEELEs2J0EDzIhHTl3) | 7:10 | 2023-08-30 | 2023-10-13 |
@@ -231,6 +231,7 @@
 | [Woh Nahi Mera Magar \(Male\)](https://open.spotify.com/track/0Uj2q3Z8g1OiMwc98Rjlhw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghulam Ali Fantastic 5](https://open.spotify.com/album/6W4RhKBsth6Y371hcOd61j) | 6:18 | 2022-07-26 | 2023-12-14 |
 | [Woh Nahi Mera Magar \(Male\)](https://open.spotify.com/track/5D89anW7HUv01m8jLHQZ7s) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghulam Ali Fantastic 5](https://open.spotify.com/album/2R5vh8gBTTZw1PhXFBgtZp) | 6:18 | 2023-12-12 | 2024-04-19 |
 | [Woh Nahi Mera Magar \- Male Vocals](https://open.spotify.com/track/6gcQXc18soxkl2hSJ99Rx9) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Ritu Johri](https://open.spotify.com/artist/0mwzaAy1Z7DMLAQgU1iHb1) | [Master Strokes \- Ghazals](https://open.spotify.com/album/11Mz0ZeiVztXLHHt2jythE) | 6:18 | 2021-12-01 | 2025-01-01 |
+| [Yaar Khafaa \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/track/2EZCj4uuLzdhSYmQ9BaBa9) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Yaar Khafaa \(Irshad \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/26ejQYhPYbx9sMN1O79Isr) | 4:26 | 2026-06-16 |  |
 | [Yeh Arzoo Thi Tujhe Gul Ke](https://open.spotify.com/track/4LIVQbroVmruOhX8aXqu6z) | [Amanat Ali Khan](https://open.spotify.com/artist/5s29c3wPnXfRXbSKAxhmr1) | [Ustad Amanat Ali Khan Sings Ghazals](https://open.spotify.com/album/0GSK5Cdz6xnE7K5OOPyOj9) | 4:34 | 2021-12-01 | 2023-06-06 |
 | [Yeh Baatein Jhooti Baatein Hain](https://open.spotify.com/track/314nObmsitTTA0xsw9twzu) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [His Best Ever Ghazals Collection Ghulam Ali, Vol\. 2](https://open.spotify.com/album/5XDut6gB7SY1mP7GUygty4) | 5:24 | 2024-12-31 | 2025-07-16 |
 | [Yeh Watan Tumhara Hai](https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ae Mere Des](https://open.spotify.com/album/4qqhhBFB4eGbKCyDwxZRXj) | 5:38 | 2021-12-01 | 2023-02-18 |

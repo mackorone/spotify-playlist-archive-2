@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: PLAIINS
 
-968 songs - 2 day 6 hr 51 min
+969 songs - 2 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 | 2025-10-23 | 2026-03-27 |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |
 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 | 2025-04-24 |  |
+| [Until We Disappear](https://open.spotify.com/track/60D4kO3LotIriBmmlNMq8C) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Until We Disappear](https://open.spotify.com/album/0quqgH88zFlZ55AcRtcwa4) | 3:28 | 2026-06-11 |  |
 | [Up All Night](https://open.spotify.com/track/5rOzetfeTHK30dlGc7DBjU) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Up All Night](https://open.spotify.com/album/2I8N3vNB7506VwZK6ICyeK) | 3:07 | 2025-07-17 | 2025-07-25 |
 | [Up And Running](https://open.spotify.com/track/5foXN8yP2cHiqdSae8oKU2) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Up And Running](https://open.spotify.com/album/4RNHHIKdgZcnAbyy5ttEzT) | 3:12 | 2025-05-15 | 2025-05-23 |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-27 |  |

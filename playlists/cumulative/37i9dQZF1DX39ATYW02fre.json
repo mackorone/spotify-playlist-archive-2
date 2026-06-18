@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 141818,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY"
@@ -1280,6 +1280,24 @@
       "duration_ms": 230625,
       "name": "Earth - Edit",
       "url": "https://open.spotify.com/track/1d4Bj6OXYW2EKkOvlTME3C"
+    },
+    {
+      "album": {
+        "name": "Easy Come Easy Go",
+        "url": "https://open.spotify.com/album/6cDvB29D9ewom7OO9zb18T"
+      },
+      "artists": [
+        {
+          "name": "Tilja",
+          "url": "https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113246,
+      "name": "Easy Come Easy Go",
+      "url": "https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl"
     },
     {
       "album": {

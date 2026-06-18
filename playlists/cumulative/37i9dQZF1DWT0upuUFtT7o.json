@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "ELEGY",
+        "url": "https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8"
+      },
+      "artists": [
+        {
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "AN ELEPHANT NEVER FORGETS",
+      "url": "https://open.spotify.com/track/5KiIH8xcGoBdpj7oUJHjDH"
+    },
+    {
+      "album": {
         "name": "An Entire Lifetime",
         "url": "https://open.spotify.com/album/4PAO3jd5thDzSGdALWWH67"
       },
@@ -7171,6 +7189,24 @@
     },
     {
       "album": {
+        "name": "bike song",
+        "url": "https://open.spotify.com/album/0fbu9vTPsH04jlqaOXmVVj"
+      },
+      "artists": [
+        {
+          "name": "frank",
+          "url": "https://open.spotify.com/artist/0pCAo4FBQbbOARjAspt9uQ"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163263,
+      "name": "bike song",
+      "url": "https://open.spotify.com/track/03uUSZQFMxWp1Q9lvSRTLo"
+    },
+    {
+      "album": {
         "name": "Billabong Babe",
         "url": "https://open.spotify.com/album/4iG1MtI6JbD55Prajh5Yj2"
       },
@@ -9325,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3pWZJXOudRfL2qtYKmUf8H"
+      },
+      "artists": [
+        {
+          "name": "kelz",
+          "url": "https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258012,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2iJ36oE7tZqSL8A4Md0mWU"
+    },
+    {
+      "album": {
         "name": "CRY MFER",
         "url": "https://open.spotify.com/album/7g4M2kfMKd7bFJbYBPxWTD"
       },
@@ -10039,7 +10093,7 @@
     },
     {
       "album": {
-        "name": "Buttercup",
+        "name": "buttercup",
         "url": "https://open.spotify.com/album/24u8S8yWPezu70hemgvdp0"
       },
       "artists": [
@@ -10050,9 +10104,9 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 270226,
-      "name": "Buttercup",
+      "name": "buttercup",
       "url": "https://open.spotify.com/track/2tyG8HDeoOQpN5XHwB0e96"
     },
     {
@@ -10454,7 +10508,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 283255,
       "name": "can we just forget?",
       "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
@@ -12076,6 +12130,24 @@
       "duration_ms": 325102,
       "name": "Circles",
       "url": "https://open.spotify.com/track/0GZdhzwsSSzVT1rjqyHbbv"
+    },
+    {
+      "album": {
+        "name": "Love, I\u2019m Gonna Jump the Gap",
+        "url": "https://open.spotify.com/album/5yLA2gULxlGLguNgXmYbGn"
+      },
+      "artists": [
+        {
+          "name": "Monobloc",
+          "url": "https://open.spotify.com/artist/17UzuyF3fbCwsDfQIajIak"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226026,
+      "name": "City",
+      "url": "https://open.spotify.com/track/2br4WKnhhxmfhHdx4DgoZL"
     },
     {
       "album": {
@@ -21130,6 +21202,24 @@
       "duration_ms": 134347,
       "name": "For Me",
       "url": "https://open.spotify.com/track/4fcWrSIWnXlsU4yNB9lJk4"
+    },
+    {
+      "album": {
+        "name": "for once",
+        "url": "https://open.spotify.com/album/3RtuTFCCcvfwfwpxl2Ejhg"
+      },
+      "artists": [
+        {
+          "name": "Baileyrp",
+          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222089,
+      "name": "for once",
+      "url": "https://open.spotify.com/track/28Gw3YgKmd5hFftDJv3ktx"
     },
     {
       "album": {
@@ -33874,7 +33964,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 227453,
       "name": "KookieCannibal",
       "url": "https://open.spotify.com/track/4cBvn41NnVmR7EZmbI18xW"
@@ -36248,7 +36338,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 197328,
       "name": "Loose Tie",
       "url": "https://open.spotify.com/track/2nvhQYIsZGYQWAlO7NU0Ud"
@@ -39489,6 +39579,24 @@
     },
     {
       "album": {
+        "name": "missin out",
+        "url": "https://open.spotify.com/album/6ihE2wUfwA60kFyJXzplBH"
+      },
+      "artists": [
+        {
+          "name": "Dori Valentine",
+          "url": "https://open.spotify.com/artist/3uS3Hqh4mAJgkucQlbDz0w"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185850,
+      "name": "missin out",
+      "url": "https://open.spotify.com/track/3U9FVmRpGgHe7m54UN5J91"
+    },
+    {
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/6i5AzWynjnUCWj4C2NmAXw"
       },
@@ -41134,7 +41242,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 197720,
       "name": "Myself Again",
       "url": "https://open.spotify.com/track/3fpaarYQRRWIb3BiSM4Ffa"
@@ -51758,7 +51866,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 172379,
       "name": "Second Choice",
       "url": "https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs"
@@ -52216,7 +52324,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 130063,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
@@ -53024,6 +53132,24 @@
       "duration_ms": 169043,
       "name": "Sicksh!t",
       "url": "https://open.spotify.com/track/5p2y6K3T0HuWSNhMV1N9u3"
+    },
+    {
+      "album": {
+        "name": "Side On",
+        "url": "https://open.spotify.com/album/2TtRgcTgoO8lkzV3pt69Ic"
+      },
+      "artists": [
+        {
+          "name": "Ebbb",
+          "url": "https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230833,
+      "name": "Side On",
+      "url": "https://open.spotify.com/track/2dPPPVBWx0Kfofh3ql89E5"
     },
     {
       "album": {
@@ -54162,7 +54288,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 309947,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2ipXB1iXNOVsNiAuWkTsY3"
@@ -54688,7 +54814,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 172016,
       "name": "some thing special",
       "url": "https://open.spotify.com/track/5C1axVGQqPrmZMzFA7pE6R"
@@ -59386,6 +59512,24 @@
       "duration_ms": 179358,
       "name": "taste of u",
       "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
+    },
+    {
+      "album": {
+        "name": "Tastes Like",
+        "url": "https://open.spotify.com/album/08hISP1omTAoTnfpLIjyJQ"
+      },
+      "artists": [
+        {
+          "name": "Lockimara",
+          "url": "https://open.spotify.com/artist/6drdBXL5XPxCQnOdBz6rJx"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "Tastes Like",
+      "url": "https://open.spotify.com/track/250iYG82IKXiN4vQ76CzbL"
     },
     {
       "album": {

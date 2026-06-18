@@ -1,6 +1,6 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 165996,
+  "num_followers": 166028,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-08-23 02:54:08",
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Jam\u00e1s",
-      "url": "https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE"
-    },
-    {
-      "added_at": "2024-08-23 02:54:08",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 312560,
       "name": "Todo Se Derrumb\u00f3 Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z"
+    },
+    {
+      "added_at": "2024-08-23 02:54:08",
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Jam\u00e1s",
+      "url": "https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE"
     },
     {
       "added_at": "2024-08-23 02:54:08",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-08-23 02:54:08",
       "album": {
+        "name": "Yo S\u00e9 Que Te Acordar\u00e1s Pop Latino (Vol. 2)",
+        "url": "https://open.spotify.com/album/7wdGqytcLvhJCFkE2t5pNZ"
+      },
+      "artists": [
+        {
+          "name": "Pilar Montenegro",
+          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/41MbmJ4NShxvMc8KrsmiiE"
+    },
+    {
+      "added_at": "2024-08-23 02:54:08",
+      "album": {
         "name": "Coleccion definitiva (Deluxe)",
         "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 273373,
       "name": "Te lo agradezco, pero no (feat. Shakira)",
       "url": "https://open.spotify.com/track/67g3Wn5bMFDV4qGICl4u6J"
-    },
-    {
-      "added_at": "2024-08-23 02:54:08",
-      "album": {
-        "name": "Yo S\u00e9 Que Te Acordar\u00e1s Pop Latino (Vol. 2)",
-        "url": "https://open.spotify.com/album/7wdGqytcLvhJCFkE2t5pNZ"
-      },
-      "artists": [
-        {
-          "name": "Pilar Montenegro",
-          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/41MbmJ4NShxvMc8KrsmiiE"
     },
     {
       "added_at": "2024-08-23 02:54:08",

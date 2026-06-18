@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Gabriel Elias
 
-509 songs - 1 day 2 hr 23 min
+510 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Baião de Dois](https://open.spotify.com/track/2NpwZ1TSdsvIskfA2NB3so) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Baião de Dois](https://open.spotify.com/album/7bTDuqJds2OPlvZW4KRjpM) | 3:39 | 2023-08-11 | 2023-09-02 |
 | [BAND AID](https://open.spotify.com/track/559wvblkF220hUMBLzPPkm) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [BAND AID](https://open.spotify.com/album/3c5Ss0F9cGs948GxcUYbWe) | 2:37 | 2023-04-14 | 2023-06-24 |
 | [Bandida](https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Bandida](https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY) | 3:27 | 2023-12-01 | 2024-01-20 |
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Barulho Das Ondas](https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Barulho Das Ondas](https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6) | 3:28 | 2025-07-25 |  |
 | [BASQUIAT](https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Ramon Calixto](https://open.spotify.com/artist/57LISFynxucEx3WF6Iqxq8) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:14 | 2025-05-30 |  |
 | [Beija e Arranha](https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Beija e Arranha](https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3) | 2:52 | 2022-12-09 | 2023-02-11 |
@@ -103,7 +104,7 @@
 | [Coração Pisciano](https://open.spotify.com/track/5VfvCrEYlOASsqhBvceeba) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Rapha Renó](https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh) | [Coração Pisciano](https://open.spotify.com/album/715QE6k8vb9r6T6WSYMKmK) | 2:01 | 2023-02-04 | 2023-07-08 |
 | [Cores](https://open.spotify.com/track/3fTHgagwDjYGPlP1I3s2BN) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Cores](https://open.spotify.com/album/6d6WTiErixRrxdKpfLTSkt) | 2:28 | 2023-12-08 | 2024-01-20 |
 | [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 | 2026-05-22 |  |
-| [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 | 2022-12-09 |  |
+| [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 | 2022-12-09 | 2026-06-18 |
 | [Cupido Querido](https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 3:18 | 2024-03-08 | 2024-10-12 |
 | [CÉU](https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Saffi](https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 4:26 | 2024-07-26 | 2024-09-14 |
 | [Céu Lilás](https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Coisas De Amor](https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v) | 3:29 | 2022-09-02 | 2022-09-21 |

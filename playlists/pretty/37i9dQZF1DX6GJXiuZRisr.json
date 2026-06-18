@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1615883,
+  "num_followers": 1615900,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Empty Theatre, Pretty Picture",
-        "url": "https://open.spotify.com/album/4MXinFbftiy9loZOapfUhu"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Davey Havok",
-          "url": "https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Empty Theatre, Pretty Picture",
-      "url": "https://open.spotify.com/track/7Djw8fIOWbZC7T6JMxLLZ8"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 249573,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "Empty Theatre, Pretty Picture",
+        "url": "https://open.spotify.com/album/4MXinFbftiy9loZOapfUhu"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Davey Havok",
+          "url": "https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Empty Theatre, Pretty Picture",
+      "url": "https://open.spotify.com/track/7Djw8fIOWbZC7T6JMxLLZ8"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
         "name": "Tibet",
         "url": "https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "Manta",
         "url": "https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5"
       },
@@ -1319,26 +1319,6 @@
       "duration_ms": 247152,
       "name": "Manta",
       "url": "https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Bo Bruce",
-          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
-        }
-      ],
-      "duration_ms": 214764,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1363,6 +1343,26 @@
       "duration_ms": 220952,
       "name": "Cheating Heart",
       "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "duration_ms": 214764,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "before you go",
-        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
-      },
-      "artists": [
-        {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "before you go",
-      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "Surrender Your Love (Progressive Edit)",
         "url": "https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 185629,
       "name": "Surrender Your Love - Progressive Edit",
       "url": "https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "before you go",
+        "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
+      },
+      "artists": [
+        {
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "before you go",
+      "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
     },
     {
       "added_at": "2026-05-29 04:01:48",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2026-05-29 04:01:48",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
-    },
-    {
-      "added_at": "2026-05-29 04:01:48",
-      "album": {
         "name": "The Good Part",
         "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 191250,
       "name": "The Good Part",
       "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
+    },
+    {
+      "added_at": "2026-05-29 04:01:48",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
     },
     {
       "added_at": "2026-05-29 04:01:48",

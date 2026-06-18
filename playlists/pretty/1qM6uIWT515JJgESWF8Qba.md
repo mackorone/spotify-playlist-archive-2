@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 481 likes - 60 songs - 3 hr 49 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 483 likes - 61 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 58 | [OD](https://open.spotify.com/track/2auWC9LUGBbQCqyXue9pOA) | [McMillin](https://open.spotify.com/artist/63WAZqhumZpHnlE3eNpTyc) | [Only From Afar](https://open.spotify.com/album/7gmKggoLmxku8JxQVRQaIy) | 2:50 |
 | 59 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 |
 | 60 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 |
+| 61 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 |
 
-Snapshot ID: `AAAB6p/w5a4FIA9pQagNwH2WUuJsJ3kO`
+Snapshot ID: `AAAB60nBir9HUH6BvJd5JiyRh+VTPYOR`

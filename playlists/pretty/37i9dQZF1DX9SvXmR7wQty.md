@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Tove Lo x Stromae, Souldia, Fredz, La Sécurité, GreenWoodz, KNLO, Poirier, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,184 likes - 99 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,189 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

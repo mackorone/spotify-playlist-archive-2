@@ -5613,6 +5613,32 @@
     },
     {
       "album": {
+        "name": "Mayathe",
+        "url": "https://open.spotify.com/album/1TG3y4oaT0MCY4TYu5jLSJ"
+      },
+      "artists": [
+        {
+          "name": "Shamil Zam",
+          "url": "https://open.spotify.com/artist/7vVrMdSlEEdk2boWellWJV"
+        },
+        {
+          "name": "Adz",
+          "url": "https://open.spotify.com/artist/0jTYDTKvLDBHL8Fi3gYnFc"
+        },
+        {
+          "name": "IRFAN",
+          "url": "https://open.spotify.com/artist/1FH0ZYX39KIwvIPgzLBFJP"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Mayathe",
+      "url": "https://open.spotify.com/track/61CKoHd3SA0JMm2DMqg72G"
+    },
+    {
+      "album": {
         "name": "Mayatheeram",
         "url": "https://open.spotify.com/album/2ahKKTbwW8CnpTE6Lnu8dH"
       },
@@ -6686,6 +6712,24 @@
       "duration_ms": 213818,
       "name": "NERA",
       "url": "https://open.spotify.com/track/2xQTNL2WMBDZdeWup9EZjs"
+    },
+    {
+      "album": {
+        "name": "Neram",
+        "url": "https://open.spotify.com/album/6CmoEGF3Iv8AETYbfRyhY6"
+      },
+      "artists": [
+        {
+          "name": "Gokul Krishna",
+          "url": "https://open.spotify.com/artist/2OPRT7wn9WQ8EO3bdU7H9X"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278238,
+      "name": "Neram",
+      "url": "https://open.spotify.com/track/74XdmBHCo8r06NTModpjqM"
     },
     {
       "album": {
@@ -7984,7 +8028,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 234544,
       "name": "POORAM",
       "url": "https://open.spotify.com/track/3DbOifbuiNas99pgj22w2d"

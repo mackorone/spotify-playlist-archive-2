@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Fousheé
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,998 likes - 152 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,961 likes - 152 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

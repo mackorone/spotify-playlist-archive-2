@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 586557,
+  "num_followers": 586606,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADixKUONR/T3ozItCYwYfGh",
+  "snapshot_id": "ajCSAAAAAAD4mKeSttO1L5WaojaDA0fq",
   "tracks": [
     {
       "added_at": null,
@@ -231,38 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 280130,
-      "name": "King",
-      "url": "https://open.spotify.com/track/31ABtQJdfloNaGz7ZhXaN5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 268886,
-      "name": "Sympathy Magic",
-      "url": "https://open.spotify.com/track/6ExwNwWLXvvKr5hk6lkHUY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -287,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
       },
       "artists": [
         {
@@ -296,9 +264,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 259208,
-      "name": "Which Witch",
-      "url": "https://open.spotify.com/track/0vza2CsUtpjydQVV2E4TOm"
+      "duration_ms": 268886,
+      "name": "Sympathy Magic",
+      "url": "https://open.spotify.com/track/6ExwNwWLXvvKr5hk6lkHUY"
     },
     {
       "added_at": null,
@@ -312,15 +280,15 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 214046,
-      "name": "Daffodil",
-      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/31ABtQJdfloNaGz7ZhXaN5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
       "artists": [
         {
@@ -328,9 +296,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 220155,
-      "name": "The Old Religion",
-      "url": "https://open.spotify.com/track/6Z2hokFLCbEXKnnBosDj8u"
+      "duration_ms": 259208,
+      "name": "Which Witch",
+      "url": "https://open.spotify.com/track/0vza2CsUtpjydQVV2E4TOm"
     },
     {
       "added_at": null,
@@ -351,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
       },
       "artists": [
         {
@@ -360,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 218613,
-      "name": "Girl With One Eye",
-      "url": "https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM"
+      "duration_ms": 220155,
+      "name": "The Old Religion",
+      "url": "https://open.spotify.com/track/6Z2hokFLCbEXKnnBosDj8u"
     },
     {
       "added_at": null,
@@ -376,15 +344,15 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 227374,
-      "name": "Dream Girl Evil",
-      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
+      "duration_ms": 214046,
+      "name": "Daffodil",
+      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
       "artists": [
         {
@@ -392,25 +360,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 263936,
-      "name": "Witch Dance",
-      "url": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb"
+      "duration_ms": 218613,
+      "name": "Girl With One Eye",
+      "url": "https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM"
     },
     {
       "added_at": null,
@@ -439,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 263936,
+      "name": "Witch Dance",
+      "url": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -448,9 +416,41 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 213102,
-      "name": "Choreomania",
-      "url": "https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6"
+      "duration_ms": 227374,
+      "name": "Dream Girl Evil",
+      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From Final Fantasy XV",
+        "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 245780,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From Final Fantasy XV",
-        "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 245780,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
+      "duration_ms": 213102,
+      "name": "Choreomania",
+      "url": "https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6"
     },
     {
       "added_at": null,

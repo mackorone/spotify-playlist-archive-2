@@ -1,6 +1,6 @@
 {
   "description": "The best in South African and international R&B. Cover: lordkez",
-  "num_followers": 31892,
+  "num_followers": 31898,
   "original_name": "R&Beats",
   "owner": {
     "name": "Spotify",
@@ -444,10 +444,6 @@
           "url": "https://open.spotify.com/artist/5BFEr8AvjXPRGzf1hZyel3"
         },
         {
-          "name": "Crunchy Sweater",
-          "url": "https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY"
-        },
-        {
           "name": "Packed Rich",
           "url": "https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94"
         }
@@ -827,6 +823,22 @@
     {
       "added_at": "2026-06-12 12:29:42",
       "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2026-06-12 12:29:42",
+      "album": {
         "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
         "url": "https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7"
       },
@@ -851,34 +863,22 @@
     {
       "added_at": "2026-06-12 12:29:42",
       "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
       },
       "artists": [
         {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
-    },
-    {
-      "added_at": "2026-06-12 12:29:42",
-      "album": {
-        "name": "do what i say",
-        "url": "https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E"
-      },
-      "artists": [
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 188562,
-      "name": "do what i say",
-      "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
+      "duration_ms": 172081,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
     }
   ],
   "unique_name": "R&Beats",

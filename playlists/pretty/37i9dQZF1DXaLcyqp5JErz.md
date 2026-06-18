@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,060 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,147 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 22 | [Fiel a Mim](https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 7:22 |
 | 23 | [Abraça\-Me](https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Adoração](https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC) | 4:49 |
 | 24 | [Aclame ao Senhor \- Ao Vivo](https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS) | 7:35 |
-| 25 | [Abra os Olhos do Meu Coração \- Ao Vivo em Curitiba](https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 8:31 |
-| 26 | [Aos Pés da Cruz](https://open.spotify.com/track/2Ab8zrDctK010iNqBGCrUt) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Histórias e Bicicletas](https://open.spotify.com/album/4JQYqu6oRSh7pEj2YS4Ggc) | 5:39 |
+| 25 | [Aos Pés da Cruz](https://open.spotify.com/track/2Ab8zrDctK010iNqBGCrUt) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Histórias e Bicicletas](https://open.spotify.com/album/4JQYqu6oRSh7pEj2YS4Ggc) | 5:39 |
+| 26 | [Abra os Olhos do Meu Coração \- Ao Vivo em Curitiba](https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 8:31 |
 | 27 | [Vai Valer a Pena \- Ao Vivo](https://open.spotify.com/track/6FOZMPsV4o3dMj7juFrXMT) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia \(ao Vivo\)](https://open.spotify.com/album/0xXNfRTcKA1nhuls2DC7Tj) | 4:57 |
 | 28 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
 | 29 | [Quer Vitória \- Ao Vivo](https://open.spotify.com/track/3gXDmMNei3ZZacsIRGhHOs) | [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Ao Vivo](https://open.spotify.com/album/7Jwn9McsZwU3pW49BXa2SH) | 4:38 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 35 | [Sobre As Águas](https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [20 Anos de Adoração](https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5) | 5:48 |
 | 36 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 | 37 | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \- Ao Vivo](https://open.spotify.com/track/5otPb7Zvj6WOa7hoUk11sI) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \(Ao Vivo\)](https://open.spotify.com/album/5iVinoFUTYOa4XxG98xxOA) | 6:39 |
-| 38 | [O Escudo](https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG) | [Voz da Verdade](https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71) | [O Melhor de Deus Esta Por Vir](https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5) | 4:25 |
-| 39 | [Deserto](https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Deserto](https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK) | 5:02 |
+| 38 | [Deserto](https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Deserto](https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK) | 5:02 |
+| 39 | [O Escudo](https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG) | [Voz da Verdade](https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71) | [O Melhor de Deus Esta Por Vir](https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5) | 4:25 |
 | 40 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/5JfiqvXnyiGfATt2c5sqJQ) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Diante do Trono 10 Anos \- Tempo de Festa \(Ao Vivo\)](https://open.spotify.com/album/2EWR5135TNFC58nhMIalIG) | 11:08 |
 | 41 | [Santo Pra Sempre](https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Santo Pra Sempre](https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f) | 5:11 |
 | 42 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 |

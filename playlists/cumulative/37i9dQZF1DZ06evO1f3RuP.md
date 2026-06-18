@@ -4,7 +4,7 @@
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-42 songs - 1 hr 50 min
+43 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 | 2025-11-20 |  |
 | [all of that](https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:09 | 2025-11-29 |  |
 | [all of that](https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [all of that](https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp) | 2:09 | 2025-11-20 | 2025-11-29 |
+| [Automatic](https://open.spotify.com/track/6BgdkRfOOxxOnARUTuAFs8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY \(Nano Mixes\)](https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y) | 2:03 | 2026-06-18 |  |
 | [Best I've Ever Had](https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Best I've Ever Had](https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4) | 2:54 | 2025-11-20 |  |
 | [BOTH](https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Sophie Gray](https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS) | [BOTH](https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC) | 2:34 | 2025-11-20 |  |
 | [boys lie](https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO) | 2:25 | 2025-11-20 |  |

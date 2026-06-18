@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 12012,
+  "num_followers": 12017,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADv5a48CY0nAKj0s6+/Zvci",
+  "snapshot_id": "ajCSAAAAAADYqk2Ke9kNPPSPcrJ/Cv3h",
   "tracks": [
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Time",
-        "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 182068,
-      "name": "All My Time",
-      "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hating Game (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
+        "name": "All My Time",
+        "url": "https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196606,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+      "duration_ms": 182068,
+      "name": "All My Time",
+      "url": "https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 279614,
+      "name": "Animals & Angels",
+      "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortune Favors The Bold",
         "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 218164,
       "name": "Fortune Favors The Bold",
       "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carry",
-        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 279614,
-      "name": "Animals & Angels",
-      "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
     },
     {
       "added_at": null,

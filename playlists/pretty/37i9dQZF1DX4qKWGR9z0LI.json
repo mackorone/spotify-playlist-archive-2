@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1877900,
+  "num_followers": 1877813,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Historia De Un Sonero",
+        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 266173,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 262641,
       "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Historia De Un Sonero",
-        "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 266173,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1579,8 +1579,8 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "La Carrera",
-        "url": "https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H"
+        "name": "Fue Culpa De Usted",
+        "url": "https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ"
       },
       "artists": [
         {
@@ -1588,13 +1588,13 @@
           "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
         },
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 220851,
-      "name": "La Carrera",
-      "url": "https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss"
+      "duration_ms": 207423,
+      "name": "Fue Culpa De Usted",
+      "url": "https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1671,8 +1671,8 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Fue Culpa De Usted",
-        "url": "https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ"
+        "name": "La Carrera",
+        "url": "https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H"
       },
       "artists": [
         {
@@ -1680,13 +1680,13 @@
           "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
         },
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 207423,
-      "name": "Fue Culpa De Usted",
-      "url": "https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO"
+      "duration_ms": 220851,
+      "name": "La Carrera",
+      "url": "https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss"
     },
     {
       "added_at": "2026-05-08 04:03:11",

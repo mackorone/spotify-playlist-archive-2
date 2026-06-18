@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-550 songs - 1 day 10 hr 1 min
+553 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 | 2025-12-25 | 2026-01-21 |
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2026-02-13 | 2026-03-04 |
 | [Baby Face](https://open.spotify.com/track/3bRmQElmc3Pk37dcGOdlp3) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:30 | 2026-05-15 | 2026-06-13 |
+| [Back 40](https://open.spotify.com/track/0iaNSdzQj8xsukNbny7g5Y) | [PICKLE JUICE](https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS) | [The Whiteroom](https://open.spotify.com/album/5guju2jxu3skCcJqbijGHN) | 3:07 | 2026-06-18 |  |
 | [Back on the Chain Gang](https://open.spotify.com/track/780AZOfAaKecd83UUEYqVW) | [Gigi Scott](https://open.spotify.com/artist/333VviZLcrBgqyvaX9Tab8) | [Back on the Chain Gang](https://open.spotify.com/album/1TtpRhlOogrGGRaf1Zr2wV) | 4:09 | 2025-12-29 | 2026-01-21 |
 | [Back to Zero](https://open.spotify.com/track/5h4P5D7fapPvJE2u9Z4V03) | [Aaron Friend & the Enemies](https://open.spotify.com/artist/1w0QljQB8KWyuRWEnBgTeM) | [Back to Zero](https://open.spotify.com/album/2YVLvdyUCUsHdT9dhzUxHv) | 2:55 | 2025-11-26 | 2026-01-05 |
 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 | 2026-03-14 | 2026-04-20 |
@@ -179,6 +180,7 @@
 | [Former Familiars](https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Former Familiars](https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4) | 4:21 | 2026-03-18 | 2026-04-20 |
 | [FREAKS](https://open.spotify.com/track/1ZtQmNimRvDM35hqQO3QHa) | [YESLA](https://open.spotify.com/artist/7CbFOx3il5PpL5FJQVxvle) | [FREAKS](https://open.spotify.com/album/1H6e90sxK6XJWm3F8Qm0vR) | 2:27 | 2026-05-01 | 2026-06-13 |
 | [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 | 2026-06-02 |  |
+| [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 | 2026-06-18 |  |
 | [Full Sway](https://open.spotify.com/track/3Rki4S4PaAnrsceZ58IIE0) | [Blue Drip](https://open.spotify.com/artist/7GgaHnzEx7IFkJearygbKk) | [Full Sway](https://open.spotify.com/album/6sSBHo3QJj5BRTlGNFSXgX) | 3:39 | 2026-02-20 | 2026-05-26 |
 | [Furniture](https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Furniture](https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq) | 4:07 | 2025-12-30 | 2026-02-04 |
 | [Gave my life for Rock'n'Roll](https://open.spotify.com/track/0CDJYw9HCLnv3IUTPSke9e) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 2:52 | 2026-03-21 |  |
@@ -445,6 +447,7 @@
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 | 2026-02-18 |
 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 | 2026-04-06 | 2026-06-13 |
 | [Sweet](https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Sweet](https://open.spotify.com/album/7muOUl9NozJmVQjPGsiAvD) | 2:30 | 2026-05-19 |  |
+| [Table for two](https://open.spotify.com/track/3MBEjrMog5LFLgbOFwgfDn) | [Seven Streets](https://open.spotify.com/artist/61zHO5qtdK8nvpi2aUQSiN) | [Table for two](https://open.spotify.com/album/51eiEwuzPoxAEIhYB7qtZQ) | 4:03 | 2026-06-18 |  |
 | [Take It All](https://open.spotify.com/track/5nT6DhBRP9cBIUYOhJInIR) | [Elephants and Stars](https://open.spotify.com/artist/54Zp1dCml1gwRKAP7P9dj4) | [Take It All](https://open.spotify.com/album/3FwxaV4IROjyNFVJyOjVWP) | 3:22 | 2026-04-19 | 2026-06-13 |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-01 | 2026-02-04 |
 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 | 2026-03-12 | 2026-04-20 |

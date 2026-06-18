@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 
 > <a href="spotify:artist:68McnNC9twEtiynOAJRRgZ">Uncle Waffles</a>' favorite tracks\. Updated regularly\. Curated by Uncle Waffles\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,968 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,978 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN0bYSgIbPk.md) - [plain]
 | 3 | [Get Up \(feat\. Chamillionaire\)](https://open.spotify.com/track/3rKCDtV8UcF0RytSiXxypc) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:21 |
 | 4 | [Touch It](https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Big Bang](https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq) | 3:34 |
 | 5 | [Mzala \(feat\. Tango Supreme\)](https://open.spotify.com/track/5DED4GtVG1JoOjHsSlHnqR) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Mzala \(feat\. Tango Supreme\)](https://open.spotify.com/album/4qcQsHhLCuP2kxiE9SjrpH) | 7:51 |
-| 6 | [Too Cool](https://open.spotify.com/track/0BiNrSii4STgbogOomWg9C) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Shoes Meister](https://open.spotify.com/artist/6MffmCkRcA2yhLFxJQQNrv) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 6:08 |
+| 6 | [Too Cool](https://open.spotify.com/track/0BiNrSii4STgbogOomWg9C) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Shoes Meister](https://open.spotify.com/artist/6MffmCkRcA2yhLFxJQQNrv), [W4DE](https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 6:08 |
 | 7 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 8 | [CRANK](https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CRANK](https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT) | 2:55 |
 | 9 | [Cherry](https://open.spotify.com/track/7Colh0y9u2CsLFuhoRyCEI) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [F.I.G](https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX) | 2:50 |

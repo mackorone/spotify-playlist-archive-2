@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Tove Styrke
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Honey Dijon
 
 1,855 songs - 4 day 4 hr 45 min
 

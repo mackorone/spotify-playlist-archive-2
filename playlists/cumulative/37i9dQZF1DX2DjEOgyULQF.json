@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Lovely Morning",
+        "url": "https://open.spotify.com/album/0HjC9SYv4MqU1yKjeTUeik"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201402,
+      "name": "A Lovely Morning",
+      "url": "https://open.spotify.com/track/5Rch63Aa78BPZj0oCNSxLL"
+    },
+    {
+      "album": {
         "name": "A Moments Rest",
         "url": "https://open.spotify.com/album/0vakLKm6vIai7276TJhWFB"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 160076,
       "name": "Crystal Shore",
       "url": "https://open.spotify.com/track/1B7gbkPVwmZdCE0PZpglzl"

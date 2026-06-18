@@ -4,11 +4,12 @@
 
 > All live, all blues\. Cover: Samantha Fish
 
-180 songs - 18 hr 20 min
+181 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Better Man](https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Live 2014 \(Nighttrain To Budapest Farewell Tour\)](https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3) | 6:08 | 2020-10-30 |  |
+| [A Million Miles Away \(Live\)](https://open.spotify.com/track/0bJD6MRz7YPvVUsXv8kMQP) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 7:58 | 2026-06-17 |  |
 | [Alabama \- Live](https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Alabama \(Live\)](https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM) | 3:26 | 2020-10-30 |  |
 | [Always Free \(Live in Austin\) \[Live\]](https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends \(Live in Austin\)](https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj) | 7:36 | 2022-09-30 |  |
 | [Another Ten Years Gone \- Live](https://open.spotify.com/track/1VRIqZPeT8am357EyPsP8N) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Another Ten Years Gone \(Live\)](https://open.spotify.com/album/6aXeAQUsyXUKzpIbDZqYkD) | 6:50 | 2023-08-11 |  |
@@ -87,7 +88,7 @@
 | [Let Me Know](https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch) | [Walter Trout and The Free Radicals](https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht) | [Live Trout Vol\. 1](https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1) | 5:04 | 2020-10-30 |  |
 | [Let Me Know](https://open.spotify.com/track/6VfK8MlwXtfKZEGCpE1OLk) | [Walter Trout and The Free Radicals](https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht) | [Live Trout Vol\. 1](https://open.spotify.com/album/5r4Lb5EDyEin9UOGemXbYr) | 5:04 | 2020-10-30 | 2024-04-12 |
 | [Let Me Love You Baby \- Live](https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Let Me Love You Baby \(Live\)](https://open.spotify.com/album/77bZYLZQxXW4zaXb5kdiSR) | 5:35 | 2020-10-30 | 2024-04-19 |
-| [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 | 2020-10-30 |  |
+| [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 | 2020-10-30 | 2026-06-18 |
 | [Little Wing \- Live at LOCKN' / 2019](https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 6:53 | 2021-06-11 | 2023-07-19 |
 | [Little Wing \- Live at LOCKN' / 2019](https://open.spotify.com/track/5vjFiCBjqqVV2CJj8fJYJt) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Little Wing \(Live at LOCKN' / 2019\)](https://open.spotify.com/album/03rUt9AiKYNGCOQ9zA0g4k) | 6:53 | 2021-06-11 | 2022-07-29 |
 | [Lonesome Whistle Blues \(Live\)](https://open.spotify.com/track/75QEITVgnbtUomK27erkds) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 4:21 | 2020-10-30 | 2024-03-23 |

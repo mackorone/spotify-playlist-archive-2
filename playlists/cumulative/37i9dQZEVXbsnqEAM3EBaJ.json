@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Alejandra",
       "url": "https://open.spotify.com/track/3dGkOQk5Ac81hpd03M7egy"
@@ -17374,7 +17374,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 184000,
       "name": "En puntillas tras de ti",
       "url": "https://open.spotify.com/track/1W5rVxwo98IrgCMa7Mmb41"
@@ -43988,7 +43988,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 132801,
       "name": "Power Rangers S.P.D.",
       "url": "https://open.spotify.com/track/3F4LSYdWTnz5cc1SgYwv7h"
@@ -44010,6 +44010,24 @@
       "duration_ms": 116387,
       "name": "Power Rangers Time Force",
       "url": "https://open.spotify.com/track/06SbvHwcGhASyxx1zmabhr"
+    },
+    {
+      "album": {
+        "name": "Power Rangers Theme Songs, Pt. 1",
+        "url": "https://open.spotify.com/album/6q2dDfUXYvMDUkaatjvF2D"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126828,
+      "name": "Power Rangers Turbo",
+      "url": "https://open.spotify.com/track/5WWk3eWxCXL5jivs9hWyFe"
     },
     {
       "album": {

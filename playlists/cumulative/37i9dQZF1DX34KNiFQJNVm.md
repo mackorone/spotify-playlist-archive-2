@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Zé Neto & Cristiano, BTS, Ricky Martin com Luan Santana, Olivia Rodrigo e muito mais!
 
-18,723 songs - 39 day 17 hr 27 min
+18,724 songs - 39 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1852,6 +1852,7 @@
 | [Barretão](https://open.spotify.com/track/4neMZ5gXjse4vaOOEKkidj) | [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk), [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk) | [Barretão](https://open.spotify.com/album/4CaMXQ4v9v0AfHDGnEwEp6) | 1:58 | 2024-08-16 | 2024-08-24 |
 | [Barriga da Mamãe \- Ao Vivo](https://open.spotify.com/track/3y2cWO1Z5AiQlsDD9LkzmQ) | [Débora & Daniela](https://open.spotify.com/artist/3O4oCrI8bsnuk5X6mrjjb7), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Barriga da Mamãe \(Ao Vivo\)](https://open.spotify.com/album/6HK7NDzPomUIJLFA0vB7BP) | 3:41 | 2022-10-07 | 2022-10-15 |
 | [BARRIL DOBRADO](https://open.spotify.com/track/7xaddKWtArM969FhiGYAdY) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [BARRIL DOBRADO](https://open.spotify.com/album/0D6NdLJd952BvwlMksyka3) | 2:46 | 2025-12-05 | 2025-12-12 |
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Barulhinho](https://open.spotify.com/track/0urOfIyJtiU86jL3Mj22nv) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Ninguém Tá Só](https://open.spotify.com/album/1yox9486bIjcXseaXMZ7zf) | 2:35 | 2024-11-22 | 2024-11-30 |
 | [Barulhinho](https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Barulhinho](https://open.spotify.com/album/1gFplCaLXiRiMHccV2BrIv) | 2:49 | 2023-07-14 | 2023-07-22 |
 | [Barulhinho \(Eu Acho Que Vi Um Gatinho\) \- Ao Vivo](https://open.spotify.com/track/4j1ouYRZXesQwCm7Qy52Nt) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk) | [CountryBeat na ExpoLondrina \(Ao Vivo\)](https://open.spotify.com/album/10lThBHe4XXc9ifTbXvVZU) | 1:44 | 2026-05-15 | 2026-05-22 |
@@ -7350,7 +7351,7 @@
 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 | 2024-10-25 | 2024-11-02 |
 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 | 2023-04-07 | 2023-04-15 |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-27 | 2024-10-05 |
-| [HAPPY ��](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY ��](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 | 2026-06-12 |  |
+| [HAPPY 🪽](https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAPPY 🪽](https://open.spotify.com/album/7rZ7x2kVtILVjgcy9lI9qk) | 2:16 | 2026-06-12 |  |
 | [Hard Part \(feat\. Lucky Daye\)](https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 | 2025-08-22 | 2025-08-30 |
 | [HARD ROCK](https://open.spotify.com/track/6yoNYLJ7enbygKXF50Af72) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [HARD ROCK](https://open.spotify.com/album/1joRB65inPwhP5kS3XbcZ6) | 3:46 | 2024-02-23 | 2024-03-02 |
 | [Hardcore Romance](https://open.spotify.com/track/2DXmrFjBKWY11AiIlZanYD) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hardcore Romance](https://open.spotify.com/album/6WAU1dlxzNP5jksM5qr3I3) | 3:19 | 2024-08-23 | 2024-08-31 |

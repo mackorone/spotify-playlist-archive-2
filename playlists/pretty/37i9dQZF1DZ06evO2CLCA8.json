@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 1172,
+  "num_followers": 1171,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABgphjXqHq9dOrC7HlYZkD9",
+  "snapshot_id": "ajCSAAAAAAAVMlW0vNoklm0yqP0hzAfU",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark",
-        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
+        "name": "American Girl (2026 Mix - Extended Version)",
+        "url": "https://open.spotify.com/album/2UTK5FPKmBFD8g0ggwkaTb"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
+      "duration_ms": 239106,
+      "name": "American Girl - 2026 Mix - Extended Version",
+      "url": "https://open.spotify.com/track/7qbC0IzRSOvC7SsY65mtF6"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Girl (2026 Mix - Extended Version)",
-        "url": "https://open.spotify.com/album/2UTK5FPKmBFD8g0ggwkaTb"
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 239106,
-      "name": "American Girl - 2026 Mix - Extended Version",
-      "url": "https://open.spotify.com/track/7qbC0IzRSOvC7SsY65mtF6"
+      "duration_ms": 198800,
+      "name": "Change Of Heart",
+      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last DJ",
-        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "The Last DJ",
-      "url": "https://open.spotify.com/track/0uUy3WK0JtTqhSFikqprgz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 321693,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last DJ",
+        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "The Last DJ",
+      "url": "https://open.spotify.com/track/0uUy3WK0JtTqhSFikqprgz"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotic Eye",
-        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "U Get Me High",
-      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 250520,
       "name": "Something Good Coming",
       "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "U Get Me High",
+      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty And The Heartbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "The Wild One, Forever",
-      "url": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 212200,
       "name": "Spike",
       "url": "https://open.spotify.com/track/0OynySxoDTVepVdwm0iigw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tom Petty And The Heartbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "The Wild One, Forever",
+      "url": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW"
     },
     {
       "added_at": null,

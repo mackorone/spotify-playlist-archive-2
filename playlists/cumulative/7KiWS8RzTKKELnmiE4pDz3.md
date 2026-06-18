@@ -4,7 +4,7 @@
 
 > 
 
-1,490 songs - 3 day 8 hr 0 min
+1,492 songs - 3 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Car Thief](https://open.spotify.com/track/6z6ug1DvIzTdel6vW8rHVu) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Paul's Boutique \(20th Anniversary Edition / Remastered\)](https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05) | 3:39 | 2025-10-19 | 2026-03-08 |
 | [Carry On](https://open.spotify.com/track/4feKxkiKEkMJ4jIqRx6OTt) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [What Goes Around \(Spotify Exclusive\)](https://open.spotify.com/album/0SOFk5OyoaayDx3CH9qpB5) | 3:27 | 2026-03-04 |  |
 | [Cartier Gucci Scarf \(feat\. Lil Duke\)](https://open.spotify.com/track/3TWSar7EBNWZVeEWqDSjpw) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:18 | 2023-08-21 | 2025-05-21 |
+| [Cascade](https://open.spotify.com/track/4uehGJ2tDdzmbZVeV8E3pX) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Handmade Cities](https://open.spotify.com/album/4cJ8qhE71x97swkaMQhGcr) | 6:00 | 2026-06-17 |  |
 | [Casting Spells](https://open.spotify.com/track/36zNdBSO3g5UotlC92uBV3) | [Danger Incorporated](https://open.spotify.com/artist/6bnlvICBjK7fuNSB1ohqS5) | [Danger Reality](https://open.spotify.com/album/0hTIM39qqjzTzG3sNDDcXM) | 2:19 | 2022-09-19 | 2023-04-12 |
 | [Castle](https://open.spotify.com/track/4Tq5SHIdGg2Q1DsrDY5NIF) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Castle](https://open.spotify.com/album/0ywu6cOMmn36k013fsU8vC) | 2:04 | 2023-05-06 |  |
 | [Celebrate](https://open.spotify.com/track/1zlclNkERGFrCxznXOgkD3) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:46 | 2025-12-02 | 2026-03-08 |
@@ -395,6 +396,7 @@
 | [Escapism \(Gettin' Free\)](https://open.spotify.com/track/0zU1YeSFKtFx9lh7y05giH) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 3:24 | 2025-10-20 | 2026-03-08 |
 | [Esham's Boomin](https://open.spotify.com/track/2m70KuxevOmwQhVbg2CHVk) | [Esham](https://open.spotify.com/artist/2eQPDhVoSa5aeWROa5wfxZ) | [Boomin' Words from Hell \(Classics Remastered\)](https://open.spotify.com/album/0b3VGaoEN6nVMg5iOTUnyh) | 4:12 | 2022-09-11 | 2023-04-12 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-03 | 2024-11-06 |
+| [Ever Wonder](https://open.spotify.com/track/5mJdQciC7grIJ8Fbi0rdk7) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/7xs4OfrnStudtZF0RVfMwW) | 4:34 | 2026-06-17 |  |
 | [Every Painting Has a Price \(feat\. BJ The Chicago Kid and Eryn Allen Kane\)](https://open.spotify.com/track/3q6QW9k7uqeQJOSvhNwrUQ) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 3:33 | 2025-04-17 | 2026-03-08 |
 | [Everybody](https://open.spotify.com/track/7rrPANmUDxWbA9e6rtenLa) | [Bentley](https://open.spotify.com/artist/6Ox8G4tTgD4GPKQjejXpDF) | [Everybody](https://open.spotify.com/album/0oOE9Z7LjLiK6vAsEmcSUR) | 3:19 | 2026-01-14 |  |
 | [everybody dies](https://open.spotify.com/track/1wIQtB3UQ1TfjNMZZqO6eh) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [everybody dies](https://open.spotify.com/album/3yKUGrz2tsHP31gqPBhLXx) | 2:41 | 2024-01-22 | 2024-04-24 |

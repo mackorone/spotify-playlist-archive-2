@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAMFZdHye6rlhUGwc0kVJAP8OpWqE9W",
+  "snapshot_id": "AAAMGAFK06ptTrQij+9W1io6MF5QBvHO",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -86668,7 +86668,7 @@
           "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
         }
       ],
-      "duration_ms": 201325,
+      "duration_ms": 202746,
       "name": "Give it to me",
       "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
     },
@@ -150099,6 +150099,54 @@
       "duration_ms": 258266,
       "name": "\u5149\u306e\u4e2d\u3078",
       "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
+    },
+    {
+      "added_at": "2026-06-17 06:40:52",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Last Night on Earth",
+      "url": "https://open.spotify.com/track/5TpPSTItCwtZ8Sltr3vdzm"
+    },
+    {
+      "added_at": "2026-06-17 07:09:06",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "Tonight, Tonight - Remastered 2012",
+      "url": "https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W"
+    },
+    {
+      "added_at": "2026-06-17 07:52:57",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 241370,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2XjoHA58XD0t3qye8bYGU8"
     }
   ],
   "unique_name": "Purge",

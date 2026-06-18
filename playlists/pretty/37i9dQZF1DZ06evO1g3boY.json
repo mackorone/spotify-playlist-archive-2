@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174456,
+  "num_followers": 174463,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABlTo1jmEpQReAbfNVsPLXj",
+  "snapshot_id": "ajCSAAAAAAA8HBPzKkEWdulN0pKXziHl",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
+        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
       },
       "artists": [
         {
@@ -196,13 +196,17 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        },
+        {
+          "name": "Henrique Albino",
+          "url": "https://open.spotify.com/artist/0QH9RTb3y22wQXqF7vdsPZ"
         }
       ],
-      "duration_ms": 235866,
-      "name": "A Ordem Natural das Coisas (feat. Mc Tha)",
-      "url": "https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb"
+      "duration_ms": 227220,
+      "name": "Us memo preto zica",
+      "url": "https://open.spotify.com/track/6zv9QgibOHQQUG9cGlqGaH"
     },
     {
       "added_at": null,
@@ -247,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
-        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
       "artists": [
         {
@@ -256,17 +260,13 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
-        },
-        {
-          "name": "Henrique Albino",
-          "url": "https://open.spotify.com/artist/0QH9RTb3y22wQXqF7vdsPZ"
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
         }
       ],
-      "duration_ms": 227220,
-      "name": "Us memo preto zica",
-      "url": "https://open.spotify.com/track/6zv9QgibOHQQUG9cGlqGaH"
+      "duration_ms": 235866,
+      "name": "A Ordem Natural das Coisas (feat. Mc Tha)",
+      "url": "https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb"
     },
     {
       "added_at": null,
@@ -287,34 +287,6 @@
       "duration_ms": 194183,
       "name": "Deixa acontecer",
       "url": "https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Fabiana Cozza",
-          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
-        },
-        {
-          "name": "Pastor Henrique Vieira",
-          "url": "https://open.spotify.com/artist/34Bz0hL5bQMYbaYzn4ZmCZ"
-        },
-        {
-          "name": "Pastoras do Ros\u00e1rio",
-          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
-        }
-      ],
-      "duration_ms": 355866,
-      "name": "Principia (feat. Fabiana Cozza, Pastor Henrique Vieira & Pastoras do Ros\u00e1rio)",
-      "url": "https://open.spotify.com/track/1wTuMYmA3AJC7zKg6cuu19"
     },
     {
       "added_at": null,
@@ -367,6 +339,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Fabiana Cozza",
+          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
+        },
+        {
+          "name": "Pastor Henrique Vieira",
+          "url": "https://open.spotify.com/artist/34Bz0hL5bQMYbaYzn4ZmCZ"
+        },
+        {
+          "name": "Pastoras do Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
+        }
+      ],
+      "duration_ms": 355866,
+      "name": "Principia (feat. Fabiana Cozza, Pastor Henrique Vieira & Pastoras do Ros\u00e1rio)",
+      "url": "https://open.spotify.com/track/1wTuMYmA3AJC7zKg6cuu19"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
         "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
       },
@@ -383,30 +383,6 @@
       "duration_ms": 188518,
       "name": "DESCOBRIDOR",
       "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 320800,
-      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
-      "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
     },
     {
       "added_at": null,
@@ -459,6 +435,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 320800,
+      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
+      "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emicidio",
         "url": "https://open.spotify.com/album/7JcUXadRJlfoeo4Nj597CO"
       },
@@ -475,30 +475,6 @@
       "duration_ms": 197746,
       "name": "Eu Gosto Dela",
       "url": "https://open.spotify.com/track/1fQ9v8EmKsTDzcrucB00K9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
-      "url": "https://open.spotify.com/track/4yEBOuDHhrFeGXyXNJ3C4y"
     },
     {
       "added_at": null,
@@ -535,6 +511,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
+      "url": "https://open.spotify.com/track/4yEBOuDHhrFeGXyXNJ3C4y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -551,26 +551,6 @@
       "duration_ms": 177560,
       "name": "Rua Augusta - Live",
       "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9 Tudo Pra Ontem",
-        "url": "https://open.spotify.com/album/3pJfsGB12RRU7KDDsRkAh1"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 310400,
-      "name": "\u00c9 Tudo Pra Ontem",
-      "url": "https://open.spotify.com/track/1FpjfHwVh1ziha91Ng2o4P"
     },
     {
       "added_at": null,
@@ -595,6 +575,26 @@
       "duration_ms": 275555,
       "name": "Leandro Roque",
       "url": "https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9 Tudo Pra Ontem",
+        "url": "https://open.spotify.com/album/3pJfsGB12RRU7KDDsRkAh1"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 310400,
+      "name": "\u00c9 Tudo Pra Ontem",
+      "url": "https://open.spotify.com/track/1FpjfHwVh1ziha91Ng2o4P"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobe junto",
-        "url": "https://open.spotify.com/album/3hmUh5giqCBLlFLUrhnFPa"
+        "name": "Trevo, Figuinha e Suor na Camisa",
+        "url": "https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8"
       },
       "artists": [
         {
@@ -956,17 +956,13 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Sobe junto",
-      "url": "https://open.spotify.com/track/67aYew5Aa9CAhSWPzviiGy"
+      "duration_ms": 170453,
+      "name": "Trevo, Figuinha e Suor na Camisa",
+      "url": "https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8"
     },
     {
       "added_at": null,
@@ -1011,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trevo, Figuinha e Suor na Camisa",
-        "url": "https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8"
+        "name": "Sobe junto",
+        "url": "https://open.spotify.com/album/3hmUh5giqCBLlFLUrhnFPa"
       },
       "artists": [
         {
@@ -1020,13 +1016,17 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Trevo, Figuinha e Suor na Camisa",
-      "url": "https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8"
+      "duration_ms": 205440,
+      "name": "Sobe junto",
+      "url": "https://open.spotify.com/track/67aYew5Aa9CAhSWPzviiGy"
     },
     {
       "added_at": null,

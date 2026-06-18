@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 480 likes - 46 songs - 3 hr 4 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 480 likes - 49 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,8 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 44 | [Stormy Guitar](https://open.spotify.com/track/3xr4ZbuzjKspB5nQMUfxfZ) | [RoberWiz](https://open.spotify.com/artist/4s7i7GgPIAl0IIlXzHJCrJ) | [Stormy Guitar](https://open.spotify.com/album/5JaQqsvEVV6cB4RC7oxD8p) | 4:41 |
 | 45 | [Cuero Roto](https://open.spotify.com/track/4ZYtpGn7jlmnQSlWb9a2au) | [La Racha](https://open.spotify.com/artist/5JzN6rrSv2tnE1Iau1kThx) | [Volumen 1](https://open.spotify.com/album/5u0LmILz3wZDkNKQ6xL9Du) | 3:28 |
 | 46 | [Codigos de Calle](https://open.spotify.com/track/3nUXbKuldWBNqoUp4Dxw9p) | [Yonblok Music](https://open.spotify.com/artist/7MZHN1U8dptbA645QA9Qku) | [Codigos de Calle](https://open.spotify.com/album/4BOL5NfhGUfYMo322XWSKO) | 3:14 |
+| 47 | [La Clave que Mueve el Eje](https://open.spotify.com/track/2Av3rDnW8ZZU3q3FIcIeFG) | [LIUBO MIRA](https://open.spotify.com/artist/04YU4zYJaZXvCzAQNhrpsn) | [Corazón Programable](https://open.spotify.com/album/3CHzef5RiMMDRyTdyspNgZ) | 2:09 |
+| 48 | [Inmune a Tu Veneno](https://open.spotify.com/track/6X2AeXnTQlRbo3Gqpb1j1P) | [LIUBO MIRA](https://open.spotify.com/artist/04YU4zYJaZXvCzAQNhrpsn) | [Corazón Programable](https://open.spotify.com/album/3CHzef5RiMMDRyTdyspNgZ) | 2:41 |
+| 49 | [La Quema del Microchip](https://open.spotify.com/track/1BqaPt8RQwYk9Yq7spCUai) | [LIUBO MIRA](https://open.spotify.com/artist/04YU4zYJaZXvCzAQNhrpsn) | [Corazón Programable](https://open.spotify.com/album/3CHzef5RiMMDRyTdyspNgZ) | 2:32 |
 
-Snapshot ID: `AAACPyVb8QxpuUcRdi9iGtEkUBs7A7tq`
+Snapshot ID: `AAACQrl24J2Qn5ehtRfCPOHQ93Ii3peg`

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,198 songs - 2 day 21 hr 49 min
+1,204 songs - 2 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Angie Stereo \- funk rock](https://open.spotify.com/track/09R3zrMifDRK4Q2DM2eePe) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 3:19 | 2026-01-20 | 2026-02-20 |
 | [Anime A Metà](https://open.spotify.com/track/3o7VA7PCkHz2VYwXxZz7BC) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Anime A Metà](https://open.spotify.com/album/7qhml3sGdAvkB8nb2UQSo2) | 3:28 | 2026-03-09 | 2026-04-12 |
 | [Annet blod og DNA/Sjelevenn](https://open.spotify.com/track/0qFNPhIhBOtjOF1y0pfAOZ) | [G.M.L.](https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC) | [Nostalgi](https://open.spotify.com/album/0238UGZP3T67WKpTJzO2Bg) | 3:51 | 2026-06-09 |  |
+| [Another Cold Night in Chile](https://open.spotify.com/track/4U9wAy7SZrFtLoddShRllT) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Another Cold Night in Chile](https://open.spotify.com/album/7CKnc19vPdvtaZg1x1WZZr) | 3:32 | 2026-06-17 |  |
 | [Antidote](https://open.spotify.com/track/6HidUQd2zsPED0wenu4HTK) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [A Too Lyrical](https://open.spotify.com/artist/1uvEtoW9SltUZ8bTZBIt64) | [Antidote](https://open.spotify.com/album/0Uz2hkErLP4W0eA8j2Q6y4) | 4:04 | 2026-03-16 | 2026-04-12 |
 | [Anxiety You](https://open.spotify.com/track/470eynl4mNNwdfnjmpXP1M) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Anxiety You](https://open.spotify.com/album/03qy6zCm1Y7oMSZIFDXSax) | 5:32 | 2026-05-26 |  |
 | [Anything Goes](https://open.spotify.com/track/7MZE2xeA3tGnbtIEDSJmmS) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Anything Goes](https://open.spotify.com/album/160vx1LCMqRpgwWMlVaGCu) | 4:03 | 2025-09-11 | 2025-11-29 |
@@ -96,6 +97,7 @@
 | [Asincopado](https://open.spotify.com/track/5yAO854PtOR0ITzBhVaXD3) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Asincopado](https://open.spotify.com/album/0eMSyUX3YPXapifVO6ANoU) | 4:27 | 2026-05-10 | 2026-06-05 |
 | [Ask time for time](https://open.spotify.com/track/248MtYAcY8RoGI6HK9YanG) | [The Inked Path](https://open.spotify.com/artist/6mH0wRSH6wrNnG2K0YSWnM) | [Ask time for time](https://open.spotify.com/album/5dXVOGDqHXTrBN76GJ19i1) | 2:56 | 2026-04-03 |  |
 | [Assalamu Alikum \(Remastered\)](https://open.spotify.com/track/0ORlq8U5LhIOyQMkLs23o2) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:50 | 2023-04-20 | 2025-11-29 |
+| [At Night I Can't Sleep](https://open.spotify.com/track/5gxGfL5rscXXIAY2zNF5wt) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [At Night I Can't Sleep](https://open.spotify.com/album/50WuhpuI4vInZocWZepGNu) | 2:37 | 2026-06-17 |  |
 | [At The Resale Shop](https://open.spotify.com/track/02M5kJSLOOhvcre8f4iioV) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Color Me Singing](https://open.spotify.com/album/0nmUzhPQJT1TjPfH59CpYm) | 3:24 | 2026-03-03 | 2026-03-25 |
 | [Atardece](https://open.spotify.com/track/6ZoIVFXievvmKj8Mjz0dai) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Atardece / Beben Sangre](https://open.spotify.com/album/2oE9ftWsPX9rumd8LuIBuq) | 4:05 | 2026-01-19 | 2026-02-20 |
 | [Autumn Lost](https://open.spotify.com/track/42KRHxMvOOSDvlVPmfEIKH) | [Eden Rose](https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl) | [Autumn Lost](https://open.spotify.com/album/4WUacCMCWJL5DJ1DcwkebP) | 3:51 | 2026-01-01 | 2026-02-03 |
@@ -289,6 +291,7 @@
 | [En ti](https://open.spotify.com/track/5PIF9tnyyUOvzwEq9BNTge) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 4:11 | 2026-03-08 | 2026-04-12 |
 | [En ti](https://open.spotify.com/track/6epke6LUhFb20S5zCYzMAp) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [En ti](https://open.spotify.com/album/0oFooP7WHD6zKw0J8HqvHA) | 4:11 | 2025-11-24 | 2026-01-05 |
 | [En tus redes \(otra vez\)](https://open.spotify.com/track/74hH8NUMsrKDZHQTLob2Zg) | [Sincronía](https://open.spotify.com/artist/5qviewf0sIZBp3q1knGgs3) | [En tus redes \(otra vez\)](https://open.spotify.com/album/7lGTmgtvA3HWrC4K1gePEy) | 2:49 | 2026-01-28 | 2026-02-28 |
+| [End Of The Summer](https://open.spotify.com/track/3cIOmGrYqik3qicTEZ3wKC) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [End Of The Summer](https://open.spotify.com/album/4xAZ0YAtbwiRG5HLptgEdW) | 4:44 | 2026-06-17 |  |
 | [English Girls](https://open.spotify.com/track/17E04fJqvTKuzuHCtihkPS) | [Liquid Days](https://open.spotify.com/artist/6BHO09GORbj09337HZTxeJ) | [English Girls](https://open.spotify.com/album/4oiHnbiWOZ7zI1XZjubcoY) | 4:00 | 2026-04-20 | 2026-06-05 |
 | [Enough Of You](https://open.spotify.com/track/7IZ58k24zd4qMx3dnNfTRV) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [Enough Of You](https://open.spotify.com/album/22DKJsvJFZQYvwqa6nN2gU) | 2:18 | 2026-03-24 | 2026-04-22 |
 | [Enquanto o Barco Vai](https://open.spotify.com/track/5fyOZOcCKnGBoCBo4KL1Vi) | [Banda Brie](https://open.spotify.com/artist/6Lo7AVZ4XTvgTtutMlUg7v) | [Enquanto o Barco Vai](https://open.spotify.com/album/6kloriwaRmezwjJCYK9IuB) | 3:04 | 2026-05-21 |  |
@@ -321,6 +324,7 @@
 | [Feel the night](https://open.spotify.com/track/7p5t5QpJDkczSCaZMXxLdX) | [Kryhos](https://open.spotify.com/artist/4aqG8I79UujSmRHe7yphiW) | [Feel the night](https://open.spotify.com/album/5s1ETma0NHObW9iNgddC5a) | 2:25 | 2026-02-01 | 2026-02-28 |
 | [Feelings \- Acoustic](https://open.spotify.com/track/10h1rVHnLalm93CqAvkZue) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings \- Acoustic](https://open.spotify.com/album/3AlPU5aQcaz4aqleFmDSeS) | 3:44 | 2026-02-03 | 2026-03-07 |
 | [Felina](https://open.spotify.com/track/13U4C7H2SImFBJXsHlpu3l) | [Matias Park](https://open.spotify.com/artist/3ulkuAZTEEB9XT750GVShS) | [Felina](https://open.spotify.com/album/3VXDCADyu2hCbcR1XTgZ6G) | 3:05 | 2025-11-24 | 2026-01-05 |
+| [FELLNASEN](https://open.spotify.com/track/3du4buw4F5gQxZMu7OmTBA) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [FELLNASEN](https://open.spotify.com/album/0zqBXyuHmgU2tjYM8FNChR) | 2:46 | 2026-06-17 |  |
 | [Felony](https://open.spotify.com/track/0yjGhB4nn0S3YePwRcHbhZ) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:34 | 2025-11-11 | 2025-12-21 |
 | [Fensterblick](https://open.spotify.com/track/6LgGyauokP9POhNgfiCkmo) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Fensterblick](https://open.spotify.com/album/7BU1ICcPreRxSDag8mwRSM) | 2:47 | 2026-05-02 | 2026-06-05 |
 | [find me](https://open.spotify.com/track/2nFb1sMf4DWOaWxTmEDyEb) | [momy](https://open.spotify.com/artist/0H0rug1rSfEUbdiimPviwF) | [find me](https://open.spotify.com/album/0AC26STLyNaelXiLH2ruFC) | 3:24 | 2026-05-10 | 2026-06-05 |
@@ -820,6 +824,7 @@
 | [Ready, Set, Go.](https://open.spotify.com/track/0ySUMpzNZ0HC8ztomSTKtz) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Ready, Set, Go.](https://open.spotify.com/album/0esJrPhaQKTgfeujAPP0Oj) | 3:02 | 2025-09-19 | 2025-11-29 |
 | [Rebel Made](https://open.spotify.com/track/48kOUJRx3b9bMHpc4Mv0td) | [Ichinomoto Yu](https://open.spotify.com/artist/0RKwMRcEaP7vFUsyQOLOkr) | [Rebel Made](https://open.spotify.com/album/1Zy5kzjejttU7SwzqQoWHf) | 2:39 | 2026-01-06 | 2026-02-03 |
 | [Rebirth](https://open.spotify.com/track/1IdFUJbDpk2Jn84iY7hZ0M) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 2:53 | 2026-05-12 |  |
+| [Red](https://open.spotify.com/track/1nHbcuZgDFlzl3nSzyKDP8) | [Traibal](https://open.spotify.com/artist/4i0IuCytfQc31TpUfEkHDH) | [Red](https://open.spotify.com/album/29Pgnwt520inhPBgYzKOy4) | 2:35 | 2026-06-17 |  |
 | [Red Golden Years](https://open.spotify.com/track/0lyYJ8i6a1ZqUpABoGNiel) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [The Giant](https://open.spotify.com/album/7lOE2qWALgcTOra7Dt48f4) | 3:40 | 2025-09-29 | 2025-11-29 |
 | [Reflections](https://open.spotify.com/track/4dWzEmytzQ8wyZ4yq5zCcB) | [Amanda Jean](https://open.spotify.com/artist/6O3ew5mruts7AzkJPT39og) | [Reflections](https://open.spotify.com/album/3Czus5DPB4YVhJV6JFtOOC) | 3:26 | 2026-02-15 | 2026-03-15 |
 | [Remember](https://open.spotify.com/track/0u424XgnRabyvutUeLRNkz) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Remember](https://open.spotify.com/album/6RqaoM6HWeQ3cNgPTX3HAE) | 6:08 | 2026-05-27 |  |
@@ -953,6 +958,7 @@
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-12-20 | 2026-01-15 |
 | [Sunflower](https://open.spotify.com/track/5TqAQEA5kwDC6VN9pwGEBs) | [Craig Cordwell](https://open.spotify.com/artist/1LGKYIglmZVkinGQyFftre) | [Sunflower](https://open.spotify.com/album/67q3RqljhpQeY4vsl0s4di) | 2:26 | 2026-03-02 | 2026-03-25 |
 | [Sunflower \(by NorLights\)](https://open.spotify.com/track/1ontRaVty2151D0FWCPZQw) | [NorLights](https://open.spotify.com/artist/4J2UmzAldNPzDFI2DYTzoh) | [Sunflower \(by NorLights\)](https://open.spotify.com/album/5chXRB68aAI3my88H7ZXle) | 2:57 | 2026-03-17 | 2026-04-12 |
+| [Sungaze](https://open.spotify.com/track/4DlDhEPAaErihQVRKxDnDt) | [Baggs](https://open.spotify.com/artist/44k6sRhRRAW6Uy85KCr9Ti), [Tent](https://open.spotify.com/artist/0Gv2DlvET0fQVJ8jqLx7RC) | [Sungaze](https://open.spotify.com/album/1qJa4l53pWcXMiCwhDmPwD) | 3:36 | 2026-06-17 |  |
 | [Sunrise Star](https://open.spotify.com/track/5GLh9mMdwCox6eGW9wykpD) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Sunrise Star](https://open.spotify.com/album/614JBBbHIcXiRDHjXeUOE3) | 1:47 | 2023-08-24 | 2025-11-29 |
 | [Sunset in Naxos](https://open.spotify.com/track/7nPIDiLVB1SAQSXhUGjPbe) | [Joe Siciliano Jazz Trio](https://open.spotify.com/artist/0DDVg8KuFfA7fjD2M2x3N3) | [Sunset in Naxos](https://open.spotify.com/album/6r3RIRu1YyWrrg0S69HLIE) | 3:20 | 2024-10-10 | 2025-12-21 |
 | [Superhero \- Acoustic](https://open.spotify.com/track/7nrFRSafHxawukv8qSqVeK) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero \(Acoustic\)](https://open.spotify.com/album/2qghX842ealI9MXpzX1G7K) | 3:12 | 2026-05-26 |  |

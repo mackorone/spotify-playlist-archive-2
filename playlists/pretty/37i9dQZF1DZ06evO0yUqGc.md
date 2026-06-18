@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 
 > This is Lily Allen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,996 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,008 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 28 | [Just Be Good To Green](https://open.spotify.com/track/5Wi5AUAI4YKRYNYI8XLLG3) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alive Till I'm Dead](https://open.spotify.com/album/0iVnRHjr6fAOojkgjxnJVO) | 3:24 |
 | 29 | [Naïve \- BBC Radio 1's Jo Whiley's Live Lounge](https://open.spotify.com/track/6mM3zAPOuNkNDytJCDGz96) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:46 |
 | 30 | [Everything's Just Wonderful](https://open.spotify.com/track/2SlCiWUTBVs0lcU93SLogx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:28 |
-| 31 | [Chinese](https://open.spotify.com/track/60XKb9r9CBh93zSyEarCf3) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:28 |
-| 32 | [Cigarettes & Cush \(feat\. Kehlani & Lily Allen\)](https://open.spotify.com/track/7urCpstCEncypWMreEwJCh) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 5:49 |
+| 31 | [Cigarettes & Cush \(feat\. Kehlani & Lily Allen\)](https://open.spotify.com/track/7urCpstCEncypWMreEwJCh) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 5:49 |
+| 32 | [Chinese](https://open.spotify.com/track/60XKb9r9CBh93zSyEarCf3) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:28 |
 | 33 | [Knock 'Em Out](https://open.spotify.com/track/1tzREQUvfSvoigbSOU60Bx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 2:53 |
 | 34 | [Friday Night](https://open.spotify.com/track/4KxlWBiUWmV0vwsQuqLgNy) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still](https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs) | 3:06 |
 | 35 | [Air Balloon](https://open.spotify.com/track/1DIS8YXZKxePLmY7Z8UC4I) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Air Balloon](https://open.spotify.com/album/5B9Oz2IZfNsoTLfoBwl1oA) | 3:48 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 45 | [Apples](https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:39 |
 | 46 | [Family Man](https://open.spotify.com/track/2djUvMKV5x0sUAPdbk4HlJ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:38 |
 
-Snapshot ID: `ai9AgAAAAAA8bnJC0Cs0TgHMDMkMntlk`
+Snapshot ID: `ajCSAAAAAABuVTOowwSkI/lXQKu8QjOY`

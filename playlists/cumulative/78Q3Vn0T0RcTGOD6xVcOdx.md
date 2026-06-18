@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-323 songs - 19 hr 0 min
+326 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2025-01-24 | 2026-06-12 |
 | [I Repeat You Like a Song](https://open.spotify.com/track/0RTgUyrdnY4oiGBQyP3PZL) | [Maikena](https://open.spotify.com/artist/3TUk7MTBTrppDVJuCg6YzY) | [I Repeat You Like a Song](https://open.spotify.com/album/7brIz978bN93MelRMhrAmb) | 4:23 | 2026-06-13 |  |
 | [Inconfundible](https://open.spotify.com/track/5cpxp9quQreC2AVjzzJulx) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Inconfundible](https://open.spotify.com/album/2IC8E1ZL9E44HJsOPtklsF) | 3:37 | 2026-01-09 | 2026-04-06 |
+| [Inmune a Tu Veneno](https://open.spotify.com/track/6X2AeXnTQlRbo3Gqpb1j1P) | [LIUBO MIRA](https://open.spotify.com/artist/04YU4zYJaZXvCzAQNhrpsn) | [Corazón Programable](https://open.spotify.com/album/3CHzef5RiMMDRyTdyspNgZ) | 2:41 | 2026-06-17 |  |
 | [Irie Kilele](https://open.spotify.com/track/0nn77exK1ErfF5sP2EyznA) | [Munna Sound System](https://open.spotify.com/artist/6KqgD2tDajHkchXY1kgMsv) | [Irie Kilele](https://open.spotify.com/album/5Q9tzgoXsn0qSjcJ9ccDQI) | 2:50 | 2025-04-07 | 2026-04-06 |
 | [It's Beginning to Look a Lot Like Christmas \- Live](https://open.spotify.com/track/5qicKEeKmLPWH6qRxfpcIx) | [David Zurita](https://open.spotify.com/artist/5XGAdmgRO0PKYzCHtO8qbx), [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Christmas Acoustic Sessions](https://open.spotify.com/album/3E1mzOZq2T7fgzVO13KkPu) | 3:10 | 2025-12-17 | 2026-04-06 |
 | [Jardin](https://open.spotify.com/track/4Ui9Ect1oc0a7qOp5U7C2C) | [Afternoon Cocktail](https://open.spotify.com/artist/208Lok5tojubG2pQcyN3IY) | [Jardin](https://open.spotify.com/album/38sYRstMv3NvVVZTaZY7lk) | 3:59 | 2025-06-01 | 2026-04-06 |
@@ -153,10 +154,12 @@
 | [Just Say Something](https://open.spotify.com/track/6Z9vUesMHpVW9ufQYxW6On) | [Emilio Lanza](https://open.spotify.com/artist/1zAaMxkPsK3txhiVZ7Jpc1) | [Just Say Something](https://open.spotify.com/album/26zVCkftrkXa9nksjAYcZl) | 3:02 | 2025-02-01 | 2026-06-12 |
 | [Juárez Número Uno](https://open.spotify.com/track/5k3EFe2Ro3WmRRNS9OIPdm) | [Juárez Número Uno](https://open.spotify.com/artist/0JEE0kJdxKbAXfIXE0tn83) | [Juárez Número Uno](https://open.spotify.com/album/7HLAvi8XC3mCR19THzUPMx) | 4:02 | 2025-02-03 | 2026-06-12 |
 | [La Casualidad](https://open.spotify.com/track/5G2aZ1f8eExLLsEWEpETZL) | [Junior Hodie](https://open.spotify.com/artist/6aghE4xmKWwUiM42X2BiJR) | [La Casualidad](https://open.spotify.com/album/5lh5hKld470xi0EyFtU8RR) | 3:19 | 2025-10-11 | 2026-04-06 |
+| [La Clave que Mueve el Eje](https://open.spotify.com/track/2Av3rDnW8ZZU3q3FIcIeFG) | [LIUBO MIRA](https://open.spotify.com/artist/04YU4zYJaZXvCzAQNhrpsn) | [Corazón Programable](https://open.spotify.com/album/3CHzef5RiMMDRyTdyspNgZ) | 2:09 | 2026-06-17 |  |
 | [La facturita](https://open.spotify.com/track/6zaZp1V5MtIu2h6UXqJP33) | [AYLEN K](https://open.spotify.com/artist/32u1mB2ePFhYEe8LdTKRd5) | [La facturita](https://open.spotify.com/album/30CQKoyzW3zdjYD2Ab5qJa) | 2:08 | 2025-04-26 | 2026-04-06 |
 | [La Fuerza](https://open.spotify.com/track/35jHNHp2T0MRY8m5T4uiug) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [La Fuerza](https://open.spotify.com/album/5emGsXnZncj5fo2kVb2DId) | 3:41 | 2025-09-13 | 2026-04-06 |
 | [La Isla Caribeña](https://open.spotify.com/track/5Yz5d75QQCGdrb4vwSZuMA) | [Septeto Matamoros](https://open.spotify.com/artist/41wF2rYHezZHWmxoajVmfz) | [Matamoros por Siempre](https://open.spotify.com/album/3iCZJlyDLOlmHchokwsc6S) | 3:34 | 2025-05-14 | 2026-04-06 |
 | [La máquina del tiempo](https://open.spotify.com/track/3GhR7cT4wcc3OXfkh6fKq6) | [Protocolo Tumbao](https://open.spotify.com/artist/3xCzUkstvWKv77Ve0gHAfh) | [Insólito](https://open.spotify.com/album/0zQSXpTX02JHrGuTr0MwuH) | 4:41 | 2025-04-04 | 2026-04-06 |
+| [La Quema del Microchip](https://open.spotify.com/track/1BqaPt8RQwYk9Yq7spCUai) | [LIUBO MIRA](https://open.spotify.com/artist/04YU4zYJaZXvCzAQNhrpsn) | [Corazón Programable](https://open.spotify.com/album/3CHzef5RiMMDRyTdyspNgZ) | 2:32 | 2026-06-17 |  |
 | [Ladies Do It Right](https://open.spotify.com/track/6fNcQf7DdcRtpKmU50IbBS) | [Elizabeth Lyon](https://open.spotify.com/artist/6oFX1JLm313V7XqpeYQ9tU) | [Ladies Do It Right](https://open.spotify.com/album/0ZPgE1iA8UmiKp88x8IfRh) | 3:04 | 2025-02-01 | 2026-06-12 |
 | [Lady Chill](https://open.spotify.com/track/3R11V9p1gjK4mG9keUUFqi) | [RoberWiz](https://open.spotify.com/artist/4s7i7GgPIAl0IIlXzHJCrJ) | [Lady Chill](https://open.spotify.com/album/5c4kpFSEwrAsG1etkIEL2S) | 3:33 | 2025-09-13 | 2026-04-06 |
 | [Le Bolude Siempre Es Une](https://open.spotify.com/track/1OgDxoOMEShTs9BGqjTlVJ) | [Nevenka Siberia](https://open.spotify.com/artist/0HWsF7Qh4xm5F3xBjnn97P), [Jose Luis Lopepe](https://open.spotify.com/artist/5HN1Ppo22cMHh0KUkUraaF) | [Le Bolude Siempre Es Une](https://open.spotify.com/album/1niM915syrI91hvTQosG1R) | 3:37 | 2025-03-21 | 2026-04-06 |

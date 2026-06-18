@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABgv+gr/iS8TRGAovMAVSzy",
+  "snapshot_id": "ajCSAAAAAAAiHKqomhq51UW4GLALL7aN",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makeup",
-        "url": "https://open.spotify.com/album/0gMQ8smzxR8h75ByKOhyYR"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Makeup",
-      "url": "https://open.spotify.com/track/6YJEl1f1oU2232iziGXhQr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unraveling",
         "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Makeup",
+        "url": "https://open.spotify.com/album/0gMQ8smzxR8h75ByKOhyYR"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Makeup",
+      "url": "https://open.spotify.com/track/6YJEl1f1oU2232iziGXhQr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 188013,
       "name": "Honey Jack",
       "url": "https://open.spotify.com/track/6xh9ldjY4JllfaguxDQqz5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "I Need A Drink",
-      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
     },
     {
       "added_at": null,
@@ -379,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "I Need A Drink",
+      "url": "https://open.spotify.com/track/5IEovkT4oqFuDIkxIuhAvb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 207906,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "YOUNG-ish",
-      "url": "https://open.spotify.com/track/0zPJKHVdjItG4ehe6ZY1Sy"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "YOUNG-ish",
+      "url": "https://open.spotify.com/track/0zPJKHVdjItG4ehe6ZY1Sy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -463,26 +463,6 @@
       "duration_ms": 199306,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/0C8zrFkcEsOW5hhBdAFzYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How To Get The Girl",
-        "url": "https://open.spotify.com/album/4ihf3F6dsVhpOgGAm4QLlJ"
-      },
-      "artists": [
-        {
-          "name": "Blackjack Billy",
-          "url": "https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7"
-        },
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "How To Get The Girl",
-      "url": "https://open.spotify.com/track/3JJ2CkNEBTYSLaefgOopB2"
     },
     {
       "added_at": null,
@@ -523,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "How To Get The Girl",
+        "url": "https://open.spotify.com/album/4ihf3F6dsVhpOgGAm4QLlJ"
+      },
+      "artists": [
+        {
+          "name": "Blackjack Billy",
+          "url": "https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "How To Get The Girl",
+      "url": "https://open.spotify.com/track/3JJ2CkNEBTYSLaefgOopB2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free Soul",
         "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
       },
@@ -535,26 +535,6 @@
       "duration_ms": 215880,
       "name": "Alive",
       "url": "https://open.spotify.com/track/0NpzUjKdvyX9iTGSz24TvN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5:01+",
-        "url": "https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj"
-      },
-      "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        },
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Ready to Say Goodnight",
-      "url": "https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 216270,
       "name": "What If I Am",
       "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5:01+",
+        "url": "https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Ready to Say Goodnight",
+      "url": "https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ"
     },
     {
       "added_at": null,

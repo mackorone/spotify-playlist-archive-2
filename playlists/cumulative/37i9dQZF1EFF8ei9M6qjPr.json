@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Piano Collection, Vol. 16",
+        "url": "https://open.spotify.com/album/60PfA7MDnNMOn97PRUXyMO"
+      },
+      "artists": [
+        {
+          "name": "Smyang Piano",
+          "url": "https://open.spotify.com/artist/1hatwkL9sjz45yLimEcQOS"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182236,
+      "name": "Like Animals",
+      "url": "https://open.spotify.com/track/2VMJUOsP6pbC506uLOVLGF"
+    },
+    {
+      "album": {
         "name": "Like Strangers Do",
         "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
       },

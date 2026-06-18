@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: 米津玄師 \*👉 <a href="https://spice.eplus.jp/articles/346894">連動記事</a>をSPICEでチェック!
 
-15,070 songs - 39 day 23 hr 34 min
+15,070 songs - 39 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5006,6 +5006,7 @@
 | [Living Love](https://open.spotify.com/track/278neLTXichKGjTmIGQ0tP) | [日野健太](https://open.spotify.com/artist/24HtvComPU5kD1X2RbDTZt) | [Living Love](https://open.spotify.com/album/38Vwaj7PttqFhR7aDS0UGN) | 3:42 | 2025-09-23 | 2025-10-01 |
 | [Living My Life](https://open.spotify.com/track/3sOtP846W4vc5vrwWAzHGA) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Living My Life](https://open.spotify.com/album/3vWRrdqBke874pWHIyz2HF) | 3:45 | 2023-08-01 | 2023-08-09 |
 | [LLL](https://open.spotify.com/track/5OaH7cJm8yIDB6H6PXLocY) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [LLL](https://open.spotify.com/album/18gvLoSDgY415Uf3DsyIFH) | 3:51 | 2025-03-11 | 2025-03-19 |
+| [Lo Prendo](https://open.spotify.com/track/7Bi2JkcnFmlI9uhgwIMJBR) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SIGNAL VERDE](https://open.spotify.com/album/3X2kYubAwODt2875Tj57zf) | 2:03 | 2026-06-16 |  |
 | [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 | 2023-11-22 | 2023-11-29 |
 | [LOA](https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [LOA](https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo) | 3:46 | 2023-11-21 | 2023-11-23 |
 | [Local lake](https://open.spotify.com/track/23zAvM4ZXIdnzfAf22lMS3) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [Local lake](https://open.spotify.com/album/6FZSd8j0YSvsPj43jvMfQZ) | 1:55 | 2025-09-03 | 2025-09-10 |
@@ -9060,7 +9061,6 @@
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-04-08 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 4](https://open.spotify.com/track/7Bi2JkcnFmlI9uhgwIMJBR) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SIGNAL VERDE](https://open.spotify.com/album/3X2kYubAwODt2875Tj57zf) | 0:00 | 2026-06-16 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |

@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 61915,
+  "num_followers": 61943,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,18 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
-        "url": "https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb"
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
       },
       "artists": [
         {
-          "name": "Will Wiesenfeld",
-          "url": "https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm"
-        },
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
-        },
-        {
-          "name": "Geotic",
-          "url": "https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ"
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
         }
       ],
-      "duration_ms": 151548,
-      "name": "Storm / Mom (From \"Bee and PuppyCat\" Soundtrack Vol. 2)",
-      "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
+      "duration_ms": 200389,
+      "name": "Tacken",
+      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -603,18 +595,26 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Extended",
-        "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
+        "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
+        "url": "https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb"
       },
       "artists": [
         {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+          "name": "Will Wiesenfeld",
+          "url": "https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm"
+        },
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        },
+        {
+          "name": "Geotic",
+          "url": "https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ"
         }
       ],
-      "duration_ms": 200389,
-      "name": "Tacken",
-      "url": "https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k"
+      "duration_ms": 151548,
+      "name": "Storm / Mom (From \"Bee and PuppyCat\" Soundtrack Vol. 2)",
+      "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Twin Color (Extended Play No. 1)",
         "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 389625,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2147,6 +2147,26 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Feast / Beast",
         "url": "https://open.spotify.com/album/7Iw2Io8NipDlMCDdS8UsKC"
       },
@@ -2167,22 +2187,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Kodomotachi",
-      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
@@ -2195,6 +2199,22 @@
       "duration_ms": 151520,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Kodomotachi",
+      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2251,6 +2271,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Hi Scores",
+        "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 423933,
+      "name": "Everything You Do Is A Balloon",
+      "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6"
       },
@@ -2271,22 +2307,6 @@
       "duration_ms": 311533,
       "name": "Run",
       "url": "https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Hi Scores",
-        "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 423933,
-      "name": "Everything You Do Is A Balloon",
-      "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2339,22 +2359,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 107745,
-      "name": "Merry-Go-Round",
-      "url": "https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "We Are Reasonable People",
         "url": "https://open.spotify.com/album/2llsDTPNUbOw46ruEeGThR"
       },
@@ -2367,6 +2371,22 @@
       "duration_ms": 291293,
       "name": "Orange Romeda",
       "url": "https://open.spotify.com/track/6vKJnXQ3k3BodEj0XXIt9T"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 107745,
+      "name": "Merry-Go-Round",
+      "url": "https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2431,22 +2451,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Kelly Lee Owens",
-        "url": "https://open.spotify.com/album/7z6fUAxSNYLKEkxrcPcfZx"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 315266,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/5FauIrURBh6U8fWJAffI9P"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
@@ -2459,6 +2463,22 @@
       "duration_ms": 358080,
       "name": "Aquarius",
       "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Kelly Lee Owens",
+        "url": "https://open.spotify.com/album/7z6fUAxSNYLKEkxrcPcfZx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/5FauIrURBh6U8fWJAffI9P"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2491,26 +2511,6 @@
       "duration_ms": 225207,
       "name": "People On Sunday",
       "url": "https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
     }
   ],
   "unique_name": "Quirktronica",

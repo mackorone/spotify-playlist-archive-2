@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-350 songs - 22 hr 19 min
+351 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Ala Bali](https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Ala Bali](https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9) | 3:14 | 2024-02-16 |  |
 | [Ala Fekra](https://open.spotify.com/track/0gsnDtfVAFKPOEqbOwNmH3) | [Wama](https://open.spotify.com/artist/7yB2bLPVo9PoqeN9c1T6UN) | [El Seif Ebtada](https://open.spotify.com/album/4nfduIDLeIte5K55pcyTmd) | 4:02 | 2023-02-13 | 2023-05-23 |
 | [Alby Ekhtark](https://open.spotify.com/track/534u3zvHacLt9jtfihNwGX) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ahla Ma Ghana Amr Diab](https://open.spotify.com/album/0bRoop19EC0m1TfSScSPhx) | 4:10 | 2023-04-11 | 2023-05-23 |
-| [Alby Etmannah](https://open.spotify.com/track/26UNapCN9Gu2z4ZdW8sPRj) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Meaddy El Nas](https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr) | 4:10 | 2024-10-31 |  |
+| [Alby Etmannah](https://open.spotify.com/track/26UNapCN9Gu2z4ZdW8sPRj) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Meaddy El Nas](https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr) | 4:10 | 2024-10-31 | 2026-06-18 |
 | [Alby Habak Gedan](https://open.spotify.com/track/4pGaxNrUaxI98DYSK6s7mj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Alby Habak Gedan](https://open.spotify.com/album/6C4b7LphPB912ZLNdO6AuU) | 3:19 | 2023-05-22 | 2023-09-15 |
 | [Alby Ydo2](https://open.spotify.com/track/7hhxWoY8woyLeHifEb7a7r) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Alby Ydo2](https://open.spotify.com/album/5otAVv8aZUG0kjV5w2yn37) | 2:21 | 2024-05-17 | 2024-11-09 |
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2023-02-13 | 2023-09-15 |
@@ -296,6 +296,7 @@
 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 | 2023-07-13 |  |
 | [خطوة](https://open.spotify.com/track/44Mu8j0VexMGUk8Om7U8HU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [خطوة](https://open.spotify.com/album/0CHAeCoS0FlsSOXTBQgQje) | 3:18 | 2023-02-23 | 2023-09-15 |
 | [خليك معاها](https://open.spotify.com/track/66xEfcpMCCim4juc0dN4Q2) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 4:18 | 2024-07-31 |  |
+| [خليك معايا](https://open.spotify.com/track/4xjuBQBnXifS3554AAVtop) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [الليلادي](https://open.spotify.com/album/47vmIDfQcrWXHK0xeN9TXo) | 3:52 | 2026-06-17 |  |
 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 | 2023-02-16 |  |
 | [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-09-08 | 2023-09-15 |
 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 | 2023-09-01 |  |

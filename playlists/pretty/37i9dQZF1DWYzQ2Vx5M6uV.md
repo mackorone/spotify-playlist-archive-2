@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,724 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,734 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 48 | [A POCA LUZ](https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [A POCA LUZ](https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1) | 3:14 |
 | 49 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 |
 | 50 | [Botecito](https://open.spotify.com/track/5nhB1ijVzD2PKCkPAHP8Qy) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Botecito](https://open.spotify.com/album/7HHY5Rr3nTYhQrmXBt1uTH) | 2:36 |
-| 51 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 |
-| 52 | [Esa Nena](https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Esa Nena](https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV) | 2:38 |
+| 51 | [Esa Nena](https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Esa Nena](https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV) | 2:38 |
+| 52 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 |
 | 53 | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP) | 3:13 |
 | 54 | [Aiwo \- Remix](https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh) | [Rafa Pabón](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Aiwo \(Remix\)](https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ) | 2:55 |
 | 55 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 |
 | 56 | [todavíA](https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Todavía](https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx) | 3:03 |
-| 57 | [Tu Boquita](https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG) | [OM.VI](https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh) | [S3NSACIóN](https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV) | 2:14 |
-| 58 | [MI ALGO](https://open.spotify.com/track/05VmV2lcHrbu8rD2reWJLK) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [MI ALGO](https://open.spotify.com/album/02vBvKtAgM31xInDIxX6jh) | 2:56 |
+| 57 | [MI ALGO](https://open.spotify.com/track/05VmV2lcHrbu8rD2reWJLK) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [MI ALGO](https://open.spotify.com/album/02vBvKtAgM31xInDIxX6jh) | 2:56 |
+| 58 | [Tu Boquita](https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG) | [OM.VI](https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh) | [S3NSACIóN](https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV) | 2:14 |
 | 59 | [White Wine](https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [White Wine](https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP) | 3:12 |
 | 60 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
 | 61 | [Tucu](https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:06 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 97 | [a ti te matan las ganas](https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [a ti te matan las ganas](https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq) | 2:29 |
 | 98 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
 | 99 | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr) | [Curren](https://open.spotify.com/artist/4C4qBYVnF5J61XmJWjZkjG), [Slay Fox](https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j), [Davie Reel](https://open.spotify.com/artist/5G9AJMoxKbw9et8XwmixiT) | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX) | 2:52 |
-| 100 | [LLUVIA](https://open.spotify.com/track/7cE2GBb64NzMOinj0T0pdO) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Koora](https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI), [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [LLUVIA](https://open.spotify.com/album/21QMRyGxOlvlKldRJdbX6j) | 3:37 |
+| 100 | [Volvamos](https://open.spotify.com/track/3ew2B1G5nw54y8kpGaMNbm) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [youngkinez](https://open.spotify.com/artist/5JwmmFvakv0jxaM6mj4lsf) | [Volvamos](https://open.spotify.com/album/6Vatwc1dDUYJiDRWB7im4e) | 2:58 |
 
 Snapshot ID: `AAAAACU5zZRq5/haWR4QbqoY9bc9ovxt`

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-504 songs - 1 day 4 hr 29 min
+509 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 | 2026-01-05 |
 | [I'm Sorry It's Over](https://open.spotify.com/track/58kzecWPzOlCzpDzu32eDz) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:06 | 2026-03-14 | 2026-05-26 |
 | [Ibuprofeno](https://open.spotify.com/track/4494LHT6jmnv9dzvNJ0LpP) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:34 | 2025-11-17 | 2026-01-05 |
+| [Idontwantit](https://open.spotify.com/track/1EPdqwp61Fc9OPHD1QW2kl) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Idontwantit](https://open.spotify.com/album/6fD0HfZ8Vb2bIIsdGHP99i) | 2:20 | 2026-06-17 |  |
 | [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2025-11-17 | 2026-01-05 |
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-01-19 | 2026-02-21 |
 | [Il mio nome è Divoc](https://open.spotify.com/track/5C9onzUPqDPEa1bkicVEvH) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:16 | 2025-11-24 | 2026-01-05 |
@@ -296,6 +297,7 @@
 | [Masta Plan](https://open.spotify.com/track/29HloLROxM5upDdZwGZNQI) | [Zeke Saadiq](https://open.spotify.com/artist/2sjFTV4Yj1PpwHP3UJmi0d), [Lana Lotus](https://open.spotify.com/artist/12LQ3pCmfxZXHrW4ULwMaM), [Wizeguy Collective](https://open.spotify.com/artist/39eU8w4KpyiTiN5aUGCo3z) | [The Wizeguy MixTape](https://open.spotify.com/album/42KQbGiza0RUx7q0b5g7VP) | 3:16 | 2026-01-01 | 2026-01-25 |
 | [Me](https://open.spotify.com/track/356jvxIwxF7GCnqZg3xS5n) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Me](https://open.spotify.com/album/42ShDpZIKnaYM5QTXHlXfT) | 2:37 | 2026-05-19 | 2026-06-14 |
 | [Mein Block](https://open.spotify.com/track/0cHc5tyUQ1PkOCgz5kLmxc) | [DCI Dashcam](https://open.spotify.com/artist/6cL9wQrj7bdDnYtM6aeyRV) | [Mein Block](https://open.spotify.com/album/7zwRE5aoBDcuYBOzlENOxU) | 2:27 | 2025-12-25 | 2026-01-15 |
+| [Melbourne Cat](https://open.spotify.com/track/72cmQI7HC2RNIKeGbKUPNH) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Melbourne Cat](https://open.spotify.com/album/0acC0pSJGsYNirxkfWlOxK) | 4:18 | 2026-06-17 |  |
 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 | 2026-04-06 |  |
 | [MERKAVÁ](https://open.spotify.com/track/6lv3CY0BItKVXV42uhGbSG) | [Kibbutz Paradiso](https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB) | [MERKAVÁ](https://open.spotify.com/album/5TvvDO3PiMc1kfoRblhIy9) | 3:09 | 2025-12-24 | 2026-01-15 |
 | [Meta](https://open.spotify.com/track/6bkUhClIp0aid5XGt3dA1e) | [HIRUNDO](https://open.spotify.com/artist/07ZBrNvM8jzpBrKNV7F5jk) | [Meta](https://open.spotify.com/album/5NkecLhbahD5w3xgFxYoH1) | 3:24 | 2026-04-25 |  |
@@ -318,6 +320,7 @@
 | [NEON](https://open.spotify.com/track/19KW2WQqr28EodAzjVDDAB) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [INTIMATE](https://open.spotify.com/album/23h0kTWdfyEbYPlM3iKa7l) | 3:26 | 2026-01-13 | 2026-02-21 |
 | [Never Be The Same](https://open.spotify.com/track/61SyXYa2Qy6Jw321zNc8vl) | [Baby Booder](https://open.spotify.com/artist/34hbnab20NIQKBxBF3HyFY) | [FINKO I](https://open.spotify.com/album/3QOeK4p2AvLk07jAgqXXBu) | 2:28 | 2026-01-29 | 2026-03-03 |
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2026-01-06 | 2026-02-21 |
+| [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 | 2026-06-17 |  |
 | [Night After Night](https://open.spotify.com/track/1XDirGFSQxJOw7Lt37Plfm) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 5:04 | 2025-12-28 | 2026-01-25 |
 | [No More Heroes](https://open.spotify.com/track/5O9TUKCbroCDPvgIWqLLsr) | [Chris Corey](https://open.spotify.com/artist/4tGupj3nwiwHdv8hyHhJLZ) | [Midnight Forever](https://open.spotify.com/album/48WzX6lRKNkIVlScImDdGZ) | 3:07 | 2026-02-08 |  |
 | [No puedo pensar](https://open.spotify.com/track/2QWqsVpYnzMgUeIl2JCvNC) | [Carles Giuliani](https://open.spotify.com/artist/0mIqIlApPH7AVy5DO1Q3A0), [Caro Norte](https://open.spotify.com/artist/4wYRZ47TgRCFTlGuP27e2t) | [No puedo pensar](https://open.spotify.com/album/05DkJnHEO5uj6HRavpncNw) | 2:35 | 2025-11-17 | 2026-01-05 |
@@ -425,9 +428,11 @@
 | [THE HEAT](https://open.spotify.com/track/1ACm87Fnd6ZFTLApCDxy70) | [TESHEA SOUL](https://open.spotify.com/artist/3ztTKXVVM22GWaTAspU2Ws) | [DAYDREAM](https://open.spotify.com/album/6BRskXafHlWiagqmLP6NgK) | 2:55 | 2025-12-20 | 2026-01-15 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-11-30 | 2026-01-05 |
 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 | 2026-06-06 |  |
+| [The Mirror](https://open.spotify.com/track/6pUnpsCM1fvQrQsNxboHfZ) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [The Mirror](https://open.spotify.com/album/4ptWnwJL8v7UJLAcAgr9Bl) | 3:43 | 2026-06-17 |  |
 | [The Narrative](https://open.spotify.com/track/2C5l4za8s1jMgUVhQnrt7U) | [DroCole](https://open.spotify.com/artist/1ULNRteGwjrrsPZ5SURVlX), [Pokoaya](https://open.spotify.com/artist/0dSM49bxZ52Bu3DbogQUbK) | [The Narrative](https://open.spotify.com/album/4rzoePKxuaie9M3VGCdtuI) | 2:16 | 2025-11-01 | 2025-12-01 |
 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 | 2025-11-03 | 2025-12-01 |
 | [The Party](https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The Party](https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2) | 3:04 | 2026-02-27 | 2026-05-26 |
+| [The Percoats Are Coming\(Dead Friends Diss\)](https://open.spotify.com/track/4K8TxP3EyZdLTMg50BUeId) | [Liam the Brand](https://open.spotify.com/artist/1wG2iQogJTU0avTSSx5p3t) | [The Percoats Are Coming\(Dead Friends Diss\)](https://open.spotify.com/album/4PQEIaZWpsHTM0jOWjr3jL) | 2:58 | 2026-06-17 |  |
 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 | 2026-02-08 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2026-01-24 | 2026-02-21 |
 | [The Red Cha Cha](https://open.spotify.com/track/10DZ0KHJmt1PS0hVNIf6PT) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [The Red Cha Cha](https://open.spotify.com/album/0wBE98iV9c9xym1kQFK5b6) | 2:23 | 2025-11-30 | 2026-01-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 477,
+  "num_followers": 476,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABQq7IfY7X4bHM5ARerHCii",
+  "snapshot_id": "ajCSAAAAAACcAfqWlqS8NBtRB17LHWz9",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "emotional punching bag",
-        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
+        "name": "You Make Bad Things Not Suck <3",
+        "url": "https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 176030,
-      "name": "Emotional Punching Bag",
-      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
+      "duration_ms": 153616,
+      "name": "You Make Bad Things Not Suck <3",
+      "url": "https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Bad Things Not Suck <3",
-        "url": "https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13"
+        "name": "emotional punching bag",
+        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 153616,
-      "name": "You Make Bad Things Not Suck <3",
-      "url": "https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO"
+      "duration_ms": 176030,
+      "name": "Emotional Punching Bag",
+      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
     },
     {
       "added_at": null,
@@ -383,6 +383,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pop Drama",
+        "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        },
+        {
+          "name": "Oliver Price",
+          "url": "https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg"
+        },
+        {
+          "name": "Thomas Greenwood",
+          "url": "https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr"
+        }
+      ],
+      "duration_ms": 220647,
+      "name": "HRDCR",
+      "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "guitar center",
         "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
       },
@@ -427,30 +451,6 @@
       "duration_ms": 139666,
       "name": "Cool 4 U",
       "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pop Drama",
-        "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        },
-        {
-          "name": "Oliver Price",
-          "url": "https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg"
-        },
-        {
-          "name": "Thomas Greenwood",
-          "url": "https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr"
-        }
-      ],
-      "duration_ms": 220647,
-      "name": "HRDCR",
-      "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
     },
     {
       "added_at": null,

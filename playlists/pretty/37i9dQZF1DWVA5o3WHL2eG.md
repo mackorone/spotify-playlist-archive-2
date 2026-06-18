@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: BROCKHOFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,852 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,853 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [ciao bb](https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [ciao bb](https://open.spotify.com/album/6KUjT3Z3we8zDTrZwebRcP) | 2:21 |
 | 11 | [aufn sack](https://open.spotify.com/track/6VAVWjLEIw39ytztumagau) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [aufn sack](https://open.spotify.com/album/6vvdUrfblEJDSDRPyfeRE1) | 2:37 |
 | 12 | [Funkstille](https://open.spotify.com/track/5IBMYix1rjkNMoAZwk95vA) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Funkstille](https://open.spotify.com/album/2ZEr5BaAa9sTiDnvUwEdD1) | 2:57 |
-| 13 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 |
+| 13 | [Ozempic & Pilates](https://open.spotify.com/track/384j1jLowG025SHIpRNwLD) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Ozempic & Pilates](https://open.spotify.com/album/3kXweZiPGmfPL783hcx6Wf) | 1:51 |
 | 14 | [Sharks](https://open.spotify.com/track/1raKZiQRXg9SGZNhfakiOd) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 2:48 |
-| 15 | [Ozempic & Pilates](https://open.spotify.com/track/384j1jLowG025SHIpRNwLD) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Ozempic & Pilates](https://open.spotify.com/album/3kXweZiPGmfPL783hcx6Wf) | 1:51 |
+| 15 | [tief](https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [tief](https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg) | 3:01 |
 | 16 | [Wieso](https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wieso](https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei) | 3:45 |
-| 17 | [sweat](https://open.spotify.com/track/2JIgWVEv6LVmYJlmpLAwlU) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [sweat](https://open.spotify.com/album/6KqdZh2q1SVJVXj8zl1IYx) | 2:22 |
-| 18 | [Wasser zu Wein](https://open.spotify.com/track/6NXVKXBPnT5hMpcFJSf69v) | [Julia Meladin](https://open.spotify.com/artist/26N7IKzjFJ57y84GdXBd4A) | [Wasser zu Wein](https://open.spotify.com/album/0sgnRaWO4gGEMa0IvHYKKO) | 2:38 |
+| 17 | [Wasser zu Wein](https://open.spotify.com/track/6NXVKXBPnT5hMpcFJSf69v) | [Julia Meladin](https://open.spotify.com/artist/26N7IKzjFJ57y84GdXBd4A) | [Wasser zu Wein](https://open.spotify.com/album/0sgnRaWO4gGEMa0IvHYKKO) | 2:38 |
+| 18 | [sweat](https://open.spotify.com/track/2JIgWVEv6LVmYJlmpLAwlU) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [sweat](https://open.spotify.com/album/6KqdZh2q1SVJVXj8zl1IYx) | 2:22 |
 | 19 | [Kein Schlaf](https://open.spotify.com/track/0ir69oQMkmI4lVG1WbFDjD) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [Kein Schlaf](https://open.spotify.com/album/0ZeogoFDzxA5RofVsYxOOd) | 2:54 |
 | 20 | [2015](https://open.spotify.com/track/7zC8YOfVCC2e7kmlfB9zOI) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [2015](https://open.spotify.com/album/77CV9vMRQjWMLc7yTB3Rlr) | 2:48 |
 | 21 | [Kein Ponyhof](https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Kein Ponyhof](https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid) | 2:05 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [To Be Sexy](https://open.spotify.com/track/50Q1ca2b4zv6IgF3l4itQD) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [To Be Sexy](https://open.spotify.com/album/276yBdzt3CV6kAuYv1WDeL) | 3:01 |
 | 44 | [AFTERPARTY](https://open.spotify.com/track/7cXaKAI2HThRDSWPETLJZq) | [BAEZY](https://open.spotify.com/artist/4T640jDRFxkIBiWHwIPrKY) | [AFTERPARTY](https://open.spotify.com/album/6NleuMGkvZtoMuxFHpIrmv) | 2:04 |
 | 45 | [I LIKE YOU](https://open.spotify.com/track/2If9dziJFjIBDkkdKGcZoT) | [Melicious](https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH) | [I LIKE YOU](https://open.spotify.com/album/4KCm2VNnGwzEozViaX6jQB) | 2:36 |
-| 46 | [Bank sprengen](https://open.spotify.com/track/1XMLCylxy2VlrMs6c9dmzM) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Bank sprengen](https://open.spotify.com/album/46dIjxSePuYseAsODeYdfx) | 2:22 |
-| 47 | [Unlove You](https://open.spotify.com/track/4uayfJhcQlWGzKgkVSdOQY) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Unlove You](https://open.spotify.com/album/7s84H8qfRyPdlve7Xji3iq) | 3:28 |
+| 46 | [Unlove You](https://open.spotify.com/track/4uayfJhcQlWGzKgkVSdOQY) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Unlove You](https://open.spotify.com/album/7s84H8qfRyPdlve7Xji3iq) | 3:28 |
+| 47 | [Bank sprengen](https://open.spotify.com/track/1XMLCylxy2VlrMs6c9dmzM) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Bank sprengen](https://open.spotify.com/album/46dIjxSePuYseAsODeYdfx) | 2:22 |
 | 48 | [FSHS](https://open.spotify.com/track/18bEcDnksxaWimdHHZs15G) | [Anna Trümner](https://open.spotify.com/artist/3IIBqtZVfCcYzVJljAevLq) | [FSHS](https://open.spotify.com/album/0Otpgh12UTUD4HwJpjbZ8R) | 1:56 |
 | 49 | [Mit Links](https://open.spotify.com/track/4rHMLmpQP0hPPNEWT45nlq) | [ETO](https://open.spotify.com/artist/0Y7IHICQTiPlRK9bhSbYFj) | [Mit Links](https://open.spotify.com/album/3OpM25CwCD6tQnNG2dHVPJ) | 2:36 |
 | 50 | [Acid Groove Theory](https://open.spotify.com/track/2qTvnBMiHynRggPuBUMKjQ) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [Acid Groove Theory](https://open.spotify.com/album/5EzRSVtyOmrphji81MjpoY) | 4:45 |

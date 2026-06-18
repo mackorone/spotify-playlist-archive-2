@@ -4,7 +4,7 @@
 
 > 우리의 얼과 소리가 담긴 국악음악을 즐겨보세요\. \(커버: 엄유정\(Eom Yu Jeong\)\) \(Enjoy Korean national music with our spirit and sound.\)
 
-65 songs - 9 hr 6 min
+66 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [GamGaeryung](https://open.spotify.com/track/2SHlmzGE4vkQtDFCQbHcfX) | [CHUN JUMI](https://open.spotify.com/artist/719IRrqAyBrgl3EQMhFVff) | [CHUN JUMI 「Gayageumbyeongchang Original Series Ⅰ」 Heungboga](https://open.spotify.com/album/6P9ByyOkFKsJorpTqT3JBY) | 4:06 | 2023-09-15 |  |
 | [Gin\-Ari](https://open.spotify.com/track/5PEtbFlOshX9S3FQuBpuFR) | [원나경](https://open.spotify.com/artist/3dq1W5W9WWBpVhKcm1dw8M) | [Gin\-Ari](https://open.spotify.com/album/6zwxuEDxSrkwLm09tT8hQd) | 4:03 | 2023-09-15 |  |
 | [Heungbo\-Ga jebinojeonggi](https://open.spotify.com/track/64JjfC7qLBMrBJH38nwSA0) | [Eom yu jeong](https://open.spotify.com/artist/6Eo2LCv4KWTG5uswy23om4) | [Eomyu jeong gayageum byungchang Ⅰ 'Heungbo\-Ga'](https://open.spotify.com/album/2QJChHrOtJ10Z51Y2TbMgB) | 6:50 | 2023-09-15 |  |
+| [Holo Arirang \(feat\. Jung In\)](https://open.spotify.com/track/1mKeIseZ3mp0AY22Exs7hn) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Holo Arirang](https://open.spotify.com/album/4HCKxSDJVY36KCho3n7taQ) | 4:29 | 2026-06-17 |  |
 | [HUNGTARYOUNG](https://open.spotify.com/track/41woct9VMMfd8B5KJZGrOi) | [LEE KYOUNG A](https://open.spotify.com/artist/4yBDCadJzg8ThWXCcJkOk5) | [HUNGTARYOUNG](https://open.spotify.com/album/7ofqJ6xXjve1PQggxUyMgl) | 34:15 | 2023-09-15 |  |
 | [Jeokbyukga](https://open.spotify.com/track/1i5DJWqGXMJlmgG1IC0z3L) | [Lee WooHyeon](https://open.spotify.com/artist/65MKYEeGQVLucnXAjhcbQ8) | [Jeokbyukga](https://open.spotify.com/album/0RzyVYezCvJHZXuRiBseRQ) | 13:36 | 2023-09-15 |  |
 | [Jinyangjo](https://open.spotify.com/track/1FLquMgonhsRFP8LPbF4xq) | [Seong Ai Soon](https://open.spotify.com/artist/6QKv72Crw1wPoAZxOzk9ar) | [Seong Ai Soon \- Gayageum Sanjo School of Choi Oksam](https://open.spotify.com/album/2pG0QIZa1CZWDDDqNWTPY7) | 5:12 | 2023-09-15 |  |

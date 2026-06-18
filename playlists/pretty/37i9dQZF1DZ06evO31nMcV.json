@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 26702,
+  "num_followers": 26705,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACaiAnzrLr+tSfNtUSTlud1",
+  "snapshot_id": "ajCSAAAAAADoiyq8bqDs4XfEaMqccJL0",
   "tracks": [
     {
       "added_at": null,
@@ -400,13 +400,21 @@
       },
       "artists": [
         {
+          "name": "Norman Gimbel",
+          "url": "https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM"
+        },
+        {
+          "name": "Charles Fox",
+          "url": "https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB"
+        },
+        {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 201008,
-      "name": "Returning To You",
-      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
+      "duration_ms": 63372,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
     },
     {
       "added_at": null,
@@ -468,21 +476,13 @@
       },
       "artists": [
         {
-          "name": "Norman Gimbel",
-          "url": "https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM"
-        },
-        {
-          "name": "Charles Fox",
-          "url": "https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB"
-        },
-        {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 63372,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 76923,
-      "name": "Midnight Reverie",
-      "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paper Hearts",
-        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 225103,
-      "name": "Closer to Forever",
-      "url": "https://open.spotify.com/track/5rcFpNVeoaVBlPVqgLRsQY"
+      "duration_ms": 76923,
+      "name": "Midnight Reverie",
+      "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 208023,
       "name": "Forever Song",
       "url": "https://open.spotify.com/track/3QT8S7ZBD5kfQX3aJ7Nb5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 225103,
+      "name": "Closer to Forever",
+      "url": "https://open.spotify.com/track/5rcFpNVeoaVBlPVqgLRsQY"
     },
     {
       "added_at": null,

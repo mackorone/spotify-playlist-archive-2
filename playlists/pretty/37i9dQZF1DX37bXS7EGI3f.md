@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,554 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,589 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 66 | [Wayfarer's Reverie](https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657) | [Crystal Gates](https://open.spotify.com/artist/250Dng1E4jK89iWvEwI24u) | [East of the Sun](https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0) | 4:50 |
 | 67 | [The Apostate](https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Pro Xristou](https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB) | 5:01 |
 | 68 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
-| 69 | [Nexus](https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Equinox](https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ) | 4:07 |
-| 70 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
-| 71 | [The Past is Forever](https://open.spotify.com/track/72k871NJTB8tVUSlZw1c6P) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Past is Forever](https://open.spotify.com/album/1UlmllsirMUgbrAnJOdeMF) | 3:48 |
-| 72 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
+| 69 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
+| 70 | [Nexus](https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Equinox](https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ) | 4:07 |
+| 71 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
+| 72 | [The Past is Forever](https://open.spotify.com/track/72k871NJTB8tVUSlZw1c6P) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Past is Forever](https://open.spotify.com/album/1UlmllsirMUgbrAnJOdeMF) | 3:48 |
 | 73 | [The Rune \(2025\)](https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S) | [Týr](https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa) | [The Rune \(2025\)](https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd) | 6:46 |
 | 74 | [Fire](https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Fire](https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX) | 3:28 |
 | 75 | [Kings of Ragnarök](https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Kings of Ragnarök](https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw) | 3:54 |

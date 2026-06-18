@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Olivia Rodrigo, KALEO og m\u00f6rgum fleiri!",
-  "num_followers": 9662,
+  "num_followers": 9664,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -487,38 +487,6 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
-        "name": "In The Name Of Healing (from the Prime Original Movie \u2018Your Fault: London\u2019)",
-        "url": "https://open.spotify.com/album/1T0yBHa2eKYVtAXMu7UxCn"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 157076,
-      "name": "In The Name Of Healing - from the Prime Original Movie \u2018Your Fault: London\u2019",
-      "url": "https://open.spotify.com/track/6nnt4dluOfRFlrZawFHTbc"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
-        "name": "Night at the Opera",
-        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
         "name": "Tomma glas (feat. Molly Sand\u00e9n & Dante)",
         "url": "https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP"
       },
@@ -539,6 +507,38 @@
       "duration_ms": 142112,
       "name": "Tomma glas (feat. Molly Sand\u00e9n & Dante)",
       "url": "https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 159929,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
+        "name": "In The Name Of Healing (from the Prime Original Movie \u2018Your Fault: London\u2019)",
+        "url": "https://open.spotify.com/album/1T0yBHa2eKYVtAXMu7UxCn"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 157076,
+      "name": "In The Name Of Healing - from the Prime Original Movie \u2018Your Fault: London\u2019",
+      "url": "https://open.spotify.com/track/6nnt4dluOfRFlrZawFHTbc"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -571,22 +571,6 @@
       "duration_ms": 184417,
       "name": "Faking Smiles",
       "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
-        "name": "Sand Castle",
-        "url": "https://open.spotify.com/album/2mw5HgtbMr4tSrq5VEqbxC"
-      },
-      "artists": [
-        {
-          "name": "INI",
-          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
-        }
-      ],
-      "duration_ms": 215339,
-      "name": "Sand Castle",
-      "url": "https://open.spotify.com/track/2hwKCIEZB2sK5Z6Xfws0MK"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -627,6 +611,50 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
+        "name": "Sand Castle",
+        "url": "https://open.spotify.com/album/2mw5HgtbMr4tSrq5VEqbxC"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "duration_ms": 215339,
+      "name": "Sand Castle",
+      "url": "https://open.spotify.com/track/2hwKCIEZB2sK5Z6Xfws0MK"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 129302,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
         "name": "Do it all again",
         "url": "https://open.spotify.com/album/0FvRb3KcuAEvc62SmHQJvL"
       },
@@ -659,34 +687,6 @@
       "duration_ms": 151846,
       "name": "If I could stop time...",
       "url": "https://open.spotify.com/track/1kni5NOsxhGawUi4CfWaEz"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        }
-      ],
-      "duration_ms": 129302,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "duration_ms": 175747,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
         "name": "Even Angels Ghost",
         "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 262976,
       "name": "Even Angels Ghost",
       "url": "https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
-        "name": "Speakerphone",
-        "url": "https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
-        }
-      ],
-      "duration_ms": 161660,
-      "name": "Speakerphone",
-      "url": "https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ"
+        "name": "Speakerphone",
+        "url": "https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay"
       },
       "artists": [
         {
-          "name": "Asha Banks",
-          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
         }
       ],
-      "duration_ms": 175747,
-      "name": "Come Down",
-      "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
+      "duration_ms": 161660,
+      "name": "Speakerphone",
+      "url": "https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
+        "name": "I Loved, I Lost",
+        "url": "https://open.spotify.com/album/3UaH8kk0xAAhT9OryV7P5e"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "I Loved, I Lost",
+      "url": "https://open.spotify.com/track/0ISDkwsAWGoVGBq5ZkMPlN"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
         "name": "WHERE\u2019S THE FUN?",
         "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 122482,
       "name": "MATRIX",
       "url": "https://open.spotify.com/track/0mKY1kpJdHPK2gBDYBZlel"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
-        "name": "I Loved, I Lost",
-        "url": "https://open.spotify.com/album/3UaH8kk0xAAhT9OryV7P5e"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "I Loved, I Lost",
-      "url": "https://open.spotify.com/track/0ISDkwsAWGoVGBq5ZkMPlN"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/5S9SsSbvIc3d5bMvQ2HdxZ"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 172481,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/5i18oJURtl68UXAlj6Dp0n"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
         "name": "resting, chilling, smoking",
         "url": "https://open.spotify.com/album/0yBcePTVen9oaDaCdPnk7G"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 171562,
       "name": "resting, chilling, smoking",
       "url": "https://open.spotify.com/track/6yeuD4BJ46diseP6IPjSKS"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/5S9SsSbvIc3d5bMvQ2HdxZ"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 172481,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/5i18oJURtl68UXAlj6Dp0n"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
-        "name": "Master of Goodbye",
-        "url": "https://open.spotify.com/album/2JnSlEZRsF7IdEsdnoajIi"
-      },
-      "artists": [
-        {
-          "name": "Isaac Levi",
-          "url": "https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "You Don\u2019t Love Me",
-      "url": "https://open.spotify.com/track/3t6oBroGQU9T74ul4ZcB1a"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO"
       },
@@ -1147,6 +1131,38 @@
       "duration_ms": 132500,
       "name": "SICK",
       "url": "https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 201342,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
+        "name": "Master of Goodbye",
+        "url": "https://open.spotify.com/album/2JnSlEZRsF7IdEsdnoajIi"
+      },
+      "artists": [
+        {
+          "name": "Isaac Levi",
+          "url": "https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "You Don\u2019t Love Me",
+      "url": "https://open.spotify.com/track/3t6oBroGQU9T74ul4ZcB1a"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 201342,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
         "name": "Ventura (Hang Me Out to Dry)",
         "url": "https://open.spotify.com/album/0Kcc83ICaX5IMfw6dr7I3B"
       },
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
+        "name": "Weight On Me",
+        "url": "https://open.spotify.com/album/4Se8RHq2O13HbDeGeSxPVM"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 148695,
+      "name": "Weight On Me",
+      "url": "https://open.spotify.com/track/45duzYferoDQWzJ51oDoHh"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/4yacoDhN5ktZ9rNl4NdfQd"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 182004,
       "name": "Livin' the Dream",
       "url": "https://open.spotify.com/track/6vQvDDhQExWcFKUTJXLJxp"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
-        "name": "Weight On Me",
-        "url": "https://open.spotify.com/album/4Se8RHq2O13HbDeGeSxPVM"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 148695,
-      "name": "Weight On Me",
-      "url": "https://open.spotify.com/track/45duzYferoDQWzJ51oDoHh"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/2rU0hPF2YxpLbCx0dcgHlz"
-      },
-      "artists": [
-        {
-          "name": "Dandelion",
-          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
-        }
-      ],
-      "duration_ms": 214970,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/04hCF2m0TsrSL0OwgYJHHx"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
         "name": "everything led me to you",
         "url": "https://open.spotify.com/album/6xpw9qxkrOCogmiwQxk2yD"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 154390,
       "name": "everything led me to you",
       "url": "https://open.spotify.com/track/2JsZUBhPh5oXA8Rrm0sGFf"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/2rU0hPF2YxpLbCx0dcgHlz"
+      },
+      "artists": [
+        {
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+        }
+      ],
+      "duration_ms": 214970,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/04hCF2m0TsrSL0OwgYJHHx"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
-        "name": "Hardness Of A Silverspoon",
-        "url": "https://open.spotify.com/album/6x0d87k68ekuF281QJ2UkS"
-      },
-      "artists": [
-        {
-          "name": "Murex",
-          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
-        }
-      ],
-      "duration_ms": 153348,
-      "name": "Hardness Of A Silverspoon",
-      "url": "https://open.spotify.com/track/5oEKcYeulKqQsW4G56dqpQ"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
         "name": "Starsound",
         "url": "https://open.spotify.com/album/5LAbuBRSMKL4SvvCpRfvfd"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 229270,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/3IngAWFKAXX5VGIGPWcVJa"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
+        "name": "Hardness Of A Silverspoon",
+        "url": "https://open.spotify.com/album/6x0d87k68ekuF281QJ2UkS"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "duration_ms": 153348,
+      "name": "Hardness Of A Silverspoon",
+      "url": "https://open.spotify.com/track/5oEKcYeulKqQsW4G56dqpQ"
     },
     {
       "added_at": "2026-06-12 00:00:06",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
-        "name": "Baby It's Ok",
-        "url": "https://open.spotify.com/album/41Am8AHJNaKvibkc0VjhTO"
-      },
-      "artists": [
-        {
-          "name": "Julia Sandstorm",
-          "url": "https://open.spotify.com/artist/1TI4FT4B9A2viw05OLhMpm"
-        }
-      ],
-      "duration_ms": 286581,
-      "name": "Baby It's Ok",
-      "url": "https://open.spotify.com/track/0QeeLXQcpdj55gTu1X6JqR"
-    },
-    {
-      "added_at": "2026-06-12 00:00:06",
-      "album": {
         "name": "Open The Bag",
         "url": "https://open.spotify.com/album/7FKwhBqq2UMQ9prd3HBKCn"
       },
@@ -1547,18 +1531,38 @@
     {
       "added_at": "2026-06-12 00:00:06",
       "album": {
-        "name": "Over Again",
-        "url": "https://open.spotify.com/album/6KPkzK2684tAy9Lgw0vTmX"
+        "name": "Baby It's Ok",
+        "url": "https://open.spotify.com/album/41Am8AHJNaKvibkc0VjhTO"
       },
       "artists": [
         {
-          "name": "Nina Caroline",
-          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
+          "name": "Julia Sandstorm",
+          "url": "https://open.spotify.com/artist/1TI4FT4B9A2viw05OLhMpm"
         }
       ],
-      "duration_ms": 184202,
-      "name": "Over Again",
-      "url": "https://open.spotify.com/track/3SRbhPdFe0xiRMilDb5PCe"
+      "duration_ms": 286581,
+      "name": "Baby It's Ok",
+      "url": "https://open.spotify.com/track/0QeeLXQcpdj55gTu1X6JqR"
+    },
+    {
+      "added_at": "2026-06-12 00:00:06",
+      "album": {
+        "name": "The Most Beautiful Lovesong",
+        "url": "https://open.spotify.com/album/5ASHu5CVD0O9p5zYK7apBs"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        },
+        {
+          "name": "Toussaint Chiza",
+          "url": "https://open.spotify.com/artist/1wc53bAOil4C5PxhoT08dA"
+        }
+      ],
+      "duration_ms": 243356,
+      "name": "The Most Beautiful Lovesong",
+      "url": "https://open.spotify.com/track/02SzelvEOwaq1YD1UtqjQh"
     },
     {
       "added_at": "2026-06-12 00:00:06",

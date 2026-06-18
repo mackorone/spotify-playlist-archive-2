@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Chillout house grooves and dreamy covers, all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,180 likes - 110 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,366 likes - 110 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 109 | [Floral](https://open.spotify.com/track/0dsNKoxklkMj5l3yYbkB4t) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Floral](https://open.spotify.com/album/1w3NHgj693DBLpvOUxHfxS) | 2:35 |
 | 110 | [My Mind](https://open.spotify.com/track/4D4LilSp8N17KxGPmRfPq8) | [Sonido Solar](https://open.spotify.com/artist/1GLUdo7Gb11aUla9lLb1mP) | [My Mind](https://open.spotify.com/album/3k0WoI9iatoLN28GMB3W2p) | 2:10 |
 
-Snapshot ID: `AAAAAITQNsg1CR00wO6kLmdgOngTMOah`
+Snapshot ID: `AAAAAGFxGsMOCgAA3yvm6RHLfMEhslou`

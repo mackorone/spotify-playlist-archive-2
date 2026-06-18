@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: MUNA",
-  "num_followers": 1668092,
+  "num_followers": 1668004,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Rabbits Can Swim",
+        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 253675,
+      "name": "Rabbits Can Swim",
+      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Equus Caballus",
         "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
@@ -717,20 +733,20 @@
       "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-05-15 16:36:11",
       "album": {
-        "name": "Rabbits Can Swim",
-        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
+        "name": "Feel It All Again",
+        "url": "https://open.spotify.com/album/6gCprK5FOgT9z0OZQBSd3W"
       },
       "artists": [
         {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
         }
       ],
-      "duration_ms": 253675,
-      "name": "Rabbits Can Swim",
-      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
+      "duration_ms": 173333,
+      "name": "Feel It All Again",
+      "url": "https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -763,22 +779,6 @@
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
-      "added_at": "2026-05-15 16:36:11",
-      "album": {
-        "name": "Feel It All Again",
-        "url": "https://open.spotify.com/album/6gCprK5FOgT9z0OZQBSd3W"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Feel It All Again",
-      "url": "https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -885,6 +885,22 @@
       "url": "https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7"
     },
     {
+      "added_at": "2026-06-05 04:02:01",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/2EDUEYGICz8XYZaH18yZOb"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 167653,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/57GzncV0DFLenSIt5yERwY"
+    },
+    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Housekeeping",
@@ -903,18 +919,18 @@
     {
       "added_at": "2026-06-05 04:02:01",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/2EDUEYGICz8XYZaH18yZOb"
+        "name": "Mesmerized",
+        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
       },
       "artists": [
         {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
         }
       ],
-      "duration_ms": 167653,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/57GzncV0DFLenSIt5yERwY"
+      "duration_ms": 158936,
+      "name": "Mesmerized",
+      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -961,22 +977,6 @@
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
-    },
-    {
       "added_at": "2026-06-05 04:02:01",
       "album": {
         "name": "Hot Sprite",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "Paradise Now & Forever",
         "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
       },
@@ -1007,54 +1023,6 @@
       "duration_ms": 215531,
       "name": "Lipdance",
       "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
-    },
-    {
-      "added_at": "2026-06-05 04:02:01",
-      "album": {
-        "name": "Mesmerized",
-        "url": "https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 158936,
-      "name": "Mesmerized",
-      "url": "https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Leaving The House Is A Performance",
-        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
-      },
-      "artists": [
-        {
-          "name": "Sofia and the Antoinettes",
-          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
-        }
-      ],
-      "duration_ms": 221717,
-      "name": "Naked Chess",
-      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "I Lit The Fire",
-        "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
-      },
-      "artists": [
-        {
-          "name": "Sara Beth",
-          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
-        }
-      ],
-      "duration_ms": 154244,
-      "name": "I Lit The Fire",
-      "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1075,18 +1043,34 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM"
+        "name": "I Lit The Fire",
+        "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
       },
       "artists": [
         {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+          "name": "Sara Beth",
+          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
+      "duration_ms": 154244,
+      "name": "I Lit The Fire",
+      "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Leaving The House Is A Performance",
+        "url": "https://open.spotify.com/album/2X4TbgZOMmhZ6LuWmvwDSs"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "duration_ms": 221717,
+      "name": "Naked Chess",
+      "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "down under",
         "url": "https://open.spotify.com/album/6u1MWDlyJlzW28ithVAYp3"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 204557,
       "name": "down under",
       "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
+    },
+    {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "glitter in the night",
+        "url": "https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 159974,
+      "name": "glitter in the night",
+      "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
     },
     {
       "added_at": "2026-05-15 19:54:37",
@@ -1137,20 +1153,20 @@
       "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
     },
     {
-      "added_at": "2026-06-12 04:02:00",
+      "added_at": "2026-06-05 04:02:01",
       "album": {
-        "name": "glitter in the night",
-        "url": "https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6"
+        "name": "waiting on me",
+        "url": "https://open.spotify.com/album/5ehGgn9837PUrdBOJ07JdJ"
       },
       "artists": [
         {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+          "name": "ALINA",
+          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
         }
       ],
-      "duration_ms": 159974,
-      "name": "glitter in the night",
-      "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
+      "duration_ms": 175911,
+      "name": "waiting on me",
+      "url": "https://open.spotify.com/track/5D9ui417eWuVc41Wi7bzZ6"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1183,22 +1199,6 @@
       "duration_ms": 266906,
       "name": "w-w-w-w-w",
       "url": "https://open.spotify.com/track/7ENAU5RHg2yeQ0FOSvlF3C"
-    },
-    {
-      "added_at": "2026-06-05 04:02:01",
-      "album": {
-        "name": "waiting on me",
-        "url": "https://open.spotify.com/album/5ehGgn9837PUrdBOJ07JdJ"
-      },
-      "artists": [
-        {
-          "name": "ALINA",
-          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
-        }
-      ],
-      "duration_ms": 175911,
-      "name": "waiting on me",
-      "url": "https://open.spotify.com/track/5D9ui417eWuVc41Wi7bzZ6"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1241,38 +1241,6 @@
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "juniper ring",
-        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
-      },
-      "artists": [
-        {
-          "name": "livingthing",
-          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
-        }
-      ],
-      "duration_ms": 208997,
-      "name": "collagen",
-      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "terrible4u",
-        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
-      },
-      "artists": [
-        {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
-        }
-      ],
-      "duration_ms": 198092,
-      "name": "terrible4u",
-      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
-    },
-    {
       "added_at": "2026-06-12 04:02:00",
       "album": {
         "name": "lie alone",
@@ -1291,18 +1259,18 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
       },
       "artists": [
         {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
         }
       ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1319,6 +1287,38 @@
       "duration_ms": 147106,
       "name": "Texas Baby",
       "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "terrible4u",
+        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "duration_ms": 198092,
+      "name": "terrible4u",
+      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 266129,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Pinky Promise",
         "url": "https://open.spotify.com/album/1yNNvUBskbCyaL3U8HajF4"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 184740,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
     },
     {
       "added_at": "2026-06-05 04:02:01",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "lemonlime",
-        "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "lemonlime",
-      "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "the punisher",
         "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
+        "name": "lemonlime",
+        "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "lemonlime",
+      "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
         "name": "portals//polarities",
         "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 256481,
       "name": "leave it all behind, Mike",
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
+    },
+    {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "Shiny Stockings",
+        "url": "https://open.spotify.com/album/7uLkCFhxXT6373P8pulfLC"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 180736,
+      "name": "Shiny Stockings",
+      "url": "https://open.spotify.com/track/6zAjGOsOHaM36lqI2z3xKU"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1647,22 +1663,6 @@
       "duration_ms": 224980,
       "name": "I'd Do Anything",
       "url": "https://open.spotify.com/track/1Ff8iIGVvs5EMzoOYYI197"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Kiss&Tell",
-        "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
-      },
-      "artists": [
-        {
-          "name": "GUINEVERE",
-          "url": "https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood"
-        }
-      ],
-      "duration_ms": 225477,
-      "name": "Kiss&Tell",
-      "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
     },
     {
       "added_at": "2026-05-15 16:17:55",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAB0eHjoTMNAQr9bq/wcu1pj",
+  "snapshot_id": "ajCSAAAAAACEzrJsJ7xB6qFG/MVRmVpO",
   "tracks": [
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Mean Everything",
-        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
+        "name": "Ready to Call",
+        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 232115,
-      "name": "You Mean Everything",
-      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
+      "duration_ms": 219405,
+      "name": "Ready to Call",
+      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready to Call",
-        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
+        "name": "You Mean Everything",
+        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 219405,
-      "name": "Ready to Call",
-      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
+      "duration_ms": 232115,
+      "name": "You Mean Everything",
+      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,925 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,926 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 9 | [DTF \(Different Type Freak\)](https://open.spotify.com/track/2KBPffFwqp8mm4BtghQk4a) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [DTF \(Different Type Freak\)](https://open.spotify.com/album/37NAEoz0FkDJjyDEdZh838) | 3:26 |
 | 10 | [XO](https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:48 |
 | 11 | [Windows](https://open.spotify.com/track/0XgpqzcmMFapQ0kebq1EuD) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 3:19 |
-| 12 | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo) | 2:52 |
-| 13 | [HERSKIII](https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [HERSKIII](https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc) | 2:00 |
+| 12 | [HERSKIII](https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [HERSKIII](https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc) | 2:00 |
+| 13 | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo) | 2:52 |
 | 14 | [Perfect](https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:21 |
 | 15 | [I Look Good](https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 1:53 |
 | 16 | [Don’t Go](https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Don't Go](https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H) | 2:58 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 29 | [WATER \(with Lakeyah\)](https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [ETHER](https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA) | 3:14 |
 | 30 | [FYT \(Fuckin you tonight\)](https://open.spotify.com/track/0tDpmDKQVeoFtXb15iR0sM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [FYT \(Fuckin you tonight\)](https://open.spotify.com/album/3s4MhPooDDud14FpO4zRR6) | 4:14 |
 | 31 | [WANT EM HOOD](https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [WANT EM HOOD](https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO) | 2:45 |
-| 32 | [special \- remix](https://open.spotify.com/track/2KSyX260gogr0jfAupg4OQ) | [Destiny Briona](https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [incua \(special edition\)](https://open.spotify.com/album/1NJuOCEopoGxavyU2T0Y7t) | 2:28 |
-| 33 | [Raw Btch](https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Raw Btch](https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a) | 2:41 |
+| 32 | [Raw Btch](https://open.spotify.com/track/38KjYLWUWylehWT4KKdadU) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Raw Btch](https://open.spotify.com/album/3Fb4B4fjf7MuePkflCsZ1a) | 2:41 |
+| 33 | [special \- remix](https://open.spotify.com/track/2KSyX260gogr0jfAupg4OQ) | [Destiny Briona](https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [incua \(special edition\)](https://open.spotify.com/album/1NJuOCEopoGxavyU2T0Y7t) | 2:28 |
 | 34 | [INDECISIVE](https://open.spotify.com/track/78bTSkfWKOKbNvmSaoEP1i) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [INDECISIVE](https://open.spotify.com/album/4XoU7QIkfbptrYjv2piTuA) | 2:56 |
 | 35 | [Get Ratchet](https://open.spotify.com/track/27lIN1WJRpKBfRblsq8D3u) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Get Ratchet](https://open.spotify.com/album/2uzIUxdNx19ABCbkNedcNp) | 2:21 |
 | 36 | [look easy](https://open.spotify.com/track/39RWZFE5UAeXpzZaOWW7uV) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 49 | [Check \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:52 |
 | 50 | [Worth The Wait \(feat\. Lucky Daye\)](https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 3:58 |
 
-Snapshot ID: `ai9AgAAAAABsNbcfDGBLnaHVzD+GbdiB`
+Snapshot ID: `ajCSAAAAAAC2d0eQOn3SwXTND1N63F9I`

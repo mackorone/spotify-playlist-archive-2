@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2862617,
+  "num_followers": 2862768,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX"
-    },
-    {
-      "added_at": "2026-06-05 04:01:45",
-      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 193183,
       "name": "SHYNE",
       "url": "https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny"
+    },
+    {
+      "added_at": "2026-06-05 04:01:45",
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX"
     },
     {
       "added_at": "2026-06-05 04:01:45",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "Eternal Atake 2",
-        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 164366,
-      "name": "Light Year (Practice)",
-      "url": "https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt"
-    },
-    {
-      "added_at": "2026-06-05 04:01:45",
-      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 185785,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
+    },
+    {
+      "added_at": "2026-06-05 04:01:45",
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 164366,
+      "name": "Light Year (Practice)",
+      "url": "https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt"
     },
     {
       "added_at": "2026-06-05 04:01:45",
@@ -1391,17 +1391,21 @@
     {
       "added_at": "2026-06-05 04:01:45",
       "album": {
-        "name": "Trauma Bond",
+        "name": "Trauma Bond (feat. Marching Crimson Pipers)",
         "url": "https://open.spotify.com/album/6svobbo5wMTqnZX9D62c80"
       },
       "artists": [
         {
           "name": "T.I.",
           "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Marching Crimson Pipers",
+          "url": "https://open.spotify.com/artist/24D3dDW0nd3SlK3YEpltJR"
         }
       ],
       "duration_ms": 163658,
-      "name": "Trauma Bond",
+      "name": "Trauma Bond (feat. Marching Crimson Pipers)",
       "url": "https://open.spotify.com/track/4FBweKWPMAJyqjOqwlaxN9"
     },
     {

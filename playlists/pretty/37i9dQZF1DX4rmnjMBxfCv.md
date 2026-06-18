@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: HUGEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,662 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,686 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 20 | [AKABAR \- Radio Edit](https://open.spotify.com/track/2dF2E1UMEiUU7k6io0bfLc) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [ASKI V1](https://open.spotify.com/album/77uFvnkZJIAMeQCyuasRv9) | 4:44 |
 | 21 | [Haramt Ahebak](https://open.spotify.com/track/0XENN5FFKykJXsWIq741rB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Haramt Ahebak](https://open.spotify.com/album/5gCtLxVQ8gZb1y7EIAGyn9) | 4:37 |
 | 22 | [Enta Eih \- &friends, Ikerfoxx Remake](https://open.spotify.com/track/4hokmwSEPKz2OIycBanWUt) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Ikerfoxx](https://open.spotify.com/artist/7mTgGy6hZd2qLecu5VqxMe) | [Enta Eih \(&friends, Ikerfoxx Remake\)](https://open.spotify.com/album/7tqFSATtqqe6Ncih4Et4FZ) | 3:39 |
-| 23 | [Ah Ya Albi \- Ajna \(BE\), Samm \(BE\) Edit](https://open.spotify.com/track/6DmQ5PdNr7lxOkjWAxQiyI) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Ah Ya Albi \(Ajna & Samm Edit\)](https://open.spotify.com/album/25lAtNYLwyPQENO19j8aWo) | 5:35 |
+| 23 | [Ah Ya Albi \- Ajna \(BE\), Samm Edit](https://open.spotify.com/track/6DmQ5PdNr7lxOkjWAxQiyI) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Ah Ya Albi \(Ajna & Samm Edit\)](https://open.spotify.com/album/25lAtNYLwyPQENO19j8aWo) | 5:35 |
 | 24 | [Hawal](https://open.spotify.com/track/7rIhJxBi3zNA0rznuEefIl) | [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y) | [Hawal](https://open.spotify.com/album/01KSc7gQ4baTPITVbAkChm) | 2:49 |
 | 25 | [El Youm](https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [El Youm](https://open.spotify.com/album/5AVlQTQdIN8aoDBYGP3lAV) | 3:01 |
 | 26 | [Khabar Abyad](https://open.spotify.com/track/6vxEDjzH2OU938m3muhQ1p) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:51 |

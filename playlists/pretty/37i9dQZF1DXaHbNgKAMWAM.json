@@ -915,22 +915,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "LOVE PLAYLIST 4 Part.1",
-        "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
-      },
-      "artists": [
-        {
-          "name": "EXO-CBX",
-          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
-        }
-      ],
-      "duration_ms": 215120,
-      "name": "Be My Love",
-      "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "To the other side of greed",
         "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 195906,
       "name": "Do my best",
       "url": "https://open.spotify.com/track/7yoqyzY2QCccmuaiUe0pvn"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "LOVE PLAYLIST 4 Part.1",
+        "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
+      },
+      "artists": [
+        {
+          "name": "EXO-CBX",
+          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
+        }
+      ],
+      "duration_ms": 215120,
+      "name": "Be My Love",
+      "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Law and The City, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3kCelYZb943ElkmLIctqol"
+        "name": "5.6 [Late Night Walk]",
+        "url": "https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg"
       },
       "artists": [
         {
-          "name": "DOKO",
-          "url": "https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Can i love u?",
-      "url": "https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud"
+      "duration_ms": 234466,
+      "name": "Late Night Walk",
+      "url": "https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm"
     }
   ],
   "unique_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",

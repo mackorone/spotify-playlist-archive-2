@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 241596,
+  "num_followers": 241628,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACbbwk2s++g5I9T+QP6zTFJ",
+  "snapshot_id": "ajCSAAAAAACulNdjRf7kZ6tKLeNAWf2D",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Norte\u00f1as Los Cadetes De Linares",
-        "url": "https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160008,
-      "name": "Cruzando el Puente",
-      "url": "https://open.spotify.com/track/71Hj57kfUjSpVIVso6EcQK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo del Palenque",
         "url": "https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 189933,
       "name": "Nomas Las Mujeres Quedan",
       "url": "https://open.spotify.com/track/5HzKotagepRiIhC0af8EqB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Norte\u00f1as Los Cadetes De Linares",
+        "url": "https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160008,
+      "name": "Cruzando el Puente",
+      "url": "https://open.spotify.com/track/71Hj57kfUjSpVIVso6EcQK"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 192920,
-      "name": "La Tragedia de Rosita",
-      "url": "https://open.spotify.com/track/1jG0m4TKRb7ipRXhHnUzXR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspiraci\u00f3n Norte\u00f1a",
         "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 183280,
       "name": "Las Tres Mujeres",
       "url": "https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 192920,
+      "name": "La Tragedia de Rosita",
+      "url": "https://open.spotify.com/track/1jG0m4TKRb7ipRXhHnUzXR"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Desprecio",
-      "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una L\u00e1grima y Un Recuerdo",
         "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 165520,
       "name": "Polvo Maldito",
       "url": "https://open.spotify.com/track/7kVJEGxq80CLA3f1YRUAP1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Desprecio",
+      "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183613,
-      "name": "Cazador de Asesinos",
-      "url": "https://open.spotify.com/track/699gstMwCAfQ0UXovIw3Ch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 163746,
       "name": "Mi Amigo",
       "url": "https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/5G1p919anXA90nYTb8W4k7"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183613,
+      "name": "Cazador de Asesinos",
+      "url": "https://open.spotify.com/track/699gstMwCAfQ0UXovIw3Ch"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Cadetazos",
-        "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 120413,
-      "name": "Cielo Azul Cielo Nublado",
-      "url": "https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Coronas a Mi Madre",
         "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 193773,
       "name": "El Muchacho y el Potro",
       "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 Cadetazos",
+        "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 120413,
+      "name": "Cielo Azul Cielo Nublado",
+      "url": "https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despedida con Mariachi",
-        "url": "https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "Lamberto Quintero",
-      "url": "https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 190466,
       "name": "Eleazar del Fierro",
       "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Despedida con Mariachi",
+        "url": "https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 187293,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Norte\u00f1as Los Cadetes De Linares",
-        "url": "https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160310,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/3TB15LyJNEwFvvwg9Q3cxA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 169973,
       "name": "Arturo Garza Trevino",
       "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Norte\u00f1as Los Cadetes De Linares",
+        "url": "https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160310,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/3TB15LyJNEwFvvwg9Q3cxA"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pueblito",
-        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "El Regio Traficante",
-      "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 177293,
       "name": "Lucio Pena",
       "url": "https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pueblito",
+        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "El Regio Traficante",
+      "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
     },
     {
       "added_at": null,

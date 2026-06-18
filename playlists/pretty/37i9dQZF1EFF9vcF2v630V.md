@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 40 | [Just Like That](https://open.spotify.com/track/3UENMxXGcezMRDxpBPdMbn) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Just Like That](https://open.spotify.com/album/78ZOrEwPBjbrPO6eYaYN87) | 2:49 |
 | 41 | [Loving You!](https://open.spotify.com/track/6VaGFO7F0iooQDmmEp9u1O) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:43 |
 | 42 | [when I'm with you](https://open.spotify.com/track/2yTH2vxuKDTYV9mXDVaOYV) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [when I'm with you](https://open.spotify.com/album/0r0HT9Fr1kfAu3D5pYPB1p) | 2:59 |
-| 43 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 |
-| 44 | [Sweet](https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sweet](https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb) | 2:20 |
+| 43 | [Sweet](https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sweet](https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb) | 2:20 |
+| 44 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 |
 | 45 | [First Time](https://open.spotify.com/track/5y2OdzPeFn06dnWGJLnn0Y) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WHO'S BACK?](https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu) | 3:45 |
 | 46 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 |
 | 47 | [Goodbye \(feat\. Chelcee Grimes\)](https://open.spotify.com/track/08Y45Z5fHVkVptMSJDmMTR) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [GSPR](https://open.spotify.com/artist/1899F4ojFEHeMOWyXhnPje), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Goodbye \(feat\. Chelcee Grimes\)](https://open.spotify.com/album/5RAGdSUGHYoCTXzlq6BW3k) | 3:03 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 72 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 73 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 
-Snapshot ID: `AcUaBgAAAAAIQ1kKVOy3Sa0z9PJ5B/UR`
+Snapshot ID: `AcUfpgAAAAABTYRyij93oO+2+Km42MZm`

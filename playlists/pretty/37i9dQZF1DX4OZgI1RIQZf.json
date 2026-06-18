@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141314,
+  "num_followers": 141300,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Call Me The Witch",
-        "url": "https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz"
-      },
-      "artists": [
-        {
-          "name": "l\u00f9isa",
-          "url": "https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa"
-        }
-      ],
-      "duration_ms": 186151,
-      "name": "Call Me The Witch",
-      "url": "https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 190728,
       "name": "Can't Get You Out of My Head",
       "url": "https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Call Me The Witch",
+        "url": "https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz"
+      },
+      "artists": [
+        {
+          "name": "l\u00f9isa",
+          "url": "https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa"
+        }
+      ],
+      "duration_ms": 186151,
+      "name": "Call Me The Witch",
+      "url": "https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Vampyr",
-        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ"
       },
       "artists": [
         {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 246292,
-      "name": "Vampyr",
-      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
+      "duration_ms": 255666,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -895,18 +895,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ"
+        "name": "Vampyr",
+        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
         }
       ],
-      "duration_ms": 255666,
-      "name": "Scarecrow",
-      "url": "https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr"
+      "duration_ms": 246292,
+      "name": "Vampyr",
+      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 285920,
+      "name": "Help I'm Alive",
+      "url": "https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
         "name": "Never Truly Happy",
         "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Fantasies",
-        "url": "https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA"
+        "name": "A Weekend In the City",
+        "url": "https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y"
       },
       "artists": [
         {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
         }
       ],
-      "duration_ms": 285920,
-      "name": "Help I'm Alive",
-      "url": "https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv"
+      "duration_ms": 211493,
+      "name": "Hunting for Witches",
+      "url": "https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1351,22 +1367,6 @@
       "duration_ms": 246186,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
-        "name": "A Weekend In the City",
-        "url": "https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Hunting for Witches",
-      "url": "https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl"
     },
     {
       "added_at": "2026-04-24 13:27:34",

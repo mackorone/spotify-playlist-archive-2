@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 245302,
+  "num_followers": 245295,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 372767,
-      "name": "Eres Tu",
-      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Nunca Fallas",
         "url": "https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 339202,
       "name": "Nunca Fallas",
       "url": "https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 372767,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Coraz\u00f3n Agradecido (en vivo)",
+        "url": "https://open.spotify.com/album/21S05ug1Y4qRx3HFS7Hi5B"
+      },
+      "artists": [
+        {
+          "name": "Michael Hernandez",
+          "url": "https://open.spotify.com/artist/5LCmAD8g7CEhkxW30nqzHV"
+        }
+      ],
+      "duration_ms": 233017,
+      "name": "Coraz\u00f3n Agradecido - en vivo",
+      "url": "https://open.spotify.com/track/7pvBh7VQZXiHlf7cFZKii0"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Alegre",
         "url": "https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 169000,
       "name": "Alegre",
       "url": "https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Coraz\u00f3n Agradecido (en vivo)",
-        "url": "https://open.spotify.com/album/21S05ug1Y4qRx3HFS7Hi5B"
-      },
-      "artists": [
-        {
-          "name": "Michael Hernandez",
-          "url": "https://open.spotify.com/artist/5LCmAD8g7CEhkxW30nqzHV"
-        }
-      ],
-      "duration_ms": 233017,
-      "name": "Coraz\u00f3n Agradecido - en vivo",
-      "url": "https://open.spotify.com/track/7pvBh7VQZXiHlf7cFZKii0"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
+        "name": "Piedras Vivas",
+        "url": "https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU"
       },
       "artists": [
         {
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
         }
       ],
-      "duration_ms": 310231,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+      "duration_ms": 315651,
+      "name": "Gracia Sublime Es",
+      "url": "https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1299,6 +1299,66 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 528800,
+      "name": "Digno Y Santo",
+      "url": "https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 715466,
+      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
+      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 310231,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1319,38 +1379,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Piedras Vivas",
-        "url": "https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 315651,
-      "name": "Gracia Sublime Es",
-      "url": "https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "People - En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa"
       },
@@ -1367,6 +1395,38 @@
       "duration_ms": 360229,
       "name": "Por Su Gracia",
       "url": "https://open.spotify.com/track/6fZJwVu9LcQwnZfG3sy12T"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Me Dice Que Me Ama",
+      "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1403,34 +1463,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 715466,
-      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
-      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1455,34 +1487,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM"
       },
       "artists": [
         {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 528800,
-      "name": "Digno Y Santo",
-      "url": "https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Me Dice Que Me Ama",
-      "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1519,6 +1535,22 @@
       "duration_ms": 420773,
       "name": "Mi Shalom",
       "url": "https://open.spotify.com/track/58japnj5Xn49Wpi5WpMiUT"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Me rindo a ti",
+        "url": "https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 291428,
+      "name": "Me rindo a ti",
+      "url": "https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1595,22 +1627,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 269640,
       "name": "Por Amor",
       "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Me rindo a ti",
-        "url": "https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "Me rindo a ti",
-      "url": "https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9"
     },
     {
       "added_at": "2026-04-04 05:56:44",

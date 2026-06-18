@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-10",
-  "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: Te Wehi",
+  "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: SIX60",
   "name": "Island Time",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 197787,
       "name": "Always with You",
       "url": "https://open.spotify.com/track/21tXzRXVJd6ikASjsWZIXD"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 251802,
       "name": "Be My Lady (feat. Pieter Tuhoro & Jah Maoli)",
       "url": "https://open.spotify.com/track/2lmCr96Mhghs0KUVABx4RP"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 196393,
       "name": "Blue Eyed M\u0101ori",
       "url": "https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 199000,
       "name": "Clarity (Ft. Kabaka Pyramid)",
       "url": "https://open.spotify.com/track/39xEK5rYhBgPANUaL0eOmz"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 270344,
       "name": "Do That To Me One More Time",
       "url": "https://open.spotify.com/track/0fDcWl8ApNhQlqVk7aQNg0"
@@ -876,6 +876,24 @@
       "duration_ms": 221076,
       "name": "Do You",
       "url": "https://open.spotify.com/track/2gi58Vz6hLN4uMfNin38cG"
+    },
+    {
+      "album": {
+        "name": "Do You Care?",
+        "url": "https://open.spotify.com/album/7MAXSqq19PZlZVEri0mKcD"
+      },
+      "artists": [
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Do You Care?",
+      "url": "https://open.spotify.com/track/0xfasSrCCUKOXkX4F2Z7gG"
     },
     {
       "album": {
@@ -1611,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Honey Baby",
+        "url": "https://open.spotify.com/album/1hHCEVVnh7JVWUoZa87pyY"
+      },
+      "artists": [
+        {
+          "name": "Three Plus",
+          "url": "https://open.spotify.com/artist/7z2qgJSiP0Wk0vzHzPO0SL"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231967,
+      "name": "Honey Baby",
+      "url": "https://open.spotify.com/track/0Xbf0hQXV5IbSXkKsjcvna"
+    },
+    {
+      "album": {
         "name": "I'll Be Fire",
         "url": "https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7"
       },
@@ -2329,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Lay Your Head",
+        "url": "https://open.spotify.com/album/2PeRnswqeVdWq82jOh91Gu"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177150,
+      "name": "Lay Your Head",
+      "url": "https://open.spotify.com/track/3xhDVsfxKTzhhPjqPjaMP9"
+    },
+    {
+      "album": {
         "name": "J Boog",
         "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
@@ -2508,7 +2562,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 209950,
       "name": "Long White Cloud",
       "url": "https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9"
@@ -2850,7 +2904,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 260000,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
@@ -2974,7 +3028,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 184120,
       "name": "Mr Reggae",
       "url": "https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef"
@@ -3364,7 +3418,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 213077,
       "name": "One Night",
       "url": "https://open.spotify.com/track/3sj1XIHQwhHxtnUiIHAjPq"
@@ -3563,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "Perfect to Me",
+        "url": "https://open.spotify.com/album/6hw4X0et7iiVKh2RwHkVGN"
+      },
+      "artists": [
+        {
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242440,
+      "name": "Perfect to Me",
+      "url": "https://open.spotify.com/track/2H8Jh4nbgyLl3k12WRjzsc"
+    },
+    {
+      "album": {
         "name": "Place To Be",
         "url": "https://open.spotify.com/album/0ZaueDxjLbgYYT8iMe3hQW"
       },
@@ -3596,7 +3668,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 195186,
       "name": "Power of Love - Reggae",
       "url": "https://open.spotify.com/track/5FW9a89r3hjYtOCyuDMORD"
@@ -3976,6 +4048,24 @@
       "duration_ms": 223816,
       "name": "Rooftop Party",
       "url": "https://open.spotify.com/track/5DPMbnzyYeATCfuwuyAv2X"
+    },
+    {
+      "album": {
+        "name": "SAW",
+        "url": "https://open.spotify.com/album/2HCIshsLaVlgUY24Y3ZsgH"
+      },
+      "artists": [
+        {
+          "name": "Son & Water",
+          "url": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "SAW",
+      "url": "https://open.spotify.com/track/4uqsqS00IghuTUOAPpkbR3"
     },
     {
       "album": {
@@ -5210,7 +5300,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"

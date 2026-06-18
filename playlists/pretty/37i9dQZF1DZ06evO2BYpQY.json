@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81382,
+  "num_followers": 81386,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACWtPZ99iRxMdCzksn2kI7R",
+  "snapshot_id": "ajCSAAAAAADHGtWLamIef+5Y77Lc9rf2",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gospel Oak",
+        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "This Is a Rebel Song",
+      "url": "https://open.spotify.com/track/6LE2Q4VMEK2tXppDUQcWbP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 351693,
       "name": "Empire",
       "url": "https://open.spotify.com/track/7rU9Lk1rF17EeQnr4clnm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gospel Oak",
-        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "This Is a Rebel Song",
-      "url": "https://open.spotify.com/track/6LE2Q4VMEK2tXppDUQcWbP"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 201826,
       "name": "Emma's Song",
       "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "8 Good Reasons",
-      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Mountain Thyme (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 216892,
       "name": "I\u2019ll Be Singing",
       "url": "https://open.spotify.com/track/3bBOiHYE2XI7lO1Eoa31zT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "8 Good Reasons",
+      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 215587,
-      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
-      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Captive Original Soundtrack",
         "url": "https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 267106,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 215587,
+      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
+      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
     },
     {
       "added_at": null,

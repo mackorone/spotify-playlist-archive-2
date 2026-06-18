@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 350953,
+  "num_followers": 350979,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-05-21 22:01:55",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2026-05-21 22:01:55",
-      "album": {
         "name": "El Hombre Del Traje Gris",
         "url": "https://open.spotify.com/album/0Hf59j4braIFrtH0rFXjwZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 297120,
       "name": "Qui\u00e9n Me Ha Robado el Mes de Abril",
       "url": "https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF"
+    },
+    {
+      "added_at": "2026-05-21 22:01:55",
+      "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2026-05-21 22:01:55",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-05-21 22:01:55",
       "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Siete Vidas",
-      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
-    },
-    {
-      "added_at": "2026-05-21 22:01:55",
-      "album": {
         "name": "8 Lunas",
         "url": "https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 260680,
       "name": "Carta urgente (feat. Abel Pintos)",
       "url": "https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7"
+    },
+    {
+      "added_at": "2026-05-21 22:01:55",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Siete Vidas",
+      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
     },
     {
       "added_at": "2026-05-21 22:01:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-21 22:01:55",
       "album": {
-        "name": "Los Mares De China",
-        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 186801,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
-    },
-    {
-      "added_at": "2026-05-21 22:01:55",
-      "album": {
         "name": "50 Palos",
         "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 185743,
       "name": "Humo",
       "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
+    },
+    {
+      "added_at": "2026-05-21 22:01:55",
+      "album": {
+        "name": "Los Mares De China",
+        "url": "https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 186801,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS"
     },
     {
       "added_at": "2026-05-21 22:01:55",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-05-21 22:01:55",
       "album": {
-        "name": "Miguel Hernandez",
-        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 171013,
-      "name": "Para la Libertad",
-      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "added_at": "2026-05-21 22:01:55",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-05-21 22:01:55",
       "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
+        "name": "Miguel Hernandez",
+        "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
+      "duration_ms": 171013,
+      "name": "Para la Libertad",
+      "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
     },
     {
       "added_at": "2026-05-21 22:01:55",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-05-21 22:01:55",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
-      },
-      "artists": [
-        {
-          "name": "Ismael Serrano",
-          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
-        }
-      ],
-      "duration_ms": 365986,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
-    },
-    {
-      "added_at": "2026-05-21 22:01:55",
-      "album": {
         "name": "De Lo Perdido Y Otras Coplas",
         "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 346920,
       "name": "Habaneras de C\u00e1diz",
       "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
+    },
+    {
+      "added_at": "2026-05-21 22:01:55",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
+      },
+      "artists": [
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        }
+      ],
+      "duration_ms": 365986,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
     },
     {
       "added_at": "2026-05-21 22:01:55",

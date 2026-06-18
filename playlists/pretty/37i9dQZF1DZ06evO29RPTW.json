@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 136235,
+  "num_followers": 136247,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADcIeZKYAceRloB3fr/s7i9",
+  "snapshot_id": "ajCSAAAAAABaSO5XXCLAGBekReAg7Vvs",
   "tracks": [
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Shake Your Ass-Smoke Your Grass",
-      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
+      "duration_ms": 135813,
+      "name": "In The Age Of The Consecrated Vampire We All Get High",
+      "url": "https://open.spotify.com/track/3yZulDilluz9V8sJTs9VB8"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
       "duration_ms": 198986,
       "name": "Ging Gang Gong De Do Gong De Laga Raga",
       "url": "https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 135813,
-      "name": "In The Age Of The Consecrated Vampire We All Get High",
-      "url": "https://open.spotify.com/track/3yZulDilluz9V8sJTs9VB8"
     },
     {
       "added_at": null,
@@ -624,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 207160,
-      "name": "Get Loose",
-      "url": "https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG"
+      "duration_ms": 190600,
+      "name": "Shake Your Ass-Smoke Your Grass",
+      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
     },
     {
       "added_at": null,
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 194933,
-      "name": "Shadow of the Cemetery Man",
-      "url": "https://open.spotify.com/track/6AE0zfXVuVX6iD06Cl58e6"
+      "duration_ms": 207160,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG"
     },
     {
       "added_at": null,
@@ -751,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Matrix Reloaded: The Album",
-        "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Charlie Clouser",
-          "url": "https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf"
         }
       ],
-      "duration_ms": 265160,
-      "name": "Reload",
-      "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
+      "duration_ms": 194933,
+      "name": "Shadow of the Cemetery Man",
+      "url": "https://open.spotify.com/track/6AE0zfXVuVX6iD06Cl58e6"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
       "duration_ms": 209400,
       "name": "Girl On Fire",
       "url": "https://open.spotify.com/track/4d8rLkF805Bv2HlFlPHmpo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Matrix Reloaded: The Album",
+        "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Charlie Clouser",
+          "url": "https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
     },
     {
       "added_at": null,

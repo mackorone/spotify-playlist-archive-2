@@ -2913,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/7jybbuLKuMYLfHayEbR3gc"
+      },
+      "artists": [
+        {
+          "name": "Caroline Culver",
+          "url": "https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192843,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/1W5f9cOuGV3lU2pNtfSC4z"
+    },
+    {
+      "album": {
         "name": "balaclava",
         "url": "https://open.spotify.com/album/2URKCU21CGJNsbBCQi8ga7"
       },
@@ -3666,7 +3684,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 176323,
       "name": "Big Machine",
       "url": "https://open.spotify.com/track/64OQZBi3pOfJaoZH99yDis"
@@ -6263,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/7xc8qjSipCIqZoBfHuj7X4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/17SgupYV5TDPCZtF4wHdHC"
+    },
+    {
+      "album": {
         "name": "cinnamon bread",
         "url": "https://open.spotify.com/album/5IndSFuH05TmYjzNyXEn6h"
       },
@@ -7788,7 +7824,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 266694,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/5DF9jTzaO76nnOwgaWIw6g"
@@ -9222,7 +9258,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 200060,
       "name": "dog with a bone",
       "url": "https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD"
@@ -16393,6 +16429,24 @@
     },
     {
       "album": {
+        "name": "The Next Man Who Loves Me",
+        "url": "https://open.spotify.com/album/0CXfY8E1oxKuSjyLs8t9CN"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Egan",
+          "url": "https://open.spotify.com/artist/5g9xNMf6SWEDBP6y190eS8"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Hurt a Little",
+      "url": "https://open.spotify.com/track/3AYlj0ZEflUDbck52aGcoc"
+    },
+    {
+      "album": {
         "name": "No Glory",
         "url": "https://open.spotify.com/album/78RUUDGvddkndnrYevXAAo"
       },
@@ -17752,6 +17806,24 @@
       "duration_ms": 305067,
       "name": "If There\u2019s No God\u2026",
       "url": "https://open.spotify.com/track/1oOWG5YBwW5tegvDPE8WvK"
+    },
+    {
+      "album": {
+        "name": "If This Is The End",
+        "url": "https://open.spotify.com/album/2ZyHeH8F9mmnhV5Fcbr4nU"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221292,
+      "name": "If This Is The End",
+      "url": "https://open.spotify.com/track/3kFUML1xNLa91hI9EMRkrq"
     },
     {
       "album": {
@@ -21896,7 +21968,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 225610,
       "name": "Mama, My Heart Is Achin'",
       "url": "https://open.spotify.com/track/6tVk7AVFvAa5oSj2YEoB6W"
@@ -23836,6 +23908,24 @@
       "duration_ms": 167986,
       "name": "Nearer",
       "url": "https://open.spotify.com/track/4e9O07DTZADdz1fIuYqBgc"
+    },
+    {
+      "album": {
+        "name": "Needle",
+        "url": "https://open.spotify.com/album/6M3LywIlKcworsIiIp0pa5"
+      },
+      "artists": [
+        {
+          "name": "Lia Juno",
+          "url": "https://open.spotify.com/artist/7n9lO4WwmeJPLBJ5NFXPoe"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215718,
+      "name": "Needle",
+      "url": "https://open.spotify.com/track/6vj1PhVCk44hnaUw6igQkn"
     },
     {
       "album": {
@@ -30388,7 +30478,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 194946,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4pARZ3HOdh6HkLSdWorqpG"
@@ -31584,6 +31674,24 @@
       "duration_ms": 189200,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
+    },
+    {
+      "album": {
+        "name": "Strawberry Rhinestone",
+        "url": "https://open.spotify.com/album/6pHHgfdtht4v9TAgDxE9WM"
+      },
+      "artists": [
+        {
+          "name": "Two Runner",
+          "url": "https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259450,
+      "name": "Strawberry Rhinestone",
+      "url": "https://open.spotify.com/track/7BAcAmm4hyKhd2sgZjSjdS"
     },
     {
       "album": {
@@ -38654,7 +38762,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 249306,
       "name": "Your Side Of The Moon",
       "url": "https://open.spotify.com/track/5jRi5oRKtafH4U1EerxQOp"

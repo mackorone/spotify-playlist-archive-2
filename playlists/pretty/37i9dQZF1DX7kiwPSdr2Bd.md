@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fabiana Sinfrônio
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,905 likes - 80 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,935 likes - 80 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 58 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 |
 | 59 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
 | 60 | [Santo \- Ao Vivo](https://open.spotify.com/track/0uXHdrHWe2bY686YKpVqF2) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/1RyOM2VBjuXp7PAwuhiMJS) | 9:39 |
-| 61 | [Meu Redentor Vive \(Ao Vivo\)](https://open.spotify.com/track/357ctAsekqjuFD2ag2sQZE) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Meu Redentor Vive \(Ao Vivo\)](https://open.spotify.com/album/5PkaM3Gze2nfHhp1bRIRyz) | 5:28 |
-| 62 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |
+| 61 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |
+| 62 | [Meu Redentor Vive \(Ao Vivo\)](https://open.spotify.com/track/357ctAsekqjuFD2ag2sQZE) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Meu Redentor Vive \(Ao Vivo\)](https://open.spotify.com/album/5PkaM3Gze2nfHhp1bRIRyz) | 5:28 |
 | 63 | [Em Todo Tempo](https://open.spotify.com/track/3uz5amJdM3nDuhEeypgMVH) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [Em Todo Tempo](https://open.spotify.com/album/1j6lyZyzjIAKn4B6xhNpUu) | 6:00 |
 | 64 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
 | 65 | [Eu Mais Deus \- Ao Vivo](https://open.spotify.com/track/2Ivq3QTLrQwqP9WOzJkUB6) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Mais Deus \(Ao Vivo\)](https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX) | 6:59 |

@@ -1,6 +1,6 @@
 {
   "description": "Let the weights go up and the blessings come down!  Get your beast mode on!",
-  "num_followers": 335050,
+  "num_followers": 335133,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "God Did II",
-        "url": "https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE"
-      },
-      "artists": [
-        {
-          "name": "RUA YOUNG",
-          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 159621,
-      "name": "God Did II",
-      "url": "https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/6Ue2j2IK9VCnwqOhsUJTQF"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 187034,
       "name": "POWER",
       "url": "https://open.spotify.com/track/5NgW3zzWfRTiCCzKdrjQ6G"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "God Did II",
+        "url": "https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE"
+      },
+      "artists": [
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 159621,
+      "name": "God Did II",
+      "url": "https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "$nOT NO$E",
-        "url": "https://open.spotify.com/album/7Bfsd1cUtw1agdOpf9ILqh"
-      },
-      "artists": [
-        {
-          "name": "Alex Jean",
-          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "$nOT NO$E",
-      "url": "https://open.spotify.com/track/3HcZN64qDVp7WL6SvUTyMI"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
         "name": "YESH",
         "url": "https://open.spotify.com/album/3f1wVBk8lxOMCyCg452oM1"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 134389,
       "name": "YESH",
       "url": "https://open.spotify.com/track/1p1nyMkUhAbFZJrEZoIoYk"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "$nOT NO$E",
+        "url": "https://open.spotify.com/album/7Bfsd1cUtw1agdOpf9ILqh"
+      },
+      "artists": [
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "$nOT NO$E",
+      "url": "https://open.spotify.com/track/3HcZN64qDVp7WL6SvUTyMI"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/2c9stdoEEcids2Ld0HNP7B"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 153039,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/2bTseRksJMWi7ZqOBFWEoy"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
         "name": "Havin'",
         "url": "https://open.spotify.com/album/0VaOrpBKz0ObZaI74wuV2n"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 169531,
       "name": "Havin'",
       "url": "https://open.spotify.com/track/1PwIBzaWVTzourrHRw6FTm"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/2c9stdoEEcids2Ld0HNP7B"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 153039,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/2bTseRksJMWi7ZqOBFWEoy"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
+        "name": "Lightchild",
+        "url": "https://open.spotify.com/album/6hAtXCrwWc4hBgXL9Ax5FQ"
+      },
+      "artists": [
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/54hXDJQ2KX68JUBJN8T92x"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
         "name": "STAY",
         "url": "https://open.spotify.com/album/6z6YQWrg8uXoDQXFpNgv2U"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 194456,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1fyI1vM8byw1wB8eO7bG11"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "Lightchild",
-        "url": "https://open.spotify.com/album/6hAtXCrwWc4hBgXL9Ax5FQ"
-      },
-      "artists": [
-        {
-          "name": "Kieran the Light",
-          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/54hXDJQ2KX68JUBJN8T92x"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
+        "name": "BETTER OFF DEAD",
+        "url": "https://open.spotify.com/album/4Gf9ThUN6OQ7qHcaFltDzL"
+      },
+      "artists": [
+        {
+          "name": "Gavin the HotRod",
+          "url": "https://open.spotify.com/artist/4PRtvcfM2vKDdLFAyGUMP7"
+        }
+      ],
+      "duration_ms": 162173,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/3GgMooO88BQca11ciZy1tU"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
         "name": "No Lie",
         "url": "https://open.spotify.com/album/4fCkxQFg1A2wwfqqwqI5R3"
       },
@@ -1199,6 +1215,22 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
+        "name": "Say The Word",
+        "url": "https://open.spotify.com/album/3BpL1g45ynCcLzH3vbNGtL"
+      },
+      "artists": [
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "Say The Word",
+      "url": "https://open.spotify.com/track/5Rg9GVq88cNWr5hjAIlumO"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
         "name": "FLEX",
         "url": "https://open.spotify.com/album/1nWD5Zuc08MZzClKXN1CTX"
       },
@@ -1215,38 +1247,6 @@
       "duration_ms": 135858,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/2bTY46Jc9FbovLFECJw0WM"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "BETTER OFF DEAD",
-        "url": "https://open.spotify.com/album/4Gf9ThUN6OQ7qHcaFltDzL"
-      },
-      "artists": [
-        {
-          "name": "Gavin the HotRod",
-          "url": "https://open.spotify.com/artist/4PRtvcfM2vKDdLFAyGUMP7"
-        }
-      ],
-      "duration_ms": 162173,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/3GgMooO88BQca11ciZy1tU"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "Say The Word",
-        "url": "https://open.spotify.com/album/3BpL1g45ynCcLzH3vbNGtL"
-      },
-      "artists": [
-        {
-          "name": "RUA YOUNG",
-          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
-        }
-      ],
-      "duration_ms": 183797,
-      "name": "Say The Word",
-      "url": "https://open.spotify.com/track/5Rg9GVq88cNWr5hjAIlumO"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "peace at last",
-        "url": "https://open.spotify.com/album/0NUDgYkJXkkI6e0LfuvTs0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 154522,
-      "name": "peace at last",
-      "url": "https://open.spotify.com/track/3GU1NnT6gLvNrkTNnmo2Lh"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
         "name": "LAST LEG",
         "url": "https://open.spotify.com/album/5E5Xm5cJ91TwE9YVW4HkzP"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 187673,
       "name": "LAST LEG",
       "url": "https://open.spotify.com/track/7zV4w7Vwdkl7LnEcOyfrjg"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "peace at last",
+        "url": "https://open.spotify.com/album/0NUDgYkJXkkI6e0LfuvTs0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 154522,
+      "name": "peace at last",
+      "url": "https://open.spotify.com/track/3GU1NnT6gLvNrkTNnmo2Lh"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1395,6 +1395,30 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
+        "name": "Glory To The Lord (Remix)",
+        "url": "https://open.spotify.com/album/0RCZjhWs1sPMaaoOvDAZXM"
+      },
+      "artists": [
+        {
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Glory To The Lord - Remix",
+      "url": "https://open.spotify.com/track/6RVC5dZl3McTWusLC9fQFa"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
         "name": "BLAKSTONE",
         "url": "https://open.spotify.com/album/6Dd5H95qcUMJfsMt4p1MFJ"
       },
@@ -1427,30 +1451,6 @@
       "duration_ms": 157323,
       "name": "He Did It",
       "url": "https://open.spotify.com/track/1ZcHAmuAnQV85tGMlpHqfZ"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "Glory To The Lord (Remix)",
-        "url": "https://open.spotify.com/album/0RCZjhWs1sPMaaoOvDAZXM"
-      },
-      "artists": [
-        {
-          "name": "Jered Sanders",
-          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
-        },
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        },
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Glory To The Lord - Remix",
-      "url": "https://open.spotify.com/track/6RVC5dZl3McTWusLC9fQFa"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1559,34 +1559,18 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "Bigger Than Me",
-        "url": "https://open.spotify.com/album/7v4TxJVNb6tmNHqZLI7OrG"
+        "name": "Shake Loose",
+        "url": "https://open.spotify.com/album/44juT4W9Z6lDhYhyZ1Sv37"
       },
       "artists": [
         {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "God's Nation",
-          "url": "https://open.spotify.com/artist/5euUlhX3M0mGZlHV3xEjbx"
-        },
-        {
-          "name": "DJ Wade-O",
-          "url": "https://open.spotify.com/artist/3r1bdLCjs0BQqoJJNykATx"
-        },
-        {
-          "name": "K Diamond",
-          "url": "https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL"
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
         }
       ],
-      "duration_ms": 152353,
-      "name": "Bigger Than Me",
-      "url": "https://open.spotify.com/track/18haVW16vJbPvBYOAMSCDI"
+      "duration_ms": 207857,
+      "name": "Shake Loose",
+      "url": "https://open.spotify.com/track/6AzDlMZFOyEGwePlK8VYIL"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1635,18 +1619,50 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "Shake Loose",
-        "url": "https://open.spotify.com/album/44juT4W9Z6lDhYhyZ1Sv37"
+        "name": "Bigger Than Me",
+        "url": "https://open.spotify.com/album/7v4TxJVNb6tmNHqZLI7OrG"
       },
       "artists": [
         {
-          "name": "LANELL GRANT",
-          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "God's Nation",
+          "url": "https://open.spotify.com/artist/5euUlhX3M0mGZlHV3xEjbx"
+        },
+        {
+          "name": "DJ Wade-O",
+          "url": "https://open.spotify.com/artist/3r1bdLCjs0BQqoJJNykATx"
+        },
+        {
+          "name": "K Diamond",
+          "url": "https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL"
         }
       ],
-      "duration_ms": 207857,
-      "name": "Shake Loose",
-      "url": "https://open.spotify.com/track/6AzDlMZFOyEGwePlK8VYIL"
+      "duration_ms": 152353,
+      "name": "Bigger Than Me",
+      "url": "https://open.spotify.com/track/18haVW16vJbPvBYOAMSCDI"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "Swish Swish",
+        "url": "https://open.spotify.com/album/2vM0TfXRcbK2rHLPGWfLpW"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Swish Swish",
+      "url": "https://open.spotify.com/track/3dQpwPKTHS69f0Oiyqbu4c"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "Swish Swish",
-        "url": "https://open.spotify.com/album/2vM0TfXRcbK2rHLPGWfLpW"
-      },
-      "artists": [
-        {
-          "name": "Yung Kriss",
-          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Swish Swish",
-      "url": "https://open.spotify.com/track/3dQpwPKTHS69f0Oiyqbu4c"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
         "name": "RUN IT!",
         "url": "https://open.spotify.com/album/1Ym3lnaWWzzErwS4COZAOB"
       },
@@ -1703,22 +1703,6 @@
       "duration_ms": 127721,
       "name": "RUN IT!",
       "url": "https://open.spotify.com/track/3QQ3OhsdcR5JhZdYOh9zPw"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "SURVIVE",
-        "url": "https://open.spotify.com/album/2gCGmolTFOcc59k9IdZ97C"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        }
-      ],
-      "duration_ms": 174536,
-      "name": "SURVIVE",
-      "url": "https://open.spotify.com/track/2NYsrotHPtQXfQXZJCh9GG"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1743,6 +1727,22 @@
       "duration_ms": 213500,
       "name": "Renovate",
       "url": "https://open.spotify.com/track/4tMRGNgEArg9V5IKa6phbP"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "SURVIVE",
+        "url": "https://open.spotify.com/album/2gCGmolTFOcc59k9IdZ97C"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        }
+      ],
+      "duration_ms": 174536,
+      "name": "SURVIVE",
+      "url": "https://open.spotify.com/track/2NYsrotHPtQXfQXZJCh9GG"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
+        "name": "Can't Stop Me Now",
+        "url": "https://open.spotify.com/album/6lFWejEgVENvEti8Hn7WmL"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 127416,
+      "name": "Can't Stop Me Now",
+      "url": "https://open.spotify.com/track/4vpLGBnFcUH6EMe2x7Ea49"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
         "name": "One of Them Ones",
         "url": "https://open.spotify.com/album/2bQ6Fp4CxGSoHqBxjpRrg5"
       },
@@ -1799,18 +1815,22 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "Can't Stop Me Now",
-        "url": "https://open.spotify.com/album/6lFWejEgVENvEti8Hn7WmL"
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/7ICkXBfWHS2mq5w1lzCOAi"
       },
       "artists": [
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
         }
       ],
-      "duration_ms": 127416,
-      "name": "Can't Stop Me Now",
-      "url": "https://open.spotify.com/track/4vpLGBnFcUH6EMe2x7Ea49"
+      "duration_ms": 135840,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1NVz0LF4aZArLFNqeZuo7E"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1835,22 +1855,18 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/7ICkXBfWHS2mq5w1lzCOAi"
+        "name": "ARE YOU FOLLOWING JESUS CHRIST?",
+        "url": "https://open.spotify.com/album/2uegDhJNlGhnADFcTGx61N"
       },
       "artists": [
         {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        },
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
         }
       ],
-      "duration_ms": 135840,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/1NVz0LF4aZArLFNqeZuo7E"
+      "duration_ms": 137142,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/22qdtq7W3LxW6Lhvp7neCd"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1899,22 +1915,6 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "ARE YOU FOLLOWING JESUS CHRIST?",
-        "url": "https://open.spotify.com/album/2uegDhJNlGhnADFcTGx61N"
-      },
-      "artists": [
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/22qdtq7W3LxW6Lhvp7neCd"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
         "name": "De Lo Mio",
         "url": "https://open.spotify.com/album/4IhZwaFfS1aVAktK45vM9U"
       },
@@ -1935,26 +1935,6 @@
       "duration_ms": 175133,
       "name": "De Lo Mio",
       "url": "https://open.spotify.com/track/6FmP8ytOuZrqC7FBKJi24A"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "Ol\u00e9",
-        "url": "https://open.spotify.com/album/5ubwJjozCiRi3xIO2Uq5oc"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cutt",
-          "url": "https://open.spotify.com/artist/3r00ok3tIaXnI9busrOD7M"
-        },
-        {
-          "name": "Futuristic",
-          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
-        }
-      ],
-      "duration_ms": 174187,
-      "name": "Ol\u00e9",
-      "url": "https://open.spotify.com/track/4yLrPAypwhIOGoAVtjQ4KL"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -1999,22 +1979,6 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "Woah",
-        "url": "https://open.spotify.com/album/2KxaZaOSWh1VPR0Sms9GnH"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/5yYvlsIAdu4KbBS7rpQNlw"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/47A2NYUmjD9qRnO48VgNxN"
       },
@@ -2031,6 +1995,42 @@
       "duration_ms": 146666,
       "name": "2003",
       "url": "https://open.spotify.com/track/2kQhnUGXjDIpG6yCn5Rzll"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "Woah",
+        "url": "https://open.spotify.com/album/2KxaZaOSWh1VPR0Sms9GnH"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/5yYvlsIAdu4KbBS7rpQNlw"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "Ol\u00e9",
+        "url": "https://open.spotify.com/album/5ubwJjozCiRi3xIO2Uq5oc"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cutt",
+          "url": "https://open.spotify.com/artist/3r00ok3tIaXnI9busrOD7M"
+        },
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "duration_ms": 174187,
+      "name": "Ol\u00e9",
+      "url": "https://open.spotify.com/track/4yLrPAypwhIOGoAVtjQ4KL"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -2167,6 +2167,26 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
+        "name": "Lingo",
+        "url": "https://open.spotify.com/album/6AU75ydBlyMdcyarDVJjfu"
+      },
+      "artists": [
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Lingo",
+      "url": "https://open.spotify.com/track/5TIbBRcXEDgA9GPjCbZDsn"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
         "name": "ALL THE WAY",
         "url": "https://open.spotify.com/album/3djWWMlandNdJBuaXmbzaO"
       },
@@ -2203,26 +2223,6 @@
       "duration_ms": 144661,
       "name": "BIG GOD",
       "url": "https://open.spotify.com/track/7vVvgh7OtySZqsFvDio9nW"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "Lingo",
-        "url": "https://open.spotify.com/album/6AU75ydBlyMdcyarDVJjfu"
-      },
-      "artists": [
-        {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Lingo",
-      "url": "https://open.spotify.com/track/5TIbBRcXEDgA9GPjCbZDsn"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -2451,18 +2451,26 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "WAIT",
-        "url": "https://open.spotify.com/album/7CefosjL5JM7ZlMbmOQ6Ce"
+        "name": "Theme Music",
+        "url": "https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
         }
       ],
-      "duration_ms": 146800,
-      "name": "WAIT",
-      "url": "https://open.spotify.com/track/7LK9vvJFIDtDxAKawKTQV9"
+      "duration_ms": 187272,
+      "name": "Theme Music",
+      "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -2495,42 +2503,18 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "Theme Music",
-        "url": "https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr"
+        "name": "WAIT",
+        "url": "https://open.spotify.com/album/7CefosjL5JM7ZlMbmOQ6Ce"
       },
       "artists": [
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        },
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 187272,
-      "name": "Theme Music",
-      "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "BLESSED",
-        "url": "https://open.spotify.com/album/58shIUIy25yN66WAwAUIhi"
-      },
-      "artists": [
-        {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
-        }
-      ],
-      "duration_ms": 138668,
-      "name": "BLESSED",
-      "url": "https://open.spotify.com/track/6v2LoA1Ru2pc7xpoi7dYd4"
+      "duration_ms": 146800,
+      "name": "WAIT",
+      "url": "https://open.spotify.com/track/7LK9vvJFIDtDxAKawKTQV9"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -2551,42 +2535,18 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "RAP SUPERSTAR",
-        "url": "https://open.spotify.com/album/2BMupHnTTd7zINab0Dapra"
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/58shIUIy25yN66WAwAUIhi"
       },
       "artists": [
         {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        },
-        {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
         }
       ],
-      "duration_ms": 136082,
-      "name": "RAP SUPERSTAR",
-      "url": "https://open.spotify.com/track/1ide4NVTIqkpOfzLW3Yqjq"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "For What Its Worth",
-        "url": "https://open.spotify.com/album/6mr0BGnwHXNPV2mcqSmW79"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        },
-        {
-          "name": "Lul DreDay",
-          "url": "https://open.spotify.com/artist/3iJk6wDUly0uF53bdlBfvT"
-        }
-      ],
-      "duration_ms": 151176,
-      "name": "Pick Me",
-      "url": "https://open.spotify.com/track/1ePbMmR7JB9kR6rM2FZx6B"
+      "duration_ms": 138668,
+      "name": "BLESSED",
+      "url": "https://open.spotify.com/track/6v2LoA1Ru2pc7xpoi7dYd4"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -2615,18 +2575,42 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "OUTSIDE FREESTYLE",
-        "url": "https://open.spotify.com/album/0P2lpVvuIOhRBHpMqg1tzi"
+        "name": "For What Its Worth",
+        "url": "https://open.spotify.com/album/6mr0BGnwHXNPV2mcqSmW79"
       },
       "artists": [
         {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "Lul DreDay",
+          "url": "https://open.spotify.com/artist/3iJk6wDUly0uF53bdlBfvT"
         }
       ],
-      "duration_ms": 122063,
-      "name": "OUTSIDE FREESTYLE",
-      "url": "https://open.spotify.com/track/1cAzAwux8In7qi4IbTnepp"
+      "duration_ms": 151176,
+      "name": "Pick Me",
+      "url": "https://open.spotify.com/track/1ePbMmR7JB9kR6rM2FZx6B"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "RAP SUPERSTAR",
+        "url": "https://open.spotify.com/album/2BMupHnTTd7zINab0Dapra"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "duration_ms": 136082,
+      "name": "RAP SUPERSTAR",
+      "url": "https://open.spotify.com/track/1ide4NVTIqkpOfzLW3Yqjq"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -2651,6 +2635,22 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
+        "name": "OUTSIDE FREESTYLE",
+        "url": "https://open.spotify.com/album/0P2lpVvuIOhRBHpMqg1tzi"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 122063,
+      "name": "OUTSIDE FREESTYLE",
+      "url": "https://open.spotify.com/track/1cAzAwux8In7qi4IbTnepp"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
         "name": "BOOM!",
         "url": "https://open.spotify.com/album/4t7qgQ1Q84zF9VILKYp017"
       },
@@ -2667,18 +2667,18 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/4VVWzBdCD20sdkoaA8V21J"
+        "name": "As of Late",
+        "url": "https://open.spotify.com/album/3ePJVqMrBvZDIG7ZBuHuUB"
       },
       "artists": [
         {
-          "name": "Swaizy",
-          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
+          "name": "Th3 Saga",
+          "url": "https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp"
         }
       ],
-      "duration_ms": 127522,
-      "name": "DOM",
-      "url": "https://open.spotify.com/track/3whka1SkX931zDruLXOTh1"
+      "duration_ms": 179263,
+      "name": "Live 03'",
+      "url": "https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -2703,42 +2703,18 @@
     {
       "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "As of Late",
-        "url": "https://open.spotify.com/album/3ePJVqMrBvZDIG7ZBuHuUB"
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/4VVWzBdCD20sdkoaA8V21J"
       },
       "artists": [
         {
-          "name": "Th3 Saga",
-          "url": "https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp"
+          "name": "Swaizy",
+          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
         }
       ],
-      "duration_ms": 179263,
-      "name": "Live 03'",
-      "url": "https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY"
-    },
-    {
-      "added_at": "2026-05-29 04:02:45",
-      "album": {
-        "name": "The Body (Who) [Remix]",
-        "url": "https://open.spotify.com/album/6y2mOruKowma24ZzHRmIvq"
-      },
-      "artists": [
-        {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/613cJWGj63xalcHvXfBvni"
-        },
-        {
-          "name": "Aha Gazelle",
-          "url": "https://open.spotify.com/artist/4Pgl0gIxUVZ6MIU4vTyBby"
-        }
-      ],
-      "duration_ms": 137769,
-      "name": "The Body (Who) - Remix",
-      "url": "https://open.spotify.com/track/1v52zATZMnYxmgUzwK3jmy"
+      "duration_ms": 127522,
+      "name": "DOM",
+      "url": "https://open.spotify.com/track/3whka1SkX931zDruLXOTh1"
     },
     {
       "added_at": "2026-05-29 04:02:45",
@@ -2771,6 +2747,30 @@
       "duration_ms": 138161,
       "name": "Day and Night",
       "url": "https://open.spotify.com/track/1MOvYFtuoIn7AnEs4rQoCC"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "The Body (Who) [Remix]",
+        "url": "https://open.spotify.com/album/6y2mOruKowma24ZzHRmIvq"
+      },
+      "artists": [
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/613cJWGj63xalcHvXfBvni"
+        },
+        {
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/4Pgl0gIxUVZ6MIU4vTyBby"
+        }
+      ],
+      "duration_ms": 137769,
+      "name": "The Body (Who) - Remix",
+      "url": "https://open.spotify.com/track/1v52zATZMnYxmgUzwK3jmy"
     },
     {
       "added_at": "2026-05-29 04:02:45",

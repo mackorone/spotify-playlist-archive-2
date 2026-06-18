@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,657 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,658 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 51 | [Habit](https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 3:04 |
 | 52 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 53 | [emoji](https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi) | [emoji](https://open.spotify.com/album/4IOQ5elZOFlKwbvKCGtbbE) | 3:39 |
-| 54 | [Inside](https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Archive 1: \[Road Runner\]](https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl) | 3:07 |
-| 55 | [DRIVE ME](https://open.spotify.com/track/1oTO8USKys3ODc1sCyn0xA) | [Da Yeon Baek](https://open.spotify.com/artist/7f6sYlRGB312kc3MLCXm5l) | [DRIVE ME](https://open.spotify.com/album/4k2mX9YvrPdMy8Cgur16Cl) | 3:58 |
+| 54 | [DRIVE ME](https://open.spotify.com/track/1oTO8USKys3ODc1sCyn0xA) | [Da Yeon Baek](https://open.spotify.com/artist/7f6sYlRGB312kc3MLCXm5l) | [DRIVE ME](https://open.spotify.com/album/4k2mX9YvrPdMy8Cgur16Cl) | 3:58 |
+| 55 | [Inside](https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Archive 1: \[Road Runner\]](https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl) | 3:07 |
 | 56 | [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 |
 | 57 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 |
-| 58 | [Down \(Feat\. DUT2\)](https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:33 |
-| 59 | [ERYKAH BADU \(Feat\. CAMO\)](https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:44 |
+| 58 | [ERYKAH BADU \(Feat\. CAMO\)](https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:44 |
+| 59 | [Down \(Feat\. DUT2\)](https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:33 |
 | 60 | [Hug Me](https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:42 |
 
 Snapshot ID: `AAAAAIrFo04ns9TyzuEB4WUYEXfWkiyc`

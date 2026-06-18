@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Music that means it\. Cover: Modern Woman
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,101 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,108 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 81 | [ASA](https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [ASA](https://open.spotify.com/album/6FDu9Qf4NbE4B64JrNF7yv) | 2:31 |
 | 82 | [I Love America And She Hates Me](https://open.spotify.com/track/57YAiU79py7qXu05oW0cNI) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean](https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3) | 3:39 |
 | 83 | [Millionaires](https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 3:00 |
-| 84 | [The Age of Innocence](https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [The Age of Innocence](https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b) | 2:33 |
-| 85 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
+| 84 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
+| 85 | [The Age of Innocence](https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [The Age of Innocence](https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b) | 2:33 |
 | 86 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
-| 87 | [Shivers](https://open.spotify.com/track/7ddTjbmyWUAX3aVttgePhO) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Shivers](https://open.spotify.com/album/7mMWTrcGwJPbl4WdRjWLT7) | 4:24 |
-| 88 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 |
-| 89 | [Inaction](https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Inaction](https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9) | 3:06 |
+| 87 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 |
+| 88 | [Inaction](https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Inaction](https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9) | 3:06 |
+| 89 | [Shivers](https://open.spotify.com/track/7ddTjbmyWUAX3aVttgePhO) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Shivers](https://open.spotify.com/album/7mMWTrcGwJPbl4WdRjWLT7) | 4:24 |
 | 90 | [Glasgow](https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:34 |
 | 91 | [Breadline](https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Breadline](https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1) | 3:14 |
-| 92 | [marry me to dopamine](https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [marry me to dopamine](https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7) | 3:33 |
-| 93 | [Calypso Blue](https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt) | [The Cheap Thrills](https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz) | [Mind Metro](https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2) | 3:52 |
-| 94 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
+| 92 | [Calypso Blue](https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt) | [The Cheap Thrills](https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz) | [Mind Metro](https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2) | 3:52 |
+| 93 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
+| 94 | [marry me to dopamine](https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [marry me to dopamine](https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7) | 3:33 |
 | 95 | [Can't Say No](https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Can't Say No](https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN) | 3:12 |
 | 96 | [Lucy](https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Lucy](https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf) | 4:20 |
 | 97 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
 | 98 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 99 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 |
-| 100 | [My Favourite Monster](https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [My Favourite Monster](https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu) | 3:58 |
+| 100 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
 
 Snapshot ID: `AAAAAO0cOtHoqGvJppbIh4vlx63Vn7bQ`

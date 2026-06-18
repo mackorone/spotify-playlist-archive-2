@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
-  "num_followers": 214187,
+  "num_followers": 214206,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM/FM6dycMvNGmVR2257lXUFuNVt",
+  "snapshot_id": "AAAAAF74W6gCu9eldhL5unmGyssEogS4",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:46",
@@ -25,40 +25,20 @@
       "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
     },
     {
-      "added_at": "2026-06-11 16:36:23",
+      "added_at": "2026-06-17 16:50:54",
       "album": {
-        "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
-        "url": "https://open.spotify.com/album/5u6RY2PmWZgt6qgU0zCmD8"
+        "name": "Show U Sexy",
+        "url": "https://open.spotify.com/album/4WIdUxqQjTVZ2REhNKxf9A"
       },
       "artists": [
         {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+          "name": "DEDRO",
+          "url": "https://open.spotify.com/artist/22z7myWEqruGZpYuQKg4cQ"
         }
       ],
-      "duration_ms": 177280,
-      "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
-      "url": "https://open.spotify.com/track/10GNH2MWGnwR4fui0NwPF2"
-    },
-    {
-      "added_at": "2026-06-09 17:47:06",
-      "album": {
-        "name": "Chica",
-        "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
-      },
-      "artists": [
-        {
-          "name": "Ben Evers",
-          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
-        },
-        {
-          "name": "Najeh",
-          "url": "https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Chica",
-      "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
+      "duration_ms": 187559,
+      "name": "Show U Sexy",
+      "url": "https://open.spotify.com/track/6H3Qhv1dzL5pbtrQ7Kh7Cx"
     },
     {
       "added_at": "2026-06-09 17:47:06",
@@ -83,6 +63,58 @@
       "duration_ms": 210250,
       "name": "u up?",
       "url": "https://open.spotify.com/track/2ZZvnh85DP30XvSLjd0qDD"
+    },
+    {
+      "added_at": "2026-06-17 16:50:54",
+      "album": {
+        "name": "Terapia EP",
+        "url": "https://open.spotify.com/album/0JkXw9RsPPgDckgj2X2QzH"
+      },
+      "artists": [
+        {
+          "name": "Bonafique",
+          "url": "https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803"
+        },
+        {
+          "name": "Yuv\u00e8e",
+          "url": "https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f"
+        }
+      ],
+      "duration_ms": 227535,
+      "name": "Profill",
+      "url": "https://open.spotify.com/track/7G7iejjUvVun2tPL5KdhBA"
+    },
+    {
+      "added_at": "2026-06-11 00:10:38",
+      "album": {
+        "name": "cherry spice",
+        "url": "https://open.spotify.com/album/7BP7dM0DP2QEqG9I4VpRZh"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "cherry spice",
+      "url": "https://open.spotify.com/track/1hk7Zjum7tiJ2Rcmxu4Zy9"
+    },
+    {
+      "added_at": "2026-06-11 16:36:23",
+      "album": {
+        "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
+        "url": "https://open.spotify.com/album/5u6RY2PmWZgt6qgU0zCmD8"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Dream (Live) | Spotify Fresh Finds x Sounds That Move",
+      "url": "https://open.spotify.com/track/10GNH2MWGnwR4fui0NwPF2"
     },
     {
       "added_at": "2026-06-12 16:40:18",
@@ -117,36 +149,40 @@
       "url": "https://open.spotify.com/track/7uyHeUCGHtlKeZ5IJ1G7yI"
     },
     {
-      "added_at": "2026-06-11 00:10:38",
+      "added_at": "2026-06-17 16:50:54",
       "album": {
-        "name": "cherry spice",
-        "url": "https://open.spotify.com/album/7BP7dM0DP2QEqG9I4VpRZh"
+        "name": "Goes Like",
+        "url": "https://open.spotify.com/album/2FeWQKBnsphp5N5xyCuBXZ"
       },
       "artists": [
         {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        },
+        {
+          "name": "That Franco",
+          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
         }
       ],
-      "duration_ms": 148607,
-      "name": "cherry spice",
-      "url": "https://open.spotify.com/track/1hk7Zjum7tiJ2Rcmxu4Zy9"
+      "duration_ms": 169392,
+      "name": "Goes Like",
+      "url": "https://open.spotify.com/track/05p4Ruz6Pg0X3IuyZ3BbBR"
     },
     {
-      "added_at": "2026-06-11 00:10:38",
+      "added_at": "2026-06-17 16:50:54",
       "album": {
-        "name": "Lost Signal",
-        "url": "https://open.spotify.com/album/5kThtU5Z2FvPVAvjA0opCQ"
+        "name": "No Bad Trips",
+        "url": "https://open.spotify.com/album/7kXCnYWjMwmpLG0XtwPF6m"
       },
       "artists": [
         {
-          "name": "Internet Cafe",
-          "url": "https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6"
+          "name": "Birthday in Texas",
+          "url": "https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA"
         }
       ],
-      "duration_ms": 153258,
-      "name": "Lost Signal",
-      "url": "https://open.spotify.com/track/2I597clj5PJWixyMR47HRi"
+      "duration_ms": 155622,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/6hU4PamXZpUNkDvBwfraUi"
     },
     {
       "added_at": "2026-05-29 04:02:04",
@@ -183,6 +219,110 @@
       "duration_ms": 175750,
       "name": "My Life Is A Disco (In The Mix)",
       "url": "https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s"
+    },
+    {
+      "added_at": "2026-06-18 00:12:59",
+      "album": {
+        "name": "Disco Baile (Radio Edit)",
+        "url": "https://open.spotify.com/album/30i6Ah0BZNo9mDJ5TJRTGP"
+      },
+      "artists": [
+        {
+          "name": "Akalex",
+          "url": "https://open.spotify.com/artist/731SRh0Tu8EXaCEa2m7BrV"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Disco Baile - Radio Edit",
+      "url": "https://open.spotify.com/track/6kjj7HgnXX9oIxeNQ3MOSC"
+    },
+    {
+      "added_at": "2026-06-11 00:10:38",
+      "album": {
+        "name": "Lost Signal",
+        "url": "https://open.spotify.com/album/5kThtU5Z2FvPVAvjA0opCQ"
+      },
+      "artists": [
+        {
+          "name": "Internet Cafe",
+          "url": "https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6"
+        }
+      ],
+      "duration_ms": 153258,
+      "name": "Lost Signal",
+      "url": "https://open.spotify.com/track/2I597clj5PJWixyMR47HRi"
+    },
+    {
+      "added_at": "2026-06-17 16:50:54",
+      "album": {
+        "name": "stop&watch",
+        "url": "https://open.spotify.com/album/1LrxigYCruS0fxgjKXsDnp"
+      },
+      "artists": [
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "stop&watch",
+      "url": "https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60"
+    },
+    {
+      "added_at": "2026-06-17 16:50:54",
+      "album": {
+        "name": "SKANKIN'",
+        "url": "https://open.spotify.com/album/13vKQEqDiEmBdrTSygsFdI"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "SKANKIN'",
+      "url": "https://open.spotify.com/track/170EILbKBLytmHSOcA4sJE"
+    },
+    {
+      "added_at": "2026-05-27 23:56:21",
+      "album": {
+        "name": "Eight O Eight",
+        "url": "https://open.spotify.com/album/3juDdgoLSeUQykDuMkSqUJ"
+      },
+      "artists": [
+        {
+          "name": "no_test",
+          "url": "https://open.spotify.com/artist/1tJjWA0PHLmGHASEcPgc7U"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Eight O Eight",
+      "url": "https://open.spotify.com/track/0ezw3hJuih6S9KSMKQdoTS"
+    },
+    {
+      "added_at": "2026-06-09 17:47:06",
+      "album": {
+        "name": "Chica",
+        "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
+      },
+      "artists": [
+        {
+          "name": "Ben Evers",
+          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
+        },
+        {
+          "name": "Najeh",
+          "url": "https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
     },
     {
       "added_at": "2026-05-15 04:01:46",
@@ -235,22 +375,6 @@
       "duration_ms": 142344,
       "name": "THE SCIENTIST",
       "url": "https://open.spotify.com/track/7EqpD4HNExBWBfGDIvODr6"
-    },
-    {
-      "added_at": "2026-05-27 23:56:21",
-      "album": {
-        "name": "Eight O Eight",
-        "url": "https://open.spotify.com/album/3juDdgoLSeUQykDuMkSqUJ"
-      },
-      "artists": [
-        {
-          "name": "no_test",
-          "url": "https://open.spotify.com/artist/1tJjWA0PHLmGHASEcPgc7U"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Eight O Eight",
-      "url": "https://open.spotify.com/track/0ezw3hJuih6S9KSMKQdoTS"
     },
     {
       "added_at": "2026-06-12 16:40:18",
@@ -733,22 +857,6 @@
       "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
     },
     {
-      "added_at": "2026-05-29 04:02:04",
-      "album": {
-        "name": "Sugarblood",
-        "url": "https://open.spotify.com/album/2qqyp5V8vtlXSi4VB5fkMs"
-      },
-      "artists": [
-        {
-          "name": "Birthday in Texas",
-          "url": "https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA"
-        }
-      ],
-      "duration_ms": 156475,
-      "name": "Sugarblood",
-      "url": "https://open.spotify.com/track/1PSg1nZUOAkp7bLYrUF4fY"
-    },
-    {
       "added_at": "2026-05-06 19:01:48",
       "album": {
         "name": "turbine / frog",
@@ -797,22 +905,6 @@
       "url": "https://open.spotify.com/track/4JXV5vJB64ysfRyrkaGcqh"
     },
     {
-      "added_at": "2026-05-22 04:00:24",
-      "album": {
-        "name": "higher",
-        "url": "https://open.spotify.com/album/62JhWfYpN7ZoG7ChLbBIRG"
-      },
-      "artists": [
-        {
-          "name": "Josi Miller",
-          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
-        }
-      ],
-      "duration_ms": 160431,
-      "name": "higher",
-      "url": "https://open.spotify.com/track/7ADo6iZnGE8vG2kf9tpvHe"
-    },
-    {
       "added_at": "2026-04-24 04:02:15",
       "album": {
         "name": "C'MON",
@@ -859,22 +951,6 @@
       "duration_ms": 230551,
       "name": "What Ya Got",
       "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
-    },
-    {
-      "added_at": "2026-05-06 19:01:48",
-      "album": {
-        "name": "Que Rico",
-        "url": "https://open.spotify.com/album/2gd4uwQqAh8ptmGo8sVK5p"
-      },
-      "artists": [
-        {
-          "name": "RDL.wav",
-          "url": "https://open.spotify.com/artist/1t0p4O6zk4K1YFqlblfWiC"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "Que Rico",
-      "url": "https://open.spotify.com/track/4d0EQg1pramdmWPKcIaGWh"
     },
     {
       "added_at": "2026-04-30 03:41:26",
@@ -941,30 +1017,6 @@
       "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
     },
     {
-      "added_at": "2026-04-22 17:32:04",
-      "album": {
-        "name": "Crazy On My Mind",
-        "url": "https://open.spotify.com/album/12hAYV2aowo2CYMYtbFzbQ"
-      },
-      "artists": [
-        {
-          "name": "chriz javey",
-          "url": "https://open.spotify.com/artist/4n545NeyanWohXT6Ku1Br8"
-        },
-        {
-          "name": "1981 Tokyo",
-          "url": "https://open.spotify.com/artist/6meknouY1caCQg3ZxvrPdt"
-        },
-        {
-          "name": "Shaolinn",
-          "url": "https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Crazy On My Mind",
-      "url": "https://open.spotify.com/track/19kFxiDnQNbXLIXMQ2RDva"
-    },
-    {
       "added_at": "2026-04-30 03:41:26",
       "album": {
         "name": "Act Right",
@@ -979,26 +1031,6 @@
       "duration_ms": 214600,
       "name": "Act Right",
       "url": "https://open.spotify.com/track/64cawGqiZJWzjZhfjcfubU"
-    },
-    {
-      "added_at": "2026-04-24 04:02:15",
-      "album": {
-        "name": "mind be so numb",
-        "url": "https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg"
-      },
-      "artists": [
-        {
-          "name": "u.r.trax",
-          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
-        },
-        {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "mind be so numb",
-      "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
     },
     {
       "added_at": "2026-04-17 04:02:50",
@@ -1175,38 +1207,6 @@
       "duration_ms": 142529,
       "name": "Fast Money",
       "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Vandal EP",
-        "url": "https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX"
-      },
-      "artists": [
-        {
-          "name": "MARTHA",
-          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
-        }
-      ],
-      "duration_ms": 245273,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
-    },
-    {
-      "added_at": "2026-03-06 19:48:23",
-      "album": {
-        "name": "Interlude EP",
-        "url": "https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B"
-      },
-      "artists": [
-        {
-          "name": "VLAD",
-          "url": "https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj"
-        }
-      ],
-      "duration_ms": 219067,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek"
     },
     {
       "added_at": "2026-02-26 18:54:06",

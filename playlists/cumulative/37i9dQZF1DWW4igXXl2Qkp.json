@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:track:1t9lHXZO3EZIGVB1LguYyc\">Dreek Jones</a> ",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:2wVt4s4eHizk62Er2CLunw\">Breskii</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 102217,
       "name": "2025LOVESTORY (Digital)",
       "url": "https://open.spotify.com/track/7BDxIQSoV6ESO3UCGpRXKI"
@@ -8166,7 +8166,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 129240,
       "name": "Chicago Hottie",
       "url": "https://open.spotify.com/track/7bedCq0gOVCOMZNwYw6c7y"
@@ -12435,6 +12435,24 @@
     },
     {
       "album": {
+        "name": "Epstein Files",
+        "url": "https://open.spotify.com/album/2dQyx0uFbesfNVwNOViM2T"
+      },
+      "artists": [
+        {
+          "name": "Thee Traperinna",
+          "url": "https://open.spotify.com/artist/6OHUUjEFH950QIp90sTjoC"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124596,
+      "name": "Epstein Files",
+      "url": "https://open.spotify.com/track/33txpsNMpvNgxiATW1BBGa"
+    },
+    {
+      "album": {
         "name": "S.H.O.T.T.A.",
         "url": "https://open.spotify.com/album/53BUO883zRxzLTHppZAc9P"
       },
@@ -12835,6 +12853,24 @@
     },
     {
       "album": {
+        "name": "F*ck The Other Side (Remix)",
+        "url": "https://open.spotify.com/album/0kBtZ0KApzpBryaDSfDS3o"
+      },
+      "artists": [
+        {
+          "name": "EthoSuave",
+          "url": "https://open.spotify.com/artist/69YFeZMpPzgB1Tskd2Tj64"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97343,
+      "name": "F*ck The Other Side - Remix",
+      "url": "https://open.spotify.com/track/78Yjpoa0byJD5UUmSrtHXl"
+    },
+    {
+      "album": {
         "name": "F.N.F. (Let's Go)",
         "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
       },
@@ -13140,6 +13176,24 @@
       "duration_ms": 146991,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/2rq5pt3u0cZsLI6ljH503L"
+    },
+    {
+      "album": {
+        "name": "Family Bizzy",
+        "url": "https://open.spotify.com/album/7r9VMCQjZItdMaDcH3SmiL"
+      },
+      "artists": [
+        {
+          "name": "La Reezy",
+          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "Family Bizzy",
+      "url": "https://open.spotify.com/track/4x2ytupJC64eTmu7tNVs2x"
     },
     {
       "album": {
@@ -14548,7 +14602,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 115644,
       "name": "Free Loski",
       "url": "https://open.spotify.com/track/38la7QDkY36Qz4J7taJ7nR"
@@ -16849,6 +16903,28 @@
     },
     {
       "album": {
+        "name": "THE GODFATHER 2",
+        "url": "https://open.spotify.com/album/5eBXmVgLu86M481cMGMrmA"
+      },
+      "artists": [
+        {
+          "name": "Lil Rae",
+          "url": "https://open.spotify.com/artist/3mBgj6uh2YjNocaBRGJumA"
+        },
+        {
+          "name": "DEMIYAA",
+          "url": "https://open.spotify.com/artist/2VFnxZPBUoglahI0kc6dvc"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121568,
+      "name": "Group Of Friends (feat. DEMIYAA)",
+      "url": "https://open.spotify.com/track/6blXbpgSa8GDCXpoELTJQV"
+    },
+    {
+      "album": {
         "name": "GTFO",
         "url": "https://open.spotify.com/album/54MudFjoNaAj0ExqzxctaF"
       },
@@ -16968,7 +17044,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 108800,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6limkqv4dMf1FJd2SGiNjz"
@@ -20858,7 +20934,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 164232,
       "name": "Juice Week, Pt. 2",
       "url": "https://open.spotify.com/track/322CZq06Nz41urWUajTQxI"
@@ -25016,7 +25092,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 178490,
       "name": "Melanate It",
       "url": "https://open.spotify.com/track/6SrgpLmms2vKh3IOHyGuOM"
@@ -35611,6 +35687,24 @@
     },
     {
       "album": {
+        "name": "IT BE THAT DAMN PHONE",
+        "url": "https://open.spotify.com/album/4RHAo7wIr3GZcPKyvNHD6L"
+      },
+      "artists": [
+        {
+          "name": "ERISTHEPLANET",
+          "url": "https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99106,
+      "name": "SHOW GIRL",
+      "url": "https://open.spotify.com/track/3JF6SG6vbjoBtnNx0f4qdp"
+    },
+    {
+      "album": {
         "name": "Show Me Different",
         "url": "https://open.spotify.com/album/3QRiye2Ijen91IdHvvXQh9"
       },
@@ -39176,6 +39270,24 @@
       "duration_ms": 120000,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/4tQZXoBo4mQl6WDsgG9tpx"
+    },
+    {
+      "album": {
+        "name": "Ten Thousand Hours",
+        "url": "https://open.spotify.com/album/4Tozfh3iMyBqIC3rpxRnnR"
+      },
+      "artists": [
+        {
+          "name": "Lynn",
+          "url": "https://open.spotify.com/artist/3YGjCVq7bfP2wT3jzbaxab"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81666,
+      "name": "Ten Thousand Hours",
+      "url": "https://open.spotify.com/track/0jxW3SJ33JfJ8e4jzmE9ya"
     },
     {
       "album": {
@@ -42822,7 +42934,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 212064,
       "name": "WASSANAME",
       "url": "https://open.spotify.com/track/58xav4cdOkDtonnMUYCOKc"
@@ -44840,6 +44952,28 @@
       "duration_ms": 176666,
       "name": "WWIT",
       "url": "https://open.spotify.com/track/2lWwvwjWJB52B8tb4zKtqT"
+    },
+    {
+      "album": {
+        "name": "WYM (I Ain't Fresh)",
+        "url": "https://open.spotify.com/album/0bSDvvWRojNGeTkoAKqX1t"
+      },
+      "artists": [
+        {
+          "name": "Tahjaee",
+          "url": "https://open.spotify.com/artist/6PvayPkNZDVr1LHKzaCAs2"
+        },
+        {
+          "name": "jhonniedamnd",
+          "url": "https://open.spotify.com/artist/7qWZ7Mw71hkXKztqoEy727"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173430,
+      "name": "WYM (I Ain't Fresh)",
+      "url": "https://open.spotify.com/track/2XM18Uw0HEMGGeRGPxTeD7"
     },
     {
       "album": {

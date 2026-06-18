@@ -1,6 +1,6 @@
 {
   "description": "Pinky up!",
-  "num_followers": 847416,
+  "num_followers": 847739,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
     },
     {
+      "added_at": "2024-12-13 05:00:35",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 133113,
+      "name": "drinks or coffee",
+      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
+    },
+    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "Singled Out",
@@ -707,22 +723,6 @@
       "duration_ms": 151983,
       "name": "Let Me Think About It",
       "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
-    },
-    {
-      "added_at": "2024-12-13 05:00:35",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 133113,
-      "name": "drinks or coffee",
-      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k"
     },
     {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
+        "name": "THIS IS FOR (DELUXE)",
+        "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 131097,
+      "name": "THIS IS FOR",
+      "url": "https://open.spotify.com/track/1GMGVYS12lGWK9UWMJ2iZP"
+    },
+    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "Chromatica",
@@ -1175,22 +1191,6 @@
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
-    },
-    {
-      "added_at": "2025-07-18 04:00:19",
-      "album": {
-        "name": "THIS IS FOR (DELUXE)",
-        "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 131097,
-      "name": "THIS IS FOR",
-      "url": "https://open.spotify.com/track/1GMGVYS12lGWK9UWMJ2iZP"
     },
     {
       "added_at": "2024-08-03 15:31:45",

@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,199 songs - 2 day 10 hr 37 min
+1,200 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 | 2024-10-18 | 2025-04-01 |
 | [FINAL \(feat\. Frescool\)](https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [FINAL \(feat\. Frescool\)](https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR) | 3:35 | 2025-06-27 | 2025-07-05 |
 | [Finally Finally](https://open.spotify.com/track/7bzOg4aR7E0z4aigy7zwwt) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:09 | 2024-07-26 | 2024-08-26 |
+| [Find A Way](https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Find A Way](https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK) | 2:34 | 2026-06-12 |  |
 | [Fine Pass](https://open.spotify.com/track/1L1ateHMb54rv0QsoD9YKy) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Fine Pass](https://open.spotify.com/album/7fRa0SFSKPr2dX9Fnee44k) | 2:43 | 2023-10-13 | 2023-10-20 |
 | [fine ting \(fine $hit\)](https://open.spotify.com/track/06fhryffT3VPtv8v8r8EPK) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [fine ting \(fine $hit\)](https://open.spotify.com/album/2OF9E4AIW98RK4yuybtaRa) | 3:15 | 2026-04-24 |  |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-06-08 | 2023-02-24 |
@@ -1084,7 +1085,7 @@
 | [Timing](https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Timing](https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8) | 2:58 | 2024-10-07 | 2024-10-26 |
 | [Titi](https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 3:01 | 2025-06-09 |  |
 | [Tjina](https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [For Your Soul \(Extended Edition\)](https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf) | 5:19 | 2023-11-08 | 2023-11-17 |
-| [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 | 2025-09-01 |  |
+| [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 | 2025-09-01 | 2026-06-18 |
 | [Tobari](https://open.spotify.com/track/7ahXRjwY8TjK8zJmrW9aQA) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ OBI](https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe) | [Tobari](https://open.spotify.com/album/4fYZYxMsH3tuTHWWaUT3ON) | 3:36 | 2025-08-01 | 2025-08-23 |
 | [Today](https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:37 | 2023-12-08 | 2024-06-01 |
 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 | 2024-11-15 | 2025-06-10 |

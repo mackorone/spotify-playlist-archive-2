@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Olivia Rodrigo, ZAH1DE, FiNCH, LEA, Bebe Rexha & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,905 likes - 101 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,894 likes - 101 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

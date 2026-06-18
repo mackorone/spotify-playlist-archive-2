@@ -6459,6 +6459,24 @@
     },
     {
       "album": {
+        "name": "Midsommarafton igen",
+        "url": "https://open.spotify.com/album/4DEwW9MuZa1XLkc2FXa4b3"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        }
+      ],
+      "date_added": "2026-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Midsommarafton igen",
+      "url": "https://open.spotify.com/track/7do8KbnUYU4BbwUzW3tjnG"
+    },
+    {
+      "album": {
         "name": "Midsommardansen",
         "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
       },
@@ -9660,7 +9678,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 195400,
       "name": "Tre hj\u00e4rtan",
       "url": "https://open.spotify.com/track/3L2rFytbqORYicZmWVAigP"

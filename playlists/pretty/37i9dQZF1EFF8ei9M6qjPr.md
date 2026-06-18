@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364 likes - 191 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 364 likes - 192 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 33 | [Cool Kids](https://open.spotify.com/track/3zBBmQa8L6gCCT8OdptVOi) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/1MsuHTwmnG7Wn2ZQcMp4Uv) | 2:12 |
 | 34 | [Behind](https://open.spotify.com/track/3l3Zi7uotwaynXHtawz3C9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Behind](https://open.spotify.com/album/2bx5KKxt6vrWVZXMIWDXZY) | 3:18 |
 | 35 | [Freak Like That](https://open.spotify.com/track/2Pe1BR1o0uRKzPizuQIZg9) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Freak Like That](https://open.spotify.com/album/2pF4mstJq6V5FVYVYDohyn) | 2:15 |
-| 36 | [California](https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:52 |
-| 37 | [Cannon Beach](https://open.spotify.com/track/1SBvncos8PcOY8bOHWhw1U) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/4P0aLF8ud7ngqUofnVzlev) | 2:52 |
+| 36 | [Cannon Beach](https://open.spotify.com/track/1SBvncos8PcOY8bOHWhw1U) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/4P0aLF8ud7ngqUofnVzlev) | 2:52 |
+| 37 | [California](https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:52 |
 | 38 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 |
 | 39 | [Baddest](https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Baddest](https://open.spotify.com/album/0ayLG9HLt07N00Ycl60y5J) | 2:31 |
 | 40 | [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 90 | [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 |
 | 91 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 |
 | 92 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 |
-| 93 | [Be Alright](https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:36 |
-| 94 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 |
+| 93 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 |
+| 94 | [Be Alright](https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:36 |
 | 95 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
 | 96 | [Awesome](https://open.spotify.com/track/0L53Abm07SniogTRH1CoqC) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [Semicolon & Parentheses \(Deluxe\)](https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS) | 2:56 |
 | 97 | [Sober Up](https://open.spotify.com/track/2toGngwDUb3uo2reQ9dOGS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 2:49 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 126 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 |
 | 127 | [GASLIGHT](https://open.spotify.com/track/3v37i8GScxczqJSkepTr9z) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [GASLIGHT](https://open.spotify.com/album/1X7IpkBAiDZPQI2PuMIM39) | 2:10 |
 | 128 | [Mojave](https://open.spotify.com/track/05bOlUVof9LtsARuf0M8Lz) | [Jad Saad](https://open.spotify.com/artist/3Re3peL3DQMzTe4c5WRX2e) | [Mojave](https://open.spotify.com/album/3iYarDlgjNdmC11Q2utJe8) | 3:03 |
-| 129 | [Free](https://open.spotify.com/track/17IHogEwGpHjodPv7zUrUB) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:29 |
-| 130 | [RUT](https://open.spotify.com/track/3WOj5K3NGSJc7UUTR0ohDh) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [RUT](https://open.spotify.com/album/5LiTATZE86gpS9OmO7mCL1) | 3:27 |
+| 129 | [RUT](https://open.spotify.com/track/3WOj5K3NGSJc7UUTR0ohDh) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [RUT](https://open.spotify.com/album/5LiTATZE86gpS9OmO7mCL1) | 3:27 |
+| 130 | [Free](https://open.spotify.com/track/17IHogEwGpHjodPv7zUrUB) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:29 |
 | 131 | [My My](https://open.spotify.com/track/473Gdc2FyRRR0Zq1nUDmEE) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/5pXMD5ZtWugzcLXl6uBTrq) | 3:02 |
 | 132 | [Darkside](https://open.spotify.com/track/5eqqCdjErB7woHR39vRo60) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Darkside](https://open.spotify.com/album/4iuKwRcg4fHZJs0dENeM2H) | 2:53 |
 | 133 | [Tomorrow](https://open.spotify.com/track/0Ri8XkiBZJW2YPuNaPp56A) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [YRS](https://open.spotify.com/album/6DGok7MuunzqZoEs6FJurk) | 3:13 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 143 | [love me again](https://open.spotify.com/track/1VfiZkm7V4EmwifFaHa9N5) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [innocence](https://open.spotify.com/album/3KaCIYqhfvk9NapzoPa8BB) | 2:25 |
 | 144 | [Turn It Up Slow](https://open.spotify.com/track/4XXErZuhTruaAy5FTa6tYM) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 4:23 |
 | 145 | [Ghost Of Us](https://open.spotify.com/track/4Nxk4StgFRbgPXztvbYw2u) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:15 |
-| 146 | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/track/2wOAiTzjD2krew1lyLWE1b) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/album/6Be6MPVTY87kq1jxqbuCUH) | 3:17 |
-| 147 | [Good Times](https://open.spotify.com/track/5bbJplfDGd60rFJo1m2qZE) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Good Times](https://open.spotify.com/album/0So4zZK0utccXG4YgZ1Be9) | 2:35 |
+| 146 | [Good Times](https://open.spotify.com/track/5bbJplfDGd60rFJo1m2qZE) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Good Times](https://open.spotify.com/album/0So4zZK0utccXG4YgZ1Be9) | 2:35 |
+| 147 | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/track/2wOAiTzjD2krew1lyLWE1b) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/album/6Be6MPVTY87kq1jxqbuCUH) | 3:17 |
 | 148 | [Ways To Go](https://open.spotify.com/track/362mICSCjlQZztf36d0aMN) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Ways To Go](https://open.spotify.com/album/6a7ShVrxXLT6tXUGLaltAT) | 2:35 |
 | 149 | [different](https://open.spotify.com/track/3EVVGtFinvatJdxTDMuWN7) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 2:46 |
 | 150 | [Hear It In Your Voice](https://open.spotify.com/track/4wfrovc9l7XAwNRHni11y9) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Everyone But Me](https://open.spotify.com/album/3ROBpz7qSXXgERjSzg1hgo) | 2:42 |
@@ -198,6 +198,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 188 | [Freakshow](https://open.spotify.com/track/4WceOz4GIcG7FyYvkpcNQj) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/1JfiOjHXTPhks1hpToVbLX) | 2:24 |
 | 189 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 | 190 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
-| 191 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
+| 191 | [Like Animals](https://open.spotify.com/track/2VMJUOsP6pbC506uLOVLGF) | [Smyang Piano](https://open.spotify.com/artist/1hatwkL9sjz45yLimEcQOS) | [Piano Collection, Vol\. 16](https://open.spotify.com/album/60PfA7MDnNMOn97PRUXyMO) | 3:02 |
+| 192 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AcUaEAAAAADYa9NV3EN8Ns8PXh+NpRxx`
+Snapshot ID: `AcUfsAAAAADeQ+eWaDgpcr/oBq7mJtwW`

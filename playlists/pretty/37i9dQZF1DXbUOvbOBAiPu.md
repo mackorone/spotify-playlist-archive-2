@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Mentissa, Olivia Rodrigo, Bebe Rexha,  Guy2Bezbar x Tiakola, Tove Lo x Stromae and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,475 likes - 116 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,474 likes - 116 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 5 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
 | 6 | [Huracan](https://open.spotify.com/track/6QRy8EXr1ZzPQNRXlAm4TH) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [BYAKUGAN](https://open.spotify.com/album/6HQt23uDVxzyucxDtqRSKI) | 4:08 |
 | 7 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 |
-| 8 | [Ooit Komt Er Een Dag \(feat\. Sef & Faisal\)](https://open.spotify.com/track/3cez8sHyWd547tMC35BHLt) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [FAISAL](https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1) | [Ooit Komt Er Een Dag \(feat\. Sef & Faisal\)](https://open.spotify.com/album/13dSWOlVMFdrq6m6cnyI8I) | 3:30 |
+| 8 | [Ooit Komt Er Een Dag \(feat\. Sef & Faisal\)](https://open.spotify.com/track/3cez8sHyWd547tMC35BHLt) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ), [FAISAL](https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ooit Komt Er Een Dag \(feat\. Sef & Faisal\)](https://open.spotify.com/album/13dSWOlVMFdrq6m6cnyI8I) | 3:30 |
 | 9 | [Body Drop](https://open.spotify.com/track/36r1rOALwE1dZhrW6xlP70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01) | [Body Drop](https://open.spotify.com/album/1gb4DyWRIyxRM0Iz6hsNNo) | 1:54 |
 | 10 | [Rise](https://open.spotify.com/track/1t7bGWlRDFgb9NHudsKMna) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Rise](https://open.spotify.com/album/0woII3LbyKKlRA1SV0DXCR) | 3:15 |
 | 11 | [Pennsylvania Turnpike](https://open.spotify.com/track/4gXjzDndwLo65Mtc6zsNeZ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Pennsylvania Turnpike](https://open.spotify.com/album/5PcRDcKPzr2dORUnRWROwQ) | 3:40 |

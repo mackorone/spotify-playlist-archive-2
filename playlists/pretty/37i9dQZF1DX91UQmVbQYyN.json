@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Grace Ives",
-  "num_followers": 628265,
+  "num_followers": 628271,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "idea 1",
-        "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "idea 1",
-      "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": ":)",
         "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 180568,
       "name": ":)",
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "idea 1",
+        "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "idea 1",
+      "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "Crybaby",
         "url": "https://open.spotify.com/album/1yjYllIw1d3OZoRgPcTGBA"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 175597,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "No Driver",
-        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "No Driver",
-      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 242000,
       "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
       "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "No Driver",
+        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "No Driver",
+      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
     },
     {
       "added_at": "2026-05-01 04:02:29",

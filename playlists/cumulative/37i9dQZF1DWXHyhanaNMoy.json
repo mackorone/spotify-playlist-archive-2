@@ -8134,7 +8134,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 107817,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/4z8FuVG2TuDj7TFh96krXr"
@@ -19831,6 +19831,24 @@
     },
     {
       "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/5KxE40ZSS4DXVhlVIitQQL"
+      },
+      "artists": [
+        {
+          "name": "BDLC",
+          "url": "https://open.spotify.com/artist/0UBc2uIm71KuYr7JoA8O74"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159237,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/1Hg54dQu3hi1Rp2Y2Z5nGc"
+    },
+    {
+      "album": {
         "name": "Likkle Riddim",
         "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
       },
@@ -21310,6 +21328,24 @@
       "duration_ms": 210000,
       "name": "MAL DE AMORES",
       "url": "https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9"
+    },
+    {
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
     },
     {
       "album": {
@@ -26363,6 +26399,36 @@
     },
     {
       "album": {
+        "name": "Osso",
+        "url": "https://open.spotify.com/album/0prA4VMDqiTs6pEr5pPoBA"
+      },
+      "artists": [
+        {
+          "name": "Veertien",
+          "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+        },
+        {
+          "name": "Elf",
+          "url": "https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0"
+        },
+        {
+          "name": "RResstante",
+          "url": "https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC"
+        },
+        {
+          "name": "Reimas",
+          "url": "https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200618,
+      "name": "Osso",
+      "url": "https://open.spotify.com/track/05HjN1JDMU4avSiOAQa8Cz"
+    },
+    {
+      "album": {
         "name": "Otra",
         "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
       },
@@ -27154,7 +27220,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 167355,
       "name": "PARTYGYAL",
       "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
@@ -28492,7 +28558,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 168000,
       "name": "Press Back",
       "url": "https://open.spotify.com/track/3WEOgg8eTNu4hD2OBs38ir"
@@ -28765,7 +28831,7 @@
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 146666,
+      "duration_ms": 148185,
       "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
       "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
     },

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 193906,
+  "num_followers": 193908,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        }
-      ],
-      "duration_ms": 191392,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Sambas de Noel Rosa",
         "url": "https://open.spotify.com/album/4GBnrfMHbLji4DcNelwuFR"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 189866,
       "name": "\u00daltimo desejo (Participa\u00e7\u00e3o especial de Francisco S\u00e9rgio e sua orquestra)",
       "url": "https://open.spotify.com/track/0bWJu08ZYR14s2MT7ezN7D"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "duration_ms": 191392,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw"
     },
     {
       "added_at": "2026-04-01 03:00:06",

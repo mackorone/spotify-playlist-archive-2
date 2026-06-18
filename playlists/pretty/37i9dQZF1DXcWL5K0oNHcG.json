@@ -1,13 +1,77 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: New Jazz Underground. Artwork: Joy Yamusangie.",
-  "num_followers": 243085,
+  "num_followers": 243104,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMhTfZ8OnHPeg6XaOoN+mjKdFtb0",
+  "snapshot_id": "AAAAADR/NJHv7pu/R9SS2U0Sv7TyloeA",
   "tracks": [
+    {
+      "added_at": "2026-06-17 14:30:17",
+      "album": {
+        "name": "Microfictions",
+        "url": "https://open.spotify.com/album/3K1U6ZbFRJkKoIwcPvcf1j"
+      },
+      "artists": [
+        {
+          "name": "Alden Hellmuth",
+          "url": "https://open.spotify.com/artist/1jSsF9gV9tyZp3WfCDgbiF"
+        }
+      ],
+      "duration_ms": 358920,
+      "name": "Microfictions",
+      "url": "https://open.spotify.com/track/5pvVm6cqYfFdUz6Wh9HqOn"
+    },
+    {
+      "added_at": "2026-06-17 14:30:17",
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/7BUfSUXfhfKlyYqAKufExP"
+      },
+      "artists": [
+        {
+          "name": "Vimbs Mavimbs",
+          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
+        }
+      ],
+      "duration_ms": 374388,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vxATOQuc29oW4nQOnbtNE"
+    },
+    {
+      "added_at": "2026-06-17 14:30:17",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 260346,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1"
+    },
+    {
+      "added_at": "2026-06-17 14:30:17",
+      "album": {
+        "name": "Keep on Pullin'",
+        "url": "https://open.spotify.com/album/5sjGh4WqdbagDVARfJTYI2"
+      },
+      "artists": [
+        {
+          "name": "Bionic Funk",
+          "url": "https://open.spotify.com/artist/2znfnIQIwgLZwdMYk36AWl"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Keep on Pullin' - Part 1",
+      "url": "https://open.spotify.com/track/79UDb7TazR9K7fiJtgG4pC"
+    },
     {
       "added_at": "2026-06-03 16:04:33",
       "album": {
@@ -421,42 +485,6 @@
       "url": "https://open.spotify.com/track/1twVNq0Ndt6yb2BHQW7Y45"
     },
     {
-      "added_at": "2025-06-11 12:45:58",
-      "album": {
-        "name": "Las tres heridas",
-        "url": "https://open.spotify.com/album/57LHdLtpWkFGXZALVAWT0s"
-      },
-      "artists": [
-        {
-          "name": "Pablo Torti",
-          "url": "https://open.spotify.com/artist/5zJQGYRQCy5hjXgRFP0OzN"
-        }
-      ],
-      "duration_ms": 219823,
-      "name": "la de la vida",
-      "url": "https://open.spotify.com/track/3UWVXjZL1XVBofQ7CC3ETD"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN"
-      },
-      "artists": [
-        {
-          "name": "Ekath\u00e9",
-          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
-        },
-        {
-          "name": "El Mundo Limon",
-          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
-        }
-      ],
-      "duration_ms": 235836,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA"
-    },
-    {
       "added_at": "2025-07-09 04:00:06",
       "album": {
         "name": "Resonance",
@@ -511,22 +539,6 @@
       "duration_ms": 295335,
       "name": "Life Sketching #06",
       "url": "https://open.spotify.com/track/2Be8SkcUTaXE8Rchq8QmqD"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Ron Song",
-        "url": "https://open.spotify.com/album/41ECcT8MhzFKxFX0Q18LAu"
-      },
-      "artists": [
-        {
-          "name": "Don Glori",
-          "url": "https://open.spotify.com/artist/1CAzM4msiLBgUGxFkIroYo"
-        }
-      ],
-      "duration_ms": 336509,
-      "name": "Ron Song",
-      "url": "https://open.spotify.com/track/4MqRMWWM518FViRvEbo0Gl"
     },
     {
       "added_at": "2026-04-08 15:34:38",
@@ -755,22 +767,6 @@
       "duration_ms": 393781,
       "name": "Air",
       "url": "https://open.spotify.com/track/4AtvX4PqTMt4JtCZqEbqK7"
-    },
-    {
-      "added_at": "2025-06-25 14:05:10",
-      "album": {
-        "name": "TENDER",
-        "url": "https://open.spotify.com/album/4tbU17zF4kAvJ4iwOT2B1c"
-      },
-      "artists": [
-        {
-          "name": "Elle Shimada",
-          "url": "https://open.spotify.com/artist/6QCfENvTPwkHq4V6nTMOpk"
-        }
-      ],
-      "duration_ms": 178117,
-      "name": "TENDER",
-      "url": "https://open.spotify.com/track/49Sh8PcOTST5mEAfnInS5f"
     },
     {
       "added_at": "2025-08-13 14:00:17",

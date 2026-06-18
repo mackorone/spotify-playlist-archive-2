@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: AKLO \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,998 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,021 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/7Bi2JkcnFmlI9uhgwIMJBR) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SIGNAL VERDE](https://open.spotify.com/album/3X2kYubAwODt2875Tj57zf) | 0:00 |
+| 1 | [Lo Prendo](https://open.spotify.com/track/7Bi2JkcnFmlI9uhgwIMJBR) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SIGNAL VERDE](https://open.spotify.com/album/3X2kYubAwODt2875Tj57zf) | 2:03 |
 | 2 | [GYAL IS EVERYTHING \(feat\. TRIGA FINGA, Tohji, gummyboy, kZm, Elle Teresa & ZENDAMAN\)](https://open.spotify.com/track/5mWbc1Vxa35pz4qFNV0lll) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Triga Finga](https://open.spotify.com/artist/6rii7DnCLfDRDMWpYl2E1P), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [ZENDAMAN](https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45) | [Mall Tape 3](https://open.spotify.com/album/6AhA6skPIdy8klBEQ7J8ZY) | 3:45 |
 | 3 | [いい感じ](https://open.spotify.com/track/5qIkxELH7eU9JDctzfGcrH) | [Bark](https://open.spotify.com/artist/6bCDvJKQCr3404Fe1j7egd), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Bling 2 Tape](https://open.spotify.com/album/6o8yIEIN7pNeRdTPP2x1oo) | 3:17 |
 | 4 | [WASSUP \(feat\. NORIKIYO\)](https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Get Litty? \(Deluxe\)](https://open.spotify.com/album/6UMWTseCkEKRCrR5cJ8DYE) | 2:56 |

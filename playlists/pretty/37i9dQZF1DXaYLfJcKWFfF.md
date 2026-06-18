@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,180 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,193 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 20 | [Where the Wind Will Blow](https://open.spotify.com/track/2UHltNRCZgSeFLuJ2NtuM0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq) | [The Reign of the Heart](https://open.spotify.com/album/0embk14m8ul3vtgoXQrpmB) | 3:45 |
 | 21 | [Broken Heart](https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Broken Heart](https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y) | 2:48 |
 | 22 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
-| 23 | [Djanne](https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Djanne](https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx) | 2:42 |
+| 23 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 24 | [This Side of Love](https://open.spotify.com/track/3qGDRNfWzv0znuGVnCr9cI) | [Celeste Ojatula](https://open.spotify.com/artist/1FNzBwz8L9wGtZU1GkIAT4), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [This Side of Love](https://open.spotify.com/album/4Mj0BcwVlj9Ub9XqPhvTPO) | 2:18 |
-| 25 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
+| 25 | [Djanne](https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Djanne](https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx) | 2:42 |
 | 26 | [Word Vomit](https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Word Vomit](https://open.spotify.com/album/4f675l51sEciftAWInTtKB) | 2:46 |
 | 27 | [Sinatanale](https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale](https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ) | 3:34 |
 | 28 | [Alleluya \(Another World\)](https://open.spotify.com/track/7M2ThqUVttzAEZxf9XFF5Y) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Alleluya \(Another World\)](https://open.spotify.com/album/4ZGcnoWB6M3CDYp3v1fNfV) | 3:30 |
-| 29 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
+| 29 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 30 | [Exit Signs](https://open.spotify.com/track/1AUn3FMh5YsMB9Kv37097W) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [Exit Signs](https://open.spotify.com/album/03u4t8s1QezNAXlVLQobii) | 4:46 |
-| 31 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
+| 31 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
 | 32 | [Running](https://open.spotify.com/track/2882IVT2uMwSdlDpi8gbUT) | [Cut Capers](https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Running](https://open.spotify.com/album/4lnIg2FghrzIFd5sVpq7K5) | 3:34 |
 | 33 | [Zama](https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Zama](https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh) | 4:23 |
 | 34 | [Expiry](https://open.spotify.com/track/471xYWSi7bUgkD3xYrbOl7) | [Akeeda](https://open.spotify.com/artist/2yuVKgx8du6G6BGl5LrHcK) | [Expiry](https://open.spotify.com/album/1O2OWeGOolahIVjZzawhyp) | 4:21 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 53 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
 | 54 | [Echoes](https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Echoes](https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy) | 3:13 |
 | 55 | [OKAY!](https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [OKAY!](https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8) | 2:57 |
-| 56 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
+| 56 | [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 |
 | 57 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
-| 58 | [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 |
+| 58 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
 | 59 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
 | 60 | [Adwuma](https://open.spotify.com/track/3dGJ23oxQnLpSoboXe8IYj) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Adwuma](https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs) | 3:30 |
 | 61 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |

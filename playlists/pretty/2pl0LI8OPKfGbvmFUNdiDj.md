@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 927 likes - 55 songs - 3 hr 11 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 931 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,10 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 53 | [I Recall](https://open.spotify.com/track/2nPipeTw0use1VhyMieplA) | [Point Pleasant](https://open.spotify.com/artist/3hgIVMcwENmMH8A0dl6Njt) | [I Recall](https://open.spotify.com/album/6MSiWr5RrWjchLnyLDBcKv) | 4:19 |
 | 54 | [Tumi Aar Aami](https://open.spotify.com/track/3C1AgDP9bsidTuffG95r4R) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe) | [Tumi Aar Aami](https://open.spotify.com/album/41SHQ8vt1Psji752Kibapg) | 4:46 |
 | 55 | [Surfing to Nowhere](https://open.spotify.com/track/6PN45BwdFZexnyNNPWkxyg) | [fabiano matiolla](https://open.spotify.com/artist/1gSEoElmqiR2xGnMtTTqes) | [Surfing to Nowhere](https://open.spotify.com/album/1nitwAEcNvb5ejMda2TESx) | 4:31 |
+| 56 | [Nie mehr halbe Wege](https://open.spotify.com/track/5d67NYBPqOhyeSVlVMWy8K) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Nie mehr halbe Wege](https://open.spotify.com/album/7GyjaLz41aITtFW85NAE7T) | 3:25 |
+| 57 | [The Percoats Are Coming\(Dead Friends Diss\)](https://open.spotify.com/track/4K8TxP3EyZdLTMg50BUeId) | [Liam the Brand](https://open.spotify.com/artist/1wG2iQogJTU0avTSSx5p3t) | [The Percoats Are Coming\(Dead Friends Diss\)](https://open.spotify.com/album/4PQEIaZWpsHTM0jOWjr3jL) | 2:58 |
+| 58 | [The Mirror](https://open.spotify.com/track/6pUnpsCM1fvQrQsNxboHfZ) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [The Mirror](https://open.spotify.com/album/4ptWnwJL8v7UJLAcAgr9Bl) | 3:43 |
+| 59 | [Idontwantit](https://open.spotify.com/track/1EPdqwp61Fc9OPHD1QW2kl) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Idontwantit](https://open.spotify.com/album/6fD0HfZ8Vb2bIIsdGHP99i) | 2:20 |
+| 60 | [Melbourne Cat](https://open.spotify.com/track/72cmQI7HC2RNIKeGbKUPNH) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Melbourne Cat](https://open.spotify.com/album/0acC0pSJGsYNirxkfWlOxK) | 4:18 |
 
-Snapshot ID: `AAAD8Q+kuTF4zCdXQPq45wT9F2O/kZj9`
+Snapshot ID: `AAAD9r8azLA0HZ0O4OZo538T2NhK5ll5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,906 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,908 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 25 | [Afim De Verão](https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [Afim De Verão](https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI) | 5:00 |
 | 26 | [Tatuagem](https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:22 |
 | 27 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
-| 28 | [Peito Aberto](https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Peito Aberto](https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w) | 3:11 |
-| 29 | [Último desejo \(Participação especial de Francisco Sérgio e sua orquestra\)](https://open.spotify.com/track/0bWJu08ZYR14s2MT7ezN7D) | [Aracy de Almeida](https://open.spotify.com/artist/4dUyAH3f2lQ4QCXrUtJ778), [Francisco Sérgio e sua Orquestra](https://open.spotify.com/artist/3zTP7PA0jhORYttUqAX0MG) | [Sambas de Noel Rosa](https://open.spotify.com/album/4GBnrfMHbLji4DcNelwuFR) | 3:09 |
+| 28 | [Último desejo \(Participação especial de Francisco Sérgio e sua orquestra\)](https://open.spotify.com/track/0bWJu08ZYR14s2MT7ezN7D) | [Aracy de Almeida](https://open.spotify.com/artist/4dUyAH3f2lQ4QCXrUtJ778), [Francisco Sérgio e sua Orquestra](https://open.spotify.com/artist/3zTP7PA0jhORYttUqAX0MG) | [Sambas de Noel Rosa](https://open.spotify.com/album/4GBnrfMHbLji4DcNelwuFR) | 3:09 |
+| 29 | [Peito Aberto](https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Peito Aberto](https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w) | 3:11 |
 | 30 | [Meu Poeta](https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Ópera Grunkie](https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK) | 3:43 |
 | 31 | [Coração Melão](https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 4:18 |
 | 32 | [Pavilhão de Espelhos](https://open.spotify.com/track/7hqIOZiFjG8TEnn3NUb69X) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Tudo Que Cantei Sou](https://open.spotify.com/album/4FFKHEourvekB17Y3yRGhq) | 3:17 |

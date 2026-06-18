@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "NO RE-ENTRY (Nano Mixes)",
+        "url": "https://open.spotify.com/album/6yODHDXTOQfnomDLz32S9y"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123720,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/6BgdkRfOOxxOnARUTuAFs8"
+    },
+    {
+      "album": {
         "name": "Best I've Ever Had",
         "url": "https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4"
       },

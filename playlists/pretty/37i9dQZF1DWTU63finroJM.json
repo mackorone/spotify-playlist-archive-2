@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Skye Newman",
-  "num_followers": 85911,
+  "num_followers": 85912,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs"
     },
     {
+      "added_at": "2026-05-20 14:12:54",
+      "album": {
+        "name": "SAJGON",
+        "url": "https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 120896,
+      "name": "SAJGON",
+      "url": "https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo"
+    },
+    {
       "added_at": "2026-05-15 13:00:30",
       "album": {
         "name": "EL QUE COMPR\u00d3 PERDI\u00d3",
@@ -247,22 +263,6 @@
       "duration_ms": 139020,
       "name": "1.ROCHO TURRO - BONUS TRACK",
       "url": "https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V"
-    },
-    {
-      "added_at": "2026-05-20 14:12:54",
-      "album": {
-        "name": "SAJGON",
-        "url": "https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 120896,
-      "name": "SAJGON",
-      "url": "https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -567,22 +567,18 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "Talkhiyaan",
-        "url": "https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh"
+        "name": "angel in disguise",
+        "url": "https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P"
       },
       "artists": [
         {
-          "name": "Janisht Joshi",
-          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
-        },
-        {
-          "name": "KBIR",
-          "url": "https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh"
+          "name": "quiet morning",
+          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
         }
       ],
-      "duration_ms": 203434,
-      "name": "BEB",
-      "url": "https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT"
+      "duration_ms": 208000,
+      "name": "angel in disguise",
+      "url": "https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja"
     },
     {
       "added_at": "2026-05-15 13:00:30",
@@ -603,18 +599,22 @@
     {
       "added_at": "2026-05-15 13:00:30",
       "album": {
-        "name": "angel in disguise",
-        "url": "https://open.spotify.com/album/4cPJiXzTeTNU4U6XiflS7P"
+        "name": "Talkhiyaan",
+        "url": "https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh"
       },
       "artists": [
         {
-          "name": "quiet morning",
-          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        },
+        {
+          "name": "KBIR",
+          "url": "https://open.spotify.com/artist/3S88CVor97KLhYUta9U6Lh"
         }
       ],
-      "duration_ms": 208000,
-      "name": "angel in disguise",
-      "url": "https://open.spotify.com/track/2zQYlFRHVpBC2WmTnBsxja"
+      "duration_ms": 203434,
+      "name": "BEB",
+      "url": "https://open.spotify.com/track/6ug8TXrbflwyBcP3IxekJT"
     },
     {
       "added_at": "2026-05-15 13:00:30",

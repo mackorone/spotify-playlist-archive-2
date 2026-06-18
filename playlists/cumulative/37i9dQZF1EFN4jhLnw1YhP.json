@@ -1225,6 +1225,32 @@
     },
     {
       "album": {
+        "name": "Love Me or Lie",
+        "url": "https://open.spotify.com/album/7sRcLXHqMQ5OpgsiffvD4X"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141774,
+      "name": "Love Me or Lie",
+      "url": "https://open.spotify.com/track/5K4krJb4vQolazcqYgFbHb"
+    },
+    {
+      "album": {
         "name": "Supernal Dawn",
         "url": "https://open.spotify.com/album/4vdHr2Rv5zSPZslTpz0MyQ"
       },

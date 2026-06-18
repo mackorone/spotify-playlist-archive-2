@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36024,
+  "num_followers": 36022,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
-      },
-      "artists": [
-        {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
-      },
-      "artists": [
-        {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
-        }
-      ],
-      "duration_ms": 117637,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "He's A Pirate (Save Me)",
         "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 153125,
       "name": "He's A Pirate (Save Me)",
       "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
+      },
+      "artists": [
+        {
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        }
+      ],
+      "duration_ms": 117637,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "WILD",
         "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 140459,
       "name": "WILD",
       "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Fast Money",
+        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 142529,
+      "name": "Fast Money",
+      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "SICK FUCK",
         "url": "https://open.spotify.com/album/6lAZHBlWEvprlhgX4pMKWN"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 171428,
       "name": "SAY SOMETHING",
       "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Fast Money",
-        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 142529,
-      "name": "Fast Money",
-      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "on our own",
+        "url": "https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf"
+      },
+      "artists": [
+        {
+          "name": "Ordley",
+          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "on our own",
+      "url": "https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "G\u00cdRIA",
         "url": "https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 147428,
       "name": "SYRINX",
       "url": "https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "on our own",
-        "url": "https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf"
-      },
-      "artists": [
-        {
-          "name": "Ordley",
-          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "on our own",
-      "url": "https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2435,26 +2435,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Dead Limit",
-        "url": "https://open.spotify.com/album/2GrwgZ5612sxcPV9VboIL7"
-      },
-      "artists": [
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "Laherte",
-          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Dead Limit",
-      "url": "https://open.spotify.com/track/6PuAn6ieP9AfgAXV8n4RNN"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Wall-To-Wall",
         "url": "https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga"
       },
@@ -2471,6 +2451,26 @@
       "duration_ms": 171428,
       "name": "Reset (feat. Killa P)",
       "url": "https://open.spotify.com/track/6QtSmbIT7WsGgrqdNrZktD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Dead Limit",
+        "url": "https://open.spotify.com/album/2GrwgZ5612sxcPV9VboIL7"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Dead Limit",
+      "url": "https://open.spotify.com/track/6PuAn6ieP9AfgAXV8n4RNN"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/69znXGnL5lj0jEIbl7yni7"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "issa vibe",
         "url": "https://open.spotify.com/album/0d6Pj4XcVEMjtM7MODtLjI"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 171428,
       "name": "issa vibe",
       "url": "https://open.spotify.com/track/0cKICIfbu0qOndy9I3rInG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/69znXGnL5lj0jEIbl7yni7"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2859,6 +2859,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Sequ\u00eancia da Dz7",
+        "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
+      },
+      "artists": [
+        {
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 119184,
+      "name": "Sequ\u00eancia da Dz7",
+      "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Fluxxwave",
         "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
       },
@@ -2891,26 +2911,6 @@
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Sequ\u00eancia da Dz7",
-        "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
-      },
-      "artists": [
-        {
-          "name": "TRASHXRL",
-          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 119184,
-      "name": "Sequ\u00eancia da Dz7",
-      "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
     },
     {
       "added_at": "2026-04-13 15:38:24",

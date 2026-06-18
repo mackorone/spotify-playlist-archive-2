@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,914 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,907 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,16 +54,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 44 | [Dans med meg](https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Dans med meg](https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl) | 2:20 |
 | 45 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 | 46 | [Gamlehjem](https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Gamlehjem](https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU) | 3:01 |
-| 47 | [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 |
-| 48 | [Maria](https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Maria](https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh) | 3:32 |
+| 47 | [Maria](https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Maria](https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh) | 3:32 |
+| 48 | [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 |
 | 49 | [Ingenting kan stoppe oss](https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ingenting kan stoppe oss](https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M) | 3:17 |
 | 50 | [Støgg melodi](https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Støgg melodi](https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC) | 2:21 |
 | 51 | [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 |
 | 52 | [Jeg har vært en idiot](https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Jeg har vært en idiot](https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5) | 2:29 |
 | 53 | [Hele natta](https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Hele natta](https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ) | 2:29 |
 | 54 | [Langt igjen å gå](https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Langt igjen å gå](https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867) | 3:02 |
-| 55 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
-| 56 | [Ein song som finst](https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ein song som finst](https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L) | 3:30 |
+| 55 | [Ein song som finst](https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ein song som finst](https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L) | 3:30 |
+| 56 | [De gærne har det godt](https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [De gærne har det godt](https://open.spotify.com/album/517ciheoZHAntktdQcBaxx) | 2:08 |
 | 57 | [Helt Ærlig](https://open.spotify.com/track/00NVYE5PrMpR1gVlC8zPZV) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6) | [Helt Ærlig](https://open.spotify.com/album/5tpY3sc8z7TFGeCixCgW0Y) | 2:48 |
 | 58 | [Eviva Espana \- Charterfeber 2026](https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Eviva Espana \(Charterfeber 2026\)](https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6) | 2:45 |
 | 59 | [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 |

@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 267660,
+  "num_followers": 267713,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Rambla De Montevideo",
-        "url": "https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Club",
-          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
-        },
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        }
-      ],
-      "duration_ms": 177845,
-      "name": "Latidos",
-      "url": "https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "Un sue\u00f1o hecho realidad",
         "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 186706,
       "name": "La pollera amarilla",
       "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Rambla De Montevideo",
+        "url": "https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 177845,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Tu Sin Mi - En Vivo",
-      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "En Vivo en Fantastico Bailable",
         "url": "https://open.spotify.com/album/0HEBwnZSYuJ0MoMnFqGeoS"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 216449,
       "name": "No Me Arrepiento de Este Amor - En Vivo",
       "url": "https://open.spotify.com/track/5QAAcj7DhjZr7LmHTPWJYW"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Tu Sin Mi - En Vivo",
+      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 168253,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Como Podr\u00e9",
-      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "Sergio Torres - Session #50 (Sin Miedo: Lado S)",
         "url": "https://open.spotify.com/album/3Q4Pml7HR06oTRmvXfdIiq"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 182953,
       "name": "Mi celosa hermosa",
       "url": "https://open.spotify.com/track/3FtWgxYcMusd1RWw9Up16U"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Live Session",
-        "url": "https://open.spotify.com/album/3NMsUHaqlO013taOlTnTgN"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 624797,
-      "name": "Como Fui a Enamorarme de Ti / Ahora Te Vas / Te Vas a Arrepentir / Dime",
-      "url": "https://open.spotify.com/track/33tBimDq2tY1ofsRcpIjC0"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
         "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 111605,
       "name": "Cumbia buena",
       "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Live Session",
+        "url": "https://open.spotify.com/album/3NMsUHaqlO013taOlTnTgN"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 624797,
+      "name": "Como Fui a Enamorarme de Ti / Ahora Te Vas / Te Vas a Arrepentir / Dime",
+      "url": "https://open.spotify.com/track/33tBimDq2tY1ofsRcpIjC0"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Ya Te Olvide (En Vivo)",
-        "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes del Penal",
-          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
-        }
-      ],
-      "duration_ms": 260096,
-      "name": "Ya Te Olvide - En Vivo",
-      "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "Cosas del Amor (En Vivo)",
         "url": "https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 196058,
       "name": "Cosas del Amor - En Vivo",
       "url": "https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Ya Te Olvide (En Vivo)",
+        "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+        }
+      ],
+      "duration_ms": 260096,
+      "name": "Ya Te Olvide - En Vivo",
+      "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
-        "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
-      "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "El Viejo De Arriba",
         "url": "https://open.spotify.com/album/0MCl48IHftGB5dAq8puKhL"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 231898,
       "name": "El Viejo De Arriba",
       "url": "https://open.spotify.com/track/1D7yEw7RHGGhGnKQOTUaLh"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
+        "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
+      "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Era Tranquila (En Vivo)",
-        "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 237098,
-      "name": "Era Tranquila - En Vivo",
-      "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
-    },
-    {
-      "added_at": "2026-05-22 03:00:27",
-      "album": {
         "name": "En Vivo Estadio Luna Park",
         "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 278811,
       "name": "Amiga Traidora - En Vivo Estadio Luna Park",
       "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
+    },
+    {
+      "added_at": "2026-05-22 03:00:27",
+      "album": {
+        "name": "Repiola (En Vivo)",
+        "url": "https://open.spotify.com/album/2ISeQ9tbK98OIp6FtiPzQT"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 183583,
+      "name": "No Me Vuelvo a Enamorar - En Vivo",
+      "url": "https://open.spotify.com/track/4AuHFUhynAOLJ7GHufKpyo"
     },
     {
       "added_at": "2026-05-22 03:00:27",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2026-05-22 03:00:27",
       "album": {
-        "name": "Repiola (En Vivo)",
-        "url": "https://open.spotify.com/album/2ISeQ9tbK98OIp6FtiPzQT"
+        "name": "Era Tranquila (En Vivo)",
+        "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
       },
       "artists": [
         {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 183583,
-      "name": "No Me Vuelvo a Enamorar - En Vivo",
-      "url": "https://open.spotify.com/track/4AuHFUhynAOLJ7GHufKpyo"
+      "duration_ms": 237098,
+      "name": "Era Tranquila - En Vivo",
+      "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
     },
     {
       "added_at": "2026-05-22 03:00:27",

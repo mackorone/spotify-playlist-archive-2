@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 261333,
       "name": "Alt For Norge",
       "url": "https://open.spotify.com/track/3E5IeN5MqUs16rjvMRlaT1"
@@ -3490,7 +3490,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -25268,7 +25268,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -27622,6 +27622,28 @@
       "duration_ms": 180393,
       "name": "Konge p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "album": {
+        "name": "Kongens Menn (feat. Birkelunden Mannskor)",
+        "url": "https://open.spotify.com/album/41gJTiB4DXB2EYrR1W7oMq"
+      },
+      "artists": [
+        {
+          "name": "Kongens Menn",
+          "url": "https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX"
+        },
+        {
+          "name": "Birkelunden Mannskor",
+          "url": "https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168378,
+      "name": "Kongens Menn (feat. Birkelunden Mannskor)",
+      "url": "https://open.spotify.com/track/66ZkPCLY6fkEBFBX9Yxbro"
     },
     {
       "album": {
@@ -34732,7 +34754,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Norge skal til VM",
       "url": "https://open.spotify.com/track/6ne5zNCWqsD4v3J9xEcYWz"
@@ -47730,7 +47752,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"

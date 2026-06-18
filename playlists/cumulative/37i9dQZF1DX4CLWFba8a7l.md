@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: The Avalanches
 
-656 songs - 1 day 12 hr 40 min
+657 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 | 2025-06-05 | 2025-06-13 |
 | [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 | 2025-01-30 | 2025-02-07 |
 | [Easing Out Of Control](https://open.spotify.com/track/4mwK104Wm12C3cTMXwq5Op) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:34 | 2026-01-15 | 2026-02-13 |
+| [East Village](https://open.spotify.com/track/5LiP68DZdXab2WX8EcWREO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6Vm6inhzAgOMOCi1LRcXCY) | 3:31 | 2026-06-11 |  |
 | [Easy Goodbye](https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Easy Goodbye](https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx) | 4:14 | 2025-07-17 | 2025-10-04 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2024-05-31 | 2025-04-04 |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-31 | 2025-07-25 |
@@ -298,7 +299,7 @@
 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 | 2025-05-01 | 2025-08-28 |
 | [Isso](https://open.spotify.com/track/0IKjSt4MiTBvC0ogVKgBJC) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [MC Pânico](https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr) | [Isso](https://open.spotify.com/album/0hyAgPcABjcgMCV7WNw1E3) | 3:12 | 2025-05-15 | 2025-05-23 |
 | [It Don't Matter](https://open.spotify.com/track/1BbD5gnHzob2VsddH8zoSM) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [It Don't Matter](https://open.spotify.com/album/53T5VUowP9rrmcnOJQLHNP) | 3:25 | 2024-11-28 | 2024-12-06 |
-| [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 | 2026-04-23 |  |
+| [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 | 2026-04-23 | 2026-06-18 |
 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-03-12 | 2026-04-16 |
 | [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-06-26 |  |
 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-07-31 | 2025-09-10 |

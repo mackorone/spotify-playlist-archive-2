@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:68McnNC9twEtiynOAJRRgZ\">Uncle Waffles</a>' favorite tracks. Updated regularly. Curated by Uncle Waffles. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 66968,
+  "num_followers": 66978,
   "original_name": "Uncle Waffles' track IDs",
   "owner": {
     "name": "Spotify",
@@ -134,6 +134,10 @@
         {
           "name": "Shoes Meister",
           "url": "https://open.spotify.com/artist/6MffmCkRcA2yhLFxJQQNrv"
+        },
+        {
+          "name": "W4DE",
+          "url": "https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi"
         }
       ],
       "duration_ms": 368000,

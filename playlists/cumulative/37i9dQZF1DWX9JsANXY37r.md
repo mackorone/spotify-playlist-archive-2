@@ -4,7 +4,7 @@
 
 > drinks em casa, nada melhor
 
-262 songs - 16 hr 4 min
+263 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 | 2022-06-24 | 2024-04-08 |
 | [Automatic Driver \- Tyler, The Creator Remix](https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Automatic Driver \(Tyler, The Creator Remix\)](https://open.spotify.com/album/57PHygGtLqa9kJRE3rUy15) | 3:30 | 2022-03-25 | 2022-04-21 |
 | [Back To You](https://open.spotify.com/track/5kdMBPrJNUjFnT9scCIIZq) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [iamnotshane](https://open.spotify.com/album/3UOa7f8LdL49ghQq1aWHd0) | 2:40 | 2022-03-25 | 2022-04-18 |
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Baskets](https://open.spotify.com/track/7mz2szkCG0aTTtUZl1o0DJ) | [The O'My's](https://open.spotify.com/artist/1GQx6SUIHxDC1mRIFIpslD) | [Tomorrow](https://open.spotify.com/album/1T5sNfIOJURWEnHM9o0JQL) | 3:34 | 2022-02-18 | 2022-07-29 |
 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 | 2022-09-21 | 2024-04-19 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2022-03-25 | 2022-10-22 |
@@ -187,7 +188,7 @@
 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 | 2025-10-25 |  |
 | [narcisa](https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 | 2022-02-18 | 2022-07-29 |
 | [Noites De Monza](https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Noites De Monza](https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH) | 2:51 | 2024-07-26 | 2024-08-23 |
-| [Nossa Chance](https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Nossa Chance](https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5) | 3:44 | 2025-07-11 |  |
+| [Nossa Chance](https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Nossa Chance](https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5) | 3:44 | 2025-07-11 | 2026-06-18 |
 | [Olvidarlo](https://open.spotify.com/track/6BJ1LXDyZcbh46U4HitIeX) | [GzL](https://open.spotify.com/artist/6me4ClknRvUooCalLOeSop) | [Olvidarlo](https://open.spotify.com/album/69snYCFpY1590kiJKbcknj) | 3:38 | 2022-02-18 | 2022-07-29 |
 | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE) | 3:01 | 2022-03-25 |  |
 | [One Evening](https://open.spotify.com/track/06vjDikmHQBKKaNtlPrrB3) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/4ui8Lc2iPjfoesGSfVxhLZ) | 3:36 | 2022-02-18 | 2025-08-19 |

@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 21115,
+  "num_followers": 21116,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-04-15 06:41:37",
       "album": {
-        "name": "Earth, Wind & Fire (Buldak Hotter Than My EX Ver.)",
-        "url": "https://open.spotify.com/album/1Ex8WORI18jJhswTquyWQG"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Earth, Wind & Fire (Buldak Hotter Than My EX Ver.)",
-      "url": "https://open.spotify.com/track/5eHdOS0YSYRcuNeZ9JwWVP"
-    },
-    {
-      "added_at": "2026-04-15 06:41:37",
-      "album": {
         "name": "TOAST",
         "url": "https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 223973,
       "name": "End Better (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty"
+    },
+    {
+      "added_at": "2026-04-15 06:41:37",
+      "album": {
+        "name": "Earth, Wind & Fire (Buldak Hotter Than My EX Ver.)",
+        "url": "https://open.spotify.com/album/1Ex8WORI18jJhswTquyWQG"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Earth, Wind & Fire (Buldak Hotter Than My EX Ver.)",
+      "url": "https://open.spotify.com/track/5eHdOS0YSYRcuNeZ9JwWVP"
     },
     {
       "added_at": "2026-04-15 06:41:37",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-04-15 06:41:37",
       "album": {
-        "name": "HATE XX",
-        "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "BAD HOBBY",
-      "url": "https://open.spotify.com/track/4XGOlD2OFGPHXLA0DBPr5M"
-    },
-    {
-      "added_at": "2026-04-15 06:41:37",
-      "album": {
         "name": "RIIZING",
         "url": "https://open.spotify.com/album/1eeN3nhiJ2qg8sRSrAc43n"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 194090,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/2EfxJsXgoiilZGIXCGjKHI"
+    },
+    {
+      "added_at": "2026-04-15 06:41:37",
+      "album": {
+        "name": "HATE XX",
+        "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "BAD HOBBY",
+      "url": "https://open.spotify.com/track/4XGOlD2OFGPHXLA0DBPr5M"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

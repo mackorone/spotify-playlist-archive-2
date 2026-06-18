@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 124881,
+  "num_followers": 124898,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACFL0wbrzeYKfMr7LMDPO9u",
+  "snapshot_id": "ajCSAAAAAAAQJsBAxciNFn+eB3KBrxri",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loveworm",
-        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+        "name": "Our Extended Play",
+        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 191129,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/0oS6978exXanyIZJD4cdgV"
+      "duration_ms": 214128,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/3KENEwjmiRoWoW3HTE9JNb"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Extended Play",
-        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 214128,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/3KENEwjmiRoWoW3HTE9JNb"
+      "duration_ms": 191129,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/0oS6978exXanyIZJD4cdgV"
     },
     {
       "added_at": null,

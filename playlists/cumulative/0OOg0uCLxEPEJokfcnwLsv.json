@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "The Whiteroom",
+        "url": "https://open.spotify.com/album/5guju2jxu3skCcJqbijGHN"
+      },
+      "artists": [
+        {
+          "name": "PICKLE JUICE",
+          "url": "https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187228,
+      "name": "Back 40",
+      "url": "https://open.spotify.com/track/0iaNSdzQj8xsukNbny7g5Y"
+    },
+    {
+      "album": {
         "name": "Back on the Chain Gang",
         "url": "https://open.spotify.com/album/1TtpRhlOogrGGRaf1Zr2wV"
       },
@@ -3096,6 +3114,24 @@
       "duration_ms": 209813,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G"
+    },
+    {
+      "album": {
+        "name": "Freefalling",
+        "url": "https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Shack",
+          "url": "https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Freefalling",
+      "url": "https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ"
     },
     {
       "album": {
@@ -7908,6 +7944,24 @@
       "duration_ms": 150924,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA"
+    },
+    {
+      "album": {
+        "name": "Table for two",
+        "url": "https://open.spotify.com/album/51eiEwuzPoxAEIhYB7qtZQ"
+      },
+      "artists": [
+        {
+          "name": "Seven Streets",
+          "url": "https://open.spotify.com/artist/61zHO5qtdK8nvpi2aUQSiN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243459,
+      "name": "Table for two",
+      "url": "https://open.spotify.com/track/3MBEjrMog5LFLgbOFwgfDn"
     },
     {
       "album": {

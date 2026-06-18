@@ -9842,6 +9842,24 @@
     {
       "album": {
         "name": "Mad About You",
+        "url": "https://open.spotify.com/album/7oThVsd9KyUDxxUpk5y73X"
+      },
+      "artists": [
+        {
+          "name": "Televisionaries",
+          "url": "https://open.spotify.com/artist/6Tb9rehtVCRdLfsQXMgOaD"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157427,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/18BOUNHrgMvDj0B0otCH1H"
+    },
+    {
+      "album": {
+        "name": "Mad About You",
         "url": "https://open.spotify.com/album/2iZFxp4O4u11do64P2381S"
       },
       "artists": [
@@ -9852,7 +9870,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 157427,
       "name": "Ultimatum",
       "url": "https://open.spotify.com/track/2LefC4zg7mWiiRGaGJmfkm"

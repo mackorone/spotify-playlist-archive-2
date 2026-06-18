@@ -6753,6 +6753,36 @@
     },
     {
       "album": {
+        "name": "CALIENTE 2.0",
+        "url": "https://open.spotify.com/album/6tVeGs3GfldZPUIJk1LRb7"
+      },
+      "artists": [
+        {
+          "name": "Metukan",
+          "url": "https://open.spotify.com/artist/3SdGkpzAA98IJUf7dwd8TD"
+        },
+        {
+          "name": "aliex",
+          "url": "https://open.spotify.com/artist/4zDIVawcy6QodUWZ57JgPP"
+        },
+        {
+          "name": "heyiury",
+          "url": "https://open.spotify.com/artist/2EbVn1G9wh6mXxTnWg6GOc"
+        },
+        {
+          "name": "Ardw Finest",
+          "url": "https://open.spotify.com/artist/5xJb5ozEUmKOOeXoPqHRjB"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85168,
+      "name": "CALIENTE 2.0",
+      "url": "https://open.spotify.com/track/6qwuUFRlfKT7iRgf4oLnsD"
+    },
+    {
+      "album": {
         "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
         "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
       },
@@ -13072,7 +13102,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 106800,
       "name": "HAYALLER\u0130M\u0130 VURDUM",
       "url": "https://open.spotify.com/track/7qNhHR3C1rEV68qLqXT9Tt"
@@ -18912,7 +18942,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 149823,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/6FGbxOWr2PhOHd6N06nafP"
@@ -25782,7 +25812,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 116250,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/6CI1lK5mZBTlYKhfcuFwE1"
@@ -29472,7 +29502,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 258931,
       "name": "Y\u00fcz\u00fck",
       "url": "https://open.spotify.com/track/657FCK2qs1P6DV8caSlWWY"
@@ -30868,7 +30898,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 163448,
       "name": "\u015eEHR\u0130ME BOMBALAR",
       "url": "https://open.spotify.com/track/52e9OPUMOE97on91NrpxnK"

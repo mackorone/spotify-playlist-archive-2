@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Pixie McCann
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,407 likes - 284 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,402 likes - 284 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

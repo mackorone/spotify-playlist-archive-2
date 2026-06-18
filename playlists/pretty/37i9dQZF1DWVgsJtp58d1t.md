@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:6trIghKwHRUyxwvm66HLHH">Fousheé</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,874 likes - 161 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,850 likes - 161 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

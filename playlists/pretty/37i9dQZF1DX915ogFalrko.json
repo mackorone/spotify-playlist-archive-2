@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 187746,
+  "num_followers": 187740,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
+        "name": "Old Lovers (feat. The Lumineers)",
+        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 213188,
+      "name": "Old Lovers (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
         "name": "Wovoka",
         "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 171237,
       "name": "enjoy the ride",
       "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
-        "name": "Old Lovers (feat. The Lumineers)",
-        "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 213188,
-      "name": "Old Lovers (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
     },
     {
       "added_at": "2026-06-12 17:03:07",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
-        "name": "Cold Fact",
-        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 154240,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 157333,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 154240,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
     },
     {
       "added_at": "2026-06-12 17:03:07",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
-        "name": "Romanticize The Dive",
-        "url": "https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 223106,
-      "name": "Tremolo",
-      "url": "https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
         "name": "Gran Paradiso",
         "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 195136,
       "name": "Shala-Lala-La",
       "url": "https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
+        "name": "Romanticize The Dive",
+        "url": "https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Tremolo",
+      "url": "https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9"
     },
     {
       "added_at": "2026-06-12 17:03:07",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "East Village",
+      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
         "name": "Montgomery Ricky (Plus 3)",
         "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 235600,
       "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
       "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "East Village",
-      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
     },
     {
       "added_at": "2026-06-12 17:03:07",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
-        "name": "Quand on arrive en ville",
-        "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
-      },
-      "artists": [
-        {
-          "name": "Fhin",
-          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
-        }
-      ],
-      "duration_ms": 218010,
-      "name": "Quand on arrive en ville",
-      "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 138181,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
+        "name": "Quand on arrive en ville",
+        "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
+      },
+      "artists": [
+        {
+          "name": "Fhin",
+          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
+        }
+      ],
+      "duration_ms": 218010,
+      "name": "Quand on arrive en ville",
+      "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
     },
     {
       "added_at": "2026-06-12 17:03:07",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
         "name": "Chilling Effects",
         "url": "https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
     },
     {
       "added_at": "2026-06-12 17:03:07",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
         "name": "Junk",
         "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 163301,
       "name": "Cry to Me",
       "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-06-12 17:03:07",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
-        "name": "Matahari",
-        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "Vacances",
-      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
         "name": "Everything in Between",
         "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 213642,
       "name": "Till the End",
       "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
+        "name": "Matahari",
+        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Vacances",
+      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
     },
     {
       "added_at": "2026-06-12 17:03:07",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 252894,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
         "name": "Yellow Brick Road",
         "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 152062,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 252894,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
     },
     {
       "added_at": "2026-06-12 17:03:07",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-06-12 17:03:07",
       "album": {
-        "name": "Christina",
-        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
-      },
-      "artists": [
-        {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
-    },
-    {
-      "added_at": "2026-06-12 17:03:07",
-      "album": {
         "name": "Mammoth",
         "url": "https://open.spotify.com/album/3dnhxDJuhlGMOlSLYFucMK"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 241840,
       "name": "Mammoth",
       "url": "https://open.spotify.com/track/3aE7UURzEUkznUbf1mJAMS"
+    },
+    {
+      "added_at": "2026-06-12 17:03:07",
+      "album": {
+        "name": "Christina",
+        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
     },
     {
       "added_at": "2026-06-12 17:03:07",

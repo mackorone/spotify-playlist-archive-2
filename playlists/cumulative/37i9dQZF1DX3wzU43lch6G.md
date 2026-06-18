@@ -4,7 +4,7 @@
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-89 songs - 5 hr 24 min
+90 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,13 +73,14 @@
 | [Selam Söyle](https://open.spotify.com/track/1ClnNu5oASK5TwqxtXMZJP) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Selam Söyle](https://open.spotify.com/album/5PFNuphPszDP7rHHmGKfpm) | 3:02 | 2023-11-16 | 2024-01-29 |
 | [Sen Benim Şarkılarımsın](https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ) | [Gündoğarken](https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei) | [Bir Yaz Daha Bitiyor](https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl) | 2:59 | 2023-08-31 |  |
 | [Sen Istersin](https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Canozan](https://open.spotify.com/artist/6Ql42BcxhVv8vG1ML7fRgs) | [Sen Istersin](https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5) | 3:23 | 2023-08-31 | 2026-06-09 |
+| [Seversin](https://open.spotify.com/track/29hf1lugMH7g6X8IrfCMAq) | [Müjver](https://open.spotify.com/artist/1ULbsZ7MDzQU9k0wGzPXp9) | [Cümlemize](https://open.spotify.com/album/615tYYbx6XrhyR3eeIQeTk) | 4:26 | 2025-07-10 |  |
 | [Sevmek Yüzünden](https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Sevmek Yüzünden](https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL) | 3:39 | 2023-08-31 |  |
 | [Sustum](https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sustum](https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS) | 3:32 | 2023-08-31 |  |
 | [Tac Mahal](https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Kehanet](https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89) | 3:59 | 2023-08-31 |  |
 | [Tatlım Tatlım](https://open.spotify.com/track/3Aom5X5c2JynUHtSpnqNIG) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Nokta](https://open.spotify.com/album/7qU1wsdRbnLXCkNEjotc2p) | 3:35 | 2023-08-31 | 2023-12-31 |
 | [Tavla](https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:31 | 2023-08-31 |  |
 | [Taş Kalbinin Çöllerinde](https://open.spotify.com/track/2fJG9sEeJJc5gxwxJMNbQu) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Taş Kalbinin Çöllerinde](https://open.spotify.com/album/0bjbNfADYuqDTJ3tgIfvDV) | 2:44 | 2023-08-31 | 2024-04-12 |
-| [Teker Teker](https://open.spotify.com/track/04x2DO5e8XDhjYvenuFRHp) | [Gülinler](https://open.spotify.com/artist/51kqr3yAjZbFb7fjxwzyjD) | [Teker Teker](https://open.spotify.com/album/0jeHisoDO2J5Rqee3fwyGT) | 4:03 | 2025-07-10 |  |
+| [Teker Teker](https://open.spotify.com/track/04x2DO5e8XDhjYvenuFRHp) | [Gülinler](https://open.spotify.com/artist/51kqr3yAjZbFb7fjxwzyjD) | [Teker Teker](https://open.spotify.com/album/0jeHisoDO2J5Rqee3fwyGT) | 4:03 | 2025-07-10 | 2026-06-18 |
 | [Tuana](https://open.spotify.com/track/3Kut1u60mgcH59QWty8uUz) | [Levent Yüksel](https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2) | [Med Cezir](https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO) | 5:19 | 2023-08-31 | 2024-04-19 |
 | [Tutamıyorum Zamanı](https://open.spotify.com/track/5Fq18pspZ5UpuTOSLvYFIw) | [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Ex Aşkım](https://open.spotify.com/album/1WfY0ihlxmwR49Rp7oqskL) | 3:57 | 2023-08-31 | 2024-04-19 |
 | [ultrapop](https://open.spotify.com/track/3SOo2UUK8PxYmR6LdY75kz) | [Birileri](https://open.spotify.com/artist/1JSlQod7y9LeC8hWvQqQtR) | [ultrapop](https://open.spotify.com/album/0thtDIEtYW3boH2VL9M9uw) | 3:58 | 2024-02-22 |  |

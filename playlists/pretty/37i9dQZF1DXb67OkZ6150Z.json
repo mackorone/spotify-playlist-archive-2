@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 304137,
+  "num_followers": 304142,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Girlfriend Is Better",
         "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 185333,
       "name": "Girlfriend Is Better",
       "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Teardrop",
-        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Paul",
         "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 187121,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Teardrop",
+        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 303054,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 219598,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Making Breakfast",
         "url": "https://open.spotify.com/album/6gZ2JwFSMQsllwM2XJjZIh"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 140973,
       "name": "Making Breakfast",
       "url": "https://open.spotify.com/track/2slU3LSs6yFAsit4blFSjA"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 219598,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
     },
     {
       "added_at": "2026-03-06 05:00:19",

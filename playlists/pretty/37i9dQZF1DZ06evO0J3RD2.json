@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10082,
+  "num_followers": 10099,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAA/e/04t0meXak843mXt+ar",
+  "snapshot_id": "ajCSAAAAAAA/Kouj9FD19hzUBzKMYn7R",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 213186,
-      "name": "In My Blood",
-      "url": "https://open.spotify.com/track/4urLThnwcBZ3hnHSIsbhCN"
+      "duration_ms": 216826,
+      "name": "Moonlight Lines",
+      "url": "https://open.spotify.com/track/0MsVyaHNAYDVPjoRUqlLYU"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 216826,
-      "name": "Moonlight Lines",
-      "url": "https://open.spotify.com/track/0MsVyaHNAYDVPjoRUqlLYU"
+      "duration_ms": 213186,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/4urLThnwcBZ3hnHSIsbhCN"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 368925,
+  "num_followers": 368935,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "At Joe's",
-        "url": "https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma"
-      },
-      "artists": [
-        {
-          "name": "Ivan Blois",
-          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
-        }
-      ],
-      "duration_ms": 146550,
-      "name": "At Joe's",
-      "url": "https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Blue Note",
         "url": "https://open.spotify.com/album/0sPWUFAwOne7o6330rZeP2"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 124897,
       "name": "Passing Time",
       "url": "https://open.spotify.com/track/7JCZMTeSLF2VgXGFSQxrS8"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "At Joe's",
+        "url": "https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blois",
+          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
+        }
+      ],
+      "duration_ms": 146550,
+      "name": "At Joe's",
+      "url": "https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh"
+        "name": "A Second To None",
+        "url": "https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8"
       },
       "artists": [
         {
-          "name": "A. Mayven",
-          "url": "https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU"
+          "name": "Jacob Concord",
+          "url": "https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi"
         }
       ],
-      "duration_ms": 142977,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1"
+      "duration_ms": 174750,
+      "name": "A Second To None",
+      "url": "https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -347,34 +347,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Summer with You",
-        "url": "https://open.spotify.com/album/43JfSeY3jM158FdpfoqgGe"
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh"
       },
       "artists": [
         {
-          "name": "Timothy Reisen",
-          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+          "name": "A. Mayven",
+          "url": "https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Summer with You",
-      "url": "https://open.spotify.com/track/7qZeDhgJdRcXOUmIAyCEor"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "A Second To None",
-        "url": "https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Concord",
-          "url": "https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "A Second To None",
-      "url": "https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I"
+      "duration_ms": 142977,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -407,6 +391,22 @@
       "duration_ms": 165125,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Summer with You",
+        "url": "https://open.spotify.com/album/43JfSeY3jM158FdpfoqgGe"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Summer with You",
+      "url": "https://open.spotify.com/track/7qZeDhgJdRcXOUmIAyCEor"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Heart And Soul",
-        "url": "https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4"
-      },
-      "artists": [
-        {
-          "name": "Randall Peterson",
-          "url": "https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140"
-        }
-      ],
-      "duration_ms": 193624,
-      "name": "Heart And Soul",
-      "url": "https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 156774,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4"
+      },
+      "artists": [
+        {
+          "name": "Randall Peterson",
+          "url": "https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140"
+        }
+      ],
+      "duration_ms": 193624,
+      "name": "Heart And Soul",
+      "url": "https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Fading Away",
-        "url": "https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET"
-      },
-      "artists": [
-        {
-          "name": "Jacques Liti",
-          "url": "https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59"
-        }
-      ],
-      "duration_ms": 167270,
-      "name": "Fading Away",
-      "url": "https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Staying for Tomorrow",
         "url": "https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Evening Stillness",
-        "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
+        "name": "Fading Away",
+        "url": "https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET"
       },
       "artists": [
         {
-          "name": "John B\u00fclow",
-          "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
+          "name": "Jacques Liti",
+          "url": "https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59"
         }
       ],
-      "duration_ms": 198437,
-      "name": "Evening Stillness",
-      "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
+      "duration_ms": 167270,
+      "name": "Fading Away",
+      "url": "https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -743,6 +727,22 @@
       "duration_ms": 159021,
       "name": "I miss your laughter",
       "url": "https://open.spotify.com/track/7J43Mh4UvelypkEw3VfzAp"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Evening Stillness",
+        "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
+      },
+      "artists": [
+        {
+          "name": "John B\u00fclow",
+          "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "Evening Stillness",
+      "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "A Touch of Kindness",
-        "url": "https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Blackwood",
-          "url": "https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe"
-        }
-      ],
-      "duration_ms": 136968,
-      "name": "A Touch of Kindness",
-      "url": "https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Quite a dilemma",
         "url": "https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 175833,
       "name": "Quite a dilemma",
       "url": "https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "A Touch of Kindness",
+        "url": "https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Blackwood",
+          "url": "https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe"
+        }
+      ],
+      "duration_ms": 136968,
+      "name": "A Touch of Kindness",
+      "url": "https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "It's Probably True",
-        "url": "https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7"
-      },
-      "artists": [
-        {
-          "name": "Kim Lawrence",
-          "url": "https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "It's Probably True",
-      "url": "https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "You're glowing",
         "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "More than love",
-        "url": "https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m"
+        "name": "It's Probably True",
+        "url": "https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7"
       },
       "artists": [
         {
-          "name": "Laura Romano",
-          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+          "name": "Kim Lawrence",
+          "url": "https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4"
         }
       ],
-      "duration_ms": 173466,
-      "name": "More than love",
-      "url": "https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG"
+      "duration_ms": 172200,
+      "name": "It's Probably True",
+      "url": "https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -935,6 +919,22 @@
       "duration_ms": 143577,
       "name": "My Periscope",
       "url": "https://open.spotify.com/track/5e98RqB5qbAMxE2l8wB7pc"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "More than love",
+        "url": "https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m"
+      },
+      "artists": [
+        {
+          "name": "Laura Romano",
+          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "More than love",
+      "url": "https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "Strangers by Midnight",
+        "url": "https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+        }
+      ],
+      "duration_ms": 200310,
+      "name": "Strangers by Midnight",
+      "url": "https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Fading Skies",
         "url": "https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 180259,
       "name": "Midnight on 5th Avenue",
       "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Strangers by Midnight",
-        "url": "https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h"
-      },
-      "artists": [
-        {
-          "name": "Timothy Reisen",
-          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
-        }
-      ],
-      "duration_ms": 200310,
-      "name": "Strangers by Midnight",
-      "url": "https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "A Few Horizons",
-        "url": "https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP"
-      },
-      "artists": [
-        {
-          "name": "Harper Avery",
-          "url": "https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L"
-        }
-      ],
-      "duration_ms": 140997,
-      "name": "A Few Horizons",
-      "url": "https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "The old train",
         "url": "https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 183109,
       "name": "The old train",
       "url": "https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "A Few Horizons",
+        "url": "https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP"
+      },
+      "artists": [
+        {
+          "name": "Harper Avery",
+          "url": "https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L"
+        }
+      ],
+      "duration_ms": 140997,
+      "name": "A Few Horizons",
+      "url": "https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Last thought",
-        "url": "https://open.spotify.com/album/3xJcKbBZtAWKeSEOOeLDAe"
-      },
-      "artists": [
-        {
-          "name": "Graydon Poole",
-          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
-        }
-      ],
-      "duration_ms": 169952,
-      "name": "Last thought",
-      "url": "https://open.spotify.com/track/4NxOiE9mgIrdo3aCyD0vCi"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Grindavik",
         "url": "https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 184272,
       "name": "Grindavik",
       "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Last thought",
+        "url": "https://open.spotify.com/album/3xJcKbBZtAWKeSEOOeLDAe"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "duration_ms": 169952,
+      "name": "Last thought",
+      "url": "https://open.spotify.com/track/4NxOiE9mgIrdo3aCyD0vCi"
     },
     {
       "added_at": "2026-05-25 14:11:39",

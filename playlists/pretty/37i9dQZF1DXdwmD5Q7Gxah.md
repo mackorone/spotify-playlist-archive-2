@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > meet After Louise  🫧🫧🫧
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,112 likes - 155 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,076 likes - 155 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

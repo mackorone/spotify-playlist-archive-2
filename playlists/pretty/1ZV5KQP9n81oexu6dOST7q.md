@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain]
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 50,397 likes - 104 songs - 5 hr 19 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 50,392 likes - 104 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

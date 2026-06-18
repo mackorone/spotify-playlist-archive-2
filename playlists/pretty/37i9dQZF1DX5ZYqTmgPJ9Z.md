@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,356 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,352 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 15 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 16 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
 | 17 | [Krispy](https://open.spotify.com/track/6ZizKmm2kQY7e77rXrlwWs) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 3:41 |
-| 18 | [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 |
+| 18 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 |
 | 19 | [Alright](https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 4:35 |
-| 20 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 |
+| 20 | [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 |
 | 21 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 |
 | 22 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
 | 23 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 48 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
 | 49 | [Probably Sorry](https://open.spotify.com/track/72VSo5LGhQz24MlULSh2G7) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Probably Sorry](https://open.spotify.com/album/143RT46s3JeoVZR8agkqQu) | 2:45 |
 | 50 | [Malibu Jane](https://open.spotify.com/track/4NbOXgHL0Gu5ga0qD6z2WN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:38 |
-| 51 | [Gone](https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm) | [Jasmine Oakley](https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL) | [Gone](https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K) | 3:46 |
-| 52 | [Slowly](https://open.spotify.com/track/4kbljXIclSHAVeLW18iXXZ) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Slowly](https://open.spotify.com/album/3jZdEB70bvtAQRjN8mzRWE) | 3:13 |
+| 51 | [Slowly](https://open.spotify.com/track/4kbljXIclSHAVeLW18iXXZ) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Slowly](https://open.spotify.com/album/3jZdEB70bvtAQRjN8mzRWE) | 3:13 |
+| 52 | [Gone](https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm) | [Jasmine Oakley](https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL) | [Gone](https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K) | 3:46 |
 | 53 | [Are You Waiting?](https://open.spotify.com/track/2fLYnFeaVotT1ApBoDfkLZ) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [From Here](https://open.spotify.com/album/5XXLPt0MNFWzAMvSE4c9ZT) | 3:10 |
 | 54 | [Bloom Innocent](https://open.spotify.com/track/1iVn6DAdn8kQ8Qri7Eu2Un) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Bloom Innocent](https://open.spotify.com/album/7mZdMFXdNUqaBNB7pkIJu1) | 6:56 |
 | 55 | [Too Much](https://open.spotify.com/track/0rR0cR9LTMeOewCYWYka3N) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Too Much](https://open.spotify.com/album/5M8EU1wTNTElCDmD22oZs5) | 3:41 |
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 79 | [Perfect](https://open.spotify.com/track/6tjTExTprXoPTYH6I0pziB) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Perfect](https://open.spotify.com/album/5CS5G0nDen8GZ2u2AFQRzN) | 3:04 |
 | 80 | [Clashing Colours](https://open.spotify.com/track/1WSNR8LyG3QTWAA1MaRsCq) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Clashing Colours](https://open.spotify.com/album/4mkPcQDRD7pWVgY2cy8hmp) | 4:44 |
 | 81 | [Statue](https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f) | [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Statue](https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF) | 3:24 |
-| 82 | [faded nights](https://open.spotify.com/track/4EQBtJKfrG2HQq0wmtUp7f) | [elmss](https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY) | [Faded Nights](https://open.spotify.com/album/5EDNcIcS5DW3AwlITTrqQ3) | 2:32 |
-| 83 | [meanie](https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl \(stripped\)](https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl) | 4:08 |
+| 82 | [meanie](https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl \(stripped\)](https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl) | 4:08 |
+| 83 | [faded nights](https://open.spotify.com/track/4EQBtJKfrG2HQq0wmtUp7f) | [elmss](https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY) | [Faded Nights](https://open.spotify.com/album/5EDNcIcS5DW3AwlITTrqQ3) | 2:32 |
 | 84 | [Alice From Dallas](https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:57 |
 | 85 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 |
 | 86 | [Blume](https://open.spotify.com/track/3y1cSOZebGaS2IbEYLOiZ4) | [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Blume](https://open.spotify.com/album/7JmSCHwa1C3EpuODQlVl8Z) | 2:46 |
 | 87 | [Pigeon Park](https://open.spotify.com/track/0knziThQwlD4Q4qL4zmZTx) | [parthenope](https://open.spotify.com/artist/6GjXQmzl9dSNUpYpyFJKY0) | [Go Somewhere Alone](https://open.spotify.com/album/4yZseWXhqhU4n2G9kgnnwQ) | 2:40 |
-| 88 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 |
-| 89 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
+| 88 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
+| 89 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 |
 | 90 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
 | 91 | [YOUR TIME](https://open.spotify.com/track/5CL1TTzZgQOmoQYsqATA69) | [Willow Newman](https://open.spotify.com/artist/4fehG12QmJ1wBVh9fW9Y3O), [Hana](https://open.spotify.com/artist/4xSqqiE4WmenAA3PHgfdlS) | [YOUR TIME](https://open.spotify.com/album/7IjOcqKt8gwd8A2QzJIgIB) | 2:54 |
 | 92 | [Deception](https://open.spotify.com/track/5sw2ThXRRmV7GzP2Lq87Ho) | [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [Deception](https://open.spotify.com/album/58LxxzRjLOZ86pSFZw2tz0) | 3:17 |

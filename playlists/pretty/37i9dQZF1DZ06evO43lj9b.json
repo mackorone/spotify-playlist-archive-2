@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16640,
+  "num_followers": 16643,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAABD9BjfSULTBdwTZ9MZPV4",
+  "snapshot_id": "ajCSAAAAAAD8s2EWsQq08OsNsQyQREJm",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 175213,
-      "name": "Aragon - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Champagne Kisses",
         "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 102812,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 175213,
+      "name": "Aragon - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 515840,
+      "name": "I Am Your Mind (Part 2)",
+      "url": "https://open.spotify.com/track/5BeYu3uJAMVZ5oyReLFupf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 329240,
       "name": "Vibin' W/Ayers",
       "url": "https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 515840,
-      "name": "I Am Your Mind (Part 2)",
-      "url": "https://open.spotify.com/track/5BeYu3uJAMVZ5oyReLFupf"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Exotic Dance - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgin Ubiquity II",
         "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 300280,
       "name": "Sunshine - Demo",
       "url": "https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Exotic Dance - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW"
     },
     {
       "added_at": null,
@@ -691,26 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Vibes",
-        "url": "https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W"
+        "name": "No Stranger To Love",
+        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
       },
       "artists": [
         {
-          "name": "Ferry Ultra",
-          "url": "https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD"
-        },
-        {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Emmaculate",
-          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
         }
       ],
-      "duration_ms": 205167,
-      "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
-      "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
+      "duration_ms": 492960,
+      "name": "Don't Stop The Feeling",
+      "url": "https://open.spotify.com/track/2YRaNRacKlIAOZd3iAfxGh"
     },
     {
       "added_at": null,
@@ -731,18 +723,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Stranger To Love",
-        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+        "name": "Dangerous Vibes",
+        "url": "https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W"
       },
       "artists": [
         {
+          "name": "Ferry Ultra",
+          "url": "https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD"
+        },
+        {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
         }
       ],
-      "duration_ms": 492960,
-      "name": "Don't Stop The Feeling",
-      "url": "https://open.spotify.com/track/2YRaNRacKlIAOZd3iAfxGh"
+      "duration_ms": 205167,
+      "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
+      "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
     },
     {
       "added_at": null,

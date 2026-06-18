@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Yammi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,467 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,475 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 18 | [Nitafanyaje](https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitafanyaje](https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK) | 4:43 |
 | 19 | [Nakuja \- Remix](https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nakuja \(Remix\)](https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338) | 4:05 |
 | 20 | [Staki Mazoea](https://open.spotify.com/track/51nUxYujKieQPIfSWmIQR7) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Dogo Mallo](https://open.spotify.com/artist/1I9za42Mp9BiwmgbjcjoNw), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Staki Mazoea](https://open.spotify.com/album/2CaJyxnM3Ar6i0lMiu8eV7) | 4:36 |
-| 21 | [Ungewezaje](https://open.spotify.com/track/4u1eyjnUORPm3GE9hLsFcR) | [Dogo Paten](https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9) | [Ungewezaje](https://open.spotify.com/album/07BT9Wmq8cYs6DPCMTEQhW) | 2:45 |
-| 22 | [Naoa](https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Naoa](https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2) | 3:57 |
+| 21 | [Naoa](https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Naoa](https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2) | 3:57 |
+| 22 | [Ungewezaje](https://open.spotify.com/track/4u1eyjnUORPm3GE9hLsFcR) | [Dogo Paten](https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9) | [Ungewezaje](https://open.spotify.com/album/07BT9Wmq8cYs6DPCMTEQhW) | 2:45 |
 | 23 | [Gharama](https://open.spotify.com/track/6cn01Swy0waWynPq386WBp) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Gharama](https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz) | 3:31 |
 | 24 | [Last Interview](https://open.spotify.com/track/1x3SmVb5UR7p7plLSQv7cv) | [Munta Dee](https://open.spotify.com/artist/6P2ehN5mPy3wrBQaPUYbv5) | [Last Interview](https://open.spotify.com/album/2gn1o5Gx0rNMX3FZ6DmDK7) | 3:17 |
 | 25 | [Toilet](https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8) | [Kontawa](https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk) | [Toilet](https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD) | 3:48 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 67 | [Makombolelo singeli version](https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs) | [Mazegele Boy](https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ) | [Makombolelo singeli version](https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb) | 2:13 |
 | 68 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 |
 | 69 | [Chura](https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9) | [Chura](https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm) | 4:32 |
-| 70 | [Rudi Tena](https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1) | [Ten Ballz](https://open.spotify.com/artist/67iMSibGgkEzemZCjlUHOz), [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13), [Dj pacheko midundo](https://open.spotify.com/artist/26SAE5mEh0Cs7DJgSQk2SU), [Banx](https://open.spotify.com/artist/0BRornhoWDjWs0PP7Iw9va) | [Rudi Tena](https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa) | 3:46 |
-| 71 | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR) | 4:39 |
+| 70 | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR) | 4:39 |
+| 71 | [Rudi Tena](https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1) | [Ten Ballz](https://open.spotify.com/artist/67iMSibGgkEzemZCjlUHOz), [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13), [Dj pacheko midundo](https://open.spotify.com/artist/26SAE5mEh0Cs7DJgSQk2SU), [Banx](https://open.spotify.com/artist/0BRornhoWDjWs0PP7Iw9va) | [Rudi Tena](https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa) | 3:46 |
 | 72 | [Maokoto](https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Maokoto](https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG) | 2:34 |
 | 73 | [Shobo](https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Shobo](https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ) | 3:06 |
 | 74 | [Mama Samia](https://open.spotify.com/track/6yiMBUbTgySnOMVPVyvIJZ) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Mama Samia](https://open.spotify.com/album/0XN125dECgTZxpcDG1XoNk) | 5:00 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 86755,
+  "num_followers": 86812,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABrzNH6WM9hUKnL3zQhomz6",
+  "snapshot_id": "ajCSAAAAAAAp/bkHYbYRrfQN4xbZD6mZ",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy De Agiabampo",
-        "url": "https://open.spotify.com/album/5kht3kei1benxfOUNZWycV"
+        "name": "Sin Perder El Estilo",
+        "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
       "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 214500,
-      "name": "Soy De Agiabampo",
-      "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"
+      "duration_ms": 226154,
+      "name": "Contra Mis Principios",
+      "url": "https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Perder El Estilo",
-        "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
+        "name": "Soy De Agiabampo",
+        "url": "https://open.spotify.com/album/5kht3kei1benxfOUNZWycV"
       },
       "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 226154,
-      "name": "Contra Mis Principios",
-      "url": "https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL"
+      "duration_ms": 214500,
+      "name": "Soy De Agiabampo",
+      "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Aroma a Alcohol",
-        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Con Aroma A Alcohol - Version Banda",
-      "url": "https://open.spotify.com/track/2xhzEoGcFBLtJT2wH9CKE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Conquista",
         "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 180050,
       "name": "Soy La Suerte",
       "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Aroma a Alcohol",
+        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Con Aroma A Alcohol - Version Banda",
+      "url": "https://open.spotify.com/track/2xhzEoGcFBLtJT2wH9CKE5"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "Sabe Lo Que Trae",
-      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Adelante",
         "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 195242,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 179050,
+      "name": "Sabe Lo Que Trae",
+      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "La Fuga del Jefe",
-      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "La Fuga del Jefe",
+      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Sierre\u00f1as Con Revolver Cannabis",
-        "url": "https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6"
-      },
-      "artists": [
-        {
-          "name": "Revolver Cannabis",
-          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Cuento Chino",
-      "url": "https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 179905,
       "name": "The King of Ice",
       "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joyas Sierre\u00f1as Con Revolver Cannabis",
+        "url": "https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6"
+      },
+      "artists": [
+        {
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Cuento Chino",
+      "url": "https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe"
     },
     {
       "added_at": null,

@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "12 Steps",
+        "url": "https://open.spotify.com/album/1aMq6S4AtfLlzrvKGkXdHp"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191423,
+      "name": "12 Steps (feat. Treaty Oak Revival)",
+      "url": "https://open.spotify.com/track/6RoaWAoHb5KxdBXUlzx6ls"
+    },
+    {
+      "album": {
         "name": "2SIDED",
         "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
       },
@@ -658,7 +680,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 202219,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
@@ -850,6 +872,24 @@
       "duration_ms": 242200,
       "name": "Better If Worse",
       "url": "https://open.spotify.com/track/4MduHHf1IuHCh6Gl5cVL31"
+    },
+    {
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183228,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
     },
     {
       "album": {
@@ -1066,7 +1106,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 217026,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5TG4PLHEIZPiUlK4osfFcm"
@@ -1124,7 +1164,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 183693,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro"
@@ -1182,7 +1222,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 192832,
       "name": "Burn The Hard Drive (feat. Mura Masa)",
       "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
@@ -1603,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Birthday Boy",
+        "url": "https://open.spotify.com/album/72Z77w5eAZSVabS99doBbx"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184768,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/5FEA5vTR5TsxcS6ND10kNq"
+    },
+    {
+      "album": {
         "name": "Creatures In Heaven",
         "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
       },
@@ -1903,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169024,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
+    },
+    {
+      "album": {
         "name": "Time Will Wait For No One",
         "url": "https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y"
       },
@@ -2026,6 +2102,24 @@
       "duration_ms": 184920,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/13P90bXVlTD3WGBTMV0sxp"
+    },
+    {
+      "album": {
+        "name": "Don't Lie",
+        "url": "https://open.spotify.com/album/1UKOVuWSsajyHrG1EwtZZI"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178650,
+      "name": "Don\u2019t Lie",
+      "url": "https://open.spotify.com/track/4cEC3ENYWqhXjOtmvCSxij"
     },
     {
       "album": {
@@ -2472,7 +2566,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 187506,
       "name": "Flake",
       "url": "https://open.spotify.com/track/0VWV373XFV4xpX2s6bQS9n"
@@ -2692,7 +2786,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 204240,
       "name": "Fruit",
       "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
@@ -3045,6 +3139,46 @@
     },
     {
       "album": {
+        "name": "Hardy (feat. Clairo)",
+        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233160,
+      "name": "Hardy (feat. Clairo)",
+      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
+    },
+    {
+      "album": {
+        "name": "WIRED",
+        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206780,
+      "name": "Head Alight",
+      "url": "https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk"
+    },
+    {
+      "album": {
         "name": "Heart To Heart",
         "url": "https://open.spotify.com/album/7K59JMBaDefg9AjOWhkSem"
       },
@@ -3056,7 +3190,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 169646,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/0ReAOLM3cKp3OQktV32ruJ"
@@ -3409,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "Holy Grail",
+        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
+    },
+    {
+      "album": {
         "name": "Lady Lou",
         "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
       },
@@ -3460,7 +3612,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 293037,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
@@ -3738,7 +3890,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 195038,
       "name": "IFK (i fucking know)",
       "url": "https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD"
@@ -3846,7 +3998,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 225231,
       "name": "Inside Your Mind",
       "url": "https://open.spotify.com/track/5XwJIGnCtQqASIMdcbhbx1"
@@ -4142,7 +4294,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 198789,
       "name": "Killer Queen (What I Need)",
       "url": "https://open.spotify.com/track/02RJ5dskUzptI7vFRMKw3J"
@@ -4658,7 +4810,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 263786,
       "name": "Middle Class Dream",
       "url": "https://open.spotify.com/track/6eUuwMYJv8p68UGT5u4FZS"
@@ -5827,6 +5979,24 @@
     },
     {
       "album": {
+        "name": "Ride Lonesome",
+        "url": "https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272878,
+      "name": "Ride Lonesome",
+      "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
+    },
+    {
+      "album": {
         "name": "Run Away to Mars",
         "url": "https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W"
       },
@@ -5964,7 +6134,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 153746,
       "name": "Scared",
       "url": "https://open.spotify.com/track/0pyoALipqEy5mQ0RN4UAsI"
@@ -6551,6 +6721,24 @@
     },
     {
       "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
+    },
+    {
+      "album": {
         "name": "Stars Are on Your Side",
         "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
@@ -6839,6 +7027,24 @@
     },
     {
       "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
+    },
+    {
+      "album": {
         "name": "The Million Masks Of God",
         "url": "https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B"
       },
@@ -7001,6 +7207,24 @@
     },
     {
       "album": {
+        "name": "the feeling",
+        "url": "https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275936,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S"
+    },
+    {
+      "album": {
         "name": "The Fences of Stonehenge",
         "url": "https://open.spotify.com/album/2OdyVeAmuM7NKo9zgWx215"
       },
@@ -7070,6 +7294,24 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "album": {
+        "name": "untitled.jpeg",
+        "url": "https://open.spotify.com/album/67y4FE0buC45wGLltGEi25"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232758,
+      "name": "the precipice",
+      "url": "https://open.spotify.com/track/7HFA3UBP3nUyjZtDtQ4ml7"
     },
     {
       "album": {
@@ -7689,6 +7931,28 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Robert Smith",
+          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "what\u2019s wrong with me",
+      "url": "https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh"
+    },
+    {
+      "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
       },
@@ -7996,7 +8260,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 177679,
       "name": "Your Life Your Time - Acoustic",
       "url": "https://open.spotify.com/track/33whXaknBDUx53evCaViv1"

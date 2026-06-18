@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 402951,
+  "num_followers": 402970,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Moss",
+        "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "duration_ms": 171470,
+      "name": "Moss",
+      "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Laika.",
         "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 180458,
       "name": "Laika.",
       "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Moss",
-        "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
-      },
-      "artists": [
-        {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
-        }
-      ],
-      "duration_ms": 171470,
-      "name": "Moss",
-      "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
     },
     {
       "added_at": "2024-08-09 18:28:29",

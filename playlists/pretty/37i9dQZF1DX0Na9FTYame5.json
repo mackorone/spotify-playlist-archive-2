@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 573844,
+  "num_followers": 573793,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Benzin",
-        "url": "https://open.spotify.com/album/3PBuFvcyS2PPcOPc17P0AT"
-      },
-      "artists": [
-        {
-          "name": "Mucco",
-          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
-        }
-      ],
-      "duration_ms": 156617,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/3BjFI5GwXcgZHtW0n9bdrZ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "ich brauch dich",
         "url": "https://open.spotify.com/album/1tpnNdKuNwIIL3AlTGWo6Q"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 168727,
       "name": "Geboren um zu leben",
       "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/3PBuFvcyS2PPcOPc17P0AT"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "duration_ms": 156617,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/3BjFI5GwXcgZHtW0n9bdrZ"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 216201,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Die Hoffnung klaut mir Niemand",
         "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 174026,
       "name": "Die Sonne",
       "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 216201,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "21 Gramm",
-        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 181778,
-      "name": "Ein Lied f\u00fcr dich",
-      "url": "https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Alle Risse heilen",
         "url": "https://open.spotify.com/album/6R9KVt9WZlG4GogbmYShTk"
       },
@@ -755,18 +739,38 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "nur f\u00fcr dich",
-        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
       },
       "artists": [
         {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
         }
       ],
-      "duration_ms": 147692,
-      "name": "nur f\u00fcr dich",
-      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
+      "duration_ms": 181778,
+      "name": "Ein Lied f\u00fcr dich",
+      "url": "https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "nie wieder normal",
+        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "duration_ms": 197618,
+      "name": "nie wieder normal",
+      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -783,6 +787,22 @@
       "duration_ms": 179032,
       "name": "Weg hier raus",
       "url": "https://open.spotify.com/track/0cSyRUIjVZh1sUIGBhWdWp"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "nur f\u00fcr dich",
+        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
+      },
+      "artists": [
+        {
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "nur f\u00fcr dich",
+      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -855,26 +875,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        }
-      ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "ALTE BILDER",
         "url": "https://open.spotify.com/album/1HSwhh2OtINcZNFU6OG2FL"
       },
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 140235,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Ruf mich an",
         "url": "https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK"
       },
@@ -951,18 +967,34 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
       },
       "artists": [
         {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
         }
       ],
-      "duration_ms": 140235,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -987,38 +1019,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "wie du manchmal fehlst",
         "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 131773,
       "name": "wie du manchmal fehlst",
       "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "PECH",
-        "url": "https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 139012,
-      "name": "Ohne Dach",
-      "url": "https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Simpel",
-        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
+        "name": "PECH",
+        "url": "https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
         }
       ],
-      "duration_ms": 163306,
-      "name": "Simpel",
-      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
+      "duration_ms": 139012,
+      "name": "Ohne Dach",
+      "url": "https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "Simpel",
+        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Simpel",
+      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Garten vorm Haus",
         "url": "https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 114705,
       "name": "Garten vorm Haus",
       "url": "https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 174745,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1183,22 +1199,6 @@
       "duration_ms": 175218,
       "name": "OHNE DICH",
       "url": "https://open.spotify.com/track/7x0s3muKqhVtxqXpk9RhvR"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Dunya",
-        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 174745,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "Wegen dir",
+        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Wegen dir",
+      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Fremder Mann",
         "url": "https://open.spotify.com/album/4yURqlXD0uHzw8bvTgemOO"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 163501,
       "name": "Fremder Mann",
       "url": "https://open.spotify.com/track/5Mduvr7sXDbkXh5rBDLBZg"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Wegen dir",
-        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Wegen dir",
-      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Eh zu kurz",
-        "url": "https://open.spotify.com/album/6fDwn30tXqPNrSypjqPh0G"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        },
-        {
-          "name": "GReeeN",
-          "url": "https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd"
-        }
-      ],
-      "duration_ms": 144120,
-      "name": "Eh zu kurz",
-      "url": "https://open.spotify.com/track/29ubUu1EekkAvy3H2hxNNC"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Weg zu weit",
         "url": "https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag"
       },
@@ -1527,18 +1507,22 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Wenn es regnet",
-        "url": "https://open.spotify.com/album/6z904C0mk8NJa8XSiEu5C0"
+        "name": "Eh zu kurz",
+        "url": "https://open.spotify.com/album/6fDwn30tXqPNrSypjqPh0G"
       },
       "artists": [
         {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        },
+        {
+          "name": "GReeeN",
+          "url": "https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd"
         }
       ],
-      "duration_ms": 112679,
-      "name": "Wenn es regnet",
-      "url": "https://open.spotify.com/track/5HTzGYpdqc0rZzLiByZC4Q"
+      "duration_ms": 144120,
+      "name": "Eh zu kurz",
+      "url": "https://open.spotify.com/track/29ubUu1EekkAvy3H2hxNNC"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1615,6 +1599,22 @@
       "duration_ms": 169842,
       "name": "King",
       "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Wenn es regnet",
+        "url": "https://open.spotify.com/album/6z904C0mk8NJa8XSiEu5C0"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "duration_ms": 112679,
+      "name": "Wenn es regnet",
+      "url": "https://open.spotify.com/track/5HTzGYpdqc0rZzLiByZC4Q"
     },
     {
       "added_at": "2026-06-11 22:00:53",

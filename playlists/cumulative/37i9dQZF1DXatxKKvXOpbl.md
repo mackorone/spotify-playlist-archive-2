@@ -4,10 +4,11 @@
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-176 songs - 10 hr 21 min
+177 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Be Here Now](https://open.spotify.com/track/1Yezb8mqZ3QYFpl00LAPNS) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/5m0T2ht3aTRDHterMVnyn4) | 3:39 | 2021-03-05 |  |
 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 | 2021-03-05 | 2023-05-17 |
 | [Be Here Now](https://open.spotify.com/track/6OH5NhqBkwfpKZzDJJ0hWV) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/3BJFYAGdweQ21jeCSQ1Va9) | 3:39 | 2022-10-14 | 2022-11-13 |
@@ -105,7 +106,7 @@
 | [Movimento \- Spotify Singles](https://open.spotify.com/track/6SMH0vJtez9fJmg3Nh2heG) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/7C5Wqc2KWxxTvRg6UmcxSU) | 2:38 | 2023-06-02 | 2024-04-19 |
 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2021-03-05 |  |
 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q) | 2:59 | 2021-03-05 |  |
-| [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2021-03-05 |  |
+| [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2021-03-05 | 2026-06-18 |
 | [Never Had](https://open.spotify.com/track/6BUZERWFUMJmiWyMW0qH1p) | [Forrest.](https://open.spotify.com/artist/5yrRlGYUD2YOP8DPtGyVmu) | [Never Had](https://open.spotify.com/album/2ZvYrGPgoLTN7SM7JAys7V) | 2:32 | 2021-03-05 | 2024-10-11 |
 | [Never Had](https://open.spotify.com/track/5jeJAGkbqV48o54q07RQHU) | [Forrest.](https://open.spotify.com/artist/5yrRlGYUD2YOP8DPtGyVmu) | [Effortless](https://open.spotify.com/album/1fra8bgX4AeYcPwaWovzBm) | 2:33 | 2023-06-02 | 2023-10-23 |
 | [Never Not](https://open.spotify.com/track/1XyYyfR9JaWCFzf0AyOsyl) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~I MISS YOU\~](https://open.spotify.com/album/1VyxpCBlTNsOb2f7HN3XAL) | 3:28 | 2022-10-14 | 2022-11-14 |

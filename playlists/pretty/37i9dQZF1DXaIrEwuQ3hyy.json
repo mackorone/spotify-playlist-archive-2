@@ -1,6 +1,6 @@
 {
   "description": "sommerurlaub f\u00fcr zwischendurch \u26f1\ufe0f",
-  "num_followers": 1097904,
+  "num_followers": 1097926,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Ride It Out",
-        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Ride It Out",
-      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Ozean",
         "url": "https://open.spotify.com/album/4AFH1ZeMsq5MSwgOqYfZVv"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "SHIVER",
-        "url": "https://open.spotify.com/album/3MwbiuKnRS79mDoQjjyA8H"
+        "name": "Ride It Out",
+        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
       },
       "artists": [
         {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 210000,
-      "name": "SHIVER",
-      "url": "https://open.spotify.com/track/4ggoW4LKonBMecWMS1VDlK"
+      "duration_ms": 209000,
+      "name": "Ride It Out",
+      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -715,22 +699,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/1FpxFs3YgX34FKfEb8KbuN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 207676,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/4GTd137gJz6LFQI3RFpQT5"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81"
       },
@@ -747,6 +715,38 @@
       "duration_ms": 214459,
       "name": "Till the Morning",
       "url": "https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/1FpxFs3YgX34FKfEb8KbuN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 207676,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/4GTd137gJz6LFQI3RFpQT5"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "SHIVER",
+        "url": "https://open.spotify.com/album/3MwbiuKnRS79mDoQjjyA8H"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "SHIVER",
+      "url": "https://open.spotify.com/track/4ggoW4LKonBMecWMS1VDlK"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 204467,
+      "name": "Karaoke Bar",
+      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
         "name": "Empty Of You",
         "url": "https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 212483,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
-        "name": "Karaoke Bar",
-        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 204467,
-      "name": "Karaoke Bar",
-      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
+        "name": "When A Good Man Cries",
+        "url": "https://open.spotify.com/album/2QAkD0UQPequuKUym51naj"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/32EMc8jknohqZlNSM6gtj7"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/50EZwVxvU2MKMV3KzDNxUm"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
-        "name": "When A Good Man Cries",
-        "url": "https://open.spotify.com/album/2QAkD0UQPequuKUym51naj"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/32EMc8jknohqZlNSM6gtj7"
     },
     {
       "added_at": "2026-06-11 22:01:19",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-06-11 22:01:19",
       "album": {
-        "name": "eat some pasta",
-        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00ebl & Jonas",
-          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
-        }
-      ],
-      "duration_ms": 141762,
-      "name": "eat some pasta",
-      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
-    },
-    {
-      "added_at": "2026-06-11 22:01:19",
-      "album": {
         "name": "Morning Birds",
         "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 287000,
       "name": "Morning Birds",
       "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
+    },
+    {
+      "added_at": "2026-06-11 22:01:19",
+      "album": {
+        "name": "eat some pasta",
+        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
+        }
+      ],
+      "duration_ms": 141762,
+      "name": "eat some pasta",
+      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
     },
     {
       "added_at": "2026-06-11 22:01:19",

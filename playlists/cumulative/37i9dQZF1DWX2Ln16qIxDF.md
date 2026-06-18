@@ -2,9 +2,9 @@
 
 ### [El Top 2026](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Canciones que tenés que escuchar  📸  La Joaqui & Angela Torres
+> Canciones que tenés que escuchar  📸 Olivia Rodrigo
 
-1,207 songs - 2 day 14 hr 6 min
+1,208 songs - 2 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,7 +821,7 @@
 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-06-01 | 2023-08-18 |
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-02-02 | 2025-05-03 |
 | [Piel Canela \(Casa Sole\)](https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Piel Canela \(Casa Sole\)](https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU) | 3:12 | 2025-12-05 | 2026-01-17 |
-| [PIENSO EN TI.](https://open.spotify.com/track/6P5J1CxWKrJLunXdSu5HRd) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [OMAKASE](https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2) | 3:28 | 2026-05-22 |  |
+| [PIENSO EN TI.](https://open.spotify.com/track/6P5J1CxWKrJLunXdSu5HRd) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [OMAKASE](https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2) | 3:28 | 2026-05-22 | 2026-06-18 |
 | [Pikito](https://open.spotify.com/track/4uincenPTAa44KUmUQXbQC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Pikito](https://open.spotify.com/album/5lGdVKuivIsUF4bNSqAUQe) | 3:24 | 2025-12-05 | 2026-01-30 |
 | [PING PONG](https://open.spotify.com/track/7z6D5C73DRMOp76BnNfKaa) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [LA RECETA DEL FLOW](https://open.spotify.com/album/5JuAmZktmDauKMWAUpYR88) | 2:29 | 2023-12-15 | 2024-01-05 |
 | [PISANDO EL LAMBO](https://open.spotify.com/track/6FucPjGxmA7jTblTsTAGyB) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [PISANDO EL LAMBO](https://open.spotify.com/album/296TjweoPpzQzgXW489zRe) | 2:43 | 2025-07-18 | 2025-08-23 |
@@ -999,6 +999,7 @@
 | [Soy Favela](https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Soy Favela](https://open.spotify.com/album/1S3ANUh7napknhM3pqConG) | 2:46 | 2025-12-05 | 2026-05-16 |
 | [Stop Crying Your Heart Out](https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T) | 5:03 | 2024-08-30 | 2024-10-05 |
 | [STRIPPER](https://open.spotify.com/track/1hPIeYETqSejbD6aqf2vS4) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [ELECTRA](https://open.spotify.com/album/2x76fsMOyFDwjqVLSS7sKf) | 2:46 | 2026-05-29 |  |
+| [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-17 |  |
 | [SUAVEMENTE](https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [SUAVEMENTE](https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT) | 2:22 | 2024-12-20 | 2025-09-06 |
 | [Subió la temperatura](https://open.spotify.com/track/500SatnJ4UXXmPff0LulZh) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [YO SOY LA MODA](https://open.spotify.com/album/1yNzO3pSJor6rZuhs3kgdG) | 3:06 | 2024-05-24 | 2024-06-08 |
 | [Suena en la Previa, Vol\. 2](https://open.spotify.com/track/0LswOwsXAfPYLGVwqRlNyW) | [Cumbia rocha](https://open.spotify.com/artist/5Szju6DGR9hcbFOJeXCN0x) | [Suena en la Previa, Vol\. 2](https://open.spotify.com/album/79eu6rhT9vJhTbPE0VERmD) | 4:12 | 2025-10-17 | 2026-02-14 |

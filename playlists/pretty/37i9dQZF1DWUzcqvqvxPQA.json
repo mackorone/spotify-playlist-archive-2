@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 33056,
+  "num_followers": 33065,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "God Is For Me",
-        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 164309,
-      "name": "God Is For Me",
-      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Hello Human",
         "url": "https://open.spotify.com/album/2fnesitdAJXRxbsv9fCThx"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 179843,
       "name": "Run",
       "url": "https://open.spotify.com/track/2CQPcqiBrGm19Gx2I2EqB2"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "God Is For Me",
+        "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 164309,
+      "name": "God Is For Me",
+      "url": "https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "The Sacrifice",
         "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 228215,
       "name": "The Sacrifice",
       "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN"
+      },
+      "artists": [
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "HELP!",
         "url": "https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6"
       },
@@ -579,18 +595,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+        "name": "No Problem",
+        "url": "https://open.spotify.com/album/3Yg6huueqSi6zCTUhVNwj0"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Dante' pride",
+          "url": "https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G"
+        },
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
         }
       ],
-      "duration_ms": 213912,
-      "name": "Turbulent Skies",
-      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
+      "duration_ms": 197485,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/3mbIcfHkyJmQgGbwxOVbui"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -611,26 +631,6 @@
       "duration_ms": 155744,
       "name": "So Divine",
       "url": "https://open.spotify.com/track/4c6wcbbG8NrOTNPJewWdUT"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "No Problem",
-        "url": "https://open.spotify.com/album/3Yg6huueqSi6zCTUhVNwj0"
-      },
-      "artists": [
-        {
-          "name": "Dante' pride",
-          "url": "https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G"
-        },
-        {
-          "name": "Porsha Love",
-          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
-        }
-      ],
-      "duration_ms": 197485,
-      "name": "No Problem",
-      "url": "https://open.spotify.com/track/3mbIcfHkyJmQgGbwxOVbui"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "give & take",
+        "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 206719,
+      "name": "give & take",
+      "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Sunshine & Laughter",
         "url": "https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 176239,
       "name": "Sunshine & Laughter",
       "url": "https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "give & take",
-        "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 206719,
-      "name": "give & take",
-      "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Always Summertime",
+        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Always Summertime",
+      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Always Summertime",
-        "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Always Summertime",
-      "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "FOOTSTOOL",
-        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 249750,
-      "name": "FOOTSTOOL",
-      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "FOUGHT 4 LOVE",
         "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 150000,
       "name": "FOUGHT 4 LOVE",
       "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "FOOTSTOOL",
+        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 249750,
+      "name": "FOOTSTOOL",
+      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Shine On Me",
+        "url": "https://open.spotify.com/album/1cUkumqdaoOmyJhI1Nk3Ak"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Shine On Me",
+      "url": "https://open.spotify.com/track/71wENgIM7IF7EtUCyvwIqZ"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Not For You",
         "url": "https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW"
       },
@@ -1159,22 +1179,18 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Shine On Me",
-        "url": "https://open.spotify.com/album/1cUkumqdaoOmyJhI1Nk3Ak"
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC"
       },
       "artists": [
         {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Shine On Me",
-      "url": "https://open.spotify.com/track/71wENgIM7IF7EtUCyvwIqZ"
+      "duration_ms": 197834,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1191,22 +1207,6 @@
       "duration_ms": 362346,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "This Love",
-        "url": "https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 197834,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "SUNSHINE",
+        "url": "https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR"
+      },
+      "artists": [
+        {
+          "name": "Jacob Stanifer",
+          "url": "https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl"
+        }
+      ],
+      "duration_ms": 187073,
+      "name": "SUNSHINE",
+      "url": "https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Joyful Melody",
         "url": "https://open.spotify.com/album/5VtWw50s1DqtIMzBR9kMeH"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 170400,
       "name": "Joyful Melody",
       "url": "https://open.spotify.com/track/69yAwdmV8VngYAYXNgbWrZ"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "SUNSHINE",
-        "url": "https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR"
-      },
-      "artists": [
-        {
-          "name": "Jacob Stanifer",
-          "url": "https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl"
-        }
-      ],
-      "duration_ms": 187073,
-      "name": "SUNSHINE",
-      "url": "https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4"
     },
     {
       "added_at": "2026-05-29 08:59:34",

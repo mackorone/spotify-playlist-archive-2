@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: K.S.Harisankar, Salim Sulaiman",
-  "num_followers": 40211,
+  "num_followers": 40214,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJAzhiQP3+31vJzGZRz9G8V8Dc11",
+  "snapshot_id": "AAAAAAGr35jAhVjHMS13Yb7xfBwDZeK9",
   "tracks": [
     {
       "added_at": "2026-01-16 09:26:59",
@@ -31,22 +31,6 @@
       "duration_ms": 324166,
       "name": "Khuda",
       "url": "https://open.spotify.com/track/3MdbyaX5P8fkgPrxEtfLwR"
-    },
-    {
-      "added_at": "2026-05-14 03:12:38",
-      "album": {
-        "name": "POORAM",
-        "url": "https://open.spotify.com/album/08PgQqnGdEZHzjsNIJcer5"
-      },
-      "artists": [
-        {
-          "name": "Linshy Collective",
-          "url": "https://open.spotify.com/artist/5j2qZ8BDBCYoR0CAoEhASI"
-        }
-      ],
-      "duration_ms": 234544,
-      "name": "POORAM",
-      "url": "https://open.spotify.com/track/3DbOifbuiNas99pgj22w2d"
     },
     {
       "added_at": "2026-04-20 06:15:37",
@@ -279,6 +263,46 @@
       "duration_ms": 158571,
       "name": "GOODALOJANAYA",
       "url": "https://open.spotify.com/track/141sTe0CBJX2mgT6ikbWvH"
+    },
+    {
+      "added_at": "2026-06-17 07:30:34",
+      "album": {
+        "name": "Mayathe",
+        "url": "https://open.spotify.com/album/1TG3y4oaT0MCY4TYu5jLSJ"
+      },
+      "artists": [
+        {
+          "name": "Shamil Zam",
+          "url": "https://open.spotify.com/artist/7vVrMdSlEEdk2boWellWJV"
+        },
+        {
+          "name": "Adz",
+          "url": "https://open.spotify.com/artist/0jTYDTKvLDBHL8Fi3gYnFc"
+        },
+        {
+          "name": "IRFAN",
+          "url": "https://open.spotify.com/artist/1FH0ZYX39KIwvIPgzLBFJP"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Mayathe",
+      "url": "https://open.spotify.com/track/61CKoHd3SA0JMm2DMqg72G"
+    },
+    {
+      "added_at": "2026-06-17 06:39:28",
+      "album": {
+        "name": "Neram",
+        "url": "https://open.spotify.com/album/6CmoEGF3Iv8AETYbfRyhY6"
+      },
+      "artists": [
+        {
+          "name": "Gokul Krishna",
+          "url": "https://open.spotify.com/artist/2OPRT7wn9WQ8EO3bdU7H9X"
+        }
+      ],
+      "duration_ms": 278238,
+      "name": "Neram",
+      "url": "https://open.spotify.com/track/74XdmBHCo8r06NTModpjqM"
     },
     {
       "added_at": "2026-01-23 12:36:11",

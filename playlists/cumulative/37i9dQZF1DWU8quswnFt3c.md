@@ -2,7 +2,7 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume\. Cover: KI/KI
+> Listen to women at full volume\. Cover: Sunidhi Chauhan
 
 3,006 songs - 6 day 22 hr 30 min
 

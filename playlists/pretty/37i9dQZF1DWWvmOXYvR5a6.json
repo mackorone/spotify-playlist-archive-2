@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: BANG YONGGUK(\ubc29\uc6a9\uad6d))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221964,
+  "num_followers": 221970,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIzXxtRFqxWnGB+C+WrUqnICHHsa",
+  "snapshot_id": "AAAAAG055QyBmFwXpMDj9kORWFQz5WIR",
   "tracks": [
     {
       "added_at": "2026-06-08 02:13:17",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "OST",
-        "url": "https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "OST ( Feat.CHANMINA )",
-      "url": "https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
         "name": "On the street",
         "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 209154,
       "name": "On the street (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
+        "name": "OST",
+        "url": "https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "OST ( Feat.CHANMINA )",
+      "url": "https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "duration_ms": 207523,
+      "name": "Error (Feat. Loopy)",
+      "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
         "name": "Beginning",
         "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 181173,
       "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
       "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        }
-      ],
-      "duration_ms": 207523,
-      "name": "Error (Feat. Loopy)",
-      "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 181629,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
         "name": "BLEND",
         "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 137546,
       "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
       "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 181629,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+      },
+      "artists": [
+        {
+          "name": "rosy",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+    },
+    {
+      "added_at": "2026-06-08 02:13:17",
+      "album": {
         "name": "6SEOUL",
         "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
       },
@@ -1303,18 +1319,22 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
       },
       "artists": [
         {
-          "name": "rosy",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+      "duration_ms": 189720,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -1335,26 +1355,6 @@
       "duration_ms": 189157,
       "name": "HATE ME (feat. youra) (prod. WOOGIE)",
       "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
-    },
-    {
-      "added_at": "2026-06-08 02:13:17",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
     },
     {
       "added_at": "2026-06-08 02:13:17",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2026-06-08 02:13:17",
       "album": {
-        "name": "staying",
-        "url": "https://open.spotify.com/album/0wt5vsju4vmgCbQ91SVAZo"
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         }
       ],
-      "duration_ms": 221813,
-      "name": "Homebody",
-      "url": "https://open.spotify.com/track/6MI31BOtD6AKOF0an4fP2H"
+      "duration_ms": 205003,
+      "name": "illa illa",
+      "url": "https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

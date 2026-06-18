@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-290 songs - 20 hr 28 min
+291 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Corner Of My Eye](https://open.spotify.com/track/6QALVDW1IdwKF2bAPKf0Wi) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Corner Of My Eye](https://open.spotify.com/album/4O2rzyeqhC7yOFMlYvfNfB) | 7:00 | 2026-01-23 | 2026-02-09 |
 | [Dawn Chorus](https://open.spotify.com/track/0F4EoaMJmWNz8vS8tKgsqY) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5a4VSyY7zsfVVqHweYHG7R) | 5:23 | 2021-03-16 | 2022-07-28 |
 | [Dawn Chorus](https://open.spotify.com/track/2iQPembmg5KvkqXU0sd6xo) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 5:23 | 2022-05-30 | 2024-04-19 |
-| [Daybreak](https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY) | [Thief Traveler](https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0) | [Daybreak](https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX) | 2:21 | 2025-04-17 |  |
+| [Daybreak](https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY) | [Thief Traveler](https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0) | [Daybreak](https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX) | 2:21 | 2025-04-17 | 2026-06-18 |
 | [Days Pass](https://open.spotify.com/track/1JqmT6TAm16oxJhL5MwiwI) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [13 Voices EP](https://open.spotify.com/album/66dgjRn8ntnVt2NpYtcRbF) | 3:42 | 2020-06-12 | 2022-07-16 |
 | [Did U Know I Cannot Die](https://open.spotify.com/track/30vde6LkBJgPlribyDY9nC) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Butterfly Arcane](https://open.spotify.com/album/0gZicdDIryFSQl8Hzu7J87) | 5:40 | 2020-06-10 | 2022-07-20 |
 | [Diving](https://open.spotify.com/track/5yvebIe0Qv4tatS9P84Sg6) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Beats & Pieces II](https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac) | 3:20 | 2026-04-30 | 2026-05-13 |
@@ -75,6 +75,7 @@
 | [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 | 2021-03-19 | 2026-05-01 |
 | [Drowning](https://open.spotify.com/track/7gw6R8syjMYMkcdLNubFPu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Drowning](https://open.spotify.com/album/1Y9kWCOmN77yxC2io3A8D9) | 3:45 | 2021-03-16 | 2022-06-09 |
 | [Earth \- Edit](https://open.spotify.com/track/1d4Bj6OXYW2EKkOvlTME3C) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [Earth](https://open.spotify.com/album/1rvqEamId9eBnnyFDVpb3y) | 3:50 | 2020-06-05\* | 2022-07-15 |
+| [Easy Come Easy Go](https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl) | [Tilja](https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4) | [Easy Come Easy Go](https://open.spotify.com/album/6cDvB29D9ewom7OO9zb18T) | 1:53 | 2026-05-29 |  |
 | [Electrian](https://open.spotify.com/track/6351qyccfDeVbjSgIR7Yvq) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/5gCTPWjMbIIp7XaUkZV5UO) | 6:52 | 2020-06-05 | 2022-07-16 |
 | [Eleven](https://open.spotify.com/track/43xkvx0JTUd4x4mAJm79H4) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Eleven](https://open.spotify.com/album/10dumwLFKAySOp08qSpdom) | 5:40 | 2025-10-03 | 2025-10-08 |
 | [Escape](https://open.spotify.com/track/20cNDRUVuayveIRgcYdwYL) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [Escape EP](https://open.spotify.com/album/6oc7OKNAXGt9qOpBoekO3t) | 4:49 | 2021-12-07 | 2024-03-01 |

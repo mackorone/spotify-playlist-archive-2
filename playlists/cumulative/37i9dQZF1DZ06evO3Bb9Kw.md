@@ -4,7 +4,7 @@
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-117 songs - 6 hr 47 min
+118 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,10 +92,11 @@
 | [Roots and Wings](https://open.spotify.com/track/7pEZg5eWtQxsVFpMj1Nh6D) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Roots and Wings](https://open.spotify.com/album/1BQCqAXISZloavJj6Ze38h) | 4:55 | 2022-09-08 | 2022-10-13 |
 | [Run](https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 2:43 | 2024-09-15 |  |
 | [Runnin' Just in Case](https://open.spotify.com/track/2VcOFBxrP18VnGgNNr6CTx) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:33 | 2022-09-08 | 2022-10-13 |
-| [Santa Fe](https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:03 | 2024-09-15 |  |
+| [Santa Fe](https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:03 | 2024-09-15 | 2026-06-18 |
 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 | 2022-09-08 |  |
 | [Smokin' and Drinkin' \(feat\. Little Big Town\)](https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 5:30 | 2022-09-08 | 2024-08-10 |
 | [Smokin' and Drinkin' \- Commentary](https://open.spotify.com/track/1F5XzECYlqNC38etC41rVF) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum Spotify Commentary](https://open.spotify.com/album/3KA9nD37o4VCO1UpyzVAF4) | 0:38 | 2024-06-25 | 2024-06-27 |
+| [Someone Else’s Arms \(ft\. Miranda Lambert\)](https://open.spotify.com/track/5m0dWNggsT8N7MUs1Qu69M) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Someone Else's Arms](https://open.spotify.com/album/3qv7PjVXcJZYMGIxl2uDkO) | 3:50 | 2026-06-18 |  |
 | [Somethin' Bad \(with Carrie Underwood\)](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2022-09-08 |  |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-24 | 2026-05-17 |
 | [Still That Cowboy \(feat\. Miranda Lambert\)](https://open.spotify.com/track/1JPdtYnnWIIuHUsTfmtvKU) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Still That Cowboy \(feat\. Miranda Lambert\)](https://open.spotify.com/album/1hzGcSEv6qkgmOxFImQWwq) | 3:34 | 2024-11-24 | 2025-02-17 |

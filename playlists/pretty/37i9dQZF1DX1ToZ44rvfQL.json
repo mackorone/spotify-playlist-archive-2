@@ -1,6 +1,6 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 522779,
+  "num_followers": 522800,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-04-17 18:39:57",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 261971,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
-    },
-    {
-      "added_at": "2026-04-17 18:39:57",
-      "album": {
         "name": "Barrilete",
         "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 279920,
       "name": "Bastar\u00e1",
       "url": "https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF"
+    },
+    {
+      "added_at": "2026-04-17 18:39:57",
+      "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 261971,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
     },
     {
       "added_at": "2026-04-17 18:39:57",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-04-17 18:39:57",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2026-04-17 18:39:57",
-      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2026-04-17 18:39:57",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2026-04-17 18:39:57",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-04-17 18:39:57",
       "album": {
-        "name": "Gustavo Cordera en la Caravana M\u00e1gica",
-        "url": "https://open.spotify.com/album/0UCseD0dUTpyBtDKAM4my1"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cordera",
-          "url": "https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i"
-        }
-      ],
-      "duration_ms": 330520,
-      "name": "La Bomba Loca",
-      "url": "https://open.spotify.com/track/2ETAQQzVNh9oSkpn0Jb9on"
-    },
-    {
-      "added_at": "2026-04-17 18:39:57",
-      "album": {
         "name": "En Vivo Gran Rex",
         "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 250426,
       "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
       "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
+    },
+    {
+      "added_at": "2026-04-17 18:39:57",
+      "album": {
+        "name": "Gustavo Cordera en la Caravana M\u00e1gica",
+        "url": "https://open.spotify.com/album/0UCseD0dUTpyBtDKAM4my1"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cordera",
+          "url": "https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i"
+        }
+      ],
+      "duration_ms": 330520,
+      "name": "La Bomba Loca",
+      "url": "https://open.spotify.com/track/2ETAQQzVNh9oSkpn0Jb9on"
     },
     {
       "added_at": "2026-04-17 18:39:57",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-04-17 18:39:57",
       "album": {
-        "name": "La Ciudad Liberada",
-        "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 252867,
-      "name": "Tu Vida Mi Vida",
-      "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
-    },
-    {
-      "added_at": "2026-04-17 18:39:57",
-      "album": {
         "name": "El Costado Izquierdo",
         "url": "https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2026-04-17 18:39:57",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+        "name": "La Ciudad Liberada",
+        "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
       },
       "artists": [
         {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Rock and Roll y Fiebre",
-      "url": "https://open.spotify.com/track/6SsOtB41HPvZdEFjtLUhop"
+      "duration_ms": 252867,
+      "name": "Tu Vida Mi Vida",
+      "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
     },
     {
       "added_at": "2026-04-17 18:39:57",
@@ -1627,6 +1611,22 @@
       "duration_ms": 226181,
       "name": "TIEMPO OFF",
       "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
+    },
+    {
+      "added_at": "2026-04-17 18:39:57",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Rock and Roll y Fiebre",
+      "url": "https://open.spotify.com/track/6SsOtB41HPvZdEFjtLUhop"
     },
     {
       "added_at": "2026-04-17 18:39:57",

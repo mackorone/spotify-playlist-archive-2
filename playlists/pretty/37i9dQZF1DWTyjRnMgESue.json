@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 89114,
+  "num_followers": 89112,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
+        "name": "Sue me",
+        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Sue me",
-        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 214617,
       "name": "Burn Me",
       "url": "https://open.spotify.com/track/3diMgXk3RxGChNwsAVqyIL"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -811,38 +827,18 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Walking Through The Water",
-        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
         }
       ],
-      "duration_ms": 301376,
-      "name": "Walking Through The Water",
-      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "Hen's Teeth",
-        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        },
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 225231,
-      "name": "Wait Up (feat. I'm With Her)",
-      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
+      "duration_ms": 230260,
+      "name": "5 More Minutes",
+      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -863,18 +859,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "I Know What I Want",
-        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
+        "name": "Hen's Teeth",
+        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
         }
       ],
-      "duration_ms": 230260,
-      "name": "5 More Minutes",
-      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
+      "duration_ms": 225231,
+      "name": "Wait Up (feat. I'm With Her)",
+      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Anytime, Anyplace, Anyhow",
-        "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 227147,
-      "name": "Anytime, Anyplace, Anyhow",
-      "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
+      "duration_ms": 239895,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1031,50 +1031,18 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+        "name": "Anytime, Anyplace, Anyhow",
+        "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         }
       ],
-      "duration_ms": 239895,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "Getting By",
-        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Troubled Water",
-      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "Never Notice",
-        "url": "https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Never Notice",
-      "url": "https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh"
+      "duration_ms": 227147,
+      "name": "Anytime, Anyplace, Anyhow",
+      "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1095,18 +1063,34 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+        "name": "Never Notice",
+        "url": "https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
         }
       ],
-      "duration_ms": 190923,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
+      "duration_ms": 238466,
+      "name": "Never Notice",
+      "url": "https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Getting By",
+        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1123,6 +1107,22 @@
       "duration_ms": 287063,
       "name": "Matches & Gasoline",
       "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 190923,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
+        "name": "Achilles",
+        "url": "https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "duration_ms": 191349,
+      "name": "Call of Duty",
+      "url": "https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
         "name": "You and Me Time",
         "url": "https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Achilles",
-        "url": "https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
-        }
-      ],
-      "duration_ms": 191349,
-      "name": "Call of Duty",
-      "url": "https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "tell me something",
         "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "I Talk About You",
-        "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "I Talk About You",
-      "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Collarbones",
         "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 180947,
       "name": "Collarbones",
       "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "I Talk About You",
+        "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 210430,
+      "name": "I Talk About You",
+      "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "World's Greatest Lover",
-        "url": "https://open.spotify.com/album/0O0aqyZzpU9HSnxLkoZhkn"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 198681,
-      "name": "World's Greatest Lover",
-      "url": "https://open.spotify.com/track/72MaHk87Y002Si9fvC5bXt"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Bus Back To Richmond / More Than Friends",
         "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 174744,
       "name": "Bus Back To Richmond",
       "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "World's Greatest Lover",
+        "url": "https://open.spotify.com/album/0O0aqyZzpU9HSnxLkoZhkn"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 198681,
+      "name": "World's Greatest Lover",
+      "url": "https://open.spotify.com/track/72MaHk87Y002Si9fvC5bXt"
     },
     {
       "added_at": "2026-05-15 15:12:25",

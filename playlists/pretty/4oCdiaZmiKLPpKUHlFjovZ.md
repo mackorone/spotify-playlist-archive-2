@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring Fenix Flexin, Shaboozey, LUCKI &amp; more.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,554 likes - 102 songs - 4 hr 46 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,549 likes - 102 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 17 | [Ice Hound](https://open.spotify.com/track/3NMZBauh9NhD6nmdZCda6r) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Ice Hound](https://open.spotify.com/album/6SEWgVINLDxOVMdrEH9avp) | 1:32 |
 | 18 | [WORSHIP](https://open.spotify.com/track/20KiwQQUDsuzAC8AZQJq26) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:43 |
 | 19 | [How You Doin](https://open.spotify.com/track/0Yjgd8eNWNXZ6o0HK5HW2J) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [How You Doin](https://open.spotify.com/album/6uFIROsbRaSoePvaq2IkJL) | 1:40 |
-| 20 | [Trauma Bond](https://open.spotify.com/track/4FBweKWPMAJyqjOqwlaxN9) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trauma Bond](https://open.spotify.com/album/6svobbo5wMTqnZX9D62c80) | 2:43 |
+| 20 | [Trauma Bond \(feat\. Marching Crimson Pipers\)](https://open.spotify.com/track/4FBweKWPMAJyqjOqwlaxN9) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Marching Crimson Pipers](https://open.spotify.com/artist/24D3dDW0nd3SlK3YEpltJR) | [Trauma Bond \(feat\. Marching Crimson Pipers\)](https://open.spotify.com/album/6svobbo5wMTqnZX9D62c80) | 2:43 |
 | 21 | [ALL FLATS](https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [ALL FLATS](https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo) | 1:56 |
 | 22 | [1 Umbrella \(feat\. ALLBLACK & 22nd Jim\)](https://open.spotify.com/track/5lU1b02ar5sLIwFt8Eocmx) | [1 Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [1 Umbrella](https://open.spotify.com/album/6D1sKLmOx3I9fJDteJaety) | 3:04 |
 | 23 | [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 134224,
+  "num_followers": 134225,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABZm11xYNNd7v1vd2SXccCX",
+  "snapshot_id": "ajCSAAAAAACmXdYyIzXSLw2Nh02W6Qzb",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 146893,
-      "name": "Back In The U.S.A.",
-      "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
+      "duration_ms": 185845,
+      "name": "Big Boys",
+      "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 185845,
-      "name": "Big Boys",
-      "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
+      "duration_ms": 146893,
+      "name": "Back In The U.S.A.",
+      "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
       "duration_ms": 163226,
       "name": "You Can't Catch Me",
       "url": "https://open.spotify.com/track/7LlGJpTtwBiggiZAkoh69U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "Thirty Days",
-      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "Thirty Days",
+      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From St. Louie To Frisco",
-        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Louis To Frisco",
-      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 137106,
       "name": "Brown Eyed Handsome Man",
       "url": "https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From St. Louie To Frisco",
+        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Louis To Frisco",
+      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 107026,
-      "name": "Come On - Stereo Version",
-      "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 177200,
       "name": "No Money Down",
       "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 107026,
+      "name": "Come On - Stereo Version",
+      "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
     },
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harlem Station",
-        "url": "https://open.spotify.com/album/2CnAPOhQWSDvFfp5syKHFu"
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
       },
       "artists": [
         {
           "name": "Chuck Berry",
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        },
-        {
-          "name": "Oscar Pettiford",
-          "url": "https://open.spotify.com/artist/12tEk7MWJdbc4V5wcc7UQS"
         }
       ],
-      "duration_ms": 175666,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/1wTYxyqQgg4dtZkPicv2Mf"
+      "duration_ms": 139520,
+      "name": "Guitar Boogie",
+      "url": "https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q"
     }
   ],
   "unique_name": "This Is Chuck Berry",

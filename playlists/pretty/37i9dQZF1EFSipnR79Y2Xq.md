@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 67 | [Te pareces a mi ex](https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Te pareces a mi ex](https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW) | 2:30 |
 | 68 | [Hazme Un Paro](https://open.spotify.com/track/0KFOwJrwBfWVhUTIYPYps5) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:45 |
 | 69 | [Doble T](https://open.spotify.com/track/0psYURhcteRbFcW9MH3Rj9) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [Emilio](https://open.spotify.com/artist/63AURDJ3zaxKaBcrm9q74B) | [Doble T](https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs) | 2:39 |
-| 70 | [No me va a pesar](https://open.spotify.com/track/1C9g6Rh1gu3ZZt4BTVjlis) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [No me va a pesar](https://open.spotify.com/album/7GFevK7RiA55xhsLHPshDE) | 2:36 |
-| 71 | [AQUÍ](https://open.spotify.com/track/31frlH6FhT5O8QC62cw5ND) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:25 |
+| 70 | [AQUÍ](https://open.spotify.com/track/31frlH6FhT5O8QC62cw5ND) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:25 |
+| 71 | [No me va a pesar](https://open.spotify.com/track/1C9g6Rh1gu3ZZt4BTVjlis) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [No me va a pesar](https://open.spotify.com/album/7GFevK7RiA55xhsLHPshDE) | 2:36 |
 | 72 | [Igual O Más Que Yo](https://open.spotify.com/track/451JagrXN2O33jJZIJiIuE) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 3:26 |
 | 73 | [Ya la Veo Difícil](https://open.spotify.com/track/19KyWieXL61kcntVLCiiXY) | [Conjunto Azabache](https://open.spotify.com/artist/6DW1NmhrCCFdZbao86wchK) | [Ya la Veo Difícil](https://open.spotify.com/album/1hn24tli1MPN6EHoS78bCg) | 2:50 |
 | 74 | [De Aqui Soy](https://open.spotify.com/track/34wr4XN1WkE3EQXcWz4ZKH) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Aquí Les Voy](https://open.spotify.com/album/0DpZqV26PmRN9ttZYp3IvU) | 3:05 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 100 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 101 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AcUaBgAAAADKBA+KUc7iuFfEMctFXI64`
+Snapshot ID: `AcUfpgAAAAAzubIYSLWha0iMfMsPkbv0`

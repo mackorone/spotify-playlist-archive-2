@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Grace Enger. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Fia James. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 154462,
       "name": "2 Step",
       "url": "https://open.spotify.com/track/0TtNHc3wRoBbpDLne8YL6y"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 154987,
       "name": "2000",
       "url": "https://open.spotify.com/track/2j4lA6lFaDXqsBCtpKxKy2"
@@ -5315,6 +5315,24 @@
     },
     {
       "album": {
+        "name": "Luck of the Draw",
+        "url": "https://open.spotify.com/album/4Pl5OaVAIUmHmY4ExUu3Hh"
+      },
+      "artists": [
+        {
+          "name": "Madhavi Devi",
+          "url": "https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257386,
+      "name": "Baby Again",
+      "url": "https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b"
+    },
+    {
+      "album": {
         "name": "baby blue",
         "url": "https://open.spotify.com/album/5AvjLB0s3VcHZkRxphpfex"
       },
@@ -6345,6 +6363,24 @@
     },
     {
       "album": {
+        "name": "baseball bat",
+        "url": "https://open.spotify.com/album/1FtB8GZCGyb2ssMCyjRLg9"
+      },
+      "artists": [
+        {
+          "name": "madamestarlet",
+          "url": "https://open.spotify.com/artist/5gz0PsGyJT53vqv8TGjY7l"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "baseball bat",
+      "url": "https://open.spotify.com/track/0rrkD4WGzDMIb3YFSUVgQj"
+    },
+    {
+      "album": {
         "name": "BASIC",
         "url": "https://open.spotify.com/album/5wDW7r8nJTLZ1QCiw3JKet"
       },
@@ -6374,7 +6410,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 205483,
       "name": "batman",
       "url": "https://open.spotify.com/track/5LvQwR4I2HHqIhuxCuitDY"
@@ -9965,6 +10001,24 @@
     },
     {
       "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/6IvK9vCaAJXU2oolrmeL1m"
+      },
+      "artists": [
+        {
+          "name": "Luke Armstrong",
+          "url": "https://open.spotify.com/artist/2s79UW9iyNXLZQEXHJi5hG"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195808,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/5xSg5uP2Yk5hy0oBnVfgBl"
+    },
+    {
+      "album": {
         "name": "Boys Make Promises",
         "url": "https://open.spotify.com/album/38B8LpbHD5uoUTEWog740d"
       },
@@ -11661,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "CAIRO (I Like That...)",
+        "url": "https://open.spotify.com/album/3VfIOszi5DLjrPoMz61Atw"
+      },
+      "artists": [
+        {
+          "name": "Babe America",
+          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195471,
+      "name": "CAIRO (I Like That...)",
+      "url": "https://open.spotify.com/track/1vsMwXYLXA2lkcDSsZZnWx"
+    },
+    {
+      "album": {
         "name": "Cake",
         "url": "https://open.spotify.com/album/2PMxkduvMXa2nkwkzwcfKf"
       },
@@ -12716,6 +12788,24 @@
       "duration_ms": 223190,
       "name": "Catch My Wave",
       "url": "https://open.spotify.com/track/0lKNPIU7N6Lxg2Oh2CukZP"
+    },
+    {
+      "album": {
+        "name": "catch//release",
+        "url": "https://open.spotify.com/album/12pX3EXutVLaxvG3WocoZM"
+      },
+      "artists": [
+        {
+          "name": "TEHYA",
+          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136843,
+      "name": "catch//release",
+      "url": "https://open.spotify.com/track/67BMD9neEgHI68CpuOCoyO"
     },
     {
       "album": {
@@ -16202,6 +16292,24 @@
       "duration_ms": 192300,
       "name": "Crying in the Swimming Pool",
       "url": "https://open.spotify.com/track/1TBtBOCF94xbvzM4Xtc4zY"
+    },
+    {
+      "album": {
+        "name": "CRYING IS A GIRL'S BEST FRIEND",
+        "url": "https://open.spotify.com/album/5N5C3BDmi0MBKrzQWLEPFv"
+      },
+      "artists": [
+        {
+          "name": "RAEGAN",
+          "url": "https://open.spotify.com/artist/2nB2BHirpyBx2sJc4QKfwz"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138855,
+      "name": "CRYING IS A GIRL'S BEST FRIEND",
+      "url": "https://open.spotify.com/track/7x0UBBaRHCCg7Xzx1XJqeG"
     },
     {
       "album": {
@@ -21948,7 +22056,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 212000,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif"
@@ -31248,7 +31356,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 217182,
       "name": "Here Comes Trouble",
       "url": "https://open.spotify.com/track/09PEDl4c5eTMurEy3D8UBf"
@@ -32812,7 +32920,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 152320,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1N2TvrTy0NKrIJG3QR1Amm"
@@ -33464,7 +33572,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 296628,
       "name": "How Cruel",
       "url": "https://open.spotify.com/track/2mo9hZxNhmnNmYejBFUnie"
@@ -35660,7 +35768,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 168564,
       "name": "I SEE STARS",
       "url": "https://open.spotify.com/track/2MFWjDpYscQjEGa2wbq7F3"
@@ -36218,7 +36326,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 224980,
       "name": "I'd Do Anything",
       "url": "https://open.spotify.com/track/1Ff8iIGVvs5EMzoOYYI197"
@@ -39484,7 +39592,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 171759,
       "name": "Joy",
       "url": "https://open.spotify.com/track/36hnCRSMqRM7umgXEdG4DV"
@@ -45661,6 +45769,24 @@
     },
     {
       "album": {
+        "name": "ma na\u2019isni",
+        "url": "https://open.spotify.com/album/7tA7HkegCgdZFAxKC3ishK"
+      },
+      "artists": [
+        {
+          "name": "Maria Taktouk",
+          "url": "https://open.spotify.com/artist/207Vgvsb7qqxajcD1LvWoL"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115863,
+      "name": "ma na\u2019isni",
+      "url": "https://open.spotify.com/track/264pRJzxYHJdTvuuvgNlfB"
+    },
+    {
+      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/2wq2aPkFgQm71gbIBXpFwj"
       },
@@ -45862,6 +45988,24 @@
       "duration_ms": 168920,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4CS6cjP012KQix4lLt34UU"
+    },
+    {
+      "album": {
+        "name": "magic",
+        "url": "https://open.spotify.com/album/4P0lcfRd6RqpGk33mIEOY3"
+      },
+      "artists": [
+        {
+          "name": "Cosette",
+          "url": "https://open.spotify.com/artist/0bwL6Ymce4gQ5uIxNSryAf"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170381,
+      "name": "magic",
+      "url": "https://open.spotify.com/track/6lKfOVXCnxouZjkz95gq52"
     },
     {
       "album": {
@@ -50638,6 +50782,24 @@
       "duration_ms": 171248,
       "name": "New Year's Eve",
       "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
+    },
+    {
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/2wr4CUba7Uv0hM5WdwbQIW"
+      },
+      "artists": [
+        {
+          "name": "Ava Claire",
+          "url": "https://open.spotify.com/artist/7GYOoxzv1sFmUUTh7PpEi9"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198139,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/7uWdf0IRjNNU7IfbaGXia6"
     },
     {
       "album": {
@@ -56223,6 +56385,24 @@
     },
     {
       "album": {
+        "name": "pixel heart",
+        "url": "https://open.spotify.com/album/2JN3HJiXofIxU9pluRaH0m"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184854,
+      "name": "pixel heart",
+      "url": "https://open.spotify.com/track/5tuBcdw0wZTVBFEumaX7zq"
+    },
+    {
+      "album": {
         "name": "PIXIE DUST",
         "url": "https://open.spotify.com/album/3WZrwQHqVByKDlGWD6YOvL"
       },
@@ -57776,6 +57956,24 @@
       "duration_ms": 205497,
       "name": "prom",
       "url": "https://open.spotify.com/track/0dnhlen2mYYbY0ooacHSHE"
+    },
+    {
+      "album": {
+        "name": "prom king",
+        "url": "https://open.spotify.com/album/59zlzo8waDYHUzNfMCONqS"
+      },
+      "artists": [
+        {
+          "name": "Kiki Kramer",
+          "url": "https://open.spotify.com/artist/5TWBR6yQaUY06b4q1W3oJL"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250308,
+      "name": "prom king",
+      "url": "https://open.spotify.com/track/3v5vLLV5ThebrEbLQXyim7"
     },
     {
       "album": {
@@ -65544,7 +65742,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 154072,
       "name": "something i'm not",
       "url": "https://open.spotify.com/track/3VrwrE8rVr5CaQ3ZmwhW7D"
@@ -65992,6 +66190,24 @@
       "duration_ms": 160487,
       "name": "Sorry to Little Me",
       "url": "https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo"
+    },
+    {
+      "album": {
+        "name": "Sorry You're Not Sorry",
+        "url": "https://open.spotify.com/album/5maDinbDKH5eS7n3boHnjY"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240690,
+      "name": "Sorry You're Not Sorry",
+      "url": "https://open.spotify.com/track/5ZugCbT4LxmvgzgusvzvBU"
     },
     {
       "album": {
@@ -66507,6 +66723,24 @@
     },
     {
       "album": {
+        "name": "spotless state of mind",
+        "url": "https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT"
+      },
+      "artists": [
+        {
+          "name": "Fia James",
+          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159411,
+      "name": "spotless state of mind",
+      "url": "https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf"
+    },
+    {
+      "album": {
         "name": "iDidntMeanToGhostYouButMyWifiCrashedAgain",
         "url": "https://open.spotify.com/album/5AJBU94cun1EeaDMYQZOX2"
       },
@@ -66846,7 +67080,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 170522,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/2OXCKPnXMeyHzHDLBlv5Fl"
@@ -67268,6 +67502,24 @@
       "duration_ms": 225781,
       "name": "still that girl",
       "url": "https://open.spotify.com/track/6W8uSymsLDoazjE95IRBat"
+    },
+    {
+      "album": {
+        "name": "Sunny Surrender",
+        "url": "https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC"
+      },
+      "artists": [
+        {
+          "name": "Diva Smith",
+          "url": "https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201456,
+      "name": "Still The Kid",
+      "url": "https://open.spotify.com/track/7amqdTB1SWli7FsopSVUdd"
     },
     {
       "album": {
@@ -71450,7 +71702,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 199730,
       "name": "THE BEGINNING OF THE END",
       "url": "https://open.spotify.com/track/1KRqSqWl2uKEgSC0PzRMBV"
@@ -72734,7 +72986,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 168312,
       "name": "There's a Bridge",
       "url": "https://open.spotify.com/track/5oY98SqmKXxz1fE4cu1REt"

@@ -1,28 +1,28 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Our Chronicle",
-  "num_followers": 37875,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Sorry X",
+  "num_followers": 37944,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGBTTK+3PyLTixpPZwOt/pQ4U6y+",
+  "snapshot_id": "AAAAAMsJjh1AgpHMF0DXpLCxRsRjtG61",
   "tracks": [
     {
-      "added_at": "2026-06-10 04:12:50",
+      "added_at": "2026-06-17 04:00:28",
       "album": {
-        "name": "Psyche",
-        "url": "https://open.spotify.com/album/6DPebgfLHUR40qKEHzfxre"
+        "name": "AFTERTHOUGHT (ROT)",
+        "url": "https://open.spotify.com/album/2eQfBA5f5mJUk8zCjBpmiQ"
       },
       "artists": [
         {
-          "name": "Our Chronicle",
-          "url": "https://open.spotify.com/artist/3szC2sXLPdKUSxFmwHRhtA"
+          "name": "Sorry X",
+          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
         }
       ],
-      "duration_ms": 372200,
-      "name": "Psyche",
-      "url": "https://open.spotify.com/track/3NiBX3eWRj1dKayryqoz5W"
+      "duration_ms": 204324,
+      "name": "AFTERTHOUGHT (ROT)",
+      "url": "https://open.spotify.com/track/7xWGWFYFVyOJS90YnVX48b"
     },
     {
       "added_at": "2026-06-03 04:00:42",
@@ -41,6 +41,62 @@
       "url": "https://open.spotify.com/track/2Zku5hueH90H3vLNlP93Js"
     },
     {
+      "added_at": "2026-06-17 04:00:28",
+      "album": {
+        "name": "Beside Me",
+        "url": "https://open.spotify.com/album/3f5a2ZFQOjG3W1izYYkFS4"
+      },
+      "artists": [
+        {
+          "name": "Miguel Owls",
+          "url": "https://open.spotify.com/artist/5ikWxqr3pkfuy1m6ZjTHW1"
+        },
+        {
+          "name": "Landon Tewers",
+          "url": "https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "Something Wrong",
+      "url": "https://open.spotify.com/track/0S594p5wS4QF1kyt29dYWh"
+    },
+    {
+      "added_at": "2026-06-10 04:12:50",
+      "album": {
+        "name": "Psyche",
+        "url": "https://open.spotify.com/album/6DPebgfLHUR40qKEHzfxre"
+      },
+      "artists": [
+        {
+          "name": "Our Chronicle",
+          "url": "https://open.spotify.com/artist/3szC2sXLPdKUSxFmwHRhtA"
+        }
+      ],
+      "duration_ms": 372200,
+      "name": "Psyche",
+      "url": "https://open.spotify.com/track/3NiBX3eWRj1dKayryqoz5W"
+    },
+    {
+      "added_at": "2026-06-17 04:00:28",
+      "album": {
+        "name": "Tomorrow's Over",
+        "url": "https://open.spotify.com/album/6kglrG1ctYDdhbvTZNXQ9O"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 220363,
+      "name": "Tomorrow's Over",
+      "url": "https://open.spotify.com/track/36S8CmFSpFNXvf8bAEna3g"
+    },
+    {
       "added_at": "2026-06-10 04:12:50",
       "album": {
         "name": "Weather Eye",
@@ -57,72 +113,20 @@
       "url": "https://open.spotify.com/track/3lp4opEPD1YCNkmsKqKzNm"
     },
     {
-      "added_at": "2026-05-20 04:00:05",
+      "added_at": "2026-06-17 04:00:28",
       "album": {
-        "name": "REVANA",
-        "url": "https://open.spotify.com/album/0oJDiRqxmmlKP39Njo5LJe"
+        "name": "Gun In The Duffel Bag",
+        "url": "https://open.spotify.com/album/7Gm8YxceqFlYL4rARkmzTh"
       },
       "artists": [
         {
-          "name": "Black Spikes",
-          "url": "https://open.spotify.com/artist/5OHs983geoRmnuuRVfB2XQ"
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
         }
       ],
-      "duration_ms": 226826,
-      "name": "REVANA",
-      "url": "https://open.spotify.com/track/1g5MFZpsRf41ERL9gHCrGq"
-    },
-    {
-      "added_at": "2026-06-10 04:12:50",
-      "album": {
-        "name": "Tightrope Breathin [Baby Raptor Edition]",
-        "url": "https://open.spotify.com/album/5wPYs29ubsDCYmRh9pgdqJ"
-      },
-      "artists": [
-        {
-          "name": "NIKA",
-          "url": "https://open.spotify.com/artist/1Tbjh7827i6yuvF4PLpwjl"
-        },
-        {
-          "name": "baby raptor",
-          "url": "https://open.spotify.com/artist/4YWrdgDYpgWYcDQUkmk69s"
-        }
-      ],
-      "duration_ms": 209246,
-      "name": "Tightrope Breathin - Baby Raptor Edition",
-      "url": "https://open.spotify.com/track/6C34SDYSOl6yRJ1x13yRFx"
-    },
-    {
-      "added_at": "2026-05-27 04:00:18",
-      "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/5mCZGoP4DZTblQJheq4EfU"
-      },
-      "artists": [
-        {
-          "name": "Daisy Arson",
-          "url": "https://open.spotify.com/artist/3DyUFPzUfiw6VEzhgx5p5h"
-        }
-      ],
-      "duration_ms": 142855,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/6Ub8tYCyi10nnkANDYTVFG"
-    },
-    {
-      "added_at": "2026-06-10 04:12:50",
-      "album": {
-        "name": "A Thousand Warnings",
-        "url": "https://open.spotify.com/album/2EnC3XU6JvMjbaH57lZ2cH"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "A Thousand Warnings",
-      "url": "https://open.spotify.com/track/4BjDbuRcXYlTpxpsJ3wtPk"
+      "duration_ms": 187488,
+      "name": "Gun In The Duffel Bag",
+      "url": "https://open.spotify.com/track/3UQRbslQYuNJBEJx18F9DK"
     },
     {
       "added_at": "2026-05-06 04:00:17",
@@ -141,20 +145,20 @@
       "url": "https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd"
     },
     {
-      "added_at": "2026-06-10 04:12:50",
+      "added_at": "2026-06-17 04:00:28",
       "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/2WOzMqakkfgAckBVXLZSBJ"
+        "name": "MOTINA",
+        "url": "https://open.spotify.com/album/4SR9xoFqbWnAZHLmebjU5W"
       },
       "artists": [
         {
-          "name": "NOVAGL\u00d8W",
-          "url": "https://open.spotify.com/artist/1GAiTIaensuD5nGKJCpq9D"
+          "name": "Black Spikes",
+          "url": "https://open.spotify.com/artist/5OHs983geoRmnuuRVfB2XQ"
         }
       ],
-      "duration_ms": 203764,
-      "name": "REM",
-      "url": "https://open.spotify.com/track/1Xm1e4NF6ogjUhfxOuaWJt"
+      "duration_ms": 315866,
+      "name": "MOTINA",
+      "url": "https://open.spotify.com/track/7ix1LiGXzfenejDIeJINi8"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -175,6 +179,22 @@
       "duration_ms": 173990,
       "name": "Carry The Weight",
       "url": "https://open.spotify.com/track/68OwvHG4vUHckIvzWWSKZS"
+    },
+    {
+      "added_at": "2026-06-17 04:00:28",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/14bbzbg5YQuIkEhxpTQiol"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 208156,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/5l8myqwWpACDxEbw4DbRRH"
     },
     {
       "added_at": "2026-05-27 04:00:18",
@@ -205,20 +225,84 @@
       "url": "https://open.spotify.com/track/49QDswnidndafpN2VjkZQy"
     },
     {
-      "added_at": "2026-06-03 04:00:42",
+      "added_at": "2026-06-17 04:00:28",
       "album": {
-        "name": "THE GNARLYCORE CLASS",
-        "url": "https://open.spotify.com/album/3xo0Exm8rSGrXAOzRVb3hI"
+        "name": "Synthetic",
+        "url": "https://open.spotify.com/album/43WqgnKnRBKERS46X9YhYI"
       },
       "artists": [
         {
-          "name": "The Barbarians of California",
-          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+          "name": "Advents",
+          "url": "https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes"
         }
       ],
-      "duration_ms": 116146,
-      "name": "THE GNARLYCORE CLASS",
-      "url": "https://open.spotify.com/track/362pcZpk4jShFIoa2zWI6J"
+      "duration_ms": 185000,
+      "name": "Synthetic",
+      "url": "https://open.spotify.com/track/4QlSu1ALg0IxuqXRFDEy3z"
+    },
+    {
+      "added_at": "2026-05-27 04:00:18",
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/5mCZGoP4DZTblQJheq4EfU"
+      },
+      "artists": [
+        {
+          "name": "Daisy Arson",
+          "url": "https://open.spotify.com/artist/3DyUFPzUfiw6VEzhgx5p5h"
+        }
+      ],
+      "duration_ms": 142855,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/6Ub8tYCyi10nnkANDYTVFG"
+    },
+    {
+      "added_at": "2026-06-17 04:00:28",
+      "album": {
+        "name": "Bitter Dose",
+        "url": "https://open.spotify.com/album/1xMyjfozj1t1BXBraQ7Rbp"
+      },
+      "artists": [
+        {
+          "name": "Secrets",
+          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
+        }
+      ],
+      "duration_ms": 203098,
+      "name": "Bitter Dose",
+      "url": "https://open.spotify.com/track/5PZCSyH0DnO8IqDJrfJLve"
+    },
+    {
+      "added_at": "2026-06-10 04:12:50",
+      "album": {
+        "name": "A Thousand Warnings",
+        "url": "https://open.spotify.com/album/2EnC3XU6JvMjbaH57lZ2cH"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "A Thousand Warnings",
+      "url": "https://open.spotify.com/track/4BjDbuRcXYlTpxpsJ3wtPk"
+    },
+    {
+      "added_at": "2026-06-17 04:00:28",
+      "album": {
+        "name": "ragebait",
+        "url": "https://open.spotify.com/album/3q5QLxNrudVthXvxYZJ9wT"
+      },
+      "artists": [
+        {
+          "name": "Saviourself",
+          "url": "https://open.spotify.com/artist/7CkHF3MbHm4kTdB9ZOJkV4"
+        }
+      ],
+      "duration_ms": 245215,
+      "name": "ragebait",
+      "url": "https://open.spotify.com/track/3TISfuFzH3v2gmvMPgkSHJ"
     },
     {
       "added_at": "2026-06-03 04:00:42",
@@ -235,6 +319,38 @@
       "duration_ms": 249200,
       "name": "Dark Sun",
       "url": "https://open.spotify.com/track/20ByEljDWbG6mqa8NVKyhq"
+    },
+    {
+      "added_at": "2026-06-17 04:00:28",
+      "album": {
+        "name": "soulless cycle",
+        "url": "https://open.spotify.com/album/1yMh2IJqah3gsYN0MZBClm"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "soulless cycle",
+      "url": "https://open.spotify.com/track/6cOD4NsMsC3xykBHA3j5b6"
+    },
+    {
+      "added_at": "2026-06-03 04:00:42",
+      "album": {
+        "name": "THE GNARLYCORE CLASS",
+        "url": "https://open.spotify.com/album/3xo0Exm8rSGrXAOzRVb3hI"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "duration_ms": 116146,
+      "name": "THE GNARLYCORE CLASS",
+      "url": "https://open.spotify.com/track/362pcZpk4jShFIoa2zWI6J"
     },
     {
       "added_at": "2026-06-03 04:00:42",
@@ -303,18 +419,38 @@
     {
       "added_at": "2026-06-03 04:00:42",
       "album": {
-        "name": "Rebel Son Rise!",
-        "url": "https://open.spotify.com/album/54ovnWhR8qS6dxyzUGu2i5"
+        "name": "Vomit Eater",
+        "url": "https://open.spotify.com/album/4EC8d3Xj3bFDOtOVfRpiqU"
       },
       "artists": [
         {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+          "name": "Midwinter",
+          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
+        },
+        {
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
         }
       ],
-      "duration_ms": 175800,
-      "name": "Rebel Son Rise!",
-      "url": "https://open.spotify.com/track/3444xNnvbrPsht9QaxVg5D"
+      "duration_ms": 226285,
+      "name": "Vomit Eater",
+      "url": "https://open.spotify.com/track/0ykOjLTx0d1kCRClc1cazO"
+    },
+    {
+      "added_at": "2026-06-10 04:12:50",
+      "album": {
+        "name": "REM",
+        "url": "https://open.spotify.com/album/2WOzMqakkfgAckBVXLZSBJ"
+      },
+      "artists": [
+        {
+          "name": "NOVAGL\u00d8W",
+          "url": "https://open.spotify.com/artist/1GAiTIaensuD5nGKJCpq9D"
+        }
+      ],
+      "duration_ms": 203764,
+      "name": "REM",
+      "url": "https://open.spotify.com/track/1Xm1e4NF6ogjUhfxOuaWJt"
     },
     {
       "added_at": "2026-05-27 04:00:18",
@@ -353,40 +489,92 @@
       "url": "https://open.spotify.com/track/5sJIi9JFuNhj3JBwFVVHAI"
     },
     {
-      "added_at": "2026-05-13 04:00:09",
+      "added_at": "2026-05-20 04:00:05",
       "album": {
-        "name": "SYSTEM GLITCH",
-        "url": "https://open.spotify.com/album/7cyCBitHRwgVU1SzNTVWVS"
+        "name": "Twisted Flesh Is Feeding My Blade (From VOIN)",
+        "url": "https://open.spotify.com/album/3KI4zNSMGDtJxKT5dPSHf2"
       },
       "artists": [
         {
-          "name": "Alex Sandra",
-          "url": "https://open.spotify.com/artist/6M0BEwom1GzPfvDXbhb2qi"
+          "name": "Nik Nocturnal",
+          "url": "https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q"
         },
         {
-          "name": "Taylor Barber",
-          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+          "name": "Paula Carregosa",
+          "url": "https://open.spotify.com/artist/1M4peeoWw6mGPEqnsg1mKl"
         }
       ],
-      "duration_ms": 174028,
-      "name": "SYSTEM GLITCH",
-      "url": "https://open.spotify.com/track/0eEHmNWaCtW4Ez0E0KdbSx"
+      "duration_ms": 215999,
+      "name": "Twisted Flesh Is Feeding My Blade - From VOIN",
+      "url": "https://open.spotify.com/track/0NcHBzzNexd0wqztZwdWg7"
     },
     {
-      "added_at": "2026-04-22 04:00:05",
+      "added_at": "2026-05-13 04:00:09",
       "album": {
-        "name": "PIECES OF MY HEART",
-        "url": "https://open.spotify.com/album/3lji38RxXnPPzztd3neDxd"
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/4EHga18hgk4gEygwuAaD8q"
       },
       "artists": [
         {
-          "name": "Sorry X",
-          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
         }
       ],
-      "duration_ms": 196600,
-      "name": "PIECES OF MY HEART",
-      "url": "https://open.spotify.com/track/1MQbr45KnM0T0gEFvY4Nkr"
+      "duration_ms": 156000,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/6GnPkQZxse8JIrz8G7zI4V"
+    },
+    {
+      "added_at": "2026-04-29 04:00:32",
+      "album": {
+        "name": "fvck.me.up",
+        "url": "https://open.spotify.com/album/6GVOmFnj8AkiHenTGWff1K"
+      },
+      "artists": [
+        {
+          "name": "Glasswaves",
+          "url": "https://open.spotify.com/artist/6dTPsW2GddlLDEuuj8Jj4P"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "fvck.me.up",
+      "url": "https://open.spotify.com/track/7JIeOuq85aVF75x3GfgVLZ"
+    },
+    {
+      "added_at": "2026-06-10 04:12:50",
+      "album": {
+        "name": "Tightrope Breathin [Baby Raptor Edition]",
+        "url": "https://open.spotify.com/album/5wPYs29ubsDCYmRh9pgdqJ"
+      },
+      "artists": [
+        {
+          "name": "NIKA",
+          "url": "https://open.spotify.com/artist/1Tbjh7827i6yuvF4PLpwjl"
+        },
+        {
+          "name": "baby raptor",
+          "url": "https://open.spotify.com/artist/4YWrdgDYpgWYcDQUkmk69s"
+        }
+      ],
+      "duration_ms": 209246,
+      "name": "Tightrope Breathin - Baby Raptor Edition",
+      "url": "https://open.spotify.com/track/6C34SDYSOl6yRJ1x13yRFx"
+    },
+    {
+      "added_at": "2026-06-03 04:00:42",
+      "album": {
+        "name": "Rebel Son Rise!",
+        "url": "https://open.spotify.com/album/54ovnWhR8qS6dxyzUGu2i5"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Rebel Son Rise!",
+      "url": "https://open.spotify.com/track/3444xNnvbrPsht9QaxVg5D"
     },
     {
       "added_at": "2026-05-27 04:00:18",
@@ -403,46 +591,6 @@
       "duration_ms": 188598,
       "name": "4x4",
       "url": "https://open.spotify.com/track/68VuJEeonhR5y7ty35jer3"
-    },
-    {
-      "added_at": "2026-06-03 04:00:42",
-      "album": {
-        "name": "Vomit Eater",
-        "url": "https://open.spotify.com/album/4EC8d3Xj3bFDOtOVfRpiqU"
-      },
-      "artists": [
-        {
-          "name": "Midwinter",
-          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
-        },
-        {
-          "name": "Dal Av",
-          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Vomit Eater",
-      "url": "https://open.spotify.com/track/0ykOjLTx0d1kCRClc1cazO"
-    },
-    {
-      "added_at": "2026-05-27 04:00:18",
-      "album": {
-        "name": "WDYK",
-        "url": "https://open.spotify.com/album/7y3kwKPerDV61miCnWInyk"
-      },
-      "artists": [
-        {
-          "name": "Sable",
-          "url": "https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq"
-        },
-        {
-          "name": "20TOKENS",
-          "url": "https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q"
-        }
-      ],
-      "duration_ms": 144324,
-      "name": "WDYK",
-      "url": "https://open.spotify.com/track/5zWIKlgGSwrSvMZONHMHpu"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -475,42 +623,6 @@
       "duration_ms": 167109,
       "name": "THE SOUND",
       "url": "https://open.spotify.com/track/5Zti0jRsq6ZvlrgQo5tua4"
-    },
-    {
-      "added_at": "2026-05-20 04:00:05",
-      "album": {
-        "name": "Twisted Flesh Is Feeding My Blade (From VOIN)",
-        "url": "https://open.spotify.com/album/3KI4zNSMGDtJxKT5dPSHf2"
-      },
-      "artists": [
-        {
-          "name": "Nik Nocturnal",
-          "url": "https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q"
-        },
-        {
-          "name": "Paula Carregosa",
-          "url": "https://open.spotify.com/artist/1M4peeoWw6mGPEqnsg1mKl"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Twisted Flesh Is Feeding My Blade - From VOIN",
-      "url": "https://open.spotify.com/track/0NcHBzzNexd0wqztZwdWg7"
-    },
-    {
-      "added_at": "2026-05-27 04:00:18",
-      "album": {
-        "name": "A Fragile Flame",
-        "url": "https://open.spotify.com/album/2q16tarzn2AdcFVi7Z7J9B"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "A Fragile Flame",
-      "url": "https://open.spotify.com/track/4bgpqaLKJ5ra63fi8TaMQ6"
     },
     {
       "added_at": "2026-05-13 04:00:09",
@@ -547,38 +659,6 @@
     {
       "added_at": "2026-05-13 04:00:09",
       "album": {
-        "name": "Without Ever Waking",
-        "url": "https://open.spotify.com/album/1cKqCjso9AeYsmbtSb2Axb"
-      },
-      "artists": [
-        {
-          "name": "NOVARA NYX",
-          "url": "https://open.spotify.com/artist/33Bd6UaMyCd0XFmKge3f7m"
-        }
-      ],
-      "duration_ms": 232770,
-      "name": "Without Ever Waking",
-      "url": "https://open.spotify.com/track/4AJEkA0q8z7OCrQTWCzs8Z"
-    },
-    {
-      "added_at": "2026-04-29 04:00:32",
-      "album": {
-        "name": "fvck.me.up",
-        "url": "https://open.spotify.com/album/6GVOmFnj8AkiHenTGWff1K"
-      },
-      "artists": [
-        {
-          "name": "Glasswaves",
-          "url": "https://open.spotify.com/artist/6dTPsW2GddlLDEuuj8Jj4P"
-        }
-      ],
-      "duration_ms": 181132,
-      "name": "fvck.me.up",
-      "url": "https://open.spotify.com/track/7JIeOuq85aVF75x3GfgVLZ"
-    },
-    {
-      "added_at": "2026-05-13 04:00:09",
-      "album": {
         "name": "Cyanide",
         "url": "https://open.spotify.com/album/6qU0sYqX2avZ1Fv5OjWYvt"
       },
@@ -607,22 +687,6 @@
       "duration_ms": 229603,
       "name": "Portrait set on fire",
       "url": "https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm"
-    },
-    {
-      "added_at": "2026-05-13 04:00:09",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/4EHga18hgk4gEygwuAaD8q"
-      },
-      "artists": [
-        {
-          "name": "Silly Goose",
-          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/6GnPkQZxse8JIrz8G7zI4V"
     },
     {
       "added_at": "2026-05-20 04:00:05",
@@ -689,62 +753,6 @@
       "url": "https://open.spotify.com/track/22PxFCtgAQgAOG1xBwXKBz"
     },
     {
-      "added_at": "2026-06-03 04:00:42",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/1sgIFsWvMaXEUvZ2yWJlgW"
-      },
-      "artists": [
-        {
-          "name": "Hundred Arrows",
-          "url": "https://open.spotify.com/artist/38uqYLcmQ8vpaUKNlGo7aR"
-        },
-        {
-          "name": "Megalodon",
-          "url": "https://open.spotify.com/artist/6mqh3TtGuoCdutLJfREIGX"
-        }
-      ],
-      "duration_ms": 235229,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/5njQlbGx0Yy1Hev1A7LcPX"
-    },
-    {
-      "added_at": "2026-05-20 04:00:05",
-      "album": {
-        "name": "CESSPIT",
-        "url": "https://open.spotify.com/album/1b4DVk6eYbODKCCTwQh8FN"
-      },
-      "artists": [
-        {
-          "name": "Cober Mouth",
-          "url": "https://open.spotify.com/artist/1jSqUczGbrb3PvTROS66nA"
-        },
-        {
-          "name": "Aron Green",
-          "url": "https://open.spotify.com/artist/5ysbBCPJIXrfAGmMisNaK9"
-        }
-      ],
-      "duration_ms": 169127,
-      "name": "CESSPIT",
-      "url": "https://open.spotify.com/track/6u3jNaZSLIGupFm7FlYqIY"
-    },
-    {
-      "added_at": "2026-04-15 04:00:20",
-      "album": {
-        "name": "CARGO NET",
-        "url": "https://open.spotify.com/album/2a83SrFvtLnVNQ4XM5uOLQ"
-      },
-      "artists": [
-        {
-          "name": "MAIASAURA",
-          "url": "https://open.spotify.com/artist/62mm8csnxeh1rBGa9fBrRX"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "CARGO NET",
-      "url": "https://open.spotify.com/track/2uWYO6SlLyUcFEjyJxkx1k"
-    },
-    {
       "added_at": "2026-05-13 04:00:09",
       "album": {
         "name": "Devour",
@@ -779,22 +787,6 @@
       "duration_ms": 229714,
       "name": "Crave",
       "url": "https://open.spotify.com/track/7I4yruTwtFlhwSmlIiB2xx"
-    },
-    {
-      "added_at": "2026-05-27 04:00:18",
-      "album": {
-        "name": "The Kids Will Kill Us",
-        "url": "https://open.spotify.com/album/370Z1fMk9bl9mw55DSe51k"
-      },
-      "artists": [
-        {
-          "name": "Witch Club Satan",
-          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "The Kids Will Kill Us",
-      "url": "https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI"
     },
     {
       "added_at": "2026-04-01 04:00:22",

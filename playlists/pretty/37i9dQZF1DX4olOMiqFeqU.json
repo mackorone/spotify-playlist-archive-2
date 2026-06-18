@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2487531,
+  "num_followers": 2487412,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Naiilang",
-        "url": "https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5"
-      },
-      "artists": [
-        {
-          "name": "Le John",
-          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
-        }
-      ],
-      "duration_ms": 247071,
-      "name": "Naiilang",
-      "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
         "name": "Grandma",
         "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 280426,
       "name": "Sino",
       "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
+        "name": "Naiilang",
+        "url": "https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5"
+      },
+      "artists": [
+        {
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
+        }
+      ],
+      "duration_ms": 247071,
+      "name": "Naiilang",
+      "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 201806,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
         "name": "Pauwi Nako",
         "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 341573,
       "name": "Pauwi Nako",
       "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 201806,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Balisong (Transformed)",
-        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
-      },
-      "artists": [
-        {
-          "name": "Rico Blanco",
-          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
-        }
-      ],
-      "duration_ms": 163571,
-      "name": "Balisong - Transformed",
-      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 304000,
       "name": "Ang Wakas (feat. Trisha Macapagal)",
       "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
+        "name": "Balisong (Transformed)",
+        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        }
+      ],
+      "duration_ms": 163571,
+      "name": "Balisong - Transformed",
+      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
     }
   ],
   "unique_name": "OPM Favorites",

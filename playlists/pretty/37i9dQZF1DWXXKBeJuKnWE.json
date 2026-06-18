@@ -1,6 +1,6 @@
 {
   "description": "The sound of the underground. Cover: Bring Me The Horizon",
-  "num_followers": 492046,
+  "num_followers": 492009,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se"
     },
     {
+      "added_at": "2026-06-12 10:03:24",
+      "album": {
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 181018,
+      "name": "House Of Matches",
+      "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
+    },
+    {
       "added_at": "2026-06-08 09:09:19",
       "album": {
         "name": "1x1",
@@ -633,22 +649,6 @@
       "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
     },
     {
-      "added_at": "2026-06-12 10:03:24",
-      "album": {
-        "name": "An Ending In Itself",
-        "url": "https://open.spotify.com/album/3Oc9WCYMSdMZmwFPdrjS1c"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 181018,
-      "name": "House Of Matches",
-      "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
-    },
-    {
       "added_at": "2026-06-08 09:09:19",
       "album": {
         "name": "Revenant",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "milk of the madonna",
-        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "milk of the madonna",
-      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "I Don't Belong Here",
         "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 204500,
       "name": "Hereditary",
       "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "milk of the madonna",
+        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "milk of the madonna",
+      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 203521,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
         "name": "Revenger",
         "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 220227,
       "name": "Revenger",
       "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 203521,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "SIDE EFFECTS PT.1",
-        "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
-      },
-      "artists": [
-        {
-          "name": "Normandie",
-          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
-        }
-      ],
-      "duration_ms": 196442,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "STRANGE",
         "url": "https://open.spotify.com/album/5j6F7bGss7cSTor8mUqjVq"
       },
@@ -971,22 +955,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "...hospice",
-        "url": "https://open.spotify.com/album/4b3RL8jcpg4Un9fpHAgxhf"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 253174,
-      "name": "...hospice",
-      "url": "https://open.spotify.com/track/2s8S6JBYD4plEJUkkMzLSW"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "You Got This",
         "url": "https://open.spotify.com/album/4A4hmu0p8DWp10Nf85BraJ"
       },
@@ -999,6 +967,38 @@
       "duration_ms": 160064,
       "name": "My People",
       "url": "https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "SIDE EFFECTS PT.1",
+        "url": "https://open.spotify.com/album/64ruOFU72r6CZNm97UVv4K"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "duration_ms": 196442,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1vW6LHtAe0wu8uVehErPsQ"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "...hospice",
+        "url": "https://open.spotify.com/album/4b3RL8jcpg4Un9fpHAgxhf"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 253174,
+      "name": "...hospice",
+      "url": "https://open.spotify.com/track/2s8S6JBYD4plEJUkkMzLSW"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
     },
     {
+      "added_at": "2026-06-12 10:03:24",
+      "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3"
+      },
+      "artists": [
+        {
+          "name": "YHWH Nailgun",
+          "url": "https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ"
+        }
+      ],
+      "duration_ms": 78618,
+      "name": "Stillness Blues",
+      "url": "https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F"
+    },
+    {
       "added_at": "2026-06-08 09:09:19",
       "album": {
         "name": "Shapeshift",
@@ -1101,22 +1117,6 @@
       "url": "https://open.spotify.com/track/7DQ3JbZ8JmjjxoGmOYkjoR"
     },
     {
-      "added_at": "2026-06-12 10:03:24",
-      "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3"
-      },
-      "artists": [
-        {
-          "name": "YHWH Nailgun",
-          "url": "https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ"
-        }
-      ],
-      "duration_ms": 78618,
-      "name": "Stillness Blues",
-      "url": "https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F"
-    },
-    {
       "added_at": "2026-06-08 09:09:19",
       "album": {
         "name": "If Not Winter",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "duration_ms": 273696,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
         "name": "Bloodlust",
         "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
       },
@@ -1149,20 +1165,20 @@
       "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
     },
     {
-      "added_at": "2026-06-08 09:09:19",
+      "added_at": "2026-06-12 10:03:24",
       "album": {
-        "name": "Wrath",
-        "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
+        "name": "Last One Here",
+        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
       },
       "artists": [
         {
-          "name": "Gore.",
-          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
         }
       ],
-      "duration_ms": 273696,
-      "name": "Wrath",
-      "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+      "duration_ms": 200493,
+      "name": "Last One Here",
+      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1217,22 +1233,6 @@
       "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
     },
     {
-      "added_at": "2026-06-12 10:03:24",
-      "album": {
-        "name": "Last One Here",
-        "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
-      },
-      "artists": [
-        {
-          "name": "Rev3rent",
-          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Last One Here",
-      "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
-    },
-    {
       "added_at": "2026-06-08 09:09:19",
       "album": {
         "name": "Cellophane",
@@ -1263,6 +1263,22 @@
       "duration_ms": 229334,
       "name": "Kick",
       "url": "https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp"
+    },
+    {
+      "added_at": "2026-06-12 10:03:24",
+      "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/1iuSKflkOq2SGTM2BgODRC"
+      },
+      "artists": [
+        {
+          "name": "Gideon",
+          "url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
+        }
+      ],
+      "duration_ms": 163576,
+      "name": "YEEHAW",
+      "url": "https://open.spotify.com/track/2TY775tgkuv2mzhRe3ysrQ"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1363,6 +1379,22 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
+        "name": "Sepsis",
+        "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
         "name": "Eat My Dust!",
         "url": "https://open.spotify.com/album/3eCKd3mcrPqqgrOxQ1dM55"
       },
@@ -1375,22 +1407,6 @@
       "duration_ms": 176774,
       "name": "Boom!",
       "url": "https://open.spotify.com/track/7x97B4yKcAXoAgq0UjAvLO"
-    },
-    {
-      "added_at": "2026-06-12 10:03:24",
-      "album": {
-        "name": "4x4",
-        "url": "https://open.spotify.com/album/1iuSKflkOq2SGTM2BgODRC"
-      },
-      "artists": [
-        {
-          "name": "Gideon",
-          "url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
-        }
-      ],
-      "duration_ms": 163576,
-      "name": "YEEHAW",
-      "url": "https://open.spotify.com/track/2TY775tgkuv2mzhRe3ysrQ"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1407,22 +1423,6 @@
       "duration_ms": 194536,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/5332V1NVIYcKxW1zftGGWH"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
-        "name": "Sepsis",
-        "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Sepsis",
-      "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1459,6 +1459,22 @@
       "duration_ms": 201960,
       "name": "Killher",
       "url": "https://open.spotify.com/track/73fQhw7b0rTJa73YnxGeXZ"
+    },
+    {
+      "added_at": "2026-06-12 10:03:24",
+      "album": {
+        "name": "In the Shadow of Your Shadow",
+        "url": "https://open.spotify.com/album/7maRboTeK5m6gS1l7tkor3"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        }
+      ],
+      "duration_ms": 454139,
+      "name": "In the Shadow of Your Shadow",
+      "url": "https://open.spotify.com/track/2H0u9n6xdVlwajuJ8a5IZx"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1513,6 +1529,22 @@
       "url": "https://open.spotify.com/track/48Np1VL2ERq3M1uRjZExEi"
     },
     {
+      "added_at": "2026-06-12 10:03:24",
+      "album": {
+        "name": "Eat For Peace",
+        "url": "https://open.spotify.com/album/25x2ig612zO7n7ASjvVGO2"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Eat For Peace",
+      "url": "https://open.spotify.com/track/7cKxXhku9d5sm4RMYPA5ie"
+    },
+    {
       "added_at": "2026-06-08 09:09:19",
       "album": {
         "name": "PUT A HIT ON",
@@ -1545,22 +1577,6 @@
       "url": "https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE"
     },
     {
-      "added_at": "2026-06-12 10:03:24",
-      "album": {
-        "name": "In the Shadow of Your Shadow",
-        "url": "https://open.spotify.com/album/7maRboTeK5m6gS1l7tkor3"
-      },
-      "artists": [
-        {
-          "name": "Cult Of Luna",
-          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
-        }
-      ],
-      "duration_ms": 454139,
-      "name": "In the Shadow of Your Shadow",
-      "url": "https://open.spotify.com/track/2H0u9n6xdVlwajuJ8a5IZx"
-    },
-    {
       "added_at": "2026-06-08 09:09:19",
       "album": {
         "name": "Violent Obsession",
@@ -1575,22 +1591,6 @@
       "duration_ms": 209933,
       "name": "Violent Obsession",
       "url": "https://open.spotify.com/track/4a6irBo5JD7ktrmE3K1EvD"
-    },
-    {
-      "added_at": "2026-06-12 10:03:24",
-      "album": {
-        "name": "Eat For Peace",
-        "url": "https://open.spotify.com/album/25x2ig612zO7n7ASjvVGO2"
-      },
-      "artists": [
-        {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Eat For Peace",
-      "url": "https://open.spotify.com/track/7cKxXhku9d5sm4RMYPA5ie"
     },
     {
       "added_at": "2026-06-08 09:09:19",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-06-08 09:09:19",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 132476,
-      "name": "Ego Death",
-      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
-    },
-    {
-      "added_at": "2026-06-08 09:09:19",
-      "album": {
         "name": "Panic Blooms",
         "url": "https://open.spotify.com/album/4GTR2d6HO4ym4x24ZT10mE"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 185520,
       "name": "Panic Blooms",
       "url": "https://open.spotify.com/track/3fDYGDLBRhKWssjCPP2RSR"
+    },
+    {
+      "added_at": "2026-06-08 09:09:19",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 132476,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz"
     },
     {
       "added_at": "2026-06-08 09:09:19",

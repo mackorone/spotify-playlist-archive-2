@@ -4,7 +4,7 @@
 
 > quanto vale uma peça pronta ser substituída?
 
-536 songs - 1 day 5 hr 4 min
+537 songs - 1 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Avisa Lá](https://open.spotify.com/track/6Vz1T3319EdMDnh3UUAgjW) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [Avisa Lá](https://open.spotify.com/album/0aErLfp230jSZGmrssLYey) | 2:06 | 2025-09-26 | 2025-11-07 |
 | [Bambu Canta](https://open.spotify.com/track/1ohXnSWGBU4doY5rn9giw6) | [Pacificadores](https://open.spotify.com/artist/2uwIwpXUSnFLDvw6tfiX43), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Bambu Canta](https://open.spotify.com/album/26cy683WGgKOgLyzRCsZJ8) | 4:12 | 2023-05-29 | 2023-07-01 |
 | [Barbie](https://open.spotify.com/track/46qKbX4BGTmIMJAKpyXTkk) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [O Queridinho de Deus](https://open.spotify.com/album/12FBYClyofbdrOns5C79yq) | 3:39 | 2024-07-12 | 2024-08-31 |
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [BASQUIAT](https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:14 | 2025-06-16 | 2025-10-11 |
 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 | 2025-07-25 |  |
 | [BEBETO E ROMARIO](https://open.spotify.com/track/4ihHoM2wzMdl6uwpgDberY) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [Ericoness](https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584) | [BEBETO E ROMÁRIO](https://open.spotify.com/album/1VxaBJAMAiirehDkAP8J37) | 2:30 | 2025-05-16 | 2025-08-02 |

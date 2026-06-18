@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190690,
+  "num_followers": 190686,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Can You Swim?",
-        "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 295378,
-      "name": "Can You Swim?",
-      "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Shadowplay",
         "url": "https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 269549,
       "name": "Shadowplay",
       "url": "https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Can You Swim?",
+        "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 295378,
+      "name": "Can You Swim?",
+      "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Wallflower (Acoustic)",
-        "url": "https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 157248,
-      "name": "Wallflower - Acoustic",
-      "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Pelechian 2",
         "url": "https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 307706,
       "name": "Pelechian 2",
       "url": "https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Wallflower (Acoustic)",
+        "url": "https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 157248,
+      "name": "Wallflower - Acoustic",
+      "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "love so blind (night tapes)",
-        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "love so blind - night tapes",
-      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Richardson (feat. Cassandra Jenkins)",
         "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 224093,
       "name": "Richardson - feat. Cassandra Jenkins",
       "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "love so blind (night tapes)",
+        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "love so blind - night tapes",
+      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 244421,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Never Again",
         "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 172920,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 244421,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "the bed-ties",
-        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
-      },
-      "artists": [
-        {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Dragon's Eyes",
         "url": "https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 228897,
       "name": "Dragon's Eyes",
       "url": "https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "the bed-ties",
+        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
+      },
+      "artists": [
+        {
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Kaleidoscope Eyes",
-        "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
-      },
-      "artists": [
-        {
-          "name": "Kiki Annette",
-          "url": "https://open.spotify.com/artist/2M1xxVsfnDhcmP8wGmjFB8"
-        }
-      ],
-      "duration_ms": 238542,
-      "name": "Kaleidoscope Eyes",
-      "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Don't Worry About The Rain",
         "url": "https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 227840,
       "name": "Don't Worry About The Rain",
       "url": "https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Kaleidoscope Eyes",
+        "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
+      },
+      "artists": [
+        {
+          "name": "Kiki Annette",
+          "url": "https://open.spotify.com/artist/2M1xxVsfnDhcmP8wGmjFB8"
+        }
+      ],
+      "duration_ms": 238542,
+      "name": "Kaleidoscope Eyes",
+      "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Where's The Fun In That?",
-        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
-      },
-      "artists": [
-        {
-          "name": "Ola",
-          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Where's The Fun In That?",
-      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "The Moon Is Going For A Swim",
         "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 227433,
       "name": "The Moon Is Going For A Swim",
       "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Where's The Fun In That?",
+        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
+      },
+      "artists": [
+        {
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Where's The Fun In That?",
+      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/5yhYY6v7CcFXo19sk1Gugf"
-      },
-      "artists": [
-        {
-          "name": "Tamara van Esch",
-          "url": "https://open.spotify.com/artist/6I0aljI1BGURKG86BHka5C"
-        }
-      ],
-      "duration_ms": 138413,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/6QwgdzRdTNWnaeDNEDWYBT"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "My Hands",
         "url": "https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 218701,
       "name": "My Hands",
       "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/5yhYY6v7CcFXo19sk1Gugf"
+      },
+      "artists": [
+        {
+          "name": "Tamara van Esch",
+          "url": "https://open.spotify.com/artist/6I0aljI1BGURKG86BHka5C"
+        }
+      ],
+      "duration_ms": 138413,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/6QwgdzRdTNWnaeDNEDWYBT"
     },
     {
       "added_at": "2026-05-26 22:00:43",

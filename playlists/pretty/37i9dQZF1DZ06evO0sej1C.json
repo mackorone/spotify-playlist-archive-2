@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46021,
+  "num_followers": 46025,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABzAXDFi4IwVMFmFyBIfb35",
+  "snapshot_id": "ajCSAAAAAABbke+Fl5X1TWGTDaDtynrR",
   "tracks": [
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Quiero Verte",
-        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Ya No Quiero Verte",
-      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/0RtwQCubLxroysOl3OwEQ6"
       },
@@ -859,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/17YMQetTh8jx0V5oX7vkFP"
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
       },
       "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/1zcK9axMCoDFFHCDH18ief"
+      "duration_ms": 205714,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
     },
     {
       "added_at": null,
@@ -915,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/17YMQetTh8jx0V5oX7vkFP"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/1zcK9axMCoDFFHCDH18ief"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LQRA Session #3",
         "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
       },
@@ -931,6 +931,26 @@
       "duration_ms": 174285,
       "name": "LQRA Session #3",
       "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
     },
     {
       "added_at": null,
@@ -959,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3"
+        "name": "Solo Tuya",
+        "url": "https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV"
       },
       "artists": [
         {
@@ -968,13 +988,13 @@
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
         }
       ],
-      "duration_ms": 231111,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
+      "duration_ms": 226500,
+      "name": "Solo Tuya",
+      "url": "https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv"
     },
     {
       "added_at": null,
@@ -1015,22 +1035,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Tuya",
-        "url": "https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV"
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
       },
       "artists": [
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
         }
       ],
-      "duration_ms": 226500,
-      "name": "Solo Tuya",
-      "url": "https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv"
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
     },
     {
       "added_at": null,
@@ -1051,22 +1067,6 @@
       "duration_ms": 211408,
       "name": "Tequila y Miel",
       "url": "https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Que Qued\u00f3",
-        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 207464,
-      "name": "Lo Que Qued\u00f3",
-      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
     },
     {
       "added_at": null,
@@ -1115,6 +1115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El",
+        "url": "https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El",
-        "url": "https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El",
-      "url": "https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faruz Fit, Vol. 2",
         "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
       },
@@ -1175,26 +1175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So\u00f1ar",
-        "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
-      },
-      "artists": [
-        {
-          "name": "Danntik",
-          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "So\u00f1ar",
-      "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Andamos Al Cien",
         "url": "https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 192840,
       "name": "Andamos Al Cien",
       "url": "https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So\u00f1ar",
+        "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
+      },
+      "artists": [
+        {
+          "name": "Danntik",
+          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "So\u00f1ar",
+      "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
     },
     {
       "added_at": null,

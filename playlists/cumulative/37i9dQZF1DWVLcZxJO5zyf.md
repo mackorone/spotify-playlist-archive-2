@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto:  Melly
 
-489 songs - 23 hr 19 min
+490 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [BANDIDONA](https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [BANDIDONA](https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK) | 2:16 | 2023-11-17 | 2024-11-23 |
 | [Bang Bang](https://open.spotify.com/track/1gjKagIlUT6u2giC5NJTyF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Bang Bang](https://open.spotify.com/album/65gaJhM7QYfPtjO2lg4B9V) | 2:54 | 2022-01-14 | 2022-01-30 |
 | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Barbie \(feat\. Danny Bond\)](https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx) | 2:29 | 2022-01-14 | 2022-10-15 |
+| [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Barulhinho](https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Barulhinho](https://open.spotify.com/album/1gFplCaLXiRiMHccV2BrIv) | 2:49 | 2023-07-14 | 2023-10-24 |
 | [BASQUIAT](https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:14 | 2025-05-30 | 2025-11-27 |
 | [belo horizonte \(metade de mim\)](https://open.spotify.com/track/4Q668LogaM0KnJWlqSzyHt) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [belo horizonte \(metade de mim\)](https://open.spotify.com/album/0G8JkUOLgYOf5XfgL8Fw2N) | 2:32 | 2025-02-14 | 2025-06-19 |

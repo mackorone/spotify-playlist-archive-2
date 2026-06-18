@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 109 | [Better](https://open.spotify.com/track/15xlb7bnht6i3Y2ioy2Ewp) | [Brenna Bone](https://open.spotify.com/artist/0L79xgZmjcUCraxgHJoTek) | [Better](https://open.spotify.com/album/3BrMkb7LCKsdh2WZFz8rwt) | 3:24 |
 | 110 | [I'd Look Good In That Truck](https://open.spotify.com/track/5P9R7DNHtVtXpWDeHAVLJC) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Rooted](https://open.spotify.com/album/3tjdOyyLWIQeX6S79YjWbL) | 3:26 |
 | 111 | [The Best Kind](https://open.spotify.com/track/4QBnvCvtwniPVGNgqDPFQT) | [Lee Langston](https://open.spotify.com/artist/1lrPBxFvIFSAzT1vNJOnNT) | [The Best Kind](https://open.spotify.com/album/0SnM6LgLYRjPgTI6QvmzTD) | 3:45 |
-| 112 | [Prettiest Girl In The Room](https://open.spotify.com/track/59WvgpXhQYHHh0jrstaSi5) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Always Gonna Be You](https://open.spotify.com/album/6IuTM80djAskPLrCz6Ij0L) | 2:41 |
-| 113 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
+| 112 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
+| 113 | [Prettiest Girl In The Room](https://open.spotify.com/track/59WvgpXhQYHHh0jrstaSi5) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Always Gonna Be You](https://open.spotify.com/album/6IuTM80djAskPLrCz6Ij0L) | 2:41 |
 | 114 | [Tunnel Vision](https://open.spotify.com/track/2C5ajossz6UOJxCOBxqllx) | [Karl Michael](https://open.spotify.com/artist/4zFqfg8R6X9aUWIdYm3xTT) | [Tunnel Vision](https://open.spotify.com/album/2h76wGQj1dACn0QorMaJBD) | 2:52 |
 | 115 | [Talk About Us](https://open.spotify.com/track/08RiWxHaYoIn1yLjhFj50p) | [Rosewood Ave](https://open.spotify.com/artist/4vVkRcAngiXV8RV6HMTnjC) | [Talk About Us](https://open.spotify.com/album/4aeHx1nPEoicC14Gwyj7DN) | 3:19 |
 | 116 | [Settle Down Side](https://open.spotify.com/track/35vaYhPuMAHJHoAuDAQqTd) | [Ryan Larkins](https://open.spotify.com/artist/68NqPk17yeFtEc8TOnVDY0) | [Settle Down Side](https://open.spotify.com/album/4RvcBDAqe8YUguaph39xM0) | 3:25 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcUaBgAAAAAGii0d2mBlLMou7ERdjHei`
+Snapshot ID: `AcUfpgAAAADuSlQIMYHJz+MQvNURn2Yx`

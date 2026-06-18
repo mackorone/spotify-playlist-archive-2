@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-590 songs - 1 day 10 hr 57 min
+591 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Melody Rules](https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd) | [Nicolai Dunger](https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18) | [Melody Rules](https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz) | 4:49 | 2024-06-27 | 2024-09-11 |
 | [Men bara om min älskade väntar](https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO) | [Nationalteatern](https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U) | [Men bara om min älskade väntar](https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq) | 3:33 | 2025-05-01 | 2025-09-05 |
 | [Midsommar](https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Midsommar](https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q) | 2:49 | 2024-06-27 | 2024-08-23 |
+| [Midsommarafton igen](https://open.spotify.com/track/7do8KbnUYU4BbwUzW3tjnG) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Midsommarafton igen](https://open.spotify.com/album/4DEwW9MuZa1XLkc2FXa4b3) | 3:32 | 2026-06-15 |  |
 | [Midsommardansen](https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Midsommardansen](https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W) | 2:04 | 2024-06-27 | 2024-10-22 |
 | [Midsummer Day](https://open.spotify.com/track/1ui8U7xoaD0T6i8CxC6GIz) | [Max Niclasson](https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ), [Lila Arora Niclasson](https://open.spotify.com/artist/1Ba7x99Wc4Kr5H48wKop8w) | [Midsummer Day](https://open.spotify.com/album/7qGzOgLpi9w3PBorpCKFbD) | 2:36 | 2024-06-27 | 2024-09-06 |
 | [Milk and Honey](https://open.spotify.com/track/7rtz6LtAUI72pAkuCnHtaf) | [Magnus Carlson](https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM), [The Moon Ray Quintet](https://open.spotify.com/artist/0ghf0xlbifPVuJwKwWEGFF) | [Shadows](https://open.spotify.com/album/5wmTGNDDYHVjdssmjCYwC5) | 3:52 | 2025-12-04 | 2026-03-06 |
@@ -518,7 +519,7 @@
 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 | 2025-09-18 |  |
 | [Todas nacemos con alas](https://open.spotify.com/track/2RsJaTRZ998FJIlvx4Vuk3) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Todas nacemos con alas](https://open.spotify.com/album/730wfoIiktQkZfLv6Y32KZ) | 3:04 | 2026-05-14 | 2026-06-07 |
 | [Tonårsland](https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tonårsland](https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9) | 3:10 | 2026-03-12 |  |
-| [Tre hjärtan](https://open.spotify.com/track/3L2rFytbqORYicZmWVAigP) | [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [Aster, atlas](https://open.spotify.com/album/1hFzEB9BFfUxnSlZtEiurd) | 3:15 | 2026-05-08 |  |
+| [Tre hjärtan](https://open.spotify.com/track/3L2rFytbqORYicZmWVAigP) | [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [Aster, atlas](https://open.spotify.com/album/1hFzEB9BFfUxnSlZtEiurd) | 3:15 | 2026-05-08 | 2026-06-18 |
 | [Tro](https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hemland](https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw) | 4:39 | 2025-09-25 | 2026-05-29 |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-04-25 |
 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 | 2024-09-26 | 2025-04-25 |

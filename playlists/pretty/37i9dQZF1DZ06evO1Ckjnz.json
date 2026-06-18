@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20204,
+  "num_followers": 20202,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAB+OuF7bDPdFP/x0RAHZ5L/",
+  "snapshot_id": "ajCSAAAAAAB+5iTbkhTs+2F3kZXy4xn2",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "None Of It",
-        "url": "https://open.spotify.com/album/7xeloBzihT4ZCf8knxy73f"
-      },
-      "artists": [
-        {
-          "name": "XanMan",
-          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "None Of It",
-      "url": "https://open.spotify.com/track/2WCGdTnNiLVbQifzsxL9Qc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Nasty (w/ Rico Nasty & Whethan)",
         "url": "https://open.spotify.com/album/02LwsAJRZNg5elZqc4tPEo"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 131391,
       "name": "Get Nasty (w/ Rico Nasty & Whethan)",
       "url": "https://open.spotify.com/track/5l9IES7aHrrjA1yStzXaVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "None Of It",
+        "url": "https://open.spotify.com/album/7xeloBzihT4ZCf8knxy73f"
+      },
+      "artists": [
+        {
+          "name": "XanMan",
+          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "None Of It",
+      "url": "https://open.spotify.com/track/2WCGdTnNiLVbQifzsxL9Qc"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 176026,
-      "name": "EAT ME!",
-      "url": "https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk"
+      "duration_ms": 136120,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL-ER",
-        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 118000,
-      "name": "STUNNA",
-      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
+      "duration_ms": 91754,
+      "name": "Bitch I'm Nasty",
+      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
     },
     {
       "added_at": null,
@@ -800,15 +800,15 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 136120,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
+      "duration_ms": 176026,
+      "name": "EAT ME!",
+      "url": "https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+        "name": "LETHAL-ER",
+        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 91754,
-      "name": "Bitch I'm Nasty",
-      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
+      "duration_ms": 118000,
+      "name": "STUNNA",
+      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
     },
     {
       "added_at": null,
@@ -843,22 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jealous (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Jealous (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
+      "duration_ms": 109788,
+      "name": "Vaderz (feat. Bktherula)",
+      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
     },
     {
       "added_at": null,
@@ -887,22 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+        "name": "Jealous (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         },
         {
-          "name": "BKTHERULA",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 109788,
-      "name": "Vaderz (feat. Bktherula)",
-      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
+      "duration_ms": 199680,
+      "name": "Jealous (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
       "duration_ms": 152123,
       "name": "Butt Naked (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/69teIpBvUEW4WwO8DILqxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 201061,
+      "name": "Blow Me",
+      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
     },
     {
       "added_at": null,
@@ -959,22 +975,6 @@
       "duration_ms": 140346,
       "name": "Hatin",
       "url": "https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 201061,
-      "name": "Blow Me",
-      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
     }
   ],
   "unique_name": "This Is Rico Nasty",

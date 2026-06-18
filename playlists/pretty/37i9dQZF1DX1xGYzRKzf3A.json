@@ -1,12 +1,12 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 172232,
+  "num_followers": 172269,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADQePj+10jgcONl7QFSzDwzUKfJm",
+  "snapshot_id": "AAAAAEkbTR6vqeRlXgeRs3PUhoECgCIm",
   "tracks": [
     {
       "added_at": "2026-06-08 18:17:51",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Fuego Contra Fuego",
-        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Soy Lo Peor",
-      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Sincopa",
         "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 292160,
       "name": "Bombos y Tarolas",
       "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Fuego Contra Fuego",
+        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Soy Lo Peor",
+      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "45 \u00c9xitos (Versiones Originales)",
-        "url": "https://open.spotify.com/album/3j5xMGA9BmUE77O512excf"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Ag\u00fcita De Coco",
-      "url": "https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Soy HUMBE",
         "url": "https://open.spotify.com/album/6L7RJ9Mkocxwgm549ROLjD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 178327,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/3j5xMGA9BmUE77O512excf"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Ag\u00fcita De Coco",
+      "url": "https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Para Sobrevivir",
         "url": "https://open.spotify.com/album/6uaS5wiwBumnHAW3ZlySQB"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 189146,
       "name": "Bienvenido Al Amor",
       "url": "https://open.spotify.com/track/37BWywucpTcrzdhcZwkKyG"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Falsa Traici\u00f3n",
-        "url": "https://open.spotify.com/album/0hgNADfjKFvsM3SwgKRqnR"
-      },
-      "artists": [
-        {
-          "name": "Sonido Mazter",
-          "url": "https://open.spotify.com/artist/2Je9VeZnmnpDrCIwWu3wuM"
-        }
-      ],
-      "duration_ms": 150213,
-      "name": "Casi Siempre Estoy Pensando En Ti",
-      "url": "https://open.spotify.com/track/313aLoAv5EAuPDxXqpFTIe"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "En Manos Del Tiempo",
-        "url": "https://open.spotify.com/album/0XPM5J7QGgCUpmvRxrrL3c"
+        "name": "Falsa Traici\u00f3n",
+        "url": "https://open.spotify.com/album/0hgNADfjKFvsM3SwgKRqnR"
       },
       "artists": [
         {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+          "name": "Sonido Mazter",
+          "url": "https://open.spotify.com/artist/2Je9VeZnmnpDrCIwWu3wuM"
         }
       ],
-      "duration_ms": 176440,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/61dUrdx6PLjQX3Ve6gnpD0"
+      "duration_ms": 150213,
+      "name": "Casi Siempre Estoy Pensando En Ti",
+      "url": "https://open.spotify.com/track/313aLoAv5EAuPDxXqpFTIe"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1263,6 +1247,22 @@
       "duration_ms": 184893,
       "name": "Debajo del Sombrero (feat. Pancho Uresti)",
       "url": "https://open.spotify.com/track/1WxHPhfIClKbpSnPPHnkF4"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "En Manos Del Tiempo",
+        "url": "https://open.spotify.com/album/0XPM5J7QGgCUpmvRxrrL3c"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/61dUrdx6PLjQX3Ve6gnpD0"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Te Sigo Amando",
-        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Hay Problema",
-      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ROY",
         "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 275226,
       "name": "Coraz\u00f3n : Classics",
       "url": "https://open.spotify.com/track/6V0NuH6KjxjR1GPHPtro53"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Te Sigo Amando",
+        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Hay Problema",
+      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 186769,
+      "name": "El Tiempo Que Necesites",
+      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Cholos al Punto",
         "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 186769,
-      "name": "El Tiempo Que Necesites",
-      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Cumbia Embajadora",
         "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
         "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 256306,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/5Qwinf4K7rDH2WXESLNUxi"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Arrepientete",
-      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 138640,
       "name": "Recordando Monterrey",
       "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Arrepientete",
+      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
     },
     {
       "added_at": "2026-06-08 18:17:51",

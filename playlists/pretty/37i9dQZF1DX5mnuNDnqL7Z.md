@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 
 > Who run the world? Cover: Bella Kay
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,469 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,471 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 99 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 |
 | 100 | [Buffalo 66](https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK) | 4:27 |
 
-Snapshot ID: `AAAAABQGS8pAmgzsi+BXgwleO3VYiijL`
+Snapshot ID: `AAAAACMwIO5ilmnJFzjGrFLypLI51dPo`

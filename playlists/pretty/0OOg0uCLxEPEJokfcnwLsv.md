@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,091 likes - 94 songs - 5 hr 46 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,095 likes - 97 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 92 | [Give Me A Shout](https://open.spotify.com/track/3zIZ8fu1beiuWwybBLB3Pc) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Ixora](https://open.spotify.com/album/31b85ZfTbz5OsrILSlerVR) | 3:12 |
 | 93 | [Hold Me Close](https://open.spotify.com/track/4Y21eeDE3adB2k1e9vzwQa) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Tin Zelkova](https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3) | 3:56 |
 | 94 | [Soul Shaker](https://open.spotify.com/track/455EZjFPWXNndPkm7IXAm3) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Tin Zelkova](https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3) | 3:35 |
+| 95 | [Back 40](https://open.spotify.com/track/0iaNSdzQj8xsukNbny7g5Y) | [PICKLE JUICE](https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS) | [The Whiteroom](https://open.spotify.com/album/5guju2jxu3skCcJqbijGHN) | 3:07 |
+| 96 | [Table for two](https://open.spotify.com/track/3MBEjrMog5LFLgbOFwgfDn) | [Seven Streets](https://open.spotify.com/artist/61zHO5qtdK8nvpi2aUQSiN) | [Table for two](https://open.spotify.com/album/51eiEwuzPoxAEIhYB7qtZQ) | 4:03 |
+| 97 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 |
 
-Snapshot ID: `AAAGg1B2YkEKRAZltvRFut6KYKYKdCuV`
+Snapshot ID: `AAAGhntRnBLXp8/0YcgK2XdYMrMxf+Ew`

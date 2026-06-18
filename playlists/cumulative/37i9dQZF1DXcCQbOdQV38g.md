@@ -4,7 +4,7 @@
 
 > Het zomergevoel met Nederlandstalig ☀️🧡\. Cover: Donnie & Senna
 
-123 songs - 5 hr 44 min
+124 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Kadootje](https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Kadootje](https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy) | 2:23 | 2025-07-01 | 2026-04-08 |
 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 | 2026-04-07 | 2026-04-17 |
 | [Kijk Ons Nou](https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Kijk Ons Nou](https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt) | 2:43 | 2025-07-01 |  |
+| [Kleine Vogel](https://open.spotify.com/track/5uqIZbI2Y5skxb6jzyY6TG) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/4WWwBl1fXwJ4SjOxE34eCp) | 3:04 | 2026-06-17 |  |
 | [Laat Me Lekker Leven](https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Laat Me Lekker Leven](https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q) | 3:11 | 2025-07-01 | 2026-04-08 |
 | [Laat Mij Nu Alleen](https://open.spotify.com/track/1Zrp43yN8u5awpag0A3DQo) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Don Perignon](https://open.spotify.com/artist/4DYBWqRV6KEzNKKEyW9I0t), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Laat Mij Nu Alleen](https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR) | 2:15 | 2025-07-01 | 2026-04-08 |
 | [Layla](https://open.spotify.com/track/7vb5ewZM4Ei7FTbSYDAPd8) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/5WBoyKy4ezxq7P4v6Yyvf7) | 2:43 | 2026-03-12 | 2026-04-08 |
@@ -130,6 +131,6 @@
 | [Zolang Je Bij Me Bent](https://open.spotify.com/track/7aAWfzW0L6448bUNxNVYIo) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Zolang Je Bij Me Bent](https://open.spotify.com/album/5XtfG950glREhIpc0pWQzA) | 2:51 | 2025-07-01 | 2026-01-15 |
 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5) | 2:32 | 2025-07-01 |  |
 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 | 2025-07-01 |  |
-| [Zwoele Zomernachten](https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zwoele Zomernachten](https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT) | 3:15 | 2026-06-08 | 2026-06-16 |
+| [Zwoele Zomernachten](https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zwoele Zomernachten](https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT) | 3:15 | 2026-06-08 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

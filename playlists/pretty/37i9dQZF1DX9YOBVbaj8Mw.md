@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,495 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,494 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 22 | [MAMONY MILION](https://open.spotify.com/track/4PyvnCQhcNUeKmmqRseGxI) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [WSZYSCY JESTEŚMY KACPERCZYK](https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q) | 3:18 |
 | 23 | [PÓŁNOC / POŁUDNIE](https://open.spotify.com/track/4QTSoHVlCjAp0DWUYUZ3Ok) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [JIMEK](https://open.spotify.com/artist/0ij2PQYebfZF0UuitRTeyh) | [PÓŁNOC / POŁUDNIE](https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1) | 5:01 |
 | 24 | [tom i jerry](https://open.spotify.com/track/5Ce7f1EBFE7QNZ9XaEYj5W) | [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [Kepler](https://open.spotify.com/artist/7ycDermclPImSqRTxzpHn2), [Kania](https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq) | [POLOT](https://open.spotify.com/album/3kufOEFkqCrE0lMaDTasjR) | 2:36 |
-| 25 | [Himalaje](https://open.spotify.com/track/3VVkjA4KTxFjCTr7PyaY5C) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Harmonia](https://open.spotify.com/album/42CNwNbrwex67xNAmR3yWV) | 3:27 |
-| 26 | [Niemoc](https://open.spotify.com/track/1KMrGfMA3vxGaI2UUKjBbl) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [25](https://open.spotify.com/album/0xjzc4iCVMxVPE5584fUhW) | 3:52 |
+| 25 | [Niemoc](https://open.spotify.com/track/1KMrGfMA3vxGaI2UUKjBbl) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [25](https://open.spotify.com/album/0xjzc4iCVMxVPE5584fUhW) | 3:52 |
+| 26 | [Himalaje](https://open.spotify.com/track/3VVkjA4KTxFjCTr7PyaY5C) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Harmonia](https://open.spotify.com/album/42CNwNbrwex67xNAmR3yWV) | 3:27 |
 | 27 | [MOJA WINA](https://open.spotify.com/track/117KifGYCTOCz3lFev5urW) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [MOJA WINA](https://open.spotify.com/album/7sVLTQs9bdJEurrnUKYjvY) | 2:48 |
 | 28 | [Motyle](https://open.spotify.com/track/4Yaz1ROIB410KmtOrvXlWY) | [Lady Pank](https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j) | [45](https://open.spotify.com/album/4lG4wogGTP6bNbi5MU2Xoq) | 3:22 |
 | 29 | [Zimna woda](https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud) | [Basia Giewont](https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9) | [Szeptucha](https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ) | 2:40 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 50 | [YUMI](https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI](https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi) | 2:39 |
 | 51 | [An Empty Grave Is Just A Hole In The Ground](https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3) | [Hostia](https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy) | [Razorblade Psalm](https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV) | 1:36 |
 | 52 | [Tokyo](https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 7:24 |
-| 53 | [Wolny jak Liść](https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ) | [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG) | [Druga Furioza \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT) | 1:45 |
-| 54 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
+| 53 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
+| 54 | [Wolny jak Liść](https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ) | [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG) | [Druga Furioza \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT) | 1:45 |
 | 55 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |
 | 56 | [Chaga](https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzyby](https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO) | 2:54 |
 | 57 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |

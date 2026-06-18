@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-556 songs - 1 day 6 hr 30 min
+557 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,8 @@
 | [two years](https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:47 | 2025-01-09 |  |
 | [Typical](https://open.spotify.com/track/5sGTgu8E6XIUcYX6KbAaW9) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Typical](https://open.spotify.com/album/52EEYalE16TZY5EkdDr5zX) | 2:10 | 2024-07-06 |  |
 | [uhoh](https://open.spotify.com/track/04w6RjedkvhojBqAFyxI70) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:50 | 2023-06-30 |  |
-| [Ultimatum](https://open.spotify.com/track/2LefC4zg7mWiiRGaGJmfkm) | [Televisionaries](https://open.spotify.com/artist/6Tb9rehtVCRdLfsQXMgOaD) | [Mad About You](https://open.spotify.com/album/2iZFxp4O4u11do64P2381S) | 2:37 | 2023-06-22 |  |
+| [Ultimatum](https://open.spotify.com/track/18BOUNHrgMvDj0B0otCH1H) | [Televisionaries](https://open.spotify.com/artist/6Tb9rehtVCRdLfsQXMgOaD) | [Mad About You](https://open.spotify.com/album/7oThVsd9KyUDxxUpk5y73X) | 2:37 | 2026-06-17 |  |
+| [Ultimatum](https://open.spotify.com/track/2LefC4zg7mWiiRGaGJmfkm) | [Televisionaries](https://open.spotify.com/artist/6Tb9rehtVCRdLfsQXMgOaD) | [Mad About You](https://open.spotify.com/album/2iZFxp4O4u11do64P2381S) | 2:37 | 2023-06-22 | 2026-06-18 |
 | [Under](https://open.spotify.com/track/1oCDJiTPVayQx46M8YZOHB) | [Lovi Poe](https://open.spotify.com/artist/7y1faroNftK3H3EJqeLQo8) | [Under](https://open.spotify.com/album/3cYuWp7jZuiZ40hqCvXhYu) | 3:10 | 2022-12-15 | 2025-07-10 |
 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 | 2021-12-27 |  |
 | [Unforgettable](https://open.spotify.com/track/6COFKNQoAgBN4hgiF7q6A8) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Unforgettable Songs](https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d) | 2:36 | 2023-06-22 | 2023-12-14 |

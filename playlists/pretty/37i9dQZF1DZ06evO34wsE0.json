@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 253515,
+  "num_followers": 253560,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADvqO8VTIsgFaiIQusCc5a4",
+  "snapshot_id": "ajCSAAAAAABkl3AEXQbrdaBm8gbhoVls",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party For Two",
-        "url": "https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo"
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         },
         {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Party For Two - Country Version With Intro",
-      "url": "https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s"
+      "duration_ms": 259739,
+      "name": "Endless Love",
+      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
     },
     {
       "added_at": null,
@@ -275,22 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+        "name": "Party For Two",
+        "url": "https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 259739,
-      "name": "Endless Love",
-      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
+      "duration_ms": 212640,
+      "name": "Party For Two - Country Version With Intro",
+      "url": "https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s"
     },
     {
       "added_at": null,
@@ -431,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets: Friends & Legends",
-        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 222413,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
+      "duration_ms": 289573,
+      "name": "The Woman In Me (Needs The Man In You)",
+      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
     },
     {
       "added_at": null,
@@ -467,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Duets: Friends & Legends",
+        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
       "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 289573,
-      "name": "The Woman In Me (Needs The Man In You)",
-      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
+      "duration_ms": 222413,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
     },
     {
       "added_at": null,
@@ -667,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't!",
-        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Don't! - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
+      "duration_ms": 148274,
+      "name": "Boots Don't",
+      "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
     },
     {
       "added_at": null,
@@ -699,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+        "name": "Don't!",
+        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 148274,
-      "name": "Boots Don't",
-      "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
+      "duration_ms": 238560,
+      "name": "Don't! - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
     },
     {
       "added_at": null,

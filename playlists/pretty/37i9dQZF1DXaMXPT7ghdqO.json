@@ -1,6 +1,6 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 41402,
+  "num_followers": 41403,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
@@ -887,8 +887,8 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "BAD BOY",
-        "url": "https://open.spotify.com/album/6JwpsT9vSQkW838BReuRlh"
+        "name": "UNCHAIN",
+        "url": "https://open.spotify.com/album/5JUUtIzzqEk0HwcVSr3W6c"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv"
         }
       ],
-      "duration_ms": 216720,
-      "name": "BAD BOY",
-      "url": "https://open.spotify.com/track/6WODSLnIDO4fghcFR5Lsx3"
+      "duration_ms": 223053,
+      "name": "UNCHAIN",
+      "url": "https://open.spotify.com/track/53obz95llonlbhOXJb5bmU"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "UNCHAIN",
-        "url": "https://open.spotify.com/album/5JUUtIzzqEk0HwcVSr3W6c"
+        "name": "BAD BOY",
+        "url": "https://open.spotify.com/album/6JwpsT9vSQkW838BReuRlh"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/3ebYjwWDYnmnfdoQ1eNljv"
         }
       ],
-      "duration_ms": 223053,
-      "name": "UNCHAIN",
-      "url": "https://open.spotify.com/track/53obz95llonlbhOXJb5bmU"
+      "duration_ms": 216720,
+      "name": "BAD BOY",
+      "url": "https://open.spotify.com/track/6WODSLnIDO4fghcFR5Lsx3"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
+        "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/4uthqzojX4HGbgDgI18Nng"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "Flowering palettes",
+      "url": "https://open.spotify.com/track/5g0oEwrd8gQqk2JJ167hNY"
+    },
+    {
+      "added_at": "2025-06-13 08:46:52",
+      "album": {
         "name": "Here We Go!!",
         "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/4uthqzojX4HGbgDgI18Nng"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 250146,
-      "name": "Flowering palettes",
-      "url": "https://open.spotify.com/track/5g0oEwrd8gQqk2JJ167hNY"
-    },
-    {
-      "added_at": "2025-06-13 08:46:52",
-      "album": {
         "name": "Mr. Music",
         "url": "https://open.spotify.com/album/4hTGKu2WW6sVI3Au3SyOum"
       },
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 173120,
-      "name": "\u8ee2\u751f\u3057\u305f\u3089\u738b\u5b50\u69d8\u3060\u3063\u305f\u4ef6\uff01",
-      "url": "https://open.spotify.com/track/27tor6VqWB313GHXqZz8kC"
+      "duration_ms": 210826,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/3J9g4S55hRXSHs4ZgmnvY7"
     }
   ],
   "unique_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 732 songs - 1 day 23 hr 6 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 730 songs - 1 day 22 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -731,14 +731,12 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 721 | [Open the Fucking Fantasy](https://open.spotify.com/track/3c1CDgtFAPJkkKnBMkGlZ4) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Soft New Magic Dream](https://open.spotify.com/album/0ymqPRrABPL10xvZShIMIe) | 4:00 |
 | 722 | [ようこそ、夏の王国へ](https://open.spotify.com/track/2H7gT6zL5qSeAqTpfDqlWu) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [夏・全・開](https://open.spotify.com/album/1amISkdWujGVaDuLJPfDt9) | 4:01 |
 | 723 | [I Ate the Most](https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 4:06 |
-| 724 | [stone bogus](https://open.spotify.com/track/6jE44IKmr7HzkCintxczLS) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Stone Bogus](https://open.spotify.com/album/63sy0WWNIH60kyLv1DSwSQ) | 2:34 |
-| 725 | [drop dead](https://open.spotify.com/track/0yO9QD2Ga7eUzqnNYsSSPo) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:44 |
-| 726 | [Ghost of Love](https://open.spotify.com/track/4Zv3AQWJwO769KBlPkExym) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:35 |
-| 727 | [Icarus](https://open.spotify.com/track/66BoVWjtxH7RZRLLvQUnaq) | [Adeline](https://open.spotify.com/artist/2MUW8E2Dy6sWwo07cfWBzQ) | [Good TV](https://open.spotify.com/album/0DOKzE7LbAyYqTAyWq9qUF) | 4:03 |
-| 728 | [Blackberry Marmalade](https://open.spotify.com/track/2QOTLNlbpsTJq074uw3yLY) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cry Baby](https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs) | 3:52 |
-| 729 | [Keep Me on Your Mind](https://open.spotify.com/track/7DYIFyeJ7hHxns755Z8WgU) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:17 |
-| 730 | [The Garden Prelude](https://open.spotify.com/track/6YvNYOrGKPWKlUPpkruhRY) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 0:48 |
-| 731 | [My Pal the Tortoise](https://open.spotify.com/track/1anrtrcrzrfSa9zJmppIKo) | [Thinking Fellers Union Local 282](https://open.spotify.com/artist/6MxGhSYp621FZiZpVaPxtR) | [Strangers from the Universe](https://open.spotify.com/album/6FQuVWeNCWkCXuyYGiF5sV) | 2:47 |
-| 732 | [Going for the One \- 2008 Remaster](https://open.spotify.com/track/0iKQH7ZPkxWGBNL0XFvBAb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Going for the One](https://open.spotify.com/album/5D6az0bHFbVbBpWEqnXeCj) | 5:32 |
+| 724 | [Ghost of Love](https://open.spotify.com/track/4Zv3AQWJwO769KBlPkExym) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:35 |
+| 725 | [Blackberry Marmalade](https://open.spotify.com/track/2QOTLNlbpsTJq074uw3yLY) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cry Baby](https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs) | 3:52 |
+| 726 | [Keep Me on Your Mind](https://open.spotify.com/track/7DYIFyeJ7hHxns755Z8WgU) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:17 |
+| 727 | [The Garden Prelude](https://open.spotify.com/track/6YvNYOrGKPWKlUPpkruhRY) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 0:48 |
+| 728 | [My Pal the Tortoise](https://open.spotify.com/track/1anrtrcrzrfSa9zJmppIKo) | [Thinking Fellers Union Local 282](https://open.spotify.com/artist/6MxGhSYp621FZiZpVaPxtR) | [Strangers from the Universe](https://open.spotify.com/album/6FQuVWeNCWkCXuyYGiF5sV) | 2:47 |
+| 729 | [Going for the One \- 2008 Remaster](https://open.spotify.com/track/0iKQH7ZPkxWGBNL0XFvBAb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Going for the One](https://open.spotify.com/album/5D6az0bHFbVbBpWEqnXeCj) | 5:32 |
+| 730 | [太陽とダァリヤ\(2021 Remastered\)](https://open.spotify.com/track/1kVfpUDx3ofFV71kPQZYQx) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [WORLD STANDARD（2021 Remastered）](https://open.spotify.com/album/4MUXGPluCvXfqz943sE7Oc) | 3:48 |
 
-Snapshot ID: `AAAJKL4ogjwZ77fttJSXBV05aXDZnpzu`
+Snapshot ID: `AAAJLAzY4CEvklFd8ARl7f87/7n8OM87`

@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 239513,
+  "num_followers": 239528,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
+        "name": "Mention of Your Name",
+        "url": "https://open.spotify.com/album/2USSc59dLBefzfo9WPtUXn"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 326706,
+      "name": "Mention of Your Name",
+      "url": "https://open.spotify.com/track/4AyrksLYxy1R8X8IDukI0h"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
         "name": "The War Is Over",
         "url": "https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 330266,
       "name": "Abba (Arms of a Father)",
       "url": "https://open.spotify.com/track/35Siw3D3rzUoCMsEuij4rn"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
-        "name": "Mention of Your Name",
-        "url": "https://open.spotify.com/album/2USSc59dLBefzfo9WPtUXn"
-      },
-      "artists": [
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 326706,
-      "name": "Mention of Your Name",
-      "url": "https://open.spotify.com/track/4AyrksLYxy1R8X8IDukI0h"
     },
     {
       "added_at": "2026-04-17 06:51:16",

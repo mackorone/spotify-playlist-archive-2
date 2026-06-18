@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: YQ Tan\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: SONG NING\. Artwork: Isu Kim.
 
-1,480 songs - 3 day 9 hr 3 min
+1,482 songs - 3 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1460,6 +1460,7 @@
 | [样 Young](https://open.spotify.com/track/6LbAXTkBb8BM3kh54D8tCm) | [鍾汶芳](https://open.spotify.com/artist/2QSh7SsfVcNJKI2d614Uim) | [样 Young](https://open.spotify.com/album/2CYvORKWlYMp467GQGO5mw) | 3:35 | 2025-06-26 | 2025-09-06 |
 | [欠我](https://open.spotify.com/track/0GWIrhy38bJd0SYEBruCEq) | [Von Lee](https://open.spotify.com/artist/6QfuuDTTec3hfzEoCIyCZQ) | [欠我](https://open.spotify.com/album/05UywX4wNlPhD8jMbRshcy) | 3:47 | 2025-07-31 | 2025-09-06 |
 | [残翼](https://open.spotify.com/track/6ZMxeR2diL6vZUSOwSOZxi) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P) | [NOVA](https://open.spotify.com/album/5MSUqH2pWSa1zrSUYrYBcT) | 3:32 | 2025-11-14 | 2026-03-14 |
+| [每天每天每天](https://open.spotify.com/track/25pYxF4SWEJGe3FO7ZfjDE) | [Fishe 林雪仪](https://open.spotify.com/artist/1S5Crklk39qbdMVAbA4IwH) | [每天每天每天](https://open.spotify.com/album/359YLfW3Rf8yNW0YrOTchg) | 4:08 | 2026-06-17 |  |
 | [沒人告訴我](https://open.spotify.com/track/1FkVTnsWEj7QwIt6Yzi0mg) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [沒人告訴我](https://open.spotify.com/album/70nXkaVUEQ8XVHK1NWyV2R) | 3:28 | 2025-12-03 | 2026-01-15 |
 | [没关系](https://open.spotify.com/track/5f8RxIrDnpWChZ8ymWlZhu) | [LOEWEN 洛文](https://open.spotify.com/artist/0t01iYK7btEIOlOgcbaHTE) | [没关系](https://open.spotify.com/album/5jnwzgXLCQF5TjN38E3XDS) | 4:30 | 2026-06-10 |  |
 | [没有人能够](https://open.spotify.com/track/69nROcHPRjqovW5SYkVp7V) | [Chris 官杰皓](https://open.spotify.com/artist/1RmlAusTzAZxnL52oD223v) | [没有人能够](https://open.spotify.com/album/6Y6GmfpolslfG6p1mNZLxz) | 3:24 | 2025-09-12 | 2025-11-08 |
@@ -1472,6 +1473,7 @@
 | [老婆 WIFEY](https://open.spotify.com/track/33OF6XmqCZGQW3tPnYx4WM) | [ISMECHANGFU](https://open.spotify.com/artist/75Rf39N3uKbhTpTtTeDnVh) | [老婆 WIFEY](https://open.spotify.com/album/2YZGlj1l8mR9qj5iKr3W4f) | 2:08 | 2025-11-07 | 2026-05-07 |
 | [耳语](https://open.spotify.com/track/5pCieSw4d0UFuYCwBsBjlB) | [sunOceanus](https://open.spotify.com/artist/0qxSSTp4mU0vlKz2VgTCsB), [YYOUV](https://open.spotify.com/artist/1iaxswHX2v1tsGPBHO4bSg) | [APOLLO: AGAINST THE WORLD](https://open.spotify.com/album/74MhnOkKbhuN8oZI0viuFJ) | 3:52 | 2025-05-16 | 2025-07-12 |
 | [聽得到嗎](https://open.spotify.com/track/0rGw63k8A0iQ47JP7PXUGX) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [聽得到嗎](https://open.spotify.com/album/023gxYsJciFbsv20P4ackV) | 3:28 | 2025-10-16 | 2025-12-04 |
+| [花朵](https://open.spotify.com/track/4OS0pN7t6VxzuA0HSbTPBk) | [SONG NING](https://open.spotify.com/artist/0HSetAKLsr5qfFODMMZUvo) | [花朵](https://open.spotify.com/album/0q96VkOgV6caIG4o5qCmWg) | 3:46 | 2026-06-17 |  |
 | [英年早分](https://open.spotify.com/track/2zEvBPkvWRiRAn8sCHxCNQ) | [BPM \- Broken Pieces and Mending](https://open.spotify.com/artist/4xREBUGl8Ia4yHiymubTF6) | [英年早分](https://open.spotify.com/album/1fqePMeDYnYaSeOXvVcd62) | 3:54 | 2025-10-16 | 2026-01-15 |
 | [萤火 \- 新传媒戏剧《迷茫又无惧的我们》插曲](https://open.spotify.com/track/6PLBALUVNnRduB7FfPKgO1) | [Tyler Ten 邓伟德](https://open.spotify.com/artist/1hnCU6UFSdxvfTgKzOU3pP), [Tasha Low 刘怡伶](https://open.spotify.com/artist/215heyGmgtPQtRtC5QOm6D) | [新传媒戏剧《迷茫又无惧的我们》OST](https://open.spotify.com/album/5AbLCfnLV6poAG78MBA4uU) | 3:37 | 2026-01-30 | 2026-05-07 |
 | [葡萄](https://open.spotify.com/track/77KGn00OEJ8gBiF7Dgukvn) | [Bell 傅熙雅](https://open.spotify.com/artist/1LsBLrIZjFwXgXmhUvroDS) | [葡萄](https://open.spotify.com/album/2nqjpTVXBet8O1dTdldo3S) | 3:55 | 2025-06-06 | 2025-08-01 |

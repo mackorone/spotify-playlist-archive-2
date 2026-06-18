@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Bleed Me",
+        "url": "https://open.spotify.com/album/6Fgy6G7kwojsXyI5WTp6FT"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Merchants",
+          "url": "https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201282,
+      "name": "Bleed Me",
+      "url": "https://open.spotify.com/track/1zUyNaht7QAMAjpe9d0bsw"
+    },
+    {
+      "album": {
         "name": "Bleeding You",
         "url": "https://open.spotify.com/album/1GBNuPGY2C4QDMnCmvkl5t"
       },
@@ -3090,6 +3108,24 @@
       "duration_ms": 191213,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/4bEFJ0CJwDkPHiuoykc3Wm"
+    },
+    {
+      "album": {
+        "name": "Boomer (Radio Edit)",
+        "url": "https://open.spotify.com/album/5EQlKAMSbdc9ZgrGlqRAHS"
+      },
+      "artists": [
+        {
+          "name": "Closer to Zer0",
+          "url": "https://open.spotify.com/artist/4GCHOKQfmS4uzowyJgPTfd"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Boomer - Radio Edit",
+      "url": "https://open.spotify.com/track/4SCiIGi4ABefuefthusjd5"
     },
     {
       "album": {
@@ -4246,7 +4282,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 163026,
       "name": "Central Location",
       "url": "https://open.spotify.com/track/4J4SkbxDTYj8POcC1EPoQa"
@@ -5122,6 +5158,24 @@
       "duration_ms": 148806,
       "name": "CONVICTIONS",
       "url": "https://open.spotify.com/track/1Fac4WeG2JUGep3w3CgXgE"
+    },
+    {
+      "album": {
+        "name": "Steel Rebellion",
+        "url": "https://open.spotify.com/album/4fulHPnGCeBufyxLArrYuX"
+      },
+      "artists": [
+        {
+          "name": "Jack Rumbolt",
+          "url": "https://open.spotify.com/artist/2Kgps6ghbut0HP4IiVavVP"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333184,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/4NfsyrdSYaB3fqRtuwgchM"
     },
     {
       "album": {
@@ -6398,6 +6452,24 @@
       "duration_ms": 206560,
       "name": "Diagnostics",
       "url": "https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev"
+    },
+    {
+      "album": {
+        "name": "DIBS",
+        "url": "https://open.spotify.com/album/14Vm62jieLo98W0Nxzo61y"
+      },
+      "artists": [
+        {
+          "name": "JDVisionquest3000",
+          "url": "https://open.spotify.com/artist/2MqYQ1HVWD6ChMGEKEQkDP"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "DIBS",
+      "url": "https://open.spotify.com/track/0c5JMjSMXRygZ8LCPLpZ15"
     },
     {
       "album": {
@@ -10831,6 +10903,24 @@
     },
     {
       "album": {
+        "name": "Gutter",
+        "url": "https://open.spotify.com/album/4X28qMrosxWH6p1jIQlS6N"
+      },
+      "artists": [
+        {
+          "name": "Key Found",
+          "url": "https://open.spotify.com/artist/23GX272woXtU99Li2XEF6T"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170494,
+      "name": "Gutter",
+      "url": "https://open.spotify.com/track/2uUKhuPSy7oXjmfUAmhEvq"
+    },
+    {
+      "album": {
         "name": "Putting The Ex In XMas",
         "url": "https://open.spotify.com/album/4MsJGwIsQfgCTkQvrx1xby"
       },
@@ -13855,6 +13945,24 @@
     },
     {
       "album": {
+        "name": "Making A Scene",
+        "url": "https://open.spotify.com/album/4KF7VbetAgvdkfLTLKdx6N"
+      },
+      "artists": [
+        {
+          "name": "Alpine Loop",
+          "url": "https://open.spotify.com/artist/10JP5czbb1gs4aL1KCABuD"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/6QVoeDc36SyDzkIN31FECj"
+    },
+    {
+      "album": {
         "name": "Look How the Sky Turns Blue",
         "url": "https://open.spotify.com/album/3GQX0GkGCn4IUwjrlhWOiQ"
       },
@@ -16723,6 +16831,24 @@
     },
     {
       "album": {
+        "name": "Mutual Destruction",
+        "url": "https://open.spotify.com/album/3OmZS5MY8zWYV2gm8YR9rp"
+      },
+      "artists": [
+        {
+          "name": "Hour of Pearl",
+          "url": "https://open.spotify.com/artist/4YKPGkapT79VFVVbYEDR1x"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190013,
+      "name": "Mutual Destruction",
+      "url": "https://open.spotify.com/track/59koUom8jGksEiQNgBclFp"
+    },
+    {
+      "album": {
         "name": "My Body Says",
         "url": "https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE"
       },
@@ -17134,6 +17260,24 @@
       "duration_ms": 278871,
       "name": "Never again",
       "url": "https://open.spotify.com/track/0bLyheZSeaj4dS6ELpk4Gb"
+    },
+    {
+      "album": {
+        "name": "NEVER AGAIN",
+        "url": "https://open.spotify.com/album/0YNiL6qomHWIfZt4D2iWnH"
+      },
+      "artists": [
+        {
+          "name": "Still No One",
+          "url": "https://open.spotify.com/artist/2WnPcCPjfDwzAdTT2CP7Mu"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186283,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/7BdwT6SxISlukR6aYy9yUU"
     },
     {
       "album": {
@@ -18328,6 +18472,24 @@
       "duration_ms": 170810,
       "name": "Onomanosphere",
       "url": "https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd"
+    },
+    {
+      "album": {
+        "name": "Orbit Uber Woonsocket",
+        "url": "https://open.spotify.com/album/3YhU491nfhGUb4caLKmXJK"
+      },
+      "artists": [
+        {
+          "name": "Favourite Armchair",
+          "url": "https://open.spotify.com/artist/3rFDLW3Dnf7tjB8U3v78ic"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Orbit Uber Woonsocket",
+      "url": "https://open.spotify.com/track/3HRru9gWruIUX7bswLjRC8"
     },
     {
       "album": {
@@ -19734,6 +19896,24 @@
       "duration_ms": 172399,
       "name": "Pressure Point",
       "url": "https://open.spotify.com/track/5stTHqRSib5JYUwu1d3fT3"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/691ypMCXm2Vvc3xm17E4WF"
+      },
+      "artists": [
+        {
+          "name": "Vagabond",
+          "url": "https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/5IrHwr1Ul8vkOrCkHoyLL2"
     },
     {
       "album": {

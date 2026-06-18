@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 26.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,514 likes - 104 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,597 likes - 104 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 73 | [Lippy](https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lippy](https://open.spotify.com/album/2WGssUw0jZ4RzRpi2lxN5P) | 2:55 |
 | 74 | [Colors Turn Grey](https://open.spotify.com/track/1X08JgF7RkIT2sLIMHowOb) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Over & Over](https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp) | 3:29 |
 | 75 | [Camaleón](https://open.spotify.com/track/6Z9ygFFq7MEzVDbpKiZoRV) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [CAMALEÓN](https://open.spotify.com/album/4eHDzz9l9ZhECvt9VRSfoc) | 3:17 |
-| 76 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
+| 76 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Moses Yoofee](https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ), [Noah Fürbringer](https://open.spotify.com/artist/2aFDkXJvi1jsvhu5lHIu6F), [cowboyklobe](https://open.spotify.com/artist/3gZN7XHOHMwn1i0WZCWjKy) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
 | 77 | [We Can Pretend](https://open.spotify.com/track/7msBqHVeABojkm6AvMxrjC) | [Baby Universe](https://open.spotify.com/artist/14KWskNq8uFJtGecO7YmIW) | [We Can Pretend](https://open.spotify.com/album/3OfYRp72axi4mYCejUbZoT) | 4:26 |
 | 78 | [Emotions](https://open.spotify.com/track/5MIjWtoQYHEifN8KGHuPAU) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7C0m3PiCmlHtpCVG0cwzwC) | 3:24 |
 | 79 | [DEAD](https://open.spotify.com/track/6r2VHQDYBLFnuBqzE0V2Or) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [DEAD](https://open.spotify.com/album/3gnscgQrOmEJdOYZRKa4LD) | 4:08 |

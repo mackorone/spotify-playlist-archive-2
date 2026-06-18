@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0FRIIUJN3EmIrO9lyfPYp2.md) - [plain]
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-[dreamscape](https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf) - 14,923 likes - 732 songs - 1 day 1 hr 39 min
+[dreamscape](https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf) - 14,925 likes - 732 songs - 1 day 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

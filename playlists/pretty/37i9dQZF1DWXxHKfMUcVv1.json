@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 127381,
+  "num_followers": 127383,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -267,42 +267,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "El Gallo Rojo",
-        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 155191,
-      "name": "El Gallo Rojo",
-      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Las Mejores Vol. 1",
-        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Un Dia A La Vez",
-      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Tus Ojos No Me Ven (feat. Jowell y Randy and El Gorila)",
         "url": "https://open.spotify.com/album/0ZGMMZDzC6vtlKmgAl0PHn"
       },
@@ -323,6 +287,42 @@
       "duration_ms": 279568,
       "name": "Tus Ojos No Me Ven",
       "url": "https://open.spotify.com/track/09xnGXVrbniWV4mLTgGyD5"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Las Mejores Vol. 1",
+        "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Un Dia A La Vez",
+      "url": "https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "El Gallo Rojo",
+        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 155191,
+      "name": "El Gallo Rojo",
+      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
     },
     {
       "added_at": "2025-03-14 20:46:39",

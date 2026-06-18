@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 379787,
+  "num_followers": 379817,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Ao Monte",
-        "url": "https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2"
+        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
       },
       "artists": [
         {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         }
       ],
-      "duration_ms": 368300,
-      "name": "Ao Monte",
-      "url": "https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98"
+      "duration_ms": 449016,
+      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -235,18 +231,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
+        "name": "Ao Monte",
+        "url": "https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2"
       },
       "artists": [
         {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 449016,
-      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
+      "duration_ms": 368300,
+      "name": "Ao Monte",
+      "url": "https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -327,26 +327,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "A Nossa F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP"
-      },
-      "artists": [
-        {
-          "name": "Juninho Cassimiro",
-          "url": "https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 724172,
-      "name": "A Nossa F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Gba Stage, Vol. 4",
         "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 235714,
       "name": "S\u00f3 por Ti, Jesus",
       "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "A Nossa F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP"
+      },
+      "artists": [
+        {
+          "name": "Juninho Cassimiro",
+          "url": "https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 724172,
+      "name": "A Nossa F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Santa Rita de C\u00e1ssia",
+        "url": "https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 310772,
+      "name": "Santa Rita de C\u00e1ssia",
+      "url": "https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Mostra a Tua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4EDskVT9iohrgRN3Lvu2CN"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 247792,
       "name": "Mostra a Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/5XlC1vepKohkbVmuCw3heD"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Santa Rita de C\u00e1ssia",
-        "url": "https://open.spotify.com/album/2csSlHzHFqDWMTTI6ZPSPy"
-      },
-      "artists": [
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 310772,
-      "name": "Santa Rita de C\u00e1ssia",
-      "url": "https://open.spotify.com/track/3JVlroKYf2nrOEL2bA6Jv8"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "M\u00e3e, Me Defende do Mal",
-        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
-        }
-      ],
-      "duration_ms": 300184,
-      "name": "M\u00e3e, Me Defende do Mal",
-      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Ora\u00e7\u00e3o pela Paz",
         "url": "https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 221476,
       "name": "Ora\u00e7\u00e3o pela Paz",
       "url": "https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "M\u00e3e, Me Defende do Mal",
+        "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "duration_ms": 300184,
+      "name": "M\u00e3e, Me Defende do Mal",
+      "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Quero Nascer de Novo",
-        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Quero Nascer de Novo",
-      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Romanos 12",
         "url": "https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 288402,
       "name": "Romanos 12",
       "url": "https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Quero Nascer de Novo",
+        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Quero Nascer de Novo",
+      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Acalma o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Quem Como Deus? (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 366386,
       "name": "Quem Como Deus? - Ao Vivo",
       "url": "https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Acalma o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Can\u00e7\u00f5es de um Cora\u00e7\u00e3o Sereno",
+        "url": "https://open.spotify.com/album/4pozEgu5OwgwNSCv2Op6OW"
+      },
+      "artists": [
+        {
+          "name": "Pe. Zezinho, SCJ",
+          "url": "https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "Cora\u00e7\u00e3o Sagrado",
+      "url": "https://open.spotify.com/track/1Er3YhGPoKQSLlUtrTKJZu"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Essencial (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 220071,
       "name": "Essencial - Ao Vivo",
       "url": "https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Can\u00e7\u00f5es de um Cora\u00e7\u00e3o Sereno",
-        "url": "https://open.spotify.com/album/4pozEgu5OwgwNSCv2Op6OW"
-      },
-      "artists": [
-        {
-          "name": "Pe. Zezinho, SCJ",
-          "url": "https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA"
-        }
-      ],
-      "duration_ms": 149743,
-      "name": "Cora\u00e7\u00e3o Sagrado",
-      "url": "https://open.spotify.com/track/1Er3YhGPoKQSLlUtrTKJZu"
     },
     {
       "added_at": "2026-06-12 03:01:51",

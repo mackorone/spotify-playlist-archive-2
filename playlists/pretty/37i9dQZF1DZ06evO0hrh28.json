@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 257149,
+  "num_followers": 257113,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAD8Pol+9BAByUavBj4S1+PW",
+  "snapshot_id": "ajCSAAAAAAAfvEhY85S8J7BowvXqrITw",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Sun: Girls Trip",
-        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 195913,
-      "name": "Girl's Girl - Girls Trip",
-      "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOTINHA 2.0 (Mete Marcha) - Remix",
         "url": "https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 118081,
       "name": "MOTINHA 2.0 (Mete Marcha) - Remix",
       "url": "https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Girl's Girl - Girls Trip",
+      "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
     },
     {
       "added_at": null,

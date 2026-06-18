@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,385 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,321 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 35 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
 | 36 | [Ao Vivo E A Cores](https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo E A Cores](https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo) | 3:00 |
 | 37 | [Beber Com Emergência \- Ao Vivo](https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Start In São Paulo \(ao Vivo\)](https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k) | 2:16 |
-| 38 | [Bruto Memo](https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS), [Marco Brasil Filho](https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb) | [Bruto Memo](https://open.spotify.com/album/6M8mrol16Mcmf3xaG78mI2) | 3:04 |
-| 39 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
+| 38 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
+| 39 | [Bruto Memo](https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS), [Marco Brasil Filho](https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb) | [Bruto Memo](https://open.spotify.com/album/6M8mrol16Mcmf3xaG78mI2) | 3:04 |
 | 40 | [Quem Me Dera](https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Made In Studio](https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV) | 2:27 |
 | 41 | [Muié, Chapéu e Butina \- Ao Vivo](https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Made in Roça \(Ao Vivo\)](https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU) | 3:07 |
 | 42 | [Namorada Reserva \- Ao Vivo](https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo Em Campo Grande \(ao Vivo\)](https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie) | 2:56 |

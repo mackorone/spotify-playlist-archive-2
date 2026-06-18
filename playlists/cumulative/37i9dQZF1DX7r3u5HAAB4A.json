@@ -5835,6 +5835,28 @@
     },
     {
       "album": {
+        "name": "Stay For The Night",
+        "url": "https://open.spotify.com/album/0B2rHpRTIHDl4EtsqMy1bc"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/0HnPRaFlJqio55qp8fdX0g"
+    },
+    {
+      "album": {
         "name": "Step by Step",
         "url": "https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe"
       },

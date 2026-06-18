@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e2d\u0e39\u0e42\u0e19\u0e48 \u0e2b\u0e25\u0e32\u0e27\u0e17\u0e2d\u0e07. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: miller. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -22188,7 +22188,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 220000,
       "name": "\u0e17\u0e35\u0e48(\u0e44\u0e21\u0e48)\u0e2a\u0e33\u0e04\u0e31\u0e0d",
       "url": "https://open.spotify.com/track/5WaokbgZV5GPM374UuUwOa"
@@ -32089,6 +32089,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e07\u0e2a\u0e32\u0e23",
+        "url": "https://open.spotify.com/album/1c1nvg9jT89oiNybj0rSKz"
+      },
+      "artists": [
+        {
+          "name": "KLA PHANDEE",
+          "url": "https://open.spotify.com/artist/6oqR4ztTqDzX9pWevS3TPk"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232932,
+      "name": "\u0e2a\u0e07\u0e2a\u0e32\u0e23",
+      "url": "https://open.spotify.com/track/6ESVKNZpYWRwFbSdTrscIb"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e15\u0e23\u0e35 With May",
         "url": "https://open.spotify.com/album/4ButT2kVpnaRTXNsmtt2uK"
       },
@@ -34764,6 +34782,24 @@
       "duration_ms": 212608,
       "name": "\u0e2b\u0e32\u0e22\u0e43\u0e08 (May I miss you?)",
       "url": "https://open.spotify.com/track/6BujdqsVd1IhZLkwMWxR6W"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e32\u0e22\u0e44\u0e1b (hi, bye)",
+        "url": "https://open.spotify.com/album/3IWOb5BhiNWnQaWEvtfdDC"
+      },
+      "artists": [
+        {
+          "name": "miller",
+          "url": "https://open.spotify.com/artist/1xgDsl2aTgYkf87bUKGQSA"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "\u0e2b\u0e32\u0e22\u0e44\u0e1b (hi, bye)",
+      "url": "https://open.spotify.com/track/7aADvdQN41QMnhxSQKrKc2"
     },
     {
       "album": {
@@ -38384,7 +38420,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 189900,
       "name": "\u0e40\u0e14\u0e47\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e25\u0e49\u0e27\u0e44\u0e07(\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27\u0e01\u0e31\u0e19)",
       "url": "https://open.spotify.com/track/5Eia4n0TGuIJxxMTEc2YMb"
@@ -41010,6 +41046,24 @@
       "duration_ms": 192000,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19 \u0e15\u0e49\u0e2d\u0e07\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19 (Friend Kiss)",
       "url": "https://open.spotify.com/track/0Mse7Nx3W4G7GDCyzXzNmt"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19 (unclear)",
+        "url": "https://open.spotify.com/album/3d9Kw6x5Y22lH4EUrlh2Hd"
+      },
+      "artists": [
+        {
+          "name": "LuLL",
+          "url": "https://open.spotify.com/artist/1Pd7AfDjkMvZ7StXeBO7aZ"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198193,
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19 (unclear)",
+      "url": "https://open.spotify.com/track/0YL36plXE28uor9On494ai"
     },
     {
       "album": {
@@ -45471,6 +45525,24 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e08\u0e23\u0e34\u0e07 (Where I Never Existed)",
+        "url": "https://open.spotify.com/album/28fyu294IVzTbZLPhYUEPf"
+      },
+      "artists": [
+        {
+          "name": "Maythra",
+          "url": "https://open.spotify.com/artist/2zeSgdeDmH8RCHT32a9xKr"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206355,
+      "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e08\u0e23\u0e34\u0e07 (Where I Never Existed)",
+      "url": "https://open.spotify.com/track/31ga0kUK97uh43AgiOeTht"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e25\u0e01\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e25\u0e30\u0e04\u0e23\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e15\u0e32\u0e22\u0e17\u0e38\u0e01\u0e15\u0e2d\u0e19",
         "url": "https://open.spotify.com/album/4tHftsdedllvQYrhdV5JCh"
       },
@@ -46006,6 +46078,24 @@
       "duration_ms": 167808,
       "name": "\u0e43\u0e08",
       "url": "https://open.spotify.com/track/7byTUMcGvs3k6u3jBdhaGU"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e08\u0e01\u0e27\u0e49\u0e32\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e2d",
+        "url": "https://open.spotify.com/album/0I0MAOTAvacBedEKnzHmBb"
+      },
+      "artists": [
+        {
+          "name": "WHITE LIE",
+          "url": "https://open.spotify.com/artist/0L3cIKJy9HhPjvCq08U7JY"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268915,
+      "name": "\u0e43\u0e08\u0e01\u0e27\u0e49\u0e32\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e2d",
+      "url": "https://open.spotify.com/track/27KHfqv36rtM6sp0LyVkFM"
     },
     {
       "album": {

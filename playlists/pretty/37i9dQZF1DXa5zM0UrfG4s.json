@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117914,
+  "num_followers": 117907,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-06-11 22:01:02",
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
+      },
+      "artists": [
+        {
+          "name": "Byting",
+          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
+        }
+      ],
+      "duration_ms": 212505,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi"
+    },
+    {
+      "added_at": "2026-06-11 22:01:02",
+      "album": {
         "name": "Festen er aldri over",
         "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 134265,
       "name": "Ingen som skal hjem (feat. Staysman)",
       "url": "https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr"
-    },
-    {
-      "added_at": "2026-06-11 22:01:02",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
-      },
-      "artists": [
-        {
-          "name": "Byting",
-          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
-        }
-      ],
-      "duration_ms": 212505,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi"
     },
     {
       "added_at": "2026-06-11 22:01:02",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-06-11 22:01:02",
       "album": {
+        "name": "Ein song som finst",
+        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Ein song som finst",
+      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
+    },
+    {
+      "added_at": "2026-06-11 22:01:02",
+      "album": {
         "name": "De g\u00e6rne har det godt",
         "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 128653,
       "name": "De g\u00e6rne har det godt",
       "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
-    },
-    {
-      "added_at": "2026-06-11 22:01:02",
-      "album": {
-        "name": "Ein song som finst",
-        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Ein song som finst",
-      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
     },
     {
       "added_at": "2026-06-11 22:01:02",

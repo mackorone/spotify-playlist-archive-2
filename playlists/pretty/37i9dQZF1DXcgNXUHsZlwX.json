@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143688,
+  "num_followers": 143692,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,18 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Les grandes art\u00e8res",
-        "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
+        "name": "figure it out",
+        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
       },
       "artists": [
         {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
         }
       ],
-      "duration_ms": 204013,
-      "name": "Si tu reviens",
-      "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
+      "duration_ms": 171428,
+      "name": "figure it out",
+      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
+        "name": "Les grandes art\u00e8res",
+        "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Si tu reviens",
+      "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
+    },
+    {
+      "added_at": "2026-06-12 04:02:57",
+      "album": {
         "name": "Uh Oh",
         "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 228613,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
-    },
-    {
-      "added_at": "2026-06-12 04:02:57",
-      "album": {
-        "name": "figure it out",
-        "url": "https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl"
-      },
-      "artists": [
-        {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "figure it out",
-      "url": "https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -347,22 +347,18 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 261379,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
+      "duration_ms": 205769,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -383,18 +379,22 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Old Love",
-        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
         }
       ],
-      "duration_ms": 205769,
-      "name": "Old Love",
-      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
+      "duration_ms": 261379,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -483,22 +483,18 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Southern Star (feat. AURORA)",
-        "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
+        "name": "Moondog",
+        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
       },
       "artists": [
         {
           "name": "Leif Vollebekk",
           "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 304760,
-      "name": "Southern Star (feat. AURORA)",
-      "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
+      "duration_ms": 305640,
+      "name": "Moondog",
+      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -591,18 +587,22 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Moondog",
-        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
+        "name": "Southern Star (feat. AURORA)",
+        "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
       },
       "artists": [
         {
           "name": "Leif Vollebekk",
           "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 305640,
-      "name": "Moondog",
-      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
+      "duration_ms": 304760,
+      "name": "Southern Star (feat. AURORA)",
+      "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Tu reviendras",
-        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
+        "name": "TABLE DU FOND",
+        "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Marc-Antoine Delage",
+          "url": "https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS"
         }
       ],
-      "duration_ms": 134581,
-      "name": "Tu reviendras",
-      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
+      "duration_ms": 157750,
+      "name": "TABLE DU FOND",
+      "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "TABLE DU FOND",
-        "url": "https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82"
+        "name": "Tu reviendras",
+        "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
       },
       "artists": [
         {
-          "name": "Marc-Antoine Delage",
-          "url": "https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 157750,
-      "name": "TABLE DU FOND",
-      "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
+      "duration_ms": 134581,
+      "name": "Tu reviendras",
+      "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2026-06-12 04:02:57",
-      "album": {
         "name": "Future Lovers",
         "url": "https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 189386,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL"
+    },
+    {
+      "added_at": "2026-06-12 04:02:57",
+      "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
-    },
-    {
-      "added_at": "2026-06-12 04:02:57",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+    },
+    {
+      "added_at": "2026-06-12 04:02:57",
+      "album": {
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
-    },
-    {
-      "added_at": "2026-06-12 04:02:57",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 191280,
       "name": "Le vent se l\u00e8ve",
       "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2026-06-12 04:02:57",
+      "album": {
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Les mots que tu chantes",
-        "url": "https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm"
+        "name": "Je t'aime (take 2)",
+        "url": "https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe"
       },
       "artists": [
         {
-          "name": "Ian Kelly",
-          "url": "https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow"
-        },
-        {
-          "name": "John Nathaniel",
-          "url": "https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ"
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
         }
       ],
-      "duration_ms": 178208,
-      "name": "Les mots que tu chantes",
-      "url": "https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX"
+      "duration_ms": 334005,
+      "name": "Je t'aime - take 2",
+      "url": "https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Je t'aime (take 2)",
-        "url": "https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe"
+        "name": "Les mots que tu chantes",
+        "url": "https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm"
       },
       "artists": [
         {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+          "name": "Ian Kelly",
+          "url": "https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow"
+        },
+        {
+          "name": "John Nathaniel",
+          "url": "https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ"
         }
       ],
-      "duration_ms": 334005,
-      "name": "Je t'aime - take 2",
-      "url": "https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH"
+      "duration_ms": 178208,
+      "name": "Les mots que tu chantes",
+      "url": "https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
-    },
-    {
-      "added_at": "2026-06-12 04:02:57",
-      "album": {
         "name": "Quand je pleure, je suis content",
         "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+    },
+    {
+      "added_at": "2026-06-12 04:02:57",
+      "album": {
         "name": "Elle vit dans les bois",
         "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 209570,
       "name": "Elle vit dans les bois",
       "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
+    },
+    {
+      "added_at": "2026-06-12 04:02:57",
+      "album": {
+        "name": "The Music That Makes Me Dance",
+        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 307567,
+      "name": "The Music That Makes Me Dance",
+      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "2 go\u00e9lands",
-        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "2 go\u00e9lands",
-      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
-    },
-    {
-      "added_at": "2026-06-12 04:02:57",
-      "album": {
         "name": "Go Get It",
         "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
       },
@@ -1383,6 +1383,42 @@
       "duration_ms": 141509,
       "name": "Go Get It",
       "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+    },
+    {
+      "added_at": "2026-06-12 04:02:57",
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        },
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "duration_ms": 238983,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
+    },
+    {
+      "added_at": "2026-06-12 04:02:57",
+      "album": {
+        "name": "2 go\u00e9lands",
+        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "2 go\u00e9lands",
+      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -1483,22 +1519,6 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "The Music That Makes Me Dance",
-        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 307567,
-      "name": "The Music That Makes Me Dance",
-      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
-    },
-    {
-      "added_at": "2026-06-12 04:02:57",
-      "album": {
         "name": "fin pm",
         "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
       },
@@ -1515,34 +1535,18 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "The Scars We Share",
-        "url": "https://open.spotify.com/album/6tHnONORrBKToSOraiIFan"
+        "name": "Ensemble doux",
+        "url": "https://open.spotify.com/album/2cIThJvODqTXIoccHQPl1V"
       },
       "artists": [
         {
-          "name": "Maldito",
-          "url": "https://open.spotify.com/artist/1IyP1te0ocO6XgeWL4PqdG"
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
         }
       ],
-      "duration_ms": 238481,
-      "name": "The Scars We Share",
-      "url": "https://open.spotify.com/track/1rI2SChKCCBD3poraYKw2Z"
-    },
-    {
-      "added_at": "2026-06-12 04:02:57",
-      "album": {
-        "name": "Tout refaire",
-        "url": "https://open.spotify.com/album/1d1S5Ep6n7ta7ShS6Q0LpU"
-      },
-      "artists": [
-        {
-          "name": "maudit vincent",
-          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
-        }
-      ],
-      "duration_ms": 138620,
-      "name": "Tout refaire",
-      "url": "https://open.spotify.com/track/2BnIzEkGpodTkFOX3hs4qM"
+      "duration_ms": 214760,
+      "name": "Emm\u00e8ne-moi - version Ensemble doux",
+      "url": "https://open.spotify.com/track/0Z8Td8av7oliNp1m1Qj3vr"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -1559,22 +1563,6 @@
       "duration_ms": 222586,
       "name": "Du temps",
       "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
-    },
-    {
-      "added_at": "2026-06-12 04:02:57",
-      "album": {
-        "name": "Ensemble doux",
-        "url": "https://open.spotify.com/album/2cIThJvODqTXIoccHQPl1V"
-      },
-      "artists": [
-        {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Emm\u00e8ne-moi - version Ensemble doux",
-      "url": "https://open.spotify.com/track/0Z8Td8av7oliNp1m1Qj3vr"
     },
     {
       "added_at": "2026-06-12 04:02:57",
@@ -1599,6 +1587,22 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
+        "name": "The Scars We Share",
+        "url": "https://open.spotify.com/album/6tHnONORrBKToSOraiIFan"
+      },
+      "artists": [
+        {
+          "name": "Maldito",
+          "url": "https://open.spotify.com/artist/1IyP1te0ocO6XgeWL4PqdG"
+        }
+      ],
+      "duration_ms": 238481,
+      "name": "The Scars We Share",
+      "url": "https://open.spotify.com/track/1rI2SChKCCBD3poraYKw2Z"
+    },
+    {
+      "added_at": "2026-06-12 04:02:57",
+      "album": {
         "name": "Velours et Acide",
         "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
       },
@@ -1615,22 +1619,18 @@
     {
       "added_at": "2026-06-12 04:02:57",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
+        "name": "Tout refaire",
+        "url": "https://open.spotify.com/album/1d1S5Ep6n7ta7ShS6Q0LpU"
       },
       "artists": [
         {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
-        },
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+          "name": "maudit vincent",
+          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
         }
       ],
-      "duration_ms": 238983,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
+      "duration_ms": 138620,
+      "name": "Tout refaire",
+      "url": "https://open.spotify.com/track/2BnIzEkGpodTkFOX3hs4qM"
     },
     {
       "added_at": "2026-06-12 04:02:57",

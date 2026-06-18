@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 229768,
+  "num_followers": 229780,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADAMeCpTyOEUe7h7LfVbFo0",
+  "snapshot_id": "ajCSAAAAAABlRjALRMABKLTFzh+3QqvG",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "Debes de saber",
-      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TOP TOP (feat. MC Davo)",
         "url": "https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 362063,
       "name": "TOP TOP (feat. MC Davo)",
       "url": "https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "Debes de saber",
+      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
     },
     {
       "added_at": null,
@@ -479,30 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Plaza en Plaza",
-        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRAPPERZ A Mafia Da Sicilia (feat. MC Davo & Fuego)",
         "url": "https://open.spotify.com/album/6yhlebu0jF2fxxdfk1oDon"
       },
@@ -531,6 +507,30 @@
       "duration_ms": 302250,
       "name": "TRAPPERZ A Mafia Da Sicilia (feat. MC Davo & Fuego)",
       "url": "https://open.spotify.com/track/1KfIZjptrvN6jUpUzzRYiD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Plaza en Plaza",
+        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfC\u00f3mo Se Supera?",
-        "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 203916,
-      "name": "\u00bfC\u00f3mo Se Supera?",
-      "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tengo Que Probar",
         "url": "https://open.spotify.com/album/6RaWvAhFPcp3AthMNLi9ob"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 201000,
       "name": "Tengo Que Probar",
       "url": "https://open.spotify.com/track/0iRtpJoX4pVQx3vUHzaNSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfC\u00f3mo Se Supera?",
+        "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 203916,
+      "name": "\u00bfC\u00f3mo Se Supera?",
+      "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
     },
     {
       "added_at": null,

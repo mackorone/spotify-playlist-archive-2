@@ -12974,7 +12974,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 181818,
       "name": "Crazy On My Mind",
       "url": "https://open.spotify.com/track/19kFxiDnQNbXLIXMQ2RDva"
@@ -15064,6 +15064,28 @@
       "duration_ms": 131555,
       "name": "Disc Error",
       "url": "https://open.spotify.com/track/3Y6WpaFCUrNg9fkOCro8Pp"
+    },
+    {
+      "album": {
+        "name": "Disco Baile (Radio Edit)",
+        "url": "https://open.spotify.com/album/30i6Ah0BZNo9mDJ5TJRTGP"
+      },
+      "artists": [
+        {
+          "name": "Akalex",
+          "url": "https://open.spotify.com/artist/731SRh0Tu8EXaCEa2m7BrV"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Disco Baile - Radio Edit",
+      "url": "https://open.spotify.com/track/6kjj7HgnXX9oIxeNQ3MOSC"
     },
     {
       "album": {
@@ -24661,6 +24683,28 @@
     },
     {
       "album": {
+        "name": "Goes Like",
+        "url": "https://open.spotify.com/album/2FeWQKBnsphp5N5xyCuBXZ"
+      },
+      "artists": [
+        {
+          "name": "From Dave",
+          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
+        },
+        {
+          "name": "That Franco",
+          "url": "https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169392,
+      "name": "Goes Like",
+      "url": "https://open.spotify.com/track/05p4Ruz6Pg0X3IuyZ3BbBR"
+    },
+    {
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/3g3BkAhjlDoajAq3klBHUG"
       },
@@ -26954,7 +26998,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 160431,
       "name": "higher",
       "url": "https://open.spotify.com/track/7ADo6iZnGE8vG2kf9tpvHe"
@@ -31096,7 +31140,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 219067,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek"
@@ -38332,7 +38376,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 195428,
       "name": "mind be so numb",
       "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
@@ -46763,6 +46807,28 @@
     },
     {
       "album": {
+        "name": "Terapia EP",
+        "url": "https://open.spotify.com/album/0JkXw9RsPPgDckgj2X2QzH"
+      },
+      "artists": [
+        {
+          "name": "Bonafique",
+          "url": "https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803"
+        },
+        {
+          "name": "Yuv\u00e8e",
+          "url": "https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227535,
+      "name": "Profill",
+      "url": "https://open.spotify.com/track/7G7iejjUvVun2tPL5KdhBA"
+    },
+    {
+      "album": {
         "name": "Radial",
         "url": "https://open.spotify.com/album/6swN9eFX8nYEwQD0t9TXxd"
       },
@@ -47472,7 +47538,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 377000,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/4d0EQg1pramdmWPKcIaGWh"
@@ -51335,6 +51401,24 @@
     },
     {
       "album": {
+        "name": "Show U Sexy",
+        "url": "https://open.spotify.com/album/4WIdUxqQjTVZ2REhNKxf9A"
+      },
+      "artists": [
+        {
+          "name": "DEDRO",
+          "url": "https://open.spotify.com/artist/22z7myWEqruGZpYuQKg4cQ"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187559,
+      "name": "Show U Sexy",
+      "url": "https://open.spotify.com/track/6H3Qhv1dzL5pbtrQ7Kh7Cx"
+    },
+    {
+      "album": {
         "name": "Shoyu",
         "url": "https://open.spotify.com/album/3WvyjGpA4VEcuVyNxIcjZc"
       },
@@ -51920,6 +52004,24 @@
       "duration_ms": 219545,
       "name": "Sizzla - Edit",
       "url": "https://open.spotify.com/track/55p8uGUOw2KFL2fuC4PUr1"
+    },
+    {
+      "album": {
+        "name": "SKANKIN'",
+        "url": "https://open.spotify.com/album/13vKQEqDiEmBdrTSygsFdI"
+      },
+      "artists": [
+        {
+          "name": "MARTHA",
+          "url": "https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "SKANKIN'",
+      "url": "https://open.spotify.com/track/170EILbKBLytmHSOcA4sJE"
     },
     {
       "album": {
@@ -54507,6 +54609,24 @@
     },
     {
       "album": {
+        "name": "stop&watch",
+        "url": "https://open.spotify.com/album/1LrxigYCruS0fxgjKXsDnp"
+      },
+      "artists": [
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "stop&watch",
+      "url": "https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60"
+    },
+    {
+      "album": {
         "name": "Storm (Max Ada Remix)",
         "url": "https://open.spotify.com/album/6UB0QcLmwy3h07Cp6cPJm3"
       },
@@ -54972,7 +55092,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 156475,
       "name": "Sugarblood",
       "url": "https://open.spotify.com/track/1PSg1nZUOAkp7bLYrUF4fY"
@@ -60605,6 +60725,24 @@
     },
     {
       "album": {
+        "name": "No Bad Trips",
+        "url": "https://open.spotify.com/album/7kXCnYWjMwmpLG0XtwPF6m"
+      },
+      "artists": [
+        {
+          "name": "Birthday in Texas",
+          "url": "https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155622,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/6hU4PamXZpUNkDvBwfraUi"
+    },
+    {
+      "album": {
         "name": "Trusss",
         "url": "https://open.spotify.com/album/4FRGOOtsSNL8Yu56M98MdE"
       },
@@ -62288,7 +62426,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 245273,
       "name": "Vandal",
       "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"

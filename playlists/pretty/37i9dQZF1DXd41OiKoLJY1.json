@@ -1,13 +1,145 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Carousel Casualties]. Artwork: Isu Kim.\n",
-  "num_followers": 72973,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [S3AN]. Artwork: Isu Kim.\n",
+  "num_followers": 72970,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACo93MfOqqJD9sVxhuJwmor6b9Kp",
+  "snapshot_id": "AAAAAPpt1Ov4Olzjor47GEhC92GawBoc",
   "tracks": [
+    {
+      "added_at": "2026-06-17 05:00:37",
+      "album": {
+        "name": "Somewhere Empty",
+        "url": "https://open.spotify.com/album/2M1nRTYTnjnQnryQ2CVHmK"
+      },
+      "artists": [
+        {
+          "name": "Run Like Lions",
+          "url": "https://open.spotify.com/artist/5Y8liPcItd76TrGxmTjveH"
+        }
+      ],
+      "duration_ms": 190876,
+      "name": "Somewhere Empty",
+      "url": "https://open.spotify.com/track/6ZDo7hVTyRuKfJ2m11AzQe"
+    },
+    {
+      "added_at": "2026-06-17 05:00:37",
+      "album": {
+        "name": "Save Our Love",
+        "url": "https://open.spotify.com/album/2HuFrYNh6j9pVo7Nyiahjd"
+      },
+      "artists": [
+        {
+          "name": "S3AN",
+          "url": "https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3"
+        }
+      ],
+      "duration_ms": 160935,
+      "name": "Save Our Love",
+      "url": "https://open.spotify.com/track/46zkArRxszr5jpq3Q2ziQq"
+    },
+    {
+      "added_at": "2026-06-17 05:00:37",
+      "album": {
+        "name": "thrift shop",
+        "url": "https://open.spotify.com/album/6SSVkUOkAFP5XKGN04Xh0R"
+      },
+      "artists": [
+        {
+          "name": "rez!",
+          "url": "https://open.spotify.com/artist/4Q5IUFBl0zFc52A3FXitjf"
+        }
+      ],
+      "duration_ms": 96003,
+      "name": "thrift shop",
+      "url": "https://open.spotify.com/track/4shctApMVAPyraAAd0fsfX"
+    },
+    {
+      "added_at": "2026-06-17 05:00:37",
+      "album": {
+        "name": "baby wag",
+        "url": "https://open.spotify.com/album/3T3Jg0flkHf4AKNUpRqASx"
+      },
+      "artists": [
+        {
+          "name": "Bad Indie Eye",
+          "url": "https://open.spotify.com/artist/1RnlvFVGPfQd9UxuI6RUQy"
+        }
+      ],
+      "duration_ms": 177062,
+      "name": "baby wag",
+      "url": "https://open.spotify.com/track/6qb70sJZKVKyl98JheYIki"
+    },
+    {
+      "added_at": "2026-06-17 05:00:37",
+      "album": {
+        "name": "Bahagya",
+        "url": "https://open.spotify.com/album/4xHpN7YcAzmbmHZnUJlERm"
+      },
+      "artists": [
+        {
+          "name": "Mariah Deborah",
+          "url": "https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv"
+        }
+      ],
+      "duration_ms": 245833,
+      "name": "Bahagya",
+      "url": "https://open.spotify.com/track/526rzqbY2yTDMcnkF60iwC"
+    },
+    {
+      "added_at": "2026-06-17 05:00:37",
+      "album": {
+        "name": "DI NA PARA",
+        "url": "https://open.spotify.com/album/2NgWAeUQaLnQJqLxnwPX7w"
+      },
+      "artists": [
+        {
+          "name": "Jemay Santiago",
+          "url": "https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "DI NA PARA",
+      "url": "https://open.spotify.com/track/2n1544Otlduh3md9QKUrtm"
+    },
+    {
+      "added_at": "2026-06-17 05:00:37",
+      "album": {
+        "name": "Laso",
+        "url": "https://open.spotify.com/album/7qY3V1G9WHlFiaFPwLqfBU"
+      },
+      "artists": [
+        {
+          "name": "Jamiela",
+          "url": "https://open.spotify.com/artist/5p1VVzsnhyultjNL7T6Wuu"
+        }
+      ],
+      "duration_ms": 203558,
+      "name": "Laso",
+      "url": "https://open.spotify.com/track/6Vxt7u25zuY3djDnuRKbe4"
+    },
+    {
+      "added_at": "2026-06-17 05:00:37",
+      "album": {
+        "name": "GAP",
+        "url": "https://open.spotify.com/album/0wiSZx2nNrpgl0DBgFICdv"
+      },
+      "artists": [
+        {
+          "name": "Zombie Bleu",
+          "url": "https://open.spotify.com/artist/0CelpCXw05DJ5EH7893QRv"
+        },
+        {
+          "name": "Vladimir",
+          "url": "https://open.spotify.com/artist/0HX9dIEDmljnE3TdNRiMFW"
+        }
+      ],
+      "duration_ms": 132151,
+      "name": "GAP",
+      "url": "https://open.spotify.com/track/1E3mQ0vrHxXPhju4NjGF0T"
+    },
     {
       "added_at": "2026-06-10 05:00:35",
       "album": {

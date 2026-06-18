@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 449146,
+  "num_followers": 449145,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAADbQxa5BfRhznHQILuc480X",
+  "snapshot_id": "ajCSAAAAAACYSLOlL+lnppQZGvrA0yvS",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gato",
-        "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 199462,
-      "name": "El Gato",
-      "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 164491,
       "name": "GDL",
       "url": "https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Gato",
+        "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 199462,
+      "name": "El Gato",
+      "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
     },
     {
       "added_at": null,
@@ -430,15 +430,11 @@
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 216770,
-      "name": "Lupe Campos",
-      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
+      "duration_ms": 167338,
+      "name": "El Mes de Mayo",
+      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
     },
     {
       "added_at": null,
@@ -502,11 +498,15 @@
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 167338,
-      "name": "El Mes de Mayo",
-      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
+      "duration_ms": 216770,
+      "name": "Lupe Campos",
+      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalito (En Vivo)",
-        "url": "https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Chalito - En Vivo",
-      "url": "https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ense\u00f1anza De Los Viejos",
         "url": "https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chalito (En Vivo)",
+        "url": "https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Chalito - En Vivo",
+      "url": "https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Selectivo",
         "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 187743,
       "name": "El Selectivo",
       "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 170468,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
       "duration_ms": 182134,
       "name": "Las Bendiciones",
       "url": "https://open.spotify.com/track/2wiTP6kEXPjnNNWNwzYTMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 170468,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/1gHN981Zxj8coFh9d7oZV4"
     },
     {
       "added_at": null,

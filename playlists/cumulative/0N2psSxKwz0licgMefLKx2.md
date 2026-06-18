@@ -2,7 +2,7 @@
 
 ### [2026 COUNTRY BANGERS 🤠🔥](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Kalsey Kulyk
+> The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Taylor Swift
 
 450 songs - 1 day 0 hr 31 min
 

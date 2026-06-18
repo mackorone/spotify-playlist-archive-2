@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 807192,
+  "num_followers": 807222,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "I'm Still Standing",
+      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "I'm Still Standing",
-      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
+        "name": "On the Beach",
+        "url": "https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 302426,
+      "name": "On the Beach",
+      "url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5Qc9yw34BRN9n8pi5YKZ2D"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 243800,
       "name": "When the Rain Begins to Fall",
       "url": "https://open.spotify.com/track/030RDC2ayPOUM32F9IH7eE"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
-        "name": "On the Beach",
-        "url": "https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 302426,
-      "name": "On the Beach",
-      "url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx"
     },
     {
       "added_at": "2026-03-19 15:24:01",

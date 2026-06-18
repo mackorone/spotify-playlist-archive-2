@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,526 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,543 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 45 | [Probably Wizards](https://open.spotify.com/track/7aK2Wf6NLIvAzFyvDPYCpF) | [James Krivchenia](https://open.spotify.com/artist/4eEDUmQbFKt7p4UNEwuUUi), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Probably Wizards](https://open.spotify.com/album/6JChYhnQ9v2tfEf1BaqguZ) | 4:51 |
 | 46 | [La barna leve](https://open.spotify.com/track/2DQQe15WZLelM2exoYLC1n) | [ROSA FAENSKAP](https://open.spotify.com/artist/0VwAXdA6SAH89PAF4ZSFTX) | [Ingenting Forblir](https://open.spotify.com/album/1898t6IRJVcR5mxx3mfDuJ) | 4:37 |
 | 47 | [Bakteria](https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Bakteria](https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu) | 3:44 |
-| 48 | [Chromophoria](https://open.spotify.com/track/6US4JteSqL2pR5te7QZ152) | [Xylitol](https://open.spotify.com/artist/4m6lKZU5qS7ZIPFhYx5bEx), [Sculpture](https://open.spotify.com/artist/3kOR6n2cPPPILMsWmKqpHk) | [Blumenfantasie](https://open.spotify.com/album/10nHSPjnaJXh4SB89xVAjU) | 4:30 |
-| 49 | [Promises](https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM) | [Sunareht](https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O), [Le Dom](https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P) | [Promises](https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON) | 3:46 |
+| 48 | [Promises](https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM) | [Sunareht](https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O), [Le Dom](https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P) | [Promises](https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON) | 3:46 |
+| 49 | [Chromophoria](https://open.spotify.com/track/6US4JteSqL2pR5te7QZ152) | [Xylitol](https://open.spotify.com/artist/4m6lKZU5qS7ZIPFhYx5bEx), [Sculpture](https://open.spotify.com/artist/3kOR6n2cPPPILMsWmKqpHk) | [Blumenfantasie](https://open.spotify.com/album/10nHSPjnaJXh4SB89xVAjU) | 4:30 |
 | 50 | [realcopy](https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T) | [derek muro](https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY) | [chronopolis](https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q) | 3:13 |
 
 Snapshot ID: `AAAAAM+Fbx8SdcY0q9kbRv680nAnF6wl`

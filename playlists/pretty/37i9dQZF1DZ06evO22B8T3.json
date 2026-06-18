@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308984,
+  "num_followers": 1308989,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACEKrH51tnM4lx0VS3VAFKC",
+  "snapshot_id": "ajCSAAAAAABP8jCLx3mzPdU82Rt6p2YP",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NANAENA",
         "url": "https://open.spotify.com/album/1EnBKvyQPu5RAWUbE3e2ju"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 191445,
       "name": "NANAENA",
       "url": "https://open.spotify.com/track/5XX8OtWCYAP4s0zMVp5REJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confiado y Tranquilo",
-        "url": "https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b"
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 212819,
-      "name": "Confiado y Tranquilo",
-      "url": "https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK"
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posdata:",
-        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+        "name": "Confiado y Tranquilo",
+        "url": "https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 169162,
-      "name": "Posdata:",
-      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
+      "duration_ms": 212819,
+      "name": "Confiado y Tranquilo",
+      "url": "https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK"
     },
     {
       "added_at": null,

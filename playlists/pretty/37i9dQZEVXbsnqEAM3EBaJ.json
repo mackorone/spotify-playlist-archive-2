@@ -27,6 +27,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exit Wound",
+        "url": "https://open.spotify.com/album/6tH8sjW4wo7eDiZn1WZTG9"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 278231,
+      "name": "Exit Wound",
+      "url": "https://open.spotify.com/track/46PCeG1vUqW2TxTJuJsenw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spiral (2026 Remix)",
+        "url": "https://open.spotify.com/album/6rDVa1SZO58Buy77LW1X4R"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 232517,
+      "name": "Spiral - 2026 Remix",
+      "url": "https://open.spotify.com/track/7wp6tnKFAIkJUj4yNjZkvN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frisson Noir",
         "url": "https://open.spotify.com/album/3BaCui7eVmPhPkzpV8jRkj"
       },
@@ -63,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiral (2026 Remix)",
-        "url": "https://open.spotify.com/album/6rDVa1SZO58Buy77LW1X4R"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 232517,
-      "name": "Spiral - 2026 Remix",
-      "url": "https://open.spotify.com/track/7wp6tnKFAIkJUj4yNjZkvN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black & Blue (2026 Repented)",
         "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
       },
@@ -95,18 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exit Wound",
-        "url": "https://open.spotify.com/album/6tH8sjW4wo7eDiZn1WZTG9"
+        "name": "Aurora (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/5TDltjAh03cwDinX4SXwnR"
       },
       "artists": [
         {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 278231,
-      "name": "Exit Wound",
-      "url": "https://open.spotify.com/track/46PCeG1vUqW2TxTJuJsenw"
+      "duration_ms": 374186,
+      "name": "Ariadne",
+      "url": "https://open.spotify.com/track/5URviaygae7qWBkehczy9L"
     },
     {
       "added_at": null,
@@ -131,38 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/5TDltjAh03cwDinX4SXwnR"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 374186,
-      "name": "Ariadne",
-      "url": "https://open.spotify.com/track/5URviaygae7qWBkehczy9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Shadow of Your Shadow",
-        "url": "https://open.spotify.com/album/7maRboTeK5m6gS1l7tkor3"
-      },
-      "artists": [
-        {
-          "name": "Cult Of Luna",
-          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
-        }
-      ],
-      "duration_ms": 454139,
-      "name": "In the Shadow of Your Shadow",
-      "url": "https://open.spotify.com/track/2H0u9n6xdVlwajuJ8a5IZx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CYKA",
         "url": "https://open.spotify.com/album/1euIZzjPzukDjGM63Oal9Q"
       },
@@ -175,46 +159,6 @@
       "duration_ms": 153840,
       "name": "GODS LEFT",
       "url": "https://open.spotify.com/track/1fPpjfV2kdKcxcIOa6djCt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Faith-94 (Eschreamer Mix) [2025 Remaster]",
-        "url": "https://open.spotify.com/album/2TPEOMmSvKHfonJIdqjA8b"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        },
-        {
-          "name": "Eschreamer",
-          "url": "https://open.spotify.com/artist/7KDUSgRrKT96tlb64qyk9F"
-        }
-      ],
-      "duration_ms": 479066,
-      "name": "True Faith-94 (Eschreamer Mix) - 2025 Remaster",
-      "url": "https://open.spotify.com/track/6aPktk2lEptxDw9acsWVKj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comfortably Numb Re-Imagined",
-        "url": "https://open.spotify.com/album/4z9tjscGnpJVbM1PWWdAfS"
-      },
-      "artists": [
-        {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
-        },
-        {
-          "name": "Mona Miari",
-          "url": "https://open.spotify.com/artist/1JH2sLIT5livO6UFkvGFRW"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Comfortably Numb Re-Imagined - Radio Edit",
-      "url": "https://open.spotify.com/track/67iNz0toHfYmEl1lQ6E5Hg"
     },
     {
       "added_at": null,
@@ -239,6 +183,62 @@
       "duration_ms": 210249,
       "name": "Free to Love - Harrison Remix",
       "url": "https://open.spotify.com/track/5cS3rCcqTbw5rOJNJeiiDF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Faith-94 (Eschreamer Mix) [2025 Remaster]",
+        "url": "https://open.spotify.com/album/2TPEOMmSvKHfonJIdqjA8b"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        },
+        {
+          "name": "Eschreamer",
+          "url": "https://open.spotify.com/artist/7KDUSgRrKT96tlb64qyk9F"
+        }
+      ],
+      "duration_ms": 479066,
+      "name": "True Faith-94 (Eschreamer Mix) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/6aPktk2lEptxDw9acsWVKj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Shadow of Your Shadow",
+        "url": "https://open.spotify.com/album/7maRboTeK5m6gS1l7tkor3"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        }
+      ],
+      "duration_ms": 454139,
+      "name": "In the Shadow of Your Shadow",
+      "url": "https://open.spotify.com/track/2H0u9n6xdVlwajuJ8a5IZx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comfortably Numb Re-Imagined",
+        "url": "https://open.spotify.com/album/4z9tjscGnpJVbM1PWWdAfS"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        },
+        {
+          "name": "Mona Miari",
+          "url": "https://open.spotify.com/artist/1JH2sLIT5livO6UFkvGFRW"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Comfortably Numb Re-Imagined - Radio Edit",
+      "url": "https://open.spotify.com/track/67iNz0toHfYmEl1lQ6E5Hg"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
       "duration_ms": 244514,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/4M6ANvA5oyv0cVevE8APjN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dollar Bill",
+        "url": "https://open.spotify.com/album/6TvyUhhJLXq6ye3Gkc5TNi"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Dollar Bill",
+      "url": "https://open.spotify.com/track/2sLeS5vOP2tl2TbF37FaLD"
     },
     {
       "added_at": null,
@@ -339,22 +355,6 @@
       "duration_ms": 209901,
       "name": "Rocket (from \"Dr. Stone Science Future\") - Spanish Version",
       "url": "https://open.spotify.com/track/0XarlODHwGeElMYEQhyBSW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dollar Bill",
-        "url": "https://open.spotify.com/album/6TvyUhhJLXq6ye3Gkc5TNi"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Dollar Bill",
-      "url": "https://open.spotify.com/track/2sLeS5vOP2tl2TbF37FaLD"
     },
     {
       "added_at": null,
@@ -423,38 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cross Your Heart",
-        "url": "https://open.spotify.com/album/5k3huOLeOfUYPVPCmxgnCh"
-      },
-      "artists": [
-        {
-          "name": "Moonspell",
-          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Cross Your Heart",
-      "url": "https://open.spotify.com/track/399Zwep95idEtdvUvLI1z8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grand Serpent Rising",
-        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 270258,
-      "name": "The Qryptfarer",
-      "url": "https://open.spotify.com/track/1XJjX7VxKt5HIUt3zqViWl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virus Remixes x Mariano Mellino",
         "url": "https://open.spotify.com/album/0ZHF3KTosZVK9GeafFtTDO"
       },
@@ -475,38 +443,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schwarzer Engel",
-        "url": "https://open.spotify.com/album/47tf2ax3Ydqsy4xnBEkvHx"
+        "name": "Cross Your Heart",
+        "url": "https://open.spotify.com/album/5k3huOLeOfUYPVPCmxgnCh"
       },
       "artists": [
         {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+          "name": "Moonspell",
+          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
         }
       ],
-      "duration_ms": 203440,
-      "name": "Schwarzer Engel",
-      "url": "https://open.spotify.com/track/5RGrCElLWilhDedU13w54i"
+      "duration_ms": 288146,
+      "name": "Cross Your Heart",
+      "url": "https://open.spotify.com/track/399Zwep95idEtdvUvLI1z8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "CYKA",
-        "url": "https://open.spotify.com/album/1euIZzjPzukDjGM63Oal9Q"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
       },
       "artists": [
         {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        },
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 188053,
-      "name": "CANDY DOPAMINE",
-      "url": "https://open.spotify.com/track/5P1yityyf84Xrr0f9iL451"
+      "duration_ms": 199696,
+      "name": "Tell Me When You've Had Enough",
+      "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grand Serpent Rising",
+        "url": "https://open.spotify.com/album/5vO7AYAWlgTAKVMoHs0Bpt"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 270258,
+      "name": "The Qryptfarer",
+      "url": "https://open.spotify.com/track/1XJjX7VxKt5HIUt3zqViWl"
     },
     {
       "added_at": null,
@@ -535,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfDemocracia?",
-        "url": "https://open.spotify.com/album/1sXUCwzPaMpScDSbttkCog"
+        "name": "CYKA",
+        "url": "https://open.spotify.com/album/1euIZzjPzukDjGM63Oal9Q"
       },
       "artists": [
         {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        },
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 129214,
-      "name": "Me Apestan",
-      "url": "https://open.spotify.com/track/32HOzZ3fTYuAcLk9T671LQ"
+      "duration_ms": 188053,
+      "name": "CANDY DOPAMINE",
+      "url": "https://open.spotify.com/track/5P1yityyf84Xrr0f9iL451"
     },
     {
       "added_at": null,
@@ -571,18 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colours",
-        "url": "https://open.spotify.com/album/5I7toiWQNbRoKWnXS2IbLe"
+        "name": "Schwarzer Engel",
+        "url": "https://open.spotify.com/album/47tf2ax3Ydqsy4xnBEkvHx"
       },
       "artists": [
         {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/4YFNCDfkYNfML4lxmG5COc"
+      "duration_ms": 203440,
+      "name": "Schwarzer Engel",
+      "url": "https://open.spotify.com/track/5RGrCElLWilhDedU13w54i"
     },
     {
       "added_at": null,
@@ -603,134 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starless",
-        "url": "https://open.spotify.com/album/2EmcHkFMRu0PS6viXk90Jd"
+        "name": "\u00bfDemocracia?",
+        "url": "https://open.spotify.com/album/1sXUCwzPaMpScDSbttkCog"
       },
       "artists": [
         {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
         }
       ],
-      "duration_ms": 272567,
-      "name": "Starless",
-      "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metalheart",
-        "url": "https://open.spotify.com/album/3rlrgmopYFDYlDa4We2UuP"
-      },
-      "artists": [
-        {
-          "name": "Nargaroth",
-          "url": "https://open.spotify.com/artist/0aIcU4OHpKl7lpcRQp32Eo"
-        }
-      ],
-      "duration_ms": 256897,
-      "name": "Metalheart",
-      "url": "https://open.spotify.com/track/6nbMktERxgnegcTWKQtpul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 199696,
-      "name": "Tell Me When You've Had Enough",
-      "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Camino De Solgo",
-        "url": "https://open.spotify.com/album/0kfXp9m25PGQsIfObVflk9"
-      },
-      "artists": [
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 195531,
-      "name": "Hasta El Fin",
-      "url": "https://open.spotify.com/track/0WADbEwXGIXEnVYAknGXf2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Love To Boogie (Take 4) (Overdub)",
-        "url": "https://open.spotify.com/album/0f1p1IuqO8VVhXE6ndvuWb"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 155053,
-      "name": "We Love To Boogie (Take 4) (Overdub)",
-      "url": "https://open.spotify.com/track/2DRiQThrGAg32eHMYozrAQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light Pollution",
-        "url": "https://open.spotify.com/album/0W9vuJkWVNLu5wyoXfmBG0"
-      },
-      "artists": [
-        {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
-        }
-      ],
-      "duration_ms": 595746,
-      "name": "Light Pollution",
-      "url": "https://open.spotify.com/track/04IRskU64H3yOCvkvxzcgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nancy Boy (RE:CREATED VERSION)",
-        "url": "https://open.spotify.com/album/1ReSN8RHAzS9Yne8vzEwmC"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Nancy Boy - RE:CREATED VERSION",
-      "url": "https://open.spotify.com/track/17IQNAFccW7yC8EvWZXyib"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinatra The Musical: His Way - The Originals",
-        "url": "https://open.spotify.com/album/5YEThML8feFJpk0c4KDgW7"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Theme From New York, New York - 2008 Remastered",
-      "url": "https://open.spotify.com/track/35rcZ5V1lwIXUTFAZAuBpE"
+      "duration_ms": 129214,
+      "name": "Me Apestan",
+      "url": "https://open.spotify.com/track/32HOzZ3fTYuAcLk9T671LQ"
     },
     {
       "added_at": null,
@@ -755,18 +623,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shed",
-        "url": "https://open.spotify.com/album/2uGMuXGdTAn5AcTv6bmMyr"
+        "name": "We Love To Boogie (Take 4) (Overdub)",
+        "url": "https://open.spotify.com/album/0f1p1IuqO8VVhXE6ndvuWb"
       },
       "artists": [
         {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 214386,
-      "name": "Shed",
-      "url": "https://open.spotify.com/track/25Ko4HidXVJ7UDiLIGygof"
+      "duration_ms": 155053,
+      "name": "We Love To Boogie (Take 4) (Overdub)",
+      "url": "https://open.spotify.com/track/2DRiQThrGAg32eHMYozrAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/5I7toiWQNbRoKWnXS2IbLe"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/4YFNCDfkYNfML4lxmG5COc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra The Musical: His Way - The Originals",
+        "url": "https://open.spotify.com/album/5YEThML8feFJpk0c4KDgW7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Theme From New York, New York - 2008 Remastered",
+      "url": "https://open.spotify.com/track/35rcZ5V1lwIXUTFAZAuBpE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Camino De Solgo",
+        "url": "https://open.spotify.com/album/0kfXp9m25PGQsIfObVflk9"
+      },
+      "artists": [
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 195531,
+      "name": "Hasta El Fin",
+      "url": "https://open.spotify.com/track/0WADbEwXGIXEnVYAknGXf2"
     },
     {
       "added_at": null,
@@ -791,22 +711,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ale y Jorge",
-        "url": "https://open.spotify.com/album/7zb9sinj9BiroZKNso7IHG"
+        "name": "Starless",
+        "url": "https://open.spotify.com/album/2EmcHkFMRu0PS6viXk90Jd"
       },
       "artists": [
         {
-          "name": "Jorge Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG"
-        },
-        {
-          "name": "Alejandra Tapia",
-          "url": "https://open.spotify.com/artist/3ZjLEEQW4N7mXHbzfo7DDS"
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
         }
       ],
-      "duration_ms": 184000,
-      "name": "En puntillas tras de ti",
-      "url": "https://open.spotify.com/track/1W5rVxwo98IrgCMa7Mmb41"
+      "duration_ms": 272567,
+      "name": "Starless",
+      "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nancy Boy (RE:CREATED VERSION)",
+        "url": "https://open.spotify.com/album/1ReSN8RHAzS9Yne8vzEwmC"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "Nancy Boy - RE:CREATED VERSION",
+      "url": "https://open.spotify.com/track/17IQNAFccW7yC8EvWZXyib"
     },
     {
       "added_at": null,
@@ -831,70 +763,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es brennt... (Doomfire Version by Greg Mackintosh of Paradise Lost)",
-        "url": "https://open.spotify.com/album/7nBNBUMcluVC8kF0KQjV5Q"
+        "name": "Metalheart",
+        "url": "https://open.spotify.com/album/3rlrgmopYFDYlDa4We2UuP"
       },
       "artists": [
         {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+          "name": "Nargaroth",
+          "url": "https://open.spotify.com/artist/0aIcU4OHpKl7lpcRQp32Eo"
+        }
+      ],
+      "duration_ms": 256897,
+      "name": "Metalheart",
+      "url": "https://open.spotify.com/track/6nbMktERxgnegcTWKQtpul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ale y Jorge",
+        "url": "https://open.spotify.com/album/7zb9sinj9BiroZKNso7IHG"
+      },
+      "artists": [
+        {
+          "name": "Jorge Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG"
         },
         {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+          "name": "Alejandra Tapia",
+          "url": "https://open.spotify.com/artist/3ZjLEEQW4N7mXHbzfo7DDS"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Es brennt... - Doomfire Version by Greg Mackintosh of Paradise Lost",
-      "url": "https://open.spotify.com/track/1r94Dw2WMU8jHKxBj1m023"
+      "duration_ms": 184000,
+      "name": "Alejandra",
+      "url": "https://open.spotify.com/track/3dGkOQk5Ac81hpd03M7egy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "THE DARK",
-        "url": "https://open.spotify.com/album/32OGQPo0RhXL413nb90kU2"
+        "name": "Light Pollution",
+        "url": "https://open.spotify.com/album/0W9vuJkWVNLu5wyoXfmBG0"
       },
       "artists": [
         {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
         }
       ],
-      "duration_ms": 226987,
-      "name": "THE DARK",
-      "url": "https://open.spotify.com/track/2DaL7tD1NdsuoOJtOwW6tc"
+      "duration_ms": 595746,
+      "name": "Light Pollution",
+      "url": "https://open.spotify.com/track/04IRskU64H3yOCvkvxzcgJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
-        "url": "https://open.spotify.com/album/1lrzPbU9Tb3BL1Rr1ovQa6"
+        "name": "Shed",
+        "url": "https://open.spotify.com/album/2uGMuXGdTAn5AcTv6bmMyr"
       },
       "artists": [
         {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
         }
       ],
-      "duration_ms": 249266,
-      "name": "\u6c50\u5165\u30ca\u30a4\u30c8\u30d5\u30a9\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/0U2gnhgXSoLhp8KNSbc1zl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MALACARA",
-        "url": "https://open.spotify.com/album/7LvtUitIPPgxc2TWkoAUmz"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "MALACARA",
-      "url": "https://open.spotify.com/track/5EEfCt0cOkKG5a9JaUcX7X"
+      "duration_ms": 214386,
+      "name": "Shed",
+      "url": "https://open.spotify.com/track/25Ko4HidXVJ7UDiLIGygof"
     },
     {
       "added_at": null,
@@ -915,50 +847,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Villanos",
-        "url": "https://open.spotify.com/album/6FZBP5IekKIgCRKL7lnNdN"
+        "name": "MALACARA",
+        "url": "https://open.spotify.com/album/7LvtUitIPPgxc2TWkoAUmz"
       },
       "artists": [
         {
-          "name": "Cevlade",
-          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        },
-        {
-          "name": "Claudio Bastardo",
-          "url": "https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx"
-        },
-        {
-          "name": "Mr Kallejero",
-          "url": "https://open.spotify.com/artist/7nYQmCUBv268sD35UERAzj"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 97721,
-      "name": "Villanos",
-      "url": "https://open.spotify.com/track/4cAVPMLXIlzVGdJBZtrtcO"
+      "duration_ms": 164826,
+      "name": "MALACARA",
+      "url": "https://open.spotify.com/track/5EEfCt0cOkKG5a9JaUcX7X"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mil Cabezas (En Vivo)",
-        "url": "https://open.spotify.com/album/7CuhiN1qE6pOoEgP7rTKYl"
+        "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
+        "url": "https://open.spotify.com/album/1lrzPbU9Tb3BL1Rr1ovQa6"
       },
       "artists": [
         {
-          "name": "Carlos Cabezas",
-          "url": "https://open.spotify.com/artist/64qyErWq0ieALSFbxDpScT"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
         }
       ],
-      "duration_ms": 246344,
-      "name": "Dos mil canciones - En Vivo",
-      "url": "https://open.spotify.com/track/4MqkeZfK8VH1eyVuX2ZowW"
+      "duration_ms": 249266,
+      "name": "\u6c50\u5165\u30ca\u30a4\u30c8\u30d5\u30a9\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/0U2gnhgXSoLhp8KNSbc1zl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es brennt... (Doomfire Version by Greg Mackintosh of Paradise Lost)",
+        "url": "https://open.spotify.com/album/7nBNBUMcluVC8kF0KQjV5Q"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        },
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Es brennt... - Doomfire Version by Greg Mackintosh of Paradise Lost",
+      "url": "https://open.spotify.com/track/1r94Dw2WMU8jHKxBj1m023"
     },
     {
       "added_at": null,
@@ -987,6 +923,26 @@
       "duration_ms": 223529,
       "name": "Mil Recuerdos",
       "url": "https://open.spotify.com/track/4oBJC51MOlkVEDZSjVvBpU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Cabezas (En Vivo)",
+        "url": "https://open.spotify.com/album/7CuhiN1qE6pOoEgP7rTKYl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cabezas",
+          "url": "https://open.spotify.com/artist/64qyErWq0ieALSFbxDpScT"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 246344,
+      "name": "Dos mil canciones - En Vivo",
+      "url": "https://open.spotify.com/track/4MqkeZfK8VH1eyVuX2ZowW"
     },
     {
       "added_at": null,
@@ -1035,54 +991,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Might as Well Be Strangers (ft. Wednesday)",
-        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
+        "name": "Villanos",
+        "url": "https://open.spotify.com/album/6FZBP5IekKIgCRKL7lnNdN"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
         },
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        },
+        {
+          "name": "Claudio Bastardo",
+          "url": "https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx"
+        },
+        {
+          "name": "Mr Kallejero",
+          "url": "https://open.spotify.com/artist/7nYQmCUBv268sD35UERAzj"
         }
       ],
-      "duration_ms": 214346,
-      "name": "We Might as Well Be Strangers (ft. Wednesday)",
-      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
+      "duration_ms": 97721,
+      "name": "Villanos",
+      "url": "https://open.spotify.com/track/4cAVPMLXIlzVGdJBZtrtcO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "American Girl (2026 Mix - Extended Version)",
-        "url": "https://open.spotify.com/album/2UTK5FPKmBFD8g0ggwkaTb"
+        "name": "THE DARK",
+        "url": "https://open.spotify.com/album/32OGQPo0RhXL413nb90kU2"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
         }
       ],
-      "duration_ms": 239106,
-      "name": "American Girl - 2026 Mix - Extended Version",
-      "url": "https://open.spotify.com/track/7qbC0IzRSOvC7SsY65mtF6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Power Rangers Theme Songs, Pt. 1",
-        "url": "https://open.spotify.com/album/6q2dDfUXYvMDUkaatjvF2D"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 132801,
-      "name": "Power Rangers S.P.D.",
-      "url": "https://open.spotify.com/track/3F4LSYdWTnz5cc1SgYwv7h"
+      "duration_ms": 226987,
+      "name": "THE DARK",
+      "url": "https://open.spotify.com/track/2DaL7tD1NdsuoOJtOwW6tc"
     },
     {
       "added_at": null,
@@ -1107,22 +1055,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fairy Spark in the Night",
-        "url": "https://open.spotify.com/album/5FwbY1pN5Y9KfE6jAvfnSS"
+        "name": "American Girl (2026 Mix - Extended Version)",
+        "url": "https://open.spotify.com/album/2UTK5FPKmBFD8g0ggwkaTb"
       },
       "artists": [
         {
-          "name": "Gary Stadler",
-          "url": "https://open.spotify.com/artist/3bR26OG0nJ6u3k1lkd4RWO"
-        },
-        {
-          "name": "Ffion Elisa",
-          "url": "https://open.spotify.com/artist/484xsAPWxxJRyDuYzz3WqG"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 222656,
-      "name": "Fairy Spark in the Night",
-      "url": "https://open.spotify.com/track/4BNVDJ8YoWGxeNzQfwGNyL"
+      "duration_ms": 239106,
+      "name": "American Girl - 2026 Mix - Extended Version",
+      "url": "https://open.spotify.com/track/7qbC0IzRSOvC7SsY65mtF6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Might as Well Be Strangers (ft. Wednesday)",
+        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "We Might as Well Be Strangers (ft. Wednesday)",
+      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Power Rangers Theme Songs, Pt. 1",
+        "url": "https://open.spotify.com/album/6q2dDfUXYvMDUkaatjvF2D"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 126828,
+      "name": "Power Rangers Turbo",
+      "url": "https://open.spotify.com/track/5WWk3eWxCXL5jivs9hWyFe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/4IjyIYp9dCLyee4XpNGK9x"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/0cavHxQCIaWD859Th2AXyc"
     },
     {
       "added_at": null,
@@ -1139,6 +1135,22 @@
       "duration_ms": 194225,
       "name": "Stone Over Water",
       "url": "https://open.spotify.com/track/0uZ0Ec6FkEwHGRhrtvcJAo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hard Lesson (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/4GqMaXf8qttXI2TaVvaB1r"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 402266,
+      "name": "A Hard Lesson - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/1VIIFuDKNKytU7am8QCsHo"
     },
     {
       "added_at": null,
@@ -1163,38 +1175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/4IjyIYp9dCLyee4XpNGK9x"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/0cavHxQCIaWD859Th2AXyc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Hard Lesson (Bright-Side Mix)",
-        "url": "https://open.spotify.com/album/4GqMaXf8qttXI2TaVvaB1r"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 402266,
-      "name": "A Hard Lesson - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/1VIIFuDKNKytU7am8QCsHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anenoa",
         "url": "https://open.spotify.com/album/5AAUBxhjnkc6ezrx6QziHY"
       },
@@ -1215,6 +1195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fairy Spark in the Night",
+        "url": "https://open.spotify.com/album/5FwbY1pN5Y9KfE6jAvfnSS"
+      },
+      "artists": [
+        {
+          "name": "Gary Stadler",
+          "url": "https://open.spotify.com/artist/3bR26OG0nJ6u3k1lkd4RWO"
+        },
+        {
+          "name": "Ffion Elisa",
+          "url": "https://open.spotify.com/artist/484xsAPWxxJRyDuYzz3WqG"
+        }
+      ],
+      "duration_ms": 222656,
+      "name": "Fairy Spark in the Night",
+      "url": "https://open.spotify.com/track/4BNVDJ8YoWGxeNzQfwGNyL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Boys of Dungeon Lane",
         "url": "https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM"
       },
@@ -1227,6 +1227,26 @@
       "duration_ms": 193270,
       "name": "Come Inside",
       "url": "https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pueblo Salvaje I",
+        "url": "https://open.spotify.com/album/3fZEI7J4il33xVIddfYL7O"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 213723,
+      "name": "Gente Corriente",
+      "url": "https://open.spotify.com/track/6EwCPztIC0yDruXtxPo575"
     },
     {
       "added_at": null,
@@ -1259,26 +1279,6 @@
       "duration_ms": 208542,
       "name": "Promise Me - 09 | 26",
       "url": "https://open.spotify.com/track/4lmYbOkYADhQPBJVX2SoGU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pueblo Salvaje I",
-        "url": "https://open.spotify.com/album/3fZEI7J4il33xVIddfYL7O"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 213723,
-      "name": "Gente Corriente",
-      "url": "https://open.spotify.com/track/6EwCPztIC0yDruXtxPo575"
     },
     {
       "added_at": null,

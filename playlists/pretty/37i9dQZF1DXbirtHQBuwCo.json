@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: JAY B)",
-  "num_followers": 1097844,
+  "num_followers": 1097757,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+        "name": "INVITATION (Feat. Gaeko)",
+        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Killin\u2019 Me Good",
-      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+      "duration_ms": 191359,
+      "name": "INVITATION (Feat. Gaeko)",
+      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -567,22 +571,18 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "INVITATION (Feat. Gaeko)",
-        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
         }
       ],
-      "duration_ms": 191359,
-      "name": "INVITATION (Feat. Gaeko)",
-      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "Peaches - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 198080,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
         "name": "Hello, World - The 4th Mini Album",
         "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 195946,
       "name": "Pineapple Slice",
       "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
+        "name": "Peaches - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "duration_ms": 198080,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
+    },
+    {
+      "added_at": "2026-06-11 07:43:54",
+      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2026-06-11 07:43:54",
       "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+        "name": "COME CLOSER",
+        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
         }
       ],
-      "duration_ms": 205293,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
+      "duration_ms": 163000,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
     },
     {
       "added_at": "2026-06-11 07:43:54",
@@ -1319,22 +1335,6 @@
       "duration_ms": 215000,
       "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
       "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
-    },
-    {
-      "added_at": "2026-06-11 07:43:54",
-      "album": {
-        "name": "COME CLOSER",
-        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
-      },
-      "artists": [
-        {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Come Closer",
-      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
     },
     {
       "added_at": "2026-06-11 07:43:54",

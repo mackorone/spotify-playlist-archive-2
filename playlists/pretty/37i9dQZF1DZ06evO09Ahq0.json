@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 551269,
+  "num_followers": 551344,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAACh8AI/sz2e8p2Rz6nrDbKs",
+  "snapshot_id": "ajCSAAAAAAD9WfmxS4eTvmgvtXYrQNeR",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 289626,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/5i1oSgQgD64N3uj1Jkp4OO"
+      "duration_ms": 351581,
+      "name": "Dancing Dead",
+      "url": "https://open.spotify.com/track/42oDn8qC9g7DAAwjR3MAQt"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 351581,
-      "name": "Dancing Dead",
-      "url": "https://open.spotify.com/track/42oDn8qC9g7DAAwjR3MAQt"
+      "duration_ms": 289626,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/5i1oSgQgD64N3uj1Jkp4OO"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
       "duration_ms": 302400,
       "name": "St. James",
       "url": "https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CANDY DOPAMINE",
-        "url": "https://open.spotify.com/album/1O0ioUh8VAINx6kBd8DWQ2"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        },
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "CANDY DOPAMINE",
-      "url": "https://open.spotify.com/track/6CJXVlZ1kApaGVH5vMyQQ8"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 807370,
+  "num_followers": 807413,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAABEo6y8G0pnEWUBKSXMMPgG",
+  "snapshot_id": "ajCSAAAAAAC+jXeT9/RgNJ38m0oK+JLr",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everytime (BBC Radio 1 Live Lounge)",
+        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 181583,
+      "name": "Everytime - BBC Radio 1 Live Lounge",
+      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rush (feat. Jessie Reyez)",
         "url": "https://open.spotify.com/album/5uwgv6t86N0WpA0IxtFkFn"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 198351,
       "name": "Rush (feat. Jessie Reyez)",
       "url": "https://open.spotify.com/track/7tTRP2vA00uScZ4SjB3ZQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everytime (BBC Radio 1 Live Lounge)",
-        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 181583,
-      "name": "Everytime - BBC Radio 1 Live Lounge",
-      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
     },
     {
       "added_at": null,

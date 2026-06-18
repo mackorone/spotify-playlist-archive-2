@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22496,
+  "num_followers": 22495,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ai9AgAAAAAD0yGQaZOU1S4IW/hUaW296",
+  "snapshot_id": "ajCSAAAAAACcjuLMByHTZKBQvWLJGyQt",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Church (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 228117,
+      "name": "Church (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -107,26 +127,6 @@
       "duration_ms": 190663,
       "name": "Sk8 (with Ciara & EARTHGANG)",
       "url": "https://open.spotify.com/track/0gTzUSGlZvhrSz72OnBijn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Church (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 228117,
-      "name": "Church (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u"
     },
     {
       "added_at": null,
@@ -411,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Been A Minute...",
-        "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 189947,
-      "name": "Been A Minute...",
-      "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here For Now",
         "url": "https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 167480,
       "name": "Big Love (with EARTHGANG & MNDR)",
       "url": "https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Been A Minute...",
+        "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 189947,
+      "name": "Been A Minute...",
+      "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 410733,
-      "name": "Opium (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 204000,
       "name": "LORD FORGIVE ME",
       "url": "https://open.spotify.com/track/10dSPiyXAM0Z1oJXRMqIn9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 410733,
+      "name": "Opium (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
     },
     {
       "added_at": null,
@@ -783,26 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
+        "name": "No Fear No More (Remix)",
+        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "sadMONTH",
-          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
         }
       ],
-      "duration_ms": 180932,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
+      "duration_ms": 174682,
+      "name": "No Fear No More (Remix)",
+      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
     },
     {
       "added_at": null,
@@ -823,22 +819,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fear No More (Remix)",
-        "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4pk7YMCVSEuPsBnNdZMhqI"
       },
       "artists": [
         {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         },
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "sadMONTH",
+          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
         }
       ],
-      "duration_ms": 174682,
-      "name": "No Fear No More (Remix)",
-      "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
+      "duration_ms": 180932,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/7gN4lZ4bmRWbxOcI1SHVob"
     },
     {
       "added_at": null,

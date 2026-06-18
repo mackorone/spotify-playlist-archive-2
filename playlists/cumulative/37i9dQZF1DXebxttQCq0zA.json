@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A New Thought",
+        "url": "https://open.spotify.com/album/0j54C55YZUAw9bjYGcBn2g"
+      },
+      "artists": [
+        {
+          "name": "Map Of My Mind",
+          "url": "https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "A New Thought",
+      "url": "https://open.spotify.com/track/441Cz5TOXmznytPLOU0OpJ"
+    },
+    {
+      "album": {
         "name": "A Soft Echo",
         "url": "https://open.spotify.com/album/38a7MUTk2Rl9Za9HlGAB1O"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 172329,
       "name": "Abstract",
       "url": "https://open.spotify.com/track/2atYdA1mqxutdbwdP8ebK3"
@@ -690,6 +708,24 @@
       "duration_ms": 182647,
       "name": "Amethyst",
       "url": "https://open.spotify.com/track/3d1399HgDr0DSrnmd2EUIx"
+    },
+    {
+      "album": {
+        "name": "Amoenus",
+        "url": "https://open.spotify.com/album/7MqPZ7OMzOLXWUfJbNznEP"
+      },
+      "artists": [
+        {
+          "name": "Ex Nocte",
+          "url": "https://open.spotify.com/artist/5AjF2OTpEFbeNTgy4cqpnW"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157147,
+      "name": "Amoenus",
+      "url": "https://open.spotify.com/track/0i3qOBmmyLuvIAGokmojii"
     },
     {
       "album": {
@@ -5667,6 +5703,24 @@
     },
     {
       "album": {
+        "name": "In the Light of the First Full Moon",
+        "url": "https://open.spotify.com/album/2wggMr6dZEkzCLSVYGpM7m"
+      },
+      "artists": [
+        {
+          "name": "Kai Stellar",
+          "url": "https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "In the Light of the First Full Moon",
+      "url": "https://open.spotify.com/track/6xzUBuqwcUCYfoW1Y0ElaW"
+    },
+    {
+      "album": {
         "name": "In Warmth",
         "url": "https://open.spotify.com/album/6Mgqs0QSsWG6j6jXC5MuNm"
       },
@@ -5876,7 +5930,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 131624,
       "name": "Internal Calm",
       "url": "https://open.spotify.com/track/76s1ovipCRhv8T4JhcHDgI"
@@ -5952,6 +6006,24 @@
       "duration_ms": 148794,
       "name": "Into the Peace",
       "url": "https://open.spotify.com/track/6rJskG5NR6Fq07Ma099nyu"
+    },
+    {
+      "album": {
+        "name": "Introspective",
+        "url": "https://open.spotify.com/album/2ztsFLfco6hLSskRWM92wo"
+      },
+      "artists": [
+        {
+          "name": "Long Lake",
+          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Introspective",
+      "url": "https://open.spotify.com/track/44ZDkrGJzbu7VcbNq3qzPd"
     },
     {
       "album": {
@@ -6405,6 +6477,24 @@
     },
     {
       "album": {
+        "name": "Lucent Calm",
+        "url": "https://open.spotify.com/album/0NsszANleiE6bzi09tjJ4J"
+      },
+      "artists": [
+        {
+          "name": "Phase Quiet",
+          "url": "https://open.spotify.com/artist/4nGXChdq7ggYhLNnqP10Ma"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Lucent Calm",
+      "url": "https://open.spotify.com/track/3AVyhHZshmqu53oCcqXV4Z"
+    },
+    {
+      "album": {
         "name": "Lugnet",
         "url": "https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ"
       },
@@ -6758,7 +6848,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 135849,
       "name": "Meraviglia",
       "url": "https://open.spotify.com/track/2kFFXBecnG9gw75PHSSrdf"
@@ -7694,7 +7784,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 124000,
       "name": "Nightlong",
       "url": "https://open.spotify.com/track/4cpEWhZhfWy9nFBg5Xggao"
@@ -7910,7 +8000,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 146033,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/5txXnz3ogokxbfkmi6Xkaf"
@@ -8954,7 +9044,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 141290,
       "name": "Quiet Alignment",
       "url": "https://open.spotify.com/track/7LiXbJSQ9ZLQjJ13I50NSD"
@@ -8976,6 +9066,24 @@
       "duration_ms": 170400,
       "name": "Quiet Depth",
       "url": "https://open.spotify.com/track/32vaYnGhxbD6p96LnysWH0"
+    },
+    {
+      "album": {
+        "name": "Quiet Memory",
+        "url": "https://open.spotify.com/album/4igELVORx2rvXlHm7vPXg2"
+      },
+      "artists": [
+        {
+          "name": "Juliette Laveaux",
+          "url": "https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156066,
+      "name": "Quiet Memory",
+      "url": "https://open.spotify.com/track/2wesjzhC7IPRcvEmVjF87b"
     },
     {
       "album": {
@@ -9984,7 +10092,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-18",
       "duration_ms": 150000,
       "name": "Serene",
       "url": "https://open.spotify.com/track/4TQrUzjlx4AEeanWcb8UIt"
@@ -13016,6 +13124,24 @@
       "duration_ms": 212093,
       "name": "With Love",
       "url": "https://open.spotify.com/track/5tRmokUTGQNwAYDJqJH8Eh"
+    },
+    {
+      "album": {
+        "name": "Woven Calm",
+        "url": "https://open.spotify.com/album/5iNYxEv776KSWwSNnHn5co"
+      },
+      "artists": [
+        {
+          "name": "Vestigency",
+          "url": "https://open.spotify.com/artist/7u5l7mW9E5nAgwRI2MnPZq"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Woven Calm",
+      "url": "https://open.spotify.com/track/746ANFnLLz8G9unhfIQYcD"
     },
     {
       "album": {

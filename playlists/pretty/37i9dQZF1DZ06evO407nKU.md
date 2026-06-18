@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,479 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,487 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 49 | [La Ley De La Atracción \- En Vivo](https://open.spotify.com/track/6uRlGVZQXEL2mVLMqFxtuT) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [En Vivo Desde Tijuana](https://open.spotify.com/album/2TORCuwBsbwYncckRQrM5N) | 2:14 |
 | 50 | [Besos En Guerra \(En Vivo\)](https://open.spotify.com/track/0J7MwBf1MWqAFVkb96kn5Q) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Hasta Que Se Apagó El Carbón...](https://open.spotify.com/album/51n0ozzAIBKpsXxTch4M50) | 3:31 |
 
-Snapshot ID: `ai9AgAAAAAAfkDE1xCxTPWY4KIxYnjpx`
+Snapshot ID: `ajCSAAAAAAD12seAnsae5A9xVkwvv9ra`

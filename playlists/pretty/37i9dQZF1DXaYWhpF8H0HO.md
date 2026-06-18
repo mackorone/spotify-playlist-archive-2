@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Ridh
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,498 likes - 92 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,501 likes - 92 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

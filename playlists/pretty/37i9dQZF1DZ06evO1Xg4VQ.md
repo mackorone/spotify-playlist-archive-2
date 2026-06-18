@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,832 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,837 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 27 | [Cambias Mi Mundo](https://open.spotify.com/track/5CS5LjHwR4Bk4Q4AihPhNE) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Cambias Mi Mundo](https://open.spotify.com/album/0GejtWfUyFdDzU73z7O9Gk) | 4:50 |
 | 28 | [Un Mundo Raro \(feat\. Diego El Cigala\)](https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Salón Lágrimas y Deseo](https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy) | 3:32 |
 | 29 | [El Olivo y el Maguey](https://open.spotify.com/track/5XCfGLSjdBm5icKlCEIwkP) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 2:16 |
-| 30 | [Cuando Me Tocas Tú](https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:35 |
-| 31 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
+| 30 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
+| 31 | [Cuando Me Tocas Tú](https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:35 |
 | 32 | [Los Caminos de la Vida](https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:25 |
-| 33 | [La Pesca](https://open.spotify.com/track/3SggDme3YbOnNDesbeZRMH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 4:16 |
+| 33 | [Amo\-Te](https://open.spotify.com/track/0AabcViZoMbsqugFY9Fo34) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 4:08 |
 | 34 | [Palomo Del Comalito](https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:08 |
 | 35 | [La Farsante \(with Juan Gabriel\)](https://open.spotify.com/track/6PtwPotNH129EOf0tEl26f) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:17 |
 | 36 | [La Campanera](https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:28 |
-| 37 | [Amo\-Te](https://open.spotify.com/track/0AabcViZoMbsqugFY9Fo34) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 4:08 |
+| 37 | [La Pesca](https://open.spotify.com/track/3SggDme3YbOnNDesbeZRMH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 4:16 |
 | 38 | [El Feo](https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Ken Basman](https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo) | [Border](https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc) | 3:27 |
 | 39 | [Cruz de Olvido](https://open.spotify.com/track/2rgVcA2yfMfo5LRN4pWRUS) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:49 |
 | 40 | [La San Marqueña](https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 49 | [El Relampago](https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 3:07 |
 | 50 | [En el último trago](https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [En El Último Trago](https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6) | 3:27 |
 
-Snapshot ID: `ai9AgAAAAACrgZy9Xp3Z/rFJQm+m2D8C`
+Snapshot ID: `ajCSAAAAAAAGNzb0a1tNAd4OD3V98jPe`
